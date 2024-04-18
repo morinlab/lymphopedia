@@ -1,4 +1,3 @@
-# [ACTB]
 
 ## Mutation tier
 
