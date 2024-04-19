@@ -1,1 +1,0 @@
-Suggestions and additions to lymphoma gene pages can be discussed here
