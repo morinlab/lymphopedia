@@ -1,1 +1,1 @@
-[EZH2](EZH2.md)
+[EZH2](EZH2)
