@@ -1,0 +1,31 @@
+# [MYD88]
+
+## Mutation tier
+
+|Entity|Tier|
+|------|----|
+|BL    |2   |
+|DLBCL |1   |
+|FL    |2   |
+
+## Mutation incidence
+
+|Entity|study                |frequency (%)|
+|------|---------------------|-------------|
+|BL    |GAMBL genomes+capture| 0.46        |
+|BL    |Thomas cohort        | 0.40        |
+|BL    |Panea cohort         | 1.00        |
+|DLBCL |GAMBL genomes        |12.90        |
+|DLBCL |Schmitz cohort       |26.40        |
+|DLBCL |Reddy cohort         |15.20        |
+|DLBCL |Chapuy cohort        |21.40        |
+|FL    |GAMBL genomes        | 1.85        |
+
+## Mutation pattern
+
+|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
+|------|----|---------------------|----------------|----------------|
+|BL    |No  |No                   | 1.809          |0               |
+|DLBCL |No  |Yes                  |56.390          |0               |
+|FL    |No  |No                   |17.159          |0               |
+

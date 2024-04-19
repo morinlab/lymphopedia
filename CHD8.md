@@ -1,0 +1,32 @@
+# [CHD8]
+
+## Mutation tier
+
+|Entity|Tier|
+|------|----|
+|BL    |1   |
+|DLBCL |2   |
+
+## Mutation incidence
+
+|Entity|study                |frequency (%)|
+|------|---------------------|-------------|
+|BL    |GAMBL genomes+capture| 8.78        |
+|BL    |Thomas cohort        | 8.50        |
+|BL    |Panea cohort         |16.80        |
+|DLBCL |GAMBL genomes        | 1.80        |
+|DLBCL |Schmitz cohort       | 3.60        |
+|DLBCL |Reddy cohort         | 2.90        |
+|DLBCL |Chapuy cohort        | 3.00        |
+
+## Mutation pattern
+
+|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
+|------|----|---------------------|----------------|----------------|
+|BL    |No  |Yes                  |3.551           |14.940          |
+|DLBCL |No  |No                   |1.619           | 0.000          |
+|FL    |No  |No                   |1.344           |12.679          |
+
+
+> [!NOTE]
+> First described in BL in 2023 by [Thomas N](https://pubmed.ncbi.nlm.nih.gov/36201743). First described in DLBCL in 2017 by [Reddy A](https://pubmed.ncbi.nlm.nih.gov/28985567)
