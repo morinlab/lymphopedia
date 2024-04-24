@@ -2,7 +2,6 @@
 | Gene | Details | Mutation frequency | Static view (Gene) | Static view (Protein) | Comment |
 | :---: | :---: | :---: | :---: | :---: | ---------- |
 | ARID1B | [gene page](ARID1B) | 5.16 | [view](images/proteinpaint/ARID1B.svg) | [view](images/proteinpaint/ARID1B_NM_017519.svg) |
-| TCL1A | [gene page](TCL1A) | 2.10 | [view](images/proteinpaint/TCL1A.svg) | [view](images/proteinpaint/TCL1A_NM_021966.svg) |
 | WAC | [gene page](WAC) | 2.68 | [view](images/proteinpaint/WAC.svg) | [view](images/proteinpaint/WAC_NM_016628.svg) |
 | WNK1 | [gene page](WNK1) | 4.59 | [view](images/proteinpaint/WNK1.svg) | [view](images/proteinpaint/WNK1_NM_018979.svg) |
 | ANKRD17 | [gene page](ANKRD17) | 2.68 | [view](images/proteinpaint/ANKRD17.svg) | [view](images/proteinpaint/ANKRD17_NM_032217.svg) |

@@ -135,6 +135,7 @@
 | STAT6 | [gene page](STAT6) | 5.74 | [view](images/proteinpaint/STAT6.svg) | [view](images/proteinpaint/STAT6_NM_003153.svg) |
 | TAF1 | [gene page](TAF1) | 4.78 | [view](images/proteinpaint/TAF1.svg) | [view](images/proteinpaint/TAF1_NM_004606.svg) |
 | TBL1XR1 | [gene page](TBL1XR1) | 8.60 | [view](images/proteinpaint/TBL1XR1.svg) | [view](images/proteinpaint/TBL1XR1_NM_024665.svg) |
+| TCL1A | [gene page](TCL1A) | 2.10 | [view](images/proteinpaint/TCL1A.svg) | [view](images/proteinpaint/TCL1A_NM_021966.svg) |
 | TET2 | [gene page](TET2) | 5.54 | [view](images/proteinpaint/TET2.svg) | [view](images/proteinpaint/TET2_NM_001127208.svg) |
 | TMEM30A | [gene page](TMEM30A) | 4.78 | [view](images/proteinpaint/TMEM30A.svg) | [view](images/proteinpaint/TMEM30A_NM_018247.svg) |
 | TMSB4X | [gene page](TMSB4X) | 12.43 | [view](images/proteinpaint/TMSB4X.svg) | [view](images/proteinpaint/TMSB4X_NM_021109.svg) |

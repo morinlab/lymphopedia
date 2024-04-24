@@ -4,8 +4,8 @@
 
 |Entity|Tier|Description                              |
 |:------:|:----:|-----------------------------------------|
-|BL    |2   |relevance in BL not firmly established   |
-|DLBCL |2   |relevance in DLBCL not firmly established|
+|BL    |1   |high-confidence BL gene   |
+|DLBCL |1   |high-confidence DLBCL gene|
 ## Mutation incidence
 
 |Entity|source               |frequency (%)|

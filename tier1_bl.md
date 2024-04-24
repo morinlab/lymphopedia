@@ -25,6 +25,7 @@
 | SIN3A | [gene page](SIN3A) | 11.09 | [view](images/proteinpaint/SIN3A.svg) | [view](images/proteinpaint/SIN3A_NM_001145358.svg) |
 | SMARCA4 | [gene page](SMARCA4) | 22.63 | [view](images/proteinpaint/SMARCA4.svg) | [view](images/proteinpaint/SMARCA4_NM_001128849.svg) |
 | TCF3 | [gene page](TCF3) | 11.55 | [view](images/proteinpaint/TCF3.svg) | [view](images/proteinpaint/TCF3_NM_003200.svg) |
+| TCL1A | [gene page](TCL1A) | 4.16 | [view](images/proteinpaint/TCL1A.svg) | [view](images/proteinpaint/TCL1A_NM_021966.svg) |
 | TFAP4 | [gene page](TFAP4) | 10.16 | [view](images/proteinpaint/TFAP4.svg) | [view](images/proteinpaint/TFAP4_NM_003223.svg) |
 | TP53 | [gene page](TP53) | 45.50 | [view](images/proteinpaint/TP53.svg) | [view](images/proteinpaint/TP53_NM_000546.svg) |
 | USP7 | [gene page](USP7) | 6.47 | [view](images/proteinpaint/USP7.svg) | [view](images/proteinpaint/USP7_NM_003470.svg) |
