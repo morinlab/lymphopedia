@@ -1,113 +1,113 @@
 # DLBCL genes, Tier 2
-| Gene | Frequency (GAMBL) | Comment |
-| ------ | ---------- | -- |
-| [ARID1B](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/ARID1B.md) | 5.16 | Should promote to Tier 1 |
-| [TCL1A](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/TCL1A.md) | 2.10 |Should promote to Tier 1 |
-| [WAC](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/WAC.md) | 2.68 | Consider promoting to Tier 1|
-| [WNK1](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/WNK1.md) | 4.59 | Consider promoting to Tier 1|
-| [ANKRD17](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/ANKRD17.md) | 2.68 | Consider promoting to Tier 1 |
-| [ADAMTS1](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/ADAMTS1.md) | 1.91 | | 
-| [ANKRD12](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/ANKRD12.md) | 2.29 |
-| [ARID5B](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/ARID5B.md) | 3.25 |
-| [ATR](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/ATR.md) | 2.68 |
-| [BRINP3](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/BRINP3.md) | 2.68 |
-| [BTBD3](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/BTBD3.md) | 0.57 |
-| [CADPS2](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/CADPS2.md) | 3.63 |
-| [CBLB](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/CBLB.md) | 1.72 |
-| [CCL4](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/CCL4.md) | 0.19 |
-| [CD22](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/CD22.md) | 1.15 |
-| [CDC73](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/CDC73.md) | 0.57 |
-| [CHD1](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/CHD1.md) | 2.10 |
-| [CHD8](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/CHD8.md) | 1.91 |
-| [CNOT2](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/CNOT2.md) | 1.34 |
-| [CHST2](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/CHST2.md) | 1.34 |
-| [COQ7](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/COQ7.md) | 0.38 |
-| [CRIP1](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/CRIP1.md) | 0.19 |
-| [DCAF6](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/DCAF6.md) | 1.15 |
-| [DDX10](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/DDX10.md) | 0.57 |
-| [DHX16](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/DHX16.md) | 1.91 |
-| [DICER1](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/DICER1.md) | 1.34 |
-| [DNMT3A](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/DNMT3A.md) | 0.76 |
-| [DNM2](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/DNM2.md) | 2.29 |
-| [DOCK1](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/DOCK1.md) | 3.82 |
-| [FOXP1](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/FOXP1.md) | 0.57 |
-| [FUBP1](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/FUBP1.md) | 2.10 |
-| [FUT5](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/FUT5.md) | 0.38 |
-| [GABRA2](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/GABRA2.md) | 1.15 |
-| [GAK](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/GAK.md) | 1.91 |
-| [GNAS](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/GNAS.md) | 2.29 |
-| [GOLGA5](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/GOLGA5.md) | 0.57 |
-| [GPC5](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/GPC5.md) | 1.34 |
-| [GSG2](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/GSG2.md) | 0.96 |
-| [HNF1B](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/HNF1B.md) | 0.19 |
-| [HRAS](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/HRAS.md) | 0.00 |
-| [ID3](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/ID3.md) | 1.53 |
-| [IGLL5](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/IGLL5.md) | 41.49 |
-| [IKBKB](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/IKBKB.md) | 0.57 |
-| [IKBKE](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/IKBKE.md) | 0.76 |
-| [IL6](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/IL6.md) | 0.38 |
-| [INO80](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/INO80.md) | 3.82 |
-| [IRF1](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/IRF1.md) | 2.29 |
-| [JAK1](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/JAK1.md) | 2.49 |
-| [JAK3](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/JAK3.md) | 1.34 |
-| [KCMF1](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/KCMF1.md) | 0.96 |
-| [KLHL21](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/KLHL21.md) | 3.82 |
-| [LAMA5](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/LAMA5.md) | 3.44 |
-| [LRP12](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/LRP12.md) | 2.49 |
-| [LIN54](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/LIN54.md) | 0.57 |
-| [MAGT1](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/MAGT1.md) | 1.53 |
-| [MAP2K1](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/MAP2K1.md) | 1.34 |
-| [MAP4K4](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/MAP4K4.md) | 1.15 |
-| [MARK1](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/MARK1.md) | 0.57 |
-| [MECOM](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/MECOM.md) | 2.10 |
-| [MET](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/MET.md) | 0.76 |
-| [MSH2](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/MSH2.md) | 1.72 |
-| [MSH6](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/MSH6.md) | 1.91 |
-| [MYB](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/MYB.md) | 0.57 |
-| [MYBPC2](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/MYBPC2.md) | 0.57 |
-| [NANOG](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/NANOG.md) | 0.00 |
-| [NAV1](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/NAV1.md) | 2.49 |
-| [NCOR1](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/NCOR1.md) | 2.10 |
-| [NF1](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/NF1.md) | 2.87 |
-| [NFKB2](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/NFKB2.md) | 1.53 |
-| [NLRP8](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/NLRP8.md) | 0.38 |
-| [N2RF2](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/N2RF2.md) | 0.00 |
-| [PAPOLG](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/PAPOLG.md) | 0.38 |
-| [PAX5](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/PAX5.md) | 3.63 |
-| [PCLO](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/PCLO.md) | 16.44 |
-| [PDE4DIP](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/PDE4DIP.md) | 0.00 |
-| [PHF6](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/PHF6.md) | 2.49 |
-| [PIK3CD](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/PIK3CD.md) | 3.82 |
-| [PIK3R1](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/PIK3R1.md) | 1.91 |
-| [PNPO](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/PNPO.md) | 0.38 |
-| [PRKCB](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/PRKCB.md) | 4.97 |
-| [PRPS1](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/PRPS1.md) | 0.76 |
-| [PTPN6](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/PTPN6.md) | 2.68 |
-| [PTPRK](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/PTPRK.md) | 4.21 |
-| [RAC2](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/RAC2.md) | 1.15 |
-| [RAD9A](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/RAD9A.md) | 0.19 |
-| [RARA](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/RARA.md) | 1.34 |
-| [RUNX1](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/RUNX1.md) | 0.96 |
-| [SETD2](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/SETD2.md) | 3.63 |
-| [SETD5](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/SETD5.md) | 2.49 |
-| [SIAH2](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/SIAH2.md) | 1.72 |
-| [SLC34A2](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/SLC34A2.md) | 0.76 |
-| [SMEK1](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/SMEK1.md) | 0.00 |
-| [STAT5B](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/STAT5B.md) | 0.57 |
-| [SYK](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/SYK.md) | 1.53 |
-| [TAP1](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/TAP1.md) | 0.57 |
-| [TGFBR2](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/TGFBR2.md) | 2.10 |
-| [TIPARP](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/TIPARP.md) | 0.19 |
-| [TLR2](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/TLR2.md) | 2.87 |
-| [TRAF3](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/TRAF3.md) | 0.96 |
-| [TRAF6](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/TRAF6.md) | 1.34 |
-| [UBR5](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/UBR5.md) | 3.63 |
-| [UNC5B](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/UNC5B.md) | 1.53 |
-| [XBP1](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/XBP1.md) | 1.15 |
-| [YY1](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/YY1.md) | 1.15 |
-| [ZBTB7A](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/ZBTB7A.md) | 1.72 |
-| [ZEB2](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/ZEB2.md) | 3.82 |
-| [ZFAT](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/ZFAT.md) | 1.34 |
-| [ZFX](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/ZFX.md) | 0.38 |
-| [ZNF423](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/ZNF423.md) | 1.91 |
-| [ZNF217](https://github.com/morinlab/ABCG/blob/main/genes/simple_somatic_mutation/ZNF217.md) | 2.10 |
+| Gene | Details | Mutation frequency | Static view (Gene) | Static view (Protein) |
+| :---: | :---: | :---: | :---: | :---: |
+| ARID1B | [gene page](ARID1B) | 5.16 | [view](images/proteinpaint/ARID1B.svg) | [view](images/proteinpaint/ARID1B_NM_017519.svg) |
+| TCL1A | [gene page](TCL1A) | 2.10 | [view](images/proteinpaint/TCL1A.svg) | [view](images/proteinpaint/TCL1A_NM_021966.svg) |
+| WAC | [gene page](WAC) | 2.68 | [view](images/proteinpaint/WAC.svg) | [view](images/proteinpaint/WAC_NM_016628.svg) |
+| WNK1 | [gene page](WNK1) | 4.59 | [view](images/proteinpaint/WNK1.svg) | [view](images/proteinpaint/WNK1_NM_018979.svg) |
+| ANKRD17 | [gene page](ANKRD17) | 2.68 | [view](images/proteinpaint/ANKRD17.svg) | [view](images/proteinpaint/ANKRD17_NM_032217.svg) |
+| ADAMTS1 | [gene page](ADAMTS1) | 1.91 | [LOAD](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ADAMTS1.html) | [LOAD](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ADAMTS1_protein.html) |
+| ANKRD12 | [gene page](ANKRD12) | 2.29 | [LOAD](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ANKRD12.html) | [LOAD](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ANKRD12_protein.html) |
+| ARID5B | [gene page](ARID5B) | 3.25 | [view](images/proteinpaint/ARID5B.svg) | [view](images/proteinpaint/ARID5B_NM_032199.svg) |
+| ATR | [gene page](ATR) | 2.68 | [view](images/proteinpaint/ATR.svg) | [view](images/proteinpaint/ATR_NM_001184.svg) |
+| BRINP3 | [gene page](BRINP3) | 2.68 | [view](images/proteinpaint/BRINP3.svg) | [view](images/proteinpaint/BRINP3_NM_199051.svg) |
+| BTBD3 | [gene page](BTBD3) | 0.57 | [view](images/proteinpaint/BTBD3.svg) | [view](images/proteinpaint/BTBD3_NM_014962.svg) |
+| CADPS2 | [gene page](CADPS2) | 3.63 | [LOAD](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CADPS2.html) | [LOAD](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CADPS2_protein.html) |
+| CBLB | [gene page](CBLB) | 1.72 | [view](images/proteinpaint/CBLB.svg) | [view](images/proteinpaint/CBLB_NM_170662.svg) |
+| CCL4 | [gene page](CCL4) | 0.19 | [view](images/proteinpaint/CCL4.svg) | [view](images/proteinpaint/CCL4_NM_002984.svg) |
+| CD22 | [gene page](CD22) | 1.15 | [view](images/proteinpaint/CD22.svg) | [view](images/proteinpaint/CD22_NM_001771.svg) |
+| CDC73 | [gene page](CDC73) | 0.57 | [view](images/proteinpaint/CDC73.svg) | [view](images/proteinpaint/CDC73_NM_024529.svg) |
+| CHD1 | [gene page](CHD1) | 2.10 | [view](images/proteinpaint/CHD1.svg) | [view](images/proteinpaint/CHD1_NM_001270.svg) |
+| CHD8 | [gene page](CHD8) | 1.91 | [view](images/proteinpaint/CHD8.svg) | [view](images/proteinpaint/CHD8_NM_001170629.svg) |
+| CNOT2 | [gene page](CNOT2) | 1.34 | [LOAD](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CNOT2.html) | [LOAD](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CNOT2_protein.html) |
+| CHST2 | [gene page](CHST2) | 1.34 | [view](images/proteinpaint/CHST2.svg) | [view](images/proteinpaint/CHST2_NM_004267.svg) |
+| COQ7 | [gene page](COQ7) | 0.38 | [view](images/proteinpaint/COQ7.svg) | [view](images/proteinpaint/COQ7_NM_016138.svg) |
+| CRIP1 | [gene page](CRIP1) | 0.19 | [view](images/proteinpaint/CRIP1.svg) | [view](images/proteinpaint/CRIP1_NM_001311.svg) |
+| DCAF6 | [gene page](DCAF6) | 1.15 | [view](images/proteinpaint/DCAF6.svg) | [view](images/proteinpaint/DCAF6_NM_018442.svg) |
+| DDX10 | [gene page](DDX10) | 0.57 | [view](images/proteinpaint/DDX10.svg) | [view](images/proteinpaint/DDX10_NM_004398.svg) |
+| DHX16 | [gene page](DHX16) | 1.91 | [LOAD](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/DHX16.html) | [LOAD](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/DHX16_protein.html) |
+| DICER1 | [gene page](DICER1) | 1.34 | [view](images/proteinpaint/DICER1.svg) | [view](images/proteinpaint/DICER1_NM_177438.svg) |
+| DNMT3A | [gene page](DNMT3A) | 0.76 | [view](images/proteinpaint/DNMT3A.svg) | [view](images/proteinpaint/DNMT3A_NM_175629.svg) |
+| DNM2 | [gene page](DNM2) | 2.29 | [LOAD](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/DNM2.html) | [LOAD](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/DNM2_protein.html) |
+| DOCK1 | [gene page](DOCK1) | 3.82 | [view](images/proteinpaint/DOCK1.svg) | [view](images/proteinpaint/DOCK1_NM_001380.svg) |
+| FOXP1 | [gene page](FOXP1) | 0.57 | [view](images/proteinpaint/FOXP1.svg) | [view](images/proteinpaint/FOXP1_NM_001349338.svg) |
+| FUBP1 | [gene page](FUBP1) | 2.10 | [view](images/proteinpaint/FUBP1.svg) | [view](images/proteinpaint/FUBP1_NM_003902.svg) |
+| FUT5 | [gene page](FUT5) | 0.38 | [view](images/proteinpaint/FUT5.svg) | [view](images/proteinpaint/FUT5_NM_002034.svg) |
+| GABRA2 | [gene page](GABRA2) | 1.15 | [view](images/proteinpaint/GABRA2.svg) | [view](images/proteinpaint/GABRA2_NM_000807.svg) |
+| GAK | [gene page](GAK) | 1.91 | [LOAD](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/GAK.html) | [LOAD](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/GAK_protein.html) |
+| GNAS | [gene page](GNAS) | 2.29 | [view](images/proteinpaint/GNAS.svg) | [view](images/proteinpaint/GNAS_NM_000516.svg) |
+| GOLGA5 | [gene page](GOLGA5) | 0.57 | [view](images/proteinpaint/GOLGA5.svg) | [view](images/proteinpaint/GOLGA5_NM_005113.svg) |
+| GPC5 | [gene page](GPC5) | 1.34 | [view](images/proteinpaint/GPC5.svg) | [view](images/proteinpaint/GPC5_NM_004466.svg) |
+| GSG2 | [gene page](GSG2) | 0.96 | [view](images/proteinpaint/GSG2.svg) | [LOAD](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/GSG2_protein.html) |
+| HNF1B | [gene page](HNF1B) | 0.19 | [view](images/proteinpaint/HNF1B.svg) | [view](images/proteinpaint/HNF1B_NM_000458.svg) |
+| HRAS | [gene page](HRAS) | 0.00 | [view](images/proteinpaint/HRAS.svg) | [view](images/proteinpaint/HRAS_NM_005343.svg) |
+| ID3 | [gene page](ID3) | 1.53 | [view](images/proteinpaint/ID3.svg) | [view](images/proteinpaint/ID3_NM_002167.svg) |
+| IGLL5 | [gene page](IGLL5) | 41.49 | [view](images/proteinpaint/IGLL5.svg) | [view](images/proteinpaint/IGLL5_NM_001178126.svg) |
+| IKBKB | [gene page](IKBKB) | 0.57 | [view](images/proteinpaint/IKBKB.svg) | [view](images/proteinpaint/IKBKB_NM_001556.svg) |
+| IKBKE | [gene page](IKBKE) | 0.76 | [LOAD](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/IKBKE.html) | [LOAD](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/IKBKE_protein.html) |
+| IL6 | [gene page](IL6) | 0.38 | [view](images/proteinpaint/IL6.svg) | [view](images/proteinpaint/IL6_NM_000600.svg) |
+| INO80 | [gene page](INO80) | 3.82 | [view](images/proteinpaint/INO80.svg) | [view](images/proteinpaint/INO80_NM_017553.svg) |
+| IRF1 | [gene page](IRF1) | 2.29 | [LOAD](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/IRF1.html) | [LOAD](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/IRF1_protein.html) |
+| JAK1 | [gene page](JAK1) | 2.49 | [view](images/proteinpaint/JAK1.svg) | [view](images/proteinpaint/JAK1_NM_002227.svg) |
+| JAK3 | [gene page](JAK3) | 1.34 | [view](images/proteinpaint/JAK3.svg) | [view](images/proteinpaint/JAK3_NM_000215.svg) |
+| KCMF1 | [gene page](KCMF1) | 0.96 | [view](images/proteinpaint/KCMF1.svg) | [view](images/proteinpaint/KCMF1_NM_020122.svg) |
+| KLHL21 | [gene page](KLHL21) | 3.82 | [view](images/proteinpaint/KLHL21.svg) | [view](images/proteinpaint/KLHL21_NM_014851.svg) |
+| LAMA5 | [gene page](LAMA5) | 3.44 | [view](images/proteinpaint/LAMA5.svg) | [view](images/proteinpaint/LAMA5_NM_005560.svg) |
+| LRP12 | [gene page](LRP12) | 2.49 | [LOAD](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/LRP12.html) | [LOAD](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/LRP12_protein.html) |
+| LIN54 | [gene page](LIN54) | 0.57 | [view](images/proteinpaint/LIN54.svg) | [view](images/proteinpaint/LIN54_NM_194282.svg) |
+| MAGT1 | [gene page](MAGT1) | 1.53 | [view](images/proteinpaint/MAGT1.svg) | [view](images/proteinpaint/MAGT1_NM_032121.svg) |
+| MAP2K1 | [gene page](MAP2K1) | 1.34 | [view](images/proteinpaint/MAP2K1.svg) | [view](images/proteinpaint/MAP2K1_NM_002755.svg) |
+| MAP4K4 | [gene page](MAP4K4) | 1.15 | [view](images/proteinpaint/MAP4K4.svg) | [view](images/proteinpaint/MAP4K4_NM_004834.svg) |
+| MARK1 | [gene page](MARK1) | 0.57 | [view](images/proteinpaint/MARK1.svg) | [view](images/proteinpaint/MARK1_NM_018650.svg) |
+| MECOM | [gene page](MECOM) | 2.10 | [view](images/proteinpaint/MECOM.svg) | [view](images/proteinpaint/MECOM_NM_001105077.svg) |
+| MET | [gene page](MET) | 0.76 | [view](images/proteinpaint/MET.svg) | [view](images/proteinpaint/MET_NM_001127500.svg) |
+| MSH2 | [gene page](MSH2) | 1.72 | [view](images/proteinpaint/MSH2.svg) | [view](images/proteinpaint/MSH2_NM_000251.svg) |
+| MSH6 | [gene page](MSH6) | 1.91 | [view](images/proteinpaint/MSH6.svg) | [view](images/proteinpaint/MSH6_NM_000179.svg) |
+| MYB | [gene page](MYB) | 0.57 | [view](images/proteinpaint/MYB.svg) | [view](images/proteinpaint/MYB_NM_001130173.svg) |
+| MYBPC2 | [gene page](MYBPC2) | 0.57 | [view](images/proteinpaint/MYBPC2.svg) | [view](images/proteinpaint/MYBPC2_NM_004533.svg) |
+| NANOG | [gene page](NANOG) | 0.00 | [view](images/proteinpaint/NANOG.svg) | [view](images/proteinpaint/NANOG_NM_024865.svg) |
+| NAV1 | [gene page](NAV1) | 2.49 | [view](images/proteinpaint/NAV1.svg) | [view](images/proteinpaint/NAV1_NM_020443.svg) |
+| NCOR1 | [gene page](NCOR1) | 2.10 | [view](images/proteinpaint/NCOR1.svg) | [view](images/proteinpaint/NCOR1_NM_006311.svg) |
+| NF1 | [gene page](NF1) | 2.87 | [view](images/proteinpaint/NF1.svg) | [view](images/proteinpaint/NF1_NM_000267.svg) |
+| NFKB2 | [gene page](NFKB2) | 1.53 | [view](images/proteinpaint/NFKB2.svg) | [view](images/proteinpaint/NFKB2_NM_001077494.svg) |
+| NLRP8 | [gene page](NLRP8) | 0.38 | [view](images/proteinpaint/NLRP8.svg) | [view](images/proteinpaint/NLRP8_NM_176811.svg) |
+| N2RF2 | [gene page](N2RF2) | 0.00 | [LOAD](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/N2RF2.html) | [LOAD](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/N2RF2_protein.html) |
+| PAPOLG | [gene page](PAPOLG) | 0.38 | [view](images/proteinpaint/PAPOLG.svg) | [view](images/proteinpaint/PAPOLG_NM_022894.svg) |
+| PAX5 | [gene page](PAX5) | 3.63 | [view](images/proteinpaint/PAX5.svg) | [view](images/proteinpaint/PAX5_NM_016734.svg) |
+| PCLO | [gene page](PCLO) | 16.44 | [view](images/proteinpaint/PCLO.svg) | [view](images/proteinpaint/PCLO_NM_033026.svg) |
+| PDE4DIP | [gene page](PDE4DIP) | 0.00 | [view](images/proteinpaint/PDE4DIP.svg) | [view](images/proteinpaint/PDE4DIP_NM_014644.svg) |
+| PHF6 | [gene page](PHF6) | 2.49 | [view](images/proteinpaint/PHF6.svg) | [view](images/proteinpaint/PHF6_NM_001015877.svg) |
+| PIK3CD | [gene page](PIK3CD) | 3.82 | [view](images/proteinpaint/PIK3CD.svg) | [view](images/proteinpaint/PIK3CD_NM_005026.svg) |
+| PIK3R1 | [gene page](PIK3R1) | 1.91 | [view](images/proteinpaint/PIK3R1.svg) | [view](images/proteinpaint/PIK3R1_NM_181523.svg) |
+| PNPO | [gene page](PNPO) | 0.38 | [LOAD](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PNPO.html) | [LOAD](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PNPO_protein.html) |
+| PRKCB | [gene page](PRKCB) | 4.97 | [view](images/proteinpaint/PRKCB.svg) | [view](images/proteinpaint/PRKCB_NM_212535.svg) |
+| PRPS1 | [gene page](PRPS1) | 0.76 | [view](images/proteinpaint/PRPS1.svg) | [view](images/proteinpaint/PRPS1_NM_002764.svg) |
+| PTPN6 | [gene page](PTPN6) | 2.68 | [view](images/proteinpaint/PTPN6.svg) | [view](images/proteinpaint/PTPN6_NM_002831.svg) |
+| PTPRK | [gene page](PTPRK) | 4.21 | [view](images/proteinpaint/PTPRK.svg) | [view](images/proteinpaint/PTPRK_NM_001135648.svg) |
+| RAC2 | [gene page](RAC2) | 1.15 | [view](images/proteinpaint/RAC2.svg) | [view](images/proteinpaint/RAC2_NM_002872.svg) |
+| RAD9A | [gene page](RAD9A) | 0.19 | [view](images/proteinpaint/RAD9A.svg) | [view](images/proteinpaint/RAD9A_NM_004584.svg) |
+| RARA | [gene page](RARA) | 1.34 | [view](images/proteinpaint/RARA.svg) | [view](images/proteinpaint/RARA_NM_000964.svg) |
+| RUNX1 | [gene page](RUNX1) | 0.96 | [view](images/proteinpaint/RUNX1.svg) | [view](images/proteinpaint/RUNX1_NM_001754.svg) |
+| SETD2 | [gene page](SETD2) | 3.63 | [view](images/proteinpaint/SETD2.svg) | [view](images/proteinpaint/SETD2_NM_014159.svg) |
+| SETD5 | [gene page](SETD5) | 2.49 | [view](images/proteinpaint/SETD5.svg) | [view](images/proteinpaint/SETD5_NM_001080517.svg) |
+| SIAH2 | [gene page](SIAH2) | 1.72 | [LOAD](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/SIAH2.html) | [LOAD](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/SIAH2_protein.html) |
+| SLC34A2 | [gene page](SLC34A2) | 0.76 | [LOAD](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/SLC34A2.html) | [LOAD](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/SLC34A2_protein.html) |
+| SMEK1 | [gene page](SMEK1) | 0.00 | [view](images/proteinpaint/SMEK1.svg) | [LOAD](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/SMEK1_protein.html) |
+| STAT5B | [gene page](STAT5B) | 0.57 | [view](images/proteinpaint/STAT5B.svg) | [view](images/proteinpaint/STAT5B_NM_012448.svg) |
+| SYK | [gene page](SYK) | 1.53 | [view](images/proteinpaint/SYK.svg) | [view](images/proteinpaint/SYK_NM_003177.svg) |
+| TAP1 | [gene page](TAP1) | 0.57 | [view](images/proteinpaint/TAP1.svg) | [view](images/proteinpaint/TAP1_NM_000593.svg) |
+| TGFBR2 | [gene page](TGFBR2) | 2.10 | [view](images/proteinpaint/TGFBR2.svg) | [view](images/proteinpaint/TGFBR2_NM_001024847.svg) |
+| TIPARP | [gene page](TIPARP) | 0.19 | [view](images/proteinpaint/TIPARP.svg) | [view](images/proteinpaint/TIPARP_NM_015508.svg) |
+| TLR2 | [gene page](TLR2) | 2.87 | [view](images/proteinpaint/TLR2.svg) | [view](images/proteinpaint/TLR2_NM_003264.svg) |
+| TRAF3 | [gene page](TRAF3) | 0.96 | [view](images/proteinpaint/TRAF3.svg) | [view](images/proteinpaint/TRAF3_NM_145725.svg) |
+| TRAF6 | [gene page](TRAF6) | 1.34 | [LOAD](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TRAF6.html) | [LOAD](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TRAF6_protein.html) |
+| UBR5 | [gene page](UBR5) | 3.63 | [view](images/proteinpaint/UBR5.svg) | [view](images/proteinpaint/UBR5_NM_015902.svg) |
+| UNC5B | [gene page](UNC5B) | 1.53 | [LOAD](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/UNC5B.html) | [LOAD](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/UNC5B_protein.html) |
+| XBP1 | [gene page](XBP1) | 1.15 | [view](images/proteinpaint/XBP1.svg) | [view](images/proteinpaint/XBP1_NM_005080.svg) |
+| YY1 | [gene page](YY1) | 1.15 | [view](images/proteinpaint/YY1.svg) | [view](images/proteinpaint/YY1_NM_003403.svg) |
+| ZBTB7A | [gene page](ZBTB7A) | 1.72 | [view](images/proteinpaint/ZBTB7A.svg) | [view](images/proteinpaint/ZBTB7A_NM_015898.svg) |
+| ZEB2 | [gene page](ZEB2) | 3.82 | [view](images/proteinpaint/ZEB2.svg) | [view](images/proteinpaint/ZEB2_NM_014795.svg) |
+| ZFAT | [gene page](ZFAT) | 1.34 | [view](images/proteinpaint/ZFAT.svg) | [view](images/proteinpaint/ZFAT_NM_020863.svg) |
+| ZFX | [gene page](ZFX) | 0.38 | [view](images/proteinpaint/ZFX.svg) | [view](images/proteinpaint/ZFX_NM_003410.svg) |
+| ZNF423 | [gene page](ZNF423) | 1.91 | [view](images/proteinpaint/ZNF423.svg) | [view](images/proteinpaint/ZNF423_NM_015069.svg) |
+| ZNF217 | [gene page](ZNF217) | 2.10 | [LOAD](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ZNF217.html) | [LOAD](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ZNF217_protein.html) |
