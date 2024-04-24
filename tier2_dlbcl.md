@@ -30,8 +30,7 @@
 | [DNMT3A](DNMT3A) | 0.76 | [view](images/proteinpaint/DNMT3A.svg) | [view](images/proteinpaint/DNMT3A_NM_175629.svg) |
 | [DNM2](DNM2) | 2.29 | [LOAD](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/DNM2.html) | [LOAD](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/DNM2_protein.html) |
 | [DOCK1](DOCK1) | 3.82 | [view](images/proteinpaint/DOCK1.svg) | [view](images/proteinpaint/DOCK1_NM_001380.svg) |
-| [FOXP1](FOXP1) | 0.57 | [view](images/proteinpaint/FOXP1.svg) | [view](images/proteinpaint/FOXP1_NM_001349338.svg |
-|  |  | [LOAD](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/.html) | [LOAD](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/_protein.html) |
+| [FOXP1](FOXP1) | 0.57 | [view](images/proteinpaint/FOXP1.svg) | [view](images/proteinpaint/FOXP1_NM_001349338.svg) |
 | [FUBP1](FUBP1) | 2.10 | [view](images/proteinpaint/FUBP1.svg) | [view](images/proteinpaint/FUBP1_NM_003902.svg) |
 | [FUT5](FUT5) | 0.38 | [view](images/proteinpaint/FUT5.svg) | [view](images/proteinpaint/FUT5_NM_002034.svg) |
 | [GABRA2](GABRA2) | 1.15 | [view](images/proteinpaint/GABRA2.svg) | [view](images/proteinpaint/GABRA2_NM_000807.svg) |

@@ -84,13 +84,11 @@
 | [KMT2C](KMT2C) | 3.25 | [view](images/proteinpaint/KMT2C.svg) | [view](images/proteinpaint/KMT2C_NM_170606.svg) |
 | [KMT2D](KMT2D) | 33.46 | [view](images/proteinpaint/KMT2D.svg) | [view](images/proteinpaint/KMT2D_NM_003482.svg) |
 | [KRAS](KRAS) | 1.91 | [view](images/proteinpaint/KRAS.svg) | [view](images/proteinpaint/KRAS_NM_033360.svg) |
-| [LCOR](LCOR) | 6.31 | [view](images/proteinpaint/LCOR.svg) | [view](images/proteinpaint/LCOR_NM_001346516.svg
-images/proteinpaint/LCOR_NM_032440.svg) |
+| [LCOR](LCOR) | 6.31 | [view](images/proteinpaint/LCOR.svg) | [view](images/proteinpaint/LCOR_NM_001346516.svg) |
 | [LTB](LTB) | 9.37 | [view](images/proteinpaint/LTB.svg) | [view](images/proteinpaint/LTB_NM_002341.svg) |
 | [LYN](LYN) | 2.29 | [view](images/proteinpaint/LYN.svg) | [view](images/proteinpaint/LYN_ENST00000519728.svg) |
 | [MCL1](MCL1) | 2.49 | [view](images/proteinpaint/MCL1.svg) | [view](images/proteinpaint/MCL1_NM_021960.svg) |
-| [MEF2B](MEF2B) | 11.28 | [view](images/proteinpaint/MEF2B.svg) | [view](images/proteinpaint/MEF2B_NM_001145785.svg
-images/proteinpaint/MEF2B_zoom.svg) |
+| [MEF2B](MEF2B) | 11.28 | [view](images/proteinpaint/MEF2B.svg) | [view](images/proteinpaint/MEF2B_NM_001145785.svg) |
 | [MEF2C](MEF2C) | 3.44 | [view](images/proteinpaint/MEF2C.svg) | [view](images/proteinpaint/MEF2C_NM_002397.svg) |
 | [MGA](MGA) | 4.02 | [view](images/proteinpaint/MGA.svg) | [view](images/proteinpaint/MGA_NM_001164273.svg) |
 | [MPEG1](MPEG1) | 4.78 | [view](images/proteinpaint/MPEG1.svg) | [LOAD](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MPEG1_protein.html) |

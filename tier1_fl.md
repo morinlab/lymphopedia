@@ -47,8 +47,7 @@
 | [KMT2D](KMT2D) | 67.67 | [view](images/proteinpaint/KMT2D.svg) | [view](images/proteinpaint/KMT2D_NM_003482.svg) |
 | [LTB](LTB) | 8.78 | [view](images/proteinpaint/LTB.svg) | [view](images/proteinpaint/LTB_NM_002341.svg) |
 | [MAP2K1](MAP2K1) | 1.39 | [view](images/proteinpaint/MAP2K1.svg) | [view](images/proteinpaint/MAP2K1_NM_002755.svg) |
-| [MEF2B](MEF2B) | 12.93 | [view](images/proteinpaint/MEF2B.svg) | [view](images/proteinpaint/MEF2B_NM_001145785.svg
-images/proteinpaint/MEF2B_zoom.svg) |
+| [MEF2B](MEF2B) | 12.93 | [view](images/proteinpaint/MEF2B.svg) | [view](images/proteinpaint/MEF2B_NM_001145785.svg) |
 | [MEF2C](MEF2C) | 6.24 | [view](images/proteinpaint/MEF2C.svg) | [view](images/proteinpaint/MEF2C_NM_002397.svg) |
 | [PCLO](PCLO) | 9.24 | [view](images/proteinpaint/PCLO.svg) | [view](images/proteinpaint/PCLO_NM_033026.svg) |
 | [PIM1](PIM1) | 9.24 | [view](images/proteinpaint/PIM1.svg) | [view](images/proteinpaint/PIM1_NM_002648.svg) |
