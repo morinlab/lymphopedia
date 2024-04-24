@@ -1,6 +1,6 @@
 # DLBCL genes, Tier 2
-| Gene | Frequency (GAMBL) | Comment | gene | protein |
-| ------ | ---------- | -- | :-: | :-: |
+| Gene | Frequency (GAMBL) | gene | protein |
+| ------ | ---------- | :-: | :-: |
 | [ARID1B](ARID1B) | 5.16 | [view](images/proteinpaint/ARID1B.svg) | [view](images/proteinpaint/ARID1B_NM_017519.svg) |
 | [TCL1A](TCL1A) | 2.10 | [view](images/proteinpaint/TCL1A.svg) | [view](images/proteinpaint/TCL1A_NM_021966.svg) |
 | [WAC](WAC) | 2.68 | [view](images/proteinpaint/WAC.svg) | [view](images/proteinpaint/WAC_NM_016628.svg) |
