@@ -1,6 +1,6 @@
 # DLBCL genes, Tier 2
 | Gene | Details | Mutation frequency | Static view (Gene) | Static view (Protein) | Comment |
-| :---: | :---: | :---: | :---: | :---: | ---------------------- |
+| :---: | :---: | :---: | :---: | :---: | ---------------------------------- |
 | ARID1B | [gene page](ARID1B) | 5.16 | [view](images/proteinpaint/ARID1B.svg) | [view](images/proteinpaint/ARID1B_NM_017519.svg) | marginal. Shift to Tier 1? |
 | TCL1A | [gene page](TCL1A) | 2.10 | [view](images/proteinpaint/TCL1A.svg) | [view](images/proteinpaint/TCL1A_NM_021966.svg) | marginal. Shift to Tier 1? |
 | WAC | [gene page](WAC) | 2.68 | [view](images/proteinpaint/WAC.svg) | [view](images/proteinpaint/WAC_NM_016628.svg) |
