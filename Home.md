@@ -4,17 +4,18 @@ This project tracks all genes that have been nominated as drivers (recurrent tar
 of mutations in each gene can be found through the gene lists (below). Additional information for each gene can be found on their respective pages.
 
 # B-cell Lymphoma gene lists
-| entity | Tier 1 (high-confidence) | Tier 2 (low-confidence) |
-| :-----: | :-----: | :-----: |
-| DLBCL | [(147 genes)](lists/tier1_dlbcl.md) |[(98 genes)](lists/tier2_dlbcl.md) |
-| FL | [(66 genes)](lists/tier1_fl.md) |[(34 genes)](lists/tier2_fl.md) |
-| BL | [(29 genes)](lists/tier1_bl.md) |[(189 genes)](lists/tier2_bl.md) |
-| MCL | [(25 genes)](lists/tier1_mcl.md) |[(30 genes)](lists/tier2_mcl.md) |
+| entity | Tier 1 | Tier 2 |
+| ----- | ----- | ----- |
+| DLBCL | [(155 genes)](tier1_dlbcl.md) |[(111 genes)](tier2_dlbcl.md) |
+| FL | [(66 genes)](tier1_fl.md) |[(51 genes)](tier2_fl.md) |
+| BL | [(29 genes)](tier1_bl.md) |[(189 genes)](tier2_bl.md) |
+| MCL | [(25 genes)](tier1_mcl.md) |[(30 genes)](tier2_mcl.md) |
+
 
 
 # B-cell Lymphoma aSHM targets
-[hg19 coordinates](lists/ashm.md)
+[hg19 coordinates](ashm.md)
 
-[hg38 coordinates](lists/ashm_hg38.md)
+[hg38 coordinates](ashm_hg38.md)
 
 ![FOXO1](images/proteinpaint/FOXO1_NM_002015.svg)
