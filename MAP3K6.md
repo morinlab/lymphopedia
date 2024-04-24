@@ -27,8 +27,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MAP3K6_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MAP3K6_protein_hg38.html)
 
-![image](../../images/proteinpaint/MAP3K6_NM_004672.svg)
+![image](images/proteinpaint/MAP3K6_NM_004672.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MAP3K6.html)
 
-![image](../../images/proteinpaint/MAP3K6.svg)
+![image](images/proteinpaint/MAP3K6.svg)

@@ -27,8 +27,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/NRXN2_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/NRXN2_protein_hg38.html)
 
-![image](../../images/proteinpaint/NRXN2_NM_015080.svg)
+![image](images/proteinpaint/NRXN2_NM_015080.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/NRXN2.html)
 
-![image](../../images/proteinpaint/NRXN2.svg)
+![image](images/proteinpaint/NRXN2.svg)

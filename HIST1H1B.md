@@ -32,8 +32,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/HIST1H1B_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/HIST1H1B_protein_hg38.html)
 
-![image](../../images/proteinpaint/HIST1H1B_NM_005322.svg)
+![image](images/proteinpaint/HIST1H1B_NM_005322.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/HIST1H1B.html)
 
-![image](../../images/proteinpaint/HIST1H1B.svg)
+![image](images/proteinpaint/HIST1H1B.svg)

@@ -32,8 +32,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/RAC2_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/RAC2_protein_hg38.html)
 
-![image](../../images/proteinpaint/RAC2_NM_002872.svg)
+![image](images/proteinpaint/RAC2_NM_002872.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/RAC2.html)
 
-![image](../../images/proteinpaint/RAC2.svg)
+![image](images/proteinpaint/RAC2.svg)

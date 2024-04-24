@@ -30,4 +30,4 @@ View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morin
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/SMEK1.html)
 
-![image](../../images/proteinpaint/SMEK1.svg)
+![image](images/proteinpaint/SMEK1.svg)

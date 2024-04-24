@@ -28,8 +28,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/LIN54_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/LIN54_protein_hg38.html)
 
-![image](../../images/proteinpaint/LIN54_NM_194282.svg)
+![image](images/proteinpaint/LIN54_NM_194282.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/LIN54.html)
 
-![image](../../images/proteinpaint/LIN54.svg)
+![image](images/proteinpaint/LIN54.svg)

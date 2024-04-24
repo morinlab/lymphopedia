@@ -39,8 +39,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CXCR4_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CXCR4_protein_hg38.html)
 
-![image](../../images/proteinpaint/CXCR4_NM_001008540.svg)
+![image](images/proteinpaint/CXCR4_NM_001008540.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CXCR4.html)
 
-![image](../../images/proteinpaint/CXCR4.svg)
+![image](images/proteinpaint/CXCR4.svg)

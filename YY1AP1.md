@@ -27,8 +27,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/YY1AP1_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/YY1AP1_protein_hg38.html)
 
-![image](../../images/proteinpaint/YY1AP1_NM_139118.svg)
+![image](images/proteinpaint/YY1AP1_NM_139118.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/YY1AP1.html)
 
-![image](../../images/proteinpaint/YY1AP1.svg)
+![image](images/proteinpaint/YY1AP1.svg)

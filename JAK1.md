@@ -28,8 +28,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/JAK1_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/JAK1_protein_hg38.html)
 
-![image](../../images/proteinpaint/JAK1_NM_002227.svg)
+![image](images/proteinpaint/JAK1_NM_002227.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/JAK1.html)
 
-![image](../../images/proteinpaint/JAK1.svg)
+![image](images/proteinpaint/JAK1.svg)

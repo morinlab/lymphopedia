@@ -27,8 +27,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ADAMTS5_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ADAMTS5_protein_hg38.html)
 
-![image](../../images/proteinpaint/ADAMTS5_NM_007038.svg)
+![image](images/proteinpaint/ADAMTS5_NM_007038.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ADAMTS5.html)
 
-![image](../../images/proteinpaint/ADAMTS5.svg)
+![image](images/proteinpaint/ADAMTS5.svg)

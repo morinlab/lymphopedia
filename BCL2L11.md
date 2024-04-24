@@ -30,8 +30,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/BCL2L11_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/BCL2L11_protein_hg38.html)
 
-![image](../../images/proteinpaint/BCL2L11_NM_138621.svg)
+![image](images/proteinpaint/BCL2L11_NM_138621.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/BCL2L11.html)
 
-![image](../../images/proteinpaint/BCL2L11.svg)
+![image](images/proteinpaint/BCL2L11.svg)

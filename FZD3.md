@@ -27,8 +27,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/FZD3_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/FZD3_protein_hg38.html)
 
-![image](../../images/proteinpaint/FZD3_NM_017412.svg)
+![image](images/proteinpaint/FZD3_NM_017412.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/FZD3.html)
 
-![image](../../images/proteinpaint/FZD3.svg)
+![image](images/proteinpaint/FZD3.svg)

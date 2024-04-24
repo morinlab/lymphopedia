@@ -27,8 +27,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/COL4A2_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/COL4A2_protein_hg38.html)
 
-![image](../../images/proteinpaint/COL4A2_NM_001846.svg)
+![image](images/proteinpaint/COL4A2_NM_001846.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/COL4A2.html)
 
-![image](../../images/proteinpaint/COL4A2.svg)
+![image](images/proteinpaint/COL4A2.svg)

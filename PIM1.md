@@ -39,8 +39,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PIM1_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PIM1_protein_hg38.html)
 
-![image](../../images/proteinpaint/PIM1_NM_002648.svg)
+![image](images/proteinpaint/PIM1_NM_002648.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PIM1.html)
 
-![image](../../images/proteinpaint/PIM1.svg)
+![image](images/proteinpaint/PIM1.svg)

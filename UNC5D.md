@@ -26,8 +26,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/UNC5D_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/UNC5D_protein_hg38.html)
 
-![image](../../images/proteinpaint/UNC5D_NM_080872.svg)
+![image](images/proteinpaint/UNC5D_NM_080872.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/UNC5D.html)
 
-![image](../../images/proteinpaint/UNC5D.svg)
+![image](images/proteinpaint/UNC5D.svg)

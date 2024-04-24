@@ -32,8 +32,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PCBP1_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PCBP1_protein_hg38.html)
 
-![image](../../images/proteinpaint/PCBP1_NM_006196.svg)
+![image](images/proteinpaint/PCBP1_NM_006196.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PCBP1.html)
 
-![image](../../images/proteinpaint/PCBP1.svg)
+![image](images/proteinpaint/PCBP1.svg)

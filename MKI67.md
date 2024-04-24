@@ -29,8 +29,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MKI67_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MKI67_protein_hg38.html)
 
-![image](../../images/proteinpaint/MKI67_NM_002417.svg)
+![image](images/proteinpaint/MKI67_NM_002417.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MKI67.html)
 
-![image](../../images/proteinpaint/MKI67.svg)
+![image](images/proteinpaint/MKI67.svg)

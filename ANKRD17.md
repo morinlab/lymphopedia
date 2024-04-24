@@ -28,8 +28,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ANKRD17_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ANKRD17_protein_hg38.html)
 
-![image](../../images/proteinpaint/ANKRD17_NM_032217.svg)
+![image](images/proteinpaint/ANKRD17_NM_032217.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ANKRD17.html)
 
-![image](../../images/proteinpaint/ANKRD17.svg)
+![image](images/proteinpaint/ANKRD17.svg)

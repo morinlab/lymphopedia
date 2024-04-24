@@ -27,8 +27,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TOP2A_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TOP2A_protein_hg38.html)
 
-![image](../../images/proteinpaint/TOP2A_NM_001067.svg)
+![image](images/proteinpaint/TOP2A_NM_001067.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TOP2A.html)
 
-![image](../../images/proteinpaint/TOP2A.svg)
+![image](images/proteinpaint/TOP2A.svg)

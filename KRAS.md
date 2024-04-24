@@ -28,8 +28,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/KRAS_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/KRAS_protein_hg38.html)
 
-![image](../../images/proteinpaint/KRAS_NM_033360.svg)
+![image](images/proteinpaint/KRAS_NM_033360.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/KRAS.html)
 
-![image](../../images/proteinpaint/KRAS.svg)
+![image](images/proteinpaint/KRAS.svg)

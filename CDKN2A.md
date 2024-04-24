@@ -27,8 +27,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CDKN2A_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CDKN2A_protein_hg38.html)
 
-![image](../../images/proteinpaint/CDKN2A_NM_000077.svg)
+![image](images/proteinpaint/CDKN2A_NM_000077.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CDKN2A.html)
 
-![image](../../images/proteinpaint/CDKN2A.svg)
+![image](images/proteinpaint/CDKN2A.svg)

@@ -32,8 +32,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/BACH2_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/BACH2_protein_hg38.html)
 
-![image](../../images/proteinpaint/BACH2_NM_021813.svg)
+![image](images/proteinpaint/BACH2_NM_021813.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/BACH2.html)
 
-![image](../../images/proteinpaint/BACH2.svg)
+![image](images/proteinpaint/BACH2.svg)

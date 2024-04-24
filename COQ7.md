@@ -28,8 +28,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/COQ7_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/COQ7_protein_hg38.html)
 
-![image](../../images/proteinpaint/COQ7_NM_016138.svg)
+![image](images/proteinpaint/COQ7_NM_016138.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/COQ7.html)
 
-![image](../../images/proteinpaint/COQ7.svg)
+![image](images/proteinpaint/COQ7.svg)

@@ -28,8 +28,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TAP1_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TAP1_protein_hg38.html)
 
-![image](../../images/proteinpaint/TAP1_NM_000593.svg)
+![image](images/proteinpaint/TAP1_NM_000593.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TAP1.html)
 
-![image](../../images/proteinpaint/TAP1.svg)
+![image](images/proteinpaint/TAP1.svg)

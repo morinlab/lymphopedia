@@ -28,8 +28,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/JUNB_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/JUNB_protein_hg38.html)
 
-![image](../../images/proteinpaint/JUNB_NM_002229.svg)
+![image](images/proteinpaint/JUNB_NM_002229.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/JUNB.html)
 
-![image](../../images/proteinpaint/JUNB.svg)
+![image](images/proteinpaint/JUNB.svg)

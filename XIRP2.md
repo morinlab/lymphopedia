@@ -25,8 +25,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/XIRP2_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/XIRP2_protein_hg38.html)
 
-![image](../../images/proteinpaint/XIRP2_NM_152381.svg)
+![image](images/proteinpaint/XIRP2_NM_152381.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/XIRP2.html)
 
-![image](../../images/proteinpaint/XIRP2.svg)
+![image](images/proteinpaint/XIRP2.svg)

@@ -26,8 +26,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TRRAP_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TRRAP_protein_hg38.html)
 
-![image](../../images/proteinpaint/TRRAP_NM_003496.svg)
+![image](images/proteinpaint/TRRAP_NM_003496.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TRRAP.html)
 
-![image](../../images/proteinpaint/TRRAP.svg)
+![image](images/proteinpaint/TRRAP.svg)

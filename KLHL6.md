@@ -37,8 +37,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/KLHL6_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/KLHL6_protein_hg38.html)
 
-![image](../../images/proteinpaint/KLHL6_NM_130446.svg)
+![image](images/proteinpaint/KLHL6_NM_130446.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/KLHL6.html)
 
-![image](../../images/proteinpaint/KLHL6.svg)
+![image](images/proteinpaint/KLHL6.svg)

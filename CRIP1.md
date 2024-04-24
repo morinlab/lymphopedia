@@ -28,8 +28,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CRIP1_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CRIP1_protein_hg38.html)
 
-![image](../../images/proteinpaint/CRIP1_NM_001311.svg)
+![image](images/proteinpaint/CRIP1_NM_001311.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CRIP1.html)
 
-![image](../../images/proteinpaint/CRIP1.svg)
+![image](images/proteinpaint/CRIP1.svg)

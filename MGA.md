@@ -28,8 +28,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MGA_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MGA_protein_hg38.html)
 
-![image](../../images/proteinpaint/MGA_NM_001164273.svg)
+![image](images/proteinpaint/MGA_NM_001164273.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MGA.html)
 
-![image](../../images/proteinpaint/MGA.svg)
+![image](images/proteinpaint/MGA.svg)

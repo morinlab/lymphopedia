@@ -28,8 +28,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/DCAF6_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/DCAF6_protein_hg38.html)
 
-![image](../../images/proteinpaint/DCAF6_NM_018442.svg)
+![image](images/proteinpaint/DCAF6_NM_018442.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/DCAF6.html)
 
-![image](../../images/proteinpaint/DCAF6.svg)
+![image](images/proteinpaint/DCAF6.svg)

@@ -32,8 +32,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/WNK1_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/WNK1_protein_hg38.html)
 
-![image](../../images/proteinpaint/WNK1_NM_018979.svg)
+![image](images/proteinpaint/WNK1_NM_018979.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/WNK1.html)
 
-![image](../../images/proteinpaint/WNK1.svg)
+![image](images/proteinpaint/WNK1.svg)

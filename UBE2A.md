@@ -30,8 +30,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/UBE2A_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/UBE2A_protein_hg38.html)
 
-![image](../../images/proteinpaint/UBE2A_NM_003336.svg)
+![image](images/proteinpaint/UBE2A_NM_003336.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/UBE2A.html)
 
-![image](../../images/proteinpaint/UBE2A.svg)
+![image](images/proteinpaint/UBE2A.svg)

@@ -28,8 +28,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/NFKBIE_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/NFKBIE_protein_hg38.html)
 
-![image](../../images/proteinpaint/NFKBIE_NM_004556.svg)
+![image](images/proteinpaint/NFKBIE_NM_004556.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/NFKBIE.html)
 
-![image](../../images/proteinpaint/NFKBIE.svg)
+![image](images/proteinpaint/NFKBIE.svg)

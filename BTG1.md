@@ -39,8 +39,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/BTG1_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/BTG1_protein_hg38.html)
 
-![image](../../images/proteinpaint/BTG1_NM_001731.svg)
+![image](images/proteinpaint/BTG1_NM_001731.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/BTG1.html)
 
-![image](../../images/proteinpaint/BTG1.svg)
+![image](images/proteinpaint/BTG1.svg)

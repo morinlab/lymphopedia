@@ -27,8 +27,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ENTPD3_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ENTPD3_protein_hg38.html)
 
-![image](../../images/proteinpaint/ENTPD3_NM_001248.svg)
+![image](images/proteinpaint/ENTPD3_NM_001248.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ENTPD3.html)
 
-![image](../../images/proteinpaint/ENTPD3.svg)
+![image](images/proteinpaint/ENTPD3.svg)

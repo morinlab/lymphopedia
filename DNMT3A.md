@@ -28,8 +28,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/DNMT3A_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/DNMT3A_protein_hg38.html)
 
-![image](../../images/proteinpaint/DNMT3A_NM_175629.svg)
+![image](images/proteinpaint/DNMT3A_NM_175629.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/DNMT3A.html)
 
-![image](../../images/proteinpaint/DNMT3A.svg)
+![image](images/proteinpaint/DNMT3A.svg)

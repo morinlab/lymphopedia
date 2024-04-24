@@ -27,8 +27,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CCNF_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CCNF_protein_hg38.html)
 
-![image](../../images/proteinpaint/CCNF_NM_001761.svg)
+![image](images/proteinpaint/CCNF_NM_001761.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CCNF.html)
 
-![image](../../images/proteinpaint/CCNF.svg)
+![image](images/proteinpaint/CCNF.svg)

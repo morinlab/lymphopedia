@@ -27,8 +27,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TPST2_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TPST2_protein_hg38.html)
 
-![image](../../images/proteinpaint/TPST2_NM_001008566.svg)
+![image](images/proteinpaint/TPST2_NM_001008566.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TPST2.html)
 
-![image](../../images/proteinpaint/TPST2.svg)
+![image](images/proteinpaint/TPST2.svg)

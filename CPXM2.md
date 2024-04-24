@@ -27,8 +27,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CPXM2_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CPXM2_protein_hg38.html)
 
-![image](../../images/proteinpaint/CPXM2_NM_198148.svg)
+![image](images/proteinpaint/CPXM2_NM_198148.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CPXM2.html)
 
-![image](../../images/proteinpaint/CPXM2.svg)
+![image](images/proteinpaint/CPXM2.svg)

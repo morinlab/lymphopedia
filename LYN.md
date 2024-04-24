@@ -26,8 +26,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/LYN_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/LYN_protein_hg38.html)
 
-![image](../../images/proteinpaint/LYN_ENST00000519728.svg)
+![image](images/proteinpaint/LYN_ENST00000519728.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/LYN.html)
 
-![image](../../images/proteinpaint/LYN.svg)
+![image](images/proteinpaint/LYN.svg)

@@ -37,8 +37,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TCL1A_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TCL1A_protein_hg38.html)
 
-![image](../../images/proteinpaint/TCL1A_NM_021966.svg)
+![image](images/proteinpaint/TCL1A_NM_021966.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TCL1A.html)
 
-![image](../../images/proteinpaint/TCL1A.svg)
+![image](images/proteinpaint/TCL1A.svg)

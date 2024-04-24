@@ -28,8 +28,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/NCOR1_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/NCOR1_protein_hg38.html)
 
-![image](../../images/proteinpaint/NCOR1_NM_006311.svg)
+![image](images/proteinpaint/NCOR1_NM_006311.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/NCOR1.html)
 
-![image](../../images/proteinpaint/NCOR1.svg)
+![image](images/proteinpaint/NCOR1.svg)

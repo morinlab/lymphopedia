@@ -27,8 +27,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/POR_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/POR_protein_hg38.html)
 
-![image](../../images/proteinpaint/POR_NM_001382657.svg)
+![image](images/proteinpaint/POR_NM_001382657.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/POR.html)
 
-![image](../../images/proteinpaint/POR.svg)
+![image](images/proteinpaint/POR.svg)

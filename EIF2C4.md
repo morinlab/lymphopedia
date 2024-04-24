@@ -26,4 +26,4 @@ View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morin
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/EIF2C4.html)
 
-![image](../../images/proteinpaint/EIF2C4.svg)
+![image](images/proteinpaint/EIF2C4.svg)

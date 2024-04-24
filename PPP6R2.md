@@ -27,8 +27,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PPP6R2_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PPP6R2_protein_hg38.html)
 
-![image](../../images/proteinpaint/PPP6R2_NM_014678.svg)
+![image](images/proteinpaint/PPP6R2_NM_014678.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PPP6R2.html)
 
-![image](../../images/proteinpaint/PPP6R2.svg)
+![image](images/proteinpaint/PPP6R2.svg)

@@ -37,8 +37,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/BCR_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/BCR_protein_hg38.html)
 
-![image](../../images/proteinpaint/BCR_NM_004327.svg)
+![image](images/proteinpaint/BCR_NM_004327.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/BCR.html)
 
-![image](../../images/proteinpaint/BCR.svg)
+![image](images/proteinpaint/BCR.svg)

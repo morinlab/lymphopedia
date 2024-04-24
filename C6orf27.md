@@ -26,4 +26,4 @@ View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morin
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/C6orf27.html)
 
-![image](../../images/proteinpaint/C6orf27.svg)
+![image](images/proteinpaint/C6orf27.svg)

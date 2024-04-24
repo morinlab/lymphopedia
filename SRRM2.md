@@ -25,8 +25,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/SRRM2_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/SRRM2_protein_hg38.html)
 
-![image](../../images/proteinpaint/SRRM2_NM_016333.svg)
+![image](images/proteinpaint/SRRM2_NM_016333.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/SRRM2.html)
 
-![image](../../images/proteinpaint/SRRM2.svg)
+![image](images/proteinpaint/SRRM2.svg)

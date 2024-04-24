@@ -27,8 +27,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ACE_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ACE_protein_hg38.html)
 
-![image](../../images/proteinpaint/ACE_NM_000789.svg)
+![image](images/proteinpaint/ACE_NM_000789.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ACE.html)
 
-![image](../../images/proteinpaint/ACE.svg)
+![image](images/proteinpaint/ACE.svg)

@@ -28,8 +28,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/SYK_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/SYK_protein_hg38.html)
 
-![image](../../images/proteinpaint/SYK_NM_003177.svg)
+![image](images/proteinpaint/SYK_NM_003177.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/SYK.html)
 
-![image](../../images/proteinpaint/SYK.svg)
+![image](images/proteinpaint/SYK.svg)

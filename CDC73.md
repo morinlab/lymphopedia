@@ -32,8 +32,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CDC73_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CDC73_protein_hg38.html)
 
-![image](../../images/proteinpaint/CDC73_NM_024529.svg)
+![image](images/proteinpaint/CDC73_NM_024529.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CDC73.html)
 
-![image](../../images/proteinpaint/CDC73.svg)
+![image](images/proteinpaint/CDC73.svg)

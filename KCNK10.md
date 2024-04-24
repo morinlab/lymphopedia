@@ -27,8 +27,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/KCNK10_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/KCNK10_protein_hg38.html)
 
-![image](../../images/proteinpaint/KCNK10_NM_021161.svg)
+![image](images/proteinpaint/KCNK10_NM_021161.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/KCNK10.html)
 
-![image](../../images/proteinpaint/KCNK10.svg)
+![image](images/proteinpaint/KCNK10.svg)

@@ -27,8 +27,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/HLA-DQB1_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/HLA-DQB1_protein_hg38.html)
 
-![image](../../images/proteinpaint/HLA-DQB1_NM_002123.svg)
+![image](images/proteinpaint/HLA-DQB1_NM_002123.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/HLA-DQB1.html)
 
-![image](../../images/proteinpaint/HLA-DQB1.svg)
+![image](images/proteinpaint/HLA-DQB1.svg)

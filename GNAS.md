@@ -28,8 +28,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/GNAS_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/GNAS_protein_hg38.html)
 
-![image](../../images/proteinpaint/GNAS_NM_000516.svg)
+![image](images/proteinpaint/GNAS_NM_000516.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/GNAS.html)
 
-![image](../../images/proteinpaint/GNAS.svg)
+![image](images/proteinpaint/GNAS.svg)

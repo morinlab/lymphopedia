@@ -32,8 +32,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PHF6_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PHF6_protein_hg38.html)
 
-![image](../../images/proteinpaint/PHF6_NM_001015877.svg)
+![image](images/proteinpaint/PHF6_NM_001015877.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PHF6.html)
 
-![image](../../images/proteinpaint/PHF6.svg)
+![image](images/proteinpaint/PHF6.svg)

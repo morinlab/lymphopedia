@@ -32,8 +32,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/HVCN1_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/HVCN1_protein_hg38.html)
 
-![image](../../images/proteinpaint/HVCN1_NM_001040107.svg)
+![image](images/proteinpaint/HVCN1_NM_001040107.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/HVCN1.html)
 
-![image](../../images/proteinpaint/HVCN1.svg)
+![image](images/proteinpaint/HVCN1.svg)

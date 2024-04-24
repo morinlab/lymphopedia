@@ -32,8 +32,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/SIN3A_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/SIN3A_protein_hg38.html)
 
-![image](../../images/proteinpaint/SIN3A_NM_001145358.svg)
+![image](images/proteinpaint/SIN3A_NM_001145358.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/SIN3A.html)
 
-![image](../../images/proteinpaint/SIN3A.svg)
+![image](images/proteinpaint/SIN3A.svg)

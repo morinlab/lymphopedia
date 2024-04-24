@@ -25,8 +25,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/GRM6_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/GRM6_protein_hg38.html)
 
-![image](../../images/proteinpaint/GRM6_NM_000843.svg)
+![image](images/proteinpaint/GRM6_NM_000843.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/GRM6.html)
 
-![image](../../images/proteinpaint/GRM6.svg)
+![image](images/proteinpaint/GRM6.svg)

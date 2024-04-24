@@ -32,8 +32,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/B2M_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/B2M_protein_hg38.html)
 
-![image](../../images/proteinpaint/B2M_NM_004048.svg)
+![image](images/proteinpaint/B2M_NM_004048.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/B2M.html)
 
-![image](../../images/proteinpaint/B2M.svg)
+![image](images/proteinpaint/B2M.svg)

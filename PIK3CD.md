@@ -26,8 +26,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PIK3CD_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PIK3CD_protein_hg38.html)
 
-![image](../../images/proteinpaint/PIK3CD_NM_005026.svg)
+![image](images/proteinpaint/PIK3CD_NM_005026.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PIK3CD.html)
 
-![image](../../images/proteinpaint/PIK3CD.svg)
+![image](images/proteinpaint/PIK3CD.svg)

@@ -27,8 +27,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/SNTB2_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/SNTB2_protein_hg38.html)
 
-![image](../../images/proteinpaint/SNTB2_NM_006750.svg)
+![image](images/proteinpaint/SNTB2_NM_006750.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/SNTB2.html)
 
-![image](../../images/proteinpaint/SNTB2.svg)
+![image](images/proteinpaint/SNTB2.svg)

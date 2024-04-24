@@ -27,8 +27,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/FLYWCH1_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/FLYWCH1_protein_hg38.html)
 
-![image](../../images/proteinpaint/FLYWCH1_NM_032296.svg)
+![image](images/proteinpaint/FLYWCH1_NM_032296.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/FLYWCH1.html)
 
-![image](../../images/proteinpaint/FLYWCH1.svg)
+![image](images/proteinpaint/FLYWCH1.svg)

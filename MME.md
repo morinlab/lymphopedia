@@ -27,8 +27,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MME_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MME_protein_hg38.html)
 
-![image](../../images/proteinpaint/MME_NM_000902.svg)
+![image](images/proteinpaint/MME_NM_000902.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MME.html)
 
-![image](../../images/proteinpaint/MME.svg)
+![image](images/proteinpaint/MME.svg)

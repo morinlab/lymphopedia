@@ -27,8 +27,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/DNMT1_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/DNMT1_protein_hg38.html)
 
-![image](../../images/proteinpaint/DNMT1_NM_001130823.svg)
+![image](images/proteinpaint/DNMT1_NM_001130823.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/DNMT1.html)
 
-![image](../../images/proteinpaint/DNMT1.svg)
+![image](images/proteinpaint/DNMT1.svg)

@@ -30,4 +30,4 @@ View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morin
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PRKDC.html)
 
-![image](../../images/proteinpaint/PRKDC.svg)
+![image](images/proteinpaint/PRKDC.svg)

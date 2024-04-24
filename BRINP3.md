@@ -28,8 +28,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/BRINP3_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/BRINP3_protein_hg38.html)
 
-![image](../../images/proteinpaint/BRINP3_NM_199051.svg)
+![image](images/proteinpaint/BRINP3_NM_199051.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/BRINP3.html)
 
-![image](../../images/proteinpaint/BRINP3.svg)
+![image](images/proteinpaint/BRINP3.svg)

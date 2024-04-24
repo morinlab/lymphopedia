@@ -30,8 +30,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/RFX7_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/RFX7_protein_hg38.html)
 
-![image](../../images/proteinpaint/RFX7_NM_022841.svg)
+![image](images/proteinpaint/RFX7_NM_022841.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/RFX7.html)
 
-![image](../../images/proteinpaint/RFX7.svg)
+![image](images/proteinpaint/RFX7.svg)

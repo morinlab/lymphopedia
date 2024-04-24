@@ -37,8 +37,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/EBF1_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/EBF1_protein_hg38.html)
 
-![image](../../images/proteinpaint/EBF1_NM_024007.svg)
+![image](images/proteinpaint/EBF1_NM_024007.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/EBF1.html)
 
-![image](../../images/proteinpaint/EBF1.svg)
+![image](images/proteinpaint/EBF1.svg)

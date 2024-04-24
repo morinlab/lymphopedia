@@ -27,8 +27,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PABPC4L_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PABPC4L_protein_hg38.html)
 
-![image](../../images/proteinpaint/PABPC4L_NM_001114734.svg)
+![image](images/proteinpaint/PABPC4L_NM_001114734.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PABPC4L.html)
 
-![image](../../images/proteinpaint/PABPC4L.svg)
+![image](images/proteinpaint/PABPC4L.svg)

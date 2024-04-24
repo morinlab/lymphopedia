@@ -27,8 +27,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CCT6B_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CCT6B_protein_hg38.html)
 
-![image](../../images/proteinpaint/CCT6B_NM_006584.svg)
+![image](images/proteinpaint/CCT6B_NM_006584.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CCT6B.html)
 
-![image](../../images/proteinpaint/CCT6B.svg)
+![image](images/proteinpaint/CCT6B.svg)

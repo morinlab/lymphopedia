@@ -23,8 +23,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ATP6AP1_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ATP6AP1_protein_hg38.html)
 
-![image](../../images/proteinpaint/ATP6AP1_NM_001183.svg)
+![image](images/proteinpaint/ATP6AP1_NM_001183.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ATP6AP1.html)
 
-![image](../../images/proteinpaint/ATP6AP1.svg)
+![image](images/proteinpaint/ATP6AP1.svg)

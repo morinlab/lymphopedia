@@ -27,8 +27,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PLCG2_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PLCG2_protein_hg38.html)
 
-![image](../../images/proteinpaint/PLCG2_NM_002661.svg)
+![image](images/proteinpaint/PLCG2_NM_002661.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PLCG2.html)
 
-![image](../../images/proteinpaint/PLCG2.svg)
+![image](images/proteinpaint/PLCG2.svg)

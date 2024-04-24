@@ -28,8 +28,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/NANOG_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/NANOG_protein_hg38.html)
 
-![image](../../images/proteinpaint/NANOG_NM_024865.svg)
+![image](images/proteinpaint/NANOG_NM_024865.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/NANOG.html)
 
-![image](../../images/proteinpaint/NANOG.svg)
+![image](images/proteinpaint/NANOG.svg)

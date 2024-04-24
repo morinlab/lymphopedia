@@ -28,8 +28,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/HNRNPD_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/HNRNPD_protein_hg38.html)
 
-![image](../../images/proteinpaint/HNRNPD_NM_031370.svg)
+![image](images/proteinpaint/HNRNPD_NM_031370.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/HNRNPD.html)
 
-![image](../../images/proteinpaint/HNRNPD.svg)
+![image](images/proteinpaint/HNRNPD.svg)

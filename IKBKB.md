@@ -28,8 +28,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/IKBKB_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/IKBKB_protein_hg38.html)
 
-![image](../../images/proteinpaint/IKBKB_NM_001556.svg)
+![image](images/proteinpaint/IKBKB_NM_001556.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/IKBKB.html)
 
-![image](../../images/proteinpaint/IKBKB.svg)
+![image](images/proteinpaint/IKBKB.svg)

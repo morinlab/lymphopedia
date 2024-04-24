@@ -27,8 +27,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ATP2C2_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ATP2C2_protein_hg38.html)
 
-![image](../../images/proteinpaint/ATP2C2_NM_014861.svg)
+![image](images/proteinpaint/ATP2C2_NM_014861.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ATP2C2.html)
 
-![image](../../images/proteinpaint/ATP2C2.svg)
+![image](images/proteinpaint/ATP2C2.svg)

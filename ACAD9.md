@@ -27,8 +27,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ACAD9_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ACAD9_protein_hg38.html)
 
-![image](../../images/proteinpaint/ACAD9_NM_014049.svg)
+![image](images/proteinpaint/ACAD9_NM_014049.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ACAD9.html)
 
-![image](../../images/proteinpaint/ACAD9.svg)
+![image](images/proteinpaint/ACAD9.svg)

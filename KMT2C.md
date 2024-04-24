@@ -32,8 +32,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/KMT2C_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/KMT2C_protein_hg38.html)
 
-![image](../../images/proteinpaint/KMT2C_NM_170606.svg)
+![image](images/proteinpaint/KMT2C_NM_170606.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/KMT2C.html)
 
-![image](../../images/proteinpaint/KMT2C.svg)
+![image](images/proteinpaint/KMT2C.svg)

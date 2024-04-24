@@ -27,8 +27,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/EXOSC6_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/EXOSC6_protein_hg38.html)
 
-![image](../../images/proteinpaint/EXOSC6_NM_058219.svg)
+![image](images/proteinpaint/EXOSC6_NM_058219.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/EXOSC6.html)
 
-![image](../../images/proteinpaint/EXOSC6.svg)
+![image](images/proteinpaint/EXOSC6.svg)

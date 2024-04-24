@@ -25,8 +25,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/OR8H2_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/OR8H2_protein_hg38.html)
 
-![image](../../images/proteinpaint/OR8H2_NM_001005200.svg)
+![image](images/proteinpaint/OR8H2_NM_001005200.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/OR8H2.html)
 
-![image](../../images/proteinpaint/OR8H2.svg)
+![image](images/proteinpaint/OR8H2.svg)

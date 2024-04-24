@@ -26,8 +26,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/BCOR_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/BCOR_protein_hg38.html)
 
-![image](../../images/proteinpaint/BCOR_NM_017745.svg)
+![image](images/proteinpaint/BCOR_NM_017745.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/BCOR.html)
 
-![image](../../images/proteinpaint/BCOR.svg)
+![image](images/proteinpaint/BCOR.svg)

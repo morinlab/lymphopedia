@@ -27,8 +27,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/EML2_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/EML2_protein_hg38.html)
 
-![image](../../images/proteinpaint/EML2_NM_012155.svg)
+![image](images/proteinpaint/EML2_NM_012155.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/EML2.html)
 
-![image](../../images/proteinpaint/EML2.svg)
+![image](images/proteinpaint/EML2.svg)

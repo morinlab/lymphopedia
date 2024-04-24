@@ -32,8 +32,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TNFAIP3_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TNFAIP3_protein_hg38.html)
 
-![image](../../images/proteinpaint/TNFAIP3_NM_006290.svg)
+![image](images/proteinpaint/TNFAIP3_NM_006290.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TNFAIP3.html)
 
-![image](../../images/proteinpaint/TNFAIP3.svg)
+![image](images/proteinpaint/TNFAIP3.svg)

@@ -25,8 +25,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/VMA21_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/VMA21_protein_hg38.html)
 
-![image](../../images/proteinpaint/VMA21_NM_001017980.svg)
+![image](images/proteinpaint/VMA21_NM_001017980.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/VMA21.html)
 
-![image](../../images/proteinpaint/VMA21.svg)
+![image](images/proteinpaint/VMA21.svg)

@@ -27,8 +27,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TFAP4_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TFAP4_protein_hg38.html)
 
-![image](../../images/proteinpaint/TFAP4_NM_003223.svg)
+![image](images/proteinpaint/TFAP4_NM_003223.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TFAP4.html)
 
-![image](../../images/proteinpaint/TFAP4.svg)
+![image](images/proteinpaint/TFAP4.svg)

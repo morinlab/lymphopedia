@@ -31,8 +31,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ETV6_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ETV6_protein_hg38.html)
 
-![image](../../images/proteinpaint/ETV6_NM_001987.svg)
+![image](images/proteinpaint/ETV6_NM_001987.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ETV6.html)
 
-![image](../../images/proteinpaint/ETV6.svg)
+![image](images/proteinpaint/ETV6.svg)

@@ -28,8 +28,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TIPARP_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TIPARP_protein_hg38.html)
 
-![image](../../images/proteinpaint/TIPARP_NM_015508.svg)
+![image](images/proteinpaint/TIPARP_NM_015508.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TIPARP.html)
 
-![image](../../images/proteinpaint/TIPARP.svg)
+![image](images/proteinpaint/TIPARP.svg)

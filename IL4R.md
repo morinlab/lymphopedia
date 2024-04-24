@@ -33,8 +33,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/IL4R_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/IL4R_protein_hg38.html)
 
-![image](../../images/proteinpaint/IL4R_NM_000418.svg)
+![image](images/proteinpaint/IL4R_NM_000418.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/IL4R.html)
 
-![image](../../images/proteinpaint/IL4R.svg)
+![image](images/proteinpaint/IL4R.svg)

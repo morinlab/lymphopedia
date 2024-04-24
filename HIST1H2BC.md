@@ -32,4 +32,4 @@ View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morin
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/HIST1H2BC.html)
 
-![image](../../images/proteinpaint/HIST1H2BC.svg)
+![image](images/proteinpaint/HIST1H2BC.svg)

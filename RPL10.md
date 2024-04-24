@@ -27,8 +27,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/RPL10_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/RPL10_protein_hg38.html)
 
-![image](../../images/proteinpaint/RPL10_NM_006013.svg)
+![image](images/proteinpaint/RPL10_NM_006013.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/RPL10.html)
 
-![image](../../images/proteinpaint/RPL10.svg)
+![image](images/proteinpaint/RPL10.svg)

@@ -28,8 +28,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MSH2_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MSH2_protein_hg38.html)
 
-![image](../../images/proteinpaint/MSH2_NM_000251.svg)
+![image](images/proteinpaint/MSH2_NM_000251.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MSH2.html)
 
-![image](../../images/proteinpaint/MSH2.svg)
+![image](images/proteinpaint/MSH2.svg)

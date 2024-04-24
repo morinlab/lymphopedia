@@ -28,4 +28,4 @@ View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morin
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/SETD1B.html)
 
-![image](../../images/proteinpaint/SETD1B.svg)
+![image](images/proteinpaint/SETD1B.svg)

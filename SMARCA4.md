@@ -34,8 +34,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/SMARCA4_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/SMARCA4_protein_hg38.html)
 
-![image](../../images/proteinpaint/SMARCA4_NM_001128849.svg)
+![image](images/proteinpaint/SMARCA4_NM_001128849.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/SMARCA4.html)
 
-![image](../../images/proteinpaint/SMARCA4.svg)
+![image](images/proteinpaint/SMARCA4.svg)

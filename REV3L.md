@@ -27,8 +27,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/REV3L_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/REV3L_protein_hg38.html)
 
-![image](../../images/proteinpaint/REV3L_NM_002912.svg)
+![image](images/proteinpaint/REV3L_NM_002912.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/REV3L.html)
 
-![image](../../images/proteinpaint/REV3L.svg)
+![image](images/proteinpaint/REV3L.svg)

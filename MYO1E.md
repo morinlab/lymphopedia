@@ -30,8 +30,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MYO1E_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MYO1E_protein_hg38.html)
 
-![image](../../images/proteinpaint/MYO1E_NM_004998.svg)
+![image](images/proteinpaint/MYO1E_NM_004998.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MYO1E.html)
 
-![image](../../images/proteinpaint/MYO1E.svg)
+![image](images/proteinpaint/MYO1E.svg)

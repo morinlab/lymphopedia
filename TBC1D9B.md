@@ -27,8 +27,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TBC1D9B_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TBC1D9B_protein_hg38.html)
 
-![image](../../images/proteinpaint/TBC1D9B_NM_198868.svg)
+![image](images/proteinpaint/TBC1D9B_NM_198868.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TBC1D9B.html)
 
-![image](../../images/proteinpaint/TBC1D9B.svg)
+![image](images/proteinpaint/TBC1D9B.svg)

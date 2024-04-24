@@ -28,8 +28,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TLR2_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TLR2_protein_hg38.html)
 
-![image](../../images/proteinpaint/TLR2_NM_003264.svg)
+![image](images/proteinpaint/TLR2_NM_003264.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TLR2.html)
 
-![image](../../images/proteinpaint/TLR2.svg)
+![image](images/proteinpaint/TLR2.svg)

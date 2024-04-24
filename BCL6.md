@@ -44,8 +44,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/BCL6_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/BCL6_protein_hg38.html)
 
-![image](../../images/proteinpaint/BCL6_NM_001706.svg)
+![image](images/proteinpaint/BCL6_NM_001706.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/BCL6.html)
 
-![image](../../images/proteinpaint/BCL6.svg)
+![image](images/proteinpaint/BCL6.svg)

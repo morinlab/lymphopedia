@@ -28,8 +28,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PRPS1_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PRPS1_protein_hg38.html)
 
-![image](../../images/proteinpaint/PRPS1_NM_002764.svg)
+![image](images/proteinpaint/PRPS1_NM_002764.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PRPS1.html)
 
-![image](../../images/proteinpaint/PRPS1.svg)
+![image](images/proteinpaint/PRPS1.svg)

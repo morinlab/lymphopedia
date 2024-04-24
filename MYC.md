@@ -37,8 +37,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MYC_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MYC_protein_hg38.html)
 
-![image](../../images/proteinpaint/MYC_NM_002467.svg)
+![image](images/proteinpaint/MYC_NM_002467.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MYC.html)
 
-![image](../../images/proteinpaint/MYC.svg)
+![image](images/proteinpaint/MYC.svg)

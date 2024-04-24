@@ -30,8 +30,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PTEN_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PTEN_protein_hg38.html)
 
-![image](../../images/proteinpaint/PTEN_NM_000314.svg)
+![image](images/proteinpaint/PTEN_NM_000314.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PTEN.html)
 
-![image](../../images/proteinpaint/PTEN.svg)
+![image](images/proteinpaint/PTEN.svg)

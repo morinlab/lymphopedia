@@ -25,8 +25,8 @@
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PMAIP1_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PMAIP1_protein_hg38.html)
 
-![image](../../images/proteinpaint/PMAIP1_NM_021127.svg)
+![image](images/proteinpaint/PMAIP1_NM_021127.svg)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PMAIP1.html)
 
-![image](../../images/proteinpaint/PMAIP1.svg)
+![image](images/proteinpaint/PMAIP1.svg)
