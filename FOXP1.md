@@ -2,37 +2,45 @@
 
 ## Mutation tier
 
-|Entity|Tier|
-|------|----|
-|DLBCL |2   |
-
+|Entity|Tier|Description                              |
+|:------:|:----:|-----------------------------------------|
+|DLBCL |2   |relevance in DLBCL not firmly established|
 ## Mutation incidence
 
-|Entity|study         |frequency (%)|
-|------|--------------|-------------|
-|DLBCL |GAMBL genomes |0.7          |
-|DLBCL |Schmitz cohort|1.9          |
-|DLBCL |Reddy cohort  |2.1          |
-|DLBCL |Chapuy cohort |3.0          |
+|Entity|source        |frequency (%)|
+|:------:|:--------------:|:-------------:|
+|DLBCL |GAMBL genomes |0.57         |
+|DLBCL |Schmitz cohort|1.90         |
+|DLBCL |Reddy cohort  |2.10         |
+|DLBCL |Chapuy cohort |3.00         |
 
 ## Mutation pattern
 
 |Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|------|----|---------------------|----------------|----------------|
+|:------:|:----:|:---------------------:|:----------------:|:----------------:|
 |BL    |Yes |No                   |1.218           | 9.469          |
 |DLBCL |Yes |No                   |7.387           |17.777          |
 |FL    |Yes |No                   |0.000           | 0.000          |
 
 ## aSHM regions
 
-|chr_name|hg19_start|hg19_end|region   |regulatory_comment|
-|--------|----------|--------|---------|------------------|
-|chr3    |71104986  |71119518|TSS-4    |active_promoter   |
-|chr3    |71176427  |71180960|TSS-3    |active_promoter   |
-|chr3    |71350633  |71357665|TSS-2    |active_promoter   |
-|chr3    |71503103  |71504870|intron-1b|intron            |
-|chr3    |71550753  |71551478|intron-1a|intron            |
-|chr3    |71626341  |71635648|TSS-1    |active_promoter   |
+|chr_name|hg19_start|hg19_end|region                                                                                         |regulatory_comment|
+|:--------:|:----------:|:--------:|:-----------------------------------------------------------------------------------------------:|:------------------:|
+|chr3    |71104986  |71119518|[TSS-4](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr3%3A71104986%2D71119518)    |active_promoter   |
+|chr3    |71176427  |71180960|[TSS-3](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr3%3A71176427%2D71180960)    |active_promoter   |
+|chr3    |71350633  |71357665|[TSS-2](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr3%3A71350633%2D71357665)    |active_promoter   |
+|chr3    |71503103  |71504870|[intron-1b](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr3%3A71503103%2D71504870)|intron            |
+|chr3    |71550753  |71551478|[intron-1a](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr3%3A71550753%2D71551478)|intron            |
+|chr3    |71626341  |71635648|[TSS-1](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr3%3A71626341%2D71635648)    |active_promoter   |
 
 > [!NOTE]
 > First described in DLBCL in 2017 by [Reddy A](https://pubmed.ncbi.nlm.nih.gov/28985567)
+
+View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/FOXP1_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/FOXP1_protein_hg38.html)
+
+![image](../../images/proteinpaint/FOXP1_NM_001349338.svg
+images/proteinpaint/FOXP1_NM_032682.svg)
+
+View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/FOXP1.html)
+
+![image](../../images/proteinpaint/FOXP1.svg)

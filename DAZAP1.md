@@ -2,24 +2,32 @@
 
 ## Mutation tier
 
-|Entity|Tier|
-|------|----|
-|DLBCL |1   |
-
+|Entity|Tier|Description               |
+|:------:|:----:|--------------------------|
+|DLBCL |1   |high-confidence DLBCL gene|
 ## Mutation incidence
 
-|Entity|study         |frequency (%)|
-|------|--------------|-------------|
-|DLBCL |GAMBL genomes |2.0          |
-|DLBCL |Schmitz cohort|5.3          |
-|DLBCL |Reddy cohort  |1.6          |
-|DLBCL |Chapuy cohort |0.4          |
+|Entity|source        |frequency (%)|
+|:------:|:--------------:|:-------------:|
+|DLBCL |GAMBL genomes |1.91         |
+|DLBCL |Schmitz cohort|5.30         |
+|DLBCL |Reddy cohort  |1.60         |
+|DLBCL |Chapuy cohort |0.40         |
 
 ## Mutation pattern
 
 |Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|------|----|---------------------|----------------|----------------|
+|:------:|:----:|:---------------------:|:----------------:|:----------------:|
 |BL    |No  |No                   |0               | 0.000          |
 |DLBCL |No  |No                   |0               |35.642          |
 |FL    |No  |No                   |0               |53.351          |
 
+
+
+View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/DAZAP1_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/DAZAP1_protein_hg38.html)
+
+![image](../../images/proteinpaint/DAZAP1_ENST00000233078.svg)
+
+View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/DAZAP1.html)
+
+![image](../../images/proteinpaint/DAZAP1.svg)

@@ -2,24 +2,30 @@
 
 ## Mutation tier
 
-|Entity|Tier|
-|------|----|
-|DLBCL |1   |
-
+|Entity|Tier|Description               |
+|:------:|:----:|--------------------------|
+|DLBCL |1   |high-confidence DLBCL gene|
 ## Mutation incidence
 
-|Entity|study         |frequency (%)|
-|------|--------------|-------------|
-|DLBCL |GAMBL genomes |3.6          |
-|DLBCL |Schmitz cohort|8.1          |
-|DLBCL |Reddy cohort  |3.2          |
-|DLBCL |Chapuy cohort |4.3          |
+|Entity|source        |frequency (%)|
+|:------:|:--------------:|:-------------:|
+|DLBCL |GAMBL genomes |3.25         |
+|DLBCL |Schmitz cohort|8.10         |
+|DLBCL |Reddy cohort  |3.20         |
+|DLBCL |Chapuy cohort |4.30         |
 
 ## Mutation pattern
 
 |Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|------|----|---------------------|----------------|----------------|
+|:------:|:----:|:---------------------:|:----------------:|:----------------:|
 |BL    |No  |No                   |2.021           | 0.000          |
 |DLBCL |No  |No                   |0.893           | 2.648          |
 |FL    |No  |No                   |0.649           |12.057          |
 
+
+
+View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MYOM2_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MYOM2_protein_hg38.html)
+
+View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MYOM2.html)
+
+![image](../../images/proteinpaint/MYOM2.svg)

@@ -2,26 +2,34 @@
 
 ## Mutation tier
 
-|Entity|Tier|
-|------|----|
-|DLBCL |1   |
-|FL    |1   |
-
+|Entity|Tier|Description               |
+|:------:|:----:|--------------------------|
+|DLBCL |1   |high-confidence DLBCL gene|
+|FL    |1   |high-confidence FL gene   |
 ## Mutation incidence
 
-|Entity|study         |frequency (%)|
-|------|--------------|-------------|
-|DLBCL |GAMBL genomes |4.7          |
-|DLBCL |Schmitz cohort|7.7          |
-|DLBCL |Reddy cohort  |5.2          |
-|DLBCL |Chapuy cohort |5.6          |
-|FL    |GAMBL genomes |3.7          |
+|Entity|source        |frequency (%)|
+|:------:|:--------------:|:-------------:|
+|DLBCL |GAMBL genomes |5.54         |
+|DLBCL |Schmitz cohort|7.70         |
+|DLBCL |Reddy cohort  |5.20         |
+|DLBCL |Chapuy cohort |5.60         |
+|FL    |GAMBL genomes |3.70         |
 
 ## Mutation pattern
 
 |Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|------|----|---------------------|----------------|----------------|
+|:------:|:----:|:---------------------:|:----------------:|:----------------:|
 |BL    |No  |No                   |1.905           |0.000           |
 |DLBCL |No  |No                   |0.969           |0.000           |
 |FL    |No  |No                   |1.549           |3.769           |
 
+
+
+View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PTPRD_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PTPRD_protein_hg38.html)
+
+![image](../../images/proteinpaint/PTPRD_NM_002839.svg)
+
+View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PTPRD.html)
+
+![image](../../images/proteinpaint/PTPRD.svg)

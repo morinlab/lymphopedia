@@ -2,20 +2,19 @@
 
 ## Mutation tier
 
-|Entity|Tier|
-|------|----|
-|BL    |2   |
-|DLBCL |1   |
-|FL    |1   |
-
+|Entity|Tier|Description                           |
+|:------:|:----:|--------------------------------------|
+|BL    |2   |relevance in BL not firmly established|
+|DLBCL |1   |high-confidence DLBCL gene            |
+|FL    |1   |high-confidence FL gene               |
 ## Mutation incidence
 
-|Entity|study                |frequency (%)|
-|------|---------------------|-------------|
+|Entity|source               |frequency (%)|
+|:------:|:---------------------:|:-------------:|
 |BL    |GAMBL genomes+capture| 0.69        |
 |BL    |Thomas cohort        | 0.00        |
 |BL    |Panea cohort         | 2.00        |
-|DLBCL |GAMBL genomes        |14.40        |
+|DLBCL |GAMBL genomes        |12.43        |
 |DLBCL |Schmitz cohort       |18.10        |
 |DLBCL |Reddy cohort         |13.10        |
 |DLBCL |Chapuy cohort        |18.40        |
@@ -24,13 +23,22 @@
 ## Mutation pattern
 
 |Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|------|----|---------------------|----------------|----------------|
+|:------:|:----:|:---------------------:|:----------------:|:----------------:|
 |BL    |Yes |No                   | 0.000          |  0.000         |
 |DLBCL |Yes |Yes                  |23.522          |254.537         |
 |FL    |Yes |Yes                  |60.545          |310.498         |
 
 ## aSHM regions
 
-|chr_name|hg19_start|hg19_end|region|regulatory_comment|
-|--------|----------|--------|------|------------------|
-|chrX    |12993308  |12994511|intron|active_promoter   |
+|chr_name|hg19_start|hg19_end|region                                                                                      |regulatory_comment|
+|:--------:|:----------:|:--------:|:--------------------------------------------------------------------------------------------:|:------------------:|
+|chrX    |12993308  |12994511|[intron](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chrX%3A12993308%2D12994511)|active_promoter   |
+
+
+View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TMSB4X_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TMSB4X_protein_hg38.html)
+
+![image](../../images/proteinpaint/TMSB4X_NM_021109.svg)
+
+View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TMSB4X.html)
+
+![image](../../images/proteinpaint/TMSB4X.svg)

@@ -2,26 +2,34 @@
 
 ## Mutation tier
 
-|Entity|Tier|
-|------|----|
-|DLBCL |1   |
-|FL    |2   |
-
+|Entity|Tier|Description                           |
+|:------:|:----:|--------------------------------------|
+|DLBCL |1   |high-confidence DLBCL gene            |
+|FL    |2   |relevance in FL not firmly established|
 ## Mutation incidence
 
-|Entity|study         |frequency (%)|
-|------|--------------|-------------|
-|DLBCL |GAMBL genomes |2.7          |
+|Entity|source        |frequency (%)|
+|:------:|:--------------:|:-------------:|
+|DLBCL |GAMBL genomes |2.1          |
 |DLBCL |Schmitz cohort|2.1          |
 |DLBCL |Reddy cohort  |1.8          |
 |DLBCL |Chapuy cohort |0.9          |
-|FL    |GAMBL genomes |0.0          |
+|FL    |GAMBL genomes | NA          |
 
 ## Mutation pattern
 
 |Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|------|----|---------------------|----------------|----------------|
+|:------:|:----:|:---------------------:|:----------------:|:----------------:|
 |BL    |No  |No                   |0.000           |19.81           |
 |DLBCL |No  |No                   |1.554           | 0.00           |
 |FL    |No  |No                   |0.000           | 0.00           |
 
+
+
+View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/HNRNPD_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/HNRNPD_protein_hg38.html)
+
+![image](../../images/proteinpaint/HNRNPD_NM_031370.svg)
+
+View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/HNRNPD.html)
+
+![image](../../images/proteinpaint/HNRNPD.svg)

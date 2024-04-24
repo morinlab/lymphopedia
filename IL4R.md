@@ -2,32 +2,39 @@
 
 ## Mutation tier
 
-|Entity|Tier|
-|------|----|
-|DLBCL |1   |
-
+|Entity|Tier|Description               |
+|:------:|:----:|--------------------------|
+|DLBCL |1   |high-confidence DLBCL gene|
 ## Mutation incidence
 
-|Entity|study         |frequency (%)|
-|------|--------------|-------------|
-|DLBCL |GAMBL genomes |2.5          |
-|DLBCL |Schmitz cohort|2.1          |
-|DLBCL |Reddy cohort  |2.5          |
-|DLBCL |Chapuy cohort |3.8          |
+|Entity|source        |frequency (%)|
+|:------:|:--------------:|:-------------:|
+|DLBCL |GAMBL genomes |2.68         |
+|DLBCL |Schmitz cohort|2.10         |
+|DLBCL |Reddy cohort  |2.50         |
+|DLBCL |Chapuy cohort |3.80         |
 
 ## Mutation pattern
 
 |Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|------|----|---------------------|----------------|----------------|
+|:------:|:----:|:---------------------:|:----------------:|:----------------:|
 |BL    |Yes |No                   |3.355           |0               |
 |DLBCL |Yes |No                   |9.640           |0               |
 |FL    |Yes |No                   |0.000           |0               |
 
 ## aSHM regions
 
-|chr_name|hg19_start|hg19_end|region|regulatory_comment|
-|--------|----------|--------|------|------------------|
-|chr16   |27322895  |27329423|TSS   |active_promoter   |
+|chr_name|hg19_start|hg19_end|region                                                                                    |regulatory_comment|
+|:--------:|:----------:|:--------:|:------------------------------------------------------------------------------------------:|:------------------:|
+|chr16   |27322895  |27329423|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr16%3A27322895%2D27329423)|active_promoter   |
 
 > [!NOTE]
 > First described in DLBCL in 2021 by [Duns G](https://pubmed.ncbi.nlm.nih.gov/33684939)
+
+View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/IL4R_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/IL4R_protein_hg38.html)
+
+![image](../../images/proteinpaint/IL4R_NM_000418.svg)
+
+View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/IL4R.html)
+
+![image](../../images/proteinpaint/IL4R.svg)

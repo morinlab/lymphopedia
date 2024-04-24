@@ -2,24 +2,32 @@
 
 ## Mutation tier
 
-|Entity|Tier|
-|------|----|
-|DLBCL |1   |
-
+|Entity|Tier|Description               |
+|:------:|:----:|--------------------------|
+|DLBCL |1   |high-confidence DLBCL gene|
 ## Mutation incidence
 
-|Entity|study         |frequency (%)|
-|------|--------------|-------------|
-|DLBCL |GAMBL genomes |4.1          |
-|DLBCL |Schmitz cohort|8.3          |
-|DLBCL |Reddy cohort  |5.7          |
-|DLBCL |Chapuy cohort |4.3          |
+|Entity|source        |frequency (%)|
+|:------:|:--------------:|:-------------:|
+|DLBCL |GAMBL genomes |4.21         |
+|DLBCL |Schmitz cohort|8.30         |
+|DLBCL |Reddy cohort  |5.70         |
+|DLBCL |Chapuy cohort |4.30         |
 
 ## Mutation pattern
 
 |Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|------|----|---------------------|----------------|----------------|
+|:------:|:----:|:---------------------:|:----------------:|:----------------:|
 |BL    |No  |No                   |0.768           |0.000           |
 |DLBCL |No  |No                   |1.730           |0.000           |
 |FL    |No  |No                   |0.000           |4.014           |
 
+
+
+View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/VPS13B_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/VPS13B_protein_hg38.html)
+
+![image](../../images/proteinpaint/VPS13B_NM_152564.svg)
+
+View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/VPS13B.html)
+
+![image](../../images/proteinpaint/VPS13B.svg)

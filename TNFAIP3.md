@@ -2,20 +2,19 @@
 
 ## Mutation tier
 
-|Entity|Tier|
-|------|----|
-|BL    |2   |
-|DLBCL |1   |
-|FL    |1   |
-
+|Entity|Tier|Description                           |
+|:------:|:----:|--------------------------------------|
+|BL    |2   |relevance in BL not firmly established|
+|DLBCL |1   |high-confidence DLBCL gene            |
+|FL    |1   |high-confidence FL gene               |
 ## Mutation incidence
 
-|Entity|study                |frequency (%)|
-|------|---------------------|-------------|
+|Entity|source               |frequency (%)|
+|:------:|:---------------------:|:-------------:|
 |BL    |GAMBL genomes+capture| 1.39        |
 |BL    |Thomas cohort        | 0.80        |
 |BL    |Panea cohort         | 2.00        |
-|DLBCL |GAMBL genomes        | 6.10        |
+|DLBCL |GAMBL genomes        | 6.69        |
 |DLBCL |Schmitz cohort       |16.60        |
 |DLBCL |Reddy cohort         | 8.10        |
 |DLBCL |Chapuy cohort        |12.40        |
@@ -24,8 +23,17 @@
 ## Mutation pattern
 
 |Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|------|----|---------------------|----------------|----------------|
+|:------:|:----:|:---------------------:|:----------------:|:----------------:|
 |BL    |No  |No                   |1.168           |16.846          |
 |DLBCL |No  |Yes                  |1.550           |30.319          |
 |FL    |No  |No                   |5.686           |75.953          |
 
+
+
+View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TNFAIP3_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TNFAIP3_protein_hg38.html)
+
+![image](../../images/proteinpaint/TNFAIP3_NM_006290.svg)
+
+View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TNFAIP3.html)
+
+![image](../../images/proteinpaint/TNFAIP3.svg)

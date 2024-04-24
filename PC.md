@@ -2,14 +2,13 @@
 
 ## Mutation tier
 
-|Entity|Tier|
-|------|----|
-|BL    |2   |
-
+|Entity|Tier|Description                           |
+|:------:|:----:|--------------------------------------|
+|BL    |2   |relevance in BL not firmly established|
 ## Mutation incidence
 
-|Entity|study                |frequency (%)|
-|------|---------------------|-------------|
+|Entity|source               |frequency (%)|
+|:------:|:---------------------:|:-------------:|
 |BL    |GAMBL genomes+capture|2.54         |
 |BL    |Thomas cohort        |  NA         |
 |BL    |Panea cohort         |  NA         |
@@ -17,7 +16,7 @@
 ## Mutation pattern
 
 |Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|------|----|---------------------|----------------|----------------|
+|:------:|:----:|:---------------------:|:----------------:|:----------------:|
 |BL    |No  |No                   |2.187           | 0.000          |
 |DLBCL |No  |No                   |0.000           |10.914          |
 |FL    |No  |No                   |0.000           |27.654          |
@@ -25,3 +24,11 @@
 
 > [!NOTE]
 > First described in BL in 2012 by [Love C](https://pubmed.ncbi.nlm.nih.gov/23143597)
+
+View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PC_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PC_protein_hg38.html)
+
+![image](../../images/proteinpaint/PC_NM_000920.svg)
+
+View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PC.html)
+
+![image](../../images/proteinpaint/PC.svg)
