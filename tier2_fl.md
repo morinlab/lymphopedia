@@ -1,6 +1,6 @@
 # FL genes, Tier 2
-| Gene | Details | Mutation frequency | Static view (Gene) | Static view (Protein) |
-| :---: | :---: | :---: | :---: | :---: |
+| Gene | Details | Mutation frequency | Static view (Gene) | Static view (Protein) | Comment |
+| :---: | :---: | :---: | :---: | :---: | ---------- |
 | ABL2 | [gene page](ABL2) | 0.69 | [view](images/proteinpaint/ABL2.svg) | [view](images/proteinpaint/ABL2_NM_007314.svg) |
 | ACTG1 | [gene page](ACTG1) | 3.00 | [LOAD](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ACTG1.html) | [LOAD](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ACTG1_protein.html) |
 | ATP6V1A | [gene page](ATP6V1A) | 1.15 | [LOAD](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ATP6V1A.html) | [LOAD](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ATP6V1A_protein.html) |

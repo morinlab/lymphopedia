@@ -1,6 +1,6 @@
 # MCL genes, Tier 2
-| Gene | Details | Mutation frequency | Static view (Gene) | Static view (Protein) |
-| :---: | :---: | :---: | :---: | :---: |
+| Gene | Details | Mutation frequency | Static view (Gene) | Static view (Protein) | Comment |
+| :---: | :---: | :---: | :---: | :---: | ---------- |
 | ANK2 | [gene page](ANK2) | 1.9 | [view](images/proteinpaint/ANK2.svg) | [view](images/proteinpaint/ANK2_NM_001148.svg) |
 | ARID1B | [gene page](ARID1B) | 1.9 | [view](images/proteinpaint/ARID1B.svg) | [view](images/proteinpaint/ARID1B_NM_017519.svg) |
 | ATP11C | [gene page](ATP11C) | 0 | [view](images/proteinpaint/ATP11C.svg) | [view](images/proteinpaint/ATP11C_NM_173694.svg) |

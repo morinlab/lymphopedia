@@ -1,6 +1,6 @@
 # FL genes, Tier 1
-| Gene | Details | Mutation frequency | Static view (Gene) | Static view (Protein) |
-| :---: | :---: | :---: | :---: | :---: |
+| Gene | Details | Mutation frequency | Static view (Gene) | Static view (Protein) | Comment |
+| :---: | :---: | :---: | :---: | :---: | ---------- |
 | ACTB | [gene page](ACTB) | 5.31 | [view](images/proteinpaint/ACTB.svg) | [view](images/proteinpaint/ACTB_NM_001101.svg) |
 | ARID1A | [gene page](ARID1A) | 12.47 | [view](images/proteinpaint/ARID1A.svg) | [view](images/proteinpaint/ARID1A_NM_006015.svg) |
 | ATP6AP1 | [gene page](ATP6AP1) | 4.85 | [view](images/proteinpaint/ATP6AP1.svg) | [view](images/proteinpaint/ATP6AP1_NM_001183.svg) |

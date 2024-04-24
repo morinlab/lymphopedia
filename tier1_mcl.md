@@ -1,6 +1,6 @@
 # MCL genes, Tier 1
-| Gene | Details | Mutation frequency | Static view (Gene) | Static view (Protein) |
-| :---: | :---: | :---: | :---: | :---: |
+| Gene | Details | Mutation frequency | Static view (Gene) | Static view (Protein) | Comment |
+| :---: | :---: | :---: | :---: | :---: | ---------- |
 | ATM | [gene page](ATM) | 45.02 | [view](images/proteinpaint/ATM.svg) | [view](images/proteinpaint/ATM_NM_000051.svg) |
 | BCOR | [gene page](BCOR) | 3.79 | [view](images/proteinpaint/BCOR.svg) | [view](images/proteinpaint/BCOR_NM_017745.svg) |
 | BIRC3 | [gene page](BIRC3) | 7.11 | [view](images/proteinpaint/BIRC3.svg) | [view](images/proteinpaint/BIRC3_NM_001165.svg) |

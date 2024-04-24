@@ -1,6 +1,6 @@
 # BL genes, Tier 2
-| Gene | Details | Mutation frequency | Static view (Gene) | Static view (Protein) |
-| :---: | :---: | :---: | :---: | :---: |
+| Gene | Details | Mutation frequency | Static view (Gene) | Static view (Protein) | Comment |
+| :---: | :---: | :---: | :---: | :---: | ---------- |
 | ALPK2 | [gene page](ALPK2) | 3.93 | [view](images/proteinpaint/ALPK2.svg) | [view](images/proteinpaint/ALPK2_NM_052947.svg) |
 | B2M | [gene page](B2M) | 2.31 | [view](images/proteinpaint/B2M.svg) | [view](images/proteinpaint/B2M_NM_004048.svg) |
 | BACH2 | [gene page](BACH2) | 1.85 | [view](images/proteinpaint/BACH2.svg) | [view](images/proteinpaint/BACH2_NM_021813.svg) |

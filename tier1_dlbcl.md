@@ -1,6 +1,6 @@
 # DLBCL genes, Tier 1
-| Gene | Details | Mutation frequency | Static view (Gene) | Static view (Protein) |
-| :---: | :---: | :---: | :---: | :---: |
+| Gene | Details | Mutation frequency | Static view (Gene) | Static view (Protein) | Comment |
+| :---: | :---: | :---: | :---: | :---: | ---------- |
 | ACTB | [gene page](ACTB) | 9.18 | [view](images/proteinpaint/ACTB.svg) | [view](images/proteinpaint/ACTB_NM_001101.svg) |
 | ACTG1 | [gene page](ACTG1) | 5.35 | [LOAD](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ACTG1.html) | [LOAD](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ACTG1_protein.html) |
 | ARID1A | [gene page](ARID1A) | 8.80 | [view](images/proteinpaint/ARID1A.svg) | [view](images/proteinpaint/ARID1A_NM_006015.svg) |

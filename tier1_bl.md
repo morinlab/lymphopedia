@@ -1,6 +1,6 @@
 # BL genes, Tier 1
-| Gene | Details | Mutation frequency | Static view (Gene) | Static view (Protein) |
-| :---: | :---: | :---: | :---: | :---: |
+| Gene | Details | Mutation frequency | Static view (Gene) | Static view (Protein) | Comment |
+| :---: | :---: | :---: | :---: | :---: | ---------- |
 | ARID1A | [gene page](ARID1A) | 28.64 | [view](images/proteinpaint/ARID1A.svg) | [view](images/proteinpaint/ARID1A_NM_006015.svg) |
 | BMP7 | [gene page](BMP7) | 6.47 | [view](images/proteinpaint/BMP7.svg) | [view](images/proteinpaint/BMP7_NM_001719.svg) |
 | CCND3 | [gene page](CCND3) | 27.48 | [view](images/proteinpaint/CCND3.svg) | [view](images/proteinpaint/CCND3_NM_001760.svg) |
