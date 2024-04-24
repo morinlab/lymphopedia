@@ -33,10 +33,11 @@
 > [!NOTE]
 > First described in DLBCL in 2012 by [Lohr JG](https://pubmed.ncbi.nlm.nih.gov/22343534)
 
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ACTB_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ACTB_protein_hg38.html)
 
 ![image](images/proteinpaint/ACTB_NM_001101.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ACTB.html)
+View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ACTB.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ACTB_hg38.html)
 
 ![image](images/proteinpaint/ACTB.svg)

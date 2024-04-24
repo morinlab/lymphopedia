@@ -30,10 +30,11 @@
 
 
 
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CD79B_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CD79B_protein_hg38.html)
 
 ![image](images/proteinpaint/CD79B_NM_000626.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CD79B.html)
+View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CD79B.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CD79B_hg38.html)
 
 ![image](images/proteinpaint/CD79B.svg)

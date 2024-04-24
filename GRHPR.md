@@ -29,10 +29,11 @@
 |chr9    |37423010  |37425279|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr9%3A37423010%2D37425279)|active_promoter   |
 
 
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/GRHPR_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/GRHPR_protein_hg38.html)
 
 ![image](images/proteinpaint/GRHPR_NM_012203.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/GRHPR.html)
+View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/GRHPR.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/GRHPR_hg38.html)
 
 ![image](images/proteinpaint/GRHPR.svg)

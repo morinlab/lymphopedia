@@ -25,10 +25,11 @@
 > [!NOTE]
 > First described in BL in 2019 by [Panea RI](https://pubmed.ncbi.nlm.nih.gov/31558468)
 
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/EPPK1_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/EPPK1_protein_hg38.html)
 
 ![image](images/proteinpaint/EPPK1_NM_031308.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/EPPK1.html)
+View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/EPPK1.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/EPPK1_hg38.html)
 
 ![image](images/proteinpaint/EPPK1.svg)

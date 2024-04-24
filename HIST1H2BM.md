@@ -23,10 +23,11 @@
 > [!NOTE]
 > First described in FL in 2023 by [Russler-Germain DA](https://pubmed.ncbi.nlm.nih.gov/37493986)
 
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/HIST1H2BM_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/HIST1H2BM_protein_hg38.html)
 
 ![image](images/proteinpaint/HIST1H2BM_NM_003521.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/HIST1H2BM.html)
+View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/HIST1H2BM.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/HIST1H2BM_hg38.html)
 
 ![image](images/proteinpaint/HIST1H2BM.svg)

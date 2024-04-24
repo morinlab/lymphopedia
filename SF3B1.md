@@ -30,10 +30,11 @@
 > [!NOTE]
 > First described in BL in 2012 by [Love C](https://pubmed.ncbi.nlm.nih.gov/23143597)
 
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/SF3B1_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/SF3B1_protein_hg38.html)
 
 ![image](images/proteinpaint/SF3B1_NM_012433.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/SF3B1.html)
+View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/SF3B1.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/SF3B1_hg38.html)
 
 ![image](images/proteinpaint/SF3B1.svg)

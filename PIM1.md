@@ -37,10 +37,11 @@
 > [!NOTE]
 > First described in BL in 2022 by [Burkhardt B](https://pubmed.ncbi.nlm.nih.gov/35794096). First described in DLBCL in 2001 by [Pasqualucci L](https://pubmed.ncbi.nlm.nih.gov/11460166)
 
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PIM1_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PIM1_protein_hg38.html)
 
 ![image](images/proteinpaint/PIM1_NM_002648.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PIM1.html)
+View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PIM1.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PIM1_hg38.html)
 
 ![image](images/proteinpaint/PIM1.svg)

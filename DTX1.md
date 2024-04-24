@@ -37,10 +37,11 @@
 > [!NOTE]
 > First described in BL in 2019 by [Panea RI](https://pubmed.ncbi.nlm.nih.gov/31558468). First described in DLBCL in 2018 by [Schmitz R](https://pubmed.ncbi.nlm.nih.gov/29641966)
 
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/DTX1_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/DTX1_protein_hg38.html)
 
 ![image](images/proteinpaint/DTX1_NM_004416.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/DTX1.html)
+View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/DTX1.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/DTX1_hg38.html)
 
 ![image](images/proteinpaint/DTX1.svg)

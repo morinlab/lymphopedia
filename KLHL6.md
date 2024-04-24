@@ -35,10 +35,11 @@
 |chr3    |183269360 |183274139|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr3%3A183269360%2D183274139)|active_promoter-strong_enhancer|
 
 
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/KLHL6_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/KLHL6_protein_hg38.html)
 
 ![image](images/proteinpaint/KLHL6_NM_130446.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/KLHL6.html)
+View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/KLHL6.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/KLHL6_hg38.html)
 
 ![image](images/proteinpaint/KLHL6.svg)

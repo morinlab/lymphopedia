@@ -26,10 +26,11 @@
 > [!NOTE]
 > First described in DLBCL in 2013 by [Zhang J](https://pubmed.ncbi.nlm.nih.gov/23292937)
 
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/KLHL14_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/KLHL14_protein_hg38.html)
 
 ![image](images/proteinpaint/KLHL14_NM_020805.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/KLHL14.html)
+View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/KLHL14.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/KLHL14_hg38.html)
 
 ![image](images/proteinpaint/KLHL14.svg)

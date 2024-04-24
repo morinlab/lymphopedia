@@ -30,10 +30,11 @@
 > [!NOTE]
 > First described in BL in 2012 by [Love C](https://pubmed.ncbi.nlm.nih.gov/23143597). First described in DLBCL in 2012 by [Lohr JG](https://pubmed.ncbi.nlm.nih.gov/22343534)
 
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/BRAF_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/BRAF_protein_hg38.html)
 
 ![image](images/proteinpaint/BRAF_NM_004333.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/BRAF.html)
+View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/BRAF.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/BRAF_hg38.html)
 
 ![image](images/proteinpaint/BRAF.svg)

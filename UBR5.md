@@ -26,10 +26,11 @@
 > [!NOTE]
 > First described in DLBCL in 2013 by [Zhang J](https://pubmed.ncbi.nlm.nih.gov/23292937)
 
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/UBR5_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/UBR5_protein_hg38.html)
 
 ![image](images/proteinpaint/UBR5_NM_015902.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/UBR5.html)
+View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/UBR5.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/UBR5_hg38.html)
 
 ![image](images/proteinpaint/UBR5.svg)

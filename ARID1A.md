@@ -32,10 +32,11 @@
 > [!NOTE]
 > First described in BL in 2012 by [Love C](https://pubmed.ncbi.nlm.nih.gov/23143597). First described in DLBCL in 2013 by [Zhang J](https://pubmed.ncbi.nlm.nih.gov/23292937)
 
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ARID1A_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ARID1A_protein_hg38.html)
 
 ![image](images/proteinpaint/ARID1A_NM_006015.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ARID1A.html)
+View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ARID1A.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ARID1A_hg38.html)
 
 ![image](images/proteinpaint/ARID1A.svg)

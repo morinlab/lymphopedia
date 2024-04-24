@@ -26,10 +26,11 @@
 > [!NOTE]
 > First described in DLBCL in 2018 by [Schmitz R](https://pubmed.ncbi.nlm.nih.gov/29641966)
 
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PAPOLG_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PAPOLG_protein_hg38.html)
 
 ![image](images/proteinpaint/PAPOLG_NM_022894.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PAPOLG.html)
+View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PAPOLG.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PAPOLG_hg38.html)
 
 ![image](images/proteinpaint/PAPOLG.svg)

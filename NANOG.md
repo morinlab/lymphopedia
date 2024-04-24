@@ -26,10 +26,11 @@
 > [!NOTE]
 > First described in DLBCL in 2018 by [Chapuy B](https://pubmed.ncbi.nlm.nih.gov/29713087)
 
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/NANOG_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/NANOG_protein_hg38.html)
 
 ![image](images/proteinpaint/NANOG_NM_024865.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/NANOG.html)
+View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/NANOG.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/NANOG_hg38.html)
 
 ![image](images/proteinpaint/NANOG.svg)

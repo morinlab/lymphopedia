@@ -26,10 +26,11 @@
 > [!NOTE]
 > First described in DLBCL in 2013 by [Zhang J](https://pubmed.ncbi.nlm.nih.gov/23292937)
 
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/STAT5B_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/STAT5B_protein_hg38.html)
 
 ![image](images/proteinpaint/STAT5B_NM_012448.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/STAT5B.html)
+View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/STAT5B.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/STAT5B_hg38.html)
 
 ![image](images/proteinpaint/STAT5B.svg)

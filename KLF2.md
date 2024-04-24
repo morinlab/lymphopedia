@@ -33,10 +33,11 @@
 > [!NOTE]
 > First described in DLBCL in 2018 by [Schmitz R](https://pubmed.ncbi.nlm.nih.gov/29641966)
 
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/KLF2_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/KLF2_protein_hg38.html)
 
 ![image](images/proteinpaint/KLF2_NM_016270.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/KLF2.html)
+View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/KLF2.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/KLF2_hg38.html)
 
 ![image](images/proteinpaint/KLF2.svg)

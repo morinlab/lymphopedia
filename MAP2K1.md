@@ -26,10 +26,11 @@
 
 
 
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MAP2K1_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MAP2K1_protein_hg38.html)
 
 ![image](images/proteinpaint/MAP2K1_NM_002755.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MAP2K1.html)
+View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MAP2K1.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MAP2K1_hg38.html)
 
 ![image](images/proteinpaint/MAP2K1.svg)

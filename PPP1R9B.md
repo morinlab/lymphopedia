@@ -24,8 +24,9 @@
 
 
 
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PPP1R9B_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PPP1R9B_protein_hg38.html)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PPP1R9B.html)
+View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PPP1R9B.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PPP1R9B_hg38.html)
 
 ![image](images/proteinpaint/PPP1R9B.svg)

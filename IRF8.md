@@ -35,10 +35,11 @@
 |chr16   |85931918  |85933977|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr16%3A85931918%2D85933977)|active_promoter   |
 
 
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/IRF8_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/IRF8_protein_hg38.html)
 
 ![image](images/proteinpaint/IRF8_NM_002163.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/IRF8.html)
+View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/IRF8.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/IRF8_hg38.html)
 
 ![image](images/proteinpaint/IRF8.svg)

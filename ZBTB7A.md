@@ -30,10 +30,11 @@
 > [!NOTE]
 > First described in BL in 2022 by [Burkhardt B](https://pubmed.ncbi.nlm.nih.gov/35794096). First described in DLBCL in 2017 by [Reddy A](https://pubmed.ncbi.nlm.nih.gov/28985567)
 
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ZBTB7A_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ZBTB7A_protein_hg38.html)
 
 ![image](images/proteinpaint/ZBTB7A_NM_015898.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ZBTB7A.html)
+View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ZBTB7A.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ZBTB7A_hg38.html)
 
 ![image](images/proteinpaint/ZBTB7A.svg)

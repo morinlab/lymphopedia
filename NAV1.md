@@ -26,10 +26,11 @@
 > [!NOTE]
 > First described in DLBCL in 2018 by [Chapuy B](https://pubmed.ncbi.nlm.nih.gov/29713087)
 
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/NAV1_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/NAV1_protein_hg38.html)
 
 ![image](images/proteinpaint/NAV1_NM_020443.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/NAV1.html)
+View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/NAV1.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/NAV1_hg38.html)
 
 ![image](images/proteinpaint/NAV1.svg)

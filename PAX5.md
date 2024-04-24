@@ -35,10 +35,11 @@
 > [!NOTE]
 > First described in DLBCL in 2001 by [Pasqualucci L](https://pubmed.ncbi.nlm.nih.gov/11460166)
 
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PAX5_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PAX5_protein_hg38.html)
 
 ![image](images/proteinpaint/PAX5_NM_016734.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PAX5.html)
+View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PAX5.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PAX5_hg38.html)
 
 ![image](images/proteinpaint/PAX5.svg)

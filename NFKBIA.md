@@ -30,10 +30,11 @@
 
 
 
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/NFKBIA_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/NFKBIA_protein_hg38.html)
 
 ![image](images/proteinpaint/NFKBIA_NM_020529.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/NFKBIA.html)
+View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/NFKBIA.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/NFKBIA_hg38.html)
 
 ![image](images/proteinpaint/NFKBIA.svg)

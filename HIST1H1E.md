@@ -32,10 +32,11 @@
 > [!NOTE]
 > First described in BL in 2019 by [Panea RI](https://pubmed.ncbi.nlm.nih.gov/31558468)
 
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/HIST1H1E_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/HIST1H1E_protein_hg38.html)
 
 ![image](images/proteinpaint/HIST1H1E_NM_005321.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/HIST1H1E.html)
+View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/HIST1H1E.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/HIST1H1E_hg38.html)
 
 ![image](images/proteinpaint/HIST1H1E.svg)

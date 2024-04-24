@@ -27,10 +27,11 @@
 |FL    |No  |No                   | 0.000          |  0.000         |
 
 
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/HLA-A_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/HLA-A_protein_hg38.html)
 
 ![image](images/proteinpaint/HLA-A_NM_002116.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/HLA-A.html)
+View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/HLA-A.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/HLA-A_hg38.html)
 
 ![image](images/proteinpaint/HLA-A.svg)

@@ -31,10 +31,11 @@
 > [!NOTE]
 > First described in DLBCL in 2011 by [Morin RD](https://pubmed.ncbi.nlm.nih.gov/21796119)
 
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CIITA_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CIITA_protein_hg38.html)
 
 ![image](images/proteinpaint/CIITA_NM_000246.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CIITA.html)
+View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CIITA.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CIITA_hg38.html)
 
 ![image](images/proteinpaint/CIITA.svg)

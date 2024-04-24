@@ -25,10 +25,11 @@
 > [!NOTE]
 > First described in BL in 2022 by [Burkhardt B](https://pubmed.ncbi.nlm.nih.gov/35794096)
 
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CHD4_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CHD4_protein_hg38.html)
 
 ![image](images/proteinpaint/CHD4_NM_001273.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CHD4.html)
+View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CHD4.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CHD4_hg38.html)
 
 ![image](images/proteinpaint/CHD4.svg)

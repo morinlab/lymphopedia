@@ -28,10 +28,11 @@
 
 
 
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/RHOA_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/RHOA_protein_hg38.html)
 
 ![image](images/proteinpaint/RHOA_NM_001664.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/RHOA.html)
+View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/RHOA.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/RHOA_hg38.html)
 
 ![image](images/proteinpaint/RHOA.svg)

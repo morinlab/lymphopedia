@@ -37,10 +37,11 @@
 > [!NOTE]
 > First described in BL in 2012 by [Schmitz R](https://pubmed.ncbi.nlm.nih.gov/22885699). First described in DLBCL in 2018 by [Schmitz R](https://pubmed.ncbi.nlm.nih.gov/29641966). First described in FL in 2023 by [Dreval K](https://pubmed.ncbi.nlm.nih.gov/37084389)
 
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/DDX3X_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/DDX3X_protein_hg38.html)
 
 ![image](images/proteinpaint/DDX3X_NM_001356.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/DDX3X.html)
+View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/DDX3X.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/DDX3X_hg38.html)
 
 ![image](images/proteinpaint/DDX3X.svg)

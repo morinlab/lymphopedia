@@ -25,10 +25,11 @@
 > [!NOTE]
 > First described in BL in 2019 by [Panea RI](https://pubmed.ncbi.nlm.nih.gov/31558468)
 
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/SYNCRIP_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/SYNCRIP_protein_hg38.html)
 
 ![image](images/proteinpaint/SYNCRIP_NM_006372.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/SYNCRIP.html)
+View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/SYNCRIP.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/SYNCRIP_hg38.html)
 
 ![image](images/proteinpaint/SYNCRIP.svg)

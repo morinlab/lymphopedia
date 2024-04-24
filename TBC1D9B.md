@@ -25,10 +25,11 @@
 > [!NOTE]
 > First described in BL in 2012 by [Love C](https://pubmed.ncbi.nlm.nih.gov/23143597)
 
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TBC1D9B_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TBC1D9B_protein_hg38.html)
 
 ![image](images/proteinpaint/TBC1D9B_NM_198868.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TBC1D9B.html)
+View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TBC1D9B.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TBC1D9B_hg38.html)
 
 ![image](images/proteinpaint/TBC1D9B.svg)

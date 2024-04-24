@@ -36,10 +36,11 @@
 > [!NOTE]
 > First described in BL in 2019 by [Panea RI](https://pubmed.ncbi.nlm.nih.gov/31558468). First described in DLBCL in 2017 by [Mareschal S](https://pubmed.ncbi.nlm.nih.gov/28479318)
 
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/IKZF3_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/IKZF3_protein_hg38.html)
 
 ![image](images/proteinpaint/IKZF3_NM_012481.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/IKZF3.html)
+View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/IKZF3.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/IKZF3_hg38.html)
 
 ![image](images/proteinpaint/IKZF3.svg)

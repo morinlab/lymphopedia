@@ -33,10 +33,11 @@
 |chr5    |88182244  |88206620|[TSS-1](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr5%3A88182244%2D88206620)|active_promoter   |
 
 
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MEF2C_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MEF2C_protein_hg38.html)
 
 ![image](images/proteinpaint/MEF2C_NM_002397.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MEF2C.html)
+View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MEF2C.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MEF2C_hg38.html)
 
 ![image](images/proteinpaint/MEF2C.svg)

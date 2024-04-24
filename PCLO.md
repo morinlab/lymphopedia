@@ -28,10 +28,11 @@
 > [!NOTE]
 > First described in DLBCL in 2012 by [Lohr JG](https://pubmed.ncbi.nlm.nih.gov/22343534)
 
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PCLO_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PCLO_protein_hg38.html)
 
 ![image](images/proteinpaint/PCLO_NM_033026.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PCLO.html)
+View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PCLO.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PCLO_hg38.html)
 
 ![image](images/proteinpaint/PCLO.svg)

@@ -25,10 +25,11 @@
 > [!NOTE]
 > First described in BL in 2023 by [Thomas N](https://pubmed.ncbi.nlm.nih.gov/36201743)
 
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CDKN2C_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CDKN2C_protein_hg38.html)
 
 ![image](images/proteinpaint/CDKN2C_NM_001262.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CDKN2C.html)
+View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CDKN2C.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CDKN2C_hg38.html)
 
 ![image](images/proteinpaint/CDKN2C.svg)

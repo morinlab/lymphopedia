@@ -26,10 +26,11 @@
 > [!NOTE]
 > First described in DLBCL in 2013 by [Zhang J](https://pubmed.ncbi.nlm.nih.gov/23292937)
 
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MGA_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MGA_protein_hg38.html)
 
 ![image](images/proteinpaint/MGA_NM_001164273.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MGA.html)
+View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MGA.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MGA_hg38.html)
 
 ![image](images/proteinpaint/MGA.svg)

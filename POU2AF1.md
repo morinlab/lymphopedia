@@ -31,10 +31,11 @@
 |chr11   |111248078 |111250224|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr11%3A111248078%2D111250224)|active_promoter   |
 
 
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/POU2AF1_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/POU2AF1_protein_hg38.html)
 
 ![image](images/proteinpaint/POU2AF1_NM_006235.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/POU2AF1.html)
+View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/POU2AF1.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/POU2AF1_hg38.html)
 
 ![image](images/proteinpaint/POU2AF1.svg)

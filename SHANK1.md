@@ -25,10 +25,11 @@
 > [!NOTE]
 > First described in BL in 2012 by [Love C](https://pubmed.ncbi.nlm.nih.gov/23143597)
 
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/SHANK1_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/SHANK1_protein_hg38.html)
 
 ![image](images/proteinpaint/SHANK1_NM_016148.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/SHANK1.html)
+View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/SHANK1.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/SHANK1_hg38.html)
 
 ![image](images/proteinpaint/SHANK1.svg)

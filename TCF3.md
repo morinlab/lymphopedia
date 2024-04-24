@@ -25,10 +25,11 @@
 > [!NOTE]
 > First described in BL in 2012 by [Schmitz R](https://pubmed.ncbi.nlm.nih.gov/22885699)
 
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TCF3_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TCF3_protein_hg38.html)
 
 ![image](images/proteinpaint/TCF3_NM_003200.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TCF3.html)
+View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TCF3.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TCF3_hg38.html)
 
 ![image](images/proteinpaint/TCF3.svg)

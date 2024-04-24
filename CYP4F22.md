@@ -25,10 +25,11 @@
 > [!NOTE]
 > First described in BL in 2012 by [Love C](https://pubmed.ncbi.nlm.nih.gov/23143597)
 
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CYP4F22_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CYP4F22_protein_hg38.html)
 
 ![image](images/proteinpaint/CYP4F22_NM_173483.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CYP4F22.html)
+View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CYP4F22.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CYP4F22_hg38.html)
 
 ![image](images/proteinpaint/CYP4F22.svg)

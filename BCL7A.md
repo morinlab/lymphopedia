@@ -37,10 +37,11 @@
 > [!NOTE]
 > First described in BL in 2019 by [Grande BM](https://pubmed.ncbi.nlm.nih.gov/30617194)
 
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/BCL7A_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/BCL7A_protein_hg38.html)
 
 ![image](images/proteinpaint/BCL7A_NM_020993.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/BCL7A.html)
+View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/BCL7A.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/BCL7A_hg38.html)
 
 ![image](images/proteinpaint/BCL7A.svg)

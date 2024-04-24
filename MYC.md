@@ -35,10 +35,11 @@
 |chr8    |128748352 |128749427|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr8%3A128748352%2D128749427)|active_promoter   |
 
 
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MYC_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MYC_protein_hg38.html)
 
 ![image](images/proteinpaint/MYC_NM_002467.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MYC.html)
+View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MYC.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MYC_hg38.html)
 
 ![image](images/proteinpaint/MYC.svg)

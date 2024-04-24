@@ -26,10 +26,11 @@
 > [!NOTE]
 > First described in DLBCL in 2017 by [Reddy A](https://pubmed.ncbi.nlm.nih.gov/28985567)
 
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/DDX10_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/DDX10_protein_hg38.html)
 
 ![image](images/proteinpaint/DDX10_NM_004398.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/DDX10.html)
+View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/DDX10.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/DDX10_hg38.html)
 
 ![image](images/proteinpaint/DDX10.svg)

@@ -28,10 +28,11 @@
 
 
 
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/STAT3_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/STAT3_protein_hg38.html)
 
 ![image](images/proteinpaint/STAT3_NM_139276.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/STAT3.html)
+View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/STAT3.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/STAT3_hg38.html)
 
 ![image](images/proteinpaint/STAT3.svg)

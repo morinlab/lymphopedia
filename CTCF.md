@@ -25,10 +25,11 @@
 > [!NOTE]
 > First described in BL in 2019 by [Panea RI](https://pubmed.ncbi.nlm.nih.gov/31558468)
 
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CTCF_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CTCF_protein_hg38.html)
 
 ![image](images/proteinpaint/CTCF_NM_006565.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CTCF.html)
+View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CTCF.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CTCF_hg38.html)
 
 ![image](images/proteinpaint/CTCF.svg)

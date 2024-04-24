@@ -25,10 +25,11 @@
 > [!NOTE]
 > First described in BL in 2022 by [Burkhardt B](https://pubmed.ncbi.nlm.nih.gov/35794096)
 
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TTN_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TTN_protein_hg38.html)
 
 ![image](images/proteinpaint/TTN_NM_133378.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TTN.html)
+View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TTN.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TTN_hg38.html)
 
 ![image](images/proteinpaint/TTN.svg)

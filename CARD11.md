@@ -30,10 +30,11 @@
 
 
 
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CARD11_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CARD11_protein_hg38.html)
 
 ![image](images/proteinpaint/CARD11_NM_032415.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CARD11.html)
+View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CARD11.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CARD11_hg38.html)
 
 ![image](images/proteinpaint/CARD11.svg)

@@ -25,10 +25,11 @@
 > [!NOTE]
 > First described in BL in 2012 by [Love C](https://pubmed.ncbi.nlm.nih.gov/23143597)
 
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/RANBP6_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/RANBP6_protein_hg38.html)
 
 ![image](images/proteinpaint/RANBP6_NM_012416.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/RANBP6.html)
+View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/RANBP6.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/RANBP6_hg38.html)
 
 ![image](images/proteinpaint/RANBP6.svg)

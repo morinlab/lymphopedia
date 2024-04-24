@@ -25,10 +25,11 @@
 > [!NOTE]
 > First described in BL in 2015 by [Abate F](https://pubmed.ncbi.nlm.nih.gov/26468873)
 
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CCNF_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CCNF_protein_hg38.html)
 
 ![image](images/proteinpaint/CCNF_NM_001761.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CCNF.html)
+View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CCNF.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CCNF_hg38.html)
 
 ![image](images/proteinpaint/CCNF.svg)

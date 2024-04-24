@@ -26,10 +26,11 @@
 > [!NOTE]
 > First described in DLBCL in 2013 by [Zhang J](https://pubmed.ncbi.nlm.nih.gov/23292937)
 
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/INO80_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/INO80_protein_hg38.html)
 
 ![image](images/proteinpaint/INO80_NM_017553.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/INO80.html)
+View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/INO80.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/INO80_hg38.html)
 
 ![image](images/proteinpaint/INO80.svg)

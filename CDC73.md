@@ -30,10 +30,11 @@
 > [!NOTE]
 > First described in BL in 2012 by [Love C](https://pubmed.ncbi.nlm.nih.gov/23143597). First described in DLBCL in 2017 by [Reddy A](https://pubmed.ncbi.nlm.nih.gov/28985567)
 
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CDC73_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CDC73_protein_hg38.html)
 
 ![image](images/proteinpaint/CDC73_NM_024529.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CDC73.html)
+View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CDC73.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CDC73_hg38.html)
 
 ![image](images/proteinpaint/CDC73.svg)

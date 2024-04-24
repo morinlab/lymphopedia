@@ -25,10 +25,11 @@
 > [!NOTE]
 > First described in BL in 2012 by [Love C](https://pubmed.ncbi.nlm.nih.gov/23143597)
 
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PC_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PC_protein_hg38.html)
 
 ![image](images/proteinpaint/PC_NM_000920.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PC.html)
+View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PC.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PC_hg38.html)
 
 ![image](images/proteinpaint/PC.svg)

@@ -29,10 +29,11 @@
 |chr12   |11796001  |11812968|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr12%3A11796001%2D11812968)|strong_enhancer   |
 
 
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ETV6_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ETV6_protein_hg38.html)
 
 ![image](images/proteinpaint/ETV6_NM_001987.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ETV6.html)
+View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ETV6.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ETV6_hg38.html)
 
 ![image](images/proteinpaint/ETV6.svg)
