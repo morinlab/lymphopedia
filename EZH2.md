@@ -33,6 +33,17 @@
 > First described in BL in 2012 by [Love C](https://pubmed.ncbi.nlm.nih.gov/23143597). First described in DLBCL in 2010 by [Morin RD](https://pubmed.ncbi.nlm.nih.gov/20081860). First described in FL in 2010 by [Morin RD](https://pubmed.ncbi.nlm.nih.gov/20081860)
 
 
+ ## EZH2 Hotspots
+
+| Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
+ | :---:| :---: | :--: | :---: |
+| chr7 | 148508745 | T>C | N640S |
+| chr7 | 148508728 | A>T | Y646N |
+| chr7 | 148508728 | A>G | Y646H |
+| chr7 | 148508727 | T>G | Y646S |
+| chr7 | 148508727 | T>C | Y646C |
+| chr7 | 148508727 | T>A | Y646F |
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/EZH2_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/EZH2_protein_hg38.html)
 
 ![image](images/proteinpaint/EZH2_NM_001203247.svg)
