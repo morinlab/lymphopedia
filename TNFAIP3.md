@@ -31,6 +31,14 @@
 
 
 
+ ## TNFAIP3 Hotspots
+
+| Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
+ | :---:| :---: | :--: | :---: |
+| chr6 | 138197303 | G>A | E269K |
+| chr6 | 138198218 | C>T | R271* |
+| chr6 | 138198246 | G>A | R280Q |
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TNFAIP3_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TNFAIP3_protein_hg38.html)
 
 ![image](images/proteinpaint/TNFAIP3_NM_006290.svg)

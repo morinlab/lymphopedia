@@ -33,6 +33,22 @@
 > First described in BL in 2019 by [Grande BM](https://pubmed.ncbi.nlm.nih.gov/30617194)
 
 
+ ## GNAI2 Hotspots
+
+| Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
+ | :---:| :---: | :--: | :---: |
+| chr3 | 50289532 | G>A | G40D |
+| chr3 | 50289546 | G>T | G45W |
+| chr3 | 50289547 | G>A | G45E |
+| chr3 | 50289553 | G>A | S47N |
+| chr3 | 50289554 | C>G | S47R |
+| chr3 | 50289555 | A>C | T48P |
+| chr3 | 50289568 | A>G | Q52R |
+| chr3 | 50293686 | T>G | L176R |
+| chr3 | 50293695 | G>A | R179H |
+| chr3 | 50293698 | T>A | V180E |
+| chr3 | 50293703 | A>G | T182A |
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/GNAI2_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/GNAI2_protein_hg38.html)
 
 ![image](images/proteinpaint/GNAI2_NM_002070.svg)

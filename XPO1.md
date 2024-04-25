@@ -27,6 +27,13 @@
 > First described in DLBCL in 2016 by [Mareschal S](https://pubmed.ncbi.nlm.nih.gov/26608593)
 
 
+ ## XPO1 Hotspots
+
+| Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
+ | :---:| :---: | :--: | :---: |
+| chr2 | 61719471 | T>C | E571G |
+| chr2 | 61719472 | C>T | E571K |
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/XPO1_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/XPO1_protein_hg38.html)
 
 ![image](images/proteinpaint/XPO1_NM_003400.svg)

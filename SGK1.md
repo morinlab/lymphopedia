@@ -36,6 +36,28 @@
 
 
 
+ ## SGK1 Hotspots
+
+| Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
+ | :---:| :---: | :--: | :---: |
+| chr6 | 134495730 | G>T | NA |
+| chr6 | 134495730 | G>C | NA |
+| chr6 | 134495729 | G>C | NA |
+| chr6 | 134495729 | G>A | NA |
+| chr6 | 134495724 | G>C | A121G |
+| chr6 | 134495724 | G>A | A121V |
+| chr6 | 134495717 | C>A | M123I |
+| chr6 | 134495716 | T>C | K124E |
+| chr6 | 134495715 | T>A | K124M |
+| chr6 | 134495713 | G>A | Q125* |
+| chr6 | 134495712 | T>A | Q125L |
+| chr6 | 134495711 | C>G | Q125H |
+| chr6 | 134495706 | C>T | R127K |
+| chr6 | 134495706 | C>A | R127M |
+| chr6 | 134495703 | A>T | M128K |
+| chr6 | 134495700 | CC>TG | G129H |
+| chr6 | 134495700 | CC>TA | G129Y |
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/SGK1_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/SGK1_protein_hg38.html)
 
 ![image](images/proteinpaint/SGK1_NM_005627.svg)

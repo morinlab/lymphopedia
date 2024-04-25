@@ -31,6 +31,18 @@
 
 
 
+ ## HLA-B Hotspots
+
+| Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
+ | :---:| :---: | :--: | :---: |
+| chr6 | 31324659 | C>T | G50D |
+| chr6 | 31324659 | C>A | G50V |
+| chr6 | 31324642 | G>C | Q56E |
+| chr6 | 31324630 | A>T | F60I |
+| chr6 | 31324583 | C>T | W75* |
+| chr6 | 31324583 | C>G | W75C |
+| chr6 | 31324576 | G>A | Q78* |
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/HLA-B_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/HLA-B_protein_hg38.html)
 
 ![image](images/proteinpaint/HLA-B_NM_005514.svg)

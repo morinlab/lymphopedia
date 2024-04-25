@@ -27,6 +27,16 @@
 > First described in DLBCL in 2012 by [Lohr JG](https://pubmed.ncbi.nlm.nih.gov/22343534)
 
 
+ ## KRAS Hotspots
+
+| Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
+ | :---:| :---: | :--: | :---: |
+| chr12 | 25398285 | C>A | G12C |
+| chr12 | 25398284 | C>T | G12D |
+| chr12 | 25398284 | C>A | G12V |
+| chr12 | 25398282 | C>A | G13C |
+| chr12 | 25398281 | C>T | G13D |
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/KRAS_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/KRAS_protein_hg38.html)
 
 ![image](images/proteinpaint/KRAS_NM_033360.svg)

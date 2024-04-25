@@ -31,6 +31,19 @@
 
 
 
+ ## TBL1XR1 Hotspots
+
+| Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
+ | :---:| :---: | :--: | :---: |
+| chr3 | 176752066 | A>C | H390Q |
+| chr3 | 176752053 | A>T | Y395N |
+| chr3 | 176752053 | A>C | Y395D |
+| chr3 | 176752052 | T>C | Y395C |
+| chr3 | 176750839 | A>G | Y446H |
+| chr3 | 176750838 | T>G | Y446S |
+| chr3 | 176750838 | T>C | Y446C |
+| chr3 | 176750836 | T>G | S447R |
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TBL1XR1_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TBL1XR1_protein_hg38.html)
 
 ![image](images/proteinpaint/TBL1XR1_NM_024665.svg)

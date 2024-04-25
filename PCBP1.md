@@ -31,6 +31,15 @@
 > First described in BL in 2015 by [Wagener R](https://pubmed.ncbi.nlm.nih.gov/26173642)
 
 
+ ## PCBP1 Hotspots
+
+| Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
+ | :---:| :---: | :--: | :---: |
+| chr2 | 70315424 | C>G | Y183* |
+| chr2 | 70315425 | C>T | Q184* |
+| chr2 | 70315439 | ->AGCT | S190* |
+| chr2 | 70315457 | C>A | C194* |
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PCBP1_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PCBP1_protein_hg38.html)
 
 ![image](images/proteinpaint/PCBP1_NM_006196.svg)

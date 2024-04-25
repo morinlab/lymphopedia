@@ -26,6 +26,12 @@
 
 
 
+ ## CDKN2A Hotspots
+
+| Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
+ | :---:| :---: | :--: | :---: |
+| chr9 | 21971120 | G>A | R80* |
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CDKN2A_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CDKN2A_protein_hg38.html)
 
 ![image](images/proteinpaint/CDKN2A_NM_000077.svg)

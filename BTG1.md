@@ -38,6 +38,30 @@
 > First described in BL in 2022 by [Burkhardt B](https://pubmed.ncbi.nlm.nih.gov/35794096). First described in DLBCL in 2011 by [Morin RD](https://pubmed.ncbi.nlm.nih.gov/21796119)
 
 
+ ## BTG1 Hotspots
+
+| Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
+ | :---:| :---: | :--: | :---: |
+| chr12 | 92539221 | G>A | L31F |
+| chr12 | 92539209 | G>A | R35* |
+| chr12 | 92539204 | C>G | Q36H |
+| chr12 | 92539203 | G>T | L37M |
+| chr12 | 92539203 | G>C | L37V |
+| chr12 | 92539198 | C>A | Q38H |
+| chr12 | 92539195 | GG>CA | T39M |
+| chr12 | 92539190 | C>T | S41N |
+| chr12 | 92539189 | G>C | S41R |
+| chr12 | 92539184 | C>T | S43N |
+| chr12 | 92539179 | G>A | Q45* |
+| chr12 | 92539174 | C>G | E46D |
+| chr12 | 92539173 | G>C | L47V |
+| chr12 | 92539167 | C>T | A49T |
+| chr12 | 92539164 | C>T | E50K |
+| chr12 | 92539164 | C>G | E50Q |
+| chr12 | 92538218 | A>C | Y52D |
+| chr12 | 92538217 | T>C | Y52C |
+| chr12 | 92538215 | T>C | K53E |
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/BTG1_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/BTG1_protein_hg38.html)
 
 ![image](images/proteinpaint/BTG1_NM_001731.svg)

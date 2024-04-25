@@ -33,6 +33,21 @@
 > [!NOTE]
 > First described in DLBCL in 2012 by [Lohr JG](https://pubmed.ncbi.nlm.nih.gov/22343534)
 
+ ## ACTB Hotspots
+
+| Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
+ | :---:| :---: | :--: | :---: |
+| chr7 | 5569176 | G>A | P38L |
+| chr7 | 5569024 | A>C | M44R |
+| chr7 | 5569018 | C>T | G46D |
+| chr7 | 5569006 | T>C | K50R |
+| chr7 | 5568978 | C>A | Q59H |
+| chr7 | 5568975 | G>C | S60R |
+| chr7 | 5568958 | G>A | T66I |
+| chr7 | 5568955 | A>G | L67P |
+| chr7 | 5568950 | A>T | Y69N |
+| chr7 | 5568923 | T>C | N78D |
+| chr7 | 5568920 | A>C | W79G |
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ACTB_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ACTB_protein_hg38.html)
 

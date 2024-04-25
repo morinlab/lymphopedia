@@ -25,6 +25,13 @@
 
 
 
+ ## SPEN Hotspots
+
+| Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
+ | :---:| :---: | :--: | :---: |
+| chr1 | 16256846 | C>T | R1371* |
+| chr1 | 16261814 | C>T | R3027* |
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/SPEN_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/SPEN_protein_hg38.html)
 
 ![image](images/proteinpaint/SPEN_NM_015001.svg)

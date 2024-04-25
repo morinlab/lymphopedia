@@ -33,6 +33,20 @@
 > First described in BL in 2012 by [Love C](https://pubmed.ncbi.nlm.nih.gov/23143597). First described in DLBCL in 2013 by [Zhang J](https://pubmed.ncbi.nlm.nih.gov/23292937)
 
 
+ ## ARID1A Hotspots
+
+| Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
+ | :---:| :---: | :--: | :---: |
+| chr1 | 27023114 | C>T | Q74* |
+| chr1 | 27023420 | C>T | Q176* |
+| chr1 | 27023423 | C>T | Q177* |
+| chr1 | 27023429 | C>T | P179S |
+| chr1 | 27023447 | C>T | Q185* |
+| chr1 | 27100207 | C>T | R1335* |
+| chr1 | 27100315 | T>C | F1343L |
+| chr1 | 27106354 | C>T | R1989* |
+| chr1 | 27106363 | T>C | S1992P |
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ARID1A_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ARID1A_protein_hg38.html)
 
 ![image](images/proteinpaint/ARID1A_NM_006015.svg)

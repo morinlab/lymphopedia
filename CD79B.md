@@ -31,6 +31,13 @@
 
 
 
+ ## CD79B Hotspots
+
+| Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
+ | :---:| :---: | :--: | :---: |
+| chr17 | 62007140 | A>G | L181P |
+| chr17 | 62006680 | A>G | L200P |
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CD79B_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CD79B_protein_hg38.html)
 
 ![image](images/proteinpaint/CD79B_NM_000626.svg)

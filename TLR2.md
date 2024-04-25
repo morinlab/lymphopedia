@@ -27,6 +27,13 @@
 > First described in DLBCL in 2018 by [Chapuy B](https://pubmed.ncbi.nlm.nih.gov/29713087)
 
 
+ ## TLR2 Hotspots
+
+| Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
+ | :---:| :---: | :--: | :---: |
+| chr4 | 154625039 | A>T | D327V |
+| chr4 | 154625042 | T>G | L328R |
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TLR2_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TLR2_protein_hg38.html)
 
 ![image](images/proteinpaint/TLR2_NM_003264.svg)

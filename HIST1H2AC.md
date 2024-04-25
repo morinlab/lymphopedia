@@ -27,6 +27,30 @@
 
 
 
+ ## HIST1H2AC Hotspots
+
+| Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
+ | :---:| :---: | :--: | :---: |
+| chr6 | 26124549 | G>T | R30L |
+| chr6 | 26124560 | CTGCTCCG>- | L34* |
+| chr6 | 26124578 | T>G | Y40D |
+| chr6 | 26124581 | G>A | A41T |
+| chr6 | 26124690 | C>G | T77S |
+| chr6 | 26124709 | C>G | H83Q |
+| chr6 | 26124737 | G>A | E93K |
+| chr6 | 26124740 | C>G | L94V |
+| chr6 | 26124740 | C>T | L94F |
+| chr6 | 26124767 | A>G | I103V |
+| chr6 | 26124769 | T>G | I103M |
+| chr6 | 26124770 | G>A | A104T |
+| chr6 | 26124770 | G>C | A104P |
+| chr6 | 26124771 | C>G | A104G |
+| chr6 | 26124771 | C>T | A104V |
+| chr6 | 26124791 | A>G | N111D |
+| chr6 | 26124800 | G>A | A114T |
+| chr6 | 26124819 | A>G | K120R |
+| chr6 | 26124832 | CC>TT | H125Y |
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/HIST1H2AC_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/HIST1H2AC_protein_hg38.html)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/HIST1H2AC.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/HIST1H2AC_hg38.html)

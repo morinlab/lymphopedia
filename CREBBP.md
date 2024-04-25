@@ -33,6 +33,36 @@
 > First described in BL in 2012 by [Love C](https://pubmed.ncbi.nlm.nih.gov/23143597). First described in FL in 2011 by [Morin RD](https://pubmed.ncbi.nlm.nih.gov/21796119)
 
 
+ ## CREBBP Hotspots
+
+| Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
+ | :---:| :---: | :--: | :---: |
+| chr16 | 3788618 | G>A | R1446C |
+| chr16 | 3788617 | C>T | R1446H |
+| chr16 | 3788617 | C>A | R1446L |
+| chr16 | 3788606 | A>T | Y1450N |
+| chr16 | 3788606 | A>C | Y1450D |
+| chr16 | 3788605 | T>G | Y1450S |
+| chr16 | 3788605 | T>C | Y1450C |
+| chr16 | 3788596 | A>G | I1453T |
+| chr16 | 3788594 | G>T | L1454I |
+| chr16 | 3788593 | A>C | L1454R |
+| chr16 | 3786715 | A>T | L1499Q |
+| chr16 | 3786715 | A>G | L1499P |
+| chr16 | 3786715 | A>C | L1499R |
+| chr16 | 3786710 | C>A | E1501* |
+| chr16 | 3786707 | A>T | W1502R |
+| chr16 | 3786707 | A>G | W1502R |
+| chr16 | 3786705 | C>T | W1502* |
+| chr16 | 3786705 | C>G | W1502C |
+| chr16 | 3786705 | C>A | W1502C |
+| chr16 | 3786704 | A>T | Y1503N |
+| chr16 | 3786704 | A>G | Y1503H |
+| chr16 | 3786704 | A>C | Y1503D |
+| chr16 | 3786703 | T>G | Y1503S |
+| chr16 | 3786703 | T>A | Y1503F |
+| chr16 | 3786691 | A>G | L1507P |
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CREBBP_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CREBBP_protein_hg38.html)
 
 ![image](images/proteinpaint/CREBBP_NM_004380.svg)

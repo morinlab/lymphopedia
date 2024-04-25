@@ -43,6 +43,19 @@
 > First described in BL in 2019 by [Grande BM](https://pubmed.ncbi.nlm.nih.gov/30617194). First described in DLBCL in 2011 by [Morin RD](https://pubmed.ncbi.nlm.nih.gov/21796119). First described in FL in 2023 by [Dreval K](https://pubmed.ncbi.nlm.nih.gov/37084389)
 
 
+ ## BCL6 Hotspots
+
+| Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
+ | :---:| :---: | :--: | :---: |
+| chr3 | 187443373 | G>A | R585W |
+| chr3 | 187443370 | G>A | P586S |
+| chr3 | 187443369 | G>A | P586L |
+| chr3 | 187443367 | C>T | A587T |
+| chr3 | 187443366 | G>T | A587D |
+| chr3 | 187443366 | G>C | A587G |
+| chr3 | 187443345 | C>T | R594Q |
+| chr3 | 187443342 | A>T | I595N |
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/BCL6_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/BCL6_protein_hg38.html)
 
 ![image](images/proteinpaint/BCL6_NM_001706.svg)

@@ -31,6 +31,23 @@
 
 
 
+ ## TNFRSF14 Hotspots
+
+| Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
+ | :---:| :---: | :--: | :---: |
+| chr1 | 2488104 | A>G | M1? |
+| chr1 | 2488105 | T>C | M1? |
+| chr1 | 2488105 | T>G | M1? |
+| chr1 | 2488106 | G>A | M1? |
+| chr1 | 2488107 | G>T | E2* |
+| chr1 | 2488123 | G>A | W7* |
+| chr1 | 2488124 | G>A | W7* |
+| chr1 | 2488132 | C>A | P10H |
+| chr1 | 2488138 | G>A | W12* |
+| chr1 | 2488139 | G>A | W12* |
+| chr1 | 2488152 | A>T | K17* |
+| chr1 | 2488156 | C>A | T18N |
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TNFRSF14_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TNFRSF14_protein_hg38.html)
 
 ![image](images/proteinpaint/TNFRSF14_NM_003820.svg)

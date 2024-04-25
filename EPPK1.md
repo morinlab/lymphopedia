@@ -26,6 +26,12 @@
 > First described in BL in 2019 by [Panea RI](https://pubmed.ncbi.nlm.nih.gov/31558468)
 
 
+ ## EPPK1 Hotspots
+
+| Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
+ | :---:| :---: | :--: | :---: |
+| chr8 | 144946005 | G>A | R473W |
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/EPPK1_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/EPPK1_protein_hg38.html)
 
 ![image](images/proteinpaint/EPPK1_NM_031308.svg)

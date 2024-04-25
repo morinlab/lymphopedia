@@ -32,6 +32,14 @@
 > First described in DLBCL in 2018 by [Schmitz R](https://pubmed.ncbi.nlm.nih.gov/29641966)
 
 
+ ## KLHL21 Hotspots
+
+| Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
+ | :---:| :---: | :--: | :---: |
+| chr1 | 6662199 | G>T | P227T |
+| chr1 | 6662178 | G>C | L234V |
+| chr1 | 6662172 | C>T | A236T |
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/KLHL21_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/KLHL21_protein_hg38.html)
 
 ![image](images/proteinpaint/KLHL21_NM_014851.svg)

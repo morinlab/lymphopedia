@@ -34,6 +34,15 @@
 > First described in DLBCL in 2011 by [Morin RD](https://pubmed.ncbi.nlm.nih.gov/21796119)
 
 
+ ## IRF4 Hotspots
+
+| Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
+ | :---:| :---: | :--: | :---: |
+| chr6 | 393328 | A>G | K59R |
+| chr6 | 393340 | A>G | N63S |
+| chr6 | 393360 | C>G | L70V |
+| chr6 | 393360 | C>T | L70F |
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/IRF4_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/IRF4_protein_hg38.html)
 
 ![image](images/proteinpaint/IRF4_NM_002460.svg)

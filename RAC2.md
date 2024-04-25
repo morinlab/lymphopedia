@@ -31,6 +31,14 @@
 > First described in BL in 2019 by [Panea RI](https://pubmed.ncbi.nlm.nih.gov/31558468). First described in DLBCL in 2021 by [Hübschmann D](https://pubmed.ncbi.nlm.nih.gov/33953289)
 
 
+ ## RAC2 Hotspots
+
+| Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
+ | :---:| :---: | :--: | :---: |
+| chr22 | 37627984 | G>T | N92K |
+| chr22 | 37627985 | T>C | N92S |
+| chr22 | 37627985 | T>G | N92T |
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/RAC2_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/RAC2_protein_hg38.html)
 
 ![image](images/proteinpaint/RAC2_NM_002872.svg)

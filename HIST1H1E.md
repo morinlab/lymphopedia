@@ -33,6 +33,29 @@
 > First described in BL in 2019 by [Panea RI](https://pubmed.ncbi.nlm.nih.gov/31558468)
 
 
+ ## HIST1H1E Hotspots
+
+| Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
+ | :---:| :---: | :--: | :---: |
+| chr6 | 26157090 | G>T | A158S |
+| chr6 | 26157096 | A>C | K160Q |
+| chr6 | 26157096 | A>G | K160E |
+| chr6 | 26157099 | C>G | P161A |
+| chr6 | 26157099 | C>T | P161S |
+| chr6 | 26157102 | G>A | A162T |
+| chr6 | 26157105 | G>A | A163T |
+| chr6 | 26157106 | C>T | A163V |
+| chr6 | 26157108 | G>A | A164T |
+| chr6 | 26157108 | G>C | A164P |
+| chr6 | 26157109 | C>G | A164G |
+| chr6 | 26157109 | C>T | A164V |
+| chr6 | 26157112 | C>G | A165G |
+| chr6 | 26157112 | C>T | A165V |
+| chr6 | 26157114 | G>A | G166R |
+| chr6 | 26157118 | C>T | A167V |
+| chr6 | 26157121 | A>T | K168I |
+| chr6 | 26157139 | A>G | K174R |
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/HIST1H1E_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/HIST1H1E_protein_hg38.html)
 
 ![image](images/proteinpaint/HIST1H1E_NM_005321.svg)

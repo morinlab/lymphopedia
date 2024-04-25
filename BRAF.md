@@ -31,6 +31,17 @@
 > First described in BL in 2012 by [Love C](https://pubmed.ncbi.nlm.nih.gov/23143597). First described in DLBCL in 2012 by [Lohr JG](https://pubmed.ncbi.nlm.nih.gov/22343534)
 
 
+ ## BRAF Hotspots
+
+| Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
+ | :---:| :---: | :--: | :---: |
+| chr7 | 140453155 | C>T | D594N |
+| chr7 | 140453154 | T>G | D594A |
+| chr7 | 140453154 | T>C | D594G |
+| chr7 | 140453145 | A>T | L597Q |
+| chr7 | 140453136 | A>T | V600E |
+| chr7 | 140453132 | T>G | K601N |
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/BRAF_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/BRAF_protein_hg38.html)
 
 ![image](images/proteinpaint/BRAF_NM_004333.svg)

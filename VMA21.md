@@ -24,6 +24,14 @@
 > First described in FL in 2021 by [Hübschmann D](https://pubmed.ncbi.nlm.nih.gov/33953289)
 
 
+ ## VMA21 Hotspots
+
+| Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
+ | :---:| :---: | :--: | :---: |
+| chrX | 150573501 | C>T | R93* |
+| chrX | 150573509 | G>T | W95C |
+| chrX | 150573519 | A>G | K99E |
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/VMA21_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/VMA21_protein_hg38.html)
 
 ![image](images/proteinpaint/VMA21_NM_001017980.svg)

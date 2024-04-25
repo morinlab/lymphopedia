@@ -26,6 +26,13 @@
 > First described in BL in 2022 by [Burkhardt B](https://pubmed.ncbi.nlm.nih.gov/35794096)
 
 
+ ## CD79A Hotspots
+
+| Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
+ | :---:| :---: | :--: | :---: |
+| chr19 | 42384963 | T>A | Y199* |
+| chr19 | 42384963 | T>G | Y199* |
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CD79A_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CD79A_protein_hg38.html)
 
 ![image](images/proteinpaint/CD79A_NM_001783.svg)

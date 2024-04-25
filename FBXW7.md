@@ -25,6 +25,12 @@
 
 
 
+ ## FBXW7 Hotspots
+
+| Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
+ | :---:| :---: | :--: | :---: |
+| chr4 | 153250907 | T>G | T385P |
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/FBXW7_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/FBXW7_protein_hg38.html)
 
 ![image](images/proteinpaint/FBXW7_NM_033632.svg)

@@ -31,6 +31,12 @@
 > First described in BL in 2023 by [Thomas N](https://pubmed.ncbi.nlm.nih.gov/36201743). First described in DLBCL in 2021 by [Hübschmann D](https://pubmed.ncbi.nlm.nih.gov/33953289)
 
 
+ ## WNK1 Hotspots
+
+| Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
+ | :---:| :---: | :--: | :---: |
+| chr12 | 968467 | G>A | R486Q |
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/WNK1_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/WNK1_protein_hg38.html)
 
 ![image](images/proteinpaint/WNK1_NM_018979.svg)

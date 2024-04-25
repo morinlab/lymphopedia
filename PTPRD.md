@@ -27,6 +27,12 @@
 
 
 
+ ## PTPRD Hotspots
+
+| Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
+ | :---:| :---: | :--: | :---: |
+| chr9 | 8376670 | T>G | Q1481H |
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PTPRD_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PTPRD_protein_hg38.html)
 
 ![image](images/proteinpaint/PTPRD_NM_002839.svg)

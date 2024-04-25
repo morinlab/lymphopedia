@@ -29,6 +29,13 @@
 > First described in DLBCL in 2021 by [Mosquera Orgueira A](https://pubmed.ncbi.nlm.nih.gov/33945543). First described in FL in 2021 by [Hübschmann D](https://pubmed.ncbi.nlm.nih.gov/33953289)
 
 
+ ## EEF1A1 Hotspots
+
+| Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
+ | :---:| :---: | :--: | :---: |
+| chr6 | 74229094 | T>A | D97V |
+| chr6 | 74229095 | C>T | D97N |
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/EEF1A1_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/EEF1A1_protein_hg38.html)
 
 ![image](images/proteinpaint/EEF1A1_NM_001402.svg)

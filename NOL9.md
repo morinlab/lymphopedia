@@ -25,6 +25,13 @@
 
 
 
+ ## NOL9 Hotspots
+
+| Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
+ | :---:| :---: | :--: | :---: |
+| chr1 | 6614187 | G>C | L126V |
+| chr1 | 6614167 | C>A | Q132H |
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/NOL9_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/NOL9_protein_hg38.html)
 
 ![image](images/proteinpaint/NOL9_NM_024654.svg)

@@ -31,4 +31,10 @@
 |chr17   |79478289  |79479959|[intron](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr17%3A79478289%2D79479959)|NA                |
 
 > [!NOTE]
-> First described in DLBCL in 2021 by [Hübschmann D](https://pubmed.ncbi.nlm.nih.gov/33953289). First described in FL in 2021 by [Hübschmann D](https://pubmed.ncbi.nlm.nih.gov/33953289)
+View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ACTG1_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ACTG1_protein_hg38.html)
+
+![image](images/proteinpaint/ACTG1_NM_001614.svg)
+
+View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ACTG1.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ACTG1_hg38.html)
+
+![image](images/proteinpaint/ACTG1.svg)

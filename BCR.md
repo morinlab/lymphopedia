@@ -36,6 +36,18 @@
 > First described in BL in 2019 by [Panea RI](https://pubmed.ncbi.nlm.nih.gov/31558468)
 
 
+ ## BCR Hotspots
+
+| Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
+ | :---:| :---: | :--: | :---: |
+| chr22 | 23523350 | A>G | K68R |
+| chr22 | 23523351 | G>T | K68N |
+| chr22 | 23523353 | G>A | S69N |
+| chr22 | 23523353 | G>C | S69T |
+| chr22 | 23523356 | A>T | Y70F |
+| chr22 | 23523359 | A>C | D71A |
+| chr22 | 23523374 | G>A | G76D |
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/BCR_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/BCR_protein_hg38.html)
 
 ![image](images/proteinpaint/BCR_NM_004327.svg)

@@ -29,6 +29,15 @@
 
 
 
+ ## STAT3 Hotspots
+
+| Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
+ | :---:| :---: | :--: | :---: |
+| chr17 | 40475330 | C>T | D566N |
+| chr17 | 40475325 | A>T | N567K |
+| chr17 | 40475318 | C>T | D570N |
+| chr17 | 40475317 | T>C | D570G |
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/STAT3_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/STAT3_protein_hg38.html)
 
 ![image](images/proteinpaint/STAT3_NM_139276.svg)

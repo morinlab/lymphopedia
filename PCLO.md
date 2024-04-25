@@ -29,6 +29,14 @@
 > First described in DLBCL in 2012 by [Lohr JG](https://pubmed.ncbi.nlm.nih.gov/22343534)
 
 
+ ## PCLO Hotspots
+
+| Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
+ | :---:| :---: | :--: | :---: |
+| chr7 | 82585303 | G>T | L1656I |
+| chr7 | 82585302 | A>G | L1656P |
+| chr7 | 82544727 | T>C | K4192R |
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PCLO_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PCLO_protein_hg38.html)
 
 ![image](images/proteinpaint/PCLO_NM_033026.svg)

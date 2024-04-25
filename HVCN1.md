@@ -31,6 +31,14 @@
 
 
 
+ ## HVCN1 Hotspots
+
+| Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
+ | :---:| :---: | :--: | :---: |
+| chr12 | 111099150 | T>G | Y42S |
+| chr12 | 111099150 | T>C | Y42C |
+| chr12 | 111099142 | A>T | W45R |
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/HVCN1_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/HVCN1_protein_hg38.html)
 
 ![image](images/proteinpaint/HVCN1_NM_001040107.svg)

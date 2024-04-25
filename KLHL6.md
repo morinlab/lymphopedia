@@ -36,6 +36,33 @@
 
 
 
+ ## KLHL6 Hotspots
+
+| Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
+ | :---:| :---: | :--: | :---: |
+| chr3 | 183273284 | C>A | G53V |
+| chr3 | 183273275 | A>T | L56* |
+| chr3 | 183273274 | T>G | L56F |
+| chr3 | 183273248 | A>T | L65Q |
+| chr3 | 183273248 | A>G | L65P |
+| chr3 | 183273235 | G>C | N69K |
+| chr3 | 183273234 | C>G | A70P |
+| chr3 | 183273224 | T>G | D73A |
+| chr3 | 183273223 | A>C | D73E |
+| chr3 | 183273218 | A>C | I75S |
+| chr3 | 183273204 | T>C | I80V |
+| chr3 | 183273198 | C>G | E82Q |
+| chr3 | 183273195 | A>G | F83L |
+| chr3 | 183273179 | A>T | V88E |
+| chr3 | 183273174 | G>A | L90F |
+| chr3 | 183273162 | T>C | S94G |
+| chr3 | 183273162 | T>A | S94C |
+| chr3 | 183273161 | C>T | S94N |
+| chr3 | 183273161 | C>G | S94T |
+| chr3 | 183273161 | C>A | S94I |
+| chr3 | 183273155 | T>A | Y96F |
+| chr3 | 183273153 | A>G | F97L |
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/KLHL6_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/KLHL6_protein_hg38.html)
 
 ![image](images/proteinpaint/KLHL6_NM_130446.svg)

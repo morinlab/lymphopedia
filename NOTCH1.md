@@ -31,6 +31,13 @@
 > First described in BL in 2012 by [Love C](https://pubmed.ncbi.nlm.nih.gov/23143597). First described in DLBCL in 2012 by [Lohr JG](https://pubmed.ncbi.nlm.nih.gov/22343534)
 
 
+ ## NOTCH1 Hotspots
+
+| Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
+ | :---:| :---: | :--: | :---: |
+| chr9 | 139401207 | C>T | V1288I |
+| chr9 | 139401199 | G>C | D1290E |
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/NOTCH1_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/NOTCH1_protein_hg38.html)
 
 ![image](images/proteinpaint/NOTCH1_NM_017617.svg)

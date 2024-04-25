@@ -25,6 +25,14 @@
 
 
 
+ ## NFKB1 Hotspots
+
+| Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
+ | :---:| :---: | :--: | :---: |
+| chr4 | 103459054 | C>T | H67Y |
+| chr4 | 103459061 | G>A | G69E |
+| chr4 | 103501730 | G>A | D257N |
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/NFKB1_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/NFKB1_protein_hg38.html)
 
 ![image](images/proteinpaint/NFKB1_NM_003998.svg)

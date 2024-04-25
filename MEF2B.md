@@ -36,6 +36,18 @@
 
 
 
+ ## MEF2B Hotspots
+
+| Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
+ | :---:| :---: | :--: | :---: |
+| chr19 | 19260066 | T>C | H76R |
+| chr19 | 19260064 | C>T | E77K |
+| chr19 | 19260050 | G>T | N81K |
+| chr19 | 19260045 | T>G | D83A |
+| chr19 | 19260045 | T>C | D83G |
+| chr19 | 19260045 | T>A | D83V |
+| chr19 | 19260042 | A>G | I84T |
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MEF2B_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MEF2B_protein_hg38.html)
 
 ![image](images/proteinpaint/MEF2B_NM_001145785.svg

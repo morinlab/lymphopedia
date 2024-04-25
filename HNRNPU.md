@@ -36,6 +36,14 @@
 > First described in BL in 2019 by [Panea RI](https://pubmed.ncbi.nlm.nih.gov/31558468)
 
 
+ ## HNRNPU Hotspots
+
+| Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
+ | :---:| :---: | :--: | :---: |
+| chr1 | 245027102 | G>A | Q170* |
+| chr1 | 245027099 | G>C | Q171E |
+| chr1 | 245027099 | G>A | Q171* |
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/HNRNPU_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/HNRNPU_protein_hg38.html)
 
 ![image](images/proteinpaint/HNRNPU_NM_031844.svg)

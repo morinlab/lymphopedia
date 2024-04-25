@@ -4,7 +4,7 @@
 
 |Entity|Tier|Description                              |
 |:------:|:----:|-----------------------------------------|
-|DLBCL |2   |relevance in DLBCL not firmly established|
+|DLBCL |1   |high-confidence DLBCL gene|
 ## Mutation incidence
 
 |Entity|source        |frequency (%)|

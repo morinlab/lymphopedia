@@ -26,4 +26,10 @@
 |chr1    |31229012  |31232011|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr1%3A31229012%2D31232011)|NA                |
 
 > [!NOTE]
-> First described in FL in 2021 by [Hübschmann D](https://pubmed.ncbi.nlm.nih.gov/33953289)
+View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/LAPTM5_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/LAPTM5_protein_hg38.html)
+
+![image](images/proteinpaint/LAPTM5_NM_006762.svg)
+
+View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/LAPTM5.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/LAPTM5_hg38.html)
+
+![image](images/proteinpaint/LAPTM5.svg)

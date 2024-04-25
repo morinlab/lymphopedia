@@ -33,6 +33,16 @@
 > First described in BL in 2012 by [Love C](https://pubmed.ncbi.nlm.nih.gov/23143597). First described in DLBCL in 2011 by [Morin RD](https://pubmed.ncbi.nlm.nih.gov/21796119). First described in FL in 2011 by [Morin RD](https://pubmed.ncbi.nlm.nih.gov/21796119)
 
 
+ ## GNA13 Hotspots
+
+| Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
+ | :---:| :---: | :--: | :---: |
+| chr17 | 63052633 | G>A | Q27* |
+| chr17 | 63052631 | C>G | Q27H |
+| chr17 | 63052630 | G>A | Q28* |
+| chr17 | 63052613 | C>G | E33D |
+| chr17 | 63052609 | C>G | D35H |
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/GNA13_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/GNA13_protein_hg38.html)
 
 ![image](images/proteinpaint/GNA13_NM_006572.svg)

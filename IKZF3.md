@@ -37,6 +37,13 @@
 > First described in BL in 2019 by [Panea RI](https://pubmed.ncbi.nlm.nih.gov/31558468). First described in DLBCL in 2017 by [Mareschal S](https://pubmed.ncbi.nlm.nih.gov/28479318)
 
 
+ ## IKZF3 Hotspots
+
+| Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
+ | :---:| :---: | :--: | :---: |
+| chr17 | 37947782 | T>C | N160S |
+| chr17 | 37947776 | A>C | L162R |
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/IKZF3_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/IKZF3_protein_hg38.html)
 
 ![image](images/proteinpaint/IKZF3_NM_012481.svg)

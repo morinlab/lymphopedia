@@ -32,6 +32,15 @@
 
 
 
+ ## POU2AF1 Hotspots
+
+| Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
+ | :---:| :---: | :--: | :---: |
+| chr11 | 111249894 | C>T | W3* |
+| chr11 | 111249899 | G>A | L2F |
+| chr11 | 111249900 | C>T | M1? |
+| chr11 | 111275352 | T>C | R6G |
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/POU2AF1_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/POU2AF1_protein_hg38.html)
 
 ![image](images/proteinpaint/POU2AF1_NM_006235.svg)

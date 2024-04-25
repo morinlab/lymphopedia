@@ -36,6 +36,19 @@
 
 
 
+ ## IRF8 Hotspots
+
+| Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
+ | :---:| :---: | :--: | :---: |
+| chr16 | 85936688 | T>C | Y23H |
+| chr16 | 85936701 | T>G | I27S |
+| chr16 | 85936784 | T>G | S55A |
+| chr16 | 85936788 | T>C | I56T |
+| chr16 | 85942602 | G>T | A61S |
+| chr16 | 85942618 | A>G | K66R |
+| chr16 | 85942671 | T>C | C84R |
+| chr16 | 85942692 | G>A | D91N |
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/IRF8_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/IRF8_protein_hg38.html)
 
 ![image](images/proteinpaint/IRF8_NM_002163.svg)

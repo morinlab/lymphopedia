@@ -30,6 +30,15 @@
 
 
 
+ ## WEE1 Hotspots
+
+| Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
+ | :---:| :---: | :--: | :---: |
+| chr11 | 9595762 | G>C | L94F |
+| chr11 | 9595887 | G>A | S136N |
+| chr11 | 9595888 | C>G | S136R |
+| chr11 | 9595889 | T>G | S137A |
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/WEE1_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/WEE1_protein_hg38.html)
 
 ![image](images/proteinpaint/WEE1_NM_003390.svg)

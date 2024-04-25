@@ -25,6 +25,12 @@
 
 
 
+ ## HNRNPH1 Hotspots
+
+| Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
+ | :---:| :---: | :--: | :---: |
+| chr5 | 179046407 | C>A | G133= |
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/HNRNPH1_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/HNRNPH1_protein_hg38.html)
 
 ![image](images/proteinpaint/HNRNPH1_NM_005520.svg)

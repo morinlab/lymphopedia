@@ -37,6 +37,30 @@
 > First described in BL in 2019 by [Panea RI](https://pubmed.ncbi.nlm.nih.gov/31558468). First described in DLBCL in 2011 by [Morin RD](https://pubmed.ncbi.nlm.nih.gov/21796119)
 
 
+ ## ETS1 Hotspots
+
+| Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
+ | :---:| :---: | :--: | :---: |
+| chr11 | 128391889 | T>A | M1? |
+| chr11 | 128391888 | A>C | M1? |
+| chr11 | 128391871 | G>A | L7F |
+| chr11 | 128391867 | T>C | K8R |
+| chr11 | 128391865 | GC>CT | P9A |
+| chr11 | 128391865 | G>C | P9A |
+| chr11 | 128391865 | G>A | P9S |
+| chr11 | 128391861 | G>A | T10I |
+| chr11 | 128391859 | G>C | L11V |
+| chr11 | 128391855 | G>C | T12S |
+| chr11 | 128391855 | G>A | T12I |
+| chr11 | 128391853 | T>C | I13V |
+| chr11 | 128391853 | T>A | I13F |
+| chr11 | 128391848 | G>C | I14M |
+| chr11 | 128391846 | T>C | K15R |
+| chr11 | 128391841 | C>G | E17Q |
+| chr11 | 128391841 | C>A | E17* |
+| chr11 | 128391824 | C>G | E22D |
+| chr11 | 128391823 | G>A | L23F |
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ETS1_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ETS1_protein_hg38.html)
 
 ![image](images/proteinpaint/ETS1_NM_001143820.svg)

@@ -32,6 +32,12 @@
 > First described in DLBCL in 2021 by [Duns G](https://pubmed.ncbi.nlm.nih.gov/33684939)
 
 
+ ## IL4R Hotspots
+
+| Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
+ | :---:| :---: | :--: | :---: |
+| chr16 | 27367183 | T>A | I242N |
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/IL4R_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/IL4R_protein_hg38.html)
 
 ![image](images/proteinpaint/IL4R_NM_000418.svg)

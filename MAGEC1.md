@@ -24,6 +24,15 @@
 > First described in FL in 2023 by [Kalmbach S](https://pubmed.ncbi.nlm.nih.gov/37563306)
 
 
+ ## MAGEC1 Hotspots
+
+| Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
+ | :---:| :---: | :--: | :---: |
+| chrX | 140993821 | T>G | L211V |
+| chrX | 140993827 | A>C | I213L |
+| chrX | 140994066 | G>C | Q292H |
+| chrX | 140994280 | A>G | T364A |
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MAGEC1_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MAGEC1_protein_hg38.html)
 
 ![image](images/proteinpaint/MAGEC1_NM_005462.svg)

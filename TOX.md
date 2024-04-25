@@ -29,6 +29,14 @@
 
 
 
+ ## TOX Hotspots
+
+| Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
+ | :---:| :---: | :--: | :---: |
+| chr8 | 60031445 | C>G | K34N |
+| chr8 | 60031445 | C>T | K34= |
+| chr8 | 60031446 | T>G | K34T |
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TOX_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TOX_protein_hg38.html)
 
 ![image](images/proteinpaint/TOX_NM_014729.svg)

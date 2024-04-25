@@ -29,6 +29,13 @@
 
 
 
+ ## MYO1E Hotspots
+
+| Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
+ | :---:| :---: | :--: | :---: |
+| chr15 | 59664698 | A>G | M1? |
+| chr15 | 59664699 | T>A | M1? |
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MYO1E_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MYO1E_protein_hg38.html)
 
 ![image](images/proteinpaint/MYO1E_NM_004998.svg)

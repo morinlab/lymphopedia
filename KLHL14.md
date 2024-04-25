@@ -27,6 +27,15 @@
 > First described in DLBCL in 2013 by [Zhang J](https://pubmed.ncbi.nlm.nih.gov/23292937)
 
 
+ ## KLHL14 Hotspots
+
+| Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
+ | :---:| :---: | :--: | :---: |
+| chr18 | 30349909 | G>A | L216F |
+| chr18 | 30349905 | T>G | N217T |
+| chr18 | 30349902 | A>C | F218C |
+| chr18 | 30349882 | G>C | L225V |
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/KLHL14_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/KLHL14_protein_hg38.html)
 
 ![image](images/proteinpaint/KLHL14_NM_020805.svg)

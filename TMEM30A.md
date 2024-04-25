@@ -31,6 +31,14 @@
 
 
 
+ ## TMEM30A Hotspots
+
+| Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
+ | :---:| :---: | :--: | :---: |
+| chr6 | 75969072 | G>A | R226* |
+| chr6 | 75965985 | G>A | R307* |
+| chr6 | 75965975 | A>T | M310K |
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TMEM30A_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TMEM30A_protein_hg38.html)
 
 ![image](images/proteinpaint/TMEM30A_NM_018247.svg)

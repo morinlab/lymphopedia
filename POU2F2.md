@@ -27,6 +27,15 @@
 
 
 
+ ## POU2F2 Hotspots
+
+| Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
+ | :---:| :---: | :--: | :---: |
+| chr19 | 42600031 | C>G | Q238H |
+| chr19 | 42600031 | C>A | Q238H |
+| chr19 | 42600030 | T>C | T239A |
+| chr19 | 42600030 | T>A | T239S |
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/POU2F2_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/POU2F2_protein_hg38.html)
 
 ![image](images/proteinpaint/POU2F2_NM_002698.svg)

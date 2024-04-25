@@ -33,6 +33,20 @@
 > First described in BL in 2012 by [Love C](https://pubmed.ncbi.nlm.nih.gov/23143597). First described in DLBCL in 2013 by [Zhang J](https://pubmed.ncbi.nlm.nih.gov/23292937). First described in FL in 2023 by [Russler-Germain DA](https://pubmed.ncbi.nlm.nih.gov/37493986)
 
 
+ ## SMARCA4 Hotspots
+
+| Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
+ | :---:| :---: | :--: | :---: |
+| chr19 | 11134241 | C>A | H969Q |
+| chr19 | 11134251 | C>T | R973W |
+| chr19 | 11134252 | G>A | R973Q |
+| chr19 | 11141562 | C>T | P1180L |
+| chr19 | 11143973 | A>T | Q1185L |
+| chr19 | 11143982 | A>T | D1188V |
+| chr19 | 11143985 | G>A | R1189Q |
+| chr19 | 11143993 | C>T | R1192C |
+| chr19 | 11143994 | G>A | R1192H |
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/SMARCA4_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/SMARCA4_protein_hg38.html)
 
 ![image](images/proteinpaint/SMARCA4_NM_001128849.svg)

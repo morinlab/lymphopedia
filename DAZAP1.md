@@ -25,6 +25,16 @@
 
 
 
+ ## DAZAP1 Hotspots
+
+| Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
+ | :---:| :---: | :--: | :---: |
+| chr19 | 1434897 | C>T | P404S |
+| chr19 | 1434900 | T>A | Y405N |
+| chr19 | 1434903 | C>G | R406G |
+| chr19 | 1434903 | C>T | R406* |
+| chr19 | 1434906 | C>T | R407C |
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/DAZAP1_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/DAZAP1_protein_hg38.html)
 
 ![image](images/proteinpaint/DAZAP1_ENST00000233078.svg)

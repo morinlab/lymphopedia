@@ -24,4 +24,10 @@
 
 
 > [!NOTE]
-> First described in DLBCL in 2021 by [Hübschmann D](https://pubmed.ncbi.nlm.nih.gov/33953289)
+View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/LRP12_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/LRP12_protein_hg38.html)
+
+![image](images/proteinpaint/LRP12_NM_013437.svg)
+
+View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/LRP12.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/LRP12_hg38.html)
+
+![image](images/proteinpaint/LRP12.svg)

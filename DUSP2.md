@@ -34,6 +34,21 @@
 > First described in DLBCL in 2017 by [Reddy A](https://pubmed.ncbi.nlm.nih.gov/28985567)
 
 
+ ## DUSP2 Hotspots
+
+| Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
+ | :---:| :---: | :--: | :---: |
+| chr2 | 96810877 | C>G | D73H |
+| chr2 | 96810865 | G>A | R77W |
+| chr2 | 96810842 | C>G | E84D |
+| chr2 | 96810841 | G>C | L85V |
+| chr2 | 96810730 | G>A | P122S |
+| chr2 | 96810717 | T>C | Y126C |
+| chr2 | 96810706 | C>T | G130R |
+| chr2 | 96810597 | C>T | C138Y |
+| chr2 | 96810582 | C>T | C143Y |
+| chr2 | 96810574 | C>T | A146T |
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/DUSP2_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/DUSP2_protein_hg38.html)
 
 ![image](images/proteinpaint/DUSP2_NM_004418.svg)

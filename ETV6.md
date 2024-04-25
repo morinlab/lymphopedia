@@ -30,6 +30,14 @@
 
 
 
+ ## ETV6 Hotspots
+
+| Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
+ | :---:| :---: | :--: | :---: |
+| chr12 | 11803078 | C>T | A6V |
+| chr12 | 11803087 | G>A | S9N |
+| chr12 | 11803094 | G>A | K11= |
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ETV6_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ETV6_protein_hg38.html)
 
 ![image](images/proteinpaint/ETV6_NM_001987.svg)

@@ -25,6 +25,17 @@
 
 
 
+ ## SETD1B Hotspots
+
+| Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
+ | :---:| :---: | :--: | :---: |
+| chr12 | 122242755 | C>A | P38T |
+| chr12 | 122243045 | G>A | E66K |
+| chr12 | 122243058 | A>G | D70G |
+| chr12 | 122243060 | C>T | P71S |
+| chr12 | 122265950 | G>A | A1858T |
+| chr12 | 122265953 | C>T | R1859C |
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/SETD1B_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/SETD1B_protein_hg38.html)
 
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/SETD1B.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/SETD1B_hg38.html)

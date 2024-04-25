@@ -34,6 +34,21 @@
 > First described in DLBCL in 2018 by [Schmitz R](https://pubmed.ncbi.nlm.nih.gov/29641966)
 
 
+ ## KLF2 Hotspots
+
+| Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
+ | :---:| :---: | :--: | :---: |
+| chr19 | 16436719 | G>C | K256N |
+| chr19 | 16436723 | A>G | K258E |
+| chr19 | 16436726 | C>G | R259G |
+| chr19 | 16436726 | C>T | R259C |
+| chr19 | 16436755 | CA>TC | T269P |
+| chr19 | 16436769 | C>T | T273I |
+| chr19 | 16436772 | G>A | C274Y |
+| chr19 | 16436775 | G>A | S275N |
+| chr19 | 16436775 | G>C | S275T |
+| chr19 | 16436784 | G>A | G278D |
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/KLF2_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/KLF2_protein_hg38.html)
 
 ![image](images/proteinpaint/KLF2_NM_016270.svg)

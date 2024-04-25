@@ -24,4 +24,19 @@
 
 
 > [!NOTE]
-> First described in DLBCL in 2021 by [Hübschmann D](https://pubmed.ncbi.nlm.nih.gov/33953289)
+ ## TRAF6 Hotspots
+
+| Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
+ | :---:| :---: | :--: | :---: |
+| chr11 | 36511924 | C>A | E345* |
+| chr11 | 36511915 | G>A | Q348* |
+| chr11 | 36511893 | C>T | W355* |
+| chr11 | 36511892 | C>T | W355* |
+
+View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TRAF6_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TRAF6_protein_hg38.html)
+
+![image](images/proteinpaint/TRAF6_NM_145803.svg)
+
+View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TRAF6.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TRAF6_hg38.html)
+
+![image](images/proteinpaint/TRAF6.svg)

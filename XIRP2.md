@@ -24,6 +24,12 @@
 > First described in FL in 2023 by [Russler-Germain DA](https://pubmed.ncbi.nlm.nih.gov/37493986)
 
 
+ ## XIRP2 Hotspots
+
+| Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
+ | :---:| :---: | :--: | :---: |
+| chr2 | 168107297 | G>A | R3132Q |
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/XIRP2_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/XIRP2_protein_hg38.html)
 
 ![image](images/proteinpaint/XIRP2_NM_152381.svg)

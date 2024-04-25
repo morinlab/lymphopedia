@@ -31,6 +31,23 @@
 
 
 
+ ## STAT6 Hotspots
+
+| Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
+ | :---:| :---: | :--: | :---: |
+| chr12 | 57496671 | C>G | G416R |
+| chr12 | 57496666 | G>T | N417K |
+| chr12 | 57496662 | C>T | D419N |
+| chr12 | 57496662 | C>G | D419H |
+| chr12 | 57496662 | C>A | D419Y |
+| chr12 | 57496661 | T>G | D419A |
+| chr12 | 57496661 | T>C | D419G |
+| chr12 | 57496661 | T>A | D419V |
+| chr12 | 57496658 | T>G | N420T |
+| chr12 | 57496658 | T>C | N420S |
+| chr12 | 57496656 | T>C | N421D |
+| chr12 | 57496654 | A>C | N421K |
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/STAT6_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/STAT6_protein_hg38.html)
 
 ![image](images/proteinpaint/STAT6_NM_003153.svg)

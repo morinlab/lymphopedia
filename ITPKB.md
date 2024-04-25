@@ -36,6 +36,13 @@
 > First described in DLBCL in 2018 by [Schmitz R](https://pubmed.ncbi.nlm.nih.gov/29641966)
 
 
+ ## ITPKB Hotspots
+
+| Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
+ | :---:| :---: | :--: | :---: |
+| chr1 | 226925148 | G>C | Y4* |
+| chr1 | 226925148 | G>T | Y4* |
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ITPKB_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ITPKB_protein_hg38.html)
 
 ![image](images/proteinpaint/ITPKB_NM_002221.svg)

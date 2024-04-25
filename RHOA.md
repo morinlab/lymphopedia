@@ -29,6 +29,18 @@
 
 
 
+ ## RHOA Hotspots
+
+| Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
+ | :---:| :---: | :--: | :---: |
+| chr3 | 49413010 | G>A | R5W |
+| chr3 | 49413009 | C>T | R5Q |
+| chr3 | 49412923 | A>C | Y34D |
+| chr3 | 49412922 | T>A | Y34F |
+| chr3 | 49412899 | A>G | Y42H |
+| chr3 | 49412898 | T>G | Y42S |
+| chr3 | 49412898 | T>C | Y42C |
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/RHOA_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/RHOA_protein_hg38.html)
 
 ![image](images/proteinpaint/RHOA_NM_001664.svg)

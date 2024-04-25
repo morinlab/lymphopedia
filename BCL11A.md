@@ -34,6 +34,18 @@
 
 
 
+ ## BCL11A Hotspots
+
+| Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
+ | :---:| :---: | :--: | :---: |
+| chr2 | 60780391 | C>G | K5N |
+| chr2 | 60780391 | C>A | K5N |
+| chr2 | 60780390 | G>A | Q6* |
+| chr2 | 60780380 | GG>AA | P9F |
+| chr2 | 60780371 | A>T | L12* |
+| chr2 | 60780368 | C>T | S13N |
+| chr2 | 60780368 | C>G | S13T |
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/BCL11A_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/BCL11A_protein_hg38.html)
 
 ![image](images/proteinpaint/BCL11A_NM_022893.svg)

@@ -31,6 +31,14 @@
 
 
 
+ ## BCL10 Hotspots
+
+| Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
+ | :---:| :---: | :--: | :---: |
+| chr1 | 85736474 | C>T | R58Q |
+| chr1 | 85733390 | G>A | Q208* |
+| chr1 | 85733386 | A>C | L209* |
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/BCL10_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/BCL10_protein_hg38.html)
 
 ![image](images/proteinpaint/BCL10_NM_003921.svg)

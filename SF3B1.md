@@ -31,6 +31,14 @@
 > First described in BL in 2012 by [Love C](https://pubmed.ncbi.nlm.nih.gov/23143597)
 
 
+ ## SF3B1 Hotspots
+
+| Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
+ | :---:| :---: | :--: | :---: |
+| chr2 | 198266833 | T>G | K700T |
+| chr2 | 198266832 | T>G | K700N |
+| chr2 | 198266821 | A>C | I704S |
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/SF3B1_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/SF3B1_protein_hg38.html)
 
 ![image](images/proteinpaint/SF3B1_NM_012433.svg)

@@ -36,6 +36,39 @@
 
 
 
+ ## MYC Hotspots
+
+| Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
+ | :---:| :---: | :--: | :---: |
+| chr8 | 128750677 | C>A | P72T |
+| chr8 | 128750677 | C>G | P72A |
+| chr8 | 128750677 | C>T | P72S |
+| chr8 | 128750677 | CC>TT | P72F |
+| chr8 | 128750678 | C>G | P72R |
+| chr8 | 128750678 | C>T | P72L |
+| chr8 | 128750680 | A>G | T73A |
+| chr8 | 128750681 | C>A | T73N |
+| chr8 | 128750681 | C>T | T73I |
+| chr8 | 128750681 | CC>AT | T73N |
+| chr8 | 128750681 | CC>GT | T73S |
+| chr8 | 128750681 | CC>TA | T73I |
+| chr8 | 128750681 | CC>TG | T73M |
+| chr8 | 128750681 | CC>TT | T73I |
+| chr8 | 128750683 | C>G | P74A |
+| chr8 | 128750683 | C>T | P74S |
+| chr8 | 128750684 | C>T | P74L |
+| chr8 | 128750686 | C>A | P75T |
+| chr8 | 128750686 | C>G | P75A |
+| chr8 | 128750686 | C>T | P75S |
+| chr8 | 128750686 | CC>TT | P75F |
+| chr8 | 128750687 | C>A | P75H |
+| chr8 | 128750687 | C>G | P75R |
+| chr8 | 128750692 | T>C | S77P |
+| chr8 | 128750692 | T>G | S77A |
+| chr8 | 128750693 | C>G | S77C |
+| chr8 | 128750695 | C>T | P78S |
+| chr8 | 128750696 | C>G | P78R |
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MYC_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MYC_protein_hg38.html)
 
 ![image](images/proteinpaint/MYC_NM_002467.svg)

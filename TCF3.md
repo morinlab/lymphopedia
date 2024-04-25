@@ -26,6 +26,19 @@
 > First described in BL in 2012 by [Schmitz R](https://pubmed.ncbi.nlm.nih.gov/22885699)
 
 
+ ## TCF3 Hotspots
+
+| Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
+ | :---:| :---: | :--: | :---: |
+| chr19 | 1612366 | A>T | N551K |
+| chr19 | 1612366 | A>C | N551K |
+| chr19 | 1612349 | A>T | V557E |
+| chr19 | 1612344 | C>T | V559M |
+| chr19 | 1612337 | T>A | D561V |
+| chr19 | 1612336 | A>T | D561E |
+| chr19 | 1612336 | A>C | D561E |
+| chr19 | 1612329 | C>T | E564K |
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TCF3_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TCF3_protein_hg38.html)
 
 ![image](images/proteinpaint/TCF3_NM_003200.svg)
