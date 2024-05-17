@@ -1,5 +1,7 @@
 # [CCND3]
 
+CCND3 (Cyclin D3) is a gene that encodes a protein involved in the regulation of the cell cycle. Mutations in CCND3 are implicated in various types of B-cell lymphomas, including Burkitt lymphoma and diffuse large B-cell lymphoma (DLBCL). 
+
 ## Mutation tier
 
 |Entity|Tier|Description               |
@@ -33,7 +35,25 @@
 > First described in BL in 2012 by [Schmitz R](https://pubmed.ncbi.nlm.nih.gov/22885699). First described in DLBCL in 2011 by [Morin RD](https://pubmed.ncbi.nlm.nih.gov/21796119). First described in FL in 2011 by [Morin RD](https://pubmed.ncbi.nlm.nih.gov/21796119)
 
 
- ## CCND3 Hotspots
+## CCND3 Hotspots
+
+### Exon 5 Hotspot
+E283 (Glutamic Acid 283): One of the most frequently mutated sites in CCND3. Mutations at this site can result in enhanced cyclin D3 stability and increased cell cycle progression.
+
+D290 (Aspartic Acid 290): Another common mutation in exon 5. Mutations here are associated with similar functional impacts as E283, promoting uncontrolled cell proliferation.
+
+### Exon 1 and Exon 2
+While exon 5 is the primary hotspot, mutations in exon 1 and exon 2 have also been observed, though less frequently. These mutations can affect the regulatory regions of the gene, potentially increasing levels of CCND3 by promoting stability of the protein.
+
+### Functional Impact of CCND3 Mutations
+**Cell Cycle Dysregulation:**
+CCND3, along with other cyclins, regulates the transition from the G1 phase to the S phase of the cell cycle. Mutations in CCND3 can lead to its overexpression or increased stability, resulting in accelerated cell cycle progression and uncontrolled cell division.
+
+**Increased Protein Stability:**
+Mutations at E283 and D290 often result in the increased stability of the cyclin D3 protein, preventing its degradation. This leads to sustained activation of CDK4/6 (cyclin-dependent kinases), further driving cell cycle progression.
+
+**Oncogenic Potential:**
+The dysregulation of CCND3 due to these mutations contributes to the oncogenic potential of B-cell lymphomas. By promoting continuous cell proliferation, these mutations help lymphoma cells evade normal growth control mechanisms.
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |
@@ -63,3 +83,7 @@ View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morin
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CCND3.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CCND3_hg38.html)
 
 ![image](images/proteinpaint/CCND3.svg)
+
+## References
+
+*Schmitz, R., et al. (2012). "Burkitt lymphoma pathogenesis and therapeutic targets from structural and functional genomics." Nature, 490(7418), 116-120.*
