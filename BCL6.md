@@ -1,5 +1,5 @@
 
-BCL6 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas. Although common, particularly in DLBCL, the function of many of these mutations remains unclear but some have been shown to affect the regulation of BCL6 expression.<sup>1,2</sup> The role of BCL6 missense mutations, seen in around 11% of patients, remains unclear. 
+BCL6 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas. Although common, particularly in DLBCL, the function of many of these mutations remains unclear but some have been shown to affect the regulation of BCL6 expression.<sup>1,2</sup> The role of BCL6 missense mutations, seen over 9% of patients,<sup>3</sup> remains unclear. 
 
 ## Mutation tier
 
@@ -69,3 +69,4 @@ View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/
 
 1. *Pasqualucci L, Migliazza A, Basso K, Houldsworth J, Chaganti RS, Dalla-Favera R. Mutations of the BCL6 proto-oncogene disrupt its negative autoregulation in diffuse large B-cell lymphoma. Blood. 2003 Apr 15;101(8):2914-23. doi: 10.1182/blood-2002-11-3387. Epub 2002 Dec 19. PMID: 12515714.*
 2. *Bal E, Kumar R, Hadigol M, Holmes AB, Hilton LK, Loh JW, Dreval K, Wong JCH, Vlasevska S, Corinaldesi C, Soni RK, Basso K, Morin RD, Khiabanian H, Pasqualucci L, Dalla-Favera R. Super-enhancer hypermutation alters oncogene expression in B cell lymphoma. Nature. 2022 Jul;607(7920):808-815. doi: 10.1038/s41586-022-04906-8. Epub 2022 Jul 6. Erratum in: Nature. 2022 Nov;611(7934):E2. PMID: 35794478; PMCID: PMC9583699.*
+3. *Schmitz R, Wright GW, Huang DW, Johnson CA, Phelan JD, Wang JQ, Roulland S, Kasbekar M, Young RM, Shaffer AL, Hodson DJ, Xiao W, Yu X, Yang Y, Zhao H, Xu W, Liu X, Zhou B, Du W, Chan WC, Jaffe ES, Gascoyne RD, Connors JM, Campo E, Lopez-Guillermo A, Rosenwald A, Ott G, Delabie J, Rimsza LM, Tay Kuang Wei K, Zelenetz AD, Leonard JP, Bartlett NL, Tran B, Shetty J, Zhao Y, Soppet DR, Pittaluga S, Wilson WH, Staudt LM. Genetics and Pathogenesis of Diffuse Large B-Cell Lymphoma. N Engl J Med. 2018 Apr 12;378(15):1396-1407. doi: 10.1056/NEJMoa1801445. PMID: 29641966; PMCID: PMC6010183.*
