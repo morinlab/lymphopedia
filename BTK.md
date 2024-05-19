@@ -1,5 +1,5 @@
 # BTK
-One study reported BTK mutations in approximately 7% of FL and 11% of transformed FL cases.<sup>1</sup> Another showed these mutations were more common, and typically co-occur in tumours with BCL2 translocations. Despite the known role of certain BTK mutations in acquired resistance to BTK inhibitors, these mutations were found in BTK inhibitor-naïve patients.<sup>2<sup> These mutations often occur in treatment-naive patients and lead to inactivation of the BTK protein through destabilization or by altering key residues involved in enzymatic activity.<sup>1</sup>
+One study reported BTK mutations in approximately 7% of FL and 11% of transformed FL cases.<sup>1</sup> Another showed these mutations were more common, and typically co-occur in tumours with BCL2 translocations. Despite the known role of certain BTK mutations in acquired resistance to BTK inhibitors, these mutations were found in BTK inhibitor-naïve patients.<sup>2</sup> These mutations often occur in treatment-naive patients and lead to inactivation of the BTK protein through destabilization or by altering key residues involved in enzymatic activity.<sup>1</sup>
 
 ## Relevance tier by entity
 
