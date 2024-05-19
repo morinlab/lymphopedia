@@ -1,12 +1,13 @@
-# [USP7]
+# USP7
 
-## Mutation tier
+## Relevance tier by entity
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
 |BL    |1   |high-confidence BL gene   |
 |DLBCL |1   |high-confidence DLBCL gene|
-## Mutation incidence
+
+## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
 |Entity|source               |frequency (%)|
 |:------:|:---------------------:|:-------------:|
@@ -18,7 +19,7 @@
 |DLBCL |Reddy cohort         |1.10         |
 |DLBCL |Chapuy cohort        |3.85         |
 
-## Mutation pattern
+## Mutation pattern and selective pressure estimates
 
 |Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
 |:------:|:----:|:---------------------:|:----------------:|:----------------:|

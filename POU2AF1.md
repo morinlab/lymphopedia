@@ -1,13 +1,16 @@
+# POU2AF1
+## Overview
 POU2AF1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus.
 
-## Mutation tier
+## Relevance tier by entity
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
 |DLBCL |1-a   |high-confidence DLBCL gene, hypermutated|
 |FL    |1-a   |high-confidence FL gene, hypermutated   |
 
-## Mutation incidence
+
+## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
 |Entity|source        |frequency (%)|
 |:------:|:--------------:|:-------------:|
@@ -17,7 +20,7 @@ POU2AF1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ash
 |DLBCL |Chapuy cohort | 5.56        |
 |FL    |GAMBL genomes |12.24        |
 
-## Mutation pattern
+## Mutation pattern and selective pressure estimates
 
 |Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
 |:------:|:----:|:---------------------:|:----------------:|:----------------:|

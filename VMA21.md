@@ -1,17 +1,18 @@
-# [VMA21]
+# VMA21
 
-## Mutation tier
+## Relevance tier by entity
 
 |Entity|Tier|Description            |
 |:------:|:----:|-----------------------|
 |FL    |1   |high-confidence FL gene|
-## Mutation incidence
+
+## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
 |Entity|source       |frequency (%)|
 |:------:|:-------------:|:-------------:|
 |FL    |GAMBL genomes|5.08         |
 
-## Mutation pattern
+## Mutation pattern and selective pressure estimates
 
 |Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
 |:------:|:----:|:---------------------:|:----------------:|:----------------:|

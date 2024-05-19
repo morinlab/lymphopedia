@@ -1,11 +1,12 @@
-# [TCF3]
+# TCF3
 
-## Mutation tier
+## Relevance tier by entity
 
 |Entity|Tier|Description            |
 |:------:|:----:|-----------------------|
 |BL    |1   |high-confidence BL gene|
-## Mutation incidence
+
+## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
 |Entity|source               |frequency (%)|
 |:------:|:---------------------:|:-------------:|
@@ -13,7 +14,7 @@
 |BL    |Thomas cohort        |11.00        |
 |BL    |Panea cohort         | 9.90        |
 
-## Mutation pattern
+## Mutation pattern and selective pressure estimates
 
 |Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
 |:------:|:----:|:---------------------:|:----------------:|:----------------:|

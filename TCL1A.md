@@ -1,13 +1,14 @@
-# [TCL1A]
+# TCL1A
 
-## Mutation tier
+## Relevance tier by entity
 
 |Entity|Tier|Description                              |
 |:------:|:----:|-----------------------------------------|
 |BL    |1-a | aSHM target and high-confidence BL gene   |
 |DLBCL |1-a | aSHM target and high-confidence DLBCL gene|
 
-## Mutation incidence
+
+## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
 |Entity|source               |frequency (%)|
 |:------:|:---------------------:|:-------------:|
@@ -19,7 +20,7 @@
 |DLBCL |Reddy cohort         |2.80         |
 |DLBCL |Chapuy cohort        |2.99         |
 
-## Mutation pattern
+## Mutation pattern and selective pressure estimates
 
 |Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
 |:------:|:----:|:---------------------:|:----------------:|:----------------:|
