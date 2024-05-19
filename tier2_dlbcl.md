@@ -1,6 +1,6 @@
 # DLBCL genes, Tier 2
-|Category|Gene|Frequency(GAMBL)|gene|protein|
-| :---: | :----: | :---: | :---: | :---: | :---: | 
+|Category (Tier)|Gene|Frequency(GAMBL)|gene|protein|
+| :---: | :----: | :---: | :---: | :--: |
 |2|[ABI3BP](ABI3BP)|3.44|[view](images/proteinpaint/ABI3BP.svg)|[view](images/proteinpaint/ABI3BP_NM_015429.svg)|
 |2|[ADAMTS1](ADAMTS1)|1.91|[view](images/proteinpaint/ADAMTS1.svg)|[view](images/proteinpaint/ADAMTS1_NM_006988.svg)|
 |2|[ANKRD17](ANKRD17)|2.68|[view](images/proteinpaint/ANKRD17.svg)|[view](images/proteinpaint/ANKRD17_NM_032217.svg)|
