@@ -4,8 +4,9 @@ IKZF3 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm)
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
+|DLBCL |1-a   |high-confidence DLBCL gene, hypermutated            |
 |BL    |2   |relevance in BL not firmly established|
-|DLBCL |1   |high-confidence DLBCL gene            |
+
 ## Mutation incidence
 
 |Entity|source               |frequency (%)|
