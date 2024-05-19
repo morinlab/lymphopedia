@@ -1,4 +1,5 @@
-# [BCL6]
+
+BCL6 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas. Although common, particularly in DLBCL, the function of many of these mutations remains unclear but some have been shown to affect the regulation of BCL6 expression.<sup>1,2</sup> The role of BCL6 missense mutations, seen in around 11% of patients, remains unclear. 
 
 ## Mutation tier
 
@@ -63,3 +64,8 @@ View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morin
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/BCL6.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/BCL6_hg38.html)
 
 ![image](images/proteinpaint/BCL6.svg)
+
+## References
+
+1. *Pasqualucci L, Migliazza A, Basso K, Houldsworth J, Chaganti RS, Dalla-Favera R. Mutations of the BCL6 proto-oncogene disrupt its negative autoregulation in diffuse large B-cell lymphoma. Blood. 2003 Apr 15;101(8):2914-23. doi: 10.1182/blood-2002-11-3387. Epub 2002 Dec 19. PMID: 12515714.*
+2. *Bal E, Kumar R, Hadigol M, Holmes AB, Hilton LK, Loh JW, Dreval K, Wong JCH, Vlasevska S, Corinaldesi C, Soni RK, Basso K, Morin RD, Khiabanian H, Pasqualucci L, Dalla-Favera R. Super-enhancer hypermutation alters oncogene expression in B cell lymphoma. Nature. 2022 Jul;607(7920):808-815. doi: 10.1038/s41586-022-04906-8. Epub 2022 Jul 6. Erratum in: Nature. 2022 Nov;611(7934):E2. PMID: 35794478; PMCID: PMC9583699.*
