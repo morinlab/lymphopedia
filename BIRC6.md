@@ -1,5 +1,8 @@
 # BIRC6
 
+## Overview
+BIRC6, as a negative regulator of non-canonical NF-κB signaling, is implicated in lymphomagenesis. Mutations in the BIRC6 were identified in grey zone lymphoma (GZL), contributing to its distinct mutational profile compared to other related lymphomas.<sup>1</sup> These mutations are recurrent, albeit much less common, in DLBCL and FL.
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description                           |
@@ -47,3 +50,7 @@ View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morin
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/BIRC6.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/BIRC6_hg38.html)
 
 ![image](images/proteinpaint/BIRC6.svg)
+
+## References
+
+1. *Sarkozy C, Hung SS, Chavez EA, Duns G, Takata K, Chong LC, Aoki T, Jiang A, Miyata-Takata T, Telenius A, Slack GW, Molina TJ, Ben-Neriah S, Farinha P, Dartigues P, Damotte D, Mottok A, Salles GA, Casasnovas RO, Savage KJ, Laurent C, Scott DW, Traverse-Glehen A, Steidl C. Mutational landscape of gray zone lymphoma. Blood. 2021 Apr 1;137(13):1765-1776. doi: 10.1182/blood.2020007507. PMID: 32961552.*
