@@ -1,5 +1,5 @@
 # FL genes, Tier 2
-|Category|Gene|Frequency(GAMBL)|gene|protein|
+|Category|Gene|FL mutation frequency|gene|protein|
 | :---: | :----: | :---: | :---: | :---: |
 |2|[ABL2](ABL2)|0.69|[view](images/proteinpaint/ABL2.svg)|[view](images/proteinpaint/ABL2_NM_007314.svg)|
 |2-a|[ACTG1](ACTG1)|3.00|[view](images/proteinpaint/ACTG1.svg)|[view](images/proteinpaint/ACTG1_NM_001614.svg)|
