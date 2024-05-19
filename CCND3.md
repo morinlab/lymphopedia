@@ -38,9 +38,9 @@ CCND3 (Cyclin D3) is a gene that encodes a protein involved in the regulation of
 ## CCND3 Hotspots
 
 ### Exon 5 Hotspot
-E283 (Glutamic Acid 283): One of the most frequently mutated sites in CCND3. Mutations at this site can result in enhanced cyclin D3 stability and increased cell cycle progression.
+T283 (Threonine 283): One of the most frequently mutated sites in CCND3. Mutations at this site can result in enhanced cyclin D3 stability and increased cell cycle progression.
 
-D290 (Aspartic Acid 290): Another common mutation in exon 5. Mutations here are associated with similar functional impacts as E283, promoting uncontrolled cell proliferation.
+I290 (Isoleucine 290): Another common mutation in exon 5. Mutations here are associated with similar functional impacts as E283, promoting uncontrolled cell proliferation.
 
 ### Exon 1 and Exon 2
 While exon 5 is the primary hotspot, mutations in exon 1 and exon 2 have also been observed, though less frequently. These mutations can affect the regulatory regions of the gene, potentially increasing levels of CCND3 by promoting stability of the protein.
