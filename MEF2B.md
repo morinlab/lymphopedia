@@ -1,5 +1,7 @@
 # [MEF2B]
 
+MEF2B mutations are observed in a significant subset of follicular lymphoma cases, as well as in other B-cell lymphomas, including diffuse large B-cell lymphoma (DLBCL). MEF2B has known hotspot mutations that affect multiple distinct domains of the protein. 
+
 ## Mutation tier
 
 |Entity|Tier|Description                           |
@@ -37,6 +39,21 @@
 
 
  ## MEF2B Hotspots
+
+### DNA-Binding Domain (MADS-box and MEF2 Domain):
+**R24 (Arginine 24)** A recurrent hotspot mutation. This position is located within the MADS-box domain, which is crucial for DNA binding and dimerization with other MEF2 family members.
+
+**R30 (Arginine 30)** Another recurrent hotspot in the MADS-box domain. Mutations at this site can disrupt DNA binding and affect the transcriptional activity of MEF2B.
+
+### Transcriptional Activation Domain:
+**N81 (Asparagine 81)** A mutation hotspot within the transcriptional activation domain. Alterations at this position can enhance the transcriptional activity of MEF2B, contributing to the overexpression of target genes involved in cell survival and proliferation.
+
+## Functional Impact of MEF2B Mutations
+### Altered Transcriptional Activity:
+Mutations in the DNA-binding domain, such as those at R24 and R30, can alter the binding affinity and specificity of MEF2B for its target DNA sequences. This can lead to changes in the expression of genes that are critical for cell growth, differentiation, and survival.
+Mutations in the transcriptional activation domain, like N81, can enhance the ability of MEF2B to activate transcription, which may lead to the upregulation of oncogenes and survival pathways.
+
+## MEF2B Hot Spots from GAMBL
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |
