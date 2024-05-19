@@ -7,22 +7,22 @@ BIRC6, as a negative regulator of non-canonical NF-κB signaling, is implicated 
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|BL    |2   |relevance in BL not firmly established|
 |DLBCL |1   |high-confidence DLBCL gene            |
 |FL    |1   |high-confidence FL gene               |
+|BL    |2   |relevance in BL not firmly established|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
 |Entity|source               |frequency (%)|
 |:------:|:---------------------:|:-------------:|
-|BL    |GAMBL genomes+capture| 6.00        |
-|BL    |Thomas cohort        | 3.80        |
-|BL    |Panea cohort         |14.90        |
 |DLBCL |GAMBL genomes        | 7.27        |
 |DLBCL |Schmitz cohort       |10.00        |
 |DLBCL |Reddy cohort         | 6.41        |
 |DLBCL |Chapuy cohort        | 4.70        |
 |FL    |GAMBL genomes        | 3.70        |
+|BL    |GAMBL genomes+capture| 6.00        |
+|BL    |Thomas cohort        | 3.80        |
+|BL    |Panea cohort         |14.90        |
 
 ## Mutation pattern and selective pressure estimates
 
