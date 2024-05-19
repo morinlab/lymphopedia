@@ -1,6 +1,4 @@
-# [MEF2B]
-
-MEF2B mutations are observed in a significant subset of follicular lymphoma cases, as well as in other B-cell lymphomas, including diffuse large B-cell lymphoma (DLBCL). MEF2B has known hotspot mutations that affect multiple distinct domains of the protein. 
+MEF2B is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus. MEF2B mutations are observed in a significant subset of follicular lymphoma cases, as well as in other B-cell lymphomas, including diffuse large B-cell lymphoma (DLBCL). MEF2B has known hotspot mutations that affect multiple distinct domains of the protein. 
 
 ## Mutation tier
 
@@ -37,8 +35,7 @@ MEF2B mutations are observed in a significant subset of follicular lymphoma case
 |chr19   |19279635  |19281441|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr19%3A19279635%2D19281441)|active_promoter   |
 
 
-
- ## MEF2B Hotspots
+## MEF2B Hotspots
 
 ### DNA-Binding Domain (MADS-box and MEF2 Domain):
 **R24 (Arginine 24)** A recurrent hotspot mutation. This position is located within the MADS-box domain, which is crucial for DNA binding and dimerization with other MEF2 family members.
@@ -73,3 +70,7 @@ images/proteinpaint/MEF2B_zoom.svg)
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MEF2B.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MEF2B_hg38.html)
 
 ![image](images/proteinpaint/MEF2B.svg)
+
+## References
+
+1. 
