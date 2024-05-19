@@ -4,8 +4,8 @@ BCL11A (B-cell lymphoma/leukemia 11A) is a transcription factor involved in the 
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|BL    |2   |relevance in BL not firmly established|
-|DLBCL |1   |high-confidence DLBCL gene            |
+|BL    |2-a   |relevance in BL not firmly established, hypermutated|
+|DLBCL |1-a   |high-confidence DLBCL gene, hypermutated            |
 ## Mutation incidence
 
 |Entity|source               |frequency (%)|
