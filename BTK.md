@@ -1,4 +1,5 @@
 # BTK
+One study reported BTK mutations in approximately 7% of FL and 11% of transformed FL cases.<sup>1</sup> Another showed these mutations were more common, and typically co-occur in tumours with BCL2 translocations. Despite the known role of certain BTK mutations in acquired resistance to BTK inhibitors, these mutations were found in BTK inhibitor-naïve patients.<sup>2<sup> These mutations often occur in treatment-naive patients and lead to inactivation of the BTK protein through destabilization or by altering key residues involved in enzymatic activity.<sup>1</sup>
 
 ## Relevance tier by entity
 
@@ -34,3 +35,7 @@ View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morin
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/BTK.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/BTK_hg38.html)
 
 ![image](images/proteinpaint/BTK.svg)
+
+## References
+1. *Hu N, Wang F, Sun T, Xu Z, Zhang J, Bernard D, Xu S, Wang S, Kaminski M, Devata S, Phillips T, Malek SN. Follicular Lymphoma-associated BTK Mutations are Inactivating Resulting in Augmented AKT Activation. Clin Cancer Res. 2021 Apr 15;27(8):2301-2313. doi: 10.1158/1078-0432.CCR-20-3741. Epub 2021 Jan 8. PMID: 33419778; PMCID: PMC8046715.*
+2. *Schejbel L, Breinholt MF, Gang AO, Nielsen TH, Pedersen LM, Høgdall E, Nørgaard P. Inactivating BTK mutations in large B-cell lymphoma in a real-world cohort: Strong correlation with BCL2 translocation. EJHaem. 2022 Jun 24;3(3):936-939. doi: 10.1002/jha2.489. PMID: 36051027; PMCID: PMC9421985.*
