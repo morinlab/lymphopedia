@@ -1,17 +1,18 @@
-# [COL11A1]
+# COL11A1
 
-## Mutation tier
+## Relevance tier by entity
 
 |Entity|Tier|Description                            |
 |:------:|:----:|---------------------------------------|
 |MCL   |2   |relevance in MCL not firmly established|
-## Mutation incidence
+
+## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
 |Entity|source       |frequency (%)|
 |:------:|:-------------:|:-------------:|
 |MCL   |GAMBL genomes|0.47         |
 
-## Mutation pattern
+## Mutation pattern and selective pressure estimates
 
 |Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
 |:------:|:----:|:---------------------:|:----------------:|:----------------:|

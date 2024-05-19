@@ -1,13 +1,14 @@
-# [DDX3X]
+# DDX3X
 
-## Mutation tier
+## Relevance tier by entity
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
 |BL    |1-a | aSHM target and high-confidence BL gene               |
 |DLBCL |1-a | aSHM target and high-confidence DLBCL gene            |
 |FL    |2-a | aSHM target; Although recurrent, the relevance of mutations in FL is tenuous |
-## Mutation incidence
+
+## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
 |Entity|source               |frequency (%)|
 |:------:|:---------------------:|:-------------:|
@@ -20,7 +21,7 @@
 |DLBCL |Chapuy cohort        | 5.56        |
 |FL    |GAMBL genomes        | 2.54        |
 
-## Mutation pattern
+## Mutation pattern and selective pressure estimates
 
 |Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
 |:------:|:----:|:---------------------:|:----------------:|:----------------:|
