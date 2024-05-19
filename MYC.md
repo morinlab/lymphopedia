@@ -6,7 +6,7 @@ MYC is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) a
 |:------:|:----:|--------------------------------------|
 |BL    |1-a   |high-confidence BL gene               |
 |DLBCL |1-a   |high-confidence DLBCL gene            |
-|FL    |2-a   |relevance of missense mutations in FL not firmly established|
+|FL    |2   |relevance of missense mutations in FL not firmly established|
 
 ## Mutation incidence
 
