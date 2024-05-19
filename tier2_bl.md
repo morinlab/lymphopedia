@@ -1,190 +1,191 @@
 # BL genes, Tier 2
-| Gene | Details | Mutation frequency | Static view (Gene) | Static view (Protein) | Comment |
-| :---: | :---: | :---: | :---: | :---: | ---------- |
-| ALPK2 | [gene page](ALPK2) | 3.93 | [view](images/proteinpaint/ALPK2.svg) | [view](images/proteinpaint/ALPK2_NM_052947.svg) |
-| B2M | [gene page](B2M) | 2.31 | [view](images/proteinpaint/B2M.svg) | [view](images/proteinpaint/B2M_NM_004048.svg) |
-| BACH2 | [gene page](BACH2) | 1.85 | [view](images/proteinpaint/BACH2.svg) | [view](images/proteinpaint/BACH2_NM_021813.svg) |
-| BCL10 | [gene page](BCL10) | 0.23 | [view](images/proteinpaint/BCL10.svg) | [view](images/proteinpaint/BCL10_NM_003921.svg) |
-| BCL11A | [gene page](BCL11A) | 2.54 | [view](images/proteinpaint/BCL11A.svg) | [view](images/proteinpaint/BCL11A_NM_022893.svg) |
-| BCL2 | [gene page](BCL2) | 0.46 | [view](images/proteinpaint/BCL2.svg) | [view](images/proteinpaint/BCL2_NM_000633.svg) |
-| BCL2L11 | [gene page](BCL2L11) | 1.62 | [view](images/proteinpaint/BCL2L11.svg) | [view](images/proteinpaint/BCL2L11_NM_138621.svg) |
-| BCL6 | [gene page](BCL6) | 5.08 | [view](images/proteinpaint/BCL6.svg) | [view](images/proteinpaint/BCL6_NM_001706.svg) |
-| BCL7A | [gene page](BCL7A) | 5.31 | [view](images/proteinpaint/BCL7A.svg) | [view](images/proteinpaint/BCL7A_NM_020993.svg) |
-| BCR | [gene page](BCR) | 6.00 | [view](images/proteinpaint/BCR.svg) | [view](images/proteinpaint/BCR_NM_004327.svg) |
-| BIRC6 | [gene page](BIRC6) | 6.00 | [view](images/proteinpaint/BIRC6.svg) | [view](images/proteinpaint/BIRC6_NM_016252.svg) |
-| BTG2 | [gene page](BTG2) | 4.85 | [view](images/proteinpaint/BTG2.svg) | [view](images/proteinpaint/BTG2_NM_006763.svg) |
-| C10orf12 | [gene page](C10orf12) | 3.46 | [view](images/proteinpaint/C10orf12.svg) | [LOAD](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/C10orf12_protein.html) |
-| CARD11 | [gene page](CARD11) | 4.16 | [view](images/proteinpaint/CARD11.svg) | [view](images/proteinpaint/CARD11_NM_032415.svg) |
-| CCNF | [gene page](CCNF) | 1.62 | [view](images/proteinpaint/CCNF.svg) | [view](images/proteinpaint/CCNF_NM_001761.svg) |
-| CD58 | [gene page](CD58) | 0.92 | [view](images/proteinpaint/CD58.svg) | [view](images/proteinpaint/CD58_NM_001779.svg) |
-| CD70 | [gene page](CD70) | 0.92 | [view](images/proteinpaint/CD70.svg) | [view](images/proteinpaint/CD70_NM_001252.svg) |
-| CD79B | [gene page](CD79B) | 1.39 | [view](images/proteinpaint/CD79B.svg) | [view](images/proteinpaint/CD79B_NM_000626.svg) |
-| CD83 | [gene page](CD83) | 1.15 | [view](images/proteinpaint/CD83.svg) | [view](images/proteinpaint/CD83_NM_004233.svg) |
-| CDKN2A | [gene page](CDKN2A) | 1.85 | [view](images/proteinpaint/CDKN2A.svg) | [view](images/proteinpaint/CDKN2A_NM_000077.svg) |
-| CDKN2C | [gene page](CDKN2C) | 2.54 | [view](images/proteinpaint/CDKN2C.svg) | [view](images/proteinpaint/CDKN2C_NM_001262.svg) |
-| CREBBP | [gene page](CREBBP) | 6.00 | [view](images/proteinpaint/CREBBP.svg) | [view](images/proteinpaint/CREBBP_NM_004380.svg) |
-| CTCF | [gene page](CTCF) | 3.00 | [view](images/proteinpaint/CTCF.svg) | [view](images/proteinpaint/CTCF_NM_006565.svg) |
-| CXCR4 | [gene page](CXCR4) | 2.08 | [view](images/proteinpaint/CXCR4.svg) | [view](images/proteinpaint/CXCR4_NM_001008540.svg) |
-| DNMT1 | [gene page](DNMT1) | 2.08 | [view](images/proteinpaint/DNMT1.svg) | [view](images/proteinpaint/DNMT1_NM_001130823.svg) |
-| DTX1 | [gene page](DTX1) | 5.54 | [view](images/proteinpaint/DTX1.svg) | [view](images/proteinpaint/DTX1_NM_004416.svg) |
-| EBF1 | [gene page](EBF1) | 2.08 | [view](images/proteinpaint/EBF1.svg) | [view](images/proteinpaint/EBF1_NM_024007.svg) |
-| EHD1 | [gene page](EHD1) | 1.39 | [view](images/proteinpaint/EHD1.svg) | [view](images/proteinpaint/EHD1_NM_006795.svg) |
-| EP300 | [gene page](EP300) | 4.62 | [view](images/proteinpaint/EP300.svg) | [view](images/proteinpaint/EP300_NM_001429.svg) |
-| ETS1 | [gene page](ETS1) | 7.62 | [view](images/proteinpaint/ETS1.svg) | [view](images/proteinpaint/ETS1_NM_001143820.svg) |
-| EZH2 | [gene page](EZH2) | 3.46 | [view](images/proteinpaint/EZH2.svg) | [view](images/proteinpaint/EZH2_NM_001203247.svg) |
-| FAS | [gene page](FAS) | 2.08 | [view](images/proteinpaint/FAS.svg) | [view](images/proteinpaint/FAS_NM_000043.svg) |
-| FIP1L1 | [gene page](FIP1L1) | 5.31 | [view](images/proteinpaint/FIP1L1.svg) | [view](images/proteinpaint/FIP1L1_NM_030917.svg) |
-| FZD3 | [gene page](FZD3) | 0.23 | [view](images/proteinpaint/FZD3.svg) | [view](images/proteinpaint/FZD3_NM_017412.svg) |
-| GRB2 | [gene page](GRB2) | 0.46 | [view](images/proteinpaint/GRB2.svg) | [view](images/proteinpaint/GRB2_NM_002086.svg) |
-| HIST1H1B | [gene page](HIST1H1B) | 4.62 | [view](images/proteinpaint/HIST1H1B.svg) | [view](images/proteinpaint/HIST1H1B_NM_005322.svg) |
-| HIST1H1C | [gene page](HIST1H1C) | 4.85 | [view](images/proteinpaint/HIST1H1C.svg) | [view](images/proteinpaint/HIST1H1C_NM_005319.svg) |
-| HIST1H1D | [gene page](HIST1H1D) | 3.23 | [view](images/proteinpaint/HIST1H1D.svg) | [view](images/proteinpaint/HIST1H1D_NM_005320.svg) |
-| HIST1H1E | [gene page](HIST1H1E) | 9.70 | [view](images/proteinpaint/HIST1H1E.svg) | [view](images/proteinpaint/HIST1H1E_NM_005321.svg) |
-| HIST1H2AG | [gene page](HIST1H2AG) | 1.39 | [view](images/proteinpaint/HIST1H2AG.svg) | [view](images/proteinpaint/HIST1H2AG_NM_021064.svg) |
-| HIST1H2AM | [gene page](HIST1H2AM) | 1.85 | [view](images/proteinpaint/HIST1H2AM.svg) | [view](images/proteinpaint/HIST1H2AM_NM_003514.svg) |
-| HIST1H2BK | [gene page](HIST1H2BK) | 5.31 | [view](images/proteinpaint/HIST1H2BK.svg) | [view](images/proteinpaint/HIST1H2BK_NM_080593.svg) |
-| HIST1H3D | [gene page](HIST1H3D) | 2.31 | [view](images/proteinpaint/HIST1H3D.svg) | [view](images/proteinpaint/HIST1H3D_NM_003530.svg) |
-| HIST1H3H | [gene page](HIST1H3H) | 2.08 | [view](images/proteinpaint/HIST1H3H.svg) | [view](images/proteinpaint/HIST1H3H_NM_003536.svg) |
-| HIST1H3I | [gene page](HIST1H3I) | 0.46 | [view](images/proteinpaint/HIST1H3I.svg) | [view](images/proteinpaint/HIST1H3I_NM_003533.svg) |
-| HIST1H3J | [gene page](HIST1H3J) | 2.31 | [view](images/proteinpaint/HIST1H3J.svg) | [view](images/proteinpaint/HIST1H3J_NM_003535.svg) |
-| HIST1H4J | [gene page](HIST1H4J) | 0.46 | [view](images/proteinpaint/HIST1H4J.svg) | [view](images/proteinpaint/HIST1H4J_NM_021968.svg) |
-| HLA-A | [gene page](HLA-A) | 1.39 | [view](images/proteinpaint/HLA-A.svg) | [view](images/proteinpaint/HLA-A_NM_002116.svg) |
-| HLA-B | [gene page](HLA-B) | 3.46 | [view](images/proteinpaint/HLA-B.svg) | [view](images/proteinpaint/HLA-B_NM_005514.svg) |
-| HLA-DMB | [gene page](HLA-DMB) | NA | [view](images/proteinpaint/HLA-DMB.svg) | [view](images/proteinpaint/HLA-DMB_NM_002118.svg) |
-| HVCN1 | [gene page](HVCN1) | 0.92 | [view](images/proteinpaint/HVCN1.svg) | [view](images/proteinpaint/HVCN1_NM_001040107.svg) |
-| IGLL5 | [gene page](IGLL5) | 26.33 | [view](images/proteinpaint/IGLL5.svg) | [view](images/proteinpaint/IGLL5_NM_001178126.svg) |
-| IKZF3 | [gene page](IKZF3) | 1.62 | [view](images/proteinpaint/IKZF3.svg) | [view](images/proteinpaint/IKZF3_NM_012481.svg) |
-| IRF8 | [gene page](IRF8) | 2.31 | [view](images/proteinpaint/IRF8.svg) | [view](images/proteinpaint/IRF8_NM_002163.svg) |
-| KCNK10 | [gene page](KCNK10) | 0.92 | [view](images/proteinpaint/KCNK10.svg) | [view](images/proteinpaint/KCNK10_NM_021161.svg) |
-| KLHL6 | [gene page](KLHL6) | 3.93 | [view](images/proteinpaint/KLHL6.svg) | [view](images/proteinpaint/KLHL6_NM_130446.svg) |
-| LTB | [gene page](LTB) | 3.00 | [view](images/proteinpaint/LTB.svg) | [view](images/proteinpaint/LTB_NM_002341.svg) |
-| MCL1 | [gene page](MCL1) | 1.85 | [view](images/proteinpaint/MCL1.svg) | [view](images/proteinpaint/MCL1_NM_021960.svg) |
-| MEF2B | [gene page](MEF2B) | 1.39 | [view](images/proteinpaint/MEF2B.svg) | [view](images/proteinpaint/MEF2B_NM_001145785.svg) |
-| MME | [gene page](MME) | 1.85 | [view](images/proteinpaint/MME.svg) | [view](images/proteinpaint/MME_NM_000902.svg) |
-| MTOR | [gene page](MTOR) | 4.62 | [view](images/proteinpaint/MTOR.svg) | [view](images/proteinpaint/MTOR_NM_004958.svg) |
-| MYD88 | [gene page](MYD88) | 0.46 | [view](images/proteinpaint/MYD88.svg) | [view](images/proteinpaint/MYD88_NM_002468.svg) |
-| MYO1E | [gene page](MYO1E) | 2.08 | [view](images/proteinpaint/MYO1E.svg) | [view](images/proteinpaint/MYO1E_NM_004998.svg) |
-| NFKBIA | [gene page](NFKBIA) | 1.39 | [view](images/proteinpaint/NFKBIA.svg) | [view](images/proteinpaint/NFKBIA_NM_020529.svg) |
-| NOTCH2 | [gene page](NOTCH2) | 1.15 | [view](images/proteinpaint/NOTCH2.svg) | [view](images/proteinpaint/NOTCH2_NM_024408.svg) |
-| OSBPL10 | [gene page](OSBPL10) | 2.08 | [view](images/proteinpaint/OSBPL10.svg) | [view](images/proteinpaint/OSBPL10_NM_017784.svg) |
-| PABPC4L | [gene page](PABPC4L) | 1.62 | [view](images/proteinpaint/PABPC4L.svg) | [view](images/proteinpaint/PABPC4L_NM_001114734.svg) |
-| PCDHA11 | [gene page](PCDHA11) | 1.39 | [view](images/proteinpaint/PCDHA11.svg) | [view](images/proteinpaint/PCDHA11_NM_018902.svg) |
-| PDZRN3 | [gene page](PDZRN3) | 3.46 | [view](images/proteinpaint/PDZRN3.svg) | [view](images/proteinpaint/PDZRN3_NM_015009.svg) |
-| PIK3R1 | [gene page](PIK3R1) | 3.00 | [view](images/proteinpaint/PIK3R1.svg) | [view](images/proteinpaint/PIK3R1_NM_181523.svg) |
-| PLCG2 | [gene page](PLCG2) | 3.00 | [view](images/proteinpaint/PLCG2.svg) | [view](images/proteinpaint/PLCG2_NM_002661.svg) |
-| PMAIP1 | [gene page](PMAIP1) | 3.23 | [view](images/proteinpaint/PMAIP1.svg) | [view](images/proteinpaint/PMAIP1_NM_021127.svg) |
-| PRDM1 | [gene page](PRDM1) | 2.31 | [view](images/proteinpaint/PRDM1.svg) | [view](images/proteinpaint/PRDM1_NM_001198.svg) |
-| PRKCD | [gene page](PRKCD) | 2.31 | [view](images/proteinpaint/PRKCD.svg) | [view](images/proteinpaint/PRKCD_NM_006254.svg) |
-| PXDNL | [gene page](PXDNL) | 4.62 | [view](images/proteinpaint/PXDNL.svg) | [view](images/proteinpaint/PXDNL_NM_144651.svg) |
-| RAC2 | [gene page](RAC2) | 0.69 | [view](images/proteinpaint/RAC2.svg) | [view](images/proteinpaint/RAC2_NM_002872.svg) |
-| RNF144B | [gene page](RNF144B) | 0.23 | [view](images/proteinpaint/RNF144B.svg) | [view](images/proteinpaint/RNF144B_NM_182757.svg) |
-| RPL22 | [gene page](RPL22) | 2.31 | [view](images/proteinpaint/RPL22.svg) | [view](images/proteinpaint/RPL22_NM_000983.svg) |
-| S1PR2 | [gene page](S1PR2) | 1.15 | [view](images/proteinpaint/S1PR2.svg) | [view](images/proteinpaint/S1PR2_NM_004230.svg) |
-| SEPT10 | [gene page](SEPT10) | 0.92 | [view](images/proteinpaint/SEPT10.svg) | [view](images/proteinpaint/SEPT10_NM_144710.svg) |
-| SGK1 | [gene page](SGK1) | 2.08 | [view](images/proteinpaint/SGK1.svg) | [view](images/proteinpaint/SGK1_NM_005627.svg) |
-| SNTB2 | [gene page](SNTB2) | 0.69 | [view](images/proteinpaint/SNTB2.svg) | [view](images/proteinpaint/SNTB2_NM_006750.svg) |
-| SOCS1 | [gene page](SOCS1) | 1.85 | [view](images/proteinpaint/SOCS1.svg) | [view](images/proteinpaint/SOCS1_NM_003745.svg) |
-| SP3 | [gene page](SP3) | 3.00 | [view](images/proteinpaint/SP3.svg) | [view](images/proteinpaint/SP3_NM_003111.svg) |
-| STAT3 | [gene page](STAT3) | 0.92 | [view](images/proteinpaint/STAT3.svg) | [view](images/proteinpaint/STAT3_NM_139276.svg) |
-| STAT6 | [gene page](STAT6) | 1.62 | [view](images/proteinpaint/STAT6.svg) | [view](images/proteinpaint/STAT6_NM_003153.svg) |
-| SYNCRIP | [gene page](SYNCRIP) | 3.00 | [view](images/proteinpaint/SYNCRIP.svg) | [view](images/proteinpaint/SYNCRIP_NM_006372.svg) |
-| TBL1XR1 | [gene page](TBL1XR1) | 6.00 | [view](images/proteinpaint/TBL1XR1.svg) | [view](images/proteinpaint/TBL1XR1_NM_024665.svg) |
-| TET2 | [gene page](TET2) | 5.31 | [view](images/proteinpaint/TET2.svg) | [view](images/proteinpaint/TET2_NM_001127208.svg) |
-| TMEM30A | [gene page](TMEM30A) | 1.85 | [view](images/proteinpaint/TMEM30A.svg) | [view](images/proteinpaint/TMEM30A_NM_018247.svg) |
-| TMSB4X | [gene page](TMSB4X) | 0.69 | [view](images/proteinpaint/TMSB4X.svg) | [view](images/proteinpaint/TMSB4X_NM_021109.svg) |
-| TNFAIP3 | [gene page](TNFAIP3) | 1.39 | [view](images/proteinpaint/TNFAIP3.svg) | [view](images/proteinpaint/TNFAIP3_NM_006290.svg) |
-| TNFRSF14 | [gene page](TNFRSF14) | 1.39 | [view](images/proteinpaint/TNFRSF14.svg) | [view](images/proteinpaint/TNFRSF14_NM_003820.svg) |
-| TOX | [gene page](TOX) | 2.08 | [view](images/proteinpaint/TOX.svg) | [view](images/proteinpaint/TOX_NM_014729.svg) |
-| UBE2A | [gene page](UBE2A) | 0.92 | [view](images/proteinpaint/UBE2A.svg) | [view](images/proteinpaint/UBE2A_NM_003336.svg) |
-| WDR7 | [gene page](WDR7) | 2.08 | [view](images/proteinpaint/WDR7.svg) | [view](images/proteinpaint/WDR7_NM_015285.svg) |
-| WNK2 | [gene page](WNK2) | 3.23 | [view](images/proteinpaint/WNK2.svg) | [view](images/proteinpaint/WNK2_NM_006648.svg) |
-| ZFP36L1 | [gene page](ZFP36L1) | 2.08 | [view](images/proteinpaint/ZFP36L1.svg) | [view](images/proteinpaint/ZFP36L1_NM_004926.svg) |
-| ARHGEF1 | [gene page](ARHGEF1) | 3.93 | [view](images/proteinpaint/ARHGEF1.svg) | [view](images/proteinpaint/ARHGEF1_NM_199002.svg) |
-| ACE | [gene page](ACE) | 4.39 | [view](images/proteinpaint/ACE.svg) | [view](images/proteinpaint/ACE_NM_000789.svg) |
-| ACAD9 | [gene page](ACAD9) | 1.85 | [view](images/proteinpaint/ACAD9.svg) | [view](images/proteinpaint/ACAD9_NM_014049.svg) |
-| ATP2C2 | [gene page](ATP2C2) | 3.70 | [view](images/proteinpaint/ATP2C2.svg) | [view](images/proteinpaint/ATP2C2_NM_014861.svg) |
-| BRAF | [gene page](BRAF) | 2.77 | [view](images/proteinpaint/BRAF.svg) | [view](images/proteinpaint/BRAF_NM_004333.svg) |
-| BRD4 | [gene page](BRD4) | 2.08 | [view](images/proteinpaint/BRD4.svg) | [view](images/proteinpaint/BRD4_NM_058243.svg) |
-| CARD4 | [gene page](CARD4) | NA | [view](images/proteinpaint/CARD4.svg) | [LOAD](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CARD4_protein.html) |
-| CAD | [gene page](CAD) | 3.93 | [view](images/proteinpaint/CAD.svg) | [view](images/proteinpaint/CAD_NM_004341.svg) |
-| C6orf27 | [gene page](C6orf27) | NA | [view](images/proteinpaint/C6orf27.svg) | [LOAD](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/C6orf27_protein.html) |
-| CCT6B | [gene page](CCT6B) | 1.15 | [view](images/proteinpaint/CCT6B.svg) | [view](images/proteinpaint/CCT6B_NM_006584.svg) |
-| CDC73 | [gene page](CDC73) | 2.54 | [view](images/proteinpaint/CDC73.svg) | [view](images/proteinpaint/CDC73_NM_024529.svg) |
-| CDH17 | [gene page](CDH17) | 1.39 | [view](images/proteinpaint/CDH17.svg) | [view](images/proteinpaint/CDH17_NM_004063.svg) |
-| COL4A2 | [gene page](COL4A2) | 4.16 | [view](images/proteinpaint/COL4A2.svg) | [view](images/proteinpaint/COL4A2_NM_001846.svg) |
-| CYB5D1 | [gene page](CYB5D1) | 0.23 | [view](images/proteinpaint/CYB5D1.svg) | [view](images/proteinpaint/CYB5D1_NM_144607.svg) |
-| CYP4F22 | [gene page](CYP4F22) | 1.39 | [view](images/proteinpaint/CYP4F22.svg) | [view](images/proteinpaint/CYP4F22_NM_173483.svg) |
-| DLGAP1 | [gene page](DLGAP1) | 1.85 | [view](images/proteinpaint/DLGAP1.svg) | [view](images/proteinpaint/DLGAP1_NM_004746.svg) |
-| EML2 | [gene page](EML2) | 1.62 | [view](images/proteinpaint/EML2.svg) | [view](images/proteinpaint/EML2_NM_012155.svg) |
-| EPHB2 | [gene page](EPHB2) | 1.85 | [view](images/proteinpaint/EPHB2.svg) | [view](images/proteinpaint/EPHB2_NM_017449.svg) |
-| EIF2C4 | [gene page](EIF2C4) | NA | [view](images/proteinpaint/EIF2C4.svg) | [LOAD](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/EIF2C4_protein.html) |
-| ENTPD3 | [gene page](ENTPD3) | 1.39 | [view](images/proteinpaint/ENTPD3.svg) | [view](images/proteinpaint/ENTPD3_NM_001248.svg) |
-| FAM129B | [gene page](FAM129B) | 1.39 | [view](images/proteinpaint/FAM129B.svg) | [LOAD](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/FAM129B_protein.html) |
-| FTCD | [gene page](FTCD) | 3.23 | [view](images/proteinpaint/FTCD.svg) | [view](images/proteinpaint/FTCD_NM_206965.svg) |
-| FGFR3 | [gene page](FGFR3) | 1.62 | [view](images/proteinpaint/FGFR3.svg) | [view](images/proteinpaint/FGFR3_NM_000142.svg) |
-| GGTLA4 | [gene page](GGTLA4) | NA | [view](images/proteinpaint/GGTLA4.svg) | [LOAD](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/GGTLA4_protein.html) |
-| GRIK5 | [gene page](GRIK5) | 0.92 | [view](images/proteinpaint/GRIK5.svg) | [view](images/proteinpaint/GRIK5_NM_002088.svg) |
-| ICK | [gene page](ICK) | 0.69 | [view](images/proteinpaint/ICK.svg) | [LOAD](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ICK_protein.html) |
-| ITPR3 | [gene page](ITPR3) | 4.39 | [view](images/proteinpaint/ITPR3.svg) | [view](images/proteinpaint/ITPR3_NM_002224.svg) |
-| KIFC3 | [gene page](KIFC3) | 1.62 | [view](images/proteinpaint/KIFC3.svg) | [view](images/proteinpaint/KIFC3_NM_005550.svg) |
-| MAP3K6 | [gene page](MAP3K6) | 2.54 | [view](images/proteinpaint/MAP3K6.svg) | [view](images/proteinpaint/MAP3K6_NM_004672.svg) |
-| MYH10 | [gene page](MYH10) | 2.08 | [view](images/proteinpaint/MYH10.svg) | [view](images/proteinpaint/MYH10_NM_005964.svg) |
-| NBEAL1 | [gene page](NBEAL1) | 3.46 | [view](images/proteinpaint/NBEAL1.svg) | [view](images/proteinpaint/NBEAL1_NM_001114132.svg) |
-| NOTCH1 | [gene page](NOTCH1) | 4.16 | [view](images/proteinpaint/NOTCH1.svg) | [view](images/proteinpaint/NOTCH1_NM_017617.svg) |
-| NRXN2 | [gene page](NRXN2) | 2.77 | [view](images/proteinpaint/NRXN2.svg) | [view](images/proteinpaint/NRXN2_NM_015080.svg) |
-| PC | [gene page](PC) | 2.54 | [view](images/proteinpaint/PC.svg) | [view](images/proteinpaint/PC_NM_000920.svg) |
-| P2RY2 | [gene page](P2RY2) | 1.15 | [view](images/proteinpaint/P2RY2.svg) | [view](images/proteinpaint/P2RY2_NM_176072.svg) |
-| POLRMT | [gene page](POLRMT) | 1.62 | [view](images/proteinpaint/POLRMT.svg) | [view](images/proteinpaint/POLRMT_NM_005035.svg) |
-| POR | [gene page](POR) | 2.54 | [view](images/proteinpaint/POR.svg) | [view](images/proteinpaint/POR_NM_001382657.svg) |
-| PRSS22 | [gene page](PRSS22) | 1.39 | [view](images/proteinpaint/PRSS22.svg) | [view](images/proteinpaint/PRSS22_NM_022119.svg) |
-| PTPRN | [gene page](PTPRN) | 0.69 | [view](images/proteinpaint/PTPRN.svg) | [view](images/proteinpaint/PTPRN_NM_002846.svg) |
-| RANBP6 | [gene page](RANBP6) | 1.85 | [view](images/proteinpaint/RANBP6.svg) | [view](images/proteinpaint/RANBP6_NM_012416.svg) |
-| RBP3 | [gene page](RBP3) | 0.69 | [view](images/proteinpaint/RBP3.svg) | [view](images/proteinpaint/RBP3_NM_002900.svg) |
-| RET | [gene page](RET) | 2.31 | [view](images/proteinpaint/RET.svg) | [view](images/proteinpaint/RET_NM_020630.svg) |
-| SALL3 | [gene page](SALL3) | 4.16 | [view](images/proteinpaint/SALL3.svg) | [view](images/proteinpaint/SALL3_NM_171999.svg) |
-| SAPS2 | [gene page](SAPS2) | NA | [view](images/proteinpaint/SAPS2.svg) | [LOAD](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/SAPS2_protein.html) |
-| SBF1 | [gene page](SBF1) | 4.85 | [view](images/proteinpaint/SBF1.svg) | [view](images/proteinpaint/SBF1_NM_002972.svg) |
-| SLC29A2 | [gene page](SLC29A2) | 0.46 | [view](images/proteinpaint/SLC29A2.svg) | [view](images/proteinpaint/SLC29A2_NM_001532.svg) |
-| SF3B1 | [gene page](SF3B1) | 3.00 | [view](images/proteinpaint/SF3B1.svg) | [view](images/proteinpaint/SF3B1_NM_012433.svg) |
-| SHANK1 | [gene page](SHANK1) | 2.77 | [view](images/proteinpaint/SHANK1.svg) | [view](images/proteinpaint/SHANK1_NM_016148.svg) |
-| SYNGAP1 | [gene page](SYNGAP1) | 1.39 | [view](images/proteinpaint/SYNGAP1.svg) | [view](images/proteinpaint/SYNGAP1_NM_006772.svg) |
-| TBC1D9B | [gene page](TBC1D9B) | 1.85 | [view](images/proteinpaint/TBC1D9B.svg) | [view](images/proteinpaint/TBC1D9B_NM_198868.svg) |
-| TIGD6 | [gene page](TIGD6) | 1.15 | [view](images/proteinpaint/TIGD6.svg) | [view](images/proteinpaint/TIGD6_NM_030953.svg) |
-| TPST2 | [gene page](TPST2) | 0.92 | [view](images/proteinpaint/TPST2.svg) | [view](images/proteinpaint/TPST2_NM_001008566.svg) |
-| ZNF229 | [gene page](ZNF229) | 0.69 | [view](images/proteinpaint/ZNF229.svg) | [view](images/proteinpaint/ZNF229_NM_014518.svg) |
-| ADAMTS5 | [gene page](ADAMTS5) | 2.77 | [view](images/proteinpaint/ADAMTS5.svg) | [view](images/proteinpaint/ADAMTS5_NM_007038.svg) |
-| ADNP | [gene page](ADNP) | 1.15 | [view](images/proteinpaint/ADNP.svg) | [view](images/proteinpaint/ADNP_NM_015339.svg) |
-| AGO4 | [gene page](AGO4) | 1.15 | [view](images/proteinpaint/AGO4.svg) | [view](images/proteinpaint/AGO4_NM_017629.svg) |
-| BTG1 | [gene page](BTG1) | 0.46 | [view](images/proteinpaint/BTG1.svg) | [view](images/proteinpaint/BTG1_NM_001731.svg) |
-| CD79A | [gene page](CD79A) | 0.23 | [view](images/proteinpaint/CD79A.svg) | [view](images/proteinpaint/CD79A_NM_001783.svg) |
-| CHD4 | [gene page](CHD4) | 3.93 | [view](images/proteinpaint/CHD4.svg) | [view](images/proteinpaint/CHD4_NM_001273.svg) |
-| CPXM2 | [gene page](CPXM2) | 1.85 | [view](images/proteinpaint/CPXM2.svg) | [view](images/proteinpaint/CPXM2_NM_198148.svg) |
-| E2F2 | [gene page](E2F2) | 1.62 | [view](images/proteinpaint/E2F2.svg) | [view](images/proteinpaint/E2F2_NM_004091.svg) |
-| EDNRB | [gene page](EDNRB) | 1.62 | [view](images/proteinpaint/EDNRB.svg) | [view](images/proteinpaint/EDNRB_NM_000115.svg) |
-| ERAP1 | [gene page](ERAP1) | 2.08 | [view](images/proteinpaint/ERAP1.svg) | [view](images/proteinpaint/ERAP1_NM_016442.svg) |
-| EXOSC6 | [gene page](EXOSC6) | 0.46 | [view](images/proteinpaint/EXOSC6.svg) | [view](images/proteinpaint/EXOSC6_NM_058219.svg) |
-| FLYWCH1 | [gene page](FLYWCH1) | 1.39 | [view](images/proteinpaint/FLYWCH1.svg) | [view](images/proteinpaint/FLYWCH1_NM_032296.svg) |
-| GTSE1 | [gene page](GTSE1) | 2.08 | [view](images/proteinpaint/GTSE1.svg) | [view](images/proteinpaint/GTSE1_NM_016426.svg) |
-| HLA-DQB1 | [gene page](HLA-DQB1) | NA | [view](images/proteinpaint/HLA-DQB1.svg) | [view](images/proteinpaint/HLA-DQB1_NM_002123.svg) |
-| KLHL26 | [gene page](KLHL26) | 0.46 | [view](images/proteinpaint/KLHL26.svg) | [view](images/proteinpaint/KLHL26_NM_018316.svg) |
-| MKI67 | [gene page](MKI67) | 6.00 | [view](images/proteinpaint/MKI67.svg) | [view](images/proteinpaint/MKI67_NM_002417.svg) |
-| MYO18A | [gene page](MYO18A) | 4.62 | [view](images/proteinpaint/MYO18A.svg) | [view](images/proteinpaint/MYO18A_NM_078471.svg) |
-| NCOR2 | [gene page](NCOR2) | 6.24 | [view](images/proteinpaint/NCOR2.svg) | [view](images/proteinpaint/NCOR2_NM_006312.svg) |
-| NOA1 | [gene page](NOA1) | 2.31 | [view](images/proteinpaint/NOA1.svg) | [view](images/proteinpaint/NOA1_NM_032313.svg) |
-| PDCD11 | [gene page](PDCD11) | 3.46 | [view](images/proteinpaint/PDCD11.svg) | [view](images/proteinpaint/PDCD11_NM_014976.svg) |
-| PIM1 | [gene page](PIM1) | 2.31 | [view](images/proteinpaint/PIM1.svg) | [view](images/proteinpaint/PIM1_NM_002648.svg) |
-| PPP6R2 | [gene page](PPP6R2) | 2.08 | [view](images/proteinpaint/PPP6R2.svg) | [view](images/proteinpaint/PPP6R2_NM_014678.svg) |
-| PREX1 | [gene page](PREX1) | 2.08 | [view](images/proteinpaint/PREX1.svg) | [view](images/proteinpaint/PREX1_NM_020820.svg) |
-| REV3L | [gene page](REV3L) | 4.85 | [view](images/proteinpaint/REV3L.svg) | [view](images/proteinpaint/REV3L_NM_002912.svg) |
-| RPL10 | [gene page](RPL10) | 13.63 | [view](images/proteinpaint/RPL10.svg) | [view](images/proteinpaint/RPL10_NM_006013.svg) |
-| SAL3 | [gene page](SAL3) | NA | [view](images/proteinpaint/SAL3.svg) | [LOAD](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/SAL3_protein.html) |
-| TOP2A | [gene page](TOP2A) | 1.62 | [view](images/proteinpaint/TOP2A.svg) | [view](images/proteinpaint/TOP2A_NM_001067.svg) |
-| TTN | [gene page](TTN) | 28.64 | [view](images/proteinpaint/TTN.svg) | [view](images/proteinpaint/TTN_NM_133378.svg) |
-| VWA7 | [gene page](VWA7) | 1.85 | [view](images/proteinpaint/VWA7.svg) | [view](images/proteinpaint/VWA7_NM_025258.svg) |
-| WDR90 | [gene page](WDR90) | 1.62 | [view](images/proteinpaint/WDR90.svg) | [view](images/proteinpaint/WDR90_NM_145294.svg) |
-| WHAMM | [gene page](WHAMM) | 1.15 | [view](images/proteinpaint/WHAMM.svg) | [view](images/proteinpaint/WHAMM_NM_001080435.svg) |
-| YY1AP1 | [gene page](YY1AP1) | 1.85 | [view](images/proteinpaint/YY1AP1.svg) | [view](images/proteinpaint/YY1AP1_NM_139118.svg) |
-| ZAN | [gene page](ZAN) | 5.77 | [view](images/proteinpaint/ZAN.svg) | [view](images/proteinpaint/ZAN_NM_003386.svg) |
-| ZBTB7A | [gene page](ZBTB7A) | 3.00 | [view](images/proteinpaint/ZBTB7A.svg) | [view](images/proteinpaint/ZBTB7A_NM_015898.svg) |
-| ZNF85 | [gene page](ZNF85) | 0.69 | [view](images/proteinpaint/ZNF85.svg) | [view](images/proteinpaint/ZNF85_NM_003429.svg) |
-| KMT2C | [gene page](KMT2C) | 6.47 | [view](images/proteinpaint/KMT2C.svg) | [view](images/proteinpaint/KMT2C_NM_170606.svg) |
+|Gene|Frequency(GAMBL)||gene|protein|
+| :---: | :----: | :---: | :---: | :---: |
+|2|[ALPK2](ALPK2)|3.93|[view](images/proteinpaint/ALPK2.svg)|[view](images/proteinpaint/ALPK2_NM_052947.svg)|
+|2|[B2M](B2M)|2.31|[view](images/proteinpaint/B2M.svg)|[view](images/proteinpaint/B2M_NM_004048.svg)|
+|2-a|[BACH2](BACH2)|1.85|[view](images/proteinpaint/BACH2.svg)|[view](images/proteinpaint/BACH2_NM_021813.svg)|
+|2|[BCL10](BCL10)|0.23|[view](images/proteinpaint/BCL10.svg)|[view](images/proteinpaint/BCL10_NM_003921.svg)|
+|2-a|[BCL11A](BCL11A)|2.54|[view](images/proteinpaint/BCL11A.svg)|[view](images/proteinpaint/BCL11A_NM_022893.svg)|
+|2-a|[BCL2](BCL2)|0.46|[view](images/proteinpaint/BCL2.svg)|[view](images/proteinpaint/BCL2_NM_000633.svg)|
+|2-a|[BCL2L11](BCL2L11)|1.62|[view](images/proteinpaint/BCL2L11.svg)|[view](images/proteinpaint/BCL2L11_NM_138621.svg)|
+|2-a|[BCL6](BCL6)|5.08|[view](images/proteinpaint/BCL6.svg)|[view](images/proteinpaint/BCL6_NM_001706.svg)|
+|2-a|[BCL7A](BCL7A)|5.31|[view](images/proteinpaint/BCL7A.svg)|[view](images/proteinpaint/BCL7A_NM_020993.svg)|
+|2-a|[BCR](BCR)|6.00|[view](images/proteinpaint/BCR.svg)|[view](images/proteinpaint/BCR_NM_004327.svg)|
+|2|[BIRC6](BIRC6)|6.00|[view](images/proteinpaint/BIRC6.svg)|[view](images/proteinpaint/BIRC6_NM_016252.svg)|
+|2-a|[BTG2](BTG2)|4.85|[view](images/proteinpaint/BTG2.svg)|[view](images/proteinpaint/BTG2_NM_006763.svg)|
+|2|[LCOR](LCOR)(C10orf12)|3.46|[view](images/proteinpaint/LCOR.svg)|[view](images/proteinpaint/LCOR_NM_001346516.svg)|
+|2|[CARD11](CARD11)|4.16|[view](images/proteinpaint/CARD11.svg)|[view](images/proteinpaint/CARD11_NM_032415.svg)|
+|2|[CCNF](CCNF)|1.62|[view](images/proteinpaint/CCNF.svg)|[view](images/proteinpaint/CCNF_NM_001761.svg)|
+|2|[CD58](CD58)|0.92|[view](images/proteinpaint/CD58.svg)|[view](images/proteinpaint/CD58_NM_001779.svg)|
+|2|[CD70](CD70)|0.92|[view](images/proteinpaint/CD70.svg)|[view](images/proteinpaint/CD70_NM_001252.svg)|
+|2|[CD79B](CD79B)|1.39|[view](images/proteinpaint/CD79B.svg)|[view](images/proteinpaint/CD79B_NM_000626.svg)|
+|2-a|[CD83](CD83)|1.15|[view](images/proteinpaint/CD83.svg)|[view](images/proteinpaint/CD83_NM_004233.svg)|
+|2|[CDKN2A](CDKN2A)|1.85|[view](images/proteinpaint/CDKN2A.svg)|[view](images/proteinpaint/CDKN2A_NM_000077.svg)|
+|2|[CDKN2C](CDKN2C)|2.54|[view](images/proteinpaint/CDKN2C.svg)|[view](images/proteinpaint/CDKN2C_NM_001262.svg)|
+|2|[CREBBP](CREBBP)|6.00|[view](images/proteinpaint/CREBBP.svg)|[view](images/proteinpaint/CREBBP_NM_004380.svg)|
+|2|[CTCF](CTCF)|3.00|[view](images/proteinpaint/CTCF.svg)|[view](images/proteinpaint/CTCF_NM_006565.svg)|
+|2-a|[CXCR4](CXCR4)|2.08|[view](images/proteinpaint/CXCR4.svg)|[view](images/proteinpaint/CXCR4_NM_001008540.svg)|
+|2|[DNMT1](DNMT1)|2.08|[view](images/proteinpaint/DNMT1.svg)|[view](images/proteinpaint/DNMT1_NM_001130823.svg)|
+|2-a|[DTX1](DTX1)|5.54|[view](images/proteinpaint/DTX1.svg)|[view](images/proteinpaint/DTX1_NM_004416.svg)|
+|2-a|[EBF1](EBF1)|2.08|[view](images/proteinpaint/EBF1.svg)|[view](images/proteinpaint/EBF1_NM_024007.svg)|
+|2|[EHD1](EHD1)|1.39|[view](images/proteinpaint/EHD1.svg)|[view](images/proteinpaint/EHD1_NM_006795.svg)|
+|2|[EP300](EP300)|4.62|[view](images/proteinpaint/EP300.svg)|[view](images/proteinpaint/EP300_NM_001429.svg)|
+|2-a|[ETS1](ETS1)|7.62|[view](images/proteinpaint/ETS1.svg)|[view](images/proteinpaint/ETS1_NM_001143820.svg)|
+|2|[EZH2](EZH2)|3.46|[view](images/proteinpaint/EZH2.svg)|[view](images/proteinpaint/EZH2_NM_001203247.svg)|
+|2|[FAS](FAS)|2.08|[view](images/proteinpaint/FAS.svg)|[view](images/proteinpaint/FAS_NM_000043.svg)|
+|2|[FIP1L1](FIP1L1)|5.31|[view](images/proteinpaint/FIP1L1.svg)|[view](images/proteinpaint/FIP1L1_NM_030917.svg)|
+|2|[FZD3](FZD3)|0.23|[view](images/proteinpaint/FZD3.svg)|[view](images/proteinpaint/FZD3_NM_017412.svg)|
+|2|[GRB2](GRB2)|0.46|[view](images/proteinpaint/GRB2.svg)|[view](images/proteinpaint/GRB2_NM_002086.svg)|
+|2|[HIST1H1B](HIST1H1B)(H1-5)|4.62|[view](images/proteinpaint/HIST1H1B.svg)|[view](images/proteinpaint/HIST1H1B_NM_005322.svg)|
+|2|[HIST1H1C](HIST1H1C)(H1-2)|4.85|[view](images/proteinpaint/HIST1H1C.svg)|[view](images/proteinpaint/HIST1H1C_NM_005319.svg)|
+|2|[HIST1H1D](HIST1H1D)(H1-3)|3.23|[view](images/proteinpaint/HIST1H1D.svg)|[view](images/proteinpaint/HIST1H1D_NM_005320.svg)|
+|2|[HIST1H1E](HIST1H1E)(H1-4)|9.70|[view](images/proteinpaint/HIST1H1E.svg)|[view](images/proteinpaint/HIST1H1E_NM_005321.svg)|
+|2|[HIST1H2AG](HIST1H2AG)(H2AC11)|1.39|[view](images/proteinpaint/HIST1H2AG.svg)|[view](images/proteinpaint/HIST1H2AG_NM_021064.svg)|
+|2|[HIST1H2AM](HIST1H2AM)(H2AC17)|1.85|[view](images/proteinpaint/HIST1H2AM.svg)|[view](images/proteinpaint/HIST1H2AM_NM_003514.svg)|
+|2|[HIST1H2BK](HIST1H2BK)(H2BC12)|5.31|[view](images/proteinpaint/HIST1H2BK.svg)|[view](images/proteinpaint/HIST1H2BK_NM_080593.svg)|
+|2|[HIST1H3D](HIST1H3D)(H3C4)|2.31|[view](images/proteinpaint/HIST1H3D.svg)|[view](images/proteinpaint/HIST1H3D_NM_003530.svg)|
+|2|[HIST1H3H](HIST1H3H)(H3C10)|2.08|[view](images/proteinpaint/HIST1H3H.svg)|[view](images/proteinpaint/HIST1H3H_NM_003536.svg)|
+|2|[HIST1H3I](HIST1H3I)(H3C11)|0.46|[view](images/proteinpaint/HIST1H3I.svg)|[view](images/proteinpaint/HIST1H3I_NM_003533.svg)|
+|2|[HIST1H3J](HIST1H3J)(H3C12)|2.31|[view](images/proteinpaint/HIST1H3J.svg)|[view](images/proteinpaint/HIST1H3J_NM_003535.svg)|
+|2|[HIST1H4J](HIST1H4J)(H4C11)|0.46|[view](images/proteinpaint/HIST1H4J.svg)|[view](images/proteinpaint/HIST1H4J_NM_021968.svg)|
+|2|[HLA-A](HLA-A)|1.39|[view](images/proteinpaint/HLA-A.svg)|[view](images/proteinpaint/HLA-A_NM_002116.svg)|
+|2|[HLA-B](HLA-B)|3.46|[view](images/proteinpaint/HLA-B.svg)|[view](images/proteinpaint/HLA-B_NM_005514.svg)|
+|2|[HLA-DMB](HLA-DMB)|NA|[view](images/proteinpaint/HLA-DMB.svg)|[view](images/proteinpaint/HLA-DMB_NM_002118.svg)|
+|2|[HVCN1](HVCN1)|0.92|[view](images/proteinpaint/HVCN1.svg)|[view](images/proteinpaint/HVCN1_NM_001040107.svg)|
+|2-a|[IGLL5](IGLL5)|26.33|[view](images/proteinpaint/IGLL5.svg)|[view](images/proteinpaint/IGLL5_NM_001178126.svg)|
+|2-a|[IKZF3](IKZF3)|1.62|[view](images/proteinpaint/IKZF3.svg)|[view](images/proteinpaint/IKZF3_NM_012481.svg)|
+|2-a|[IRF8](IRF8)|2.31|[view](images/proteinpaint/IRF8.svg)|[view](images/proteinpaint/IRF8_NM_002163.svg)|
+|2|[KCNK10](KCNK10)|0.92|[view](images/proteinpaint/KCNK10.svg)|[view](images/proteinpaint/KCNK10_NM_021161.svg)|
+|2-a|[KLHL6](KLHL6)|3.93|[view](images/proteinpaint/KLHL6.svg)|[view](images/proteinpaint/KLHL6_NM_130446.svg)|
+|2-a|[LTB](LTB)|3.00|[view](images/proteinpaint/LTB.svg)|[view](images/proteinpaint/LTB_NM_002341.svg)|
+|2-a|[MCL1](MCL1)|1.85|[view](images/proteinpaint/MCL1.svg)|[view](images/proteinpaint/MCL1_NM_021960.svg)|
+|2-a|[MEF2B](MEF2B)|1.39|[view](images/proteinpaint/MEF2B.svg)|[view](images/proteinpaint/MEF2B_NM_001145785.svg)|
+|2-a|[MIR142](MIR142)(MIR142HG)|NA|[LOAD](https://morinlab.github.io/LLMPP/GAMBL/MIR142.html)|[LOAD](https://morinlab.github.io/LLMPP/GAMBL/MIR142_protein.html)|
+|2|[MME](MME)|1.85|[view](images/proteinpaint/MME.svg)|[view](images/proteinpaint/MME_NM_000902.svg)|
+|2|[MTOR](MTOR)|4.62|[view](images/proteinpaint/MTOR.svg)|[view](images/proteinpaint/MTOR_NM_004958.svg)|
+|2|[MYD88](MYD88)|0.46|[view](images/proteinpaint/MYD88.svg)|[view](images/proteinpaint/MYD88_NM_002468.svg)|
+|2-a|[MYO1E](MYO1E)|2.08|[view](images/proteinpaint/MYO1E.svg)|[view](images/proteinpaint/MYO1E_NM_004998.svg)|
+|2|[NFKBIA](NFKBIA)|1.39|[view](images/proteinpaint/NFKBIA.svg)|[view](images/proteinpaint/NFKBIA_NM_020529.svg)|
+|2|[NOTCH2](NOTCH2)|1.15|[view](images/proteinpaint/NOTCH2.svg)|[view](images/proteinpaint/NOTCH2_NM_024408.svg)|
+|2-a|[OSBPL10](OSBPL10)|2.08|[view](images/proteinpaint/OSBPL10.svg)|[view](images/proteinpaint/OSBPL10_NM_017784.svg)|
+|2|[PABPC4L](PABPC4L)|1.62|[view](images/proteinpaint/PABPC4L.svg)|[view](images/proteinpaint/PABPC4L_NM_001114734.svg)|
+|2|[PCDHA11](PCDHA11)|1.39|[view](images/proteinpaint/PCDHA11.svg)|[view](images/proteinpaint/PCDHA11_NM_018902.svg)|
+|2|[PDZRN3](PDZRN3)|3.46|[view](images/proteinpaint/PDZRN3.svg)|[view](images/proteinpaint/PDZRN3_NM_015009.svg)|
+|2|[PIK3R1](PIK3R1)|3.00|[view](images/proteinpaint/PIK3R1.svg)|[view](images/proteinpaint/PIK3R1_NM_181523.svg)|
+|2|[PLCG2](PLCG2)|3.00|[view](images/proteinpaint/PLCG2.svg)|[view](images/proteinpaint/PLCG2_NM_002661.svg)|
+|2|[PMAIP1](PMAIP1)|3.23|[view](images/proteinpaint/PMAIP1.svg)|[view](images/proteinpaint/PMAIP1_NM_021127.svg)|
+|2|[PRDM1](PRDM1)|2.31|[view](images/proteinpaint/PRDM1.svg)|[view](images/proteinpaint/PRDM1_NM_001198.svg)|
+|2|[PRKCD](PRKCD)|2.31|[view](images/proteinpaint/PRKCD.svg)|[view](images/proteinpaint/PRKCD_NM_006254.svg)|
+|2|[PXDNL](PXDNL)|4.62|[view](images/proteinpaint/PXDNL.svg)|[view](images/proteinpaint/PXDNL_NM_144651.svg)|
+|2|[RAC2](RAC2)|0.69|[view](images/proteinpaint/RAC2.svg)|[view](images/proteinpaint/RAC2_NM_002872.svg)|
+|2-a|[RNF144B](RNF144B)|0.23|[view](images/proteinpaint/RNF144B.svg)|[view](images/proteinpaint/RNF144B_NM_182757.svg)|
+|2|[RPL22](RPL22)|2.31|[view](images/proteinpaint/RPL22.svg)|[view](images/proteinpaint/RPL22_NM_000983.svg)|
+|2-a|[S1PR2](S1PR2)|1.15|[view](images/proteinpaint/S1PR2.svg)|[view](images/proteinpaint/S1PR2_NM_004230.svg)|
+|2|[SEPT10](SEPT10)(SEPTIN10)|0.92|[view](images/proteinpaint/SEPT10.svg)|[view](images/proteinpaint/SEPT10_NM_144710.svg)|
+|2-a|[SGK1](SGK1)|2.08|[view](images/proteinpaint/SGK1.svg)|[view](images/proteinpaint/SGK1_NM_005627.svg)|
+|2|[SNTB2](SNTB2)|0.69|[view](images/proteinpaint/SNTB2.svg)|[view](images/proteinpaint/SNTB2_NM_006750.svg)|
+|2-a|[SOCS1](SOCS1)|1.85|[view](images/proteinpaint/SOCS1.svg)|[view](images/proteinpaint/SOCS1_NM_003745.svg)|
+|2|[SP3](SP3)|3.00|[view](images/proteinpaint/SP3.svg)|[view](images/proteinpaint/SP3_NM_003111.svg)|
+|2|[STAT3](STAT3)|0.92|[view](images/proteinpaint/STAT3.svg)|[view](images/proteinpaint/STAT3_NM_139276.svg)|
+|2|[STAT6](STAT6)|1.62|[view](images/proteinpaint/STAT6.svg)|[view](images/proteinpaint/STAT6_NM_003153.svg)|
+|2|[SYNCRIP](SYNCRIP)|3.00|[view](images/proteinpaint/SYNCRIP.svg)|[view](images/proteinpaint/SYNCRIP_NM_006372.svg)|
+|2|[TBL1XR1](TBL1XR1)|6.00|[view](images/proteinpaint/TBL1XR1.svg)|[view](images/proteinpaint/TBL1XR1_NM_024665.svg)|
+|2|[TET2](TET2)|5.31|[view](images/proteinpaint/TET2.svg)|[view](images/proteinpaint/TET2_NM_001127208.svg)|
+|2|[TMEM30A](TMEM30A)|1.85|[view](images/proteinpaint/TMEM30A.svg)|[view](images/proteinpaint/TMEM30A_NM_018247.svg)|
+|2-a|[TMSB4X](TMSB4X)|0.69|[view](images/proteinpaint/TMSB4X.svg)|[view](images/proteinpaint/TMSB4X_NM_021109.svg)|
+|2|[TNFAIP3](TNFAIP3)|1.39|[view](images/proteinpaint/TNFAIP3.svg)|[view](images/proteinpaint/TNFAIP3_NM_006290.svg)|
+|2|[TNFRSF14](TNFRSF14)|1.39|[view](images/proteinpaint/TNFRSF14.svg)|[view](images/proteinpaint/TNFRSF14_NM_003820.svg)|
+|2|[TOX](TOX)|2.08|[view](images/proteinpaint/TOX.svg)|[view](images/proteinpaint/TOX_NM_014729.svg)|
+|2|[UBE2A](UBE2A)|0.92|[view](images/proteinpaint/UBE2A.svg)|[view](images/proteinpaint/UBE2A_NM_003336.svg)|
+|2|[WDR7](WDR7)|2.08|[view](images/proteinpaint/WDR7.svg)|[view](images/proteinpaint/WDR7_NM_015285.svg)|
+|2|[WNK2](WNK2)|3.23|[view](images/proteinpaint/WNK2.svg)|[view](images/proteinpaint/WNK2_NM_006648.svg)|
+|2-a|[ZFP36L1](ZFP36L1)|2.08|[view](images/proteinpaint/ZFP36L1.svg)|[view](images/proteinpaint/ZFP36L1_NM_004926.svg)|
+|2|[ARHGEF1](ARHGEF1)|3.93|[view](images/proteinpaint/ARHGEF1.svg)|[view](images/proteinpaint/ARHGEF1_NM_199002.svg)|
+|2|[ACE](ACE)|4.39|[view](images/proteinpaint/ACE.svg)|[view](images/proteinpaint/ACE_NM_000789.svg)|
+|2|[ACAD9](ACAD9)|1.85|[view](images/proteinpaint/ACAD9.svg)|[view](images/proteinpaint/ACAD9_NM_014049.svg)|
+|2|[ATP2C2](ATP2C2)|3.70|[view](images/proteinpaint/ATP2C2.svg)|[view](images/proteinpaint/ATP2C2_NM_014861.svg)|
+|2|[BRAF](BRAF)|2.77|[view](images/proteinpaint/BRAF.svg)|[view](images/proteinpaint/BRAF_NM_004333.svg)|
+|2|[BRD4](BRD4)|2.08|[view](images/proteinpaint/BRD4.svg)|[view](images/proteinpaint/BRD4_NM_058243.svg)|
+|2|[CARD4](CARD4)(NOD1)|NA|[view](images/proteinpaint/CARD4.svg)|[LOAD](https://morinlab.github.io/LLMPP/GAMBL/CARD4_protein.html)|
+|2|[CAD](CAD)|3.93|[view](images/proteinpaint/CAD.svg)|[view](images/proteinpaint/CAD_NM_004341.svg)|
+|2|[C6orf27](C6orf27)(VWA7)|NA|[view](images/proteinpaint/C6orf27.svg)|[view](images/proteinpaint/VWA7_NM_025258.svg)|
+|2|[CCT6B](CCT6B)|1.15|[view](images/proteinpaint/CCT6B.svg)|[view](images/proteinpaint/CCT6B_NM_006584.svg)|
+|2|[CDC73](CDC73)|2.54|[view](images/proteinpaint/CDC73.svg)|[view](images/proteinpaint/CDC73_NM_024529.svg)|
+|2|[CDH17](CDH17)|1.39|[view](images/proteinpaint/CDH17.svg)|[view](images/proteinpaint/CDH17_NM_004063.svg)|
+|2|[COL4A2](COL4A2)|4.16|[view](images/proteinpaint/COL4A2.svg)|[view](images/proteinpaint/COL4A2_NM_001846.svg)|
+|2|[CYB5D1](CYB5D1)|0.23|[view](images/proteinpaint/CYB5D1.svg)|[view](images/proteinpaint/CYB5D1_NM_144607.svg)|
+|2|[CYP4F22](CYP4F22)|1.39|[view](images/proteinpaint/CYP4F22.svg)|[view](images/proteinpaint/CYP4F22_NM_173483.svg)|
+|2|[DLGAP1](DLGAP1)|1.85|[view](images/proteinpaint/DLGAP1.svg)|[view](images/proteinpaint/DLGAP1_NM_004746.svg)|
+|2|[EML2](EML2)|1.62|[view](images/proteinpaint/EML2.svg)|[view](images/proteinpaint/EML2_NM_012155.svg)|
+|2|[EPHB2](EPHB2)|1.85|[view](images/proteinpaint/EPHB2.svg)|[view](images/proteinpaint/EPHB2_NM_017449.svg)|
+|2|[EIF2C4](EIF2C4)(AGO4)|NA|[view](images/proteinpaint/EIF2C4.svg)|[view](images/proteinpaint/AGO4_NM_017629.svg)|
+|2|[ENTPD3](ENTPD3)|1.39|[view](images/proteinpaint/ENTPD3.svg)|[view](images/proteinpaint/ENTPD3_NM_001248.svg)|
+|2|[FAM129B](FAM129B)(NIBAN2)|1.39|[view](images/proteinpaint/FAM129B.svg)|[LOAD](https://morinlab.github.io/LLMPP/GAMBL/FAM129B_protein.html)|
+|2|[FTCD](FTCD)|3.23|[view](images/proteinpaint/FTCD.svg)|[view](images/proteinpaint/FTCD_NM_206965.svg)|
+|2|[FGFR3](FGFR3)|1.62|[view](images/proteinpaint/FGFR3.svg)|[view](images/proteinpaint/FGFR3_NM_000142.svg)|
+|2|[GGTLA4](GGTLA4)(GGTLC1)|NA|[view](images/proteinpaint/GGTLA4.svg)|[LOAD](https://morinlab.github.io/LLMPP/GAMBL/GGTLA4_protein.html)|
+|2|[GRIK5](GRIK5)|0.92|[view](images/proteinpaint/GRIK5.svg)|[view](images/proteinpaint/GRIK5_NM_002088.svg)|
+|2|[ICK](ICK)(CILK1)|0.69|[view](images/proteinpaint/ICK.svg)|[LOAD](https://morinlab.github.io/LLMPP/GAMBL/ICK_protein.html)|
+|2|[ITPR3](ITPR3)|4.39|[view](images/proteinpaint/ITPR3.svg)|[view](images/proteinpaint/ITPR3_NM_002224.svg)|
+|2|[KIFC3](KIFC3)|1.62|[view](images/proteinpaint/KIFC3.svg)|[view](images/proteinpaint/KIFC3_NM_005550.svg)|
+|2|[MAP3K6](MAP3K6)|2.54|[view](images/proteinpaint/MAP3K6.svg)|[view](images/proteinpaint/MAP3K6_NM_004672.svg)|
+|2|[MYH10](MYH10)|2.08|[view](images/proteinpaint/MYH10.svg)|[view](images/proteinpaint/MYH10_NM_005964.svg)|
+|2|[NBEAL1](NBEAL1)|3.46|[view](images/proteinpaint/NBEAL1.svg)|[view](images/proteinpaint/NBEAL1_NM_001114132.svg)|
+|2|[NOTCH1](NOTCH1)|4.16|[view](images/proteinpaint/NOTCH1.svg)|[view](images/proteinpaint/NOTCH1_NM_017617.svg)|
+|2|[NRXN2](NRXN2)|2.77|[view](images/proteinpaint/NRXN2.svg)|[view](images/proteinpaint/NRXN2_NM_015080.svg)|
+|2|[PC](PC)|2.54|[view](images/proteinpaint/PC.svg)|[view](images/proteinpaint/PC_NM_000920.svg)|
+|2|[P2RY2](P2RY2)|1.15|[view](images/proteinpaint/P2RY2.svg)|[view](images/proteinpaint/P2RY2_NM_176072.svg)|
+|2|[POLRMT](POLRMT)|1.62|[view](images/proteinpaint/POLRMT.svg)|[view](images/proteinpaint/POLRMT_NM_005035.svg)|
+|2|[POR](POR)|2.54|[view](images/proteinpaint/POR.svg)|[view](images/proteinpaint/POR_NM_001382657.svg)|
+|2|[PRSS22](PRSS22)|1.39|[view](images/proteinpaint/PRSS22.svg)|[view](images/proteinpaint/PRSS22_NM_022119.svg)|
+|2|[PTPRN](PTPRN)|0.69|[view](images/proteinpaint/PTPRN.svg)|[view](images/proteinpaint/PTPRN_NM_002846.svg)|
+|2|[RANBP6](RANBP6)|1.85|[view](images/proteinpaint/RANBP6.svg)|[view](images/proteinpaint/RANBP6_NM_012416.svg)|
+|2|[RBP3](RBP3)|0.69|[view](images/proteinpaint/RBP3.svg)|[view](images/proteinpaint/RBP3_NM_002900.svg)|
+|2|[RET](RET)|2.31|[view](images/proteinpaint/RET.svg)|[view](images/proteinpaint/RET_NM_020630.svg)|
+|2|[SALL3](SALL3)|4.16|[view](images/proteinpaint/SALL3.svg)|[view](images/proteinpaint/SALL3_NM_171999.svg)|
+|2|[SAPS2](SAPS2)(PPP6R2)|NA|[view](images/proteinpaint/SAPS2.svg)|[view](images/proteinpaint/PPP6R2_NM_014678.svg)|
+|2|[SBF1](SBF1)|4.85|[view](images/proteinpaint/SBF1.svg)|[view](images/proteinpaint/SBF1_NM_002972.svg)|
+|2|[SLC29A2](SLC29A2)|0.46|[view](images/proteinpaint/SLC29A2.svg)|[view](images/proteinpaint/SLC29A2_NM_001532.svg)|
+|2|[SF3B1](SF3B1)|3.00|[view](images/proteinpaint/SF3B1.svg)|[view](images/proteinpaint/SF3B1_NM_012433.svg)|
+|2|[SHANK1](SHANK1)|2.77|[view](images/proteinpaint/SHANK1.svg)|[view](images/proteinpaint/SHANK1_NM_016148.svg)|
+|2|[SYNGAP1](SYNGAP1)|1.39|[view](images/proteinpaint/SYNGAP1.svg)|[view](images/proteinpaint/SYNGAP1_NM_006772.svg)|
+|2|[TBC1D9B](TBC1D9B)|1.85|[view](images/proteinpaint/TBC1D9B.svg)|[view](images/proteinpaint/TBC1D9B_NM_198868.svg)|
+|2|[TIGD6](TIGD6)|1.15|[view](images/proteinpaint/TIGD6.svg)|[view](images/proteinpaint/TIGD6_NM_030953.svg)|
+|2|[TPST2](TPST2)|0.92|[view](images/proteinpaint/TPST2.svg)|[view](images/proteinpaint/TPST2_NM_001008566.svg)|
+|2|[ZNF229](ZNF229)|0.69|[view](images/proteinpaint/ZNF229.svg)|[view](images/proteinpaint/ZNF229_NM_014518.svg)|
+|2|[ADAMTS5](ADAMTS5)|2.77|[view](images/proteinpaint/ADAMTS5.svg)|[view](images/proteinpaint/ADAMTS5_NM_007038.svg)|
+|2|[ADNP](ADNP)|1.15|[view](images/proteinpaint/ADNP.svg)|[view](images/proteinpaint/ADNP_NM_015339.svg)|
+|2|[AGO4](AGO4)(EIF2C4)|1.15|[view](images/proteinpaint/AGO4.svg)|[view](images/proteinpaint/AGO4_NM_017629.svg)|
+|2-a|[BTG1](BTG1)|0.46|[view](images/proteinpaint/BTG1.svg)|[view](images/proteinpaint/BTG1_NM_001731.svg)|
+|2|[CD79A](CD79A)|0.23|[view](images/proteinpaint/CD79A.svg)|[view](images/proteinpaint/CD79A_NM_001783.svg)|
+|2|[CHD4](CHD4)|3.93|[view](images/proteinpaint/CHD4.svg)|[view](images/proteinpaint/CHD4_NM_001273.svg)|
+|2|[CPXM2](CPXM2)|1.85|[view](images/proteinpaint/CPXM2.svg)|[view](images/proteinpaint/CPXM2_NM_198148.svg)|
+|2|[E2F2](E2F2)|1.62|[view](images/proteinpaint/E2F2.svg)|[view](images/proteinpaint/E2F2_NM_004091.svg)|
+|2|[EDNRB](EDNRB)|1.62|[view](images/proteinpaint/EDNRB.svg)|[view](images/proteinpaint/EDNRB_NM_000115.svg)|
+|2|[ERAP1](ERAP1)|2.08|[view](images/proteinpaint/ERAP1.svg)|[view](images/proteinpaint/ERAP1_NM_016442.svg)|
+|2|[EXOSC6](EXOSC6)|0.46|[view](images/proteinpaint/EXOSC6.svg)|[view](images/proteinpaint/EXOSC6_NM_058219.svg)|
+|2|[FLYWCH1](FLYWCH1)|1.39|[view](images/proteinpaint/FLYWCH1.svg)|[view](images/proteinpaint/FLYWCH1_NM_032296.svg)|
+|2|[GTSE1](GTSE1)|2.08|[view](images/proteinpaint/GTSE1.svg)|[view](images/proteinpaint/GTSE1_NM_016426.svg)|
+|2|[HLA-DQB1](HLA-DQB1)|NA|[view](images/proteinpaint/HLA-DQB1.svg)|[view](images/proteinpaint/HLA-DQB1_NM_002123.svg)|
+|2|[KLHL26](KLHL26)|0.46|[view](images/proteinpaint/KLHL26.svg)|[view](images/proteinpaint/KLHL26_NM_018316.svg)|
+|2|[MKI67](MKI67)|6.00|[view](images/proteinpaint/MKI67.svg)|[view](images/proteinpaint/MKI67_NM_002417.svg)|
+|2|[MYO18A](MYO18A)|4.62|[view](images/proteinpaint/MYO18A.svg)|[view](images/proteinpaint/MYO18A_NM_078471.svg)|
+|2|[NCOR2](NCOR2)|6.24|[view](images/proteinpaint/NCOR2.svg)|[view](images/proteinpaint/NCOR2_NM_006312.svg)|
+|2|[NOA1](NOA1)|2.31|[view](images/proteinpaint/NOA1.svg)|[view](images/proteinpaint/NOA1_NM_032313.svg)|
+|2|[PDCD11](PDCD11)|3.46|[view](images/proteinpaint/PDCD11.svg)|[view](images/proteinpaint/PDCD11_NM_014976.svg)|
+|2-a|[PIM1](PIM1)|2.31|[view](images/proteinpaint/PIM1.svg)|[view](images/proteinpaint/PIM1_NM_002648.svg)|
+|2|[PPP6R2](PPP6R2)(SAPS2)|2.08|[view](images/proteinpaint/PPP6R2.svg)|[view](images/proteinpaint/PPP6R2_NM_014678.svg)|
+|2|[PREX1](PREX1)|2.08|[view](images/proteinpaint/PREX1.svg)|[view](images/proteinpaint/PREX1_NM_020820.svg)|
+|2|[REV3L](REV3L)|4.85|[view](images/proteinpaint/REV3L.svg)|[view](images/proteinpaint/REV3L_NM_002912.svg)|
+|2|[RPL10](RPL10)|13.63|[view](images/proteinpaint/RPL10.svg)|[view](images/proteinpaint/RPL10_NM_006013.svg)|
+|2|[SAL3](SAL3)(IPO5)|NA|[view](images/proteinpaint/SAL3.svg)|[LOAD](https://morinlab.github.io/LLMPP/GAMBL/SAL3_protein.html)|
+|2|[TOP2A](TOP2A)|1.62|[view](images/proteinpaint/TOP2A.svg)|[view](images/proteinpaint/TOP2A_NM_001067.svg)|
+|2|[TTN](TTN)|28.64|[view](images/proteinpaint/TTN.svg)|[view](images/proteinpaint/TTN_NM_133378.svg)|
+|2|[VWA7](VWA7)(C6orf27)|1.85|[view](images/proteinpaint/VWA7.svg)|[view](images/proteinpaint/VWA7_NM_025258.svg)|
+|2|[WDR90](WDR90)|1.62|[view](images/proteinpaint/WDR90.svg)|[view](images/proteinpaint/WDR90_NM_145294.svg)|
+|2|[WHAMM](WHAMM)|1.15|[view](images/proteinpaint/WHAMM.svg)|[view](images/proteinpaint/WHAMM_NM_001080435.svg)|
+|2|[YY1AP1](YY1AP1)|1.85|[view](images/proteinpaint/YY1AP1.svg)|[view](images/proteinpaint/YY1AP1_NM_139118.svg)|
+|2|[ZAN](ZAN)|5.77|[view](images/proteinpaint/ZAN.svg)|[view](images/proteinpaint/ZAN_NM_003386.svg)|
+|2|[ZBTB7A](ZBTB7A)|3.00|[view](images/proteinpaint/ZBTB7A.svg)|[view](images/proteinpaint/ZBTB7A_NM_015898.svg)|
+|2|[ZNF85](ZNF85)|0.69|[view](images/proteinpaint/ZNF85.svg)|[view](images/proteinpaint/ZNF85_NM_003429.svg)|
+|2|[KMT2C](KMT2C)|6.47|[view](images/proteinpaint/KMT2C.svg)|[view](images/proteinpaint/KMT2C_NM_170606.svg)|
