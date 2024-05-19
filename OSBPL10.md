@@ -4,7 +4,7 @@ OSBPL10 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ash
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|DLBCL |1-a   |high-confidence DLBCL gene            |
+|DLBCL |1-a   |high-confidence DLBCL gene, hypermutated            |
 |BL    |2   |relevance in BL not firmly established|
 
 ## Mutation incidence
