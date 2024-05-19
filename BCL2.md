@@ -1,4 +1,4 @@
-# [BCL2]
+BCL2 mutations are frequently found in DLBCL, particularly in the germinal center B-cell (GCB) subtype, and are often located in the flexible loop domain and outside the BCL2-homology domains. These mutations are caused by the somatic hypermutation process.<sup>1</sup> The presence of these mutations are strongly correlated with the presence of a translocation between BCL2 and one of the immunoglobulin loci. <sup>2</sup> Although missense mutations may not be under positive selective pressure in the context of lymphomagenesis, some of these mutations may interfere with the function of BCL2 antagonists.<sup>3</sup> 
 
 ## Mutation tier
 
@@ -59,3 +59,10 @@ View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morin
 View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/BCL2.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/BCL2_hg38.html)
 
 ![image](images/proteinpaint/BCL2.svg)
+
+## References
+
+1. *Schuetz JM, Johnson NA, Morin RD, Scott DW, Tan K, Ben-Nierah S, Boyle M, Slack GW, Marra MA, Connors JM, Brooks-Wilson AR, Gascoyne RD. BCL2 mutations in diffuse large B-cell lymphoma. Leukemia. 2012 Jun;26(6):1383-90. doi: 10.1038/leu.2011.378. Epub 2011 Dec 22. PMID: 22189900.*
+2. *Hilton L et al. Motive and Opportunity: MYC rearrangements in high-grade B-cell lymphoma with MYC
+and BCL2 rearrangements-an LLMPP study. Blood. 2024. Epub May 3.*
+3. *Singh K, Briggs JM. Functional Implications of the spectrum of BCL2 mutations in Lymphoma. Mutat Res Rev Mutat Res. 2016 Jul-Sep;769:1-18. doi: 10.1016/j.mrrev.2016.06.001. Epub 2016 Jun 16. PMID: 27543313.*
