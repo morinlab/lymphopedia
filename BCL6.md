@@ -1,5 +1,5 @@
 
-BCL6 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas. Although common, particularly in DLBCL, the function of many of these mutations remains unclear but some have been shown to affect the regulation of BCL6 expression.<sup>1,2</sup> The role of BCL6 missense mutations, seen over 9% of patients,<sup>3</sup> remains unclear. 
+BCL6 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus. Although common, particularly in DLBCL, the function of many of these mutations remains unclear but some have been shown to affect the regulation of BCL6 expression.<sup>1,2</sup> The role of BCL6 missense mutations, seen over 9% of patients,<sup>3</sup> remains unclear. 
 
 ## Mutation tier
 
