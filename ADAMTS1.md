@@ -10,9 +10,9 @@
 |Entity|source        |frequency (%)|
 |:------:|:--------------:|:-------------:|
 |DLBCL |GAMBL genomes |1.91         |
-|DLBCL |Schmitz cohort|  NA         |
-|DLBCL |Reddy cohort  |  NA         |
-|DLBCL |Chapuy cohort |  NA         |
+|DLBCL |Schmitz cohort|3.40         |
+|DLBCL |Reddy cohort  |1.70         |
+|DLBCL |Chapuy cohort |2.56         |
 
 ## Mutation pattern
 
@@ -24,6 +24,9 @@
 
 
 > [!NOTE]
+> First described in DLBCL in 2021 by [Hübschmann D](https://pubmed.ncbi.nlm.nih.gov/33953289)
+
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ADAMTS1_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ADAMTS1_protein_hg38.html)
 
 ![image](images/proteinpaint/ADAMTS1_NM_006988.svg)
