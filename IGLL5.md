@@ -1,13 +1,14 @@
-# [IGLL5]
+# IGLL5
 
-## Mutation tier
+## Relevance tier by entity
 
 |Entity|Tier|Description                              |
 |:------:|:----:|-----------------------------------------|
 |BL    |2-a | aSHM target; Although recurrent, the relevance of mutations in BL is tenuous    |
 |DLBCL |2-a | aSHM target; Although recurrent, the relevance of mutations in DLBCL is tenuous |
 |FL    |2-a | aSHM target; Although recurrent, the relevance of mutations in FL is tenuous    |
-## Mutation incidence
+
+## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
 |Entity|source               |frequency (%)|
 |:------:|:---------------------:|:-------------:|
@@ -20,7 +21,7 @@
 |DLBCL |Chapuy cohort        | 8.97        |
 |FL    |GAMBL genomes        |35.33        |
 
-## Mutation pattern
+## Mutation pattern and selective pressure estimates
 
 |Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
 |:------:|:----:|:---------------------:|:----------------:|:----------------:|
