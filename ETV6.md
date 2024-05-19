@@ -4,7 +4,7 @@ ETV6 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) 
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
-|DLBCL |1   |high-confidence DLBCL gene|
+|DLBCL |1-a  |high-confidence DLBCL gene, hypermutated|
 ## Mutation incidence
 
 |Entity|source        |frequency (%)|
