@@ -14,13 +14,13 @@ BRAF mutations, particularly the BRAF V600E hot spot mutation, are primarily ass
 
 |Entity|source               |frequency (%)|
 |:------:|:---------------------:|:-------------:|
-|BL    |GAMBL genomes+capture|2.77         |
-|BL    |Thomas cohort        |  NA         |
-|BL    |Panea cohort         |  NA         |
 |DLBCL |GAMBL genomes        |2.29         |
 |DLBCL |Schmitz cohort       |3.40         |
 |DLBCL |Reddy cohort         |2.00         |
 |DLBCL |Chapuy cohort        |5.56         |
+|BL    |GAMBL genomes+capture|2.77         |
+|BL    |Thomas cohort        |  NA         |
+|BL    |Panea cohort         |  NA         |
 
 ## Mutation pattern and selective pressure estimates
 
