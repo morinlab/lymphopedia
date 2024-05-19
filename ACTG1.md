@@ -1,11 +1,12 @@
-# [ACTG1]
+ACTG1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas. 
 
 ## Mutation tier
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|DLBCL |1   |high-confidence DLBCL gene            |
-|FL    |2   |relevance in FL not firmly established|
+|DLBCL |1-a   |high-confidence DLBCL gene, hypermutated            |
+|FL    |2-a   |relevance in FL not firmly established, hypermutated|
+
 ## Mutation incidence
 
 |Entity|source        |frequency (%)|
