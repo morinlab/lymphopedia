@@ -5,8 +5,8 @@ BTG1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
 |BL    |2   |relevance in BL not firmly established|
-|DLBCL |1   |high-confidence DLBCL gene            |
-|FL    |1   |high-confidence FL gene               |
+|DLBCL |1-a   |high-confidence DLBCL gene, hypermutated            |
+|FL    |1-a   |high-confidence FL gene, hypermutated               |
 ## Mutation incidence
 
 |Entity|source               |frequency (%)|
