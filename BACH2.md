@@ -4,7 +4,7 @@
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|BL    |2   |relevance in BL not firmly established|
+|BL    |2-a | aSHM target; Although recurrent, the relevance of mutations in BL is tenuous |
 ## Mutation incidence
 
 |Entity|source               |frequency (%)|

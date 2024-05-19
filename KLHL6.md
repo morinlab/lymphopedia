@@ -4,10 +4,9 @@ KLHL6 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm)
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|DLBCL |1-a   |high-confidence DLBCL gene, hypermutated            |
-|FL    |1-a   |high-confidence FL gene, hypermutated               |
-|BL    |2   |relevance in BL not firmly established|
-
+|BL    |2-a | aSHM target; Although recurrent, the relevance of mutations in BL is tenuous |
+|DLBCL |1-a | aSHM target and high-confidence DLBCL gene            |
+|FL    |1-a | aSHM target and high-confidence FL gene               |
 ## Mutation incidence
 
 |Entity|source               |frequency (%)|
@@ -16,9 +15,9 @@ KLHL6 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm)
 |BL    |Thomas cohort        |3.00         |
 |BL    |Panea cohort         |6.90         |
 |DLBCL |GAMBL genomes        |5.35         |
-|DLBCL |Schmitz cohort       |9.10         |
-|DLBCL |Reddy cohort         |6.40         |
-|DLBCL |Chapuy cohort        |9.00         |
+|DLBCL |Schmitz cohort       |9.15         |
+|DLBCL |Reddy cohort         |6.41         |
+|DLBCL |Chapuy cohort        |8.97         |
 |FL    |GAMBL genomes        |7.16         |
 
 ## Mutation pattern
@@ -35,7 +34,8 @@ KLHL6 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm)
 |:--------:|:----------:|:---------:|:-------------------------------------------------------------------------------------------:|:-------------------------------:|
 |chr3    |183269360 |183274139|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr3%3A183269360%2D183274139)|active_promoter-strong_enhancer|
 
-
+> [!NOTE]
+> First described in DLBCL in 2011 by [Morin RD](https://pubmed.ncbi.nlm.nih.gov/21796119). First described in FL in 2011 by [Morin RD](https://pubmed.ncbi.nlm.nih.gov/21796119)
 
  ## KLHL6 Hotspots
 

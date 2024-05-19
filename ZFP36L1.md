@@ -4,9 +4,8 @@ ZFP36L1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ash
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|DLBCL |1-a   |high-confidence DLBCL gene, hypermutated            |
-|BL    |2   |relevance in BL not firmly established|
-
+|BL    |2-a | aSHM target; Although recurrent, the relevance of mutations in BL is tenuous |
+|DLBCL |1-a | aSHM target and high-confidence DLBCL gene            |
 ## Mutation incidence
 
 |Entity|source               |frequency (%)|
@@ -15,9 +14,9 @@ ZFP36L1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ash
 |BL    |Thomas cohort        |2.10         |
 |BL    |Panea cohort         |3.00         |
 |DLBCL |GAMBL genomes        |6.69         |
-|DLBCL |Schmitz cohort       |8.50         |
-|DLBCL |Reddy cohort         |5.60         |
-|DLBCL |Chapuy cohort        |8.10         |
+|DLBCL |Schmitz cohort       |8.51         |
+|DLBCL |Reddy cohort         |5.61         |
+|DLBCL |Chapuy cohort        |8.12         |
 
 ## Mutation pattern
 
@@ -32,7 +31,6 @@ ZFP36L1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ash
 |chr_name|hg19_start|hg19_end|region                                                                                    |regulatory_comment|
 |:--------:|:----------:|:--------:|:------------------------------------------------------------------------------------------:|:------------------:|
 |chr14   |69257848  |69259739|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr14%3A69257848%2D69259739)|active_promoter   |
-
 
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ZFP36L1_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ZFP36L1_protein_hg38.html)

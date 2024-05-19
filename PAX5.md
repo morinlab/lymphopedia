@@ -4,15 +4,15 @@
 
 |Entity|Tier|Description                              |
 |:------:|:----:|-----------------------------------------|
-|DLBCL |2   |relevance in DLBCL not firmly established|
+|DLBCL |2-a | aSHM target; Although recurrent, the relevance of mutations in DLBCL is tenuous |
 ## Mutation incidence
 
 |Entity|source        |frequency (%)|
 |:------:|:--------------:|:-------------:|
 |DLBCL |GAMBL genomes |3.63         |
-|DLBCL |Schmitz cohort|3.20         |
+|DLBCL |Schmitz cohort|3.19         |
 |DLBCL |Reddy cohort  |1.90         |
-|DLBCL |Chapuy cohort |3.40         |
+|DLBCL |Chapuy cohort |3.42         |
 
 ## Mutation pattern
 

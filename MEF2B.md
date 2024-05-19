@@ -4,9 +4,9 @@ MEF2B is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm)
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|DLBCL |1-a   |high-confidence DLBCL gene, hypermutated            |
-|FL    |1-a   |high-confidence FL gene, hypermutated               |
-|BL    |2   |relevance in BL not firmly established and seems unlikely|
+|BL    |2-a | aSHM target; Although recurrent, the relevance of mutations in BL is tenuous |
+|DLBCL |1-a | aSHM target and high-confidence DLBCL gene            |
+|FL    |1-a | aSHM target and high-confidence FL gene               |
 
 ## Mutation incidence
 
@@ -16,10 +16,11 @@ MEF2B is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm)
 |BL    |Thomas cohort        | 0.80        |
 |BL    |Panea cohort         | 3.00        |
 |DLBCL |GAMBL genomes        |11.28        |
-|DLBCL |Schmitz cohort       | 9.10        |
-|DLBCL |Reddy cohort         | 5.90        |
-|DLBCL |Chapuy cohort        | 5.60        |
+|DLBCL |Schmitz cohort       | 9.79        |
+|DLBCL |Reddy cohort         | 5.91        |
+|DLBCL |Chapuy cohort        | 5.56        |
 |FL    |GAMBL genomes        |12.93        |
+|MCL   |GAMBL genomes        | 5.69        |
 
 ## Mutation pattern
 
@@ -35,6 +36,8 @@ MEF2B is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm)
 |:--------:|:----------:|:--------:|:------------------------------------------------------------------------------------------:|:------------------:|
 |chr19   |19279635  |19281441|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr19%3A19279635%2D19281441)|active_promoter   |
 
+> [!NOTE]
+> First described in DLBCL in 2011 by [Morin RD](https://pubmed.ncbi.nlm.nih.gov/21796119). First described in FL in 2011 by [Morin RD](https://pubmed.ncbi.nlm.nih.gov/21796119). First described in MCL in 2013 by [Beà S](https://pubmed.ncbi.nlm.nih.gov/24145436)
 
 ## MEF2B Hotspots
 

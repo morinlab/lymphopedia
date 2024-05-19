@@ -4,9 +4,9 @@ EBF1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) 
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|BL    |2   |relevance in BL not firmly established|
-|DLBCL |1-a   |high-confidence DLBCL gene, hypermutated            |
-|FL    |1-a   |high-confidence FL gene, hypermutated               |
+|BL    |2-a | aSHM target; Although recurrent, the relevance of mutations in BL is tenuous |
+|DLBCL |1-a | aSHM target and high-confidence DLBCL gene            |
+|FL    |1-a | aSHM target and high-confidence FL gene               |
 ## Mutation incidence
 
 |Entity|source               |frequency (%)|
@@ -15,9 +15,9 @@ EBF1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) 
 |BL    |Thomas cohort        | 1.30        |
 |BL    |Panea cohort         | 5.90        |
 |DLBCL |GAMBL genomes        | 8.99        |
-|DLBCL |Schmitz cohort       |10.90        |
-|DLBCL |Reddy cohort         | 8.80        |
-|DLBCL |Chapuy cohort        |12.80        |
+|DLBCL |Schmitz cohort       |10.85        |
+|DLBCL |Reddy cohort         | 8.81        |
+|DLBCL |Chapuy cohort        |12.82        |
 |FL    |GAMBL genomes        | 8.55        |
 
 ## Mutation pattern

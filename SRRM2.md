@@ -2,14 +2,19 @@
 
 ## Mutation tier
 
-|Entity|Tier|Description                           |
-|:------:|:----:|--------------------------------------|
-|FL    |2   |relevance in FL not firmly established|
+|Entity|Tier|Description                              |
+|:------:|:----:|-----------------------------------------|
+|DLBCL |2   |relevance in DLBCL not firmly established|
+|FL    |2   |relevance in FL not firmly established   |
 ## Mutation incidence
 
-|Entity|source       |frequency (%)|
-|:------:|:-------------:|:-------------:|
-|FL    |GAMBL genomes|1.39         |
+|Entity|source        |frequency (%)|
+|:------:|:--------------:|:-------------:|
+|DLBCL |GAMBL genomes |3.06         |
+|DLBCL |Schmitz cohort|6.38         |
+|DLBCL |Reddy cohort  |6.61         |
+|DLBCL |Chapuy cohort |6.84         |
+|FL    |GAMBL genomes |1.39         |
 
 ## Mutation pattern
 
@@ -21,14 +26,8 @@
 
 
 > [!NOTE]
-> First described in FL in 2023 by [Russler-Germain DA](https://pubmed.ncbi.nlm.nih.gov/37493986)
+> First described in DLBCL in 2013 by [Morin RD](https://pubmed.ncbi.nlm.nih.gov/23699601). First described in FL in 2023 by [Russler-Germain DA](https://pubmed.ncbi.nlm.nih.gov/37493986)
 
-
- ## SRRM2 Hotspots
-
-| Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
- | :---:| :---: | :--: | :---: |
-| chr16 | 2814100 | C>T | P1191S |
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/SRRM2_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/SRRM2_protein_hg38.html)
 

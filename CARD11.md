@@ -7,6 +7,7 @@
 |BL    |2   |relevance in BL not firmly established|
 |DLBCL |1   |high-confidence DLBCL gene            |
 |FL    |1   |high-confidence FL gene               |
+|MCL   |1   |high-confidence MCL gene              |
 ## Mutation incidence
 
 |Entity|source               |frequency (%)|
@@ -15,10 +16,11 @@
 |BL    |Thomas cohort        | 1.70        |
 |BL    |Panea cohort         |10.90        |
 |DLBCL |GAMBL genomes        |11.28        |
-|DLBCL |Schmitz cohort       |15.30        |
-|DLBCL |Reddy cohort         | 7.80        |
-|DLBCL |Chapuy cohort        | 8.10        |
+|DLBCL |Schmitz cohort       |15.32        |
+|DLBCL |Reddy cohort         | 7.81        |
+|DLBCL |Chapuy cohort        | 8.12        |
 |FL    |GAMBL genomes        |14.78        |
+|MCL   |GAMBL genomes        | 1.42        |
 
 ## Mutation pattern
 
@@ -29,7 +31,8 @@
 |FL    |No  |Yes                  |28.329          |27.096          |
 
 
-
+> [!NOTE]
+> First described in DLBCL in 2011 by [Morin RD](https://pubmed.ncbi.nlm.nih.gov/21796119). First described in FL in 2011 by [Morin RD](https://pubmed.ncbi.nlm.nih.gov/21796119). First described in MCL in 2016 by [Wu C](https://pubmed.ncbi.nlm.nih.gov/27224912)
 
  ## CARD11 Hotspots
 

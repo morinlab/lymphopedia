@@ -10,9 +10,9 @@
 |Entity|source        |frequency (%)|
 |:------:|:--------------:|:-------------:|
 |DLBCL |GAMBL genomes |0.96         |
-|DLBCL |Schmitz cohort|0.90         |
+|DLBCL |Schmitz cohort|0.85         |
 |DLBCL |Reddy cohort  |0.50         |
-|DLBCL |Chapuy cohort |0.40         |
+|DLBCL |Chapuy cohort |0.43         |
 
 ## Mutation pattern
 

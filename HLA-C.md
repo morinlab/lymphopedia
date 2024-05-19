@@ -10,7 +10,7 @@
 |Entity|source        |frequency (%)|
 |:------:|:--------------:|:-------------:|
 |DLBCL |GAMBL genomes |3.63         |
-|DLBCL |Schmitz cohort|5.50         |
+|DLBCL |Schmitz cohort|5.53         |
 |DLBCL |Reddy cohort  |  NA         |
 |DLBCL |Chapuy cohort |4.70         |
 
@@ -21,7 +21,6 @@
 |BL    |No  |No                   |1.687           | 0.000          |
 |DLBCL |No  |Yes                  |6.500           |33.396          |
 |FL    |No  |No                   |0.000           | 0.000          |
-
 
 
 

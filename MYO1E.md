@@ -2,9 +2,10 @@
 
 ## Mutation tier
 
-|Entity|Tier|Description                           |
-|:------:|:----:|--------------------------------------|
-|BL    |2   |relevance in BL not firmly established|
+|Entity|Tier|Description                              |
+|:------:|:----:|-----------------------------------------|
+|BL    |2-a | aSHM target; Although recurrent, the relevance of mutations in BL is tenuous    |
+|DLBCL |2-a | aSHM target; Although recurrent, the relevance of mutations in DLBCL is tenuous |
 ## Mutation incidence
 
 |Entity|source               |frequency (%)|
@@ -12,6 +13,10 @@
 |BL    |GAMBL genomes+capture|2.08         |
 |BL    |Thomas cohort        |1.30         |
 |BL    |Panea cohort         |4.00         |
+|DLBCL |GAMBL genomes        |2.49         |
+|DLBCL |Schmitz cohort       |3.40         |
+|DLBCL |Reddy cohort         |3.00         |
+|DLBCL |Chapuy cohort        |1.28         |
 
 ## Mutation pattern
 
@@ -27,14 +32,6 @@
 |:--------:|:----------:|:--------:|:------------------------------------------------------------------------------------------:|:------------------:|
 |chr15   |59658991  |59671152|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr15%3A59658991%2D59671152)|NA                |
 
-
-
- ## MYO1E Hotspots
-
-| Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
- | :---:| :---: | :--: | :---: |
-| chr15 | 59664698 | A>G | M1? |
-| chr15 | 59664699 | T>A | M1? |
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MYO1E_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MYO1E_protein_hg38.html)
 

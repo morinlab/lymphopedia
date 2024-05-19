@@ -36,6 +36,8 @@ BCL2 mutations are frequently found in DLBCL, particularly in the germinal cente
 |chr18   |60982728  |60988342|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr18%3A60982728%2D60988342)   |active_promoter   |
 
 
+> [!NOTE]
+> First described in FL in 2011 by [Morin RD](https://pubmed.ncbi.nlm.nih.gov/21796119)
 
  ## BCL2 Hotspots
 

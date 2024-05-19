@@ -4,16 +4,15 @@ IL4R is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) 
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
-|DLBCL |1-a   |high-confidence DLBCL gene, hypermutated|
-
+|DLBCL |1-a | aSHM target and high-confidence DLBCL gene|
 ## Mutation incidence
 
 |Entity|source        |frequency (%)|
 |:------:|:--------------:|:-------------:|
 |DLBCL |GAMBL genomes |2.68         |
-|DLBCL |Schmitz cohort|2.10         |
+|DLBCL |Schmitz cohort|2.13         |
 |DLBCL |Reddy cohort  |2.50         |
-|DLBCL |Chapuy cohort |3.80         |
+|DLBCL |Chapuy cohort |3.85         |
 
 ## Mutation pattern
 

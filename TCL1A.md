@@ -4,8 +4,9 @@
 
 |Entity|Tier|Description                              |
 |:------:|:----:|-----------------------------------------|
-|BL    |1   |high-confidence BL gene   |
-|DLBCL |1   |high-confidence DLBCL gene|
+|BL    |1-a | aSHM target and high-confidence BL gene   |
+|DLBCL |1-a | aSHM target and high-confidence DLBCL gene|
+
 ## Mutation incidence
 
 |Entity|source               |frequency (%)|
@@ -14,9 +15,9 @@
 |BL    |Thomas cohort        |5.90         |
 |BL    |Panea cohort         |4.00         |
 |DLBCL |GAMBL genomes        |2.10         |
-|DLBCL |Schmitz cohort       |3.80         |
+|DLBCL |Schmitz cohort       |3.83         |
 |DLBCL |Reddy cohort         |2.80         |
-|DLBCL |Chapuy cohort        |3.00         |
+|DLBCL |Chapuy cohort        |2.99         |
 
 ## Mutation pattern
 

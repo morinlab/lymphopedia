@@ -14,9 +14,9 @@
 |BL    |Thomas cohort        |0.00         |
 |BL    |Panea cohort         |1.00         |
 |DLBCL |GAMBL genomes        |7.07         |
-|DLBCL |Schmitz cohort       |9.40         |
+|DLBCL |Schmitz cohort       |9.36         |
 |DLBCL |Reddy cohort         |3.60         |
-|DLBCL |Chapuy cohort        |7.30         |
+|DLBCL |Chapuy cohort        |7.26         |
 
 ## Mutation pattern
 
@@ -27,7 +27,8 @@
 |FL    |No  |No                   |34.737          | 0.000          |
 
 
-
+> [!NOTE]
+> First described in DLBCL in 2014 by [Ohgami RS](https://pubmed.ncbi.nlm.nih.gov/24837465)
 
  ## STAT3 Hotspots
 

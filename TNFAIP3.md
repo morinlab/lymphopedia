@@ -16,8 +16,8 @@
 |BL    |Panea cohort         | 2.00        |
 |DLBCL |GAMBL genomes        | 6.69        |
 |DLBCL |Schmitz cohort       |16.60        |
-|DLBCL |Reddy cohort         | 8.10        |
-|DLBCL |Chapuy cohort        |12.40        |
+|DLBCL |Reddy cohort         | 8.11        |
+|DLBCL |Chapuy cohort        |12.39        |
 |FL    |GAMBL genomes        | 4.85        |
 
 ## Mutation pattern
@@ -29,7 +29,8 @@
 |FL    |No  |No                   |5.686           |75.953          |
 
 
-
+> [!NOTE]
+> First described in DLBCL in 2009 by [Compagno M](https://pubmed.ncbi.nlm.nih.gov/19412164). First described in FL in 2011 by [Morin RD](https://pubmed.ncbi.nlm.nih.gov/21796119)
 
  ## TNFAIP3 Hotspots
 

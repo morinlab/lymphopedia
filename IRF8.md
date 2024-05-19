@@ -4,10 +4,9 @@ IRF8 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) 
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|DLBCL |1-a   |high-confidence DLBCL gene, hypermutated            |
-|FL    |1-a   |high-confidence FL gene, hypermutated               |
-|BL    |2   |relevance in BL not firmly established|
-
+|BL    |2-a | aSHM target; Although recurrent, the relevance of mutations in BL is tenuous |
+|DLBCL |1-a | aSHM target and high-confidence DLBCL gene            |
+|FL    |1-a | aSHM target and high-confidence FL gene               |
 ## Mutation incidence
 
 |Entity|source               |frequency (%)|
@@ -16,9 +15,9 @@ IRF8 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) 
 |BL    |Thomas cohort        | 1.30        |
 |BL    |Panea cohort         | 6.90        |
 |DLBCL |GAMBL genomes        | 8.03        |
-|DLBCL |Schmitz cohort       |10.40        |
-|DLBCL |Reddy cohort         | 7.60        |
-|DLBCL |Chapuy cohort        |10.30        |
+|DLBCL |Schmitz cohort       |10.43        |
+|DLBCL |Reddy cohort         | 7.61        |
+|DLBCL |Chapuy cohort        |10.26        |
 |FL    |GAMBL genomes        |12.01        |
 
 ## Mutation pattern
@@ -36,6 +35,8 @@ IRF8 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) 
 |chr16   |85931918  |85933977|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr16%3A85931918%2D85933977)|active_promoter   |
 
 
+> [!NOTE]
+> First described in DLBCL in 2011 by [Morin RD](https://pubmed.ncbi.nlm.nih.gov/21796119). First described in FL in 2011 by [Morin RD](https://pubmed.ncbi.nlm.nih.gov/21796119)
 
  ## IRF8 Hotspots
 

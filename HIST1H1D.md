@@ -15,9 +15,9 @@
 |BL    |Thomas cohort        |4.70         |
 |BL    |Panea cohort         |4.00         |
 |DLBCL |GAMBL genomes        |6.12         |
-|DLBCL |Schmitz cohort       |5.70         |
-|DLBCL |Reddy cohort         |6.10         |
-|DLBCL |Chapuy cohort        |7.70         |
+|DLBCL |Schmitz cohort       |5.74         |
+|DLBCL |Reddy cohort         |6.11         |
+|DLBCL |Chapuy cohort        |7.69         |
 |FL    |GAMBL genomes        |3.23         |
 
 ## Mutation pattern
@@ -29,6 +29,8 @@
 |FL    |No  |No                   |0.857           |0               |
 
 
+> [!NOTE]
+> First described in DLBCL in 2013 by [Morin RD](https://pubmed.ncbi.nlm.nih.gov/23699601)
 
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/HIST1H1D_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/HIST1H1D_protein_hg38.html)

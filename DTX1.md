@@ -1,12 +1,13 @@
+# DTX1
 DTX1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus.
 
 ## Mutation tier
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|BL    |2   |relevance in BL not firmly established|
-|DLBCL |1-a   |high-confidence DLBCL gene, hypermutated           |
-|FL    |1-a   |high-confidence FL gene, hypermutated               |
+|BL    |2-a | aSHM target; Although recurrent, the relevance of mutations in BL is tenuous |
+|DLBCL |1-a | aSHM target and high-confidence DLBCL gene            |
+|FL    |1-a | aSHM target and high-confidence FL gene               |
 ## Mutation incidence
 
 |Entity|source               |frequency (%)|
@@ -15,9 +16,9 @@ DTX1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) 
 |BL    |Thomas cohort        | 5.90        |
 |BL    |Panea cohort         | 8.90        |
 |DLBCL |GAMBL genomes        |10.71        |
-|DLBCL |Schmitz cohort       |13.60        |
-|DLBCL |Reddy cohort         | 5.90        |
-|DLBCL |Chapuy cohort        |11.50        |
+|DLBCL |Schmitz cohort       |13.62        |
+|DLBCL |Reddy cohort         | 5.91        |
+|DLBCL |Chapuy cohort        |11.54        |
 |FL    |GAMBL genomes        | 5.54        |
 
 ## Mutation pattern

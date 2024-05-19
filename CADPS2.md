@@ -10,9 +10,9 @@
 |Entity|source        |frequency (%)|
 |:------:|:--------------:|:-------------:|
 |DLBCL |GAMBL genomes |3.63         |
-|DLBCL |Schmitz cohort|  NA         |
-|DLBCL |Reddy cohort  |  NA         |
-|DLBCL |Chapuy cohort |  NA         |
+|DLBCL |Schmitz cohort|6.38         |
+|DLBCL |Reddy cohort  |4.30         |
+|DLBCL |Chapuy cohort |1.71         |
 
 ## Mutation pattern
 
@@ -24,6 +24,9 @@
 
 
 > [!NOTE]
+> First described in DLBCL in 2021 by [Hübschmann D](https://pubmed.ncbi.nlm.nih.gov/33953289)
+
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CADPS2_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CADPS2_protein_hg38.html)
 
 ![image](images/proteinpaint/CADPS2_NM_017954.svg)

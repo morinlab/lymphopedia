@@ -15,9 +15,9 @@
 |BL    |Thomas cohort        | 0.80        |
 |BL    |Panea cohort         | 3.00        |
 |DLBCL |GAMBL genomes        |14.34        |
-|DLBCL |Schmitz cohort       |16.80        |
-|DLBCL |Reddy cohort         | 9.70        |
-|DLBCL |Chapuy cohort        |12.80        |
+|DLBCL |Schmitz cohort       |16.81        |
+|DLBCL |Reddy cohort         | 9.71        |
+|DLBCL |Chapuy cohort        |12.82        |
 |FL    |GAMBL genomes        |40.42        |
 
 ## Mutation pattern
@@ -29,7 +29,8 @@
 |FL    |No  |Yes                  |96.380          |1034.281        |
 
 
-
+> [!NOTE]
+> First described in DLBCL in 2010 by [Cheung KJ](https://pubmed.ncbi.nlm.nih.gov/20884631). First described in FL in 2011 by [Morin RD](https://pubmed.ncbi.nlm.nih.gov/21796119)
 
  ## TNFRSF14 Hotspots
 

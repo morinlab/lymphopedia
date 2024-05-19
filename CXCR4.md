@@ -1,12 +1,13 @@
+# CXCR4
 CXCR4 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus.
 
 ## Mutation tier
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|BL    |2-a   |relevance in BL not firmly established, hypermutated|
-|DLBCL |1-a   |high-confidence DLBCL gene, hypermutated            |
-|FL    |2-a   |relevance in FL not firmly established, hypermutated|
+|BL    |2-a | aSHM target; Although recurrent, the relevance of mutations in BL is tenuous |
+|DLBCL |1-a | aSHM target and high-confidence DLBCL gene            |
+|FL    |2-a | aSHM target; Although recurrent, the relevance of mutations in FL is tenuous |
 ## Mutation incidence
 
 |Entity|source               |frequency (%)|
@@ -15,9 +16,9 @@ CXCR4 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm)
 |BL    |Thomas cohort        |2.10         |
 |BL    |Panea cohort         |2.00         |
 |DLBCL |GAMBL genomes        |2.87         |
-|DLBCL |Schmitz cohort       |2.60         |
+|DLBCL |Schmitz cohort       |2.55         |
 |DLBCL |Reddy cohort         |1.50         |
-|DLBCL |Chapuy cohort        |2.60         |
+|DLBCL |Chapuy cohort        |2.56         |
 |FL    |GAMBL genomes        |3.46         |
 
 ## Mutation pattern

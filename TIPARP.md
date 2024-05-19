@@ -10,7 +10,7 @@
 |Entity|source        |frequency (%)|
 |:------:|:--------------:|:-------------:|
 |DLBCL |GAMBL genomes |0.19         |
-|DLBCL |Schmitz cohort|1.30         |
+|DLBCL |Schmitz cohort|1.28         |
 |DLBCL |Reddy cohort  |0.90         |
 |DLBCL |Chapuy cohort |  NA         |
 
@@ -25,9 +25,6 @@
 
 > [!NOTE]
 > First described in DLBCL in 2017 by [Reddy A](https://pubmed.ncbi.nlm.nih.gov/28985567)
-
-> [!WARNING]
-> Mutations in this gene were reported to be inflated in the original results according to [Dreval K](https://www.biorxiv.org/content/10.1101/2023.11.21.567983v1)
 
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TIPARP_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TIPARP_protein_hg38.html)

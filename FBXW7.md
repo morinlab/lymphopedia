@@ -9,10 +9,10 @@
 
 |Entity|source        |frequency (%)|
 |:------:|:--------------:|:-------------:|
-|DLBCL |GAMBL genomes |2.1          |
-|DLBCL |Schmitz cohort|3.0          |
-|DLBCL |Reddy cohort  |1.3          |
-|DLBCL |Chapuy cohort |1.7          |
+|DLBCL |GAMBL genomes |2.10         |
+|DLBCL |Schmitz cohort|2.98         |
+|DLBCL |Reddy cohort  |1.30         |
+|DLBCL |Chapuy cohort |1.71         |
 
 ## Mutation pattern
 
@@ -23,13 +23,6 @@
 |FL    |No  |No                   |2.987           |22.593          |
 
 
-
-
- ## FBXW7 Hotspots
-
-| Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
- | :---:| :---: | :--: | :---: |
-| chr4 | 153250907 | T>G | T385P |
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/FBXW7_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/FBXW7_protein_hg38.html)
 

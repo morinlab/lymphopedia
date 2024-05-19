@@ -24,13 +24,6 @@
 > First described in FL in 2023 by [Kalmbach S](https://pubmed.ncbi.nlm.nih.gov/37563306)
 
 
- ## KIR3DL1 Hotspots
-
-| Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
- | :---:| :---: | :--: | :---: |
-| chr19 | 55331362 | C>T | P184S |
-| chr19 | 55331372 | T>G | L187R |
-
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/KIR3DL1_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/KIR3DL1_protein_hg38.html)
 
 ![image](images/proteinpaint/KIR3DL1_NM_013289.svg)

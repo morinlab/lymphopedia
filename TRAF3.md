@@ -10,9 +10,9 @@
 |Entity|source        |frequency (%)|
 |:------:|:--------------:|:-------------:|
 |DLBCL |GAMBL genomes |0.96         |
-|DLBCL |Schmitz cohort|1.50         |
+|DLBCL |Schmitz cohort|1.49         |
 |DLBCL |Reddy cohort  |0.90         |
-|DLBCL |Chapuy cohort |0.40         |
+|DLBCL |Chapuy cohort |0.43         |
 
 ## Mutation pattern
 
@@ -23,6 +23,8 @@
 |FL    |No  |No                   |0.000           |0               |
 
 
+> [!NOTE]
+> First described in DLBCL in 2011 by [Pasqualucci L](https://pubmed.ncbi.nlm.nih.gov/21804550)
 
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TRAF3_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TRAF3_protein_hg38.html)

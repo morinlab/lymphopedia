@@ -4,15 +4,15 @@ ITPKB is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm)
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
-|DLBCL |1-a   |high-confidence DLBCL gene, hypermutated|
-|FL    |1-a   |high-confidence FL gene, hypermutated   |
+|DLBCL |1-a | aSHM target and high-confidence DLBCL gene|
+|FL    |1-a | aSHM target and high-confidence FL gene   |
 ## Mutation incidence
 
 |Entity|source        |frequency (%)|
 |:------:|:--------------:|:-------------:|
 |DLBCL |GAMBL genomes |6.69         |
-|DLBCL |Schmitz cohort|6.80         |
-|DLBCL |Reddy cohort  |6.70         |
+|DLBCL |Schmitz cohort|6.81         |
+|DLBCL |Reddy cohort  |6.71         |
 |DLBCL |Chapuy cohort |9.40         |
 |FL    |GAMBL genomes |3.23         |
 

@@ -10,9 +10,9 @@
 |Entity|source        |frequency (%)|
 |:------:|:--------------:|:-------------:|
 |DLBCL |GAMBL genomes |3.25         |
-|DLBCL |Schmitz cohort|8.10         |
+|DLBCL |Schmitz cohort|8.09         |
 |DLBCL |Reddy cohort  |3.20         |
-|DLBCL |Chapuy cohort |4.30         |
+|DLBCL |Chapuy cohort |4.27         |
 
 ## Mutation pattern
 
@@ -23,6 +23,8 @@
 |FL    |No  |No                   |0.649           |12.057          |
 
 
+> [!NOTE]
+> First described in DLBCL in 2011 by [Pasqualucci L](https://pubmed.ncbi.nlm.nih.gov/21804550)
 
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MYOM2_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MYOM2_protein_hg38.html)

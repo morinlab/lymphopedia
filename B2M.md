@@ -3,11 +3,12 @@ The B2M (β2-microglobulin) gene plays a crucial role in the function of the maj
 
 ## Mutation tier
 
-|Entity|Tier|Description                           |
-|:------:|:----:|--------------------------------------|
-|BL    |2   |relevance in BL not firmly established|
-|DLBCL |1   |high-confidence DLBCL gene            |
-|FL    |1   |high-confidence FL gene               |
+|Entity|Tier|Description                            |
+|:------:|:----:|---------------------------------------|
+|BL    |2   |relevance in BL not firmly established |
+|DLBCL |1   |high-confidence DLBCL gene             |
+|FL    |1   |high-confidence FL gene                |
+|MCL   |2   |relevance in MCL not firmly established|
 ## Mutation incidence
 
 |Entity|source               |frequency (%)|
@@ -16,10 +17,11 @@ The B2M (β2-microglobulin) gene plays a crucial role in the function of the maj
 |BL    |Thomas cohort        | 2.50        |
 |BL    |Panea cohort         | 3.00        |
 |DLBCL |GAMBL genomes        |15.11        |
-|DLBCL |Schmitz cohort       |15.50        |
-|DLBCL |Reddy cohort         |12.10        |
-|DLBCL |Chapuy cohort        |12.00        |
+|DLBCL |Schmitz cohort       |15.53        |
+|DLBCL |Reddy cohort         |12.11        |
+|DLBCL |Chapuy cohort        |11.97        |
 |FL    |GAMBL genomes        | 8.55        |
+|MCL   |GAMBL genomes        | 1.42        |
 
 ## Mutation pattern
 
@@ -30,7 +32,8 @@ The B2M (β2-microglobulin) gene plays a crucial role in the function of the maj
 |FL    |No  |Yes                  |54.190          |326.834         |
 
 
-
+> [!NOTE]
+> First described in DLBCL in 2011 by [Morin RD](https://pubmed.ncbi.nlm.nih.gov/21796119). First described in FL in 2011 by [Morin RD](https://pubmed.ncbi.nlm.nih.gov/21796119). First described in MCL in 2020 by [Pararajalingam P](https://pubmed.ncbi.nlm.nih.gov/32160292)
 
  ## B2M Hotspots
 

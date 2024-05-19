@@ -10,9 +10,9 @@
 |Entity|source        |frequency (%)|
 |:------:|:--------------:|:-------------:|
 |DLBCL |GAMBL genomes | 4.78        |
-|DLBCL |Schmitz cohort| 9.10        |
-|DLBCL |Reddy cohort  | 5.80        |
-|DLBCL |Chapuy cohort |10.70        |
+|DLBCL |Schmitz cohort| 9.15        |
+|DLBCL |Reddy cohort  | 5.81        |
+|DLBCL |Chapuy cohort |10.68        |
 
 ## Mutation pattern
 
@@ -23,6 +23,8 @@
 |FL    |No  |No                   |4.371           |0.000           |
 
 
+> [!NOTE]
+> First described in DLBCL in 2013 by [Morin RD](https://pubmed.ncbi.nlm.nih.gov/23699601)
 
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MPEG1_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MPEG1_protein_hg38.html)

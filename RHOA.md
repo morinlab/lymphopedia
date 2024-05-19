@@ -14,9 +14,9 @@
 |BL    |Thomas cohort        | 8.10        |
 |BL    |Panea cohort         |12.90        |
 |DLBCL |GAMBL genomes        | 3.06        |
-|DLBCL |Schmitz cohort       | 3.60        |
+|DLBCL |Schmitz cohort       | 3.62        |
 |DLBCL |Reddy cohort         | 3.30        |
-|DLBCL |Chapuy cohort        | 5.10        |
+|DLBCL |Chapuy cohort        | 5.13        |
 
 ## Mutation pattern
 
@@ -27,7 +27,8 @@
 |FL    |No  |No                   |31.528          |0               |
 
 
-
+> [!NOTE]
+> First described in DLBCL in 2001 by [Pasqualucci L](https://pubmed.ncbi.nlm.nih.gov/11460166)
 
  ## RHOA Hotspots
 

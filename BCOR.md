@@ -5,14 +5,16 @@
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
 |DLBCL |1   |high-confidence DLBCL gene|
+|MCL   |1   |high-confidence MCL gene  |
 ## Mutation incidence
 
 |Entity|source        |frequency (%)|
 |:------:|:--------------:|:-------------:|
 |DLBCL |GAMBL genomes |3.82         |
-|DLBCL |Schmitz cohort|7.70         |
+|DLBCL |Schmitz cohort|7.66         |
 |DLBCL |Reddy cohort  |2.50         |
-|DLBCL |Chapuy cohort |2.60         |
+|DLBCL |Chapuy cohort |2.56         |
+|MCL   |GAMBL genomes |3.79         |
 
 ## Mutation pattern
 
@@ -23,6 +25,8 @@
 |FL    |No  |No                   |1.743           |0               |
 
 
+> [!NOTE]
+> First described in MCL in 2020 by [Nadeu F](https://pubmed.ncbi.nlm.nih.gov/32584970)
 
 
  ## BCOR Hotspots

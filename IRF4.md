@@ -4,17 +4,16 @@ IRF4 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) 
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
-|DLBCL |1-a   |high-confidence DLBCL gene, hypermutated|
-|FL    |1-a   |high-confidence FL gene, hypermutated   |
-
+|DLBCL |1-a | aSHM target and high-confidence DLBCL gene|
+|FL    |1-a | aSHM target and high-confidence FL gene   |
 ## Mutation incidence
 
 |Entity|source        |frequency (%)|
 |:------:|:--------------:|:-------------:|
 |DLBCL |GAMBL genomes |4.40         |
-|DLBCL |Schmitz cohort|7.00         |
+|DLBCL |Schmitz cohort|7.02         |
 |DLBCL |Reddy cohort  |4.40         |
-|DLBCL |Chapuy cohort |2.10         |
+|DLBCL |Chapuy cohort |2.14         |
 |FL    |GAMBL genomes |1.15         |
 
 ## Mutation pattern

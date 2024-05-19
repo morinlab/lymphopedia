@@ -14,9 +14,9 @@
 |BL    |Thomas cohort        | 0.80        |
 |BL    |Panea cohort         | 5.90        |
 |DLBCL |GAMBL genomes        | 6.88        |
-|DLBCL |Schmitz cohort       |10.20        |
-|DLBCL |Reddy cohort         | 5.40        |
-|DLBCL |Chapuy cohort        | 8.50        |
+|DLBCL |Schmitz cohort       |10.21        |
+|DLBCL |Reddy cohort         | 5.41        |
+|DLBCL |Chapuy cohort        | 8.55        |
 
 ## Mutation pattern
 
@@ -28,6 +28,8 @@
 
 
 
+> [!NOTE]
+> First described in DLBCL in 2013 by [Morin RD](https://pubmed.ncbi.nlm.nih.gov/23699601)
 
  ## PRDM1 Hotspots
 

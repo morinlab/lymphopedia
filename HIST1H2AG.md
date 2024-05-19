@@ -2,10 +2,11 @@
 
 ## Mutation tier
 
-|Entity|Tier|Description                           |
-|:------:|:----:|--------------------------------------|
-|BL    |2   |relevance in BL not firmly established|
-|FL    |1   |high-confidence FL gene               |
+|Entity|Tier|Description                              |
+|:------:|:----:|-----------------------------------------|
+|BL    |2   |relevance in BL not firmly established   |
+|DLBCL |2   |relevance in DLBCL not firmly established|
+|FL    |1   |high-confidence FL gene                  |
 ## Mutation incidence
 
 |Entity|source               |frequency (%)|
@@ -13,6 +14,10 @@
 |BL    |GAMBL genomes+capture|1.39         |
 |BL    |Thomas cohort        |2.50         |
 |BL    |Panea cohort         |1.00         |
+|DLBCL |GAMBL genomes        |3.44         |
+|DLBCL |Schmitz cohort       |3.62         |
+|DLBCL |Reddy cohort         |1.90         |
+|DLBCL |Chapuy cohort        |2.99         |
 |FL    |GAMBL genomes        |2.08         |
 
 ## Mutation pattern
@@ -25,8 +30,7 @@
 
 
 > [!NOTE]
-> First described in BL in 2019 by [Panea RI](https://pubmed.ncbi.nlm.nih.gov/31558468)
-
+> First described in BL in 2019 by [Panea RI](https://pubmed.ncbi.nlm.nih.gov/31558468). First described in DLBCL in 2013 by [Morin RD](https://pubmed.ncbi.nlm.nih.gov/23699601)
 
  ## HIST1H2AG Hotspots
 

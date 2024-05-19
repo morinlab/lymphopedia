@@ -10,9 +10,9 @@
 |Entity|source        |frequency (%)|
 |:------:|:--------------:|:-------------:|
 |DLBCL |GAMBL genomes |1.91         |
-|DLBCL |Schmitz cohort|  NA         |
-|DLBCL |Reddy cohort  |  NA         |
-|DLBCL |Chapuy cohort |  NA         |
+|DLBCL |Schmitz cohort|3.62         |
+|DLBCL |Reddy cohort  |1.90         |
+|DLBCL |Chapuy cohort |2.56         |
 
 ## Mutation pattern
 
@@ -24,6 +24,9 @@
 
 
 > [!NOTE]
+> First described in DLBCL in 2021 by [Hübschmann D](https://pubmed.ncbi.nlm.nih.gov/33953289)
+
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/GAK_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/GAK_protein_hg38.html)
 
 ![image](images/proteinpaint/GAK_NM_005255.svg)

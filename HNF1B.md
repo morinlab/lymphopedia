@@ -10,9 +10,9 @@
 |Entity|source        |frequency (%)|
 |:------:|:--------------:|:-------------:|
 |DLBCL |GAMBL genomes |0.19         |
-|DLBCL |Schmitz cohort|2.60         |
+|DLBCL |Schmitz cohort|2.55         |
 |DLBCL |Reddy cohort  |0.30         |
-|DLBCL |Chapuy cohort |0.90         |
+|DLBCL |Chapuy cohort |0.85         |
 
 ## Mutation pattern
 
@@ -24,7 +24,7 @@
 
 
 > [!NOTE]
-> First described in DLBCL in 2018 by [Schmitz R](https://pubmed.ncbi.nlm.nih.gov/29641966)
+> First described in DLBCL in 2011 by [Pasqualucci L](https://pubmed.ncbi.nlm.nih.gov/21804550)
 
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/HNF1B_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/HNF1B_protein_hg38.html)

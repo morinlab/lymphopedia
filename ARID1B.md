@@ -5,14 +5,16 @@
 |Entity|Tier|Description                              |
 |:------:|:----:|-----------------------------------------|
 |DLBCL |2   |relevance in DLBCL not firmly established|
+|MCL   |2   |relevance in MCL not firmly established  |
 ## Mutation incidence
 
 |Entity|source        |frequency (%)|
 |:------:|:--------------:|:-------------:|
 |DLBCL |GAMBL genomes |5.16         |
-|DLBCL |Schmitz cohort|6.00         |
+|DLBCL |Schmitz cohort|5.96         |
 |DLBCL |Reddy cohort  |3.30         |
-|DLBCL |Chapuy cohort |2.10         |
+|DLBCL |Chapuy cohort |2.14         |
+|MCL   |GAMBL genomes |1.90         |
 
 ## Mutation pattern
 

@@ -5,14 +5,16 @@
 |Entity|Tier|Description                              |
 |:------:|:----:|-----------------------------------------|
 |DLBCL |2   |relevance in DLBCL not firmly established|
+|MCL   |1   |high-confidence MCL gene                 |
 ## Mutation incidence
 
 |Entity|source        |frequency (%)|
 |:------:|:--------------:|:-------------:|
 |DLBCL |GAMBL genomes |2.87         |
-|DLBCL |Schmitz cohort|2.80         |
+|DLBCL |Schmitz cohort|2.77         |
 |DLBCL |Reddy cohort  |1.50         |
-|DLBCL |Chapuy cohort |3.00         |
+|DLBCL |Chapuy cohort |2.99         |
+|MCL   |GAMBL genomes |0.00         |
 
 ## Mutation pattern
 
@@ -24,7 +26,7 @@
 
 
 > [!NOTE]
-> First described in DLBCL in 2018 by [Chapuy B](https://pubmed.ncbi.nlm.nih.gov/29713087)
+> First described in DLBCL in 2018 by [Chapuy B](https://pubmed.ncbi.nlm.nih.gov/29713087). First described in MCL in 2013 by [Beà S](https://pubmed.ncbi.nlm.nih.gov/24145436)
 
 
  ## TLR2 Hotspots

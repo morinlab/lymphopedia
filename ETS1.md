@@ -4,9 +4,8 @@ ETS1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) 
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|DLBCL |1-a   |high-confidence DLBCL gene, hypermutated            |
-|BL    |2   |relevance in BL not firmly established|
-
+|BL    |2-a | aSHM target; Although recurrent, the relevance of mutations in BL is tenuous |
+|DLBCL |1-a | aSHM target and high-confidence DLBCL gene            |
 ## Mutation incidence
 
 |Entity|source               |frequency (%)|
@@ -15,9 +14,9 @@ ETS1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) 
 |BL    |Thomas cohort        | 7.60        |
 |BL    |Panea cohort         |11.90        |
 |DLBCL |GAMBL genomes        | 4.59        |
-|DLBCL |Schmitz cohort       | 7.90        |
+|DLBCL |Schmitz cohort       | 7.87        |
 |DLBCL |Reddy cohort         | 4.40        |
-|DLBCL |Chapuy cohort        | 5.60        |
+|DLBCL |Chapuy cohort        | 5.56        |
 
 ## Mutation pattern
 

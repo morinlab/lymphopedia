@@ -23,7 +23,6 @@
 
 
 
-
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/SEPT10_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/SEPT10_protein_hg38.html)
 
 ![image](images/proteinpaint/SEPT10_NM_144710.svg)

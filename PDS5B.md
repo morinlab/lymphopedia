@@ -2,14 +2,19 @@
 
 ## Mutation tier
 
-|Entity|Tier|Description                           |
-|:------:|:----:|--------------------------------------|
-|FL    |2   |relevance in FL not firmly established|
+|Entity|Tier|Description                              |
+|:------:|:----:|-----------------------------------------|
+|DLBCL |2   |relevance in DLBCL not firmly established|
+|FL    |2   |relevance in FL not firmly established   |
 ## Mutation incidence
 
-|Entity|source       |frequency (%)|
-|:------:|:-------------:|:-------------:|
-|FL    |GAMBL genomes|1.62         |
+|Entity|source        |frequency (%)|
+|:------:|:--------------:|:-------------:|
+|DLBCL |GAMBL genomes |3.25         |
+|DLBCL |Schmitz cohort|4.47         |
+|DLBCL |Reddy cohort  |1.80         |
+|DLBCL |Chapuy cohort |2.14         |
+|FL    |GAMBL genomes |1.62         |
 
 ## Mutation pattern
 
@@ -21,6 +26,9 @@
 
 
 > [!NOTE]
+> First described in DLBCL in 2013 by [Morin RD](https://pubmed.ncbi.nlm.nih.gov/23699601). First described in FL in 2021 by [Hübschmann D](https://pubmed.ncbi.nlm.nih.gov/33953289)
+
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PDS5B_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PDS5B_protein_hg38.html)
 
 ![image](images/proteinpaint/PDS5B_NM_015032.svg)

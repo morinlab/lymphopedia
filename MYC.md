@@ -4,10 +4,9 @@ MYC is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) a
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|BL    |1-a   |high-confidence BL gene               |
-|DLBCL |1-a   |high-confidence DLBCL gene            |
-|FL    |2   |relevance of missense mutations in FL not firmly established|
-
+|BL    |1-a | aSHM target and high-confidence BL gene               |
+|DLBCL |1-a | aSHM target and high-confidence DLBCL gene            |
+|FL    |2-a | aSHM target; Although recurrent, the relevance of mutations in FL is tenuous |
 ## Mutation incidence
 
 |Entity|source               |frequency (%)|
@@ -16,9 +15,9 @@ MYC is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) a
 |BL    |Thomas cohort        |60.20        |
 |BL    |Panea cohort         |49.50        |
 |DLBCL |GAMBL genomes        |10.90        |
-|DLBCL |Schmitz cohort       | 5.30        |
-|DLBCL |Reddy cohort         | 6.20        |
-|DLBCL |Chapuy cohort        | 6.40        |
+|DLBCL |Schmitz cohort       | 5.32        |
+|DLBCL |Reddy cohort         | 6.21        |
+|DLBCL |Chapuy cohort        | 6.41        |
 |FL    |GAMBL genomes        | 0.92        |
 
 ## Mutation pattern

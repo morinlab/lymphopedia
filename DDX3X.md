@@ -4,9 +4,9 @@
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|BL    |1   |high-confidence BL gene               |
-|DLBCL |1   |high-confidence DLBCL gene            |
-|FL    |2   |relevance in FL not firmly established|
+|BL    |1-a | aSHM target and high-confidence BL gene               |
+|DLBCL |1-a | aSHM target and high-confidence DLBCL gene            |
+|FL    |2-a | aSHM target; Although recurrent, the relevance of mutations in FL is tenuous |
 ## Mutation incidence
 
 |Entity|source               |frequency (%)|
@@ -15,9 +15,9 @@
 |BL    |Thomas cohort        |48.70        |
 |BL    |Panea cohort         |39.60        |
 |DLBCL |GAMBL genomes        | 8.80        |
-|DLBCL |Schmitz cohort       | 4.70        |
+|DLBCL |Schmitz cohort       | 4.68        |
 |DLBCL |Reddy cohort         | 4.50        |
-|DLBCL |Chapuy cohort        | 5.60        |
+|DLBCL |Chapuy cohort        | 5.56        |
 |FL    |GAMBL genomes        | 2.54        |
 
 ## Mutation pattern

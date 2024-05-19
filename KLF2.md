@@ -4,17 +4,16 @@ KLF2 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) 
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
-|DLBCL |1-a   |high-confidence DLBCL gene, hypermutated|
-|FL    |1-a   |high-confidence FL gene, hypermutated   |
-
+|DLBCL |1-a | aSHM target and high-confidence DLBCL gene|
+|FL    |1-a | aSHM target and high-confidence FL gene   |
 ## Mutation incidence
 
 |Entity|source        |frequency (%)|
 |:------:|:--------------:|:-------------:|
 |DLBCL |GAMBL genomes |8.60         |
-|DLBCL |Schmitz cohort|7.00         |
+|DLBCL |Schmitz cohort|7.02         |
 |DLBCL |Reddy cohort  |2.10         |
-|DLBCL |Chapuy cohort |3.00         |
+|DLBCL |Chapuy cohort |2.99         |
 |FL    |GAMBL genomes |2.31         |
 
 ## Mutation pattern
@@ -32,7 +31,7 @@ KLF2 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) 
 |chr19   |16434978  |16439011|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr19%3A16434978%2D16439011)|intron            |
 
 > [!NOTE]
-> First described in DLBCL in 2018 by [Schmitz R](https://pubmed.ncbi.nlm.nih.gov/29641966)
+> First described in DLBCL in 2011 by [Pasqualucci L](https://pubmed.ncbi.nlm.nih.gov/21804550)
 
 
  ## KLF2 Hotspots

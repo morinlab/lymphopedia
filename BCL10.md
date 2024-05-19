@@ -15,9 +15,9 @@ BCL10 (B-cell lymphoma/leukemia 10) is a gene involved in apoptosis signaling an
 |BL    |Thomas cohort        |0.40         |
 |BL    |Panea cohort         |  NA         |
 |DLBCL |GAMBL genomes        |3.82         |
-|DLBCL |Schmitz cohort       |7.70         |
+|DLBCL |Schmitz cohort       |7.66         |
 |DLBCL |Reddy cohort         |3.10         |
-|DLBCL |Chapuy cohort        |6.40         |
+|DLBCL |Chapuy cohort        |6.41         |
 |FL    |GAMBL genomes        |2.31         |
 
 ## Mutation pattern
@@ -29,7 +29,8 @@ BCL10 (B-cell lymphoma/leukemia 10) is a gene involved in apoptosis signaling an
 |FL    |No  |Yes                  | 0.000          |223.832         |
 
 
-
+> [!NOTE]
+> First described in DLBCL in 2011 by [Morin RD](https://pubmed.ncbi.nlm.nih.gov/21796119). First described in FL in 2023 by [Russler-Germain DA](https://pubmed.ncbi.nlm.nih.gov/37493986)
 
  ## BCL10 Hotspots
 

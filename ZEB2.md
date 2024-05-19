@@ -4,15 +4,15 @@
 
 |Entity|Tier|Description                              |
 |:------:|:----:|-----------------------------------------|
-|DLBCL |1   |high-confidence DLBCL gene|
+|DLBCL |2   |relevance in DLBCL not firmly established|
 ## Mutation incidence
 
 |Entity|source        |frequency (%)|
 |:------:|:--------------:|:-------------:|
 |DLBCL |GAMBL genomes |3.82         |
-|DLBCL |Schmitz cohort|6.80         |
+|DLBCL |Schmitz cohort|6.81         |
 |DLBCL |Reddy cohort  |3.70         |
-|DLBCL |Chapuy cohort |6.00         |
+|DLBCL |Chapuy cohort |5.98         |
 
 ## Mutation pattern
 

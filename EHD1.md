@@ -23,7 +23,6 @@
 
 
 
-
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/EHD1_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/EHD1_protein_hg38.html)
 
 ![image](images/proteinpaint/EHD1_NM_006795.svg)

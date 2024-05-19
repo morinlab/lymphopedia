@@ -5,14 +5,16 @@
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
 |DLBCL |1   |high-confidence DLBCL gene|
+|MCL   |1   |high-confidence MCL gene  |
 ## Mutation incidence
 
 |Entity|source        |frequency (%)|
 |:------:|:--------------:|:-------------:|
-|DLBCL |GAMBL genomes |2.1          |
-|DLBCL |Schmitz cohort|3.2          |
-|DLBCL |Reddy cohort  |1.4          |
-|DLBCL |Chapuy cohort |3.4          |
+|DLBCL |GAMBL genomes |2.10         |
+|DLBCL |Schmitz cohort|3.19         |
+|DLBCL |Reddy cohort  |1.40         |
+|DLBCL |Chapuy cohort |3.42         |
+|MCL   |GAMBL genomes |3.79         |
 
 ## Mutation pattern
 
@@ -23,7 +25,8 @@
 |FL    |No  |No                   |0.000           | 0.000          |
 
 
-
+> [!NOTE]
+> First described in MCL in 2020 by [Pararajalingam P](https://pubmed.ncbi.nlm.nih.gov/32160292)
 
  ## HNRNPH1 Hotspots
 

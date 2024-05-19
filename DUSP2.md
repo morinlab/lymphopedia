@@ -1,19 +1,20 @@
+# DUSP2
 DUSP2 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus.
 
 ## Mutation tier
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|DLBCL |1-a   |high-confidence DLBCL gene, hypermutated            |
-|FL    |2-a   |relevance in FL not firmly established, hypermutated|
+|DLBCL |1-a | aSHM target and high-confidence DLBCL gene            |
+|FL    |2-a | aSHM target; Although recurrent, the relevance of mutations in FL is tenuous |
 ## Mutation incidence
 
 |Entity|source        |frequency (%)|
 |:------:|:--------------:|:-------------:|
 |DLBCL |GAMBL genomes |10.13        |
-|DLBCL |Schmitz cohort|12.60        |
-|DLBCL |Reddy cohort  | 9.70        |
-|DLBCL |Chapuy cohort | 4.30        |
+|DLBCL |Schmitz cohort|12.55        |
+|DLBCL |Reddy cohort  | 9.71        |
+|DLBCL |Chapuy cohort | 4.27        |
 |FL    |GAMBL genomes | 2.31        |
 
 ## Mutation pattern

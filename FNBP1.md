@@ -1,0 +1,38 @@
+# [FNBP1]
+
+## Mutation tier
+
+|Entity|Tier|Description                              |
+|:------:|:----:|-----------------------------------------|
+|DLBCL |2-a | aSHM target; Although recurrent, the relevance of mutations in DLBCL is tenuous |
+## Mutation incidence
+
+|Entity|source        |frequency (%)|
+|:------:|:--------------:|:-------------:|
+|DLBCL |GAMBL genomes |0.96         |
+|DLBCL |Schmitz cohort|2.34         |
+|DLBCL |Reddy cohort  |1.30         |
+|DLBCL |Chapuy cohort |0.85         |
+
+## Mutation pattern
+
+|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
+|:------:|:----:|:---------------------:|:----------------:|:----------------:|
+|BL    |Yes |No                   |2.768           |0               |
+|DLBCL |Yes |No                   |0.000           |0               |
+|FL    |Yes |No                   |0.000           |0               |
+
+## aSHM regions
+
+|chr_name|hg19_start|hg19_end |region                                                                                     |regulatory_comment|
+|:--------:|:----------:|:---------:|:-------------------------------------------------------------------------------------------:|:------------------:|
+|chr9    |132800698 |132805491|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr9%3A132800698%2D132805491)|NA                |
+
+
+View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/FNBP1_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/FNBP1_protein_hg38.html)
+
+![image](images/proteinpaint/FNBP1_NM_015033.svg)
+
+View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/FNBP1.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/FNBP1_hg38.html)
+
+![image](images/proteinpaint/FNBP1.svg)

@@ -1,13 +1,12 @@
-SGK1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus.
+# [SGK1]
 
 ## Mutation tier
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|DLBCL |1-a   |high-confidence DLBCL gene, hypermutated            |
-|FL    |1-a   |high-confidence FL gene, hypermutated                |
-|BL    |2   |relevance in BL not firmly established|
-
+|BL    |2-a | aSHM target; Although recurrent, the relevance of mutations in BL is tenuous |
+|DLBCL |1-a | aSHM target and high-confidence DLBCL gene            |
+|FL    |1-a | aSHM target and high-confidence FL gene               |
 ## Mutation incidence
 
 |Entity|source               |frequency (%)|
@@ -16,9 +15,9 @@ SGK1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) 
 |BL    |Thomas cohort        | 2.50        |
 |BL    |Panea cohort         | 4.00        |
 |DLBCL |GAMBL genomes        |11.09        |
-|DLBCL |Schmitz cohort       |10.60        |
-|DLBCL |Reddy cohort         |11.20        |
-|DLBCL |Chapuy cohort        |12.80        |
+|DLBCL |Schmitz cohort       |10.64        |
+|DLBCL |Reddy cohort         |11.21        |
+|DLBCL |Chapuy cohort        |12.82        |
 |FL    |GAMBL genomes        | 6.00        |
 
 ## Mutation pattern
@@ -35,29 +34,9 @@ SGK1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) 
 |:--------:|:----------:|:---------:|:---------------------------------------------------------------------------------------------:|:------------------:|
 |chr6    |134487960 |134499859|[TSS-1](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr6%3A134487960%2D134499859)|active_promoter   |
 
+> [!NOTE]
+> First described in DLBCL in 2011 by [Morin RD](https://pubmed.ncbi.nlm.nih.gov/21796119). First described in FL in 2011 by [Morin RD](https://pubmed.ncbi.nlm.nih.gov/21796119)
 
-
- ## SGK1 Hotspots
-
-| Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
- | :---:| :---: | :--: | :---: |
-| chr6 | 134495730 | G>T | NA |
-| chr6 | 134495730 | G>C | NA |
-| chr6 | 134495729 | G>C | NA |
-| chr6 | 134495729 | G>A | NA |
-| chr6 | 134495724 | G>C | A121G |
-| chr6 | 134495724 | G>A | A121V |
-| chr6 | 134495717 | C>A | M123I |
-| chr6 | 134495716 | T>C | K124E |
-| chr6 | 134495715 | T>A | K124M |
-| chr6 | 134495713 | G>A | Q125* |
-| chr6 | 134495712 | T>A | Q125L |
-| chr6 | 134495711 | C>G | Q125H |
-| chr6 | 134495706 | C>T | R127K |
-| chr6 | 134495706 | C>A | R127M |
-| chr6 | 134495703 | A>T | M128K |
-| chr6 | 134495700 | CC>TG | G129H |
-| chr6 | 134495700 | CC>TA | G129Y |
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/SGK1_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/SGK1_protein_hg38.html)
 

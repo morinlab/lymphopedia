@@ -15,9 +15,9 @@
 |BL    |Thomas cohort        | 9.70        |
 |BL    |Panea cohort         | 8.90        |
 |DLBCL |GAMBL genomes        | 5.35        |
-|DLBCL |Schmitz cohort       | 6.40        |
+|DLBCL |Schmitz cohort       | 6.38        |
 |DLBCL |Reddy cohort         | 1.90        |
-|DLBCL |Chapuy cohort        | 3.80        |
+|DLBCL |Chapuy cohort        | 3.85        |
 |FL    |GAMBL genomes        | 4.16        |
 
 ## Mutation pattern
@@ -30,7 +30,7 @@
 
 
 > [!NOTE]
-> First described in BL in 2019 by [Grande BM](https://pubmed.ncbi.nlm.nih.gov/30617194)
+> First described in BL in 2019 by [Grande BM](https://pubmed.ncbi.nlm.nih.gov/30617194). First described in DLBCL in 2013 by [Morin RD](https://pubmed.ncbi.nlm.nih.gov/23699601)
 
 
  ## GNAI2 Hotspots

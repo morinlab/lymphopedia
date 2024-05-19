@@ -15,9 +15,9 @@
 |BL    |Thomas cohort        | 0.40        |
 |BL    |Panea cohort         | 1.00        |
 |DLBCL |GAMBL genomes        |13.38        |
-|DLBCL |Schmitz cohort       |26.40        |
-|DLBCL |Reddy cohort         |15.20        |
-|DLBCL |Chapuy cohort        |21.40        |
+|DLBCL |Schmitz cohort       |26.38        |
+|DLBCL |Reddy cohort         |15.12        |
+|DLBCL |Chapuy cohort        |21.37        |
 |FL    |GAMBL genomes        | 1.85        |
 
 ## Mutation pattern
@@ -29,7 +29,8 @@
 |FL    |No  |No                   |17.159          |0               |
 
 
-
+> [!NOTE]
+> First described in DLBCL in 2011 by [Ngo VN](https://pubmed.ncbi.nlm.nih.gov/21179087)
 
  ## MYD88 Hotspots
 

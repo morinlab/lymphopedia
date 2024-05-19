@@ -4,9 +4,9 @@ BTG2 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) 
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|BL    |2   |relevance in BL not firmly established|
-|DLBCL |1-a   |high-confidence DLBCL gene, hypermutated            |
-|FL    |1-a   |high-confidence FL gene, hypermutated               |
+|BL    |2-a | aSHM target; Although recurrent, the relevance of mutations in BL is tenuous |
+|DLBCL |1-a | aSHM target and high-confidence DLBCL gene            |
+|FL    |1-a | aSHM target and high-confidence FL gene               |
 ## Mutation incidence
 
 |Entity|source               |frequency (%)|
@@ -15,9 +15,9 @@ BTG2 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) 
 |BL    |Thomas cohort        | 4.20        |
 |BL    |Panea cohort         | 9.90        |
 |DLBCL |GAMBL genomes        |13.38        |
-|DLBCL |Schmitz cohort       |17.20        |
-|DLBCL |Reddy cohort         | 9.20        |
-|DLBCL |Chapuy cohort        | 6.00        |
+|DLBCL |Schmitz cohort       |17.23        |
+|DLBCL |Reddy cohort         | 9.21        |
+|DLBCL |Chapuy cohort        | 5.98        |
 |FL    |GAMBL genomes        | 4.39        |
 
 ## Mutation pattern

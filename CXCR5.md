@@ -1,18 +1,19 @@
+# CXCR5
 CXCR5 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus.
 
 ## Mutation tier
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
-|DLBCL |1-a  |high-confidence DLBCL gene, hypermutated|
+|DLBCL |1-a | aSHM target and high-confidence DLBCL gene|
 ## Mutation incidence
 
 |Entity|source        |frequency (%)|
 |:------:|:--------------:|:-------------:|
 |DLBCL |GAMBL genomes |1.91         |
-|DLBCL |Schmitz cohort|4.00         |
+|DLBCL |Schmitz cohort|4.04         |
 |DLBCL |Reddy cohort  |2.10         |
-|DLBCL |Chapuy cohort |1.70         |
+|DLBCL |Chapuy cohort |1.71         |
 
 ## Mutation pattern
 

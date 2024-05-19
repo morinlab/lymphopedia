@@ -23,7 +23,6 @@
 
 
 
-
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/RPL22_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/RPL22_protein_hg38.html)
 
 ![image](images/proteinpaint/RPL22_NM_000983.svg)

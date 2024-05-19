@@ -6,6 +6,7 @@
 |:------:|:----:|--------------------------------------|
 |BL    |2   |relevance in BL not firmly established|
 |DLBCL |1   |high-confidence DLBCL gene            |
+|MCL   |1   |high-confidence MCL gene              |
 ## Mutation incidence
 
 |Entity|source               |frequency (%)|
@@ -14,9 +15,10 @@
 |BL    |Thomas cohort        | 0.00        |
 |BL    |Panea cohort         | 5.00        |
 |DLBCL |GAMBL genomes        | 5.74        |
-|DLBCL |Schmitz cohort       |11.30        |
+|DLBCL |Schmitz cohort       |11.28        |
 |DLBCL |Reddy cohort         | 3.70        |
-|DLBCL |Chapuy cohort        | 7.30        |
+|DLBCL |Chapuy cohort        | 7.26        |
+|MCL   |GAMBL genomes        | 2.84        |
 
 ## Mutation pattern
 
@@ -27,7 +29,8 @@
 |FL    |No  |No                   |0.000           | 0.000          |
 
 
-
+> [!NOTE]
+> First described in MCL in 2013 by [Beà S](https://pubmed.ncbi.nlm.nih.gov/24145436)
 
  ## NOTCH2 Hotspots
 

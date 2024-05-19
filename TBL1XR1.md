@@ -15,9 +15,9 @@
 |BL    |Thomas cohort        | 4.70        |
 |BL    |Panea cohort         | 7.90        |
 |DLBCL |GAMBL genomes        | 8.60        |
-|DLBCL |Schmitz cohort       |12.80        |
-|DLBCL |Reddy cohort         | 5.70        |
-|DLBCL |Chapuy cohort        | 8.10        |
+|DLBCL |Schmitz cohort       |12.77        |
+|DLBCL |Reddy cohort         | 5.71        |
+|DLBCL |Chapuy cohort        | 8.12        |
 |FL    |GAMBL genomes        | 3.93        |
 
 ## Mutation pattern
@@ -29,6 +29,8 @@
 |FL    |No  |No                   |12.400          |18.940          |
 
 
+> [!NOTE]
+> First described in DLBCL in 2016 by [Mareschal S](https://pubmed.ncbi.nlm.nih.gov/26608593)
 
 
  ## TBL1XR1 Hotspots

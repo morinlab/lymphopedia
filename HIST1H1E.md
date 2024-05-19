@@ -15,9 +15,9 @@
 |BL    |Thomas cohort        | 7.60        |
 |BL    |Panea cohort         |19.80        |
 |DLBCL |GAMBL genomes        |18.55        |
-|DLBCL |Schmitz cohort       |17.90        |
-|DLBCL |Reddy cohort         |14.50        |
-|DLBCL |Chapuy cohort        |11.50        |
+|DLBCL |Schmitz cohort       |17.87        |
+|DLBCL |Reddy cohort         |14.51        |
+|DLBCL |Chapuy cohort        |11.54        |
 |FL    |GAMBL genomes        |12.93        |
 
 ## Mutation pattern

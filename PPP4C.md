@@ -21,6 +21,8 @@
 
 
 > [!NOTE]
+> First described in FL in 2021 by [Hübschmann D](https://pubmed.ncbi.nlm.nih.gov/33953289)
+
  ## PPP4C Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 

@@ -2,9 +2,10 @@
 
 ## Mutation tier
 
-|Entity|Tier|Description                           |
-|:------:|:----:|--------------------------------------|
-|BL    |2   |relevance in BL not firmly established|
+|Entity|Tier|Description                            |
+|:------:|:----:|---------------------------------------|
+|BL    |2   |relevance in BL not firmly established |
+|MCL   |2   |relevance in MCL not firmly established|
 ## Mutation incidence
 
 |Entity|source               |frequency (%)|
@@ -12,6 +13,7 @@
 |BL    |GAMBL genomes+capture|4.16         |
 |BL    |Thomas cohort        |  NA         |
 |BL    |Panea cohort         |  NA         |
+|MCL   |GAMBL genomes        |0.95         |
 
 ## Mutation pattern
 
@@ -23,14 +25,8 @@
 
 
 > [!NOTE]
-> First described in BL in 2012 by [Love C](https://pubmed.ncbi.nlm.nih.gov/23143597)
+> First described in BL in 2012 by [Love C](https://pubmed.ncbi.nlm.nih.gov/23143597). First described in MCL in 2014 by [Zhang J](https://pubmed.ncbi.nlm.nih.gov/24682267)
 
-
- ## SALL3 Hotspots
-
-| Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
- | :---:| :---: | :--: | :---: |
-| chr18 | 76756928 | C>T | A1170V |
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/SALL3_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/SALL3_protein_hg38.html)
 

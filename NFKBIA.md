@@ -15,7 +15,7 @@
 |BL    |Thomas cohort        |1.70         |
 |BL    |Panea cohort         |2.00         |
 |DLBCL |GAMBL genomes        |4.40         |
-|DLBCL |Schmitz cohort       |3.80         |
+|DLBCL |Schmitz cohort       |3.83         |
 |DLBCL |Reddy cohort         |3.60         |
 |DLBCL |Chapuy cohort        |4.70         |
 |FL    |GAMBL genomes        |0.69         |
@@ -29,6 +29,8 @@
 |FL    |No  |No                   |0.000           |28.519          |
 
 
+> [!NOTE]
+> First described in FL in 2023 by [Russler-Germain DA](https://pubmed.ncbi.nlm.nih.gov/37493986)
 
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/NFKBIA_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/NFKBIA_protein_hg38.html)

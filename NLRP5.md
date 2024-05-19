@@ -1,0 +1,36 @@
+# [NLRP5]
+
+## Mutation tier
+
+|Entity|Tier|Description                              |
+|:------:|:----:|-----------------------------------------|
+|DLBCL |2   |relevance in DLBCL not firmly established|
+## Mutation incidence
+
+|Entity|source        |frequency (%)|
+|:------:|:--------------:|:-------------:|
+|DLBCL |GAMBL genomes |1.72         |
+|DLBCL |Schmitz cohort|4.04         |
+|DLBCL |Reddy cohort  |2.20         |
+|DLBCL |Chapuy cohort |2.56         |
+
+## Mutation pattern
+
+|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
+|:------:|:----:|:---------------------:|:----------------:|:----------------:|
+|BL    |No  |No                   |1.110           |2.507           |
+|DLBCL |No  |No                   |1.256           |0.000           |
+|FL    |No  |No                   |3.057           |0.000           |
+
+
+> [!NOTE]
+> First described in DLBCL in 2013 by [Morin RD](https://pubmed.ncbi.nlm.nih.gov/23699601)
+
+
+View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/NLRP5_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/NLRP5_protein_hg38.html)
+
+![image](images/proteinpaint/NLRP5_NM_153447.svg)
+
+View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/NLRP5.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/NLRP5_hg38.html)
+
+![image](images/proteinpaint/NLRP5.svg)

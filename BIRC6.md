@@ -16,7 +16,7 @@
 |BL    |Panea cohort         |14.90        |
 |DLBCL |GAMBL genomes        | 7.27        |
 |DLBCL |Schmitz cohort       |10.00        |
-|DLBCL |Reddy cohort         | 6.40        |
+|DLBCL |Reddy cohort         | 6.41        |
 |DLBCL |Chapuy cohort        | 4.70        |
 |FL    |GAMBL genomes        | 3.70        |
 
@@ -29,6 +29,8 @@
 |FL    |No  |No                   |2.997           |7.132           |
 
 
+> [!NOTE]
+> First described in DLBCL in 2017 by [Reddy A](https://pubmed.ncbi.nlm.nih.gov/28985567)
 
 
  ## BIRC6 Hotspots

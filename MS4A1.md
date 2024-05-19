@@ -4,16 +4,15 @@ MS4A1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm)
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
-|DLBCL |1-a   |high-confidence DLBCL gene|
-
+|DLBCL |1-a | aSHM target and high-confidence DLBCL gene|
 ## Mutation incidence
 
 |Entity|source        |frequency (%)|
 |:------:|:--------------:|:-------------:|
 |DLBCL |GAMBL genomes |1.53         |
-|DLBCL |Schmitz cohort|1.50         |
+|DLBCL |Schmitz cohort|1.49         |
 |DLBCL |Reddy cohort  |1.30         |
-|DLBCL |Chapuy cohort |0.40         |
+|DLBCL |Chapuy cohort |0.43         |
 
 ## Mutation pattern
 
@@ -28,7 +27,6 @@ MS4A1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm)
 |chr_name|hg19_start|hg19_end|region                                                                                    |regulatory_comment|
 |:--------:|:----------:|:--------:|:------------------------------------------------------------------------------------------:|:------------------:|
 |chr11   |60223385  |60225310|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr11%3A60223385%2D60225310)|active_promoter   |
-
 
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MS4A1_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MS4A1_protein_hg38.html)

@@ -1,0 +1,35 @@
+| Category | Gene | Details | Mutation frequency | Static view (Gene) | Static view (Protein) | Comment |
+| :---: | :----: | :---: | :---: | :---: |
+|:--:|[ACTG1](ACTG1)|:-:|:-:|
+|2|[ADGRG6](ADGRG6)||[LOAD](https://morinlab.github.io/LLMPP/GAMBL/ADGRG6.html)|[LOAD](https://morinlab.github.io/LLMPP/GAMBL/ADGRG6_protein.html)|
+|2|[AXDND1](AXDND1)||[LOAD](https://morinlab.github.io/LLMPP/GAMBL/AXDND1.html)|[LOAD](https://morinlab.github.io/LLMPP/GAMBL/AXDND1_protein.html)|
+|2-a|[BCL7A](BCL7A)||[view](images/proteinpaint/BCL7A.svg)|[view](images/proteinpaint/BCL7A_NM_020993.svg)|
+|2|[CCND3](CCND3)||[view](images/proteinpaint/CCND3.svg)|[view](images/proteinpaint/CCND3_NM_001760.svg)|
+|2|[CDH5](CDH5)||[LOAD](https://morinlab.github.io/LLMPP/GAMBL/CDH5.html)|[LOAD](https://morinlab.github.io/LLMPP/GAMBL/CDH5_protein.html)|
+|2|[CHD2](CHD2)||[LOAD](https://morinlab.github.io/LLMPP/GAMBL/CHD2.html)|[LOAD](https://morinlab.github.io/LLMPP/GAMBL/CHD2_protein.html)|
+|2-a|[CIITA](CIITA)||[view](images/proteinpaint/CIITA.svg)|[view](images/proteinpaint/CIITA_NM_000246.svg)|
+|2|[CISH](CISH)||[LOAD](https://morinlab.github.io/LLMPP/GAMBL/CISH.html)|[LOAD](https://morinlab.github.io/LLMPP/GAMBL/CISH_protein.html)|
+|2|[DNAH12](DNAH12)||[LOAD](https://morinlab.github.io/LLMPP/GAMBL/DNAH12.html)|[LOAD](https://morinlab.github.io/LLMPP/GAMBL/DNAH12_protein.html)|
+|2|[EEF1A1](EEF1A1)||[view](images/proteinpaint/EEF1A1.svg)|[view](images/proteinpaint/EEF1A1_NM_001402.svg)|
+|2|[EGR1](EGR1)||[LOAD](https://morinlab.github.io/LLMPP/GAMBL/EGR1.html)|[LOAD](https://morinlab.github.io/LLMPP/GAMBL/EGR1_protein.html)|
+|2|[HLA-A](HLA-A)||[view](images/proteinpaint/HLA-A.svg)|[view](images/proteinpaint/HLA-A_NM_002116.svg)|
+|2|[HLA-C](HLA-C)||[view](images/proteinpaint/HLA-C.svg)|[view](images/proteinpaint/HLA-C_NM_002117.svg)|
+|2-a|[IGLL5](IGLL5)||[view](images/proteinpaint/IGLL5.svg)|[view](images/proteinpaint/IGLL5_NM_001178126.svg)|
+|2-a|[IRF4](IRF4)||[view](images/proteinpaint/IRF4.svg)|[view](images/proteinpaint/IRF4_NM_002460.svg)|
+|2|[IKBKB](IKBKB)||[view](images/proteinpaint/IKBKB.svg)|[view](images/proteinpaint/IKBKB_NM_001556.svg)|
+|2|[ITGB2](ITGB2)||[LOAD](https://morinlab.github.io/LLMPP/GAMBL/ITGB2.html)|[LOAD](https://morinlab.github.io/LLMPP/GAMBL/ITGB2_protein.html)|
+|2-a|[KLF2](KLF2)||[view](images/proteinpaint/KLF2.svg)|[view](images/proteinpaint/KLF2_NM_016270.svg)|
+|2|[KMT2D](KMT2D)||[view](images/proteinpaint/KMT2D.svg)|[view](images/proteinpaint/KMT2D_NM_003482.svg)|
+|2|[LIMD2](LIMD2)||[LOAD](https://morinlab.github.io/LLMPP/GAMBL/LIMD2.html)|[LOAD](https://morinlab.github.io/LLMPP/GAMBL/LIMD2_protein.html)|
+|2|[MYB](MYB)||[view](images/proteinpaint/MYB.svg)|[view](images/proteinpaint/MYB_NM_001130173.svg)|
+|2|[NFKB2](NFKB2)||[view](images/proteinpaint/NFKB2.svg)|[view](images/proteinpaint/NFKB2_NM_001077494.svg)|
+|2|[NSD2](NSD2)||[view](images/proteinpaint/NSD2.svg)|[view](images/proteinpaint/NSD2_NM_133330.svg)|
+|2|[OR13C2](OR13C2)||[LOAD](https://morinlab.github.io/LLMPP/GAMBL/OR13C2.html)|[LOAD](https://morinlab.github.io/LLMPP/GAMBL/OR13C2_protein.html)|
+|2|[PCDH7](PCDH7)||[LOAD](https://morinlab.github.io/LLMPP/GAMBL/PCDH7.html)|[LOAD](https://morinlab.github.io/LLMPP/GAMBL/PCDH7_protein.html)|
+|2|[PCBP1](PCBP1)||[view](images/proteinpaint/PCBP1.svg)|[view](images/proteinpaint/PCBP1_NM_006196.svg)|
+|2|[RDH12](RDH12)||[LOAD](https://morinlab.github.io/LLMPP/GAMBL/RDH12.html)|[LOAD](https://morinlab.github.io/LLMPP/GAMBL/RDH12_protein.html)|
+|2|[RBM38](RBM38)||[LOAD](https://morinlab.github.io/LLMPP/GAMBL/RBM38.html)|[LOAD](https://morinlab.github.io/LLMPP/GAMBL/RBM38_protein.html)|
+|2|[SCN9A](SCN9A)||[LOAD](https://morinlab.github.io/LLMPP/GAMBL/SCN9A.html)|[LOAD](https://morinlab.github.io/LLMPP/GAMBL/SCN9A_protein.html)|
+|2|[SMAD3](SMAD3)||[LOAD](https://morinlab.github.io/LLMPP/GAMBL/SMAD3.html)|[LOAD](https://morinlab.github.io/LLMPP/GAMBL/SMAD3_protein.html)|
+|2|[STRAP](STRAP)||[LOAD](https://morinlab.github.io/LLMPP/GAMBL/STRAP.html)|[LOAD](https://morinlab.github.io/LLMPP/GAMBL/STRAP_protein.html)|
+|2|[ZNF217](ZNF217)||[view](images/proteinpaint/ZNF217.svg)|[view](images/proteinpaint/ZNF217_NM_006526.svg)|

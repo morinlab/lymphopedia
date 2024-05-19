@@ -2,14 +2,19 @@
 
 ## Mutation tier
 
-|Entity|Tier|Description                           |
-|:------:|:----:|--------------------------------------|
-|FL    |2   |relevance in FL not firmly established|
+|Entity|Tier|Description                              |
+|:------:|:----:|-----------------------------------------|
+|DLBCL |2-a | aSHM target; Although recurrent, the relevance of mutations in DLBCL is tenuous |
+|FL    |2-a | aSHM target; Although recurrent, the relevance of mutations in FL is tenuous    |
 ## Mutation incidence
 
-|Entity|source       |frequency (%)|
-|:------:|:-------------:|:-------------:|
-|FL    |GAMBL genomes|5.77         |
+|Entity|source        |frequency (%)|
+|:------:|:--------------:|:-------------:|
+|DLBCL |GAMBL genomes |3.06         |
+|DLBCL |Schmitz cohort|3.40         |
+|DLBCL |Reddy cohort  |2.20         |
+|DLBCL |Chapuy cohort |2.56         |
+|FL    |GAMBL genomes |5.77         |
 
 ## Mutation pattern
 
@@ -26,6 +31,9 @@
 |chr1    |31229012  |31232011|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr1%3A31229012%2D31232011)|NA                |
 
 > [!NOTE]
+> First described in FL in 2021 by [Hübschmann D](https://pubmed.ncbi.nlm.nih.gov/33953289)
+
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/LAPTM5_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/LAPTM5_protein_hg38.html)
 
 ![image](images/proteinpaint/LAPTM5_NM_006762.svg)

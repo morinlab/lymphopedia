@@ -1,6 +1,6 @@
 # [CCND3]
 
-CCND3 (Cyclin D3) is a gene that encodes a protein involved in the regulation of the cell cycle. Mutations in CCND3 are implicated in various types of B-cell lymphomas, including Burkitt lymphoma and diffuse large B-cell lymphoma (DLBCL). Somatic mutations in CCND3 often stabilize the Cyclin D3 protein by altering the phosphorylation motif, which is crucial for proteasomal degradation. These mutations are associated with an increase in Cyclin D3 protein stability and oncogenic potential.
+CCND3 (Cyclin D3) is a gene that encodes a protein involved in the regulation of the cell cycle. Mutations in CCND3 are implicated in various types of B-cell lymphomas, including Burkitt lymphoma and diffuse large B-cell lymphoma (DLBCL).<sup>1</sup> Somatic mutations in CCND3 often stabilize the Cyclin D3 protein by altering the phosphorylation motif, which is crucial for proteasomal degradation. These mutations are associated with an increase in Cyclin D3 protein stability and oncogenic potential.
 
 ## Mutation tier
 
@@ -17,7 +17,7 @@ CCND3 (Cyclin D3) is a gene that encodes a protein involved in the regulation of
 |BL    |Thomas cohort        |28.00        |
 |BL    |Panea cohort         |17.80        |
 |DLBCL |GAMBL genomes        | 7.46        |
-|DLBCL |Schmitz cohort       | 9.80        |
+|DLBCL |Schmitz cohort       | 9.79        |
 |DLBCL |Reddy cohort         | 3.80        |
 |DLBCL |Chapuy cohort        | 4.70        |
 |FL    |GAMBL genomes        | 3.23        |
@@ -86,4 +86,4 @@ View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/
 
 ## References
 
-*Schmitz, R., et al. (2012). "Burkitt lymphoma pathogenesis and therapeutic targets from structural and functional genomics." Nature, 490(7418), 116-120.*
+1. *Schmitz, R., et al. (2012). "Burkitt lymphoma pathogenesis and therapeutic targets from structural and functional genomics." Nature, 490(7418), 116-120.*

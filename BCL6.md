@@ -5,9 +5,9 @@ BCL6 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) 
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|BL    |2-a   |relevance in BL not firmly established, hypermutated|
-|DLBCL |1-a   |high-confidence DLBCL gene, hypermutated            |
-|FL    |1-a   |high-confidence FL gene, hypermutated               |
+|BL    |2-a | aSHM target; Although recurrent, the relevance of mutations in BL is tenuous |
+|DLBCL |1-a | aSHM target and high-confidence DLBCL gene            |
+|FL    |1-a | aSHM target and high-confidence FL gene               |
 ## Mutation incidence
 
 |Entity|source               |frequency (%)|
@@ -16,9 +16,9 @@ BCL6 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) 
 |BL    |Thomas cohort        | 3.40        |
 |BL    |Panea cohort         | 7.90        |
 |DLBCL |GAMBL genomes        |11.66        |
-|DLBCL |Schmitz cohort       | 9.80        |
-|DLBCL |Reddy cohort         | 6.40        |
-|DLBCL |Chapuy cohort        | 5.10        |
+|DLBCL |Schmitz cohort       |10.85        |
+|DLBCL |Reddy cohort         | 6.41        |
+|DLBCL |Chapuy cohort        | 5.13        |
 |FL    |GAMBL genomes        | 5.77        |
 
 ## Mutation pattern

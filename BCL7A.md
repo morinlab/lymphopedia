@@ -4,9 +4,9 @@ BCL7A protein interacts with components of the SWI/SNF chromatin remodeling comp
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|BL    |2-a   |relevance in BL not firmly established, hypermutated|
-|DLBCL |1-a   |high-confidence DLBCL gene, hypermutated            |
-|FL    |1-a   |high-confidence FL gene, hypermutated               |
+|BL    |2-a | aSHM target; Although recurrent, the relevance of mutations in BL is tenuous |
+|DLBCL |1-a | aSHM target and high-confidence DLBCL gene            |
+|FL    |1-a | aSHM target and high-confidence FL gene               |
 ## Mutation incidence
 
 |Entity|source               |frequency (%)|
@@ -15,9 +15,9 @@ BCL7A protein interacts with components of the SWI/SNF chromatin remodeling comp
 |BL    |Thomas cohort        | 5.50        |
 |BL    |Panea cohort         | 5.00        |
 |DLBCL |GAMBL genomes        | 7.65        |
-|DLBCL |Schmitz cohort       |10.60        |
-|DLBCL |Reddy cohort         | 8.40        |
-|DLBCL |Chapuy cohort        | 6.40        |
+|DLBCL |Schmitz cohort       |10.64        |
+|DLBCL |Reddy cohort         | 8.41        |
+|DLBCL |Chapuy cohort        | 6.41        |
 |FL    |GAMBL genomes        |13.86        |
 
 ## Mutation pattern

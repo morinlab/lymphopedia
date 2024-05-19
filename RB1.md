@@ -5,14 +5,16 @@
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
 |DLBCL |1   |high-confidence DLBCL gene|
+|MCL   |1   |high-confidence MCL gene  |
 ## Mutation incidence
 
 |Entity|source        |frequency (%)|
 |:------:|:--------------:|:-------------:|
 |DLBCL |GAMBL genomes |4.78         |
-|DLBCL |Schmitz cohort|3.20         |
+|DLBCL |Schmitz cohort|3.19         |
 |DLBCL |Reddy cohort  |1.60         |
-|DLBCL |Chapuy cohort |3.80         |
+|DLBCL |Chapuy cohort |3.85         |
+|MCL   |GAMBL genomes |0.47         |
 
 ## Mutation pattern
 
@@ -23,6 +25,8 @@
 |FL    |No  |No                   |1.890           | 0.000          |
 
 
+> [!NOTE]
+> First described in DLBCL in 2013 by [Morin RD](https://pubmed.ncbi.nlm.nih.gov/23699601). First described in MCL in 2014 by [Zhang J](https://pubmed.ncbi.nlm.nih.gov/24682267)
 
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/RB1_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/RB1_protein_hg38.html)

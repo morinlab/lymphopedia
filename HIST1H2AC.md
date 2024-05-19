@@ -11,9 +11,9 @@
 |Entity|source        |frequency (%)|
 |:------:|:--------------:|:-------------:|
 |DLBCL |GAMBL genomes |5.16         |
-|DLBCL |Schmitz cohort|6.20         |
+|DLBCL |Schmitz cohort|6.17         |
 |DLBCL |Reddy cohort  |3.40         |
-|DLBCL |Chapuy cohort |6.40         |
+|DLBCL |Chapuy cohort |6.41         |
 |FL    |GAMBL genomes |2.31         |
 
 ## Mutation pattern
@@ -26,6 +26,8 @@
 
 
 
+> [!NOTE]
+> First described in DLBCL in 2013 by [Morin RD](https://pubmed.ncbi.nlm.nih.gov/23699601)
 
  ## HIST1H2AC Hotspots
 

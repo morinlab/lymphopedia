@@ -4,9 +4,8 @@ MCL1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) 
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|DLBCL |1-a  |high-confidence DLBCL gene, hypermutated            |
-|BL    |2   |relevance in BL not firmly established|
-
+|BL    |2-a | aSHM target; Although recurrent, the relevance of mutations in BL is tenuous |
+|DLBCL |1-a | aSHM target and high-confidence DLBCL gene            |
 ## Mutation incidence
 
 |Entity|source               |frequency (%)|
@@ -15,9 +14,9 @@ MCL1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) 
 |BL    |Thomas cohort        |2.10         |
 |BL    |Panea cohort         |2.00         |
 |DLBCL |GAMBL genomes        |2.49         |
-|DLBCL |Schmitz cohort       |3.60         |
+|DLBCL |Schmitz cohort       |3.62         |
 |DLBCL |Reddy cohort         |4.70         |
-|DLBCL |Chapuy cohort        |3.40         |
+|DLBCL |Chapuy cohort        |3.42         |
 
 ## Mutation pattern
 

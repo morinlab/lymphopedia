@@ -4,13 +4,13 @@ GRHPR is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm)
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
-|DLBCL |1-a   |high-confidence DLBCL gene, hypermutated|
+|DLBCL |1-a | aSHM target and high-confidence DLBCL gene|
 ## Mutation incidence
 
 |Entity|source        |frequency (%)|
 |:------:|:--------------:|:-------------:|
 |DLBCL |GAMBL genomes |2.68         |
-|DLBCL |Schmitz cohort|4.50         |
+|DLBCL |Schmitz cohort|4.47         |
 |DLBCL |Reddy cohort  |3.60         |
 |DLBCL |Chapuy cohort |4.70         |
 
@@ -28,6 +28,8 @@ GRHPR is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm)
 |:--------:|:----------:|:--------:|:-----------------------------------------------------------------------------------------:|:------------------:|
 |chr9    |37423010  |37425279|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr9%3A37423010%2D37425279)|active_promoter   |
 
+> [!NOTE]
+> First described in DLBCL in 2018 by [Arthur SE](https://pubmed.ncbi.nlm.nih.gov/30275490)
 
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/GRHPR_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/GRHPR_protein_hg38.html)

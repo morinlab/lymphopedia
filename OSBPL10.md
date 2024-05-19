@@ -4,9 +4,8 @@ OSBPL10 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ash
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|DLBCL |1-a   |high-confidence DLBCL gene, hypermutated            |
-|BL    |2   |relevance in BL not firmly established|
-
+|BL    |2-a | aSHM target; Although recurrent, the relevance of mutations in BL is tenuous |
+|DLBCL |1-a | aSHM target and high-confidence DLBCL gene            |
 ## Mutation incidence
 
 |Entity|source               |frequency (%)|
@@ -15,9 +14,9 @@ OSBPL10 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ash
 |BL    |Thomas cohort        | 2.10        |
 |BL    |Panea cohort         | 3.00        |
 |DLBCL |GAMBL genomes        | 8.80        |
-|DLBCL |Schmitz cohort       |14.30        |
+|DLBCL |Schmitz cohort       |14.26        |
 |DLBCL |Reddy cohort         | 2.30        |
-|DLBCL |Chapuy cohort        | 2.60        |
+|DLBCL |Chapuy cohort        | 2.56        |
 
 ## Mutation pattern
 
@@ -32,7 +31,6 @@ OSBPL10 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ash
 |chr_name|hg19_start|hg19_end|region                                                                                     |regulatory_comment|
 |:--------:|:----------:|:--------:|:-------------------------------------------------------------------------------------------:|:------------------:|
 |chr3    |32020518  |32024930|[TSS-1](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr3%3A32020518%2D32024930)|active_promoter   |
-
 
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/OSBPL10_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/OSBPL10_protein_hg38.html)

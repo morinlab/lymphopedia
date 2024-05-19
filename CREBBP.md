@@ -1,4 +1,4 @@
-# [CREBBP]
+# CREBBP
 
 ## Mutation tier
 
@@ -15,9 +15,9 @@
 |BL    |Thomas cohort        | 3.00        |
 |BL    |Panea cohort         |12.90        |
 |DLBCL |GAMBL genomes        |25.81        |
-|DLBCL |Schmitz cohort       |17.90        |
-|DLBCL |Reddy cohort         |12.10        |
-|DLBCL |Chapuy cohort        |16.70        |
+|DLBCL |Schmitz cohort       |17.87        |
+|DLBCL |Reddy cohort         |12.11        |
+|DLBCL |Chapuy cohort        |16.67        |
 |FL    |GAMBL genomes        |65.13        |
 
 ## Mutation pattern
@@ -30,7 +30,7 @@
 
 
 > [!NOTE]
-> First described in BL in 2012 by [Love C](https://pubmed.ncbi.nlm.nih.gov/23143597). First described in FL in 2011 by [Morin RD](https://pubmed.ncbi.nlm.nih.gov/21796119)
+> First described in BL in 2012 by [Love C](https://pubmed.ncbi.nlm.nih.gov/23143597). First described in DLBCL in 2011 by [Pasqualucci L](https://pubmed.ncbi.nlm.nih.gov/21390126). First described in FL in 2011 by [Morin RD](https://pubmed.ncbi.nlm.nih.gov/21796119)
 
 
  ## CREBBP Hotspots

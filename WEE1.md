@@ -4,16 +4,15 @@ WEE1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) 
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
-|DLBCL |1-a   |high-confidence DLBCL gene, hypermutated|
-
+|DLBCL |1-a | aSHM target and high-confidence DLBCL gene|
 ## Mutation incidence
 
 |Entity|source        |frequency (%)|
 |:------:|:--------------:|:-------------:|
 |DLBCL |GAMBL genomes |4.02         |
-|DLBCL |Schmitz cohort|2.80         |
+|DLBCL |Schmitz cohort|2.77         |
 |DLBCL |Reddy cohort  |1.60         |
-|DLBCL |Chapuy cohort |1.70         |
+|DLBCL |Chapuy cohort |1.71         |
 
 ## Mutation pattern
 

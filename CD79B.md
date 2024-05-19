@@ -15,9 +15,9 @@
 |BL    |Thomas cohort        | 0.00        |
 |BL    |Panea cohort         | 4.00        |
 |DLBCL |GAMBL genomes        | 9.94        |
-|DLBCL |Schmitz cohort       |14.90        |
-|DLBCL |Reddy cohort         | 8.30        |
-|DLBCL |Chapuy cohort        |15.40        |
+|DLBCL |Schmitz cohort       |14.89        |
+|DLBCL |Reddy cohort         | 8.31        |
+|DLBCL |Chapuy cohort        |15.38        |
 |FL    |GAMBL genomes        | 2.77        |
 
 ## Mutation pattern
@@ -29,7 +29,8 @@
 |FL    |No  |No                   |10.310          | 0.000          |
 
 
-
+> [!NOTE]
+> First described in DLBCL in 2011 by [Morin RD](https://pubmed.ncbi.nlm.nih.gov/21796119)
 
  ## CD79B Hotspots
 

@@ -10,9 +10,9 @@
 |Entity|source        |frequency (%)|
 |:------:|:--------------:|:-------------:|
 |DLBCL |GAMBL genomes |4.78         |
-|DLBCL |Schmitz cohort|4.90         |
+|DLBCL |Schmitz cohort|4.89         |
 |DLBCL |Reddy cohort  |4.00         |
-|DLBCL |Chapuy cohort |3.80         |
+|DLBCL |Chapuy cohort |3.85         |
 
 ## Mutation pattern
 
@@ -24,7 +24,7 @@
 
 
 > [!NOTE]
-> First described in DLBCL in 2017 by [Reddy A](https://pubmed.ncbi.nlm.nih.gov/28985567)
+> First described in DLBCL in 2013 by [Morin RD](https://pubmed.ncbi.nlm.nih.gov/23699601)
 
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TAF1_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TAF1_protein_hg38.html)

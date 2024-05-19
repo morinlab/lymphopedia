@@ -14,9 +14,9 @@
 |BL    |Thomas cohort        |21.60        |
 |BL    |Panea cohort         |15.80        |
 |DLBCL |GAMBL genomes        | 3.82        |
-|DLBCL |Schmitz cohort       | 2.10        |
+|DLBCL |Schmitz cohort       | 2.13        |
 |DLBCL |Reddy cohort         | 2.10        |
-|DLBCL |Chapuy cohort        | 2.60        |
+|DLBCL |Chapuy cohort        | 2.56        |
 
 ## Mutation pattern
 
@@ -28,7 +28,7 @@
 
 
 > [!NOTE]
-> First described in BL in 2023 by [Thomas N](https://pubmed.ncbi.nlm.nih.gov/36201743)
+> First described in BL in 2023 by [Thomas N](https://pubmed.ncbi.nlm.nih.gov/36201743). First described in DLBCL in 2021 by [Hübschmann D](https://pubmed.ncbi.nlm.nih.gov/33953289)
 
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/FBXO11_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/FBXO11_protein_hg38.html)

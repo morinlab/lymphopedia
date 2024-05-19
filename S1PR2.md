@@ -4,10 +4,9 @@ S1PR2 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm)
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|DLBCL |1-a   |high-confidence DLBCL gene, hypermutated            |
-|FL    |1-a   |high-confidence FL gene, hypermutated               |
-|BL    |2   |relevance in BL not firmly established|
-
+|BL    |2-a | aSHM target; Although recurrent, the relevance of mutations in BL is tenuous |
+|DLBCL |1-a | aSHM target and high-confidence DLBCL gene            |
+|FL    |1-a | aSHM target and high-confidence FL gene               |
 ## Mutation incidence
 
 |Entity|source               |frequency (%)|
@@ -16,9 +15,9 @@ S1PR2 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm)
 |BL    |Thomas cohort        |0.00         |
 |BL    |Panea cohort         |4.00         |
 |DLBCL |GAMBL genomes        |4.78         |
-|DLBCL |Schmitz cohort       |2.10         |
+|DLBCL |Schmitz cohort       |2.13         |
 |DLBCL |Reddy cohort         |2.20         |
-|DLBCL |Chapuy cohort        |2.60         |
+|DLBCL |Chapuy cohort        |2.56         |
 |FL    |GAMBL genomes        |6.24         |
 
 ## Mutation pattern

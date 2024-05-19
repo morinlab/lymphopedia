@@ -11,9 +11,9 @@
 |Entity|source        |frequency (%)|
 |:------:|:--------------:|:-------------:|
 |DLBCL |GAMBL genomes |1.34         |
-|DLBCL |Schmitz cohort|3.20         |
+|DLBCL |Schmitz cohort|3.19         |
 |DLBCL |Reddy cohort  |2.20         |
-|DLBCL |Chapuy cohort |2.10         |
+|DLBCL |Chapuy cohort |2.14         |
 |FL    |GAMBL genomes |1.39         |
 
 ## Mutation pattern
@@ -25,7 +25,8 @@
 |FL    |No  |No                   | 5.696          |0               |
 
 
-
+> [!NOTE]
+> First described in FL in 2016 by [Louissaint A Jr](https://pubmed.ncbi.nlm.nih.gov/27325104)
 
  ## MAP2K1 Hotspots
 

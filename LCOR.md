@@ -2,17 +2,21 @@
 
 ## Mutation tier
 
-|Entity|Tier|Description               |
-|:------:|:----:|--------------------------|
-|DLBCL |1   |high-confidence DLBCL gene|
+|Entity|Tier|Description                           |
+|:------:|:----:|--------------------------------------|
+|BL    |2   |relevance in BL not firmly established|
+|DLBCL |1   |high-confidence DLBCL gene            |
 ## Mutation incidence
 
-|Entity|source        |frequency (%)|
-|:------:|:--------------:|:-------------:|
-|DLBCL |GAMBL genomes |6.31         |
-|DLBCL |Schmitz cohort|3.40         |
-|DLBCL |Reddy cohort  |0.50         |
-|DLBCL |Chapuy cohort |0.40         |
+|Entity|source               |frequency (%)|
+|:------:|:---------------------:|:-------------:|
+|BL    |GAMBL genomes+capture|3.46         |
+|BL    |Thomas cohort        |0.00         |
+|BL    |Panea cohort         |  NA         |
+|DLBCL |GAMBL genomes        |6.31         |
+|DLBCL |Schmitz cohort       |0.43         |
+|DLBCL |Reddy cohort         |0.50         |
+|DLBCL |Chapuy cohort        |0.43         |
 
 ## Mutation pattern
 
@@ -21,7 +25,6 @@
 |BL    |No  |No                   |0               |0               |
 |DLBCL |No  |No                   |0               |0               |
 |FL    |No  |No                   |0               |0               |
-
 
 
 

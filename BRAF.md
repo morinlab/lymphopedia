@@ -16,7 +16,7 @@
 |DLBCL |GAMBL genomes        |2.29         |
 |DLBCL |Schmitz cohort       |3.40         |
 |DLBCL |Reddy cohort         |2.00         |
-|DLBCL |Chapuy cohort        |5.60         |
+|DLBCL |Chapuy cohort        |5.56         |
 
 ## Mutation pattern
 

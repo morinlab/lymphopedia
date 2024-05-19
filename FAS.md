@@ -15,9 +15,9 @@
 |BL    |Thomas cohort        | 1.70        |
 |BL    |Panea cohort         | 4.00        |
 |DLBCL |GAMBL genomes        | 9.18        |
-|DLBCL |Schmitz cohort       |10.90        |
+|DLBCL |Schmitz cohort       |10.85        |
 |DLBCL |Reddy cohort         | 4.70        |
-|DLBCL |Chapuy cohort        | 9.00        |
+|DLBCL |Chapuy cohort        | 8.97        |
 |FL    |GAMBL genomes        | 5.08        |
 
 ## Mutation pattern
@@ -29,6 +29,8 @@
 |FL    |No  |Yes                  | 0.000          |176.866         |
 
 
+> [!NOTE]
+> First described in DLBCL in 2007 by [Scholl V](https://pubmed.ncbi.nlm.nih.gov/17487740). First described in FL in 2011 by [Morin RD](https://pubmed.ncbi.nlm.nih.gov/21796119)
 
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/FAS_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/FAS_protein_hg38.html)

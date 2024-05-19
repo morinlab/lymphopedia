@@ -4,9 +4,9 @@ BTG1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) 
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|BL    |2   |relevance in BL not firmly established|
-|DLBCL |1-a   |high-confidence DLBCL gene, hypermutated            |
-|FL    |1-a   |high-confidence FL gene, hypermutated               |
+|BL    |2-a | aSHM target; Although recurrent, the relevance of mutations in BL is tenuous |
+|DLBCL |1-a | aSHM target and high-confidence DLBCL gene            |
+|FL    |1-a | aSHM target and high-confidence FL gene               |
 ## Mutation incidence
 
 |Entity|source               |frequency (%)|
@@ -15,9 +15,9 @@ BTG1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) 
 |BL    |Thomas cohort        |   NA        |
 |BL    |Panea cohort         |   NA        |
 |DLBCL |GAMBL genomes        |10.13        |
-|DLBCL |Schmitz cohort       |14.50        |
-|DLBCL |Reddy cohort         | 7.50        |
-|DLBCL |Chapuy cohort        |14.50        |
+|DLBCL |Schmitz cohort       |14.47        |
+|DLBCL |Reddy cohort         | 7.51        |
+|DLBCL |Chapuy cohort        |14.53        |
 |FL    |GAMBL genomes        | 6.47        |
 
 ## Mutation pattern

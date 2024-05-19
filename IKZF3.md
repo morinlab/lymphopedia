@@ -4,9 +4,8 @@ IKZF3 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm)
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|DLBCL |1-a   |high-confidence DLBCL gene, hypermutated            |
-|BL    |2   |relevance in BL not firmly established|
-
+|BL    |2-a | aSHM target; Although recurrent, the relevance of mutations in BL is tenuous |
+|DLBCL |1-a | aSHM target and high-confidence DLBCL gene            |
 ## Mutation incidence
 
 |Entity|source               |frequency (%)|
@@ -15,9 +14,9 @@ IKZF3 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm)
 |BL    |Thomas cohort        |0.80         |
 |BL    |Panea cohort         |3.00         |
 |DLBCL |GAMBL genomes        |4.78         |
-|DLBCL |Schmitz cohort       |4.50         |
+|DLBCL |Schmitz cohort       |4.47         |
 |DLBCL |Reddy cohort         |3.90         |
-|DLBCL |Chapuy cohort        |4.30         |
+|DLBCL |Chapuy cohort        |4.27         |
 
 ## Mutation pattern
 
@@ -35,8 +34,7 @@ IKZF3 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm)
 |chr17   |38015776  |38024832|[TSS-2](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr17%3A38015776%2D38024832)|NA                |
 
 > [!NOTE]
-> First described in BL in 2019 by [Panea RI](https://pubmed.ncbi.nlm.nih.gov/31558468). First described in DLBCL in 2017 by [Mareschal S](https://pubmed.ncbi.nlm.nih.gov/28479318)
-
+> First described in BL in 2019 by [Panea RI](https://pubmed.ncbi.nlm.nih.gov/31558468). First described in DLBCL in 2013 by [Morin RD](https://pubmed.ncbi.nlm.nih.gov/23699601)
 
  ## IKZF3 Hotspots
 

@@ -10,9 +10,9 @@
 |Entity|source        |frequency (%)|
 |:------:|:--------------:|:-------------:|
 |DLBCL |GAMBL genomes |2.29         |
-|DLBCL |Schmitz cohort|  NA         |
-|DLBCL |Reddy cohort  |  NA         |
-|DLBCL |Chapuy cohort |  NA         |
+|DLBCL |Schmitz cohort|1.70         |
+|DLBCL |Reddy cohort  |1.80         |
+|DLBCL |Chapuy cohort |1.28         |
 
 ## Mutation pattern
 
@@ -24,6 +24,9 @@
 
 
 > [!NOTE]
+
+> First described in DLBCL in 2021 by [Hübschmann D](https://pubmed.ncbi.nlm.nih.gov/33953289)
+
  ## DNM2 Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 

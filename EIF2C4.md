@@ -15,8 +15,7 @@
 
 ## Mutation pattern
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
+|
 
 
 > [!NOTE]

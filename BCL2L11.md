@@ -4,7 +4,7 @@
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|BL    |2   |relevance in BL not firmly established|
+|BL    |2-a | aSHM target; Although recurrent, the relevance of mutations in BL is tenuous |
 ## Mutation incidence
 
 |Entity|source               |frequency (%)|
@@ -26,7 +26,6 @@
 |chr_name|hg19_start|hg19_end |region                                                                                     |regulatory_comment|
 |:--------:|:----------:|:---------:|:-------------------------------------------------------------------------------------------:|:------------------:|
 |chr2    |111874854 |111882174|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr2%3A111874854%2D111882174)|active_promoter   |
-
 
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/BCL2L11_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/BCL2L11_protein_hg38.html)

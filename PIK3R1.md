@@ -14,7 +14,7 @@
 |BL    |Thomas cohort        |2.50         |
 |BL    |Panea cohort         |4.00         |
 |DLBCL |GAMBL genomes        |1.91         |
-|DLBCL |Schmitz cohort       |2.10         |
+|DLBCL |Schmitz cohort       |2.13         |
 |DLBCL |Reddy cohort         |2.00         |
 |DLBCL |Chapuy cohort        |4.70         |
 

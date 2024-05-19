@@ -1,18 +1,20 @@
-# [DAZAP1]
+# DAZAP1
 
 ## Mutation tier
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
 |DLBCL |1   |high-confidence DLBCL gene|
+|MCL   |1   |high-confidence MCL gene  |
 ## Mutation incidence
 
 |Entity|source        |frequency (%)|
 |:------:|:--------------:|:-------------:|
 |DLBCL |GAMBL genomes |1.91         |
-|DLBCL |Schmitz cohort|5.30         |
+|DLBCL |Schmitz cohort|5.32         |
 |DLBCL |Reddy cohort  |1.60         |
-|DLBCL |Chapuy cohort |0.40         |
+|DLBCL |Chapuy cohort |0.43         |
+|MCL   |GAMBL genomes |4.27         |
 
 ## Mutation pattern
 
@@ -23,6 +25,8 @@
 |FL    |No  |No                   |0               |53.351          |
 
 
+> [!NOTE]
+> First described in MCL in 2020 by [Pararajalingam P](https://pubmed.ncbi.nlm.nih.gov/32160292)
 
 
  ## DAZAP1 Hotspots

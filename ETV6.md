@@ -4,15 +4,15 @@ ETV6 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) 
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
-|DLBCL |1-a  |high-confidence DLBCL gene, hypermutated|
+|DLBCL |1-a | aSHM target and high-confidence DLBCL gene|
 ## Mutation incidence
 
 |Entity|source        |frequency (%)|
 |:------:|:--------------:|:-------------:|
 |DLBCL |GAMBL genomes | 4.97        |
-|DLBCL |Schmitz cohort|10.40        |
-|DLBCL |Reddy cohort  | 5.80        |
-|DLBCL |Chapuy cohort |10.30        |
+|DLBCL |Schmitz cohort|10.43        |
+|DLBCL |Reddy cohort  | 5.81        |
+|DLBCL |Chapuy cohort |10.26        |
 
 ## Mutation pattern
 

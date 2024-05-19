@@ -4,10 +4,9 @@ PIM1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) 
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|DLBCL |1-a  |high-confidence DLBCL gene, hypermutated            |
-|FL    |1-a   |high-confidence FL gene, hypermutated                  |
-|BL    |2   |relevance in BL not firmly established and appears unlikely|
-
+|BL    |2-a | aSHM target; Although recurrent, the relevance of mutations in BL is tenuous |
+|DLBCL |1-a | aSHM target and high-confidence DLBCL gene            |
+|FL    |1-a | aSHM target and high-confidence FL gene               |
 ## Mutation incidence
 
 |Entity|source               |frequency (%)|
@@ -16,9 +15,9 @@ PIM1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) 
 |BL    |Thomas cohort        |   NA        |
 |BL    |Panea cohort         |   NA        |
 |DLBCL |GAMBL genomes        |20.27        |
-|DLBCL |Schmitz cohort       |27.70        |
-|DLBCL |Reddy cohort         |19.10        |
-|DLBCL |Chapuy cohort        |23.90        |
+|DLBCL |Schmitz cohort       |27.66        |
+|DLBCL |Reddy cohort         |19.12        |
+|DLBCL |Chapuy cohort        |23.93        |
 |FL    |GAMBL genomes        | 9.24        |
 
 ## Mutation pattern
