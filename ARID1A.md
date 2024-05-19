@@ -1,7 +1,5 @@
 # [ARID1A]
 
-ARID1A (AT-rich interactive domain-containing protein 1A) is a gene that encodes a subunit of the SWI/SNF chromatin remodeling complex, which is involved in regulating DNA accessibility. Mutations in ARID1A are implicated in various cancers, including B-cell lymphomas. They are the most abundant in Burkitt lymphoma but also occur in FL and, to a lesser extent, DLBCL. 
-
 ## Mutation tier
 
 |Entity|Tier|Description               |
@@ -17,9 +15,9 @@ ARID1A (AT-rich interactive domain-containing protein 1A) is a gene that encodes
 |BL    |Thomas cohort        |36.00        |
 |BL    |Panea cohort         |19.80        |
 |DLBCL |GAMBL genomes        | 8.80        |
-|DLBCL |Schmitz cohort       | 8.90        |
+|DLBCL |Schmitz cohort       | 8.94        |
 |DLBCL |Reddy cohort         | 4.40        |
-|DLBCL |Chapuy cohort        | 4.30        |
+|DLBCL |Chapuy cohort        | 4.27        |
 |FL    |GAMBL genomes        |12.47        |
 
 ## Mutation pattern
@@ -34,20 +32,6 @@ ARID1A (AT-rich interactive domain-containing protein 1A) is a gene that encodes
 > [!NOTE]
 > First described in BL in 2012 by [Love C](https://pubmed.ncbi.nlm.nih.gov/23143597). First described in DLBCL in 2013 by [Zhang J](https://pubmed.ncbi.nlm.nih.gov/23292937)
 
-
- ## ARID1A Hotspots
-
-| Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
- | :---:| :---: | :--: | :---: |
-| chr1 | 27023114 | C>T | Q74* |
-| chr1 | 27023420 | C>T | Q176* |
-| chr1 | 27023423 | C>T | Q177* |
-| chr1 | 27023429 | C>T | P179S |
-| chr1 | 27023447 | C>T | Q185* |
-| chr1 | 27100207 | C>T | R1335* |
-| chr1 | 27100315 | T>C | F1343L |
-| chr1 | 27106354 | C>T | R1989* |
-| chr1 | 27106363 | T>C | S1992P |
 
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ARID1A_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ARID1A_protein_hg38.html)
 
