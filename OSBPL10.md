@@ -1,11 +1,12 @@
-# [OSBPL10]
+OSBPL10 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus.
 
 ## Mutation tier
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
+|DLBCL |1-a   |high-confidence DLBCL gene            |
 |BL    |2   |relevance in BL not firmly established|
-|DLBCL |1   |high-confidence DLBCL gene            |
+
 ## Mutation incidence
 
 |Entity|source               |frequency (%)|
