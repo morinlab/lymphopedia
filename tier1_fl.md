@@ -1,5 +1,5 @@
 # FL genes, Tier 1
-|Category|Gene|Mutation frequency|gene|protein|
+|Category|Gene|FL Mutation frequency|gene|protein|
 | :---: | :----: | :---: | :---: | :---: |
 |1-a|[ACTB](ACTB)|5.31|[view](images/proteinpaint/ACTB.svg)|[view](images/proteinpaint/ACTB_NM_001101.svg)|
 |1|[ARID1A](ARID1A)|12.47|[view](images/proteinpaint/ARID1A.svg)|[view](images/proteinpaint/ARID1A_NM_006015.svg)|
