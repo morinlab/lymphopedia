@@ -4,8 +4,8 @@ MEF2B is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm)
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|DLBCL |1-a   |high-confidence DLBCL gene            |
-|FL    |1-a   |high-confidence FL gene               |
+|DLBCL |1-a   |high-confidence DLBCL gene, hypermutated            |
+|FL    |1-a   |high-confidence FL gene, hypermutated               |
 |BL    |2   |relevance in BL not firmly established and seems unlikely|
 
 ## Mutation incidence
