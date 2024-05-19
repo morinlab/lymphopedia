@@ -4,8 +4,8 @@ BCR (Breakpoint Cluster Region Protein) is one of [a number of genes](https://gi
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|BL    |2   |relevance in BL not firmly established|
-|DLBCL |1   |high-confidence DLBCL gene            |
+|BL    |2-a   |relevance in BL not firmly established, hypermutated|
+|DLBCL |1-a   |high-confidence DLBCL gene, hypermutated            |
 ## Mutation incidence
 
 |Entity|source               |frequency (%)|
