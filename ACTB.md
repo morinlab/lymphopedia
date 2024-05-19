@@ -1,13 +1,17 @@
+# ACTB
+## Overview
+
 ACTB is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas. 
 
-## Mutation tier
+## Relevance tier by entity
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
 |DLBCL |1-a   |high-confidence DLBCL gene, hypermutated|
 |FL    |1-a   |high-confidence FL gene, hypermutated   |
 
-## Mutation incidence
+
+## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
 |Entity|source        |frequency (%)|
 |:------:|:--------------:|:-------------:|
@@ -17,7 +21,7 @@ ACTB is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) 
 |DLBCL |Chapuy cohort |12.40        |
 |FL    |GAMBL genomes | 5.31        |
 
-## Mutation pattern
+## Mutation pattern and selective pressure estimates
 
 |Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
 |:------:|:----:|:---------------------:|:----------------:|:----------------:|

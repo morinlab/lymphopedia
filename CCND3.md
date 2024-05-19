@@ -1,15 +1,16 @@
-# [CCND3]
-
+# CCND3
+## Overview
 CCND3 (Cyclin D3) is a gene that encodes a protein involved in the regulation of the cell cycle. Mutations in CCND3 are implicated in various types of B-cell lymphomas, including Burkitt lymphoma and diffuse large B-cell lymphoma (DLBCL).<sup>1</sup> Somatic mutations in CCND3 often stabilize the Cyclin D3 protein by altering the phosphorylation motif, which is crucial for proteasomal degradation. These mutations are associated with an increase in Cyclin D3 protein stability and oncogenic potential.
 
-## Mutation tier
+## Relevance tier by entity
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
 |BL    |1   |high-confidence BL gene   |
 |DLBCL |1   |high-confidence DLBCL gene|
 |FL    |1   |high-confidence FL gene   |
-## Mutation incidence
+
+## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
 |Entity|source               |frequency (%)|
 |:------:|:---------------------:|:-------------:|
@@ -22,7 +23,7 @@ CCND3 (Cyclin D3) is a gene that encodes a protein involved in the regulation of
 |DLBCL |Chapuy cohort        | 4.70        |
 |FL    |GAMBL genomes        | 3.23        |
 
-## Mutation pattern
+## Mutation pattern and selective pressure estimates
 
 |Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
 |:------:|:----:|:---------------------:|:----------------:|:----------------:|

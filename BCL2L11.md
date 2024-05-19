@@ -1,11 +1,12 @@
-# [BCL2L11]
+# BCL2L11
 
-## Mutation tier
+## Relevance tier by entity
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
 |BL    |2-a | aSHM target; Although recurrent, the relevance of mutations in BL is tenuous |
-## Mutation incidence
+
+## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
 |Entity|source               |frequency (%)|
 |:------:|:---------------------:|:-------------:|
@@ -13,7 +14,7 @@
 |BL    |Thomas cohort        |2.10         |
 |BL    |Panea cohort         |1.00         |
 
-## Mutation pattern
+## Mutation pattern and selective pressure estimates
 
 |Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
 |:------:|:----:|:---------------------:|:----------------:|:----------------:|

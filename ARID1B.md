@@ -1,12 +1,13 @@
-# [ARID1B]
+# ARID1B
 
-## Mutation tier
+## Relevance tier by entity
 
 |Entity|Tier|Description                              |
 |:------:|:----:|-----------------------------------------|
 |DLBCL |2   |relevance in DLBCL not firmly established|
 |MCL   |2   |relevance in MCL not firmly established  |
-## Mutation incidence
+
+## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
 |Entity|source        |frequency (%)|
 |:------:|:--------------:|:-------------:|
@@ -16,7 +17,7 @@
 |DLBCL |Chapuy cohort |2.14         |
 |MCL   |GAMBL genomes |1.90         |
 
-## Mutation pattern
+## Mutation pattern and selective pressure estimates
 
 |Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
 |:------:|:----:|:---------------------:|:----------------:|:----------------:|

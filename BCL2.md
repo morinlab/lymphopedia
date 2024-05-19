@@ -1,13 +1,17 @@
+# BCL2
+## Overview
+
 BCL2 mutations are frequently found in DLBCL, particularly in the germinal center B-cell (GCB) subtype, and are often located in the flexible loop domain and outside the BCL2-homology domains. These mutations are caused by the somatic hypermutation process.<sup>1</sup> The presence of these mutations are strongly correlated with the presence of a translocation between BCL2 and one of the immunoglobulin loci. <sup>2</sup> Although missense mutations may not be under positive selective pressure in the context of lymphomagenesis, some of these mutations may interfere with the function of BCL2 antagonists.<sup>3</sup> 
 
-## Mutation tier
+## Relevance tier by entity
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
 |BL    |2   |relevance in BL not firmly established|
 |DLBCL |1-a   |high-confidence DLBCL gene, hypermutated            |
 |FL    |1-a   |high-confidence FL gene, hypermutated               |
-## Mutation incidence
+
+## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
 |Entity|source               |frequency (%)|
 |:------:|:---------------------:|:-------------:|
@@ -20,7 +24,7 @@ BCL2 mutations are frequently found in DLBCL, particularly in the germinal cente
 |DLBCL |Chapuy cohort        |15.80        |
 |FL    |GAMBL genomes        |50.35        |
 
-## Mutation pattern
+## Mutation pattern and selective pressure estimates
 
 |Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
 |:------:|:----:|:---------------------:|:----------------:|:----------------:|

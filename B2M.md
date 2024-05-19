@@ -1,7 +1,10 @@
 
+# B2M
+## Overview
+
 The B2M (β2-microglobulin) gene plays a crucial role in the function of the major histocompatibility complex (MHC) class I molecules, which are essential for immune system recognition of infected or malignant cells. B2M mutations in B-cell lymphomas, particularly in DLBCL and PMBCL, lead to reduced MHC class I expression, enabling tumor cells to evade immune detection and destruction by cytotoxic T cells. 
 
-## Mutation tier
+## Relevance tier by entity
 
 |Entity|Tier|Description                            |
 |:------:|:----:|---------------------------------------|
@@ -9,7 +12,8 @@ The B2M (β2-microglobulin) gene plays a crucial role in the function of the maj
 |DLBCL |1   |high-confidence DLBCL gene             |
 |FL    |1   |high-confidence FL gene                |
 |MCL   |2   |relevance in MCL not firmly established|
-## Mutation incidence
+
+## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
 |Entity|source               |frequency (%)|
 |:------:|:---------------------:|:-------------:|
@@ -23,7 +27,7 @@ The B2M (β2-microglobulin) gene plays a crucial role in the function of the maj
 |FL    |GAMBL genomes        | 8.55        |
 |MCL   |GAMBL genomes        | 1.42        |
 
-## Mutation pattern
+## Mutation pattern and selective pressure estimates
 
 |Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
 |:------:|:----:|:---------------------:|:----------------:|:----------------:|

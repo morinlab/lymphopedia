@@ -1,11 +1,12 @@
-# [ATR]
+# ATR
 
-## Mutation tier
+## Relevance tier by entity
 
 |Entity|Tier|Description                              |
 |:------:|:----:|-----------------------------------------|
 |DLBCL |2   |relevance in DLBCL not firmly established|
-## Mutation incidence
+
+## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
 |Entity|source        |frequency (%)|
 |:------:|:--------------:|:-------------:|
@@ -14,7 +15,7 @@
 |DLBCL |Reddy cohort  |2.80         |
 |DLBCL |Chapuy cohort |3.85         |
 
-## Mutation pattern
+## Mutation pattern and selective pressure estimates
 
 |Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
 |:------:|:----:|:---------------------:|:----------------:|:----------------:|

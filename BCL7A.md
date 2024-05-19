@@ -1,13 +1,17 @@
+# BCL7A
+## Overview
+
 BCL7A protein interacts with components of the SWI/SNF chromatin remodeling complex, implicating it in chromatin remodeling processes essential for normal cellular function.<sup>1</sup> Mutations in the BCL7A gene have been identified in diffuse large B-cell lymphoma (DLBCL) and other B-cell lymphomas, implicating this gene in the pathogenesis of these cancers. Importantly, BCL7A is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus. Due to the presence of some loss-of-function mutations, BCL7A has been described as a tumour-suppressor gene in DLBCL.<sup>3</sup> The rate of DLBCLs with biallelic loss of this locus remains unclear. 
 
-## Mutation tier
+## Relevance tier by entity
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
 |BL    |2-a | aSHM target; Although recurrent, the relevance of mutations in BL is tenuous |
 |DLBCL |1-a | aSHM target and high-confidence DLBCL gene            |
 |FL    |1-a | aSHM target and high-confidence FL gene               |
-## Mutation incidence
+
+## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
 |Entity|source               |frequency (%)|
 |:------:|:---------------------:|:-------------:|
@@ -20,7 +24,7 @@ BCL7A protein interacts with components of the SWI/SNF chromatin remodeling comp
 |DLBCL |Chapuy cohort        | 6.41        |
 |FL    |GAMBL genomes        |13.86        |
 
-## Mutation pattern
+## Mutation pattern and selective pressure estimates
 
 |Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
 |:------:|:----:|:---------------------:|:----------------:|:----------------:|

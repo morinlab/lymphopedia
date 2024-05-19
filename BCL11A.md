@@ -1,12 +1,15 @@
+# BCL11A
+## Overview
 BCL11A (B-cell lymphoma/leukemia 11A) is a transcription factor involved in the regulation of gene expression, particularly in lymphoid cells. Mutations in BCL11A have been linked to various lymphoid malignancies, including B-cell lymphomas. Amplification of the 2p13 region, where BCL11A is located, has been observed in various B-cell non-Hodgkin lymphomas (B-NHL) and Hodgkin disease (HD). Although this suggests that BCL11A amplification contributes to the malignancy through increased expression, the gene is commonly co-amplified with the REL gene.<sup>1</sup> The functional role of somatic mutations of BCL11A in B-cell lymphomas remains unclear. This is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus.
 
-## Mutation tier
+## Relevance tier by entity
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
 |BL    |2-a | aSHM target; Although recurrent, the relevance of mutations in BL is tenuous |
 |DLBCL |1-a | aSHM target and high-confidence DLBCL gene            |
-## Mutation incidence
+
+## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
 |Entity|source               |frequency (%)|
 |:------:|:---------------------:|:-------------:|
@@ -18,7 +21,7 @@ BCL11A (B-cell lymphoma/leukemia 11A) is a transcription factor involved in the 
 |DLBCL |Reddy cohort         |1.60         |
 |DLBCL |Chapuy cohort        |3.42         |
 
-## Mutation pattern
+## Mutation pattern and selective pressure estimates
 
 |Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
 |:------:|:----:|:---------------------:|:----------------:|:----------------:|

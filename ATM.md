@@ -1,12 +1,13 @@
-# [ATM]
+# ATM
 
-## Mutation tier
+## Relevance tier by entity
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
 |DLBCL |1   |high-confidence DLBCL gene|
 |MCL   |1   |high-confidence MCL gene  |
-## Mutation incidence
+
+## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
 |Entity|source        |frequency (%)|
 |:------:|:--------------:|:-------------:|
@@ -16,7 +17,7 @@
 |DLBCL |Chapuy cohort | 4.70        |
 |MCL   |GAMBL genomes |45.02        |
 
-## Mutation pattern
+## Mutation pattern and selective pressure estimates
 
 |Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
 |:------:|:----:|:---------------------:|:----------------:|:----------------:|

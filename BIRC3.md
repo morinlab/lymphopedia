@@ -1,12 +1,13 @@
-# [BIRC3]
+# BIRC3
 
-## Mutation tier
+## Relevance tier by entity
 
 |Entity|Tier|Description                              |
 |:------:|:----:|-----------------------------------------|
 |DLBCL |2-a | aSHM target; Although recurrent, the relevance of mutations in DLBCL is tenuous |
 |MCL   |1-a | aSHM target and high-confidence MCL gene                 |
-## Mutation incidence
+
+## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
 |Entity|source        |frequency (%)|
 |:------:|:--------------:|:-------------:|
@@ -16,7 +17,7 @@
 |DLBCL |Chapuy cohort |1.71         |
 |MCL   |GAMBL genomes |7.11         |
 
-## Mutation pattern
+## Mutation pattern and selective pressure estimates
 
 |Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
 |:------:|:----:|:---------------------:|:----------------:|:----------------:|

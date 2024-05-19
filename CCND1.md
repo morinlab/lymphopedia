@@ -1,17 +1,18 @@
-# [CCND1]
+# CCND1
 
-## Mutation tier
+## Relevance tier by entity
 
 |Entity|Tier|Description             |
 |:------:|:----:|------------------------|
 |MCL   |1   |high-confidence MCL gene|
-## Mutation incidence
+
+## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
 |Entity|source       |frequency (%)|
 |:------:|:-------------:|:-------------:|
 |MCL   |GAMBL genomes|14.69        |
 
-## Mutation pattern
+## Mutation pattern and selective pressure estimates
 
 |Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
 |:------:|:----:|:---------------------:|:----------------:|:----------------:|

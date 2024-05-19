@@ -1,17 +1,18 @@
-# [ATP6AP1]
+# ATP6AP1
 
-## Mutation tier
+## Relevance tier by entity
 
 |Entity|Tier|Description            |
 |:------:|:----:|-----------------------|
 |FL    |1   |high-confidence FL gene|
-## Mutation incidence
+
+## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
 |Entity|source       |frequency (%)|
 |:------:|:-------------:|:-------------:|
 |FL    |GAMBL genomes|4.85         |
 
-## Mutation pattern
+## Mutation pattern and selective pressure estimates
 
 |Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
 |:------:|:----:|:---------------------:|:----------------:|:----------------:|
