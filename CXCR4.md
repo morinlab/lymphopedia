@@ -4,9 +4,9 @@ CXCR4 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm)
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|BL    |2   |relevance in BL not firmly established|
-|DLBCL |1   |high-confidence DLBCL gene            |
-|FL    |2   |relevance in FL not firmly established|
+|BL    |2-a   |relevance in BL not firmly established, hypermutated|
+|DLBCL |1-a   |high-confidence DLBCL gene, hypermutated            |
+|FL    |2-a   |relevance in FL not firmly established, hypermutated|
 ## Mutation incidence
 
 |Entity|source               |frequency (%)|
