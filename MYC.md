@@ -1,12 +1,13 @@
-# [MYC]
+MYC is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus.
 
 ## Mutation tier
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|BL    |1   |high-confidence BL gene               |
-|DLBCL |1   |high-confidence DLBCL gene            |
-|FL    |2   |relevance in FL not firmly established|
+|BL    |1-a   |high-confidence BL gene               |
+|DLBCL |1-a   |high-confidence DLBCL gene            |
+|FL    |2-a   |relevance of missense mutations in FL not firmly established|
+
 ## Mutation incidence
 
 |Entity|source               |frequency (%)|
