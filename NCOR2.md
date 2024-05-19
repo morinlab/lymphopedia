@@ -1,12 +1,13 @@
-# [NCOR2]
+# NCOR2
 
-## Mutation tier
+## Relevance tier by entity
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
 |BL    |2   |relevance in BL not firmly established|
 |DLBCL |1   |high-confidence DLBCL gene            |
-## Mutation incidence
+
+## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
 |Entity|source               |frequency (%)|
 |:------:|:---------------------:|:-------------:|
@@ -18,7 +19,7 @@
 |DLBCL |Reddy cohort         |3.60         |
 |DLBCL |Chapuy cohort        |4.27         |
 
-## Mutation pattern
+## Mutation pattern and selective pressure estimates
 
 |Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
 |:------:|:----:|:---------------------:|:----------------:|:----------------:|

@@ -1,6 +1,8 @@
+# MEF2B
+## Overview
 MEF2B is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus. MEF2B mutations are observed in a significant subset of follicular lymphoma cases, as well as in other B-cell lymphomas, including diffuse large B-cell lymphoma (DLBCL). MEF2B has known hotspot mutations that affect multiple distinct domains of the protein. 
 
-## Mutation tier
+## Relevance tier by entity
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
@@ -8,7 +10,8 @@ MEF2B is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm)
 |DLBCL |1-a | aSHM target and high-confidence DLBCL gene            |
 |FL    |1-a | aSHM target and high-confidence FL gene               |
 
-## Mutation incidence
+
+## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
 |Entity|source               |frequency (%)|
 |:------:|:---------------------:|:-------------:|
@@ -22,7 +25,7 @@ MEF2B is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm)
 |FL    |GAMBL genomes        |12.93        |
 |MCL   |GAMBL genomes        | 5.69        |
 
-## Mutation pattern
+## Mutation pattern and selective pressure estimates
 
 |Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
 |:------:|:----:|:---------------------:|:----------------:|:----------------:|

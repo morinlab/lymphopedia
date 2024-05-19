@@ -1,11 +1,12 @@
-# [MIR155HG]
+# MIR155HG
 
-## Mutation tier
+## Relevance tier by entity
 
 |Entity|Tier|Description                              |
 |:------:|:----:|-----------------------------------------|
 |DLBCL |2-a | aSHM target; Although recurrent, the relevance of mutations in DLBCL is tenuous |
-## Mutation incidence
+
+## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
 |Entity|source        |frequency (%)|
 |:------:|:--------------:|:-------------:|
@@ -14,7 +15,7 @@
 |DLBCL |Reddy cohort  |  NA         |
 |DLBCL |Chapuy cohort |  NA         |
 
-## Mutation pattern
+## Mutation pattern and selective pressure estimates
 
 |
 

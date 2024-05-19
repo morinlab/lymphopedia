@@ -1,12 +1,13 @@
-# [MKI67]
+# MKI67
 
-## Mutation tier
+## Relevance tier by entity
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
 |BL    |2   |relevance in BL not firmly established|
 |FL    |2   |relevance in FL not firmly established|
-## Mutation incidence
+
+## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
 |Entity|source               |frequency (%)|
 |:------:|:---------------------:|:-------------:|
@@ -15,7 +16,7 @@
 |BL    |Panea cohort         |  NA         |
 |FL    |GAMBL genomes        |1.15         |
 
-## Mutation pattern
+## Mutation pattern and selective pressure estimates
 
 |Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
 |:------:|:----:|:---------------------:|:----------------:|:----------------:|

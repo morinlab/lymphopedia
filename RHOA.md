@@ -1,12 +1,13 @@
-# [RHOA]
+# RHOA
 
-## Mutation tier
+## Relevance tier by entity
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
 |BL    |1   |high-confidence BL gene   |
 |DLBCL |1   |high-confidence DLBCL gene|
-## Mutation incidence
+
+## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
 |Entity|source               |frequency (%)|
 |:------:|:---------------------:|:-------------:|
@@ -18,7 +19,7 @@
 |DLBCL |Reddy cohort         | 3.30        |
 |DLBCL |Chapuy cohort        | 5.13        |
 
-## Mutation pattern
+## Mutation pattern and selective pressure estimates
 
 |Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
 |:------:|:----:|:---------------------:|:----------------:|:----------------:|

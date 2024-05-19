@@ -1,11 +1,12 @@
-# [MSH2]
+# MSH2
 
-## Mutation tier
+## Relevance tier by entity
 
 |Entity|Tier|Description                              |
 |:------:|:----:|-----------------------------------------|
 |DLBCL |2   |relevance in DLBCL not firmly established|
-## Mutation incidence
+
+## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
 |Entity|source        |frequency (%)|
 |:------:|:--------------:|:-------------:|
@@ -14,7 +15,7 @@
 |DLBCL |Reddy cohort  |1.50         |
 |DLBCL |Chapuy cohort |0.43         |
 
-## Mutation pattern
+## Mutation pattern and selective pressure estimates
 
 |Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
 |:------:|:----:|:---------------------:|:----------------:|:----------------:|

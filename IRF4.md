@@ -1,12 +1,15 @@
+# IRF4
+## Overview
 IRF4 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus.
 
-## Mutation tier
+## Relevance tier by entity
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
 |DLBCL |1-a | aSHM target and high-confidence DLBCL gene|
 |FL    |1-a | aSHM target and high-confidence FL gene   |
-## Mutation incidence
+
+## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
 |Entity|source        |frequency (%)|
 |:------:|:--------------:|:-------------:|
@@ -16,7 +19,7 @@ IRF4 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) 
 |DLBCL |Chapuy cohort |2.14         |
 |FL    |GAMBL genomes |1.15         |
 
-## Mutation pattern
+## Mutation pattern and selective pressure estimates
 
 |Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
 |:------:|:----:|:---------------------:|:----------------:|:----------------:|

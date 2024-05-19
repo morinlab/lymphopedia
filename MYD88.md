@@ -1,13 +1,14 @@
-# [MYD88]
+# MYD88
 
-## Mutation tier
+## Relevance tier by entity
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
 |BL    |2   |relevance in BL not firmly established|
 |DLBCL |1   |high-confidence DLBCL gene            |
 |FL    |2   |relevance in FL not firmly established|
-## Mutation incidence
+
+## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
 |Entity|source               |frequency (%)|
 |:------:|:---------------------:|:-------------:|
@@ -20,7 +21,7 @@
 |DLBCL |Chapuy cohort        |21.37        |
 |FL    |GAMBL genomes        | 1.85        |
 
-## Mutation pattern
+## Mutation pattern and selective pressure estimates
 
 |Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
 |:------:|:----:|:---------------------:|:----------------:|:----------------:|

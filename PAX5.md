@@ -1,11 +1,12 @@
-# [PAX5]
+# PAX5
 
-## Mutation tier
+## Relevance tier by entity
 
 |Entity|Tier|Description                              |
 |:------:|:----:|-----------------------------------------|
 |DLBCL |2-a | aSHM target; Although recurrent, the relevance of mutations in DLBCL is tenuous |
-## Mutation incidence
+
+## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
 |Entity|source        |frequency (%)|
 |:------:|:--------------:|:-------------:|
@@ -14,7 +15,7 @@
 |DLBCL |Reddy cohort  |1.90         |
 |DLBCL |Chapuy cohort |3.42         |
 
-## Mutation pattern
+## Mutation pattern and selective pressure estimates
 
 |Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
 |:------:|:----:|:---------------------:|:----------------:|:----------------:|

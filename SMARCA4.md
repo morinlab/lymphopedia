@@ -1,6 +1,6 @@
-# [SMARCA4]
+# SMARCA4
 
-## Mutation tier
+## Relevance tier by entity
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
@@ -8,7 +8,8 @@
 |DLBCL |1   |high-confidence DLBCL gene|
 |FL    |1   |high-confidence FL gene   |
 |MCL   |1   |high-confidence MCL gene  |
-## Mutation incidence
+
+## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
 |Entity|source               |frequency (%)|
 |:------:|:---------------------:|:-------------:|
@@ -22,7 +23,7 @@
 |FL    |GAMBL genomes        | 4.16        |
 |MCL   |GAMBL genomes        | 4.74        |
 
-## Mutation pattern
+## Mutation pattern and selective pressure estimates
 
 |Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
 |:------:|:----:|:---------------------:|:----------------:|:----------------:|

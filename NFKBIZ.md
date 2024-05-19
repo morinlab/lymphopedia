@@ -1,11 +1,14 @@
+# NFKBIZ
+## Overview
 NFKBIZ is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus.
 
-## Mutation tier
+## Relevance tier by entity
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
 |DLBCL |1-a | aSHM target and high-confidence DLBCL gene|
-## Mutation incidence
+
+## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
 |Entity|source        |frequency (%)|
 |:------:|:--------------:|:-------------:|
@@ -14,7 +17,7 @@ NFKBIZ is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm
 |DLBCL |Reddy cohort  |1.50         |
 |DLBCL |Chapuy cohort |0.85         |
 
-## Mutation pattern
+## Mutation pattern and selective pressure estimates
 
 |Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
 |:------:|:----:|:---------------------:|:----------------:|:----------------:|

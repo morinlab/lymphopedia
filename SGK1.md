@@ -1,13 +1,14 @@
-# [SGK1]
+# SGK1
 
-## Mutation tier
+## Relevance tier by entity
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
 |BL    |2-a | aSHM target; Although recurrent, the relevance of mutations in BL is tenuous |
 |DLBCL |1-a | aSHM target and high-confidence DLBCL gene            |
 |FL    |1-a | aSHM target and high-confidence FL gene               |
-## Mutation incidence
+
+## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
 |Entity|source               |frequency (%)|
 |:------:|:---------------------:|:-------------:|
@@ -20,7 +21,7 @@
 |DLBCL |Chapuy cohort        |12.82        |
 |FL    |GAMBL genomes        | 6.00        |
 
-## Mutation pattern
+## Mutation pattern and selective pressure estimates
 
 |Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
 |:------:|:----:|:---------------------:|:----------------:|:----------------:|

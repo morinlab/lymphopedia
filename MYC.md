@@ -1,13 +1,16 @@
+# MYC
+## Overview
 MYC is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus.
 
-## Mutation tier
+## Relevance tier by entity
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
 |BL    |1-a | aSHM target and high-confidence BL gene               |
 |DLBCL |1-a | aSHM target and high-confidence DLBCL gene            |
 |FL    |2-a | aSHM target; Although recurrent, the relevance of mutations in FL is tenuous |
-## Mutation incidence
+
+## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
 |Entity|source               |frequency (%)|
 |:------:|:---------------------:|:-------------:|
@@ -20,7 +23,7 @@ MYC is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) a
 |DLBCL |Chapuy cohort        | 6.41        |
 |FL    |GAMBL genomes        | 0.92        |
 
-## Mutation pattern
+## Mutation pattern and selective pressure estimates
 
 |Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
 |:------:|:----:|:---------------------:|:----------------:|:----------------:|
