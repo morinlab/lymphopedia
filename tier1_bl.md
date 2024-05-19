@@ -1,5 +1,5 @@
 # BL genes, Tier 1
-|Category |Gene|Frequency(GAMBL)|gene|protein|
+|Category |Gene|BL mutation frequency|gene|protein|
 | :---: | :----: | :---: | :---: | :---: |
 |1|[ARID1A](ARID1A)|28.64|[view](images/proteinpaint/ARID1A.svg)|[view](images/proteinpaint/ARID1A_NM_006015.svg)|
 |1|[BMP7](BMP7)|6.47|[view](images/proteinpaint/BMP7.svg)|[view](images/proteinpaint/BMP7_NM_001719.svg)|
