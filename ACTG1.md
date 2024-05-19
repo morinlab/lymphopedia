@@ -1,20 +1,19 @@
-ACTG1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus.
+# [ACTG1]
 
 ## Mutation tier
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|DLBCL |1-a   |high-confidence DLBCL gene, hypermutated            |
-|FL    |2-a   |relevance in FL not firmly established, hypermutated|
-
+|DLBCL |1-a | aSHM target and high-confidence DLBCL gene            |
+|FL    |2-a | aSHM target; Although recurrent, the relevance of mutations in FL is tenuous |
 ## Mutation incidence
 
 |Entity|source        |frequency (%)|
 |:------:|:--------------:|:-------------:|
 |DLBCL |GAMBL genomes |5.35         |
-|DLBCL |Schmitz cohort|  NA         |
-|DLBCL |Reddy cohort  |  NA         |
-|DLBCL |Chapuy cohort |  NA         |
+|DLBCL |Schmitz cohort|7.45         |
+|DLBCL |Reddy cohort  |4.70         |
+|DLBCL |Chapuy cohort |2.99         |
 |FL    |GAMBL genomes |3.00         |
 
 ## Mutation pattern
@@ -32,6 +31,9 @@ ACTG1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm)
 |chr17   |79478289  |79479959|[intron](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr17%3A79478289%2D79479959)|NA                |
 
 > [!NOTE]
+> First described in DLBCL in 2021 by [Hübschmann D](https://pubmed.ncbi.nlm.nih.gov/33953289). First described in FL in 2021 by [Hübschmann D](https://pubmed.ncbi.nlm.nih.gov/33953289)
+
+
 View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ACTG1_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ACTG1_protein_hg38.html)
 
 ![image](images/proteinpaint/ACTG1_NM_001614.svg)
