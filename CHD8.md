@@ -32,10 +32,10 @@
 > First described in BL in 2023 by [Thomas N](https://pubmed.ncbi.nlm.nih.gov/36201743). First described in DLBCL in 2017 by [Reddy A](https://pubmed.ncbi.nlm.nih.gov/28985567)
 
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CHD8_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CHD8_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CHD8_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CHD8_protein_hg38.html)
 
 ![image](images/proteinpaint/CHD8_NM_001170629.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CHD8.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CHD8_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CHD8.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CHD8_hg38.html)
 
 ![image](images/proteinpaint/CHD8.svg)

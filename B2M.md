@@ -65,10 +65,10 @@ The B2M (β2-microglobulin) gene plays a crucial role in the function of the maj
 | chr15 | 45003781 | C>T | L13F |
 | chr15 | 45003782 | T>C | L13P |
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/B2M_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/B2M_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/B2M_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/B2M_protein_hg38.html)
 
 ![image](images/proteinpaint/B2M_NM_004048.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/B2M.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/B2M_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/B2M.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/B2M_hg38.html)
 
 ![image](images/proteinpaint/B2M.svg)

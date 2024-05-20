@@ -41,10 +41,10 @@
 > First described in DLBCL in 2018 by [Arthur SE](https://pubmed.ncbi.nlm.nih.gov/30275490)
 
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/LPP_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/LPP_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/LPP_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/LPP_protein_hg38.html)
 
 ![image](images/proteinpaint/LPP_NM_005578.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/LPP.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/LPP_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/LPP.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/LPP_hg38.html)
 
 ![image](images/proteinpaint/LPP.svg)

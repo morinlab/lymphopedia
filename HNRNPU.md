@@ -47,10 +47,10 @@ HNRNPU is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm
 | chr1 | 245027099 | G>C | Q171E |
 | chr1 | 245027099 | G>A | Q171* |
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/HNRNPU_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/HNRNPU_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/HNRNPU_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/HNRNPU_protein_hg38.html)
 
 ![image](images/proteinpaint/HNRNPU_NM_031844.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/HNRNPU.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/HNRNPU_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/HNRNPU.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/HNRNPU_hg38.html)
 
 ![image](images/proteinpaint/HNRNPU.svg)

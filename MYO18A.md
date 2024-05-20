@@ -27,10 +27,10 @@
 > First described in BL in 2022 by [Burkhardt B](https://pubmed.ncbi.nlm.nih.gov/35794096)
 
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MYO18A_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MYO18A_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/MYO18A_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/MYO18A_protein_hg38.html)
 
 ![image](images/proteinpaint/MYO18A_NM_078471.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MYO18A.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MYO18A_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/MYO18A.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/MYO18A_hg38.html)
 
 ![image](images/proteinpaint/MYO18A.svg)
