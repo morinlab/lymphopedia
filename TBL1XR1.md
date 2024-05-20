@@ -47,10 +47,10 @@
 | chr3 | 176750838 | T>C | Y446C |
 | chr3 | 176750836 | T>G | S447R |
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TBL1XR1_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TBL1XR1_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/TBL1XR1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/TBL1XR1_protein_hg38.html)
 
 ![image](images/proteinpaint/TBL1XR1_NM_024665.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TBL1XR1.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TBL1XR1_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/TBL1XR1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/TBL1XR1_hg38.html)
 
 ![image](images/proteinpaint/TBL1XR1.svg)

@@ -28,10 +28,10 @@
 > First described in DLBCL in 2021 by [Hübschmann D](https://pubmed.ncbi.nlm.nih.gov/33953289)
 
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ADAMTS1_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ADAMTS1_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ADAMTS1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ADAMTS1_protein_hg38.html)
 
 ![image](images/proteinpaint/ADAMTS1_NM_006988.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ADAMTS1.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ADAMTS1_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ADAMTS1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ADAMTS1_hg38.html)
 
 ![image](images/proteinpaint/ADAMTS1.svg)

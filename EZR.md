@@ -30,10 +30,10 @@
 |chr6    |159237903 |159240216|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr6%3A159237903%2D159240216)|NA                |
 
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/EZR_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/EZR_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/EZR_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/EZR_protein_hg38.html)
 
 ![image](images/proteinpaint/EZR_NM_003379.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/EZR.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/EZR_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/EZR.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/EZR_hg38.html)
 
 ![image](images/proteinpaint/EZR.svg)

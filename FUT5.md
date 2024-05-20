@@ -28,10 +28,10 @@
 > First described in DLBCL in 2018 by [Chapuy B](https://pubmed.ncbi.nlm.nih.gov/29713087)
 
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/FUT5_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/FUT5_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/FUT5_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/FUT5_protein_hg38.html)
 
 ![image](images/proteinpaint/FUT5_NM_002034.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/FUT5.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/FUT5_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/FUT5.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/FUT5_hg38.html)
 
 ![image](images/proteinpaint/FUT5.svg)

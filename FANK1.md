@@ -30,10 +30,10 @@
 |chr10   |127578912 |127591133|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr10%3A127578912%2D127591133)|active_promoter   |
 
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/FANK1_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/FANK1_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/FANK1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/FANK1_protein_hg38.html)
 
 ![image](images/proteinpaint/FANK1_NM_145235.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/FANK1.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/FANK1_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/FANK1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/FANK1_hg38.html)
 
 ![image](images/proteinpaint/FANK1.svg)

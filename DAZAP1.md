@@ -40,10 +40,10 @@
 | chr19 | 1434903 | C>T | R406* |
 | chr19 | 1434906 | C>T | R407C |
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/DAZAP1_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/DAZAP1_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/DAZAP1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/DAZAP1_protein_hg38.html)
 
 ![image](images/proteinpaint/DAZAP1_ENST00000233078.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/DAZAP1.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/DAZAP1_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/DAZAP1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/DAZAP1_hg38.html)
 
 ![image](images/proteinpaint/DAZAP1.svg)

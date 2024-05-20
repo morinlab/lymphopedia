@@ -33,10 +33,10 @@ NFKBIZ is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm
 |chr3    |101568239 |101569274|[TSS-2](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr3%3A101568239%2D101569274)|active_promoter   |
 
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/NFKBIZ_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/NFKBIZ_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/NFKBIZ_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/NFKBIZ_protein_hg38.html)
 
 ![image](images/proteinpaint/NFKBIZ_zoom.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/NFKBIZ.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/NFKBIZ_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/NFKBIZ.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/NFKBIZ_hg38.html)
 
 ![image](images/proteinpaint/NFKBIZ.svg)

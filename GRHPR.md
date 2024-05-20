@@ -35,10 +35,10 @@ GRHPR is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm)
 > First described in DLBCL in 2018 by [Arthur SE](https://pubmed.ncbi.nlm.nih.gov/30275490)
 
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/GRHPR_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/GRHPR_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/GRHPR_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/GRHPR_protein_hg38.html)
 
 ![image](images/proteinpaint/GRHPR_NM_012203.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/GRHPR.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/GRHPR_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/GRHPR.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/GRHPR_hg38.html)
 
 ![image](images/proteinpaint/GRHPR.svg)

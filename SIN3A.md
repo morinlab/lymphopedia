@@ -32,10 +32,10 @@
 > First described in BL in 2019 by [Grande BM](https://pubmed.ncbi.nlm.nih.gov/30617194)
 
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/SIN3A_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/SIN3A_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/SIN3A_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/SIN3A_protein_hg38.html)
 
 ![image](images/proteinpaint/SIN3A_NM_001145358.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/SIN3A.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/SIN3A_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/SIN3A.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/SIN3A_hg38.html)
 
 ![image](images/proteinpaint/SIN3A.svg)

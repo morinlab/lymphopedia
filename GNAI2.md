@@ -50,10 +50,10 @@
 | chr3 | 50293698 | T>A | V180E |
 | chr3 | 50293703 | A>G | T182A |
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/GNAI2_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/GNAI2_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/GNAI2_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/GNAI2_protein_hg38.html)
 
 ![image](images/proteinpaint/GNAI2_NM_002070.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/GNAI2.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/GNAI2_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/GNAI2.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/GNAI2_hg38.html)
 
 ![image](images/proteinpaint/GNAI2.svg)

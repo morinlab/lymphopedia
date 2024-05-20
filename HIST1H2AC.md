@@ -54,8 +54,8 @@
 | chr6 | 26124819 | A>G | K120R |
 | chr6 | 26124832 | CC>TT | H125Y |
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/HIST1H2AC_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/HIST1H2AC_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/HIST1H2AC_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/HIST1H2AC_protein_hg38.html)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/HIST1H2AC.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/HIST1H2AC_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/HIST1H2AC.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/HIST1H2AC_hg38.html)
 
 ![image](images/proteinpaint/HIST1H2AC.svg)

@@ -28,10 +28,10 @@
 > First described in DLBCL in 2013 by [Morin RD](https://pubmed.ncbi.nlm.nih.gov/23699601)
 
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/IFNGR1_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/IFNGR1_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/IFNGR1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/IFNGR1_protein_hg38.html)
 
 ![image](images/proteinpaint/IFNGR1_NM_000416.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/IFNGR1.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/IFNGR1_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/IFNGR1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/IFNGR1_hg38.html)
 
 ![image](images/proteinpaint/IFNGR1.svg)

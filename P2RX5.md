@@ -33,10 +33,10 @@
 > First described in DLBCL in 2013 by [Morin RD](https://pubmed.ncbi.nlm.nih.gov/23699601)
 
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/P2RX5_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/P2RX5_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/P2RX5_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/P2RX5_protein_hg38.html)
 
 ![image](images/proteinpaint/P2RX5_NM_002561.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/P2RX5.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/P2RX5_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/P2RX5.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/P2RX5_hg38.html)
 
 ![image](images/proteinpaint/P2RX5.svg)

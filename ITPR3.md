@@ -27,10 +27,10 @@
 > First described in BL in 2012 by [Love C](https://pubmed.ncbi.nlm.nih.gov/23143597)
 
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ITPR3_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ITPR3_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ITPR3_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ITPR3_protein_hg38.html)
 
 ![image](images/proteinpaint/ITPR3_NM_002224.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ITPR3.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ITPR3_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ITPR3.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ITPR3_hg38.html)
 
 ![image](images/proteinpaint/ITPR3.svg)

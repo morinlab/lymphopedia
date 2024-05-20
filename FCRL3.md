@@ -30,10 +30,10 @@
 |chr2    |157669490 |157671299|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr2%3A157669490%2D157671299)|NA                |
 
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/FCRL3_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/FCRL3_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/FCRL3_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/FCRL3_protein_hg38.html)
 
 ![image](images/proteinpaint/FCRL3_NM_052939.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/FCRL3.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/FCRL3_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/FCRL3.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/FCRL3_hg38.html)
 
 ![image](images/proteinpaint/FCRL3.svg)

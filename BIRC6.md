@@ -43,11 +43,11 @@ BIRC6, as a negative regulator of non-canonical NF-κB signaling, is implicated 
  | :---:| :---: | :--: | :---: |
 | chr2 | 32740138 | T>A | C3550* |
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/BIRC6_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/BIRC6_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/BIRC6_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/BIRC6_protein_hg38.html)
 
 ![image](images/proteinpaint/BIRC6_NM_016252.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/BIRC6.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/BIRC6_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/BIRC6.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/BIRC6_hg38.html)
 
 ![image](images/proteinpaint/BIRC6.svg)
 

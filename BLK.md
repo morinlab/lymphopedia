@@ -30,10 +30,10 @@
 |chr8    |11347723  |11355318|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr8%3A11347723%2D11355318)|strong_enhancer   |
 
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/BLK_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/BLK_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/BLK_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/BLK_protein_hg38.html)
 
 ![image](images/proteinpaint/BLK_NM_001715.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/BLK.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/BLK_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/BLK.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/BLK_hg38.html)
 
 ![image](images/proteinpaint/BLK.svg)

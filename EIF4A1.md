@@ -27,10 +27,10 @@
 > First described in BL in 2019 by [Panea RI](https://pubmed.ncbi.nlm.nih.gov/31558468)
 
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/EIF4A1_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/EIF4A1_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/EIF4A1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/EIF4A1_protein_hg38.html)
 
 ![image](images/proteinpaint/EIF4A1_NM_001416.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/EIF4A1.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/EIF4A1_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/EIF4A1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/EIF4A1_hg38.html)
 
 ![image](images/proteinpaint/EIF4A1.svg)

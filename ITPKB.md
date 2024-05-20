@@ -46,10 +46,10 @@ ITPKB is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm)
 | chr1 | 226925148 | G>C | Y4* |
 | chr1 | 226925148 | G>T | Y4* |
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ITPKB_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ITPKB_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ITPKB_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ITPKB_protein_hg38.html)
 
 ![image](images/proteinpaint/ITPKB_NM_002221.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ITPKB.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ITPKB_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ITPKB.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ITPKB_hg38.html)
 
 ![image](images/proteinpaint/ITPKB.svg)

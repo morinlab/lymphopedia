@@ -33,10 +33,10 @@
  | :---:| :---: | :--: | :---: |
 | chr2 | 27455966 | T>A | Y983* |
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CAD_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CAD_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CAD_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CAD_protein_hg38.html)
 
 ![image](images/proteinpaint/CAD_NM_004341.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CAD.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CAD_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CAD.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CAD_hg38.html)
 
 ![image](images/proteinpaint/CAD.svg)

@@ -40,10 +40,10 @@
 | chr9 | 139401207 | C>T | V1288I |
 | chr9 | 139401199 | G>C | D1290E |
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/NOTCH1_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/NOTCH1_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/NOTCH1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/NOTCH1_protein_hg38.html)
 
 ![image](images/proteinpaint/NOTCH1_NM_017617.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/NOTCH1.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/NOTCH1_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/NOTCH1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/NOTCH1_hg38.html)
 
 ![image](images/proteinpaint/NOTCH1.svg)

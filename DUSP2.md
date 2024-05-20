@@ -53,10 +53,10 @@ DUSP2 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm)
 | chr2 | 96810582 | C>T | C143Y |
 | chr2 | 96810574 | C>T | A146T |
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/DUSP2_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/DUSP2_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/DUSP2_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/DUSP2_protein_hg38.html)
 
 ![image](images/proteinpaint/DUSP2_NM_004418.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/DUSP2.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/DUSP2_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/DUSP2.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/DUSP2_hg38.html)
 
 ![image](images/proteinpaint/DUSP2.svg)

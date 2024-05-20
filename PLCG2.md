@@ -33,10 +33,10 @@
  | :---:| :---: | :--: | :---: |
 | chr16 | 81819719 | C>A | T42N |
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PLCG2_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PLCG2_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PLCG2_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PLCG2_protein_hg38.html)
 
 ![image](images/proteinpaint/PLCG2_NM_002661.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PLCG2.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PLCG2_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PLCG2.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PLCG2_hg38.html)
 
 ![image](images/proteinpaint/PLCG2.svg)

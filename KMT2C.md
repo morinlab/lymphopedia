@@ -34,10 +34,10 @@
 > First described in BL in 2019 by [Zhou P](https://pubmed.ncbi.nlm.nih.gov/31300419). First described in DLBCL in 2013 by [Zhang J](https://pubmed.ncbi.nlm.nih.gov/23292937). First described in MCL in 2014 by [Zhang J](https://pubmed.ncbi.nlm.nih.gov/24682267)
 
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/KMT2C_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/KMT2C_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/KMT2C_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/KMT2C_protein_hg38.html)
 
 ![image](images/proteinpaint/KMT2C_NM_170606.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/KMT2C.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/KMT2C_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/KMT2C.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/KMT2C_hg38.html)
 
 ![image](images/proteinpaint/KMT2C.svg)

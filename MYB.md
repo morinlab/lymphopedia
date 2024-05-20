@@ -28,10 +28,10 @@
 > First described in DLBCL in 2017 by [Reddy A](https://pubmed.ncbi.nlm.nih.gov/28985567)
 
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MYB_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MYB_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/MYB_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/MYB_protein_hg38.html)
 
 ![image](images/proteinpaint/MYB_NM_001130173.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MYB.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MYB_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/MYB.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/MYB_hg38.html)
 
 ![image](images/proteinpaint/MYB.svg)

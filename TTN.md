@@ -33,10 +33,10 @@
  | :---:| :---: | :--: | :---: |
 | chr2 | 179638249 | C>T | E2512K |
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TTN_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TTN_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/TTN_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/TTN_protein_hg38.html)
 
 ![image](images/proteinpaint/TTN_NM_133378.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TTN.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TTN_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/TTN.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/TTN_hg38.html)
 
 ![image](images/proteinpaint/TTN.svg)

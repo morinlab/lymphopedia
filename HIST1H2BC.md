@@ -41,8 +41,8 @@
 | chr6 | 26123881 | G>C | Y84* |
 | chr6 | 26123874 | G>A | R87C |
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/HIST1H2BC_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/HIST1H2BC_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/HIST1H2BC_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/HIST1H2BC_protein_hg38.html)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/HIST1H2BC.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/HIST1H2BC_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/HIST1H2BC.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/HIST1H2BC_hg38.html)
 
 ![image](images/proteinpaint/HIST1H2BC.svg)

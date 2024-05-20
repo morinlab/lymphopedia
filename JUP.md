@@ -25,10 +25,10 @@
 > First described in FL in 2021 by [Hübschmann D](https://pubmed.ncbi.nlm.nih.gov/33953289)
 
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/JUP_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/JUP_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/JUP_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/JUP_protein_hg38.html)
 
 ![image](images/proteinpaint/JUP_NM_002230.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/JUP.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/JUP_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/JUP.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/JUP_hg38.html)
 
 ![image](images/proteinpaint/JUP.svg)

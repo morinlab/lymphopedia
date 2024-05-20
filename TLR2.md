@@ -37,10 +37,10 @@
 | chr4 | 154625039 | A>T | D327V |
 | chr4 | 154625042 | T>G | L328R |
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TLR2_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TLR2_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/TLR2_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/TLR2_protein_hg38.html)
 
 ![image](images/proteinpaint/TLR2_NM_003264.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TLR2.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TLR2_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/TLR2.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/TLR2_hg38.html)
 
 ![image](images/proteinpaint/TLR2.svg)

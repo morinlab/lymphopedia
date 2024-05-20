@@ -40,10 +40,10 @@
 | chr22 | 37627985 | T>C | N92S |
 | chr22 | 37627985 | T>G | N92T |
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/RAC2_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/RAC2_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/RAC2_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/RAC2_protein_hg38.html)
 
 ![image](images/proteinpaint/RAC2_NM_002872.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/RAC2.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/RAC2_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/RAC2.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/RAC2_hg38.html)
 
 ![image](images/proteinpaint/RAC2.svg)

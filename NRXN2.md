@@ -27,10 +27,10 @@
 > First described in BL in 2012 by [Love C](https://pubmed.ncbi.nlm.nih.gov/23143597)
 
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/NRXN2_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/NRXN2_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/NRXN2_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/NRXN2_protein_hg38.html)
 
 ![image](images/proteinpaint/NRXN2_NM_015080.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/NRXN2.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/NRXN2_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/NRXN2.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/NRXN2_hg38.html)
 
 ![image](images/proteinpaint/NRXN2.svg)

@@ -46,10 +46,10 @@ IRF4 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) 
 | chr6 | 393360 | C>G | L70V |
 | chr6 | 393360 | C>T | L70F |
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/IRF4_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/IRF4_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/IRF4_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/IRF4_protein_hg38.html)
 
 ![image](images/proteinpaint/IRF4_NM_002460.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/IRF4.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/IRF4_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/IRF4.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/IRF4_hg38.html)
 
 ![image](images/proteinpaint/IRF4.svg)

@@ -33,10 +33,10 @@
  | :---:| :---: | :--: | :---: |
 | chr8 | 144946005 | G>A | R473W |
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/EPPK1_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/EPPK1_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/EPPK1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/EPPK1_protein_hg38.html)
 
 ![image](images/proteinpaint/EPPK1_NM_031308.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/EPPK1.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/EPPK1_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/EPPK1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/EPPK1_hg38.html)
 
 ![image](images/proteinpaint/EPPK1.svg)

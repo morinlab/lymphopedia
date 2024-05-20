@@ -48,10 +48,10 @@
 | chr20 | 55840918 | G>C | Y87* |
 | chr20 | 55840913 | G>T | A89D |
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/BMP7_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/BMP7_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/BMP7_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/BMP7_protein_hg38.html)
 
 ![image](images/proteinpaint/BMP7_NM_001719.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/BMP7.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/BMP7_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/BMP7.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/BMP7_hg38.html)
 
 ![image](images/proteinpaint/BMP7.svg)

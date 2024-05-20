@@ -50,11 +50,11 @@ BRAF mutations, particularly the BRAF V600E hot spot mutation, are primarily ass
 | chr7 | 140453136 | A>T | V600E |
 | chr7 | 140453132 | T>G | K601N |
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/BRAF_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/BRAF_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/BRAF_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/BRAF_protein_hg38.html)
 
 ![image](images/proteinpaint/BRAF_NM_004333.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/BRAF.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/BRAF_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/BRAF.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/BRAF_hg38.html)
 
 ![image](images/proteinpaint/BRAF.svg)
 

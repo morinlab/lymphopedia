@@ -25,10 +25,10 @@
 > First described in MCL in 2014 by [Zhang J](https://pubmed.ncbi.nlm.nih.gov/24682267)
 
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CTNNA2_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CTNNA2_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CTNNA2_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CTNNA2_protein_hg38.html)
 
 ![image](images/proteinpaint/CTNNA2_NM_004389.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CTNNA2.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CTNNA2_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CTNNA2.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CTNNA2_hg38.html)
 
 ![image](images/proteinpaint/CTNNA2.svg)

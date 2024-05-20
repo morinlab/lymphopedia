@@ -28,10 +28,10 @@
 > First described in DLBCL in 2013 by [Morin RD](https://pubmed.ncbi.nlm.nih.gov/23699601)
 
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/POGZ_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/POGZ_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/POGZ_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/POGZ_protein_hg38.html)
 
 ![image](images/proteinpaint/POGZ_NM_015100.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/POGZ.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/POGZ_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/POGZ.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/POGZ_hg38.html)
 
 ![image](images/proteinpaint/POGZ.svg)

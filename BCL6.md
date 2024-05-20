@@ -61,11 +61,11 @@ BCL6 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) 
 | chr3 | 187443345 | C>T | R594Q |
 | chr3 | 187443342 | A>T | I595N |
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/BCL6_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/BCL6_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/BCL6_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/BCL6_protein_hg38.html)
 
 ![image](images/proteinpaint/BCL6_NM_001706.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/BCL6.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/BCL6_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/BCL6.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/BCL6_hg38.html)
 
 ![image](images/proteinpaint/BCL6.svg)
 

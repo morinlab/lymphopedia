@@ -25,10 +25,10 @@
 > First described in MCL in 2014 by [Zhang J](https://pubmed.ncbi.nlm.nih.gov/24682267)
 
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/SI_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/SI_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/SI_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/SI_protein_hg38.html)
 
 ![image](images/proteinpaint/SI_NM_001041.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/SI.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/SI_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/SI.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/SI_hg38.html)
 
 ![image](images/proteinpaint/SI.svg)

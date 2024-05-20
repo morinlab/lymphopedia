@@ -38,10 +38,10 @@
 | chr7 | 82585302 | A>G | L1656P |
 | chr7 | 82544727 | T>C | K4192R |
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PCLO_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PCLO_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PCLO_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PCLO_protein_hg38.html)
 
 ![image](images/proteinpaint/PCLO_NM_033026.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PCLO.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PCLO_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PCLO.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PCLO_hg38.html)
 
 ![image](images/proteinpaint/PCLO.svg)

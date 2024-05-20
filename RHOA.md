@@ -43,10 +43,10 @@
 | chr3 | 49412898 | T>G | Y42S |
 | chr3 | 49412898 | T>C | Y42C |
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/RHOA_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/RHOA_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/RHOA_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/RHOA_protein_hg38.html)
 
 ![image](images/proteinpaint/RHOA_NM_001664.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/RHOA.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/RHOA_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/RHOA.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/RHOA_hg38.html)
 
 ![image](images/proteinpaint/RHOA.svg)

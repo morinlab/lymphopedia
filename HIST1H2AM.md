@@ -44,10 +44,10 @@
 | chr6 | 27860542 | C>T | G129D |
 | chr6 | 27860538 | C>G | K130N |
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/HIST1H2AM_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/HIST1H2AM_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/HIST1H2AM_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/HIST1H2AM_protein_hg38.html)
 
 ![image](images/proteinpaint/HIST1H2AM_NM_003514.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/HIST1H2AM.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/HIST1H2AM_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/HIST1H2AM.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/HIST1H2AM_hg38.html)
 
 ![image](images/proteinpaint/HIST1H2AM.svg)

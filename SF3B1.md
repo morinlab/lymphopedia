@@ -40,10 +40,10 @@
 | chr2 | 198266832 | T>G | K700N |
 | chr2 | 198266821 | A>C | I704S |
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/SF3B1_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/SF3B1_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/SF3B1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/SF3B1_protein_hg38.html)
 
 ![image](images/proteinpaint/SF3B1_NM_012433.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/SF3B1.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/SF3B1_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/SF3B1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/SF3B1_hg38.html)
 
 ![image](images/proteinpaint/SF3B1.svg)

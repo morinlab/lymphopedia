@@ -42,10 +42,10 @@ CXCR4 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm)
 > First described in BL in 2019 by [Panea RI](https://pubmed.ncbi.nlm.nih.gov/31558468). First described in DLBCL in 2012 by [Khodabakhshi AH](https://pubmed.ncbi.nlm.nih.gov/23131835). First described in FL in 2021 by [Hübschmann D](https://pubmed.ncbi.nlm.nih.gov/33953289)
 
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CXCR4_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CXCR4_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CXCR4_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CXCR4_protein_hg38.html)
 
 ![image](images/proteinpaint/CXCR4_NM_001008540.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CXCR4.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CXCR4_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CXCR4.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CXCR4_hg38.html)
 
 ![image](images/proteinpaint/CXCR4.svg)

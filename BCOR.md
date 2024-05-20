@@ -38,11 +38,11 @@ BCOR acts as a co-repressor of BCL6, and mutations in BCOR could impair its bind
  | :---:| :---: | :--: | :---: |
 | chrX | 39921444 | T>C | N1459S |
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/BCOR_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/BCOR_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/BCOR_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/BCOR_protein_hg38.html)
 
 ![image](images/proteinpaint/BCOR_NM_017745.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/BCOR.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/BCOR_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/BCOR.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/BCOR_hg38.html)
 
 ![image](images/proteinpaint/BCOR.svg)
 

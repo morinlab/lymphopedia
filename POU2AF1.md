@@ -45,10 +45,10 @@ POU2AF1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ash
 | chr11 | 111249900 | C>T | M1? |
 | chr11 | 111275352 | T>C | R6G |
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/POU2AF1_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/POU2AF1_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/POU2AF1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/POU2AF1_protein_hg38.html)
 
 ![image](images/proteinpaint/POU2AF1_NM_006235.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/POU2AF1.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/POU2AF1_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/POU2AF1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/POU2AF1_hg38.html)
 
 ![image](images/proteinpaint/POU2AF1.svg)

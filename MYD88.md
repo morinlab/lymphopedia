@@ -39,10 +39,10 @@
  | :---:| :---: | :--: | :---: |
 | chr3 | 38182641 | T>C | L265P |
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MYD88_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MYD88_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/MYD88_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/MYD88_protein_hg38.html)
 
 ![image](images/proteinpaint/MYD88_NM_002468.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MYD88.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MYD88_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/MYD88.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/MYD88_hg38.html)
 
 ![image](images/proteinpaint/MYD88.svg)

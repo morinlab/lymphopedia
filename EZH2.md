@@ -45,10 +45,10 @@
 | chr7 | 148508727 | T>C | Y646C |
 | chr7 | 148508727 | T>A | Y646F |
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/EZH2_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/EZH2_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/EZH2_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/EZH2_protein_hg38.html)
 
 ![image](images/proteinpaint/EZH2_NM_001203247.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/EZH2.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/EZH2_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/EZH2.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/EZH2_hg38.html)
 
 ![image](images/proteinpaint/EZH2.svg)

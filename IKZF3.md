@@ -46,10 +46,10 @@ IKZF3 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm)
 | chr17 | 37947782 | T>C | N160S |
 | chr17 | 37947776 | A>C | L162R |
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/IKZF3_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/IKZF3_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/IKZF3_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/IKZF3_protein_hg38.html)
 
 ![image](images/proteinpaint/IKZF3_NM_012481.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/IKZF3.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/IKZF3_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/IKZF3.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/IKZF3_hg38.html)
 
 ![image](images/proteinpaint/IKZF3.svg)

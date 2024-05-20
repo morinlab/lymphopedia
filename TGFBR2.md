@@ -28,10 +28,10 @@
 > First described in DLBCL in 2017 by [Reddy A](https://pubmed.ncbi.nlm.nih.gov/28985567)
 
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TGFBR2_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TGFBR2_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/TGFBR2_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/TGFBR2_protein_hg38.html)
 
 ![image](images/proteinpaint/TGFBR2_NM_001024847.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TGFBR2.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TGFBR2_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/TGFBR2.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/TGFBR2_hg38.html)
 
 ![image](images/proteinpaint/TGFBR2.svg)

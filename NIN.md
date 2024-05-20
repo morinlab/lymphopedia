@@ -25,10 +25,10 @@
 > First described in MCL in 2014 by [Zhang J](https://pubmed.ncbi.nlm.nih.gov/24682267)
 
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/NIN_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/NIN_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/NIN_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/NIN_protein_hg38.html)
 
 ![image](images/proteinpaint/NIN_NM_182944.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/NIN.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/NIN_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/NIN.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/NIN_hg38.html)
 
 ![image](images/proteinpaint/NIN.svg)

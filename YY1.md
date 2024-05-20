@@ -30,10 +30,10 @@
 > [!WARNING]
 > Mutations in this gene were reported to be inflated in the original results according to [Dreval K](https://www.biorxiv.org/content/10.1101/2023.11.21.567983v1)
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/YY1_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/YY1_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/YY1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/YY1_protein_hg38.html)
 
 ![image](images/proteinpaint/YY1_NM_003403.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/YY1.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/YY1_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/YY1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/YY1_hg38.html)
 
 ![image](images/proteinpaint/YY1.svg)

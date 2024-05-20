@@ -50,10 +50,10 @@
 | chr1 | 2488152 | A>T | K17* |
 | chr1 | 2488156 | C>A | T18N |
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TNFRSF14_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TNFRSF14_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/TNFRSF14_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/TNFRSF14_protein_hg38.html)
 
 ![image](images/proteinpaint/TNFRSF14_NM_003820.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TNFRSF14.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TNFRSF14_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/TNFRSF14.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/TNFRSF14_hg38.html)
 
 ![image](images/proteinpaint/TNFRSF14.svg)

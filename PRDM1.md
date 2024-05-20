@@ -44,10 +44,10 @@
 | chr6 | 106536324 | G>A | E97= |
 | chr6 | 106536324 | G>C | E97D |
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PRDM1_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PRDM1_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PRDM1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PRDM1_protein_hg38.html)
 
 ![image](images/proteinpaint/PRDM1_NM_001198.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PRDM1.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PRDM1_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PRDM1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PRDM1_hg38.html)
 
 ![image](images/proteinpaint/PRDM1.svg)

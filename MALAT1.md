@@ -26,10 +26,10 @@
 |chr11   |65265237  |65268359|[ncRNA](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr11%3A65265237%2D65268359)|enhancer          |
 
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MALAT1_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MALAT1_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/MALAT1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/MALAT1_protein_hg38.html)
 
 ![image](images/proteinpaint/MALAT1_NR_002819.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MALAT1.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MALAT1_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/MALAT1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/MALAT1_hg38.html)
 
 ![image](images/proteinpaint/MALAT1.svg)

@@ -30,10 +30,10 @@
 |chr13   |75982519  |75986015|[intron](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr13%3A75982519%2D75986015)|NA                |
 
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TBC1D4_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TBC1D4_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/TBC1D4_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/TBC1D4_protein_hg38.html)
 
 ![image](images/proteinpaint/TBC1D4_NM_014832.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TBC1D4.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TBC1D4_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/TBC1D4.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/TBC1D4_hg38.html)
 
 ![image](images/proteinpaint/TBC1D4.svg)

@@ -33,10 +33,10 @@
 |chr3    |186782522 |186784438|[intron-1](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr3%3A186782522%2D186784438)|strong_enhancer   |
 
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ST6GAL1_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ST6GAL1_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ST6GAL1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ST6GAL1_protein_hg38.html)
 
 ![image](images/proteinpaint/ST6GAL1_NM_173216.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ST6GAL1.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ST6GAL1_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ST6GAL1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ST6GAL1_hg38.html)
 
 ![image](images/proteinpaint/ST6GAL1.svg)

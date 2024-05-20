@@ -43,10 +43,10 @@
 | chr6 | 27101126 | G>T | E92D |
 | chr6 | 27101130 | C>G | L94V |
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/HIST1H2AG_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/HIST1H2AG_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/HIST1H2AG_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/HIST1H2AG_protein_hg38.html)
 
 ![image](images/proteinpaint/HIST1H2AG_NM_021064.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/HIST1H2AG.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/HIST1H2AG_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/HIST1H2AG.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/HIST1H2AG_hg38.html)
 
 ![image](images/proteinpaint/HIST1H2AG.svg)

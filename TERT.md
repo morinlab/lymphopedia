@@ -25,10 +25,10 @@
 > First described in MCL in 2020 by [Nadeu F](https://pubmed.ncbi.nlm.nih.gov/32584970)
 
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TERT_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TERT_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/TERT_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/TERT_protein_hg38.html)
 
 ![image](images/proteinpaint/TERT_NM_198253.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TERT.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TERT_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/TERT.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/TERT_hg38.html)
 
 ![image](images/proteinpaint/TERT.svg)

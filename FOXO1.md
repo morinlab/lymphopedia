@@ -60,10 +60,10 @@
 | chr13 | 41240273 | G>A | P26L |
 | chr13 | 41240271 | G>C | L27V |
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/FOXO1_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/FOXO1_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/FOXO1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/FOXO1_protein_hg38.html)
 
 ![image](images/proteinpaint/FOXO1_NM_002015.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/FOXO1.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/FOXO1_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/FOXO1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/FOXO1_hg38.html)
 
 ![image](images/proteinpaint/FOXO1.svg)

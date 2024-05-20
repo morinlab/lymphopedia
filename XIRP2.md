@@ -31,10 +31,10 @@
  | :---:| :---: | :--: | :---: |
 | chr2 | 168107297 | G>A | R3132Q |
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/XIRP2_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/XIRP2_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/XIRP2_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/XIRP2_protein_hg38.html)
 
 ![image](images/proteinpaint/XIRP2_NM_152381.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/XIRP2.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/XIRP2_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/XIRP2.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/XIRP2_hg38.html)
 
 ![image](images/proteinpaint/XIRP2.svg)

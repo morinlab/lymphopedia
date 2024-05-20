@@ -49,10 +49,10 @@ BCR (Breakpoint Cluster Region Protein) is one of [a number of genes](https://gi
 | chr22 | 23523359 | A>C | D71A |
 | chr22 | 23523374 | G>A | G76D |
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/BCR_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/BCR_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/BCR_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/BCR_protein_hg38.html)
 
 ![image](images/proteinpaint/BCR_NM_004327.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/BCR.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/BCR_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/BCR.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/BCR_hg38.html)
 
 ![image](images/proteinpaint/BCR.svg)

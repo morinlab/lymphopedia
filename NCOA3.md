@@ -30,10 +30,10 @@
 |chr20   |46128611  |46138099|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr20%3A46128611%2D46138099)|active_promoter   |
 
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/NCOA3_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/NCOA3_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/NCOA3_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/NCOA3_protein_hg38.html)
 
 ![image](images/proteinpaint/NCOA3_NM_181659.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/NCOA3.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/NCOA3_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/NCOA3.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/NCOA3_hg38.html)
 
 ![image](images/proteinpaint/NCOA3.svg)

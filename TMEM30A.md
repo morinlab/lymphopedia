@@ -41,10 +41,10 @@
 | chr6 | 75965985 | G>A | R307* |
 | chr6 | 75965975 | A>T | M310K |
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TMEM30A_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TMEM30A_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/TMEM30A_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/TMEM30A_protein_hg38.html)
 
 ![image](images/proteinpaint/TMEM30A_NM_018247.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TMEM30A.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TMEM30A_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/TMEM30A.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/TMEM30A_hg38.html)
 
 ![image](images/proteinpaint/TMEM30A.svg)

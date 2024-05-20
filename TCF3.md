@@ -40,10 +40,10 @@
 | chr19 | 1612336 | A>C | D561E |
 | chr19 | 1612329 | C>T | E564K |
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TCF3_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TCF3_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/TCF3_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/TCF3_protein_hg38.html)
 
 ![image](images/proteinpaint/TCF3_NM_003200.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TCF3.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TCF3_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/TCF3.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/TCF3_hg38.html)
 
 ![image](images/proteinpaint/TCF3.svg)

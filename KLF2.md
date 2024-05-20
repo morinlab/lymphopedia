@@ -52,10 +52,10 @@ KLF2 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) 
 | chr19 | 16436775 | G>C | S275T |
 | chr19 | 16436784 | G>A | G278D |
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/KLF2_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/KLF2_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/KLF2_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/KLF2_protein_hg38.html)
 
 ![image](images/proteinpaint/KLF2_NM_016270.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/KLF2.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/KLF2_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/KLF2.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/KLF2_hg38.html)
 
 ![image](images/proteinpaint/KLF2.svg)

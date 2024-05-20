@@ -27,10 +27,10 @@
 > First described in BL in 2022 by [Burkhardt B](https://pubmed.ncbi.nlm.nih.gov/35794096)
 
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/WDR90_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/WDR90_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/WDR90_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/WDR90_protein_hg38.html)
 
 ![image](images/proteinpaint/WDR90_NM_145294.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/WDR90.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/WDR90_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/WDR90.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/WDR90_hg38.html)
 
 ![image](images/proteinpaint/WDR90.svg)

@@ -30,10 +30,10 @@
 |chr2    |232572640 |232574297|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr2%3A232572640%2D232574297)|NA                |
 
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PTMA_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PTMA_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PTMA_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PTMA_protein_hg38.html)
 
 ![image](images/proteinpaint/PTMA_NM_001099285.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PTMA.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PTMA_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PTMA.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PTMA_hg38.html)
 
 ![image](images/proteinpaint/PTMA.svg)

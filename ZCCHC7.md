@@ -36,10 +36,10 @@
 > First described in DLBCL in 2018 by [Arthur SE](https://pubmed.ncbi.nlm.nih.gov/30275490)
 
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ZCCHC7_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ZCCHC7_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ZCCHC7_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ZCCHC7_protein_hg38.html)
 
 ![image](images/proteinpaint/ZCCHC7_NM_032226.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ZCCHC7.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ZCCHC7_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ZCCHC7.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ZCCHC7_hg38.html)
 
 ![image](images/proteinpaint/ZCCHC7.svg)

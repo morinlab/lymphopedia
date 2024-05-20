@@ -30,10 +30,10 @@
 |chr6    |90059730  |90063703|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr6%3A90059730%2D90063703)|NA                |
 
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/UBE2J1_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/UBE2J1_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/UBE2J1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/UBE2J1_protein_hg38.html)
 
 ![image](images/proteinpaint/UBE2J1_NM_016021.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/UBE2J1.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/UBE2J1_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/UBE2J1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/UBE2J1_hg38.html)
 
 ![image](images/proteinpaint/UBE2J1.svg)

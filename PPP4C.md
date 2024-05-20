@@ -30,10 +30,10 @@
  | :---:| :---: | :--: | :---: |
 | chr16 | 30093814 | G>A | D54N |
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PPP4C_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PPP4C_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PPP4C_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PPP4C_protein_hg38.html)
 
 ![image](images/proteinpaint/PPP4C_NM_002720.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PPP4C.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PPP4C_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PPP4C.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PPP4C_hg38.html)
 
 ![image](images/proteinpaint/PPP4C.svg)

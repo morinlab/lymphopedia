@@ -34,10 +34,10 @@
 > First described in DLBCL in 2007 by [Scholl V](https://pubmed.ncbi.nlm.nih.gov/17487740). First described in FL in 2011 by [Morin RD](https://pubmed.ncbi.nlm.nih.gov/21796119)
 
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/FAS_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/FAS_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/FAS_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/FAS_protein_hg38.html)
 
 ![image](images/proteinpaint/FAS_NM_000043.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/FAS.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/FAS_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/FAS.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/FAS_hg38.html)
 
 ![image](images/proteinpaint/FAS.svg)

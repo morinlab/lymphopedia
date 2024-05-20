@@ -41,10 +41,10 @@
 | chr2 | 70315439 | ->AGCT | S190* |
 | chr2 | 70315457 | C>A | C194* |
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PCBP1_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PCBP1_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PCBP1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PCBP1_protein_hg38.html)
 
 ![image](images/proteinpaint/PCBP1_NM_006196.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PCBP1.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PCBP1_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PCBP1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PCBP1_hg38.html)
 
 ![image](images/proteinpaint/PCBP1.svg)

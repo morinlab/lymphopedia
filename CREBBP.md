@@ -64,10 +64,10 @@
 | chr16 | 3786703 | T>A | Y1503F |
 | chr16 | 3786691 | A>G | L1507P |
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CREBBP_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CREBBP_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CREBBP_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CREBBP_protein_hg38.html)
 
 ![image](images/proteinpaint/CREBBP_NM_004380.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CREBBP.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CREBBP_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CREBBP.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CREBBP_hg38.html)
 
 ![image](images/proteinpaint/CREBBP.svg)

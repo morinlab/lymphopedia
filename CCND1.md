@@ -25,10 +25,10 @@
 > First described in MCL in 2013 by [Beà S](https://pubmed.ncbi.nlm.nih.gov/24145436)
 
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CCND1_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CCND1_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CCND1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CCND1_protein_hg38.html)
 
 ![image](images/proteinpaint/CCND1_NM_053056.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CCND1.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/CCND1_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CCND1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CCND1_hg38.html)
 
 ![image](images/proteinpaint/CCND1.svg)

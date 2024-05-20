@@ -35,10 +35,10 @@
 | chr6 | 27858222 | G>A | R117C |
 | chr6 | 27858210 | T>G | M121L |
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/HIST1H3J_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/HIST1H3J_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/HIST1H3J_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/HIST1H3J_protein_hg38.html)
 
 ![image](images/proteinpaint/HIST1H3J_NM_003535.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/HIST1H3J.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/HIST1H3J_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/HIST1H3J.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/HIST1H3J_hg38.html)
 
 ![image](images/proteinpaint/HIST1H3J.svg)

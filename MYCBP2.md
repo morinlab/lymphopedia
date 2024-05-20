@@ -25,10 +25,10 @@
 > First described in FL in 2021 by [Hübschmann D](https://pubmed.ncbi.nlm.nih.gov/33953289)
 
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MYCBP2_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MYCBP2_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/MYCBP2_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/MYCBP2_protein_hg38.html)
 
 ![image](images/proteinpaint/MYCBP2_NM_015057.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MYCBP2.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/MYCBP2_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/MYCBP2.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/MYCBP2_hg38.html)
 
 ![image](images/proteinpaint/MYCBP2.svg)

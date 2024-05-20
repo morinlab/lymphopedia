@@ -38,10 +38,10 @@ LTB is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) a
 |chr6    |31548325  |31550717|[intron-1](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr6%3A31548325%2D31550717)|enhancer          |
 
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/LTB_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/LTB_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/LTB_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/LTB_protein_hg38.html)
 
 ![image](images/proteinpaint/LTB_NM_002341.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/LTB.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/LTB_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/LTB.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/LTB_hg38.html)
 
 ![image](images/proteinpaint/LTB.svg)

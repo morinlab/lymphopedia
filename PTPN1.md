@@ -30,10 +30,10 @@
 |chr20   |49120482  |49140477|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr20%3A49120482%2D49140477)|active_promoter   |
 
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PTPN1_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PTPN1_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PTPN1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PTPN1_protein_hg38.html)
 
 ![image](images/proteinpaint/PTPN1_NM_002827.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PTPN1.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PTPN1_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PTPN1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PTPN1_hg38.html)
 
 ![image](images/proteinpaint/PTPN1.svg)

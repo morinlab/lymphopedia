@@ -32,10 +32,10 @@
  | :---:| :---: | :--: | :---: |
 | chr8 | 100829860 | A>T | Q2755H |
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/VPS13B_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/VPS13B_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/VPS13B_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/VPS13B_protein_hg38.html)
 
 ![image](images/proteinpaint/VPS13B_NM_152564.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/VPS13B.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/VPS13B_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/VPS13B.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/VPS13B_hg38.html)
 
 ![image](images/proteinpaint/VPS13B.svg)

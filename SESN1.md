@@ -25,10 +25,10 @@
 > First described in FL in 2017 by [Oricchio E](https://pubmed.ncbi.nlm.nih.gov/28659443)
 
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/SESN1_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/SESN1_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/SESN1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/SESN1_protein_hg38.html)
 
 ![image](images/proteinpaint/SESN1_NM_014454.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/SESN1.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/SESN1_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/SESN1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/SESN1_hg38.html)
 
 ![image](images/proteinpaint/SESN1.svg)

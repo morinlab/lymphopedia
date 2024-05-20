@@ -53,10 +53,10 @@ EBF1 is one of a number of genes(https://github.com/morinlab/LLMPP/wiki/ashm) af
 | chr5 | 158500468 | A>G | C164R |
 | chr5 | 158500467 | C>G | C164S |
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/EBF1_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/EBF1_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/EBF1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/EBF1_protein_hg38.html)
 
 ![image](images/proteinpaint/EBF1_NM_024007.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/EBF1.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/EBF1_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/EBF1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/EBF1_hg38.html)
 
 ![image](images/proteinpaint/EBF1.svg)

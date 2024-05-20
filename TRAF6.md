@@ -36,10 +36,10 @@
 | chr11 | 36511893 | C>T | W355* |
 | chr11 | 36511892 | C>T | W355* |
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TRAF6_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TRAF6_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/TRAF6_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/TRAF6_protein_hg38.html)
 
 ![image](images/proteinpaint/TRAF6_NM_145803.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TRAF6.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TRAF6_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/TRAF6.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/TRAF6_hg38.html)
 
 ![image](images/proteinpaint/TRAF6.svg)

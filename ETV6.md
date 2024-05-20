@@ -41,10 +41,10 @@ ETV6 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) 
 | chr12 | 11803087 | G>A | S9N |
 | chr12 | 11803094 | G>A | K11= |
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ETV6_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ETV6_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ETV6_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ETV6_protein_hg38.html)
 
 ![image](images/proteinpaint/ETV6_NM_001987.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ETV6.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/ETV6_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ETV6.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ETV6_hg38.html)
 
 ![image](images/proteinpaint/ETV6.svg)

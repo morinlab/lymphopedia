@@ -27,10 +27,10 @@
 > First described in BL in 2012 by [Love C](https://pubmed.ncbi.nlm.nih.gov/23143597)
 
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/EPHB2_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/EPHB2_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/EPHB2_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/EPHB2_protein_hg38.html)
 
 ![image](images/proteinpaint/EPHB2_NM_017449.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/EPHB2.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/EPHB2_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/EPHB2.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/EPHB2_hg38.html)
 
 ![image](images/proteinpaint/EPHB2.svg)

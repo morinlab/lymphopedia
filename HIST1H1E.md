@@ -57,10 +57,10 @@
 | chr6 | 26157121 | A>T | K168I |
 | chr6 | 26157139 | A>G | K174R |
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/HIST1H1E_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/HIST1H1E_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/HIST1H1E_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/HIST1H1E_protein_hg38.html)
 
 ![image](images/proteinpaint/HIST1H1E_NM_005321.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/HIST1H1E.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/HIST1H1E_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/HIST1H1E.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/HIST1H1E_hg38.html)
 
 ![image](images/proteinpaint/HIST1H1E.svg)

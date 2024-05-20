@@ -38,10 +38,10 @@
 | chr8 | 60031445 | C>T | K34= |
 | chr8 | 60031446 | T>G | K34T |
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TOX_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TOX_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/TOX_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/TOX_protein_hg38.html)
 
 ![image](images/proteinpaint/TOX_NM_014729.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TOX.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/TOX_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/TOX.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/TOX_hg38.html)
 
 ![image](images/proteinpaint/TOX.svg)

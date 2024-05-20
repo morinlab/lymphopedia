@@ -90,10 +90,10 @@ DTX1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) 
 | chr12 | 113496212 | A>G | Y72C |
 | chr12 | 113496213 | C>A | Y72* |
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/DTX1_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/DTX1_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/DTX1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/DTX1_protein_hg38.html)
 
 ![image](images/proteinpaint/DTX1_NM_004416.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/DTX1.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/DTX1_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/DTX1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/DTX1_hg38.html)
 
 ![image](images/proteinpaint/DTX1.svg)

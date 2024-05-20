@@ -33,10 +33,10 @@
 | chr1 | 6614187 | G>C | L126V |
 | chr1 | 6614167 | C>A | Q132H |
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/NOL9_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/NOL9_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/NOL9_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/NOL9_protein_hg38.html)
 
 ![image](images/proteinpaint/NOL9_NM_024654.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/NOL9.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/NOL9_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/NOL9.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/NOL9_hg38.html)
 
 ![image](images/proteinpaint/NOL9.svg)

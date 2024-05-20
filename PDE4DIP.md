@@ -28,10 +28,10 @@
 > First described in DLBCL in 2018 by [Chapuy B](https://pubmed.ncbi.nlm.nih.gov/29713087)
 
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PDE4DIP_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PDE4DIP_protein_hg38.html)
+View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PDE4DIP_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PDE4DIP_protein_hg38.html)
 
 ![image](images/proteinpaint/PDE4DIP_NM_014644.svg)
 
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PDE4DIP.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/PDE4DIP_hg38.html)
+View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PDE4DIP.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PDE4DIP_hg38.html)
 
 ![image](images/proteinpaint/PDE4DIP.svg)
