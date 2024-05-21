@@ -1,14 +1,14 @@
 # DDX3X
 ## Overview
-Mutations in the DDX3X gene, which encodes an RNA helicase involved in various aspects of RNA metabolism, have significant implications in B-cell lymphomas, including diffuse large B-cell lymphoma (DLBCL) and other related malignancies and are particularly enriched within MYC-translocated tumors. These mutations are predominantly loss-of-function (LOF) mutations, affecting the helicase domain of the protein.<sup>1</sup> Missense mutations are predominantly found in male patients and rarely in females, hence showing a sex-specific pattern.<sup>2</sup> 
+Mutations in the DDX3X gene, which encodes an RNA helicase involved in various aspects of RNA metabolism, have significant implications in B-cell lymphomas, including BL, DLBCL, and other related malignancies and are particularly enriched within MYC-translocated tumors. These mutations are predominantly loss-of-function (LOF) mutations, affecting the helicase domain of the protein.<sup>1</sup> Missense mutations are predominantly found in male patients and rarely in females, hence showing a sex-specific pattern.<sup>2</sup> 
 
 ## Relevance tier by entity
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|BL    |1-a | aSHM target and high-confidence BL gene               |
-|DLBCL |1-a | aSHM target and high-confidence DLBCL gene            |
-|FL    |2-a | aSHM target; Although recurrent, the relevance of mutations in FL is tenuous |
+|BL    |1 | high-confidence BL gene               |
+|DLBCL |1 | high-confidence DLBCL gene            |
+|FL    |2 | Although recurrent, the relevance of mutations in FL is tenuous |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
