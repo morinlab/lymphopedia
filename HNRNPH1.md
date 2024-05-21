@@ -1,4 +1,6 @@
 # HNRNPH1
+## Overview
+Mutations in HNRNPH1 result in deregulated splicing and increased expression of the hnRNP H1 protein. This overexpression is linked to enhanced cell proliferation and survival, contributing to the aggressive nature of MCL.<>1,2<> 
 
 ## Relevance tier by entity
 
@@ -42,3 +44,7 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/HNRNPH1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/HNRNPH1_hg38.html)
 
 ![image](images/proteinpaint/HNRNPH1.svg)
+
+## References
+1. *Pararajalingam, P., Coyle, K., Arthur, S., Thomas, N., Alcaide, M., Meissner, B., Boyle, M., Qureshi, Q., Grande, B., Rushton, C., Slack, G., Mungall, A., Tam, C., Agarwal, R., Dawson, S., Lenz, G., Balasubramanian, S., Gascoyne, R., Steidl, C., Connors, J., Villa, D., Audas, T., Marra, M., Johnson, N., Scott, D., & Morin, R. (2020). Coding and non-coding drivers of mantle cell lymphoma identified through exome and genome sequencing.. Blood. https://doi.org/10.1182/blood.2019002385.*
+2. *Coyle, K., Qureshi, Q., Pararajalingam, P., Thomas, N., Audas, T., & Morin, R. (2020). Perturbations in HNRNPH1 Splicing and Abundance Affect Global Splicing and Proliferation in Mantle Cell Lymphoma. Blood, 136, 23-24. https://doi.org/10.1182/BLOOD-2020-141389.*
