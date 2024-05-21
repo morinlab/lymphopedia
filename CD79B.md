@@ -1,6 +1,6 @@
 # CD79B
 ## Overview
-CD79B mutations significantly contribute to the pathogenesis of DLBCL by enhancing BCR signaling and promoting tumor survival. These mutations, especially when co-occurring with MYD88 mutations, define a unique molecular subtype.<sup>1</sup> This has clinical and therapeutic implications as it may contribute sensitivity to BTK inhibitors. This sensitivity has been demonstrated in an inducible mouse model of MYD88-driven DLBCL.<sup>2</sup>
+CD79B mutations significantly contribute to the pathogenesis of DLBCL by enhancing BCR signaling and promoting tumor survival. These mutations, especially when co-occurring with MYD88 mutations, define a unique molecular subtype.<sup>1</sup> This has clinical and therapeutic implications as it may contribute sensitivity to BTK inhibitors. In an inducible mouse model of MYD88-driven DLBCL, CD79B mutations did not accelerate lymphomagenesis but demonstrated an increased sensitivity to pharmacological BTK inhibition.<sup>2</sup>
 
 ## Relevance tier by entity
 
