@@ -1,4 +1,6 @@
 # CD79B
+## Overview
+CD79B mutations significantly contribute to the pathogenesis of DLBCL by enhancing BCR signaling and promoting tumor survival. These mutations, especially when co-occurring with MYD88 mutations, define a unique molecular subtype.<sup>1</sup> This has clinical and therapeutic implications as it may contribute sensitivity to BTK inhibitors. This sensitivity has been demonstrated in an inducible mouse model of MYD88-driven DLBCL.<sup>2</sup>
 
 ## Relevance tier by entity
 
@@ -47,3 +49,7 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CD79B.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CD79B_hg38.html)
 
 ![image](images/proteinpaint/CD79B.svg)
+
+## References
+1. *Wright GW, Huang DW, Phelan JD, Coulibaly ZA, Roulland S, Young RM, Wang JQ, Schmitz R, Morin RD, Tang J, Jiang A, Bagaev A, Plotnikova O, Kotlov N, Johnson CA, Wilson WH, Scott DW, Staudt LM. A Probabilistic Classification Tool for Genetic Subtypes of Diffuse Large B Cell Lymphoma with Therapeutic Implications. Cancer Cell. 2020 Apr 13;37(4):551-568.e14. doi: 10.1016/j.ccell.2020.03.015. PMID: 32289277; PMCID: PMC8459709.*
+2. *Flümann R, Hansen J, Meinel J, Pfeiffer P, Goldfarb Wittkopf H, Lütz A, Wirtz J, Möllmann M, Zhou T, Tabatabai A, Lohmann T, Jauch M, Beleggia F, Pelzer B, Ullrich F, Höfmann S, Arora A, Persigehl T, Büttner R, von Tresckow B, Klein S, Jachimowicz RD, Reinhardt HC, Knittel G. An inducible Cd79b mutation confers ibrutinib sensitivity in mouse models of Myd88-driven diffuse large B-cell lymphoma. Blood Adv. 2024 Mar 12;8(5):1063-1074. doi: 10.1182/bloodadvances.2023011213. PMID: 38060829; PMCID: PMC10907402.*
