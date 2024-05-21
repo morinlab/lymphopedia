@@ -53,3 +53,6 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/HLA-B.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/HLA-B_hg38.html)
 
 ![image](images/proteinpaint/HLA-B.svg)
+
+## References
+1. *Riemersma, S., Jordanova, E., Schop, R., Philippo, K., Looijenga, L., Schuuring, E., & Kluin, P. (2000). Extensive genetic alterations of the HLA region, including homozygous deletions of HLA class II genes in B-cell lymphomas arising in immune-privileged sites.. Blood, 96 10, 3569-77 . https://doi.org/10.1182/BLOOD.V96.10.3569.*
