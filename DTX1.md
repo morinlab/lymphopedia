@@ -38,7 +38,7 @@ Mutations in the DTX1 gene, which encodes the E3 ubiquitin ligase Deltex 1, have
 |chr12   |113492311 |113497546|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr12%3A113492311%2D113497546)|NA                |
 
 > [!NOTE]
-> First described in DLBCL in 2014.<>2<> and in BL in 2019 by [Panea RI](https://pubmed.ncbi.nlm.nih.gov/31558468). 
+> First described in DLBCL in 2014.<sup>2</sup> and in BL in 2019 by [Panea RI](https://pubmed.ncbi.nlm.nih.gov/31558468). 
 
  ## DTX1 Hotspots
 
