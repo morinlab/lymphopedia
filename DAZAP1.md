@@ -51,4 +51,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/D
 ![image](images/proteinpaint/DAZAP1.svg)
 
 ## References
-1. *Pararajalingam, P., Coyle, K., Arthur, S., Thomas, N., Alcaide, M., Meissner, B., Boyle, M., Grande, B., Slack, G., Mungall, A., Gascoyne, R., Steidl, C., Connors, J., Villa, D., Marra, M., Johnson, N., Scott, D., & Morin, R. (2019). Coding and non-coding drivers of mantle cell lymphoma identified through exome and genome sequencing. bioRxiv. https://doi.org/10.1101/686956.*
+1. *Pararajalingam P, Coyle KM, Arthur SE, Thomas N, Alcaide M, Meissner B, Boyle M, Qureshi Q, Grande BM, Rushton C, Slack GW, Mungall AJ, Tam CS, Agarwal R, Dawson SJ, Lenz G, Balasubramanian S, Gascoyne RD, Steidl C, Connors J, Villa D, Audas TE, Marra MA, Johnson NA, Scott DW, Morin RD. Coding and noncoding drivers of mantle cell lymphoma identified through exome and genome sequencing. Blood. 2020 Jul 30;136(5):572-584. doi: 10.1182/blood.2019002385. PMID: 32160292; PMCID: PMC7440974.*
