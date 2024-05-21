@@ -1,4 +1,6 @@
 # DAZAP1
+## Overview
+This gene has some recurrent sites of mutations (hot spots). The mutation pattern in DLBCL and FL implies the preferential accumulation of *inactivating mutations* however the pattern is notable. These mutations often result in truncations affecting the DAZAP1 C-terminus, which are predicted to alter protein sub-cellular localization and disrupt protein-protein interactions.<sup>1</sup>
 
 ## Relevance tier by entity
 
@@ -47,3 +49,6 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/DAZAP1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/DAZAP1_hg38.html)
 
 ![image](images/proteinpaint/DAZAP1.svg)
+
+## References
+1. *Pararajalingam, P., Coyle, K., Arthur, S., Thomas, N., Alcaide, M., Meissner, B., Boyle, M., Grande, B., Slack, G., Mungall, A., Gascoyne, R., Steidl, C., Connors, J., Villa, D., Marra, M., Johnson, N., Scott, D., & Morin, R. (2019). Coding and non-coding drivers of mantle cell lymphoma identified through exome and genome sequencing. bioRxiv. https://doi.org/10.1101/686956.*
