@@ -1,4 +1,6 @@
 # CDKN2A
+## Overview
+Although CDKN2A aberrations are common in DLBCL, this gene is predominantly affected by copy number alterations. One study found that deletions of the CDKN2A locus occur in about one-third of DLBCL patients.<sup>1</sup> The mutation pattern in DLBCL and FL implies the preferential accumulation of *inactivating mutations*. This gene has some recurrent sites of mutations (hotspots) with the most common mutation causing a truncation at codon 80 (R80*). 
 
 ## Relevance tier by entity
 
@@ -47,3 +49,6 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CDKN2A.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CDKN2A_hg38.html)
 
 ![image](images/proteinpaint/CDKN2A.svg)
+
+## References
+1. *Guney S, Jardin F, Bertrand P, Mareschal S, Parmentier F, Picquenot JM, Tilly H, Bastard C. Several mechanisms lead to the inactivation of the CDKN2A (P16), P14ARF, or CDKN2B (P15) genes in the GCB and ABC molecular DLBCL subtypes. Genes Chromosomes Cancer. 2012 Sep;51(9):858-67. doi: 10.1002/gcc.21970. Epub 2012 May 23. PMID: 22619049.*
