@@ -5,35 +5,30 @@ This gene encodes the H2A protein, one of the core proteins comprising nucleosom
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|BL    |2   |relevance in BL not firmly established|
 |DLBCL |1   |high-confidence DLBCL gene            |
 |FL    |1   |high-confidence FL gene               |
+|BL    |2   |relevance in BL not firmly established|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
 |Entity|source               |frequency (%)|
 |:------:|:---------------------:|:-------------:|
-|BL    |GAMBL genomes+capture|1.85         |
-|BL    |Thomas cohort        |1.70         |
-|BL    |Panea cohort         |3.00         |
 |DLBCL |GAMBL genomes        |5.93         |
 |DLBCL |Schmitz cohort       |5.74         |
 |DLBCL |Reddy cohort         |4.80         |
 |DLBCL |Chapuy cohort        |5.98         |
 |FL    |GAMBL genomes        |3.70         |
+|BL    |GAMBL genomes+capture|1.85         |
+|BL    |Thomas cohort        |1.70         |
+|BL    |Panea cohort         |3.00         |
 
 ## Mutation pattern and selective pressure estimates
 
 |Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
 |:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   |2.149           |0               |
 |DLBCL |No  |No                   |1.844           |0               |
 |FL    |No  |No                   |1.845           |0               |
-
-
-> [!NOTE]
-> First described in BL in 2019 by [Panea RI](https://pubmed.ncbi.nlm.nih.gov/31558468)
-
+|BL    |No  |No                   |2.149           |0               |
 
  ## HIST1H2AM Hotspots
 
