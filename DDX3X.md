@@ -1,4 +1,6 @@
 # DDX3X
+## Overview
+Mutations in the DDX3X gene, which encodes an RNA helicase involved in various aspects of RNA metabolism, have significant implications in B-cell lymphomas, including diffuse large B-cell lymphoma (DLBCL) and other related malignancies and are particularly enriched within MYC-translocated tumors. These mutations are predominantly loss-of-function (LOF) mutations, affecting the helicase domain of the protein.<sup>1</sup> Missense mutations are predominantly found in male patients and rarely in females, hence showing a sex-specific pattern.<sup>2</sup> 
 
 ## Relevance tier by entity
 
@@ -46,3 +48,7 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/DDX3X.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/DDX3X_hg38.html)
 
 ![image](images/proteinpaint/DDX3X.svg)
+
+## References
+1. *Lacroix, M., Beauchemin, H., & Möröy, T. (2022). DDX3: a relevant therapeutic target for lymphoma?. Expert Opinion on Therapeutic Targets, 26, 1037 - 1040. https://doi.org/10.1080/14728222.2022.2166830.*
+2. *Gong, C., Krupka, J., Gao, J., Grigoropoulos, N., Giotopoulos, G., Asby, R., Screen, M., Usheva, Z., Cucco, F., Barrans, S., Painter, D., Zaini, N., Haupl, B., Bornelöv, S., Mozos, I., Meng, W., Zhou, P., Blain, A., Forde, S., Matthews, J., Tan, M., Burke, G., Sze, S., Beer, P., Burton, C., Campbell, P., Rand, V., Turner, S., Ule, J., Roman, E., Tooze, R., Oellerich, T., Huntly, B., Turner, M., Du, M., Samarajiwa, S., & Hodson, D. (2021). Sequential inverse dysregulation of the RNA helicases DDX3X and DDX3Y facilitates MYC-driven lymphomagenesis.. Molecular cell. https://doi.org/10.1016/j.molcel.2021.07.041.*
