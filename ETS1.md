@@ -1,33 +1,33 @@
 # ETS1
 ## Overview
-ETS1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus.
+ETS1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus. This gene has some recurrent sites of mutations (hot spots). The mutation pattern in DLBCL implies the preferential accumulation of *inactivating mutations*.
 
 ## Relevance tier by entity
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|BL    |2-a | aSHM target; Although recurrent, the relevance of mutations in BL is tenuous |
 |DLBCL |1-a | aSHM target and high-confidence DLBCL gene            |
+|BL    |2-a | aSHM target; Although recurrent, the relevance of mutations in BL is tenuous |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
 |Entity|source               |frequency (%)|
 |:------:|:---------------------:|:-------------:|
-|BL    |GAMBL genomes+capture| 7.62        |
-|BL    |Thomas cohort        | 7.60        |
-|BL    |Panea cohort         |11.90        |
 |DLBCL |GAMBL genomes        | 4.59        |
 |DLBCL |Schmitz cohort       | 7.87        |
 |DLBCL |Reddy cohort         | 4.40        |
 |DLBCL |Chapuy cohort        | 5.56        |
+|BL    |GAMBL genomes+capture| 7.62        |
+|BL    |Thomas cohort        | 7.60        |
+|BL    |Panea cohort         |11.90        |
 
 ## Mutation pattern and selective pressure estimates
 
 |Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
 |:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |Yes |No                   |5.097           |18.417          |
 |DLBCL |Yes |No                   |2.987           | 0.000          |
 |FL    |Yes |No                   |5.163           |25.463          |
+|BL    |Yes |No                   |5.097           |18.417          |
 
 ## aSHM regions
 
