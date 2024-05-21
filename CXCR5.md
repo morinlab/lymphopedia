@@ -1,6 +1,6 @@
 # CXCR5
 ## Overview
-CXCR5 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus.
+CXCR5 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus. No notable hot spots have been described in this gene in the context of the cancers listed below. The mutation pattern in DLBCL and FL implies the preferential accumulation of *inactivating mutations*.
 
 ## Relevance tier by entity
 

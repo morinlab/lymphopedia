@@ -1,6 +1,6 @@
 # DTX1
 ## Overview
-DTX1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus.
+Mutations in the DTX1 gene, which encodes the E3 ubiquitin ligase Deltex 1, have been identified in various B-cell lymphomas, including diffuse large B-cell lymphoma (DLBCL). DTX1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus. These mutations are associated with the BN2 genetic subgroup of DLBCL.<sup>1</sup> There are numerous mutation hotspots in this gene with some leading to a truncated protein. DTX1 functions as a negative regulator of the Notch signaling pathway. Some DTX1 mutations impair its function, thereby dysregulating Notch signaling, which is crucial for normal B-cell development and function. <sup>2</sup> 
 
 ## Relevance tier by entity
 
@@ -14,22 +14,22 @@ DTX1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) 
 
 |Entity|source               |frequency (%)|
 |:------:|:---------------------:|:-------------:|
-|BL    |GAMBL genomes+capture| 5.54        |
-|BL    |Thomas cohort        | 5.90        |
-|BL    |Panea cohort         | 8.90        |
 |DLBCL |GAMBL genomes        |10.71        |
 |DLBCL |Schmitz cohort       |13.62        |
 |DLBCL |Reddy cohort         | 5.91        |
 |DLBCL |Chapuy cohort        |11.54        |
 |FL    |GAMBL genomes        | 5.54        |
+|BL    |GAMBL genomes+capture| 5.54        |
+|BL    |Thomas cohort        | 5.90        |
+|BL    |Panea cohort         | 8.90        |
 
 ## Mutation pattern and selective pressure estimates
 
 |Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
 |:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |Yes |No                   |5.556           |14.253          |
 |DLBCL |Yes |Yes                  |2.228           | 4.244          |
 |FL    |Yes |No                   |6.305           | 0.000          |
+|BL    |Yes |No                   |5.556           |14.253          |
 
 ## aSHM regions
 
@@ -38,8 +38,7 @@ DTX1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) 
 |chr12   |113492311 |113497546|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr12%3A113492311%2D113497546)|NA                |
 
 > [!NOTE]
-> First described in BL in 2019 by [Panea RI](https://pubmed.ncbi.nlm.nih.gov/31558468). First described in DLBCL in 2018 by [Schmitz R](https://pubmed.ncbi.nlm.nih.gov/29641966)
-
+> First described in DLBCL in 2014.<sup>2</sup> and in BL in 2019 by [Panea RI](https://pubmed.ncbi.nlm.nih.gov/31558468). 
 
  ## DTX1 Hotspots
 
@@ -97,3 +96,7 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/DTX1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/DTX1_hg38.html)
 
 ![image](images/proteinpaint/DTX1.svg)
+
+## References
+1. *Wright GW, Huang DW, Phelan JD, Coulibaly ZA, Roulland S, Young RM, Wang JQ, Schmitz R, Morin RD, Tang J, Jiang A, Bagaev A, Plotnikova O, Kotlov N, Johnson CA, Wilson WH, Scott DW, Staudt LM. A Probabilistic Classification Tool for Genetic Subtypes of Diffuse Large B Cell Lymphoma with Therapeutic Implications. Cancer Cell. 2020 Apr 13;37(4):551-568.e14. doi: 10.1016/j.ccell.2020.03.015. PMID: 32289277; PMCID: PMC8459709.*
+2. *de Miranda NF, Georgiou K, Chen L, Wu C, Gao Z, Zaravinos A, Lisboa S, Enblad G, Teixeira MR, Zeng Y, Peng R, Pan-Hammarström Q. Exome sequencing reveals novel mutation targets in diffuse large B-cell lymphomas derived from Chinese patients. Blood. 2014 Oct 16;124(16):2544-53. doi: 10.1182/blood-2013-12-546309. Epub 2014 Aug 29. PMID: 25171927; PMCID: PMC4199956.*
