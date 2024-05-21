@@ -1,6 +1,6 @@
 # FBXW7
 ## Overview
-FBXW7 mutations are found in a range of lymphoid malignancies, including B-cell lymphomas. These mutations often include missense mutations, deletions, frameshift mutations and splice-site mutations. Overall, these mutations are relatively rare in DLBCL.
+FBXW7 mutations are found in a range of lymphoid malignancies, including B-cell lymphomas. These mutations often include missense mutations, deletions, frameshift mutations and splice-site mutations. Overall, these mutations are relatively rare in DLBCL and occur more frequently in other solid tumors as well as T-cell acute lymphocytic leukemia.<sup>1</sup> The most commonly observed mutations in those cancers are the hot spots R465 and R479.<sup>1</sup> 
 
 ## Relevance tier by entity
 
@@ -34,3 +34,6 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/FBXW7.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/FBXW7_hg38.html)
 
 ![image](images/proteinpaint/FBXW7.svg)
+
+## References
+1. *Akhoondi, S., Sun, D., Lehr, N., Apostolidou, S., Klotz, K., Maljukova, A., Cepeda, D., Fiegl, H., Dafou, D., Marth, C., Mueller-Holzner, E., Corcoran, M., Dagnell, M., Nejad, S., Nayer, B., Zali, M., Hansson, J., Egyhazi, S., Petersson, F., Sangfelt, P., Nordgren, H., Grandér, D., Reed, S., Widschwendter, M., Sangfelt, O., & Spruck, C. (2007). FBXW7/hCDC4 is a general tumor suppressor in human cancer.. Cancer research, 67 19, 9006-12 . https://doi.org/10.1158/0008-5472.CAN-07-1320.*
