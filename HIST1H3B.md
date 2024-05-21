@@ -32,7 +32,13 @@
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |
-| chr6 | 26032028 | G>C | S87R |
+|chr6|26032045|C>T|D82N| 
+|chr6|26032029|C>G|S87T| 
+|chr6|26032029|C>T|S87N| 
+|chr6|26032028|G>C|S87R| 
+|chr6|26032021|C>T|V90M| 
+|chr6|26032017|A>G|M91T| 
+
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/HIST1H3B_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/HIST1H3B_protein_hg38.html)
 
