@@ -1,6 +1,6 @@
 # HNRNPU
 ## Overview
-HNRNPU is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus.
+HNRNPU is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus. Mutations in HNRNPU are haploinsufficient and significantly alter the transcriptome of MYC-driven lymphomas. These mutations were found in a notable percentage of high-grade B-cell lymphomas with double-hit BCL2 translocations (HGBL-DH-BCL2) and Burkitt lymphoma (BL).<sup>1</sup>
 
 ## Relevance tier by entity
 
@@ -54,3 +54,6 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/HNRNPU.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/HNRNPU_hg38.html)
 
 ![image](images/proteinpaint/HNRNPU.svg)
+
+## References
+1. *Qureshi, Q., Coyle, K., Thomas, N., Collinge, B., Dreval, K., Hilton, L., Wong, J., Scott, D., Audas, T., & Morin, R. (2023). Hnrnpu mutations Are Haploinsufficient and Alter the Transcriptome of MYC-Driven Lymphomas. Blood. https://doi.org/10.1182/blood-2023-190409.*
