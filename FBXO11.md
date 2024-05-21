@@ -1,6 +1,6 @@
 # FBXO11
 ## Overview
-Somatic mutations in FBXO11 are common in BL<sup>1,2</sup> and appear in a small number of DLBCLs.<sup>3</sup> Mutations lead to stabilization of BCL6, an important transcriptional repressor involved in lymphomagenesis.<sup>4</sup> These mutations present a potential novel target for therapeutic intervention, particularly through strategies aimed at degrading BCL6 or inhibiting its function.<sup>4</sup>
+Somatic mutations in FBXO11 are common in BL<sup>1,2</sup> and appear in a small number of DLBCLs.<sup>3</sup> This gene has some recurrent sites of mutations (hot spots). Mutations lead to stabilization of BCL6, an important transcriptional repressor involved in lymphomagenesis.<sup>4</sup> These mutations present a potential novel target for therapeutic intervention, particularly through strategies aimed at degrading BCL6 or inhibiting its function.<sup>4</sup>
 
 ## Relevance tier by entity
 
@@ -32,6 +32,25 @@ Somatic mutations in FBXO11 are common in BL<sup>1,2</sup> and appear in a small
 
 > [!NOTE]
 > First described in BL in 2015 by Pighi et al<sup>1</sup> and described in DLBCL in 2021 by Hübschmann et al.<sup>5</sup>
+
+## FBXO11 hot spots
+|Chromosome|Coordinate|Mutation|HGVSp|
+|:-:|:-:|:-:|:-:|
+|chr2|48040426|T>A|N725I| 
+|chr2|48040427|T>C|N725D| 
+|chr2|48040427|T>G|N725H| 
+|chr2|48040427|T>A|N725Y| 
+|chr2|48040488|TA>GC|I704S| 
+|chr2|48040489|A>C|I704R| 
+|chr2|48040495|T>A|N702I| 
+|chr2|48040495|T>C|N702S| 
+|chr2|48040496|T>C|N702D| 
+|chr2|48040496|T>A|N702Y| 
+|chr2|48040500|T>A|E700D| 
+|chr2|48040500|T>G|E700D| 
+|chr2|48040501|T>A|E700V| 
+|chr2|48040510|C>T|G697D| 
+|chr2|48040511|C>G|G697R| 
 
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/FBXO11_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/FBXO11_protein_hg38.html)
