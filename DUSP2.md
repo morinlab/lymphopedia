@@ -1,7 +1,7 @@
 # DUSP2
 ## Overview
 
-DUSP2 functions as a negative regulator of MAPK signaling, particularly affecting the ERK1/2 pathway. DUSP2 mutations have been reported in nodular lymphocyte predominant Hodgkin lymphoma (NLPHL), T-cell/histiocyte-rich large B-cell lymphoma (T/HRLBCL) and they are relatively frequent in DLBCL.  DUSP2 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus. These mutations are associated with the ST2 genetic subgroup of DLBCL. This gene has some recurrent sites of mutations (hot spots). 
+DUSP2 functions as a negative regulator of MAPK signaling, particularly affecting the ERK1/2 pathway. DUSP2 mutations have been reported in nodular lymphocyte predominant Hodgkin lymphoma (NLPHL),<sup>1</sup> T-cell/histiocyte-rich large B-cell lymphoma (T/HRLBCL) and they are relatively frequent in DLBCL.  DUSP2 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus. These mutations are associated with the ST2 genetic subgroup of DLBCL. This gene has some recurrent sites of mutations (hot spots). 
 
 ## Relevance tier by entity
 
@@ -60,3 +60,6 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/DUSP2.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/DUSP2_hg38.html)
 
 ![image](images/proteinpaint/DUSP2.svg)
+
+## References
+1. *Hartmann, S., Schuhmacher, B., Rausch, T., Fuller, L., Döring, C., Weniger, M., Lollies, A., Weiser, C., Thurner, L., Rengstl, B., Brunnberg, U., Vornanen, M., Pfreundschuh, M., Beneš, V., Küppers, R., Newrzela, S., & Hansmann, M. (2016). Highly recurrent mutations of SGK1, DUSP2 and JUNB in nodular lymphocyte predominant Hodgkin lymphoma. Leukemia, 30, 844-853. https://doi.org/10.1038/leu.2015.328.*
