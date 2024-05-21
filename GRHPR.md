@@ -1,6 +1,7 @@
 # GRHPR
 ## Overview
-GRHPR is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus.
+GRHPR is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus. The mutation pattern in DLBCL implies the preferential accumulation of *inactivating mutations*.
+
 
 ## Relevance tier by entity
 
