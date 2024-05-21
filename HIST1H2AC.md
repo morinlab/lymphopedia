@@ -1,5 +1,6 @@
 # HIST1H2AC
-
+This gene encodes the H2A protein, one of the core proteins comprising nucleosomes.
+ 
 ## Relevance tier by entity
 
 |Entity|Tier|Description               |
