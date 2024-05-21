@@ -1,4 +1,6 @@
 # HLA-DMB
+## Overview
+HLA-DMB, along with HLA-DMA, plays a critical role in the proper functioning of HLA class II molecules. These genes are essential for the loading of antigenic peptides onto HLA class II molecules, facilitating the presentation of these peptides to CD4+ T cells.
 
 ## Relevance tier by entity
 
