@@ -1,4 +1,6 @@
 # HVCN1
+## Overview
+HVCN1, a voltage-gated proton channel, has been identified as recurrently mutated in follicular lymphoma. HVCN1 mutations disrupt its normal function, affecting B-cell receptor (BCR) signaling pathways.<sup>1</sup>
 
 ## Relevance tier by entity
 
@@ -47,3 +49,6 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/HVCN1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/HVCN1_hg38.html)
 
 ![image](images/proteinpaint/HVCN1.svg)
+
+## References
+1. *Krysiak, K., Gomez, F., White, B., Matlock, M., Miller, C., Trani, L., Fronick, C., Fulton, R., Kreisel, F., Cashen, A., Carson, K., Berrien-Elliott, M., Bartlett, N., Griffith, M., Griffith, O., & Fehniger, T. (2017). Recurrent somatic mutations affecting B-cell receptor signaling pathway genes in follicular lymphoma.. Blood, 129 4, 473-483 . https://doi.org/10.1182/blood-2016-07-729954.*
