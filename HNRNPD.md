@@ -1,4 +1,6 @@
 # HNRNPD
+## Overview
+hnRNPs are a family of RNA-binding proteins that play crucial roles in RNA processing, including splicing, stability, transport, and translation. They are involved in the regulation of gene expression at multiple levels. HNRNPD mutations are rare in DLBCL. *Without further support, this gene may be migrated to Tier 2.* 
 
 ## Relevance tier by entity
 
