@@ -1,6 +1,6 @@
 # HNRNPH1
 ## Overview
-Mutations in HNRNPH1 result in deregulated splicing and increased expression of the hnRNP H1 protein. This overexpression is linked to enhanced cell proliferation and survival, contributing to the aggressive nature of MCL.<>1,2<> 
+Mutations in HNRNPH1 are enriched at splicing signals in exon 4. These result in deregulated splicing and increased expression of the hnRNP H1 protein. This overexpression is linked to enhanced cell proliferation and survival, contributing to the aggressive nature of MCL.<sup>1,2</sup> 
 
 ## Relevance tier by entity
 
