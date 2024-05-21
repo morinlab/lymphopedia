@@ -1,4 +1,6 @@
 # HLA-A
+## Overview
+Mutations in the HLA-A gene have been associated with a loss of cell surface expression of HLA class I molecules, which are essential for presenting tumor antigens to cytotoxic T cells. This is a common mechanism of immune escape in DLBCL. Different approaches for mapping sequencing data can complicate the detection of mutations in this and other HLA genes. Likely owing to this, the rate of mutations is highly variable across studies. Deletions of this gene are more commonly reported than HLA-A mutations.<sup>1</sup> 
 
 ## Relevance tier by entity
 
@@ -11,13 +13,13 @@
 
 |Entity|source               |frequency (%)|
 |:------:|:---------------------:|:-------------:|
-|BL    |GAMBL genomes+capture| 1.39        |
-|BL    |Thomas cohort        | 1.30        |
-|BL    |Panea cohort         |   NA        |
 |DLBCL |GAMBL genomes        | 7.46        |
 |DLBCL |Schmitz cohort       |11.06        |
 |DLBCL |Reddy cohort         | 0.20        |
 |DLBCL |Chapuy cohort        | 8.97        |
+|BL    |GAMBL genomes+capture| 1.39        |
+|BL    |Thomas cohort        | 1.30        |
+|BL    |Panea cohort         |   NA        |
 
 ## Mutation pattern and selective pressure estimates
 
@@ -43,3 +45,6 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/HLA-A.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/HLA-A_hg38.html)
 
 ![image](images/proteinpaint/HLA-A.svg)
+
+## References
+1. *Riemersma, S., Jordanova, E., Schop, R., Philippo, K., Looijenga, L., Schuuring, E., & Kluin, P. (2000). Extensive genetic alterations of the HLA region, including homozygous deletions of HLA class II genes in B-cell lymphomas arising in immune-privileged sites.. Blood, 96 10, 3569-77 . https://doi.org/10.1182/BLOOD.V96.10.3569.*
