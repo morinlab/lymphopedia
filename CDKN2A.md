@@ -34,6 +34,11 @@
 > [!NOTE]
 > First described in DLBCL in 2013 by [Morin RD](https://pubmed.ncbi.nlm.nih.gov/23699601)
 
+## CDKN2A Hotspots
+
+| Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
+ | :---:| :---: | :--: | :---: |
+| chr9 | 21971120 | G>A | R80* |
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CDKN2A_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CDKN2A_protein_hg38.html)
 
