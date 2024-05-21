@@ -30,9 +30,17 @@ Mutations in the EEF1A1 gene, which encodes the eukaryotic translation elongatio
  ## EEF1A1 Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
- | :---:| :---: | :--: | :---: |
+| :---:| :---: | :--: | :---: |
+|chr6|74229191|C>T|A65T|
+|chr6|74229191|C>G|A65P|
+|chr6|74229190|G>C|A65G|
+|chr6|74229188|C>T|E66K|
+|chr6|74229187|T>A|E66V|
+|chr6|74229179|G>C|R69G|
+|chr6|74229179|G>A|R69C|
 | chr6 | 74229094 | T>A | D97V |
 | chr6 | 74229095 | C>T | D97N |
+
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/EEF1A1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/EEF1A1_protein_hg38.html)
 
