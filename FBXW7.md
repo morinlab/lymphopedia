@@ -1,4 +1,6 @@
 # FBXW7
+## Overview
+FBXW7 mutations are found in a range of lymphoid malignancies, including B-cell lymphomas. These mutations often include missense mutations, deletions, frameshift mutations and splice-site mutations. Overall, these mutations are relatively rare in DLBCL.
 
 ## Relevance tier by entity
 
