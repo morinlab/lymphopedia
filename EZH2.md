@@ -39,11 +39,16 @@
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |
 | chr7 | 148508745 | T>C | N640S |
+|chr7|148508740|A>G|F642L| 
 | chr7 | 148508728 | A>T | Y646N |
 | chr7 | 148508728 | A>G | Y646H |
 | chr7 | 148508727 | T>G | Y646S |
 | chr7 | 148508727 | T>C | Y646C |
 | chr7 | 148508727 | T>A | Y646F |
+|chr7|148506466|TG>GC|A682G|
+|chr7|148506467|G>C|A682G|
+|chr7|148506437|GC>AA|A692L|
+|chr7|148506437|G>A|A692V|
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/EZH2_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/EZH2_protein_hg38.html)
 
