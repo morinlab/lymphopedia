@@ -1,4 +1,6 @@
 # EZH2
+## Overview
+EZH2 encodes a histone methyltransferase that is a component of the polycomb repressive complex 2 (PRC2). This gene is recurrently mutated in both FL and DLBCL and has a common mutation hot spot (Y646) that affects the SET domain.<sup>1</sup> Mutations of this residue and some of the less common hotspots lead to enhanced methylation by PRC2.<sup>2,3</sup> Pharmacologic inhibitors of this activity such as tazemetostat have shown benefit in FL.<sup>3</sup> 
 
 ## Relevance tier by entity
 
@@ -57,3 +59,9 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/EZH2.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/EZH2_hg38.html)
 
 ![image](images/proteinpaint/EZH2.svg)
+
+## References
+
+1. *Morin RD, Johnson NA, Severson TM, Mungall AJ, An J, Goya R, Paul JE, Boyle M, Woolcock BW, Kuchenbauer F, Yap D, Humphries RK, Griffith OL, Shah S, Zhu H, Kimbara M, Shashkin P, Charlot JF, Tcherpakov M, Corbett R, Tam A, Varhol R, Smailus D, Moksa M, Zhao Y, Delaney A, Qian H, Birol I, Schein J, Moore R, Holt R, Horsman DE, Connors JM, Jones S, Aparicio S, Hirst M, Gascoyne RD, Marra MA. Somatic mutations altering EZH2 (Tyr641) in follicular and diffuse large B-cell lymphomas of germinal-center origin. Nat Genet. 2010 Feb;42(2):181-5. doi: 10.1038/ng.518. Epub 2010 Jan 17. PMID: 20081860; PMCID: PMC2850970.*
+2. *Yap DB, Chu J, Berg T, Schapira M, Cheng SW, Moradian A, Morin RD, Mungall AJ, Meissner B, Boyle M, Marquez VE, Marra MA, Gascoyne RD, Humphries RK, Arrowsmith CH, Morin GB, Aparicio SA. Somatic mutations at EZH2 Y641 act dominantly through a mechanism of selectively altered PRC2 catalytic activity, to increase H3K27 trimethylation. Blood. 2011 Feb 24;117(8):2451-9. doi: 10.1182/blood-2010-11-321208. Epub 2010 Dec 29. PMID: 21190999; PMCID: PMC3062411.*
+3. *Morin RD, Arthur SE, Assouline S. Treating lymphoma is now a bit EZ-er. Blood Adv. 2021 Apr 27;5(8):2256-2263. doi: 10.1182/bloodadvances.2020002773. PMID: 33904892; PMCID: PMC8095133.*
