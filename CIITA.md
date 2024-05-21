@@ -1,6 +1,6 @@
 # CIITA
 ## Overview
-CIITA is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus.
+CIITA encodes the major histocompatibility complex (MHC) class II transactivator.  CIITA mutations are frequent in PMBCL. These mutations often include structural genomic rearrangements, missense, nonsense, and frameshift mutations. In PMBCL, these mutations are thought to contribute to loss of MHC expression.<sup>1</sup>  Although loss of CIITA and MHC Class II Expression is commonly observed in DLBCL, the role of mutations and methylation affecting this locus remains unclear.<sup>2</sup> CIITA is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus.
 
 ## Relevance tier by entity
 
@@ -42,3 +42,7 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CIITA.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CIITA_hg38.html)
 
 ![image](images/proteinpaint/CIITA.svg)
+
+## References
+1. *Mottok, A., Woolcock, B., Chan, F., Tong, K., Chong, L., Farinha, P., Telenius, A., Chavez, E., Ramchandani, S., Drake, M., Boyle, M., Ben-Neriah, S., Scott, D., Rimsza, L., Siebert, R., Gascoyne, R., & Steidl, C. (2015). Genomic Alterations in CIITA Are Frequent in Primary Mediastinal Large B Cell Lymphoma and Are Associated with Diminished MHC Class II Expression.. Cell reports, 13 7, 1418-1431 . https://doi.org/10.1016/j.celrep.2015.10.008.*
+2. *Sarah T Wilkinson, Diane R Fernandez, Shawn P Murphy, Wing C. Chan, Randy D. Gascoyne, Elias Campo, Elaine S. Jaffe, Louis M. Staudt, Jan Delabie, Andreas Rosenwald, Lisa M Rimsza; Loss of CIITA and MHC Class II Expression in Diffuse Large B-Cell Lymphoma Is Not Explained by Methylation of CIITA Promoters III and IV.. Blood 2008; 112 (11): 1786. doi: https://doi.org/10.1182/blood.V112.11.1786.1786*
