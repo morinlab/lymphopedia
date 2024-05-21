@@ -1,5 +1,6 @@
 # HIST1H1E
-
+## Overview
+This is one of several genes that encode linker histone proteins that are recurrently mutated in DLBCL and FL.<sup>1,2</sup> Mutations are often found in the globular domain of the protein, which is critical for its interaction with DNA and other histone proteins. 
 ## Relevance tier by entity
 
 |Entity|Tier|Description                           |
