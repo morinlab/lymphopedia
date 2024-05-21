@@ -39,6 +39,30 @@ This gene encodes the H2A protein, one of the core proteins comprising nucleosom
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |
+|chr6|27860660|T>C|N90D| 
+|chr6|27860658|G>C|N90K| 
+|chr6|27860652|C>G|E92D| 
+|chr6|27860652|C>A|E92D|
+|chr6|27860649|C>G|E93D| 
+|chr6|27860648|G>C|L94V| 
+|chr6|27860648|G>A|L94F| 
+|chr6|27860644|T>C|N95S| 
+|chr6|27860643|G>C|N95K| 
+|chr6|27860640|C>G|K96N| 
+|chr6|27860640|C>A|K96N| 
+|chr6|27860639|G>C|L97V| 
+|chr6|27860636|G>C|L98V| 
+|chr6|27860636|G>A|L98F| 
+|chr6|27860633|C>G|G99R| 
+|chr6|27860632|C>G|G99A| 
+|chr6|27860627|C>G|V101L| 
+|chr6|27860627|C>T|V101I| 
+|chr6|27860627|C>A|V101F| 
+|chr6|27860624|T>A|T102S| 
+|chr6|27860623|G>C|T102S| 
+|chr6|27860623|G>A|T102I| 
+|chr6|27860560|C>G|S123T| 
+|chr6|27860559|G>C|S123R| 
 | chr6 | 27860549 | C>G | A127P |
 | chr6 | 27860548 | G>C | A127G |
 | chr6 | 27860548 | G>A | A127V |
