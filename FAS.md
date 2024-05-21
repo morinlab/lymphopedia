@@ -1,12 +1,14 @@
 # FAS
+## Overview
+FAS encodes a cell surface receptor involved in the induction of apoptosis. FAS mutations are common in DLBCL and may be more frequent in primary gastric DLBCL.<sup>1</sup>
 
 ## Relevance tier by entity
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|BL    |2   |relevance in BL not firmly established|
 |DLBCL |1   |high-confidence DLBCL gene            |
 |FL    |1   |high-confidence FL gene               |
+|BL    |2   |relevance in BL not firmly established|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -41,3 +43,7 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/FAS.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/FAS_hg38.html)
 
 ![image](images/proteinpaint/FAS.svg)
+
+## References
+
+1. *Wohlfart, S., Sebinger, D., Gruber, P., Buch, J., Polgar, D., Krupitza, G., Rosner, M., Hengstschläger, M., Raderer, M., Chott, A., & Müllauer, L. (2004). FAS (CD95) mutations are rare in gastric MALT lymphoma but occur more frequently in primary gastric diffuse large B-cell lymphoma.. The American journal of pathology, 164 3, 1081-9 . https://doi.org/10.1016/S0002-9440(10)63195-1.*
