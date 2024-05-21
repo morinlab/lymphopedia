@@ -1,6 +1,6 @@
 # EEF1A1
 ## Overview
-Mutations in the EEF1A1 gene, which encodes the eukaryotic translation elongation factor 1A1, have been reported in DLBCL and FL.<sup>1</sup>
+Mutations in the EEF1A1 gene, which encodes the eukaryotic translation elongation factor 1A1, have been reported in DLBCL and FL.<sup>1</sup> 
 
 ## Relevance tier by entity
 
