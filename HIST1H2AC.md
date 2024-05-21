@@ -1,5 +1,5 @@
 # HIST1H2AC
-This gene encodes the H2A protein, one of the core proteins comprising nucleosomes.
+This gene encodes the H2A protein, one of the core proteins comprising nucleosomes. Although relatively common in DLBCL, little is known about the function of these mutations. 
  
 ## Relevance tier by entity
 
