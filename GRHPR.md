@@ -1,6 +1,6 @@
 # GRHPR
 ## Overview
-GRHPR is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus. The mutation pattern in DLBCL implies the preferential accumulation of *inactivating mutations*.
+GRHPR is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus. The mutation pattern in DLBCL implies the preferential accumulation of *inactivating mutations*. Coding and non-coding mutations in GRHPR are a feature of the MCD genetic subgroup of DLBCL.<sup>1</sup> 
 
 
 ## Relevance tier by entity
@@ -43,3 +43,6 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/GRHPR.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/GRHPR_hg38.html)
 
 ![image](images/proteinpaint/GRHPR.svg)
+
+## References
+1. *Wright GW, Huang DW, Phelan JD, Coulibaly ZA, Roulland S, Young RM, Wang JQ, Schmitz R, Morin RD, Tang J, Jiang A, Bagaev A, Plotnikova O, Kotlov N, Johnson CA, Wilson WH, Scott DW, Staudt LM. A Probabilistic Classification Tool for Genetic Subtypes of Diffuse Large B Cell Lymphoma with Therapeutic Implications. Cancer Cell. 2020 Apr 13;37(4):551-568.e14. doi: 10.1016/j.ccell.2020.03.015. PMID: 32289277; PMCID: PMC8459709.*
