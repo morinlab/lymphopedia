@@ -1,4 +1,6 @@
 # CREBBP
+## Overview
+CREBBP mutations are highly prevalent in both DLBCL and FL. These mutations often affect the histone acetyltransferase (HAT) domain, crucial for regulating gene expression through chromatin modification, or generate a truncated protein.<sup>1</sup> 
 
 ## Relevance tier by entity
 
@@ -71,3 +73,6 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CREBBP.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CREBBP_hg38.html)
 
 ![image](images/proteinpaint/CREBBP.svg)
+
+## References
+1. *Pasqualucci, L., Dominguez-Sola, D., Chiarenza, A., Fabbri, G., Grunn, A., Trifonov, V., Kasper, L., Lerach, S., Tang, H., Ma, J., Rossi, D., Chadburn, A., Murty, V., Mullighan, C., Gaidano, G., Rabadán, R., Brindle, P., & Dalla-Favera, R. (2010). Inactivating mutations of acetyltransferase genes in B-cell lymphoma. Nature, 471, 189 - 195. https://doi.org/10.1038/nature09730.*
