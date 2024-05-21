@@ -1,6 +1,6 @@
 # EBF1
 ## Overview
-EBF1 is a critical transcription factor in early B-cell development, regulating the expression of key genes involved in B-cell differentiation, survival, and function. EBF1 is essential for proper B-cell receptor (BCR) signaling.<sup>1</sup> Mutations in EBF1 can impair BCR signaling pathways, affecting B-cell survival and proliferation.<sup>1</sup> EBF1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus.
+EBF1 is a critical transcription factor in early B-cell development, regulating the expression of key genes involved in B-cell differentiation, survival, and function. EBF1 is essential for proper B-cell receptor (BCR) signaling.<sup>1</sup> Mutations in EBF1 can impair BCR signaling pathways, affecting B-cell survival and proliferation.<sup>1</sup> EBF1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus. This gene has some recurrent sites of mutations (hot spots) but the mutation pattern in DLBCL and FL implies the preferential accumulation of *inactivating mutations*.
 
 
 
@@ -8,9 +8,9 @@ EBF1 is a critical transcription factor in early B-cell development, regulating 
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|BL    |2-a | aSHM target; Although recurrent, the relevance of mutations in BL is tenuous |
 |DLBCL |1-a | aSHM target and high-confidence DLBCL gene            |
 |FL    |1-a | aSHM target and high-confidence FL gene               |
+|BL    |2-a | aSHM target; Although recurrent, the relevance of mutations in BL is tenuous |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
