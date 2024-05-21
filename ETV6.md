@@ -1,6 +1,6 @@
 # ETV6
 ## Overview
-ETV6 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus.
+ETV6 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus. The prevalence of mutations in DLBCL has varied across different studies and may occur in as many as 10% of patients. ETV6 coding and non-coding mutations are associated with the MCD genetic subgroup of DLBCL.
 
 ## Relevance tier by entity
 
