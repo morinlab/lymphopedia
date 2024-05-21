@@ -39,6 +39,9 @@ CD79B mutations significantly contribute to the pathogenesis of DLBCL by enhanci
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |
+| chr17 | 62007234 | C>G | A150P |
+| chr17 | 62007234 | C>T | A150T |
+| chr17 | 62007233 | G>A | A150V |
 | chr17 | 62007140 | A>G | L181P |
 | chr17 | 62007129 | C>T | X184_splice |
 | chr17 | 62006798 | T>A | Y197F |
