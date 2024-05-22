@@ -1,4 +1,6 @@
 # MYOM2
+## Overview
+The prevalence of MYOM2 mutations in DLBCL varies across studies. The role of these mutations in lymphomagenesis has not been thoroughly explored. 
 
 ## Relevance tier by entity
 
