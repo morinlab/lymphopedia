@@ -48,6 +48,6 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/L
 
 ## Expression
 
-![image](images/gene_expression/MYC_by_pathology.svg)
+![image](images/gene_expression/LTB_by_pathology.svg)
 
 ## References
