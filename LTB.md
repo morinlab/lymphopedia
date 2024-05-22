@@ -46,7 +46,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/L
 
 ![image](images/proteinpaint/LTB.svg)
 
-## Expression
+## LTB Expression
 
 ![image](images/gene_expression/LTB_by_pathology.svg)
 
