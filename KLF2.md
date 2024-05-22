@@ -1,6 +1,6 @@
 # KLF2
 ## Overview
-KLF2 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus.
+KLF2 (Kruppel-like factor 2) is a transcription factor involved in the regulation of various cellular processes, including apoptosis, proliferation, and differentiation. Mutations in KLF2 have been identified in various B-cell lymphomas including DLBCL.<sup>1</sup> KLF2 mutations are among the most common mutations in splenic marginal zone lymphoma (SMZL).<sup>2</sup> KLF2 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus.
 
 ## Relevance tier by entity
 
@@ -33,10 +33,6 @@ KLF2 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) 
 |:--------:|:----------:|:--------:|:------------------------------------------------------------------------------------------:|:------------------:|
 |chr19   |16434978  |16439011|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr19%3A16434978%2D16439011)|intron            |
 
-> [!NOTE]
-> First described in DLBCL in 2011 by [Pasqualucci L](https://pubmed.ncbi.nlm.nih.gov/21804550)
-
-
  ## KLF2 Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
@@ -59,3 +55,7 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/KLF2.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/KLF2_hg38.html)
 
 ![image](images/proteinpaint/KLF2.svg)
+
+## References
+1. *Pasqualucci L, Trifonov V, Fabbri G, Ma J, Rossi D, Chiarenza A, Wells VA, Grunn A, Messina M, Elliot O, Chan J, Bhagat G, Chadburn A, Gaidano G, Mullighan CG, Rabadan R, Dalla-Favera R. Analysis of the coding genome of diffuse large B-cell lymphoma. Nat Genet. 2011 Jul 31;43(9):830-7. doi: 10.1038/ng.892. PMID: 21804550; PMCID: PMC3297422.*
+2. *Clipson, A., Wang, M., Leval, L., Ashton-Key, M., Wotherspoon, A., Vassiliou, G., Bolli, N., Grove, C., Moody, S., Escudero-Ibarz, L., Gundem, G., Brügger, K., Xue, X., Mi, E., Bench, A., Scott, M., Liu, H., Follows, G., Robles, E., Martinez-Climent, J., Oscier, D., Watkins, A., & Du, M. (2014). KLF2 mutation is the most frequent somatic change in splenic marginal zone lymphoma and identifies a subset with distinct genotype. Leukemia, 29, 1177-1185. https://doi.org/10.1038/leu.2014.330.*
