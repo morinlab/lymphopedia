@@ -1,4 +1,5 @@
 # NFKB1
+## Mutations in this gene are relatively rare in DLBCL overall. Some hotspots have been identified in DLBCL. *Without further support, this gene may be migrated to Tier 2.*
 
 ## Relevance tier by entity
 
