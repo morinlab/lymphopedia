@@ -1,4 +1,6 @@
 # KMT2D
+## Overview
+KMT2D (also known as MLL2) encodes a histone H3K4 methyltransferase, playing a crucial role in germinal center B cell development and function. Mutations in KMT2D are among the most common mutations in FL and are also common in DLBCL.<sup>1</sup> KMT2D mutations are recurrent but less common in BL and MCL and many other B-cell neoplasms. Mutations typically cause loss of KMT2D function, leading to diminished H3K4 methylation, impacting gene expression that favours lymphomagenesis. 
 
 ## Relevance tier by entity
 
