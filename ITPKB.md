@@ -1,6 +1,6 @@
 # ITPKB
 ## Overview
-ITPKB is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus.
+The ITPKB gene encodes inositol-trisphosphate 3-kinase B, an enzyme involved in the regulation of intracellular calcium levels and PI3K/Akt signaling pathways. Mutations in ITPKB have been linked to various B-cell lymphomas, including DLBCL, PMBCL and, less commonly, FL.<sup>1</sup> ITPKB is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus. These mutations are associated with the **BN2** genetic subgroup of DLBCL. 
 
 ## Relevance tier by entity
 
@@ -35,9 +35,6 @@ ITPKB is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm)
 |chr1    |226920563 |226927885|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr1%3A226920563%2D226927885)     |active_promoter   |
 |chr1    |226921088 |226927982|[intron-1](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr1%3A226921088%2D226927982)|enhancer          |
 
-> [!NOTE]
-> First described in DLBCL in 2018 by [Schmitz R](https://pubmed.ncbi.nlm.nih.gov/29641966)
-
 
  ## ITPKB Hotspots
 
@@ -53,3 +50,6 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ITPKB.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ITPKB_hg38.html)
 
 ![image](images/proteinpaint/ITPKB.svg)
+
+## References
+1. *Mareschal S, Dubois S, Viailly PJ, Bertrand P, Bohers E, Maingonnat C, Jaïs JP, Tesson B, Ruminy P, Peyrouze P, Copie-Bergman C, Fest T, Jo Molina T, Haioun C, Salles G, Tilly H, Lecroq T, Leroy K, Jardin F. Whole exome sequencing of relapsed/refractory patients expands the repertoire of somatic mutations in diffuse large B-cell lymphoma. Genes Chromosomes Cancer. 2016 Mar;55(3):251-67. doi: 10.1002/gcc.22328. Epub 2015 Nov 26. PMID: 26608593.*
