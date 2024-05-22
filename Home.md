@@ -17,3 +17,5 @@ of mutations in each gene can be found through the gene lists (below). Additiona
 [hg38 coordinates](ashm_hg38)
 
 ![FOXO1](images/proteinpaint/FOXO1_NM_002015.svg)
+
+![expression](images/gene_expression/FOXO1_by_pathology.svg)
