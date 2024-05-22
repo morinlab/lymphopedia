@@ -1,6 +1,6 @@
 # MGA
 ## Overview
-MGA acts as a transcriptional repressor and interacts with MYC, a well-known oncogene. Mutations in MGA have been described in DLBCL.<sup>1</sup> One study suggested MGA mutations were more common in DLBCLs in patients of African ancestry.<sup>2</sup> 
+MGA acts as a transcriptional repressor and interacts with MYC, a well-known oncogene. Mutations in MGA have been described in DLBCL.<sup>1</sup> One study suggested MGA mutations were more common in DLBCLs in patients of African ancestry.<sup>2</sup> The mutation pattern in MGA is consistent with a role as a tumour suppressor gene. 
 
 ## Relevance tier by entity
 
@@ -21,14 +21,9 @@ MGA acts as a transcriptional repressor and interacts with MYC, a well-known onc
 
 |Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
 |:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   |2.443           | 3.733          |
 |DLBCL |No  |No                   |1.432           |12.504          |
+|BL    |No  |No                   |2.443           | 3.733          |
 |FL    |No  |No                   |0.000           | 0.000          |
-
-
-> [!NOTE]
-> First described in DLBCL in 2013 by [Zhang J](https://pubmed.ncbi.nlm.nih.gov/23292937)
-
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/MGA_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/MGA_protein_hg38.html)
 
