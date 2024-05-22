@@ -1,4 +1,6 @@
 # KMT2C
+## Overview
+This gene has been reported to be recurrently mutated in DLBCL. The rate of mutations in KMT2C (MLL3) varies across published cohorts. In the initial study describing these mutations, it was suggested to be mutated in >15% of DLBCLs.<sup>1</sup> The actual rate of mutations may be much lower, potentially due to the existence of germline variants in some studies.<sup>2</sup> 
 
 ## Relevance tier by entity
 
@@ -12,13 +14,13 @@
 
 |Entity|source               |frequency (%)|
 |:------:|:---------------------:|:-------------:|
-|BL    |GAMBL genomes+capture|6.47         |
-|BL    |Thomas cohort        |  NA         |
-|BL    |Panea cohort         |  NA         |
 |DLBCL |GAMBL genomes        |3.25         |
 |DLBCL |Schmitz cohort       |8.30         |
 |DLBCL |Reddy cohort         |7.31         |
 |DLBCL |Chapuy cohort        |6.41         |
+|BL    |GAMBL genomes+capture|6.47         |
+|BL    |Thomas cohort        |  NA         |
+|BL    |Panea cohort         |  NA         |
 |MCL   |GAMBL genomes        |0.47         |
 
 ## Mutation pattern and selective pressure estimates
@@ -41,3 +43,7 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/KMT2C.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/KMT2C_hg38.html)
 
 ![image](images/proteinpaint/KMT2C.svg)
+
+## References
+1. *Zhang J, Grubor V, Love CL, Banerjee A, Richards KL, Mieczkowski PA, Dunphy C, Choi W, Au WY, Srivastava G, Lugar PL, Rizzieri DA, Lagoo AS, Bernal-Mizrachi L, Mann KP, Flowers C, Naresh K, Evens A, Gordon LI, Czader M, Gill JI, Hsi ED, Liu Q, Fan A, Walsh K, Jima D, Smith LL, Johnson AJ, Byrd JC, Luftig MA, Ni T, Zhu J, Chadburn A, Levy S, Dunson D, Dave SS. Genetic heterogeneity of diffuse large B-cell lymphoma. Proc Natl Acad Sci U S A. 2013 Jan 22;110(4):1398-403. doi: 10.1073/pnas.1205299110. Epub 2013 Jan 4. PMID: 23292937; PMCID: PMC3557051.*
+2. *https://pubpeer.com/publications/C1086AC68FD7082E3811E097EA4EA0*
