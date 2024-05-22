@@ -1,4 +1,6 @@
 # LYN
+## Overview
+LYN mutations have been reported in DLBCL but the rate is relatively rare in most cohorts. The mutation pattern in DLBCL and FL implies the preferential accumulation of *inactivating mutations*. *Without further support, this gene may be migrated to Tier 2.*
 
 ## Relevance tier by entity
 
