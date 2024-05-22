@@ -1,4 +1,6 @@
 # JUNB
+## Overview
+JUNB has been reported to be frequently mutated in T-cell/histiocyte-rich large B-cell lymphoma (THRLBCL) and, to a lesser extent, DLBCL. According to one study, mutations are often enriched at somatic hypermutation hotspot sites, indicating the involvement of aberrant somatic hypermutation in the pathogenesis of these lymphomas.<sup>1</sup>
 
 ## Relevance tier by entity
 
@@ -38,3 +40,6 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/JUNB.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/JUNB_hg38.html)
 
 ![image](images/proteinpaint/JUNB.svg)
+
+## References
+1. *Schuhmacher, B., Bein, J., Rausch, T., Beneš, V., Tousseyn, T., Vornanen, M., Ponzoni, M., Thurner, L., Gascoyne, R., Steidl, C., Küppers, R., Hansmann, M., & Hartmann, S. (2018). JUNB, DUSP2, SGK1, SOCS1 and CREBBP are frequently mutated in T-cell/histiocyte-rich large B-cell lymphoma. Haematologica, 104, 330 - 337. https://doi.org/10.3324/haematol.2018.203224.*
