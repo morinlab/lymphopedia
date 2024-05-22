@@ -32,3 +32,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CPNE8.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CPNE8_hg38.html)
 
 ![image](images/proteinpaint/CPNE8.svg)
+## CPNE8 Expression
+![image](images/gene_expression/CPNE8_by_pathology.svg)

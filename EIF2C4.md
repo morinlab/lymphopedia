@@ -28,3 +28,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/EIF2C4.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/EIF2C4_hg38.html)
 
 ![image](images/proteinpaint/EIF2C4.svg)
+## EIF2C4 Expression
+![image](images/gene_expression/EIF2C4_by_pathology.svg)

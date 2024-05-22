@@ -52,3 +52,5 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/I
 ## References
 1. *Gunawardana, J., Tol, T., Mak, K., Twa, D., Chavez, E., Woolcock, B., Kridel, R., Mottok, A., Healy, S., Telenius, A., Boyle, M., Ben-Neriah, S., Hung, S., Hother, C., Gascoyne, R., & Steidl, C. (2015). Abstract 3941: Recurrent IL4R mutations in primary mediastinal large B cell lymphoma. Cancer Research, 75, 3941-3941. https://doi.org/10.1158/1538-7445.AM2015-3941.* 
 2. *Viganò E, Gunawardana J, Mottok A, Van Tol T, Mak K, Chan FC, Chong L, Chavez E, Woolcock B, Takata K, Twa D, Shulha HP, Telenius A, Kutovaya O, Hung SS, Healy S, Ben-Neriah S, Leroy K, Gaulard P, Diepstra A, Kridel R, Savage KJ, Rimsza L, Gascoyne R, Steidl C. Somatic IL4R mutations in primary mediastinal large B-cell lymphoma lead to constitutive JAK-STAT signaling activation. Blood. 2018 May 3;131(18):2036-2046. doi: 10.1182/blood-2017-09-808907. Epub 2018 Feb 21. PMID: 29467182.*
+## IL4R Expression
+![image](images/gene_expression/IL4R_by_pathology.svg)

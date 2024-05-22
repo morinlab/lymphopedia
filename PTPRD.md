@@ -41,3 +41,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PTPRD.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PTPRD_hg38.html)
 
 ![image](images/proteinpaint/PTPRD.svg)
+## PTPRD Expression
+![image](images/gene_expression/PTPRD_by_pathology.svg)

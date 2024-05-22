@@ -34,3 +34,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/SP3.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/SP3_hg38.html)
 
 ![image](images/proteinpaint/SP3.svg)
+## SP3 Expression
+![image](images/gene_expression/SP3_by_pathology.svg)

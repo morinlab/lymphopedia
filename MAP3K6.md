@@ -34,3 +34,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/MAP3K6.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/MAP3K6_hg38.html)
 
 ![image](images/proteinpaint/MAP3K6.svg)
+## MAP3K6 Expression
+![image](images/gene_expression/MAP3K6_by_pathology.svg)

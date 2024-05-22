@@ -52,3 +52,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/POU2AF1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/POU2AF1_hg38.html)
 
 ![image](images/proteinpaint/POU2AF1.svg)
+## POU2AF1 Expression
+![image](images/gene_expression/POU2AF1_by_pathology.svg)

@@ -35,3 +35,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/IKBKE.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/IKBKE_hg38.html)
 
 ![image](images/proteinpaint/IKBKE.svg)
+## IKBKE Expression
+![image](images/gene_expression/IKBKE_by_pathology.svg)

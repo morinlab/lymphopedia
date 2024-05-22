@@ -39,3 +39,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/RNF144B.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/RNF144B_hg38.html)
 
 ![image](images/proteinpaint/RNF144B.svg)
+## RNF144B Expression
+![image](images/gene_expression/RNF144B_by_pathology.svg)

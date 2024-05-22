@@ -35,3 +35,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PTPN6.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PTPN6_hg38.html)
 
 ![image](images/proteinpaint/PTPN6.svg)
+## PTPN6 Expression
+![image](images/gene_expression/PTPN6_by_pathology.svg)

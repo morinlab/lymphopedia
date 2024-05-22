@@ -37,3 +37,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/SEL1L3.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/SEL1L3_hg38.html)
 
 ![image](images/proteinpaint/SEL1L3.svg)
+## SEL1L3 Expression
+![image](images/gene_expression/SEL1L3_by_pathology.svg)

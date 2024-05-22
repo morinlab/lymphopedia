@@ -37,3 +37,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/FAM102A.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/FAM102A_hg38.html)
 
 ![image](images/proteinpaint/FAM102A.svg)
+## FAM102A Expression
+![image](images/gene_expression/FAM102A_by_pathology.svg)

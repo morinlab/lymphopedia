@@ -35,3 +35,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CBLB.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CBLB_hg38.html)
 
 ![image](images/proteinpaint/CBLB.svg)
+## CBLB Expression
+![image](images/gene_expression/CBLB_by_pathology.svg)

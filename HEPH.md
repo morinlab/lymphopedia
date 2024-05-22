@@ -32,3 +32,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/HEPH.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/HEPH_hg38.html)
 
 ![image](images/proteinpaint/HEPH.svg)
+## HEPH Expression
+![image](images/gene_expression/HEPH_by_pathology.svg)

@@ -35,3 +35,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ZFAT.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ZFAT_hg38.html)
 
 ![image](images/proteinpaint/ZFAT.svg)
+## ZFAT Expression
+![image](images/gene_expression/ZFAT_by_pathology.svg)

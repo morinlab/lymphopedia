@@ -26,3 +26,5 @@
 |chr17   |75424734  |75440956|[intron-1](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr17%3A75424734%2D75440956)|active_promoter   |
 |chr17   |75443766  |75451177|[intron-2](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr17%3A75443766%2D75451177)|active_promoter   |
 |chr17   |75453203  |75471471|[intron-3](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr17%3A75453203%2D75471471)|active_promoter   |
+## SEPTIN9 Expression
+![image](images/gene_expression/SEPTIN9_by_pathology.svg)

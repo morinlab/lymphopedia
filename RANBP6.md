@@ -34,3 +34,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/RANBP6.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/RANBP6_hg38.html)
 
 ![image](images/proteinpaint/RANBP6.svg)
+## RANBP6 Expression
+![image](images/gene_expression/RANBP6_by_pathology.svg)

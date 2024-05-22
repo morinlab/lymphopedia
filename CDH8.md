@@ -32,3 +32,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CDH8.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CDH8_hg38.html)
 
 ![image](images/proteinpaint/CDH8.svg)
+## CDH8 Expression
+![image](images/gene_expression/CDH8_by_pathology.svg)

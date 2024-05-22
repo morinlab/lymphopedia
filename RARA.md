@@ -35,3 +35,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/RARA.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/RARA_hg38.html)
 
 ![image](images/proteinpaint/RARA.svg)
+## RARA Expression
+![image](images/gene_expression/RARA_by_pathology.svg)

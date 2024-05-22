@@ -26,3 +26,5 @@
 
 > [!NOTE]
 > First described in DLBCL in 2013 by [Morin RD](https://pubmed.ncbi.nlm.nih.gov/23699601)
+## IER2 Expression
+![image](images/gene_expression/IER2_by_pathology.svg)

@@ -46,3 +46,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/IGLL5.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/IGLL5_hg38.html)
 
 ![image](images/proteinpaint/IGLL5.svg)
+## IGLL5 Expression
+![image](images/gene_expression/IGLL5_by_pathology.svg)

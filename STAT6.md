@@ -64,3 +64,5 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/S
 ## References
 
 1. *Morin RD, Assouline S, Alcaide M, Mohajeri A, Johnston RL, Chong L, Grewal J, Yu S, Fornika D, Bushell K, Nielsen TH, Petrogiannis-Haliotis T, Crump M, Tosikyan A, Grande BM, MacDonald D, Rousseau C, Bayat M, Sesques P, Froment R, Albuquerque M, Monczak Y, Oros KK, Greenwood C, Riazalhosseini Y, Arseneault M, Camlioglu E, Constantin A, Pan-Hammarstrom Q, Peng R, Mann KK, Johnson NA. Genetic Landscapes of Relapsed and Refractory Diffuse Large B-Cell Lymphomas. Clin Cancer Res. 2016 May 1;22(9):2290-300. doi: 10.1158/1078-0432.CCR-15-2123. Epub 2015 Dec 8. PMID: 26647218.*
+## STAT6 Expression
+![image](images/gene_expression/STAT6_by_pathology.svg)

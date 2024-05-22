@@ -40,3 +40,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CAD.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CAD_hg38.html)
 
 ![image](images/proteinpaint/CAD.svg)
+## CAD Expression
+![image](images/gene_expression/CAD_by_pathology.svg)

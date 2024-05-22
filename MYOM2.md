@@ -33,3 +33,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/MYOM2.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/MYOM2_hg38.html)
 
 ![image](images/proteinpaint/MYOM2.svg)
+## MYOM2 Expression
+![image](images/gene_expression/MYOM2_by_pathology.svg)

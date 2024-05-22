@@ -38,3 +38,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ZFX.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ZFX_hg38.html)
 
 ![image](images/proteinpaint/ZFX.svg)
+## ZFX Expression
+![image](images/gene_expression/ZFX_by_pathology.svg)

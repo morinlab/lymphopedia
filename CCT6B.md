@@ -34,3 +34,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CCT6B.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CCT6B_hg38.html)
 
 ![image](images/proteinpaint/CCT6B.svg)
+## CCT6B Expression
+![image](images/gene_expression/CCT6B_by_pathology.svg)

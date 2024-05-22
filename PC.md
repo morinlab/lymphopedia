@@ -34,3 +34,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PC.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PC_hg38.html)
 
 ![image](images/proteinpaint/PC.svg)
+## PC Expression
+![image](images/gene_expression/PC_by_pathology.svg)

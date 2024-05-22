@@ -34,3 +34,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/TBC1D9B.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/TBC1D9B_hg38.html)
 
 ![image](images/proteinpaint/TBC1D9B.svg)
+## TBC1D9B Expression
+![image](images/gene_expression/TBC1D9B_by_pathology.svg)

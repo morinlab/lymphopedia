@@ -42,3 +42,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/LAPTM5.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/LAPTM5_hg38.html)
 
 ![image](images/proteinpaint/LAPTM5.svg)
+## LAPTM5 Expression
+![image](images/gene_expression/LAPTM5_by_pathology.svg)

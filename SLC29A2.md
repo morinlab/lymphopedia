@@ -34,3 +34,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/SLC29A2.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/SLC29A2_hg38.html)
 
 ![image](images/proteinpaint/SLC29A2.svg)
+## SLC29A2 Expression
+![image](images/gene_expression/SLC29A2_by_pathology.svg)

@@ -32,3 +32,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/SHROOM3.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/SHROOM3_hg38.html)
 
 ![image](images/proteinpaint/SHROOM3.svg)
+## SHROOM3 Expression
+![image](images/gene_expression/SHROOM3_by_pathology.svg)

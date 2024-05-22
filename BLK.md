@@ -37,3 +37,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/BLK.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/BLK_hg38.html)
 
 ![image](images/proteinpaint/BLK.svg)
+## BLK Expression
+![image](images/gene_expression/BLK_by_pathology.svg)

@@ -28,3 +28,5 @@ Mutations in this gene are relatively rare in DLBCL overall. *Without further su
 
 > [!NOTE]
 > First described in DLBCL in 2021 by [Hübschmann D](https://pubmed.ncbi.nlm.nih.gov/33953289)
+## HLA-DQA1 Expression
+![image](images/gene_expression/HLA-DQA1_by_pathology.svg)

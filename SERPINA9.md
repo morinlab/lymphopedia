@@ -40,3 +40,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/SERPINA9.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/SERPINA9_hg38.html)
 
 ![image](images/proteinpaint/SERPINA9.svg)
+## SERPINA9 Expression
+![image](images/gene_expression/SERPINA9_by_pathology.svg)

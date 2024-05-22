@@ -35,3 +35,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/DCAF6.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/DCAF6_hg38.html)
 
 ![image](images/proteinpaint/DCAF6.svg)
+## DCAF6 Expression
+![image](images/gene_expression/DCAF6_by_pathology.svg)

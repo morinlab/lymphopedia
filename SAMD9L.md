@@ -35,3 +35,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/SAMD9L.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/SAMD9L_hg38.html)
 
 ![image](images/proteinpaint/SAMD9L.svg)
+## SAMD9L Expression
+![image](images/gene_expression/SAMD9L_by_pathology.svg)

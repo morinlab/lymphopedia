@@ -48,3 +48,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/S1PR2.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/S1PR2_hg38.html)
 
 ![image](images/proteinpaint/S1PR2.svg)
+## S1PR2 Expression
+![image](images/gene_expression/S1PR2_by_pathology.svg)

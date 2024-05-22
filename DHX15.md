@@ -32,3 +32,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/DHX15.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/DHX15_hg38.html)
 
 ![image](images/proteinpaint/DHX15.svg)
+## DHX15 Expression
+![image](images/gene_expression/DHX15_by_pathology.svg)

@@ -34,3 +34,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CYB5D1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CYB5D1_hg38.html)
 
 ![image](images/proteinpaint/CYB5D1.svg)
+## CYB5D1 Expression
+![image](images/gene_expression/CYB5D1_by_pathology.svg)

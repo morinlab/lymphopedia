@@ -35,3 +35,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CRIP1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CRIP1_hg38.html)
 
 ![image](images/proteinpaint/CRIP1.svg)
+## CRIP1 Expression
+![image](images/gene_expression/CRIP1_by_pathology.svg)

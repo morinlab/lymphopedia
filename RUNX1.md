@@ -35,3 +35,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/RUNX1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/RUNX1_hg38.html)
 
 ![image](images/proteinpaint/RUNX1.svg)
+## RUNX1 Expression
+![image](images/gene_expression/RUNX1_by_pathology.svg)

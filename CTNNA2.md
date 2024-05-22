@@ -32,3 +32,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CTNNA2.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CTNNA2_hg38.html)
 
 ![image](images/proteinpaint/CTNNA2.svg)
+## CTNNA2 Expression
+![image](images/gene_expression/CTNNA2_by_pathology.svg)

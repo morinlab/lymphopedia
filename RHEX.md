@@ -24,3 +24,5 @@
 |chr_name|hg19_start|hg19_end |region                                                                                     |regulatory_comment|
 |:--------:|:----------:|:---------:|:-------------------------------------------------------------------------------------------:|:------------------:|
 |chr1    |206285239 |206288105|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr1%3A206285239%2D206288105)|NA                |
+## RHEX Expression
+![image](images/gene_expression/RHEX_by_pathology.svg)

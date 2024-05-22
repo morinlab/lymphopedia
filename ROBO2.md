@@ -23,3 +23,5 @@
 
 > [!NOTE]
 > First described in MCL in 2014 by [Zhang J](https://pubmed.ncbi.nlm.nih.gov/24682267)
+## ROBO2 Expression
+![image](images/gene_expression/ROBO2_by_pathology.svg)

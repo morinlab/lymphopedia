@@ -35,3 +35,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/MAP4K4.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/MAP4K4_hg38.html)
 
 ![image](images/proteinpaint/MAP4K4.svg)
+## MAP4K4 Expression
+![image](images/gene_expression/MAP4K4_by_pathology.svg)

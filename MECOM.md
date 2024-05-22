@@ -35,3 +35,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/MECOM.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/MECOM_hg38.html)
 
 ![image](images/proteinpaint/MECOM.svg)
+## MECOM Expression
+![image](images/gene_expression/MECOM_by_pathology.svg)

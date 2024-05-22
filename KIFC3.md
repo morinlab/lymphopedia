@@ -34,3 +34,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/KIFC3.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/KIFC3_hg38.html)
 
 ![image](images/proteinpaint/KIFC3.svg)
+## KIFC3 Expression
+![image](images/gene_expression/KIFC3_by_pathology.svg)

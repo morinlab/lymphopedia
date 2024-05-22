@@ -34,3 +34,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ZNF85.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ZNF85_hg38.html)
 
 ![image](images/proteinpaint/ZNF85.svg)
+## ZNF85 Expression
+![image](images/gene_expression/ZNF85_by_pathology.svg)

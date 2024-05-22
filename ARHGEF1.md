@@ -34,3 +34,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ARHGEF1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ARHGEF1_hg38.html)
 
 ![image](images/proteinpaint/ARHGEF1.svg)
+## ARHGEF1 Expression
+![image](images/gene_expression/ARHGEF1_by_pathology.svg)

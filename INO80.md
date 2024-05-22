@@ -35,3 +35,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/INO80.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/INO80_hg38.html)
 
 ![image](images/proteinpaint/INO80.svg)
+## INO80 Expression
+![image](images/gene_expression/INO80_by_pathology.svg)

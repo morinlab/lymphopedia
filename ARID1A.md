@@ -43,3 +43,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ARID1A.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ARID1A_hg38.html)
 
 ![image](images/proteinpaint/ARID1A.svg)
+## ARID1A Expression
+![image](images/gene_expression/ARID1A_by_pathology.svg)

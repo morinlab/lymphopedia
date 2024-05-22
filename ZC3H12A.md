@@ -34,3 +34,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ZC3H12A.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ZC3H12A_hg38.html)
 
 ![image](images/proteinpaint/ZC3H12A.svg)
+## ZC3H12A Expression
+![image](images/gene_expression/ZC3H12A_by_pathology.svg)

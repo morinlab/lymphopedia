@@ -37,3 +37,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/NFKBIE.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/NFKBIE_hg38.html)
 
 ![image](images/proteinpaint/NFKBIE.svg)
+## NFKBIE Expression
+![image](images/gene_expression/NFKBIE_by_pathology.svg)

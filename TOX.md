@@ -45,3 +45,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/TOX.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/TOX_hg38.html)
 
 ![image](images/proteinpaint/TOX.svg)
+## TOX Expression
+![image](images/gene_expression/TOX_by_pathology.svg)

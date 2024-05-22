@@ -37,3 +37,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CTSS.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CTSS_hg38.html)
 
 ![image](images/proteinpaint/CTSS.svg)
+## CTSS Expression
+![image](images/gene_expression/CTSS_by_pathology.svg)

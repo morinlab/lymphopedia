@@ -36,3 +36,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ATP6V1B2.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ATP6V1B2_hg38.html)
 
 ![image](images/proteinpaint/ATP6V1B2.svg)
+## ATP6V1B2 Expression
+![image](images/gene_expression/ATP6V1B2_by_pathology.svg)

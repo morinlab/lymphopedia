@@ -36,3 +36,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/USP7.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/USP7_hg38.html)
 
 ![image](images/proteinpaint/USP7.svg)
+## USP7 Expression
+![image](images/gene_expression/USP7_by_pathology.svg)

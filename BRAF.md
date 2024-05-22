@@ -60,3 +60,5 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/B
 
 ## References
 1. *Kamata T, Hussain J, Giblett S, Hayward R, Marais R, Pritchard C. BRAF inactivation drives aneuploidy by deregulating CRAF. Cancer Res. 2010 Nov 1;70(21):8475-86. doi: 10.1158/0008-5472.CAN-10-0603. Epub 2010 Oct 26. PMID: 20978199; PMCID: PMC2975377.*
+## BRAF Expression
+![image](images/gene_expression/BRAF_by_pathology.svg)

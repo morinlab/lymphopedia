@@ -37,3 +37,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/RB1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/RB1_hg38.html)
 
 ![image](images/proteinpaint/RB1.svg)
+## RB1 Expression
+![image](images/gene_expression/RB1_by_pathology.svg)

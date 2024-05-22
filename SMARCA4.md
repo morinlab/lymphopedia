@@ -43,3 +43,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/SMARCA4.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/SMARCA4_hg38.html)
 
 ![image](images/proteinpaint/SMARCA4.svg)
+## SMARCA4 Expression
+![image](images/gene_expression/SMARCA4_by_pathology.svg)

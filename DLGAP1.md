@@ -34,3 +34,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/DLGAP1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/DLGAP1_hg38.html)
 
 ![image](images/proteinpaint/DLGAP1.svg)
+## DLGAP1 Expression
+![image](images/gene_expression/DLGAP1_by_pathology.svg)

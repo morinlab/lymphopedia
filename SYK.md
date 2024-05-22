@@ -35,3 +35,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/SYK.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/SYK_hg38.html)
 
 ![image](images/proteinpaint/SYK.svg)
+## SYK Expression
+![image](images/gene_expression/SYK_by_pathology.svg)

@@ -49,3 +49,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/WEE1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/WEE1_hg38.html)
 
 ![image](images/proteinpaint/WEE1.svg)
+## WEE1 Expression
+![image](images/gene_expression/WEE1_by_pathology.svg)

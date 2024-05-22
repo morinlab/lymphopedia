@@ -34,3 +34,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/SYNGAP1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/SYNGAP1_hg38.html)
 
 ![image](images/proteinpaint/SYNGAP1.svg)
+## SYNGAP1 Expression
+![image](images/gene_expression/SYNGAP1_by_pathology.svg)

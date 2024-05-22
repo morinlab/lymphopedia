@@ -29,3 +29,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/HIST1H3G.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/HIST1H3G_hg38.html)
 
 ![image](images/proteinpaint/HIST1H3G.svg)
+## HIST1H3G Expression
+![image](images/gene_expression/HIST1H3G_by_pathology.svg)

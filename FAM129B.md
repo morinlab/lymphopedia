@@ -32,3 +32,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/FAM129B.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/FAM129B_hg38.html)
 
 ![image](images/proteinpaint/FAM129B.svg)
+## FAM129B Expression
+![image](images/gene_expression/FAM129B_by_pathology.svg)

@@ -35,3 +35,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/GABRA2.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/GABRA2_hg38.html)
 
 ![image](images/proteinpaint/GABRA2.svg)
+## GABRA2 Expression
+![image](images/gene_expression/GABRA2_by_pathology.svg)

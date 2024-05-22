@@ -22,3 +22,5 @@
 
 > [!NOTE]
 > First described in DLBCL in 2013 by [Morin RD](https://pubmed.ncbi.nlm.nih.gov/23699601)
+## FAM38B Expression
+![image](images/gene_expression/FAM38B_by_pathology.svg)

@@ -34,3 +34,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/VWA7.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/VWA7_hg38.html)
 
 ![image](images/proteinpaint/VWA7.svg)
+## VWA7 Expression
+![image](images/gene_expression/VWA7_by_pathology.svg)

@@ -47,3 +47,5 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/J
 3. *Revisiting Reddy: A DLBCL Do-over
 Kostiantyn Dreval, Manuela Cruz, Christopher Rushton, Nina Liuta, Houman Layegh Mirhosseini, Callum Brown, Ryan D. Morin, the GAMBL consortium
 bioRxiv 2023.11.21.567983; doi: https://doi.org/10.1101/2023.11.21.567983*
+## JUNB Expression
+![image](images/gene_expression/JUNB_by_pathology.svg)

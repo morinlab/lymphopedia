@@ -35,3 +35,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/STAT5B.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/STAT5B_hg38.html)
 
 ![image](images/proteinpaint/STAT5B.svg)
+## STAT5B Expression
+![image](images/gene_expression/STAT5B_by_pathology.svg)

@@ -50,3 +50,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/RHOA.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/RHOA_hg38.html)
 
 ![image](images/proteinpaint/RHOA.svg)
+## RHOA Expression
+![image](images/gene_expression/RHOA_by_pathology.svg)

@@ -32,3 +32,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/HIST2H2BE.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/HIST2H2BE_hg38.html)
 
 ![image](images/proteinpaint/HIST2H2BE.svg)
+## HIST2H2BE Expression
+![image](images/gene_expression/HIST2H2BE_by_pathology.svg)

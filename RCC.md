@@ -19,3 +19,5 @@
 
 |
 
+## RCC Expression
+![image](images/gene_expression/RCC_by_pathology.svg)

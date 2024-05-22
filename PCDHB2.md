@@ -32,3 +32,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PCDHB2.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PCDHB2_hg38.html)
 
 ![image](images/proteinpaint/PCDHB2.svg)
+## PCDHB2 Expression
+![image](images/gene_expression/PCDHB2_by_pathology.svg)

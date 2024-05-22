@@ -26,3 +26,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CCDC42BPB.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CCDC42BPB_hg38.html)
 
 ![image](images/proteinpaint/CCDC42BPB.svg)
+## CCDC42BPB Expression
+![image](images/gene_expression/CCDC42BPB_by_pathology.svg)

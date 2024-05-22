@@ -28,3 +28,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/NSD2.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/NSD2_hg38.html)
 
 ![image](images/proteinpaint/NSD2.svg)
+## NSD2 Expression
+![image](images/gene_expression/NSD2_by_pathology.svg)

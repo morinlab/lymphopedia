@@ -34,3 +34,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PDCD11.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PDCD11_hg38.html)
 
 ![image](images/proteinpaint/PDCD11.svg)
+## PDCD11 Expression
+![image](images/gene_expression/PDCD11_by_pathology.svg)

@@ -35,3 +35,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PDE4DIP.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PDE4DIP_hg38.html)
 
 ![image](images/proteinpaint/PDE4DIP.svg)
+## PDE4DIP Expression
+![image](images/gene_expression/PDE4DIP_by_pathology.svg)

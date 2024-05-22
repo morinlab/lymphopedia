@@ -36,3 +36,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/RFX7.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/RFX7_hg38.html)
 
 ![image](images/proteinpaint/RFX7.svg)
+## RFX7 Expression
+![image](images/gene_expression/RFX7_by_pathology.svg)

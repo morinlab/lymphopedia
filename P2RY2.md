@@ -34,3 +34,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/P2RY2.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/P2RY2_hg38.html)
 
 ![image](images/proteinpaint/P2RY2.svg)
+## P2RY2 Expression
+![image](images/gene_expression/P2RY2_by_pathology.svg)

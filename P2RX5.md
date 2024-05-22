@@ -40,3 +40,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/P2RX5.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/P2RX5_hg38.html)
 
 ![image](images/proteinpaint/P2RX5.svg)
+## P2RX5 Expression
+![image](images/gene_expression/P2RX5_by_pathology.svg)

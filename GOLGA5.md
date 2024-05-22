@@ -35,3 +35,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/GOLGA5.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/GOLGA5_hg38.html)
 
 ![image](images/proteinpaint/GOLGA5.svg)
+## GOLGA5 Expression
+![image](images/gene_expression/GOLGA5_by_pathology.svg)

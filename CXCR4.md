@@ -50,3 +50,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CXCR4.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CXCR4_hg38.html)
 
 ![image](images/proteinpaint/CXCR4.svg)
+## CXCR4 Expression
+![image](images/gene_expression/CXCR4_by_pathology.svg)

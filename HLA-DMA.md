@@ -34,3 +34,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/HLA-DMA.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/HLA-DMA_hg38.html)
 
 ![image](images/proteinpaint/HLA-DMA.svg)
+## HLA-DMA Expression
+![image](images/gene_expression/HLA-DMA_by_pathology.svg)

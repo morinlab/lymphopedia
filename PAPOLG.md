@@ -35,3 +35,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PAPOLG.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PAPOLG_hg38.html)
 
 ![image](images/proteinpaint/PAPOLG.svg)
+## PAPOLG Expression
+![image](images/gene_expression/PAPOLG_by_pathology.svg)

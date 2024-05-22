@@ -32,3 +32,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/SI.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/SI_hg38.html)
 
 ![image](images/proteinpaint/SI.svg)
+## SI Expression
+![image](images/gene_expression/SI_by_pathology.svg)

@@ -43,3 +43,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/TRAF6.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/TRAF6_hg38.html)
 
 ![image](images/proteinpaint/TRAF6.svg)
+## TRAF6 Expression
+![image](images/gene_expression/TRAF6_by_pathology.svg)

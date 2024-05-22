@@ -40,3 +40,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ST6GAL1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ST6GAL1_hg38.html)
 
 ![image](images/proteinpaint/ST6GAL1.svg)
+## ST6GAL1 Expression
+![image](images/gene_expression/ST6GAL1_by_pathology.svg)

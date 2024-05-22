@@ -32,3 +32,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/NLRC5.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/NLRC5_hg38.html)
 
 ![image](images/proteinpaint/NLRC5.svg)
+## NLRC5 Expression
+![image](images/gene_expression/NLRC5_by_pathology.svg)

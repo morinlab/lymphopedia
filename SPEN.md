@@ -40,3 +40,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/SPEN.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/SPEN_hg38.html)
 
 ![image](images/proteinpaint/SPEN.svg)
+## SPEN Expression
+![image](images/gene_expression/SPEN_by_pathology.svg)

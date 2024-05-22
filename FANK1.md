@@ -37,3 +37,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/FANK1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/FANK1_hg38.html)
 
 ![image](images/proteinpaint/FANK1.svg)
+## FANK1 Expression
+![image](images/gene_expression/FANK1_by_pathology.svg)

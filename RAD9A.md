@@ -35,3 +35,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/RAD9A.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/RAD9A_hg38.html)
 
 ![image](images/proteinpaint/RAD9A.svg)
+## RAD9A Expression
+![image](images/gene_expression/RAD9A_by_pathology.svg)

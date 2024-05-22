@@ -32,3 +32,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/SMARCB1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/SMARCB1_hg38.html)
 
 ![image](images/proteinpaint/SMARCB1.svg)
+## SMARCB1 Expression
+![image](images/gene_expression/SMARCB1_by_pathology.svg)

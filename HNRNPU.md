@@ -57,3 +57,5 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/H
 
 ## References
 1. *Qureshi, Q., Coyle, K., Thomas, N., Collinge, B., Dreval, K., Hilton, L., Wong, J., Scott, D., Audas, T., & Morin, R. (2023). Hnrnpu mutations Are Haploinsufficient and Alter the Transcriptome of MYC-Driven Lymphomas. Blood. https://doi.org/10.1182/blood-2023-190409.*
+## HNRNPU Expression
+![image](images/gene_expression/HNRNPU_by_pathology.svg)

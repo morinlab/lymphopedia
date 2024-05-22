@@ -38,3 +38,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/BRINP3.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/BRINP3_hg38.html)
 
 ![image](images/proteinpaint/BRINP3.svg)
+## BRINP3 Expression
+![image](images/gene_expression/BRINP3_by_pathology.svg)

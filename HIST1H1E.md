@@ -65,3 +65,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/HIST1H1E.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/HIST1H1E_hg38.html)
 
 ![image](images/proteinpaint/HIST1H1E.svg)
+## HIST1H1E Expression
+![image](images/gene_expression/HIST1H1E_by_pathology.svg)

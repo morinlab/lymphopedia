@@ -39,3 +39,5 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/B
 ## References
 1. *Hu N, Wang F, Sun T, Xu Z, Zhang J, Bernard D, Xu S, Wang S, Kaminski M, Devata S, Phillips T, Malek SN. Follicular Lymphoma-associated BTK Mutations are Inactivating Resulting in Augmented AKT Activation. Clin Cancer Res. 2021 Apr 15;27(8):2301-2313. doi: 10.1158/1078-0432.CCR-20-3741. Epub 2021 Jan 8. PMID: 33419778; PMCID: PMC8046715.*
 2. *Schejbel L, Breinholt MF, Gang AO, Nielsen TH, Pedersen LM, Høgdall E, Nørgaard P. Inactivating BTK mutations in large B-cell lymphoma in a real-world cohort: Strong correlation with BCL2 translocation. EJHaem. 2022 Jun 24;3(3):936-939. doi: 10.1002/jha2.489. PMID: 36051027; PMCID: PMC9421985.*
+## BTK Expression
+![image](images/gene_expression/BTK_by_pathology.svg)

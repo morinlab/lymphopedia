@@ -34,3 +34,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/FLYWCH1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/FLYWCH1_hg38.html)
 
 ![image](images/proteinpaint/FLYWCH1.svg)
+## FLYWCH1 Expression
+![image](images/gene_expression/FLYWCH1_by_pathology.svg)

@@ -39,3 +39,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PIK3R1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PIK3R1_hg38.html)
 
 ![image](images/proteinpaint/PIK3R1.svg)
+## PIK3R1 Expression
+![image](images/gene_expression/PIK3R1_by_pathology.svg)

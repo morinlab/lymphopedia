@@ -34,3 +34,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/SBF1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/SBF1_hg38.html)
 
 ![image](images/proteinpaint/SBF1.svg)
+## SBF1 Expression
+![image](images/gene_expression/SBF1_by_pathology.svg)

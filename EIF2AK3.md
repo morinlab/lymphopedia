@@ -32,3 +32,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/EIF2AK3.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/EIF2AK3_hg38.html)
 
 ![image](images/proteinpaint/EIF2AK3.svg)
+## EIF2AK3 Expression
+![image](images/gene_expression/EIF2AK3_by_pathology.svg)

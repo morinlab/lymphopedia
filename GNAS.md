@@ -35,3 +35,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/GNAS.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/GNAS_hg38.html)
 
 ![image](images/proteinpaint/GNAS.svg)
+## GNAS Expression
+![image](images/gene_expression/GNAS_by_pathology.svg)

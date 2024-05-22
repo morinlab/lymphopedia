@@ -51,3 +51,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PRDM1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PRDM1_hg38.html)
 
 ![image](images/proteinpaint/PRDM1.svg)
+## PRDM1 Expression
+![image](images/gene_expression/PRDM1_by_pathology.svg)

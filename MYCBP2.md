@@ -32,3 +32,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/MYCBP2.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/MYCBP2_hg38.html)
 
 ![image](images/proteinpaint/MYCBP2.svg)
+## MYCBP2 Expression
+![image](images/gene_expression/MYCBP2_by_pathology.svg)

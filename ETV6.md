@@ -48,3 +48,5 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ETV6.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ETV6_hg38.html)
 
 ![image](images/proteinpaint/ETV6.svg)
+## ETV6 Expression
+![image](images/gene_expression/ETV6_by_pathology.svg)
