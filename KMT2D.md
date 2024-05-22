@@ -6,23 +6,23 @@ KMT2D (also known as MLL2) encodes a histone H3K4 methyltransferase, playing a c
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
-|BL    |1   |high-confidence BL gene   |
-|DLBCL |1   |high-confidence DLBCL gene|
 |FL    |1   |high-confidence FL gene   |
+|DLBCL |1   |high-confidence DLBCL gene|
+|BL    |1   |high-confidence BL gene   |
 |MCL   |1   |high-confidence MCL gene  |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
 |Entity|source               |frequency (%)|
 |:------:|:---------------------:|:-------------:|
-|BL    |GAMBL genomes+capture|11.32        |
-|BL    |Thomas cohort        |14.00        |
-|BL    |Panea cohort         |15.80        |
+|FL    |GAMBL genomes        |67.67        |
 |DLBCL |GAMBL genomes        |33.46        |
 |DLBCL |Schmitz cohort       |34.47        |
 |DLBCL |Reddy cohort         |22.32        |
 |DLBCL |Chapuy cohort        |26.07        |
-|FL    |GAMBL genomes        |67.67        |
+|BL    |GAMBL genomes+capture|11.32        |
+|BL    |Thomas cohort        |14.00        |
+|BL    |Panea cohort         |15.80        |
 |MCL   |GAMBL genomes        |16.59        |
 
 ## Mutation pattern and selective pressure estimates
