@@ -32,9 +32,6 @@ CD79B mutations significantly contribute to the pathogenesis of DLBCL by enhanci
 |FL    |No  |No                   |10.310          | 0.000          |
 
 
-> [!NOTE]
-> First described in DLBCL in 2011 by [Morin RD](https://pubmed.ncbi.nlm.nih.gov/21796119)
-
  ## CD79B Hotspots
 
 Mutations at Y196 enhance B-cell receptor (BCR) signaling by preventing the negative regulatory feedback provided by Lyn kinase, a feedback inhibitor of BCR signaling. This results in continuous activation of the NF-κB pathway, promoting tumor cell survival and proliferation.<sup>4</sup>

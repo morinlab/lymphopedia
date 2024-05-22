@@ -45,7 +45,7 @@ BCL6 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) 
 |chr3    |187690717 |187705000|[Intergenic-5](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr3%3A187690717%2D187705000)|NA                |
 
 > [!NOTE]
-> First described in BL in 2019 by [Grande BM](https://pubmed.ncbi.nlm.nih.gov/30617194). First described in DLBCL in 2011 by [Morin RD](https://pubmed.ncbi.nlm.nih.gov/21796119). First described in FL in 2023 by [Dreval K](https://pubmed.ncbi.nlm.nih.gov/37084389)
+> First described in BL in 2019 by [Grande BM](https://pubmed.ncbi.nlm.nih.gov/30617194).First described in FL in 2023 by [Dreval K](https://pubmed.ncbi.nlm.nih.gov/37084389)
 
 
  ## BCL6 Hotspots
