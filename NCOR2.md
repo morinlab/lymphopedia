@@ -1,4 +1,6 @@
 # NCOR2
+## Overview
+Mutations in this gene are relatively rare in DLBCL overall. *Without further support, this gene may be migrated to Tier 2.*
 
 ## Relevance tier by entity
 
