@@ -79,3 +79,10 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/MYC.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/MYC_hg38.html)
 
 ![image](images/proteinpaint/MYC.svg)
+
+## MYC Expression
+
+![image](images/gene_expression/MYC_by_pathology.svg)
+
+## References
+
