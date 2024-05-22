@@ -1,6 +1,6 @@
 # KLHL14
 ## Overview
-KLHL14 (Kelch-like family member 14) is a gene that has been identified as playing a role in B-cell lymphomas, particularly diffuse large B-cell lymphoma (DLBCL).<sup>1</sup> KLHL14 has been identified as a recurrent target of somatic mutations in ABC DLBCLs. These mutations are a feature of the MCD genetic subgroup of DLBCL. The gene encodes a protein involved in the ubiquitin-proteasome system, and its inactivation leads to increased cell proliferation and survival, suggesting its role as a tumor suppressor.<>2<> KLHL14 loss has been shown to BCR-dependent NF-κB activation and cell survival in DLBCL.<sup>2</sup> This gene has some mutation hotspots but the patter of mutation overall is consistent with its role as a tumor suppressor gene.
+KLHL14 (Kelch-like family member 14) is a gene that has been identified as playing a role in B-cell lymphomas, particularly diffuse large B-cell lymphoma (DLBCL).<sup>1</sup> KLHL14 has been identified as a recurrent target of somatic mutations in ABC DLBCLs. These mutations are a feature of the MCD genetic subgroup of DLBCL. The gene encodes a protein involved in the ubiquitin-proteasome system, and its inactivation leads to increased cell proliferation and survival, suggesting its role as a tumor suppressor.<sup>2</sup> KLHL14 loss has been shown to BCR-dependent NF-κB activation and cell survival in DLBCL.<sup>2</sup> This gene has some mutation hotspots but the patter of mutation overall is consistent with its role as a tumor suppressor gene.
 
 ## Relevance tier by entity
 
