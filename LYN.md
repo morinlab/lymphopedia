@@ -36,3 +36,5 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/L
 ![image](images/proteinpaint/LYN.svg)
 ## LYN Expression
 ![image](images/gene_expression/LYN_by_pathology.svg)
+
+<!-- FLAGGED FOR TIER 2 -->

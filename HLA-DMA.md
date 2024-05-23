@@ -1,5 +1,5 @@
 # HLA-DMA
-
+## Overview
 Mutations in this gene are relatively rare in DLBCL overall. *Without further support, this gene may be migrated to Tier 2.* 
 
 ## Relevance tier by entity
@@ -34,5 +34,9 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/HLA-DMA.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/HLA-DMA_hg38.html)
 
 ![image](images/proteinpaint/HLA-DMA.svg)
+
 ## HLA-DMA Expression
 ![image](images/gene_expression/HLA-DMA_by_pathology.svg)
+
+<!-- FLAGGED FOR TIER 2 -->
+
