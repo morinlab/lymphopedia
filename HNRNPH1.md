@@ -1,6 +1,6 @@
 # HNRNPH1
 ## Overview
-Mutations in HNRNPH1 are enriched at splicing signals in exon 4. These result in deregulated splicing and increased expression of the hnRNP H1 protein. This overexpression is linked to enhanced cell proliferation and survival, contributing to the aggressive nature of MCL. <sup>1,2</sup> Although initially characterized in MCL, the same pattern of mutations appears in a small number of DLBCLs.
+Non-coding mutations, including synonymous and intronic mutations,  are enriched at splicing signals in exon 4 of HNRNPH1. These result in deregulated splicing and increased expression of the hnRNP H1 protein. This overexpression is linked to enhanced cell proliferation and survival, contributing to the aggressive nature of MCL. <sup>1,2</sup> Although initially characterized in MCL, the same pattern of mutations appears in a small number of DLBCLs.
 
 ## Relevance tier by entity
 
@@ -27,10 +27,6 @@ Mutations in HNRNPH1 are enriched at splicing signals in exon 4. These result in
 |DLBCL |No  |No                   |2.337           |10.139          |
 |FL    |No  |No                   |0.000           | 0.000          |
 
-
-> [!NOTE]
-> First described in MCL in 2020 by [Pararajalingam P](https://pubmed.ncbi.nlm.nih.gov/32160292)
-
  ## HNRNPH1 Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
@@ -45,8 +41,12 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/H
 
 ![image](images/proteinpaint/HNRNPH1.svg)
 
+## HNRNPH1 Expression
+![image](images/gene_expression/HNRNPH1_by_pathology.svg)
+
+
 ## References
 1. *Pararajalingam, P., Coyle, K., Arthur, S., Thomas, N., Alcaide, M., Meissner, B., Boyle, M., Qureshi, Q., Grande, B., Rushton, C., Slack, G., Mungall, A., Tam, C., Agarwal, R., Dawson, S., Lenz, G., Balasubramanian, S., Gascoyne, R., Steidl, C., Connors, J., Villa, D., Audas, T., Marra, M., Johnson, N., Scott, D., & Morin, R. (2020). Coding and non-coding drivers of mantle cell lymphoma identified through exome and genome sequencing.. Blood. https://doi.org/10.1182/blood.2019002385.*
 2. *Coyle, K., Qureshi, Q., Pararajalingam, P., Thomas, N., Audas, T., & Morin, R. (2020). Perturbations in HNRNPH1 Splicing and Abundance Affect Global Splicing and Proliferation in Mantle Cell Lymphoma. Blood, 136, 23-24. https://doi.org/10.1182/BLOOD-2020-141389.*
-## HNRNPH1 Expression
-![image](images/gene_expression/HNRNPH1_by_pathology.svg)
+
+<!-- NONCODING -->
