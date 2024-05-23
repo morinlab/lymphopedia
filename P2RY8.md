@@ -31,10 +31,6 @@ P2RY8 encodes a G protein–coupled receptor that is expressed on germinal cente
 |FL    |No  |No                   |23.117          |  0.000         |
 
 
-> [!NOTE]
-> First described in BL in 2014 by [Muppidi JR](https://pubmed.ncbi.nlm.nih.gov/25274307). First described in DLBCL in 2012 by [Lohr JG](https://pubmed.ncbi.nlm.nih.gov/22343534)
-
-
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/P2RY8_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/P2RY8_protein_hg38.html)
 
 ![image](images/proteinpaint/P2RY8_NM_178129.svg)
