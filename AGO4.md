@@ -36,3 +36,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/A
 ![image](images/proteinpaint/AGO4.svg)
 ## AGO4 Expression
 ![image](images/gene_expression/AGO4_by_pathology.svg)
+<!-- ORIGIN: schmitzBurkittLymphomaPathogenesis2012 -->

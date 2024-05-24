@@ -36,3 +36,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/Z
 ![image](images/proteinpaint/ZC3H12A.svg)
 ## ZC3H12A Expression
 ![image](images/gene_expression/ZC3H12A_by_pathology.svg)
+<!-- ORIGIN: arthurGenomewideDiscoverySomatic2018 -->

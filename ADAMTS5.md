@@ -36,3 +36,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/A
 ![image](images/proteinpaint/ADAMTS5.svg)
 ## ADAMTS5 Expression
 ![image](images/gene_expression/ADAMTS5_by_pathology.svg)
+<!-- ORIGIN: schmitzBurkittLymphomaPathogenesis2012 -->

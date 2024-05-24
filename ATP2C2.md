@@ -36,3 +36,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/A
 ![image](images/proteinpaint/ATP2C2.svg)
 ## ATP2C2 Expression
 ![image](images/gene_expression/ATP2C2_by_pathology.svg)
+<!-- ORIGIN: loveGeneticLandscapeMutations2012 -->

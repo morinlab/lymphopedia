@@ -36,3 +36,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/A
 ![image](images/proteinpaint/ACAD9.svg)
 ## ACAD9 Expression
 ![image](images/gene_expression/ACAD9_by_pathology.svg)
+<!-- ORIGIN: loveGeneticLandscapeMutations2012 -->

@@ -42,3 +42,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/A
 ![image](images/proteinpaint/ALPK2.svg)
 ## ALPK2 Expression
 ![image](images/gene_expression/ALPK2_by_pathology.svg)
+<!-- ORIGIN: paneaWholeGenomeLandscape2019 -->

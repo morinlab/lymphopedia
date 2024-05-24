@@ -38,3 +38,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/A
 ![image](images/proteinpaint/ATP6V1B2.svg)
 ## ATP6V1B2 Expression
 ![image](images/gene_expression/ATP6V1B2_by_pathology.svg)
+<!-- ORIGIN: Unknown -->

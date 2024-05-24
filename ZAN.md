@@ -32,3 +32,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/Z
 ![image](images/proteinpaint/ZAN.svg)
 ## ZAN Expression
 ![image](images/gene_expression/ZAN_by_pathology.svg)
+<!-- ORIGIN: schmitzBurkittLymphomaPathogenesis2012 -->
