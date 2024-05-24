@@ -43,9 +43,12 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/C
 
 ![image](images/proteinpaint/CIITA.svg)
 
+## CIITA Expression
+![image](images/gene_expression/CIITA_by_pathology.svg)
+
 ## References
 1. *Mottok, A., Woolcock, B., Chan, F., Tong, K., Chong, L., Farinha, P., Telenius, A., Chavez, E., Ramchandani, S., Drake, M., Boyle, M., Ben-Neriah, S., Scott, D., Rimsza, L., Siebert, R., Gascoyne, R., & Steidl, C. (2015). Genomic Alterations in CIITA Are Frequent in Primary Mediastinal Large B Cell Lymphoma and Are Associated with Diminished MHC Class II Expression.. Cell reports, 13 7, 1418-1431 . https://doi.org/10.1016/j.celrep.2015.10.008.*
 2. *Sarah T Wilkinson, Diane R Fernandez, Shawn P Murphy, Wing C. Chan, Randy D. Gascoyne, Elias Campo, Elaine S. Jaffe, Louis M. Staudt, Jan Delabie, Andreas Rosenwald, Lisa M Rimsza; Loss of CIITA and MHC Class II Expression in Diffuse Large B-Cell Lymphoma Is Not Explained by Methylation of CIITA Promoters III and IV.. Blood 2008; 112 (11): 1786. doi: https://doi.org/10.1182/blood.V112.11.1786.1786*
-3. *Morin RD, Mendez-Lago M, Mungall AJ, Goya R, Mungall KL, Corbett RD, Johnson NA, Severson TM, Chiu R, Field M, Jackman S, Krzywinski M, Scott DW, Trinh DL, Tamura-Wells J, Li S, Firme MR, Rogic S, Griffith M, Chan S, Yakovenko O, Meyer IM, Zhao EY, Smailus D, Moksa M, Chittaranjan S, Rimsza L, Brooks-Wilson A, Spinelli JJ, Ben-Neriah S, Meissner B, Woolcock B, Boyle M, McDonald H, Tam A, Zhao Y, Delaney A, Zeng T, Tse K, Butterfield Y, Birol I, Holt R, Schein J, Horsman DE, Moore R, Jones SJ, Connors JM, Hirst M, Gascoyne RD, Marra MA. Frequent mutation of histone-modifying genes in non-Hodgkin lymphoma. Nature. 2011 Jul 27;476(7360):298-303. doi: 10.1038/nature10351. PMID: 21796119; PMCID: PMC3210554.*## CIITA Expression
-![image](images/gene_expression/CIITA_by_pathology.svg)
+3. *Morin RD, Mendez-Lago M, Mungall AJ, Goya R, Mungall KL, Corbett RD, Johnson NA, Severson TM, Chiu R, Field M, Jackman S, Krzywinski M, Scott DW, Trinh DL, Tamura-Wells J, Li S, Firme MR, Rogic S, Griffith M, Chan S, Yakovenko O, Meyer IM, Zhao EY, Smailus D, Moksa M, Chittaranjan S, Rimsza L, Brooks-Wilson A, Spinelli JJ, Ben-Neriah S, Meissner B, Woolcock B, Boyle M, McDonald H, Tam A, Zhao Y, Delaney A, Zeng T, Tse K, Butterfield Y, Birol I, Holt R, Schein J, Horsman DE, Moore R, Jones SJ, Connors JM, Hirst M, Gascoyne RD, Marra MA. Frequent mutation of histone-modifying genes in non-Hodgkin lymphoma. Nature. 2011 Jul 27;476(7360):298-303. doi: 10.1038/nature10351. PMID: 21796119; PMCID: PMC3210554.*
+
 <!-- ORIGIN: morinFrequentMutationHistonemodifying2011 -->

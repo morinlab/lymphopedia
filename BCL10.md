@@ -32,9 +32,6 @@ BCL10 (B-cell lymphoma/leukemia 10) is a gene involved in apoptosis signaling an
 |FL    |No  |Yes                  | 0.000          |223.832         |
 
 
-> [!NOTE]
-> First described in DLBCL in 2011 by [Morin RD](https://pubmed.ncbi.nlm.nih.gov/21796119). First described in FL in 2023 by [Russler-Germain DA](https://pubmed.ncbi.nlm.nih.gov/37493986)
-
  ## BCL10 Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
@@ -51,10 +48,14 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/B
 
 ![image](images/proteinpaint/BCL10.svg)
 
+## BCL10 Expression
+
+![image](images/gene_expression/BCL10_by_pathology.svg)
+
 ## References
 
 1. *Luminari S, Intini D, Baldini L, Berti E, Bertoni F, Zucca E, Cro L, Maiolo AT, Cavalli F, Neri A. BCL10 gene mutations rarely occur in lymphoid malignancies. Leukemia. 2000 May;14(5):905-8. doi: 10.1038/sj.leu.2401747. PMID: 10803524.*
 
-2. *Morin RD, Mendez-Lago M, Mungall AJ, Goya R, Mungall KL, Corbett RD, Johnson NA, Severson TM, Chiu R, Field M, Jackman S, Krzywinski M, Scott DW, Trinh DL, Tamura-Wells J, Li S, Firme MR, Rogic S, Griffith M, Chan S, Yakovenko O, Meyer IM, Zhao EY, Smailus D, Moksa M, Chittaranjan S, Rimsza L, Brooks-Wilson A, Spinelli JJ, Ben-Neriah S, Meissner B, Woolcock B, Boyle M, McDonald H, Tam A, Zhao Y, Delaney A, Zeng T, Tse K, Butterfield Y, Birol I, Holt R, Schein J, Horsman DE, Moore R, Jones SJ, Connors JM, Hirst M, Gascoyne RD, Marra MA. Frequent mutation of histone-modifying genes in non-Hodgkin lymphoma. Nature. 2011 Jul 27;476(7360):298-303. doi: 10.1038/nature10351. PMID: 21796119; PMCID: PMC3210554.*## BCL10 Expression
-![image](images/gene_expression/BCL10_by_pathology.svg)
+2. *Morin RD, Mendez-Lago M, Mungall AJ, Goya R, Mungall KL, Corbett RD, Johnson NA, Severson TM, Chiu R, Field M, Jackman S, Krzywinski M, Scott DW, Trinh DL, Tamura-Wells J, Li S, Firme MR, Rogic S, Griffith M, Chan S, Yakovenko O, Meyer IM, Zhao EY, Smailus D, Moksa M, Chittaranjan S, Rimsza L, Brooks-Wilson A, Spinelli JJ, Ben-Neriah S, Meissner B, Woolcock B, Boyle M, McDonald H, Tam A, Zhao Y, Delaney A, Zeng T, Tse K, Butterfield Y, Birol I, Holt R, Schein J, Horsman DE, Moore R, Jones SJ, Connors JM, Hirst M, Gascoyne RD, Marra MA. Frequent mutation of histone-modifying genes in non-Hodgkin lymphoma. Nature. 2011 Jul 27;476(7360):298-303. doi: 10.1038/nature10351. PMID: 21796119; PMCID: PMC3210554.*
+
 <!-- ORIGIN: morinFrequentMutationHistonemodifying2011 -->
