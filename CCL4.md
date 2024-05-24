@@ -37,3 +37,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/C
 ![image](images/proteinpaint/CCL4.svg)
 ## CCL4 Expression
 ![image](images/gene_expression/CCL4_by_pathology.svg)
+<!-- ORIGIN: chapuyMolecularSubtypesDiffuse2018b -->

@@ -37,3 +37,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/C
 ![image](images/proteinpaint/CDH9.svg)
 ## CDH9 Expression
 ![image](images/gene_expression/CDH9_by_pathology.svg)
+<!-- ORIGIN: morinMutationalStructuralAnalysis2013 -->

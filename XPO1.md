@@ -44,3 +44,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/X
 ![image](images/proteinpaint/XPO1.svg)
 ## XPO1 Expression
 ![image](images/gene_expression/XPO1_by_pathology.svg)
+<!-- ORIGIN: mareschalWholeExomeSequencing2016 -->

@@ -37,3 +37,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/S
 ![image](images/proteinpaint/SAMD9L.svg)
 ## SAMD9L Expression
 ![image](images/gene_expression/SAMD9L_by_pathology.svg)
+<!-- ORIGIN: morinMutationalStructuralAnalysis2013 -->

@@ -48,3 +48,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/M
 ![image](images/proteinpaint/MYD88.svg)
 ## MYD88 Expression
 ![image](images/gene_expression/MYD88_by_pathology.svg)
+<!-- ORIGIN: ngoOncogenicallyActiveMYD882011a -->

@@ -37,3 +37,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/F
 ![image](images/proteinpaint/FUT5.svg)
 ## FUT5 Expression
 ![image](images/gene_expression/FUT5_by_pathology.svg)
+<!-- ORIGIN: chapuyMolecularSubtypesDiffuse2018b -->

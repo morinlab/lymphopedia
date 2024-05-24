@@ -40,3 +40,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/D
 ![image](images/proteinpaint/DICER1.svg)
 ## DICER1 Expression
 ![image](images/gene_expression/DICER1_by_pathology.svg)
+<!-- ORIGIN: reddyGeneticFunctionalDrivers2017 -->

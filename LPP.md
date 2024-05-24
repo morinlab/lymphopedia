@@ -50,3 +50,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/L
 ![image](images/proteinpaint/LPP.svg)
 ## LPP Expression
 ![image](images/gene_expression/LPP_by_pathology.svg)
+<!-- ORIGIN: arthurGenomewideDiscoverySomatic2018 -->

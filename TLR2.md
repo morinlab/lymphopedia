@@ -46,3 +46,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/T
 ![image](images/proteinpaint/TLR2.svg)
 ## TLR2 Expression
 ![image](images/gene_expression/TLR2_by_pathology.svg)
+<!-- ORIGIN: chapuyMolecularSubtypesDiffuse2018b -->

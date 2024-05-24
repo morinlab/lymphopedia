@@ -45,3 +45,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/Z
 ![image](images/proteinpaint/ZFP36L1.svg)
 ## ZFP36L1 Expression
 ![image](images/gene_expression/ZFP36L1_by_pathology.svg)
+<!-- ORIGIN: morinFrequentMutationHistonemodifying2011 -->

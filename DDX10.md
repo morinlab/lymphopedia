@@ -37,3 +37,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/D
 ![image](images/proteinpaint/DDX10.svg)
 ## DDX10 Expression
 ![image](images/gene_expression/DDX10_by_pathology.svg)
+<!-- ORIGIN: reddyGeneticFunctionalDrivers2017 -->

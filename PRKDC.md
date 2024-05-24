@@ -39,3 +39,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/P
 ![image](images/proteinpaint/PRKDC.svg)
 ## PRKDC Expression
 ![image](images/gene_expression/PRKDC_by_pathology.svg)
+<!-- ORIGIN: schmitzGeneticsPathogenesisDiffuse2018a -->

@@ -42,3 +42,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/R
 ![image](images/proteinpaint/RFTN1.svg)
 ## RFTN1 Expression
 ![image](images/gene_expression/RFTN1_by_pathology.svg)
+<!-- ORIGIN: arthurGenomewideDiscoverySomatic2018 -->

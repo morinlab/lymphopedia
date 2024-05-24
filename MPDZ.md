@@ -37,3 +37,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/M
 ![image](images/proteinpaint/MPDZ.svg)
 ## MPDZ Expression
 ![image](images/gene_expression/MPDZ_by_pathology.svg)
+<!-- ORIGIN: morinMutationalStructuralAnalysis2013 -->

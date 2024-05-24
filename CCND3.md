@@ -90,3 +90,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/C
 2. *Schmitz, R., et al. (2012). "Burkitt lymphoma pathogenesis and therapeutic targets from structural and functional genomics." Nature, 490(7418), 116-120.*
 ## CCND3 Expression
 ![image](images/gene_expression/CCND3_by_pathology.svg)
+<!-- ORIGIN: morinFrequentMutationHistonemodifying2011 -->

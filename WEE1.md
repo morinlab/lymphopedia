@@ -51,3 +51,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/W
 ![image](images/proteinpaint/WEE1.svg)
 ## WEE1 Expression
 ![image](images/gene_expression/WEE1_by_pathology.svg)
+<!-- ORIGIN: schmitzGeneticsPathogenesisDiffuse2018a -->

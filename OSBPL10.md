@@ -45,3 +45,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/O
 ![image](images/proteinpaint/OSBPL10.svg)
 ## OSBPL10 Expression
 ![image](images/gene_expression/OSBPL10_by_pathology.svg)
+<!-- ORIGIN: arthurGenomewideDiscoverySomatic2018 -->

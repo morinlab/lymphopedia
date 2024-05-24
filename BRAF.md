@@ -58,7 +58,11 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/B
 
 ![image](images/proteinpaint/BRAF.svg)
 
-## References
-1. *Kamata T, Hussain J, Giblett S, Hayward R, Marais R, Pritchard C. BRAF inactivation drives aneuploidy by deregulating CRAF. Cancer Res. 2010 Nov 1;70(21):8475-86. doi: 10.1158/0008-5472.CAN-10-0603. Epub 2010 Oct 26. PMID: 20978199; PMCID: PMC2975377.*
 ## BRAF Expression
 ![image](images/gene_expression/BRAF_by_pathology.svg)
+
+## References
+1. *Tiacci E, Trifonov V, Schiavoni G, Holmes A, Kern W, Martelli MP, Pucciarini A, Bigerna B, Pacini R, Wells VA, Sportoletti P, Pettirossi V, Mannucci R, Elliott O, Liso A, Ambrosetti A, Pulsoni A, Forconi F, Trentin L, Semenzato G, Inghirami G, Capponi M, Di Raimondo F, Patti C, Arcaini L, Musto P, Pileri S, Haferlach C, Schnittger S, Pizzolo G, Foà R, Farinelli L, Haferlach T, Pasqualucci L, Rabadan R, Falini B. BRAF mutations in hairy-cell leukemia. N Engl J Med. 2011 Jun 16;364(24):2305-15. doi: 10.1056/NEJMoa1014209. Epub 2011 Jun 11. PMID: 21663470; PMCID: PMC3689585.*
+2. *Lohr JG, Stojanov P, Lawrence MS, Auclair D, Chapuy B, Sougnez C, Cruz-Gordillo P, Knoechel B, Asmann YW, Slager SL, Novak AJ, Dogan A, Ansell SM, Link BK, Zou L, Gould J, Saksena G, Stransky N, Rangel-Escareño C, Fernandez-Lopez JC, Hidalgo-Miranda A, Melendez-Zajgla J, Hernández-Lemus E, Schwarz-Cruz y Celis A, Imaz-Rosshandler I, Ojesina AI, Jung J, Pedamallu CS, Lander ES, Habermann TM, Cerhan JR, Shipp MA, Getz G, Golub TR. Discovery and prioritization of somatic mutations in diffuse large B-cell lymphoma (DLBCL) by whole-exome sequencing. Proc Natl Acad Sci U S A. 2012 Mar 6;109(10):3879-84. doi: 10.1073/pnas.1121343109. Epub 2012 Feb 17. PMID: 22343534; PMCID: PMC3309757.*
+
+<!-- ORIGIN: tiacciBRAFMutationsHairycell2011a -->

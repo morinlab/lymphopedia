@@ -37,3 +37,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/C
 ![image](images/proteinpaint/CNTNAP5.svg)
 ## CNTNAP5 Expression
 ![image](images/gene_expression/CNTNAP5_by_pathology.svg)
+<!-- ORIGIN: morinMutationalStructuralAnalysis2013 -->

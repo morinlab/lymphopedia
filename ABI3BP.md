@@ -37,3 +37,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/A
 ![image](images/proteinpaint/ABI3BP.svg)
 ## ABI3BP Expression
 ![image](images/gene_expression/ABI3BP_by_pathology.svg)
+<!-- ORIGIN: morinMutationalStructuralAnalysis2013 -->

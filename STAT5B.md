@@ -37,3 +37,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/S
 ![image](images/proteinpaint/STAT5B.svg)
 ## STAT5B Expression
 ![image](images/gene_expression/STAT5B_by_pathology.svg)
+<!-- ORIGIN: zhangGeneticHeterogeneityDiffuse2013 -->

@@ -40,3 +40,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/Z
 ![image](images/proteinpaint/ZFX.svg)
 ## ZFX Expression
 ![image](images/gene_expression/ZFX_by_pathology.svg)
+<!-- ORIGIN: reddyGeneticFunctionalDrivers2017 -->

@@ -37,3 +37,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/A
 ![image](images/proteinpaint/ANKRD17.svg)
 ## ANKRD17 Expression
 ![image](images/gene_expression/ANKRD17_by_pathology.svg)
+<!-- ORIGIN: reddyGeneticFunctionalDrivers2017 -->

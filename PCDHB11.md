@@ -37,3 +37,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/P
 ![image](images/proteinpaint/PCDHB11.svg)
 ## PCDHB11 Expression
 ![image](images/gene_expression/PCDHB11_by_pathology.svg)
+<!-- ORIGIN: morinMutationalStructuralAnalysis2013 -->

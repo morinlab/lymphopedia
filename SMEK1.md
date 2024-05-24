@@ -37,3 +37,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/S
 ![image](images/proteinpaint/SMEK1.svg)
 ## SMEK1 Expression
 ![image](images/gene_expression/SMEK1_by_pathology.svg)
+<!-- ORIGIN: chapuyMolecularSubtypesDiffuse2018b -->

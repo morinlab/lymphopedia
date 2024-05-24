@@ -55,3 +55,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/E
 2. *Gong T, Shuang Y. Expression and Clinical Value of Eukaryotic Translation Elongation Factor 1A1 (EEF1A1) in Diffuse Large B Cell Lymphoma. Int J Gen Med. 2021 Oct 27;14:7247-7258. doi: 10.2147/IJGM.S324645. PMID: 34737619; PMCID: PMC8559353.*
 ## EEF1A1 Expression
 ![image](images/gene_expression/EEF1A1_by_pathology.svg)
+<!-- ORIGIN: hubschmannMutationalMechanismsShaping2021b -->

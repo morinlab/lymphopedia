@@ -45,3 +45,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/S
 ![image](images/proteinpaint/SMARCA4.svg)
 ## SMARCA4 Expression
 ![image](images/gene_expression/SMARCA4_by_pathology.svg)
+<!-- ORIGIN: zhangGeneticHeterogeneityDiffuse2013 -->

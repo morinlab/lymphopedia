@@ -37,3 +37,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/P
 ![image](images/proteinpaint/PKD1.svg)
 ## PKD1 Expression
 ![image](images/gene_expression/PKD1_by_pathology.svg)
+<!-- ORIGIN: morinMutationalStructuralAnalysis2013 -->

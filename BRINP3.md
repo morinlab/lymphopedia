@@ -40,3 +40,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/B
 ![image](images/proteinpaint/BRINP3.svg)
 ## BRINP3 Expression
 ![image](images/gene_expression/BRINP3_by_pathology.svg)
+<!-- ORIGIN: reddyGeneticFunctionalDrivers2017 -->

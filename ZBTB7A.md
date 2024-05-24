@@ -41,3 +41,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/Z
 ![image](images/proteinpaint/ZBTB7A.svg)
 ## ZBTB7A Expression
 ![image](images/gene_expression/ZBTB7A_by_pathology.svg)
+<!-- ORIGIN: reddyGeneticFunctionalDrivers2017 -->

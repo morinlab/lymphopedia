@@ -45,3 +45,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/Z
 ![image](images/proteinpaint/ZCCHC7.svg)
 ## ZCCHC7 Expression
 ![image](images/gene_expression/ZCCHC7_by_pathology.svg)
+<!-- ORIGIN: arthurGenomewideDiscoverySomatic2018 -->

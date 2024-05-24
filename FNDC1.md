@@ -37,3 +37,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/F
 ![image](images/proteinpaint/FNDC1.svg)
 ## FNDC1 Expression
 ![image](images/gene_expression/FNDC1_by_pathology.svg)
+<!-- ORIGIN: morinMutationalStructuralAnalysis2013 -->

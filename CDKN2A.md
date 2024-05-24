@@ -53,3 +53,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/C
 ## References
 1. *Guney S, Jardin F, Bertrand P, Mareschal S, Parmentier F, Picquenot JM, Tilly H, Bastard C. Several mechanisms lead to the inactivation of the CDKN2A (P16), P14ARF, or CDKN2B (P15) genes in the GCB and ABC molecular DLBCL subtypes. Genes Chromosomes Cancer. 2012 Sep;51(9):858-67. doi: 10.1002/gcc.21970. Epub 2012 May 23. PMID: 22619049.*## CDKN2A Expression
 ![image](images/gene_expression/CDKN2A_by_pathology.svg)
+<!-- ORIGIN: morinMutationalStructuralAnalysis2013 -->

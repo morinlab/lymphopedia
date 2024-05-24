@@ -41,3 +41,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/L
 ![image](images/proteinpaint/LCOR_hg38.svg)
 ## LCOR Expression
 ![image](images/gene_expression/LCOR_by_pathology.svg)
+<!-- ORIGIN: arthurGenomewideDiscoverySomatic2018 -->

@@ -50,3 +50,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/H
 2. *Li H, Kaminski MS, Li Y, Yildiz M, Ouillette P, Jones S, Fox H, Jacobi K, Saiya-Cork K, Bixby D, Lebovic D, Roulston D, Shedden K, Sabel M, Marentette L, Cimmino V, Chang AE, Malek SN. Mutations in linker histone genes HIST1H1 B, C, D, and E; OCT2 (POU2F2); IRF8; and ARID1A underlying the pathogenesis of follicular lymphoma. Blood. 2014 Mar 6;123(10):1487-98. doi: 10.1182/blood-2013-05-500264. Epub 2014 Jan 16. PMID: 24435047; PMCID: PMC4729540.*
 ## HIST1H1C Expression
 ![image](images/gene_expression/HIST1H1C_by_pathology.svg)
+<!-- ORIGIN: morinFrequentMutationHistonemodifying2011 -->

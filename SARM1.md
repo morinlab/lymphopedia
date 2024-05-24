@@ -37,3 +37,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/S
 ![image](images/proteinpaint/SARM1.svg)
 ## SARM1 Expression
 ![image](images/gene_expression/SARM1_by_pathology.svg)
+<!-- ORIGIN: morinMutationalStructuralAnalysis2013 -->

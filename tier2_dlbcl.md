@@ -106,6 +106,7 @@
 |2|[ODZ3](ODZ3)|0.00|[LOAD](https://morinlab.github.io/LLMPP/GAMBL/ODZ3.html)|[LOAD](https://morinlab.github.io/LLMPP/GAMBL/ODZ3_protein.html)|
 |2-a|[P2RX5](P2RX5)|1.15|[view](images/proteinpaint/P2RX5.svg)|[view](images/proteinpaint/P2RX5_NM_002561.svg)|
 |2|[PAPOLG](PAPOLG)|0.38|[view](images/proteinpaint/PAPOLG.svg)|[view](images/proteinpaint/PAPOLG_NM_022894.svg)|
+|2|[PPP1R9B](PPP1R9B)|0.38|[view](images/proteinpaint/PPP1R9B.svg)|[LOAD](https://morinlab.github.io/LLMPP/GAMBL/PPP1R9B_protein.html)|
 |2|[PTPN23](PTPN23)|1.34|[view](images/proteinpaint/PTPN23.svg)|[view](images/proteinpaint/PTPN23_NM_015466.svg)|
 |2|[PASK](PASK)|1.91|[view](images/proteinpaint/PASK.svg)|[view](images/proteinpaint/PASK_NM_015148.svg)|
 |2-a|[PAX5](PAX5)|3.63|[view](images/proteinpaint/PAX5.svg)|[view](images/proteinpaint/PAX5_NM_016734.svg)|
@@ -128,7 +129,6 @@
 |2|[RAC2](RAC2)|1.15|[view](images/proteinpaint/RAC2.svg)|[view](images/proteinpaint/RAC2_NM_002872.svg)|
 |2|[RAD9A](RAD9A)|0.19|[view](images/proteinpaint/RAD9A.svg)|[view](images/proteinpaint/RAD9A_NM_004584.svg)|
 |2|[RARA](RARA)|1.34|[view](images/proteinpaint/RARA.svg)|[view](images/proteinpaint/RARA_NM_000964.svg)|
-|2|[RCC](RCC)|0.00|[LOAD](https://morinlab.github.io/LLMPP/GAMBL/RCC.html)|[LOAD](https://morinlab.github.io/LLMPP/GAMBL/RCC_protein.html)|
 |2-a|[RFTN1](RFTN1)|4.59|[view](images/proteinpaint/RFTN1.svg)|[view](images/proteinpaint/RFTN1_NM_015150.svg)|
 |2-a|[RHEX](RHEX)(C1orf186)|0.00|[LOAD](https://morinlab.github.io/LLMPP/GAMBL/RHEX.html)|[LOAD](https://morinlab.github.io/LLMPP/GAMBL/RHEX_protein.html)|
 |2-a|[RHOH](RHOH)|1.15|[view](images/proteinpaint/RHOH.svg)|[view](images/proteinpaint/RHOH_NM_004310.svg)|
@@ -161,6 +161,7 @@
 |2-a|[UBE2J1](UBE2J1)|0.76|[view](images/proteinpaint/UBE2J1.svg)|[view](images/proteinpaint/UBE2J1_NM_016021.svg)|
 |2|[UBR5](UBR5)|3.63|[view](images/proteinpaint/UBR5.svg)|[view](images/proteinpaint/UBR5_NM_015902.svg)|
 |2|[UNC5B](UNC5B)|1.53|[view](images/proteinpaint/UNC5B.svg)|[view](images/proteinpaint/UNC5B_NM_170744.svg)|
+|2|[UNC5D](UNC5D)|2.10|[view](images/proteinpaint/UNC5D.svg)|[view](images/proteinpaint/UNC5D_NM_080872.svg)|
 |2|[WAC](WAC)|2.68|[view](images/proteinpaint/WAC.svg)|[view](images/proteinpaint/WAC_NM_016628.svg)|
 |2|[WDFY3](WDFY3)|4.21|[view](images/proteinpaint/WDFY3.svg)|[view](images/proteinpaint/WDFY3_NM_014991.svg)|
 |2|[WNK1](WNK1)|4.59|[view](images/proteinpaint/WNK1.svg)|[view](images/proteinpaint/WNK1_NM_018979.svg)|

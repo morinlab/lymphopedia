@@ -4,7 +4,7 @@
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
-|DLBCL |1   |high-confidence DLBCL gene|
+|DLBCL | 2   |low-confidence DLBCL gene|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -32,5 +32,8 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/UNC5D.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/UNC5D_hg38.html)
 
 ![image](images/proteinpaint/UNC5D.svg)
+
 ## UNC5D Expression
 ![image](images/gene_expression/UNC5D_by_pathology.svg)
+
+<!-- FLAGGED FOR TIER 2 -->

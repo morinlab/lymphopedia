@@ -37,3 +37,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/T
 ![image](images/proteinpaint/TAP1.svg)
 ## TAP1 Expression
 ![image](images/gene_expression/TAP1_by_pathology.svg)
+<!-- ORIGIN: schmitzGeneticsPathogenesisDiffuse2018a -->

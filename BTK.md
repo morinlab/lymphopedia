@@ -41,3 +41,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/B
 2. *Schejbel L, Breinholt MF, Gang AO, Nielsen TH, Pedersen LM, Høgdall E, Nørgaard P. Inactivating BTK mutations in large B-cell lymphoma in a real-world cohort: Strong correlation with BCL2 translocation. EJHaem. 2022 Jun 24;3(3):936-939. doi: 10.1002/jha2.489. PMID: 36051027; PMCID: PMC9421985.*
 ## BTK Expression
 ![image](images/gene_expression/BTK_by_pathology.svg)
+<!-- ORIGIN: albuquerqueEnhancingKnowledgeDiscovery2017a -->

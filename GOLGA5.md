@@ -37,3 +37,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/G
 ![image](images/proteinpaint/GOLGA5.svg)
 ## GOLGA5 Expression
 ![image](images/gene_expression/GOLGA5_by_pathology.svg)
+<!-- ORIGIN: reddyGeneticFunctionalDrivers2017 -->

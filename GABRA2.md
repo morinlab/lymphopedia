@@ -37,3 +37,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/G
 ![image](images/proteinpaint/GABRA2.svg)
 ## GABRA2 Expression
 ![image](images/gene_expression/GABRA2_by_pathology.svg)
+<!-- ORIGIN: chapuyMolecularSubtypesDiffuse2018b -->

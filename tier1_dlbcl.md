@@ -113,7 +113,6 @@
 |1-a|[PIM2](PIM2)|3.44|[view](images/proteinpaint/PIM2.svg)|[view](images/proteinpaint/PIM2_NM_006875.svg)|
 |1-a|[POU2AF1](POU2AF1)|5.16|[view](images/proteinpaint/POU2AF1.svg)|[view](images/proteinpaint/POU2AF1_NM_006235.svg)|
 |1|[POU2F2](POU2F2)|5.93|[view](images/proteinpaint/POU2F2.svg)|[view](images/proteinpaint/POU2F2_NM_002698.svg)|
-|1|[PPP1R9B](PPP1R9B)|0.38|[view](images/proteinpaint/PPP1R9B.svg)|[LOAD](https://morinlab.github.io/LLMPP/GAMBL/PPP1R9B_protein.html)|
 |1|[PRDM1](PRDM1)|6.88|[view](images/proteinpaint/PRDM1.svg)|[view](images/proteinpaint/PRDM1_NM_001198.svg)|
 |1|[PRKDC](PRKDC)|2.68|[view](images/proteinpaint/PRKDC.svg)|[view](images/proteinpaint/PRKDC_NM_006904.svg)|
 |1|[PTEN](PTEN)|3.82|[view](images/proteinpaint/PTEN.svg)|[view](images/proteinpaint/PTEN_NM_000314.svg)|
@@ -146,7 +145,6 @@
 |1|[TRRAP](TRRAP)|2.87|[view](images/proteinpaint/TRRAP.svg)|[view](images/proteinpaint/TRRAP_NM_003496.svg)|
 |1|[UBE2A](UBE2A)|4.21|[view](images/proteinpaint/UBE2A.svg)|[view](images/proteinpaint/UBE2A_NM_003336.svg)|
 |1|[UNC5C](UNC5C)|3.44|[view](images/proteinpaint/UNC5C.svg)|[view](images/proteinpaint/UNC5C_NM_003728.svg)|
-|1|[UNC5D](UNC5D)|2.10|[view](images/proteinpaint/UNC5D.svg)|[view](images/proteinpaint/UNC5D_NM_080872.svg)|
 |1|[USP7](USP7)|1.34|[view](images/proteinpaint/USP7.svg)|[view](images/proteinpaint/USP7_NM_003470.svg)|
 |1|[VPS13B](VPS13B)|4.21|[view](images/proteinpaint/VPS13B.svg)|[view](images/proteinpaint/VPS13B_NM_152564.svg)|
 |1-a|[WEE1](WEE1)|4.02|[view](images/proteinpaint/WEE1.svg)|[view](images/proteinpaint/WEE1_NM_003390.svg)|

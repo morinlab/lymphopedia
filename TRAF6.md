@@ -45,3 +45,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/T
 ![image](images/proteinpaint/TRAF6.svg)
 ## TRAF6 Expression
 ![image](images/gene_expression/TRAF6_by_pathology.svg)
+<!-- ORIGIN: hubschmannMutationalMechanismsShaping2021b -->

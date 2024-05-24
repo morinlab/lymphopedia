@@ -37,3 +37,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/H
 ![image](images/proteinpaint/HNF1B.svg)
 ## HNF1B Expression
 ![image](images/gene_expression/HNF1B_by_pathology.svg)
+<!-- ORIGIN: pasqualucciAnalysisCodingGenome2011 -->

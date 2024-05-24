@@ -52,3 +52,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/K
 5. *Zhang J, Jima D, Moffitt AB, Liu Q, Czader M, Hsi ED, Fedoriw Y, Dunphy CH, Richards KL, Gill JI, Sun Z, Love C, Scotland P, Lock E, Levy S, Hsu DS, Dunson D, Dave SS. The genomic landscape of mantle cell lymphoma is related to the epigenetically determined chromatin state of normal B cells. Blood. 2014 May 8;123(19):2988-96. doi: 10.1182/blood-2013-07-517177. Epub 2014 Mar 28. PMID: 24682267; PMCID: PMC4014841.*
 ## KMT2C Expression
 ![image](images/gene_expression/KMT2C_by_pathology.svg)
+<!-- ORIGIN: zhangGeneticHeterogeneityDiffuse2013 -->

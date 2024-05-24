@@ -39,3 +39,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/F
 ![image](images/proteinpaint/FAT4.svg)
 ## FAT4 Expression
 ![image](images/gene_expression/FAT4_by_pathology.svg)
+<!-- ORIGIN: morinMutationalStructuralAnalysis2013 -->

@@ -37,3 +37,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/D
 ![image](images/proteinpaint/DSG4.svg)
 ## DSG4 Expression
 ![image](images/gene_expression/DSG4_by_pathology.svg)
+<!-- ORIGIN: morinMutationalStructuralAnalysis2013 -->

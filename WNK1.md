@@ -47,3 +47,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/W
 ![image](images/proteinpaint/WNK1.svg)
 ## WNK1 Expression
 ![image](images/gene_expression/WNK1_by_pathology.svg)
+<!-- ORIGIN: hubschmannMutationalMechanismsShaping2021b -->

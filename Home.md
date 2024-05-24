@@ -6,10 +6,10 @@ of mutations in each gene can be found through the gene lists (below). Additiona
 # B-cell Lymphoma gene lists
 | entity | Tier 1 (high-confidence) | Tier 2 (low-confidence) |
 | ----- | ----------- | ---------- |
-| DLBCL | [(156 genes)](tier1_dlbcl) |[(110 genes)](tier2_dlbcl) |
-| FL | [(66 genes)](tier1_fl) |[(51 genes)](tier2_fl) |
-| BL | [(30 genes)](tier1_bl) |[(188 genes)](tier2_bl) |
-| MCL | [(25 genes)](tier1_mcl) |[(30 genes)](tier2_mcl) |
+| DLBCL | [(152 genes)](tier1_dlbcl) |[(173 genes)](tier2_dlbcl) |
+| FL | [(65 genes)](tier1_fl) |[(50 genes)](tier2_fl) |
+| BL | [(29 genes)](tier1_bl) |[(188 genes)](tier2_bl) |
+| MCL | [(24 genes)](tier1_mcl) |[(29 genes)](tier2_mcl) |
 
 # B-cell Lymphoma aSHM targets
 [hg19 coordinates](ashm)

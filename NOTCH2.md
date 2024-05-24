@@ -48,3 +48,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/N
 ![image](images/proteinpaint/NOTCH2.svg)
 ## NOTCH2 Expression
 ![image](images/gene_expression/NOTCH2_by_pathology.svg)
+<!-- ORIGIN: troenNOTCH2MutationsMarginal2008 -->

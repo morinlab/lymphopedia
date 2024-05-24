@@ -39,3 +39,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/S
 ![image](images/proteinpaint/SRRM2.svg)
 ## SRRM2 Expression
 ![image](images/gene_expression/SRRM2_by_pathology.svg)
+<!-- ORIGIN: morinMutationalStructuralAnalysis2013 -->

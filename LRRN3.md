@@ -37,3 +37,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/L
 ![image](images/proteinpaint/LRRN3.svg)
 ## LRRN3 Expression
 ![image](images/gene_expression/LRRN3_by_pathology.svg)
+<!-- ORIGIN: morinMutationalStructuralAnalysis2013 -->

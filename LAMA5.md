@@ -37,3 +37,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/L
 ![image](images/proteinpaint/LAMA5.svg)
 ## LAMA5 Expression
 ![image](images/gene_expression/LAMA5_by_pathology.svg)
+<!-- ORIGIN: schmitzGeneticsPathogenesisDiffuse2018a -->

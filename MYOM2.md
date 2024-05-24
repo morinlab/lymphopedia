@@ -37,3 +37,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/M
 ![image](images/proteinpaint/MYOM2.svg)
 ## MYOM2 Expression
 ![image](images/gene_expression/MYOM2_by_pathology.svg)
+<!-- ORIGIN: pasqualucciAnalysisCodingGenome2011 -->

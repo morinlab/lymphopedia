@@ -49,3 +49,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/F
 5. *Rys, R., Venkataraman, M., Zeng, J., Mann, K., & Johnson, N. (2019). Fas Mutations in Non-Hodgkin's Lymphoma (NHL): Implications for Disease Progression and Therapeutic Resistance. Blood. https://doi.org/10.1182/blood-2019-130602.*
 ## FAS Expression
 ![image](images/gene_expression/FAS_by_pathology.svg)
+<!-- ORIGIN: schollMutationsRegionFAS2007 -->

@@ -39,3 +39,5 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/X
 ![image](images/proteinpaint/XBP1.svg)
 ## XBP1 Expression
 ![image](images/gene_expression/XBP1_by_pathology.svg)
+
+<!-- FLAGGED FOR REMOVAL -->

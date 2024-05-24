@@ -37,3 +37,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/G
 ![image](images/proteinpaint/GSG2.svg)
 ## GSG2 Expression
 ![image](images/gene_expression/GSG2_by_pathology.svg)
+<!-- ORIGIN: schmitzGeneticsPathogenesisDiffuse2018a -->

@@ -46,3 +46,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/C
 2. *Hakem A, El Ghamrasni S, Maire G, Lemmers B, Karaskova J, Jurisicova A, Sanchez O, Squire J, Hakem R. Caspase-8 is essential for maintaining chromosomal stability and suppressing B-cell lymphomagenesis. Blood. 2012 Apr 12;119(15):3495-502. doi: 10.1182/blood-2011-07-367532. Epub 2012 Feb 16. PMID: 22343728.*
 ## CASP8 Expression
 ![image](images/gene_expression/CASP8_by_pathology.svg)
+<!-- ORIGIN: reddyGeneticFunctionalDrivers2017 -->

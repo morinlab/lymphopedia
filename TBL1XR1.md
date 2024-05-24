@@ -56,3 +56,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/T
 ![image](images/proteinpaint/TBL1XR1.svg)
 ## TBL1XR1 Expression
 ![image](images/gene_expression/TBL1XR1_by_pathology.svg)
+<!-- ORIGIN: mareschalWholeExomeSequencing2016 -->

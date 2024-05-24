@@ -37,3 +37,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/D
 ![image](images/proteinpaint/DNAH5.svg)
 ## DNAH5 Expression
 ![image](images/gene_expression/DNAH5_by_pathology.svg)
+<!-- ORIGIN: morinMutationalStructuralAnalysis2013 -->

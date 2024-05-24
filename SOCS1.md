@@ -45,3 +45,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/S
 ![image](images/proteinpaint/SOCS1.svg)
 ## SOCS1 Expression
 ![image](images/gene_expression/SOCS1_by_pathology.svg)
+<!-- ORIGIN: morinFrequentMutationHistonemodifying2011 -->

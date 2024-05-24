@@ -69,3 +69,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/E
 1. *Györy I, Boller S, Nechanitzky R, Mandel E, Pott S, Liu E, Grosschedl R. Transcription factor Ebf1 regulates differentiation stage-specific signaling, proliferation, and survival of B cells. Genes Dev. 2012 Apr 1;26(7):668-82. doi: 10.1101/gad.187328.112. Epub 2012 Mar 19. PMID: 22431510; PMCID: PMC3323878.*
 ## EBF1 Expression
 ![image](images/gene_expression/EBF1_by_pathology.svg)
+<!-- ORIGIN: bohleRoleEarlyBcell2013 -->

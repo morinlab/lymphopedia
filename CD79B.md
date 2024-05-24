@@ -69,3 +69,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/C
 3. *Wilson WH, Wright GW, Huang DW, Hodkinson B, Balasubramanian S, Fan Y, Vermeulen J, Shreeve M, Staudt LM. Effect of ibrutinib with R-CHOP chemotherapy in genetic subtypes of DLBCL. Cancer Cell. 2021 Dec 13;39(12):1643-1653.e3. doi: 10.1016/j.ccell.2021.10.006. Epub 2021 Nov 4. PMID: 34739844; PMCID: PMC8722194.*
 4. *Kim Y, Ju H, Kim DH, Yoo HY, Kim SJ, Kim WS, Ko YH. CD79B and MYD88 mutations in diffuse large B-cell lymphoma. Hum Pathol. 2014 Mar;45(3):556-64. doi: 10.1016/j.humpath.2013.10.023. Epub 2013 Oct 31. PMID: 24444466.*## CD79B Expression
 ![image](images/gene_expression/CD79B_by_pathology.svg)
+<!-- ORIGIN: morinFrequentMutationHistonemodifying2011 -->
