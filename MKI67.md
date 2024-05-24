@@ -38,3 +38,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/M
 ![image](images/proteinpaint/MKI67.svg)
 ## MKI67 Expression
 ![image](images/gene_expression/MKI67_by_pathology.svg)
+<!-- ORIGIN: schmitzBurkittLymphomaPathogenesis2012 -->

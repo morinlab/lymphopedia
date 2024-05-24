@@ -34,3 +34,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/O
 ![image](images/proteinpaint/OR8H2.svg)
 ## OR8H2 Expression
 ![image](images/gene_expression/OR8H2_by_pathology.svg)
+<!-- ORIGIN: russler-germainMutationsAssociatedProgression2023a -->

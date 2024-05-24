@@ -36,3 +36,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/C
 ![image](images/proteinpaint/CTCF.svg)
 ## CTCF Expression
 ![image](images/gene_expression/CTCF_by_pathology.svg)
+<!-- ORIGIN: paneaWholeGenomeLandscape2019 -->

@@ -34,3 +34,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/D
 ![image](images/proteinpaint/DLC1.svg)
 ## DLC1 Expression
 ![image](images/gene_expression/DLC1_by_pathology.svg)
+<!-- ORIGIN: zhangGenomicLandscapeMantle2014 -->

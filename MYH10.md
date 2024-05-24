@@ -36,3 +36,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/M
 ![image](images/proteinpaint/MYH10.svg)
 ## MYH10 Expression
 ![image](images/gene_expression/MYH10_by_pathology.svg)
+<!-- ORIGIN: loveGeneticLandscapeMutations2012 -->

@@ -36,3 +36,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/S
 ![image](images/proteinpaint/SYNCRIP.svg)
 ## SYNCRIP Expression
 ![image](images/gene_expression/SYNCRIP_by_pathology.svg)
+<!-- ORIGIN: paneaWholeGenomeLandscape2019 -->

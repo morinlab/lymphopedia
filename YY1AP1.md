@@ -36,3 +36,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/Y
 ![image](images/proteinpaint/YY1AP1.svg)
 ## YY1AP1 Expression
 ![image](images/gene_expression/YY1AP1_by_pathology.svg)
+<!-- ORIGIN: schmitzBurkittLymphomaPathogenesis2012 -->

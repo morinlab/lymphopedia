@@ -34,3 +34,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/S
 ![image](images/proteinpaint/SHROOM3.svg)
 ## SHROOM3 Expression
 ![image](images/gene_expression/SHROOM3_by_pathology.svg)
+<!-- ORIGIN: russler-germainMutationsAssociatedProgression2023a -->

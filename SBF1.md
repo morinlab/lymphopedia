@@ -36,3 +36,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/S
 ![image](images/proteinpaint/SBF1.svg)
 ## SBF1 Expression
 ![image](images/gene_expression/SBF1_by_pathology.svg)
+<!-- ORIGIN: loveGeneticLandscapeMutations2012 -->

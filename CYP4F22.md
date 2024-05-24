@@ -36,3 +36,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/C
 ![image](images/proteinpaint/CYP4F22.svg)
 ## CYP4F22 Expression
 ![image](images/gene_expression/CYP4F22_by_pathology.svg)
+<!-- ORIGIN: loveGeneticLandscapeMutations2012 -->

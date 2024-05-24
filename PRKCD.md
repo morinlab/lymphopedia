@@ -33,3 +33,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/P
 ![image](images/proteinpaint/PRKCD.svg)
 ## PRKCD Expression
 ![image](images/gene_expression/PRKCD_by_pathology.svg)
+<!-- ORIGIN: Unknown -->

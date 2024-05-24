@@ -36,3 +36,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/E
 ![image](images/proteinpaint/EPHB2.svg)
 ## EPHB2 Expression
 ![image](images/gene_expression/EPHB2_by_pathology.svg)
+<!-- ORIGIN: loveGeneticLandscapeMutations2012 -->

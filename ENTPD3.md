@@ -36,3 +36,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/E
 ![image](images/proteinpaint/ENTPD3.svg)
 ## ENTPD3 Expression
 ![image](images/gene_expression/ENTPD3_by_pathology.svg)
+<!-- ORIGIN: loveGeneticLandscapeMutations2012 -->

@@ -67,3 +67,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/H
 ![image](images/proteinpaint/HIST1H1E.svg)
 ## HIST1H1E Expression
 ![image](images/gene_expression/HIST1H1E_by_pathology.svg)
+<!-- ORIGIN: morinMutationalStructuralAnalysis2013 -->

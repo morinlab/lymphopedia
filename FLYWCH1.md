@@ -36,3 +36,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/F
 ![image](images/proteinpaint/FLYWCH1.svg)
 ## FLYWCH1 Expression
 ![image](images/gene_expression/FLYWCH1_by_pathology.svg)
+<!-- ORIGIN: schmitzBurkittLymphomaPathogenesis2012 -->

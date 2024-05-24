@@ -36,3 +36,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/F
 ![image](images/proteinpaint/FGFR3.svg)
 ## FGFR3 Expression
 ![image](images/gene_expression/FGFR3_by_pathology.svg)
+<!-- ORIGIN: loveGeneticLandscapeMutations2012 -->

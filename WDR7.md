@@ -36,3 +36,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/W
 ![image](images/proteinpaint/WDR7.svg)
 ## WDR7 Expression
 ![image](images/gene_expression/WDR7_by_pathology.svg)
+<!-- ORIGIN: paneaWholeGenomeLandscape2019 -->

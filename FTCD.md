@@ -36,3 +36,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/F
 ![image](images/proteinpaint/FTCD.svg)
 ## FTCD Expression
 ![image](images/gene_expression/FTCD_by_pathology.svg)
+<!-- ORIGIN: loveGeneticLandscapeMutations2012 -->

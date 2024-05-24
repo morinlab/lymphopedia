@@ -34,3 +34,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/E
 ![image](images/proteinpaint/ESX1.svg)
 ## ESX1 Expression
 ![image](images/gene_expression/ESX1_by_pathology.svg)
+<!-- ORIGIN: zhangGenomicLandscapeMantle2014 -->

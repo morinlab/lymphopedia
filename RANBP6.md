@@ -36,3 +36,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/R
 ![image](images/proteinpaint/RANBP6.svg)
 ## RANBP6 Expression
 ![image](images/gene_expression/RANBP6_by_pathology.svg)
+<!-- ORIGIN: loveGeneticLandscapeMutations2012 -->

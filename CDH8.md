@@ -34,3 +34,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/C
 ![image](images/proteinpaint/CDH8.svg)
 ## CDH8 Expression
 ![image](images/gene_expression/CDH8_by_pathology.svg)
+<!-- ORIGIN: zhangGenomicLandscapeMantle2014 -->

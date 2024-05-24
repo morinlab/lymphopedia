@@ -44,3 +44,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/L
 ![image](images/proteinpaint/LAPTM5.svg)
 ## LAPTM5 Expression
 ![image](images/gene_expression/LAPTM5_by_pathology.svg)
+<!-- ORIGIN: hubschmannMutationalMechanismsShaping2021b -->

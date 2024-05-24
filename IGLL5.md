@@ -48,3 +48,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/I
 ![image](images/proteinpaint/IGLL5.svg)
 ## IGLL5 Expression
 ![image](images/gene_expression/IGLL5_by_pathology.svg)
+<!-- ORIGIN: russler-germainMutationsAssociatedProgression2023a -->

@@ -43,3 +43,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/M
 ![image](images/proteinpaint/MAGEC1.svg)
 ## MAGEC1 Expression
 ![image](images/gene_expression/MAGEC1_by_pathology.svg)
+<!-- ORIGIN: russler-germainMutationsAssociatedProgression2023a -->

@@ -30,3 +30,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/E
 ![image](images/proteinpaint/EIF2C4.svg)
 ## EIF2C4 Expression
 ![image](images/gene_expression/EIF2C4_by_pathology.svg)
+<!-- ORIGIN: loveGeneticLandscapeMutations2012 -->

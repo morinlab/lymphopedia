@@ -36,3 +36,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/I
 ![image](images/proteinpaint/ITPR3.svg)
 ## ITPR3 Expression
 ![image](images/gene_expression/ITPR3_by_pathology.svg)
+<!-- ORIGIN: loveGeneticLandscapeMutations2012 -->

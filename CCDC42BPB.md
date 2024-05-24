@@ -28,3 +28,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/C
 ![image](images/proteinpaint/CCDC42BPB.svg)
 ## CCDC42BPB Expression
 ![image](images/gene_expression/CCDC42BPB_by_pathology.svg)
+<!-- ORIGIN: hubschmannMutationalMechanismsShaping2021b -->

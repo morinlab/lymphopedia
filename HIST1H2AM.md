@@ -73,3 +73,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/H
 ![image](images/proteinpaint/HIST1H2AM.svg)
 ## HIST1H2AM Expression
 ![image](images/gene_expression/HIST1H2AM_by_pathology.svg)
+<!-- ORIGIN: paneaWholeGenomeLandscape2019 -->

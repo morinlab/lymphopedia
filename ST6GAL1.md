@@ -42,3 +42,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/S
 ![image](images/proteinpaint/ST6GAL1.svg)
 ## ST6GAL1 Expression
 ![image](images/gene_expression/ST6GAL1_by_pathology.svg)
+<!-- ORIGIN: arthurGenomewideDiscoverySomatic2018 -->

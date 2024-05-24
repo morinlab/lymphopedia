@@ -34,3 +34,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/K
 ![image](images/proteinpaint/KIR3DL1.svg)
 ## KIR3DL1 Expression
 ![image](images/gene_expression/KIR3DL1_by_pathology.svg)
+<!-- ORIGIN: russler-germainMutationsAssociatedProgression2023a -->

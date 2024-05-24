@@ -34,3 +34,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/C
 ![image](images/proteinpaint/CCND1.svg)
 ## CCND1 Expression
 ![image](images/gene_expression/CCND1_by_pathology.svg)
+<!-- ORIGIN: beaLandscapeSomaticMutations2013 -->

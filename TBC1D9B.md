@@ -36,3 +36,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/T
 ![image](images/proteinpaint/TBC1D9B.svg)
 ## TBC1D9B Expression
 ![image](images/gene_expression/TBC1D9B_by_pathology.svg)
+<!-- ORIGIN: loveGeneticLandscapeMutations2012 -->

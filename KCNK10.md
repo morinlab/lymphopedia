@@ -36,3 +36,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/K
 ![image](images/proteinpaint/KCNK10.svg)
 ## KCNK10 Expression
 ![image](images/gene_expression/KCNK10_by_pathology.svg)
+<!-- ORIGIN: paneaWholeGenomeLandscape2019 -->

@@ -57,3 +57,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/B
 ![image](images/proteinpaint/BMP7.svg)
 ## BMP7 Expression
 ![image](images/gene_expression/BMP7_by_pathology.svg)
+<!-- ORIGIN: paneaWholeGenomeLandscape2019 -->

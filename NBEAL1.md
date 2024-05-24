@@ -36,3 +36,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/N
 ![image](images/proteinpaint/NBEAL1.svg)
 ## NBEAL1 Expression
 ![image](images/gene_expression/NBEAL1_by_pathology.svg)
+<!-- ORIGIN: loveGeneticLandscapeMutations2012 -->

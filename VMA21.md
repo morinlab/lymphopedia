@@ -34,3 +34,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/V
 ![image](images/proteinpaint/VMA21.svg)
 ## VMA21 Expression
 ![image](images/gene_expression/VMA21_by_pathology.svg)
+<!-- ORIGIN: hubschmannMutationalMechanismsShaping2021b -->

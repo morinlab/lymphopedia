@@ -39,3 +39,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/F
 ![image](images/proteinpaint/FNBP1.svg)
 ## FNBP1 Expression
 ![image](images/gene_expression/FNBP1_by_pathology.svg)
+<!-- ORIGIN: Unknown -->

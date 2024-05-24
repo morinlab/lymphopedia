@@ -36,3 +36,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/C
 ![image](images/proteinpaint/CDKN2C.svg)
 ## CDKN2C Expression
 ![image](images/gene_expression/CDKN2C_by_pathology.svg)
+<!-- ORIGIN: Unknown -->

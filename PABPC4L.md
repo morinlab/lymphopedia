@@ -36,3 +36,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/P
 ![image](images/proteinpaint/PABPC4L.svg)
 ## PABPC4L Expression
 ![image](images/gene_expression/PABPC4L_by_pathology.svg)
+<!-- ORIGIN: paneaWholeGenomeLandscape2019 -->

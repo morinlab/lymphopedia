@@ -36,3 +36,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/H
 ![image](images/proteinpaint/HIST1H4J.svg)
 ## HIST1H4J Expression
 ![image](images/gene_expression/HIST1H4J_by_pathology.svg)
+<!-- ORIGIN: paneaWholeGenomeLandscape2019 -->

@@ -47,3 +47,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/H
 ![image](images/proteinpaint/HIST1H3B.svg)
 ## HIST1H3B Expression
 ![image](images/gene_expression/HIST1H3B_by_pathology.svg)
+<!-- ORIGIN: zhangGeneticHeterogeneityDiffuse2013 -->

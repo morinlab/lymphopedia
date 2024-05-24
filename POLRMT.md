@@ -36,3 +36,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/P
 ![image](images/proteinpaint/POLRMT.svg)
 ## POLRMT Expression
 ![image](images/gene_expression/POLRMT_by_pathology.svg)
+<!-- ORIGIN: loveGeneticLandscapeMutations2012 -->

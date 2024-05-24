@@ -36,3 +36,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/R
 ![image](images/proteinpaint/RBP3.svg)
 ## RBP3 Expression
 ![image](images/gene_expression/RBP3_by_pathology.svg)
+<!-- ORIGIN: loveGeneticLandscapeMutations2012 -->

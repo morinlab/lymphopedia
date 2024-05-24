@@ -36,3 +36,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/M
 ![image](images/proteinpaint/MAP3K6.svg)
 ## MAP3K6 Expression
 ![image](images/gene_expression/MAP3K6_by_pathology.svg)
+<!-- ORIGIN: loveGeneticLandscapeMutations2012 -->

@@ -41,3 +41,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/H
 ![image](images/proteinpaint/HIST1H1B.svg)
 ## HIST1H1B Expression
 ![image](images/gene_expression/HIST1H1B_by_pathology.svg)
+<!-- ORIGIN: chapuyMolecularSubtypesDiffuse2018b -->

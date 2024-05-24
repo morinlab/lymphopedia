@@ -36,3 +36,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/C
 ![image](images/proteinpaint/CYB5D1.svg)
 ## CYB5D1 Expression
 ![image](images/gene_expression/CYB5D1_by_pathology.svg)
+<!-- ORIGIN: loveGeneticLandscapeMutations2012 -->

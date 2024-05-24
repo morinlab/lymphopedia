@@ -34,3 +34,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/G
 ![image](images/proteinpaint/GRIN2A.svg)
 ## GRIN2A Expression
 ![image](images/gene_expression/GRIN2A_by_pathology.svg)
+<!-- ORIGIN: zhangGenomicLandscapeMantle2014 -->

@@ -34,3 +34,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/J
 ![image](images/proteinpaint/JUP.svg)
 ## JUP Expression
 ![image](images/gene_expression/JUP_by_pathology.svg)
+<!-- ORIGIN: hubschmannMutationalMechanismsShaping2021b -->

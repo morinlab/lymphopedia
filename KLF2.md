@@ -56,9 +56,12 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/K
 
 ![image](images/proteinpaint/KLF2.svg)
 
+## KLF2 Expression
+![image](images/gene_expression/KLF2_by_pathology.svg)
+
 ## References
 1. *Pasqualucci L, Trifonov V, Fabbri G, Ma J, Rossi D, Chiarenza A, Wells VA, Grunn A, Messina M, Elliot O, Chan J, Bhagat G, Chadburn A, Gaidano G, Mullighan CG, Rabadan R, Dalla-Favera R. Analysis of the coding genome of diffuse large B-cell lymphoma. Nat Genet. 2011 Jul 31;43(9):830-7. doi: 10.1038/ng.892. PMID: 21804550; PMCID: PMC3297422.*
 2. *Clipson, A., Wang, M., Leval, L., Ashton-Key, M., Wotherspoon, A., Vassiliou, G., Bolli, N., Grove, C., Moody, S., Escudero-Ibarz, L., Gundem, G., Brügger, K., Xue, X., Mi, E., Bench, A., Scott, M., Liu, H., Follows, G., Robles, E., Martinez-Climent, J., Oscier, D., Watkins, A., & Du, M. (2014). KLF2 mutation is the most frequent somatic change in splenic marginal zone lymphoma and identifies a subset with distinct genotype. Leukemia, 29, 1177-1185. https://doi.org/10.1038/leu.2014.330.*
-3. *Wright GW, Huang DW, Phelan JD, Coulibaly ZA, Roulland S, Young RM, Wang JQ, Schmitz R, Morin RD, Tang J, Jiang A, Bagaev A, Plotnikova O, Kotlov N, Johnson CA, Wilson WH, Scott DW, Staudt LM. A Probabilistic Classification Tool for Genetic Subtypes of Diffuse Large B Cell Lymphoma with Therapeutic Implications. Cancer Cell. 2020 Apr 13;37(4):551-568.e14. doi: 10.1016/j.ccell.2020.03.015. PMID: 32289277; PMCID: PMC8459709.*## KLF2 Expression
-![image](images/gene_expression/KLF2_by_pathology.svg)
+3. *Wright GW, Huang DW, Phelan JD, Coulibaly ZA, Roulland S, Young RM, Wang JQ, Schmitz R, Morin RD, Tang J, Jiang A, Bagaev A, Plotnikova O, Kotlov N, Johnson CA, Wilson WH, Scott DW, Staudt LM. A Probabilistic Classification Tool for Genetic Subtypes of Diffuse Large B Cell Lymphoma with Therapeutic Implications. Cancer Cell. 2020 Apr 13;37(4):551-568.e14. doi: 10.1016/j.ccell.2020.03.015. PMID: 32289277; PMCID: PMC8459709.*
+
 <!-- ORIGIN: pasqualucciAnalysisCodingGenome2011 -->

@@ -36,3 +36,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/K
 ![image](images/proteinpaint/KIFC3.svg)
 ## KIFC3 Expression
 ![image](images/gene_expression/KIFC3_by_pathology.svg)
+<!-- ORIGIN: loveGeneticLandscapeMutations2012 -->

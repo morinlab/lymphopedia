@@ -42,3 +42,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/C
 ![image](images/proteinpaint/CAD.svg)
 ## CAD Expression
 ![image](images/gene_expression/CAD_by_pathology.svg)
+<!-- ORIGIN: loveGeneticLandscapeMutations2012 -->

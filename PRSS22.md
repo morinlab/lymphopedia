@@ -36,3 +36,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/P
 ![image](images/proteinpaint/PRSS22.svg)
 ## PRSS22 Expression
 ![image](images/gene_expression/PRSS22_by_pathology.svg)
+<!-- ORIGIN: loveGeneticLandscapeMutations2012 -->

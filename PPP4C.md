@@ -39,3 +39,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/P
 ![image](images/proteinpaint/PPP4C.svg)
 ## PPP4C Expression
 ![image](images/gene_expression/PPP4C_by_pathology.svg)
+<!-- ORIGIN: hubschmannMutationalMechanismsShaping2021b -->

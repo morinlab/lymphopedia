@@ -39,3 +39,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/F
 ![image](images/proteinpaint/FANK1.svg)
 ## FANK1 Expression
 ![image](images/gene_expression/FANK1_by_pathology.svg)
+<!-- ORIGIN: Unknown -->

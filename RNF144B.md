@@ -41,3 +41,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/R
 ![image](images/proteinpaint/RNF144B.svg)
 ## RNF144B Expression
 ![image](images/gene_expression/RNF144B_by_pathology.svg)
+<!-- ORIGIN: paneaWholeGenomeLandscape2019 -->

@@ -42,3 +42,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/P
 ![image](images/proteinpaint/PLCG2.svg)
 ## PLCG2 Expression
 ![image](images/gene_expression/PLCG2_by_pathology.svg)
+<!-- ORIGIN: paneaWholeGenomeLandscape2019 -->

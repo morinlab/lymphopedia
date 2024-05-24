@@ -30,3 +30,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/N
 ![image](images/proteinpaint/NSD2.svg)
 ## NSD2 Expression
 ![image](images/gene_expression/NSD2_by_pathology.svg)
+<!-- ORIGIN: beaLandscapeSomaticMutations2013 -->

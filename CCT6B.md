@@ -36,3 +36,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/C
 ![image](images/proteinpaint/CCT6B.svg)
 ## CCT6B Expression
 ![image](images/gene_expression/CCT6B_by_pathology.svg)
+<!-- ORIGIN: loveGeneticLandscapeMutations2012 -->

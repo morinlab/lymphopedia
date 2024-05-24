@@ -36,3 +36,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/H
 ![image](images/proteinpaint/HLA-C.svg)
 ## HLA-C Expression
 ![image](images/gene_expression/HLA-C_by_pathology.svg)
+<!-- ORIGIN: Unknown -->

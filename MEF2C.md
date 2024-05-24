@@ -49,3 +49,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/M
 
 ## References
 
+<!-- ORIGIN: arthurGenomewideDiscoverySomatic2018 -->

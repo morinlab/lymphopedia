@@ -33,3 +33,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/P
 ![image](images/proteinpaint/PMAIP1.svg)
 ## PMAIP1 Expression
 ![image](images/gene_expression/PMAIP1_by_pathology.svg)
+<!-- ORIGIN: Unknown -->

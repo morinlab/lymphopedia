@@ -36,3 +36,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/P
 ![image](images/proteinpaint/PTPRN.svg)
 ## PTPRN Expression
 ![image](images/gene_expression/PTPRN_by_pathology.svg)
+<!-- ORIGIN: loveGeneticLandscapeMutations2012 -->

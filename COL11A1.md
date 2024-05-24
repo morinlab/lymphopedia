@@ -34,3 +34,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/C
 ![image](images/proteinpaint/COL11A1.svg)
 ## COL11A1 Expression
 ![image](images/gene_expression/COL11A1_by_pathology.svg)
+<!-- ORIGIN: zhangGenomicLandscapeMantle2014 -->

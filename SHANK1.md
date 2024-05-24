@@ -36,3 +36,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/S
 ![image](images/proteinpaint/SHANK1.svg)
 ## SHANK1 Expression
 ![image](images/gene_expression/SHANK1_by_pathology.svg)
+<!-- ORIGIN: loveGeneticLandscapeMutations2012 -->

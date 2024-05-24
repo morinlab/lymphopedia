@@ -34,3 +34,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/H
 ![image](images/proteinpaint/HIST2H2BE.svg)
 ## HIST2H2BE Expression
 ![image](images/gene_expression/HIST2H2BE_by_pathology.svg)
+<!-- ORIGIN: schmitzGeneticsPathogenesisDiffuse2018a -->

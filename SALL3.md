@@ -38,3 +38,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/S
 ![image](images/proteinpaint/SALL3.svg)
 ## SALL3 Expression
 ![image](images/gene_expression/SALL3_by_pathology.svg)
+<!-- ORIGIN: loveGeneticLandscapeMutations2012 -->

@@ -36,3 +36,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/W
 ![image](images/proteinpaint/WDR90.svg)
 ## WDR90 Expression
 ![image](images/gene_expression/WDR90_by_pathology.svg)
+<!-- ORIGIN: schmitzBurkittLymphomaPathogenesis2012 -->

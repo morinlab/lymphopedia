@@ -34,3 +34,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/T
 ![image](images/proteinpaint/TBC1D26.svg)
 ## TBC1D26 Expression
 ![image](images/gene_expression/TBC1D26_by_pathology.svg)
+<!-- ORIGIN: zhangGenomicLandscapeMantle2014 -->

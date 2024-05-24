@@ -34,3 +34,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/D
 ![image](images/proteinpaint/DHDH.svg)
 ## DHDH Expression
 ![image](images/gene_expression/DHDH_by_pathology.svg)
+<!-- ORIGIN: zhangGenomicLandscapeMantle2014 -->

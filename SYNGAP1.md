@@ -36,3 +36,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/S
 ![image](images/proteinpaint/SYNGAP1.svg)
 ## SYNGAP1 Expression
 ![image](images/gene_expression/SYNGAP1_by_pathology.svg)
+<!-- ORIGIN: loveGeneticLandscapeMutations2012 -->

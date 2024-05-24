@@ -34,3 +34,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/O
 ![image](images/proteinpaint/OGDHL.svg)
 ## OGDHL Expression
 ![image](images/gene_expression/OGDHL_by_pathology.svg)
+<!-- ORIGIN: zhangGenomicLandscapeMantle2014 -->

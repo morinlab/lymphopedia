@@ -36,3 +36,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/C
 ![image](images/proteinpaint/CCNF.svg)
 ## CCNF Expression
 ![image](images/gene_expression/CCNF_by_pathology.svg)
+<!-- ORIGIN: abateDistinctViralMutational2015a -->

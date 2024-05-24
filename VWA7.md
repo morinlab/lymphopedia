@@ -36,3 +36,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/V
 ![image](images/proteinpaint/VWA7.svg)
 ## VWA7 Expression
 ![image](images/gene_expression/VWA7_by_pathology.svg)
+<!-- ORIGIN: schmitzBurkittLymphomaPathogenesis2012 -->

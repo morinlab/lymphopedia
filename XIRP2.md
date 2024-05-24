@@ -40,3 +40,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/X
 ![image](images/proteinpaint/XIRP2.svg)
 ## XIRP2 Expression
 ![image](images/gene_expression/XIRP2_by_pathology.svg)
+<!-- ORIGIN: russler-germainMutationsAssociatedProgression2023a -->

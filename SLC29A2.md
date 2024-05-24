@@ -36,3 +36,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/S
 ![image](images/proteinpaint/SLC29A2.svg)
 ## SLC29A2 Expression
 ![image](images/gene_expression/SLC29A2_by_pathology.svg)
+<!-- ORIGIN: loveGeneticLandscapeMutations2012 -->

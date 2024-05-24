@@ -30,3 +30,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/C
 ![image](images/proteinpaint/CARD4.svg)
 ## CARD4 Expression
 ![image](images/gene_expression/CARD4_by_pathology.svg)
+<!-- ORIGIN: loveGeneticLandscapeMutations2012 -->

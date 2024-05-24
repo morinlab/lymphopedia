@@ -36,3 +36,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/G
 ![image](images/proteinpaint/GRIK5.svg)
 ## GRIK5 Expression
 ![image](images/gene_expression/GRIK5_by_pathology.svg)
+<!-- ORIGIN: loveGeneticLandscapeMutations2012 -->

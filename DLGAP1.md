@@ -36,3 +36,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/D
 ![image](images/proteinpaint/DLGAP1.svg)
 ## DLGAP1 Expression
 ![image](images/gene_expression/DLGAP1_by_pathology.svg)
+<!-- ORIGIN: loveGeneticLandscapeMutations2012 -->

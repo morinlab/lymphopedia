@@ -40,3 +40,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/F
 2. *King, B., Trimarchi, T., Reavie, L., Xu, L., Mullenders, J., Ntziachristos, P., Aranda-Orgilles, B., Pérez-García, A., Shi, J., Vakoc, C., Sandy, P., Shen, S., Ferrando, A., & Aifantis, I. (2013). The Ubiquitin Ligase FBXW7 Modulates Leukemia-Initiating Cell Activity by Regulating MYC Stability. Cell, 153, 1552-1566. https://doi.org/10.1016/j.cell.2013.05.041.*
 ## FBXW7 Expression
 ![image](images/gene_expression/FBXW7_by_pathology.svg)
+<!-- ORIGIN: zhangGeneticHeterogeneityDiffuse2013 -->

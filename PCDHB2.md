@@ -34,3 +34,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/P
 ![image](images/proteinpaint/PCDHB2.svg)
 ## PCDHB2 Expression
 ![image](images/gene_expression/PCDHB2_by_pathology.svg)
+<!-- ORIGIN: zhangGenomicLandscapeMantle2014 -->

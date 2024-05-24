@@ -34,3 +34,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/S
 ![image](images/proteinpaint/SMARCB1.svg)
 ## SMARCB1 Expression
 ![image](images/gene_expression/SMARCB1_by_pathology.svg)
+<!-- ORIGIN: nadeuGenomicEpigenomicInsights2020a -->

@@ -36,3 +36,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/S
 ![image](images/proteinpaint/SP3.svg)
 ## SP3 Expression
 ![image](images/gene_expression/SP3_by_pathology.svg)
+<!-- ORIGIN: paneaWholeGenomeLandscape2019 -->

@@ -36,3 +36,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/P
 ![image](images/proteinpaint/POR.svg)
 ## POR Expression
 ![image](images/gene_expression/POR_by_pathology.svg)
+<!-- ORIGIN: loveGeneticLandscapeMutations2012 -->

@@ -40,3 +40,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/H
 ![image](images/proteinpaint/HLA-DMB.svg)
 ## HLA-DMB Expression
 ![image](images/gene_expression/HLA-DMB_by_pathology.svg)
+<!-- ORIGIN: Unknown -->

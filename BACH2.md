@@ -41,3 +41,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/B
 ![image](images/proteinpaint/BACH2.svg)
 ## BACH2 Expression
 ![image](images/gene_expression/BACH2_by_pathology.svg)
+<!-- ORIGIN: grandeGenomewideDiscoverySomatic2019 -->

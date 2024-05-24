@@ -30,3 +30,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/C
 ![image](images/proteinpaint/C6orf27.svg)
 ## C6orf27 Expression
 ![image](images/gene_expression/C6orf27_by_pathology.svg)
+<!-- ORIGIN: loveGeneticLandscapeMutations2012 -->

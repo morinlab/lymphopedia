@@ -36,3 +36,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/M
 ![image](images/proteinpaint/MME.svg)
 ## MME Expression
 ![image](images/gene_expression/MME_by_pathology.svg)
+<!-- ORIGIN: paneaWholeGenomeLandscape2019 -->

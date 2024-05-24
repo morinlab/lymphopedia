@@ -34,3 +34,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/F
 ![image](images/proteinpaint/FAM129B.svg)
 ## FAM129B Expression
 ![image](images/gene_expression/FAM129B_by_pathology.svg)
+<!-- ORIGIN: loveGeneticLandscapeMutations2012 -->

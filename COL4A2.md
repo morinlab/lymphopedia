@@ -36,3 +36,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/C
 ![image](images/proteinpaint/COL4A2.svg)
 ## COL4A2 Expression
 ![image](images/gene_expression/COL4A2_by_pathology.svg)
+<!-- ORIGIN: loveGeneticLandscapeMutations2012 -->

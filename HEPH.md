@@ -34,3 +34,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/H
 ![image](images/proteinpaint/HEPH.svg)
 ## HEPH Expression
 ![image](images/gene_expression/HEPH_by_pathology.svg)
+<!-- ORIGIN: zhangGenomicLandscapeMantle2014 -->

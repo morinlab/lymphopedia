@@ -34,3 +34,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/S
 ![image](images/proteinpaint/SMC1A.svg)
 ## SMC1A Expression
 ![image](images/gene_expression/SMC1A_by_pathology.svg)
+<!-- ORIGIN: zhangGenomicLandscapeMantle2014 -->

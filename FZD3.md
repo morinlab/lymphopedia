@@ -36,3 +36,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/F
 ![image](images/proteinpaint/FZD3.svg)
 ## FZD3 Expression
 ![image](images/gene_expression/FZD3_by_pathology.svg)
+<!-- ORIGIN: paneaWholeGenomeLandscape2019 -->

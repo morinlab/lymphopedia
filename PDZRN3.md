@@ -36,3 +36,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/P
 ![image](images/proteinpaint/PDZRN3.svg)
 ## PDZRN3 Expression
 ![image](images/gene_expression/PDZRN3_by_pathology.svg)
+<!-- ORIGIN: paneaWholeGenomeLandscape2019 -->

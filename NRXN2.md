@@ -36,3 +36,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/N
 ![image](images/proteinpaint/NRXN2.svg)
 ## NRXN2 Expression
 ![image](images/gene_expression/NRXN2_by_pathology.svg)
+<!-- ORIGIN: loveGeneticLandscapeMutations2012 -->

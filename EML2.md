@@ -36,3 +36,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/E
 ![image](images/proteinpaint/EML2.svg)
 ## EML2 Expression
 ![image](images/gene_expression/EML2_by_pathology.svg)
+<!-- ORIGIN: loveGeneticLandscapeMutations2012 -->
