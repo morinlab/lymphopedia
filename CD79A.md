@@ -43,4 +43,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/C
 ![image](images/proteinpaint/CD79A.svg)
 ## CD79A Expression
 ![image](images/gene_expression/CD79A_by_pathology.svg)
-<!-- ORIGIN: schmitzBurkittLymphomaPathogenesis2012 -->
+<!-- ORIGIN: burkhardtClinicalRelevanceMolecular2022b -->

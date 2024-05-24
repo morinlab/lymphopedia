@@ -41,4 +41,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/S
 ![image](images/proteinpaint/SIN3A.svg)
 ## SIN3A Expression
 ![image](images/gene_expression/SIN3A_by_pathology.svg)
-<!-- ORIGIN: grandeGenomewideDiscoverySomatic2019 -->
+<!-- ORIGIN: NA -->

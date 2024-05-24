@@ -36,4 +36,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/C
 ![image](images/proteinpaint/CPXM2.svg)
 ## CPXM2 Expression
 ![image](images/gene_expression/CPXM2_by_pathology.svg)
-<!-- ORIGIN: schmitzBurkittLymphomaPathogenesis2012 -->
+<!-- ORIGIN: burkhardtClinicalRelevanceMolecular2022b -->

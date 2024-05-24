@@ -41,4 +41,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/T
 ![image](images/proteinpaint/TRRAP.svg)
 ## TRRAP Expression
 ![image](images/gene_expression/TRRAP_by_pathology.svg)
-<!-- ORIGIN: Unknown -->
+<!-- ORIGIN: NA -->

@@ -36,4 +36,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/U
 ## UNC5D Expression
 ![image](images/gene_expression/UNC5D_by_pathology.svg)
 
-<!-- FLAGGED FOR TIER 2 --><!-- ORIGIN: Unknown -->
+<!-- ORIGIN: NA -->

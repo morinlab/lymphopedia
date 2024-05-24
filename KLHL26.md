@@ -36,4 +36,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/K
 ![image](images/proteinpaint/KLHL26.svg)
 ## KLHL26 Expression
 ![image](images/gene_expression/KLHL26_by_pathology.svg)
-<!-- ORIGIN: schmitzBurkittLymphomaPathogenesis2012 -->
+<!-- ORIGIN: burkhardtClinicalRelevanceMolecular2022b -->

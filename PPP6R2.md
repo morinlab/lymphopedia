@@ -36,4 +36,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/P
 ![image](images/proteinpaint/PPP6R2.svg)
 ## PPP6R2 Expression
 ![image](images/gene_expression/PPP6R2_by_pathology.svg)
-<!-- ORIGIN: schmitzBurkittLymphomaPathogenesis2012 -->
+<!-- ORIGIN: burkhardtClinicalRelevanceMolecular2022b -->

@@ -36,4 +36,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/Z
 ![image](images/proteinpaint/ZNF85.svg)
 ## ZNF85 Expression
 ![image](images/gene_expression/ZNF85_by_pathology.svg)
-<!-- ORIGIN: schmitzBurkittLymphomaPathogenesis2012 -->
+<!-- ORIGIN: burkhardtClinicalRelevanceMolecular2022b -->

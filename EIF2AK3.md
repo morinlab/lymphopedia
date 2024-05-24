@@ -34,4 +34,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/E
 ![image](images/proteinpaint/EIF2AK3.svg)
 ## EIF2AK3 Expression
 ![image](images/gene_expression/EIF2AK3_by_pathology.svg)
-<!-- ORIGIN: Unknown -->
+<!-- ORIGIN: NA -->

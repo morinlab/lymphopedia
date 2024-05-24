@@ -54,4 +54,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/P
 ![image](images/proteinpaint/POU2AF1.svg)
 ## POU2AF1 Expression
 ![image](images/gene_expression/POU2AF1_by_pathology.svg)
-<!-- ORIGIN: Unknown -->
+<!-- ORIGIN: NA -->

@@ -45,4 +45,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/M
 ![image](images/proteinpaint/MAP2K1.svg)
 ## MAP2K1 Expression
 ![image](images/gene_expression/MAP2K1_by_pathology.svg)
-<!-- ORIGIN: Unknown -->
+<!-- ORIGIN: shinBRAFV600EMAP2K12015 -->

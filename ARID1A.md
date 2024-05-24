@@ -45,4 +45,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/A
 ![image](images/proteinpaint/ARID1A.svg)
 ## ARID1A Expression
 ![image](images/gene_expression/ARID1A_by_pathology.svg)
-<!-- ORIGIN: zhangGeneticHeterogeneityDiffuse2013 -->
+<!-- ORIGIN: loveGeneticLandscapeMutations2012 -->

@@ -38,4 +38,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/R
 ![image](images/proteinpaint/RFX7.svg)
 ## RFX7 Expression
 ![image](images/gene_expression/RFX7_by_pathology.svg)
-<!-- ORIGIN: grandeGenomewideDiscoverySomatic2019 -->
+<!-- ORIGIN: NA -->

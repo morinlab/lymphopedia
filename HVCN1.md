@@ -54,4 +54,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/H
 1. *Krysiak, K., Gomez, F., White, B., Matlock, M., Miller, C., Trani, L., Fronick, C., Fulton, R., Kreisel, F., Cashen, A., Carson, K., Berrien-Elliott, M., Bartlett, N., Griffith, M., Griffith, O., & Fehniger, T. (2017). Recurrent somatic mutations affecting B-cell receptor signaling pathway genes in follicular lymphoma.. Blood, 129 4, 473-483 . https://doi.org/10.1182/blood-2016-07-729954.*
 ## HVCN1 Expression
 ![image](images/gene_expression/HVCN1_by_pathology.svg)
-<!-- ORIGIN: Unknown -->
+<!-- ORIGIN: NA -->

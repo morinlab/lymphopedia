@@ -56,4 +56,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/B
 3. *Baliñas-Gavira C, Rodríguez MI, Andrades A, Cuadros M, Álvarez-Pérez JC, Álvarez-Prado ÁF, de Yébenes VG, Sánchez-Hernández S, Fernández-Vigo E, Muñoz J, Martín F, Ramiro AR, Martínez-Climent JA, Medina PP. Frequent mutations in the amino-terminal domain of BCL7A impair its tumor suppressor role in DLBCL. Leukemia. 2020 Oct;34(10):2722-2735. doi: 10.1038/s41375-020-0919-5. Epub 2020 Jun 24. PMID: 32576963.*
 ## BCL7A Expression
 ![image](images/gene_expression/BCL7A_by_pathology.svg)
-<!-- ORIGIN: arthurGenomewideDiscoverySomatic2018 -->
+<!-- ORIGIN: krysiakRecurrentSomaticMutations2017b -->

@@ -51,4 +51,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/L
 ![image](images/gene_expression/LTB_by_pathology.svg)
 
 ## References
-<!-- ORIGIN: Unknown -->
+<!-- ORIGIN: chapuyMolecularSubtypesDiffuse2018b -->
