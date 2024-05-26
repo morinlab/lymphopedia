@@ -37,3 +37,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/A
 ## ADAMTS5 Expression
 ![image](images/gene_expression/ADAMTS5_by_pathology.svg)
 <!-- ORIGIN: burkhardtClinicalRelevanceMolecular2022b -->
+<!-- BL: burkhardtClinicalRelevanceMolecular2022b -->

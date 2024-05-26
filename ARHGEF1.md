@@ -36,4 +36,6 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/A
 ![image](images/proteinpaint/ARHGEF1.svg)
 ## ARHGEF1 Expression
 ![image](images/gene_expression/ARHGEF1_by_pathology.svg)
+
 <!-- ORIGIN: muppidiLossSignalingGa132014b -->
+<!-- BL: muppidiLossSignalingGa132014b -->
