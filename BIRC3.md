@@ -44,4 +44,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/B
 ![image](images/proteinpaint/BIRC3.svg)
 ## BIRC3 Expression
 ![image](images/gene_expression/BIRC3_by_pathology.svg)
-<!-- ORIGIN: beaLandscapeSomaticMutations2013 -->
+<!-- ORIGIN: rossiAlterationBIRC3Multiple2011a -->
+<!-- PMBL: dunsCharacterizationDLBCLPMBL2021b -->
+<!-- MZL: rossiAlterationBIRC3Multiple2011a -->
+<!-- MCL: beaLandscapeSomaticMutations2013 -->
+<!-- DLBCL: arthurGenomewideDiscoverySomatic2018 -->

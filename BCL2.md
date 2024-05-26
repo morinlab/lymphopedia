@@ -74,4 +74,8 @@ and BCL2 rearrangements-an LLMPP study. Blood. 2024. Epub May 3.*
 3. *Singh K, Briggs JM. Functional Implications of the spectrum of BCL2 mutations in Lymphoma. Mutat Res Rev Mutat Res. 2016 Jul-Sep;769:1-18. doi: 10.1016/j.mrrev.2016.06.001. Epub 2016 Jun 16. PMID: 27543313.*
 ## BCL2 Expression
 ![image](images/gene_expression/BCL2_by_pathology.svg)
-<!-- ORIGIN: tanakaFrequentIncidenceSomatic1992 -->
+<!-- ORIGIN: 1339299 -->
+<!-- FL: morinFrequentMutationHistonemodifying2011 -->
+<!-- BL: burkhardtClinicalRelevanceMolecular2022b -->
+<!-- BL: burkhardtClinicalRelevanceMolecular2022b -->
+<!-- DLBCL: tanakaFrequentIncidenceSomatic1992 -->

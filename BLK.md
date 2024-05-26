@@ -39,4 +39,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/B
 ![image](images/proteinpaint/BLK.svg)
 ## BLK Expression
 ![image](images/gene_expression/BLK_by_pathology.svg)
-<!-- ORIGIN: NA -->
+<!-- ORIGIN: Unknown -->

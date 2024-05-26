@@ -7,8 +7,8 @@ BRAF mutations, particularly the BRAF V600E hot spot mutation, are primarily ass
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|DLBCL |1   |high-confidence DLBCL gene            |
-|BL    |2   |relevance in BL not firmly established|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            |
+|![BL](images/icons/Tier2_BL.png)    |2   |relevance in BL not firmly established|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -66,3 +66,5 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/B
 2. *Lohr JG, Stojanov P, Lawrence MS, Auclair D, Chapuy B, Sougnez C, Cruz-Gordillo P, Knoechel B, Asmann YW, Slager SL, Novak AJ, Dogan A, Ansell SM, Link BK, Zou L, Gould J, Saksena G, Stransky N, Rangel-Escareño C, Fernandez-Lopez JC, Hidalgo-Miranda A, Melendez-Zajgla J, Hernández-Lemus E, Schwarz-Cruz y Celis A, Imaz-Rosshandler I, Ojesina AI, Jung J, Pedamallu CS, Lander ES, Habermann TM, Cerhan JR, Shipp MA, Getz G, Golub TR. Discovery and prioritization of somatic mutations in diffuse large B-cell lymphoma (DLBCL) by whole-exome sequencing. Proc Natl Acad Sci U S A. 2012 Mar 6;109(10):3879-84. doi: 10.1073/pnas.1121343109. Epub 2012 Feb 17. PMID: 22343534; PMCID: PMC3309757.*
 
 <!-- ORIGIN: tiacciBRAFMutationsHairycell2011a -->
+<!-- DLBCL: tiacciBRAFMutationsHairycell2011a -->
+<!-- BL: loveGeneticLandscapeMutations2012 -->
