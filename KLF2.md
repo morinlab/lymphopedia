@@ -65,3 +65,6 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/K
 3. *Wright GW, Huang DW, Phelan JD, Coulibaly ZA, Roulland S, Young RM, Wang JQ, Schmitz R, Morin RD, Tang J, Jiang A, Bagaev A, Plotnikova O, Kotlov N, Johnson CA, Wilson WH, Scott DW, Staudt LM. A Probabilistic Classification Tool for Genetic Subtypes of Diffuse Large B Cell Lymphoma with Therapeutic Implications. Cancer Cell. 2020 Apr 13;37(4):551-568.e14. doi: 10.1016/j.ccell.2020.03.015. PMID: 32289277; PMCID: PMC8459709.*
 
 <!-- ORIGIN: pasqualucciAnalysisCodingGenome2011 -->
+<!-- PMBL: deschGenotypingCirculatingTumor2020 -->
+<!-- DLBCL: pasqualucciAnalysisCodingGenome2011 -->
+<!-- MZL: jalladesExomeSequencingIdentifies2017 -->

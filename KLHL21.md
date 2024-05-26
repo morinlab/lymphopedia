@@ -43,3 +43,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/K
 ## KLHL21 Expression
 ![image](images/gene_expression/KLHL21_by_pathology.svg)
 <!-- ORIGIN: schmitzGeneticsPathogenesisDiffuse2018a -->
+<!-- DLBCL: schmitzGeneticsPathogenesisDiffuse2018a -->
