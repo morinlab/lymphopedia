@@ -79,3 +79,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/F
 ## FOXO1 Expression
 ![image](images/gene_expression/FOXO1_by_pathology.svg)
 <!-- ORIGIN: morinFrequentMutationHistonemodifying2011 -->
+<!-- BL: schmitzBurkittLymphomaPathogenesis2012 -->
+<!-- BL: schmitzBurkittLymphomaPathogenesis2012 -->
+<!-- FL: morinFrequentMutationHistonemodifying2011 -->
+<!-- DLBCL: morinFrequentMutationHistonemodifying2011 -->

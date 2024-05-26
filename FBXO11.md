@@ -2,6 +2,9 @@
 ## Overview
 Somatic mutations in FBXO11 are common in BL<sup>1,2</sup> and appear in a small number of DLBCLs.<sup>3</sup> This gene has some recurrent sites of mutations (hot spots). Mutations lead to stabilization of BCL6, an important transcriptional repressor involved in lymphomagenesis.<sup>4</sup> These mutations present a potential novel target for therapeutic intervention, particularly through strategies aimed at degrading BCL6 or inhibiting its function.<sup>4</sup>
 
+## History
+Mutations in this gene were first described in BL in 2015 by Pighi et al<sup>4</sup> and in DLBCL by Hübschmann et al.<sup>5</sup>
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description               |
@@ -69,4 +72,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/F
 5. *Hübschmann D, Kleinheinz K, Wagener R, Bernhart SH, López C, Toprak UH, Sungalee S, Ishaque N, Kretzmer H, Kreuz M, Waszak SM, Paramasivam N, Ammerpohl O, Aukema SM, Beekman R, Bergmann AK, Bieg M, Binder H, Borkhardt A, Borst C, Brors B, Bruns P, Carrillo de Santa Pau E, Claviez A, Doose G, Haake A, Karsch D, Haas S, Hansmann ML, Hoell JI, Hovestadt V, Huang B, Hummel M, Jäger-Schmidt C, Kerssemakers JNA, Korbel JO, Kube D, Lawerenz C, Lenze D, Martens JHA, Ott G, Radlwimmer B, Reisinger E, Richter J, Rico D, Rosenstiel P, Rosenwald A, Schillhabel M, Stilgenbauer S, Stadler PF, Martín-Subero JI, Szczepanowski M, Warsow G, Weniger MA, Zapatka M, Valencia A, Stunnenberg HG, Lichter P, Möller P, Loeffler M, Eils R, Klapper W, Hoffmann S, Trümper L; ICGC MMML-Seq consortium; ICGC DE-Mining consortium; BLUEPRINT consortium; Küppers R, Schlesner M, Siebert R. Mutational mechanisms shaping the coding and noncoding genome of germinal center derived B-cell lymphomas. Leukemia. 2021 Jul;35(7):2002-2016. doi: 10.1038/s41375-021-01251-z. Epub 2021 May 5. PMID: 33953289; PMCID: PMC8257491.*
 ## FBXO11 Expression
 ![image](images/gene_expression/FBXO11_by_pathology.svg)
-<!-- ORIGIN: hubschmannMutationalMechanismsShaping2021b -->
+<!-- ORIGIN: parryWholeExomeSequencing2013 -->
+<!-- BL: richterRecurrentMutationID32012a -->
+<!-- MZL: parryWholeExomeSequencing2013 -->
+<!-- DLBCL: hubschmannMutationalMechanismsShaping2021b -->

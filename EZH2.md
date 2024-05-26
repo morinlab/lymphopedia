@@ -6,9 +6,13 @@ EZH2 encodes a histone methyltransferase that is a component of the polycomb rep
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|DLBCL |1   |high-confidence DLBCL gene            |
-|FL    |1   |high-confidence FL gene               |
-|BL    |2   |relevance in BL not firmly established|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            |
+|![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene               |
+|![BL](images/icons/BL_tier2.png)    |2   |relevance in BL not firmly established|
+
+
+
+
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -71,3 +75,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/E
 4. *Thomas N, Dreval K, Gerhard DS, Hilton LK, Abramson JS, Ambinder RF, Barta S, Bartlett NL, Bethony J, Bhatia K, Bowen J, Bryan AC, Cesarman E, Casper C, Chadburn A, Cruz M, Dittmer DP, Dyer MA, Farinha P, Gastier-Foster JM, Gerrie AS, Grande BM, Greiner T, Griner NB, Gross TG, Harris NL, Irvin JD, Jaffe ES, Henry D, Huppi R, Leal FE, Lee MS, Martin JP, Martin MR, Mbulaiteye SM, Mitsuyasu R, Morris V, Mullighan CG, Mungall AJ, Mungall K, Mutyaba I, Nokta M, Namirembe C, Noy A, Ogwang MD, Omoding A, Orem J, Ott G, Petrello H, Pittaluga S, Phelan JD, Ramos JC, Ratner L, Reynolds SJ, Rubinstein PG, Sissolak G, Slack G, Soudi S, Swerdlow SH, Traverse-Glehen A, Wilson WH, Wong J, Yarchoan R, ZenKlusen JC, Marra MA, Staudt LM, Scott DW, Morin RD. Genetic subgroups inform on pathobiology in adult and pediatric Burkitt lymphoma. Blood. 2023 Feb 23;141(8):904-916. doi: 10.1182/blood.2022016534. PMID: 36201743; PMCID: PMC10023728.*
 
 <!-- ORIGIN: morinSomaticMutationsAltering2010 -->
+<!-- BL: loveGeneticLandscapeMutations2012 -->
+<!-- FL: morinSomaticMutationsAltering2010 -->
+<!-- BL: loveGeneticLandscapeMutations2012 -->
+<!-- DLBCL: morinSomaticMutationsAltering2010 -->
