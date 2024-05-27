@@ -3,12 +3,12 @@
 ID3 was first reported as mutated in BL in 2012 by Richter et al.<sup>1</sup> The existence of mutations in DLBCL were described in 2012 by Schmitz et al<sup>2</sup> and later in MZL by Spina et al.<sup>3</sup>
 
 ```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'base' } }%%
+%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
     timeline
-        title Timing of association with B-cell entities
-          2012 : BL
-          2012 : DLBCL
-          2016 : MZL
+        title Timing by entity
+          2012 : Richter : BL
+          2012 : Schmitz : DLBCL
+          2016 : Spina : MZL
 ```
 ## Relevance tier by entity
 
