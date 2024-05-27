@@ -4,7 +4,7 @@
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|BL    |2   |relevance in BL not firmly established|
+|![BL](images/icons/BL_tier2.png)    |2   |relevance in BL not firmly established|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -37,3 +37,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/C
 ## CDKN2C Expression
 ![image](images/gene_expression/CDKN2C_by_pathology.svg)
 <!-- ORIGIN: thomasGeneticSubgroupsInform2023 -->
+<!-- BL: thomasGeneticSubgroupsInform2023 -->

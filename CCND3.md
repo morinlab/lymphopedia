@@ -6,9 +6,9 @@ CCND3 (Cyclin D3) is a gene that encodes a protein involved in the regulation of
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
-|BL    |1   |high-confidence BL gene   |
-|DLBCL |1   |high-confidence DLBCL gene|
-|FL    |1   |high-confidence FL gene   |
+|![BL](images/icons/BL_tier1.png)    |1   |high-confidence BL gene   |
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene|
+|![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene   |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -91,3 +91,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/C
 ## CCND3 Expression
 ![image](images/gene_expression/CCND3_by_pathology.svg)
 <!-- ORIGIN: morinFrequentMutationHistonemodifying2011 -->
+<!-- FL: morinFrequentMutationHistonemodifying2011 -->
+<!-- BL: richterRecurrentMutationID32012a -->
+<!-- BL: richterRecurrentMutationID32012a -->
+<!-- DLBCL: morinFrequentMutationHistonemodifying2011 -->
+<!-- MZL: jalladesExomeSequencingIdentifies2017 -->

@@ -7,7 +7,7 @@ Mutations in this gene were first described in DLBCL in 2021 by Hübschmann et a
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|FL    |2   |relevance in FL not firmly established|
+|![FL](images/icons/FL_tier2.png)    |2   |relevance in FL not firmly established|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

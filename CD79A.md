@@ -4,7 +4,7 @@
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|BL    |2   |relevance in BL not firmly established|
+|![BL](images/icons/BL_tier2.png)    |2   |relevance in BL not firmly established|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -43,4 +43,6 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/C
 ![image](images/proteinpaint/CD79A.svg)
 ## CD79A Expression
 ![image](images/gene_expression/CD79A_by_pathology.svg)
-<!-- ORIGIN: burkhardtClinicalRelevanceMolecular2022b -->
+<!-- ORIGIN: rossiCodingGenomeSplenic2012c -->
+<!-- BL: burkhardtClinicalRelevanceMolecular2022b -->
+<!-- MZL: rossiCodingGenomeSplenic2012c -->

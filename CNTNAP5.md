@@ -1,4 +1,6 @@
 # CNTNAP5
+## History
+Mutations in this gene were first described in DLBCL in 2013 by Morin et al.<sup>1</sup>
 
 ## Relevance tier by entity
 
@@ -24,10 +26,6 @@
 |FL    |No  |No                   |2.893           |0.000           |
 
 
-> [!NOTE]
-> First described in DLBCL in 2013 by [Morin RD](https://pubmed.ncbi.nlm.nih.gov/23699601)
-
-
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CNTNAP5_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CNTNAP5_protein_hg38.html)
 
 ![image](images/proteinpaint/CNTNAP5_NM_130773.svg)
@@ -37,4 +35,10 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/C
 ![image](images/proteinpaint/CNTNAP5.svg)
 ## CNTNAP5 Expression
 ![image](images/gene_expression/CNTNAP5_by_pathology.svg)
+
+## References
+1.  Morin RD, Mungall K, Pleasance E, Mungall AJ, Goya R, Huff RD, Scott DW, Ding J, Roth A, Chiu R, Corbett RD, Chan FC, Mendez-Lago M, Trinh DL, Bolger-Munro M, Taylor G, Hadj Khodabakhshi A, Ben-Neriah S, Pon J, Meissner B, Woolcock B, Farnoud N, Rogic S, Lim EL, Johnson NA, Shah S, Jones S, Steidl C, Holt R, Birol I, Moore R, Connors JM, Gascoyne RD, Marra MA. Mutational and structural analysis of diffuse large B-cell lymphoma using whole-genome sequencing. Blood. 2013 Aug 15;122(7):1256–1265. PMCID: PMC3744992
+
+
 <!-- ORIGIN: morinMutationalStructuralAnalysis2013 -->
+<!-- DLBCL: morinMutationalStructuralAnalysis2013 -->

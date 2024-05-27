@@ -53,4 +53,6 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/P
 ![image](images/proteinpaint/PRDM1.svg)
 ## PRDM1 Expression
 ![image](images/gene_expression/PRDM1_by_pathology.svg)
-<!-- ORIGIN: morinMutationalStructuralAnalysis2013 -->
+<!-- ORIGIN: pasqualucciInactivationPRDM1BLIMP12006 -->
+<!-- DLBCL: pasqualucciInactivationPRDM1BLIMP12006 -->
+<!-- BL: 2 -->

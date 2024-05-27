@@ -2,13 +2,16 @@
 ## Overview
 Mutations in the GNAI2 gene, which encodes the G protein alpha subunit involved in signal transduction, have been identified as significant contributors to the pathogenesis of B-cell lymphomas, including BL, DLBCL and, to a lesser extent, FL.<sup>1</sup> Mutations in GNAI2, along with GNA13 and other small GTPases, affect the signaling pathways that regulate B-cell homing. These mutations are thought to cause aberrant localization and function of B-cells within lymphoid tissues.<sup>1</sup> The functional role of these mutations has not been studied as extensively as those in GNA13 and further work is needed to elucidate the specific role of these mutations in lymphomagenesis. 
 
+## History
+Mutations were first described in DLBCL in 2013 by Morin et al<sup>1</sup> and in BL in 2019 by Grande et al.<sup>2</sup>
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
-|BL    |1   |high-confidence BL gene   |
-|DLBCL |1   |high-confidence DLBCL gene|
-|FL    |1   |high-confidence FL gene   |
+|![BL](images/icons/BL_tier1.png)    |1   |high-confidence BL gene   |
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene|
+|![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene   |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -30,10 +33,6 @@ Mutations in the GNAI2 gene, which encodes the G protein alpha subunit involved 
 |BL    |No  |Yes                  |18.304          | 0.000          |
 |DLBCL |No  |Yes                  |32.161          |57.623          |
 |FL    |No  |Yes                  |55.205          | 0.000          |
-
-
-> [!NOTE]
-> First described in BL in 2019 by [Grande BM](https://pubmed.ncbi.nlm.nih.gov/30617194). First described in DLBCL in 2013 by [Morin RD](https://pubmed.ncbi.nlm.nih.gov/23699601)
 
 
  ## GNAI2 Hotspots
@@ -60,8 +59,14 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/G
 
 ![image](images/proteinpaint/GNAI2.svg)
 
-## References
-1. *Morin RD, Mungall K, Pleasance E, Mungall AJ, Goya R, Huff RD, Scott DW, Ding J, Roth A, Chiu R, Corbett RD, Chan FC, Mendez-Lago M, Trinh DL, Bolger-Munro M, Taylor G, Hadj Khodabakhshi A, Ben-Neriah S, Pon J, Meissner B, Woolcock B, Farnoud N, Rogic S, Lim EL, Johnson NA, Shah S, Jones S, Steidl C, Holt R, Birol I, Moore R, Connors JM, Gascoyne RD, Marra MA. Mutational and structural analysis of diffuse large B-cell lymphoma using whole-genome sequencing. Blood. 2013 Aug 15;122(7):1256-65. doi: 10.1182/blood-2013-02-483727. Epub 2013 May 22. PMID: 23699601; PMCID: PMC3744992.*
 ## GNAI2 Expression
 ![image](images/gene_expression/GNAI2_by_pathology.svg)
+
+## References
+1.  *Morin RD, Mungall K, Pleasance E, Mungall AJ, Goya R, Huff RD, Scott DW, Ding J, Roth A, Chiu R, Corbett RD, Chan FC, Mendez-Lago M, Trinh DL, Bolger-Munro M, Taylor G, Hadj Khodabakhshi A, Ben-Neriah S, Pon J, Meissner B, Woolcock B, Farnoud N, Rogic S, Lim EL, Johnson NA, Shah S, Jones S, Steidl C, Holt R, Birol I, Moore R, Connors JM, Gascoyne RD, Marra MA. Mutational and structural analysis of diffuse large B-cell lymphoma using whole-genome sequencing. Blood. 2013 Aug 15;122(7):1256–1265. PMCID: PMC3744992*
+
+2.  *Grande BM, Gerhard DS, Jiang A, Griner NB, Abramson JS, Alexander TB, Allen H, Ayers LW, Bethony JM, Bhatia K, Bowen J, Casper C, Choi JK, Culibrk L, Davidsen TM, Dyer MA, Gastier-Foster JM, Gesuwan P, Greiner TC, Gross TG, Hanf B, Harris NL, He Y, Irvin JD, Jaffe ES, Jones SJM, Kerchan P, Knoetze N, Leal FE, Lichtenberg TM, Ma Y, Martin JP, Martin MR, Mbulaiteye SM, Mullighan CG, Mungall AJ, Namirembe C, Novik K, Noy A, Ogwang MD, Omoding A, Orem J, Reynolds SJ, Rushton CK, Sandlund JT, Schmitz R, Taylor C, Wilson WH, Wright GW, Zhao EY, Marra MA, Morin RD, Staudt LM. Genome-wide discovery of somatic coding and noncoding mutations in pediatric endemic and sporadic Burkitt lymphoma. Blood. 2019 Mar 21;133(12):1313–1324.* 
+
 <!-- ORIGIN: morinMutationalStructuralAnalysis2013 -->
+<!-- DLBCL: morinMutationalStructuralAnalysis2013 -->
+<!-- BL: grandeGenomewideDiscoverySomatic2019 -->

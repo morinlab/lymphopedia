@@ -7,8 +7,8 @@ ACTB is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) 
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
-|DLBCL |1-a   |high-confidence DLBCL gene, hypermutated|
-|FL    |1-a   |high-confidence FL gene, hypermutated   |
+|![DLBCL](images/icons/DLBCL_tier1.png) |1-a   |high-confidence DLBCL gene, hypermutated|
+|![FL](images/icons/FL_tier1.png)    |1-a   |high-confidence FL gene, hypermutated   |
 
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)

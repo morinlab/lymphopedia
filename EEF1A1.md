@@ -2,6 +2,10 @@
 ## Overview
 Mutations in the EEF1A1 gene, which encodes the eukaryotic translation elongation factor 1A1, have been reported in DLBCL and FL.<sup>1</sup> This gene has some recurrent sites of mutations (hot spots). The mutation pattern in DLBCL and FL implies the preferential accumulation of *inactivating mutations*. Paradoxically, one study showed that EEF1A1 knock down reduced proliferation in vitro and in xenograft experiments.<sup>2</sup>
 
+## History
+Mutations in this gene were first described in DLBCL and FL in 2021 by Hübschmann et al.<sup>1</sup>
+
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description                           |
@@ -55,4 +59,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/E
 2. *Gong T, Shuang Y. Expression and Clinical Value of Eukaryotic Translation Elongation Factor 1A1 (EEF1A1) in Diffuse Large B Cell Lymphoma. Int J Gen Med. 2021 Oct 27;14:7247-7258. doi: 10.2147/IJGM.S324645. PMID: 34737619; PMCID: PMC8559353.*
 ## EEF1A1 Expression
 ![image](images/gene_expression/EEF1A1_by_pathology.svg)
-<!-- ORIGIN: hubschmannMutationalMechanismsShaping2021b -->
+<!-- ORIGIN: reichelFlowSortingExome2015a -->
+<!-- DLBCL: hubschmannMutationalMechanismsShaping2021b -->
+<!-- FL: hubschmannMutationalMechanismsShaping2021b -->
+<!-- PMBL: reichelFlowSortingExome2015a -->

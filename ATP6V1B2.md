@@ -4,7 +4,7 @@
 
 |Entity|Tier|Description            |
 |:------:|:----:|-----------------------|
-|FL    |1   |high-confidence FL gene|
+|![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

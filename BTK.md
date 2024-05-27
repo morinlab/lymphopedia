@@ -42,3 +42,5 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/B
 ## BTK Expression
 ![image](images/gene_expression/BTK_by_pathology.svg)
 <!-- ORIGIN: albuquerqueEnhancingKnowledgeDiscovery2017a -->
+<!-- FL: krysiakRecurrentSomaticMutations2017b -->
+<!-- DLBCL: albuquerqueEnhancingKnowledgeDiscovery2017a -->
