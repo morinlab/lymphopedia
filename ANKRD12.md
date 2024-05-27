@@ -7,11 +7,9 @@ Here is a simple flow chart:
 
 ```mermaid
 timeline
-    2002-01-01 : LinkedIn
-    2002-01-31 : Facebook
-    2003 : Google
-    2005-09-09 : Youtube
-    2006 : Twitter
+    2002-01-01 : MCL
+    2002-01-31 : FL : DLBCL
+    2006 : MZL
 ```
 
 ## Relevance tier by entity
