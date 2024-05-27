@@ -2,6 +2,16 @@
 ## History
 Mutations in this gene were first described in MZL by Braggio et al,<sup>1</sup> then in MCL by Bea et al.<sup>2</sup> ATM mutations were later described in DLBCL by Reddy et al.<sup>3</sup>
 
+
+```mermaid
+%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
+    timeline
+        title Publication timing
+          2012 : Braggio : MZL
+          2013 : Beà : MCL
+          2017 : Reddy : DLBCL
+```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description               |
