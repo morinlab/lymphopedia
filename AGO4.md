@@ -23,9 +23,6 @@
 |FL    |No  |No                   |0.000           | 0.000          |
 
 
-> [!NOTE]
-> First described in BL in 2022 by [Burkhardt B](https://pubmed.ncbi.nlm.nih.gov/35794096)
-
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/AGO4_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/AGO4_protein_hg38.html)
 

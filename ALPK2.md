@@ -23,9 +23,6 @@
 |FL    |No  |No                   |1.538           |0               |
 
 
-> [!NOTE]
-> First described in BL in 2019 by [Panea RI](https://pubmed.ncbi.nlm.nih.gov/31558468)
-
 
  ## ALPK2 Hotspots
 

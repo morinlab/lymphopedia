@@ -23,9 +23,6 @@
 |FL    |No  |No                   |3.865           |0.000           |
 
 
-> [!NOTE]
-> First described in BL in 2014 by [Muppidi JR](https://pubmed.ncbi.nlm.nih.gov/25274307)
-
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ARHGEF1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ARHGEF1_protein_hg38.html)
 
