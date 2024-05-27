@@ -7,9 +7,10 @@ ARID1A (AT-rich interactive domain-containing protein 1A) is a gene that encodes
 > Mutations in this gene were first described in BL in 2012 by [Love C](https://pubmed.ncbi.nlm.nih.gov/23143597) and first described in DLBCL in 2013 by [Zhang J](https://pubmed.ncbi.nlm.nih.gov/23292937)
 
 ## Relevance tier by entity
-
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
+|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene|
+|![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene|
 |![BL](images/icons/BL_tier1.png)    |1   |high-confidence BL gene   |
 |![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene|
 |![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene   |

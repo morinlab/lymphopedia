@@ -8,8 +8,11 @@ Mutations in this gene were first described in DLBCL and FL in 2021 by Hübschma
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
+|![PMBL](images/icons/PMBL_tier2.png)|2|relevance in PMBL/cHL/GZL not firmly established|
+|![MZL](images/icons/MZL_tier2.png)|2|relevance in MZL not firmly established|
+|![FL](images/icons/FL_tier2.png)|2|relevance in FL not firmly established|
 |![DLBCL](images/icons/DLBCL_tier1.png) |1-a | aSHM target and high-confidence DLBCL gene            |
-|![DLBCL](images/icons/FL_tier2.png)    |2-a | aSHM target; Although recurrent, the relevance of mutations in FL is tenuous |
+
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

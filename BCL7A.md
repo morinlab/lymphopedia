@@ -11,6 +11,8 @@ Mutations in this gene were first described in FL in 2017 by Krysiak et al.<sup>
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
+|![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene|
+|![PMBL](images/icons/PMBL_tier2.png)|2|relevance in PMBL/cHL/GZL not firmly established|
 |![DLBCL](images/icons/DLBCL_tier1.png) |1-a | aSHM target and high-confidence DLBCL gene            |
 |![FL](images/icons/FL_tier1.png)    |1-a | aSHM target and high-confidence FL gene               |
 |![BL](images/icons/BL_tier2.png)    |2-a | aSHM target; Although recurrent, the relevance of mutations in BL is tenuous |
