@@ -1,7 +1,15 @@
 # ID3
 ## History
 ID3 was first reported as mutated in BL in 2012 by Richter et al.<sup>1</sup> The existence of mutations in DLBCL were described in 2012 by Schmitz et al<sup>2</sup> and later in MZL by Spina et al.<sup>3</sup>
- 
+
+```mermaid
+%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
+    timeline
+        title Publication timing
+          2012-10-04 : Schmitz : DLBCL
+          2012-11-11 : Richter : BL
+          2016 : Spina : MZL
+```
 ## Relevance tier by entity
 
 |Entity|Tier|Description                              |
