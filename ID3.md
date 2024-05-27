@@ -5,9 +5,9 @@ ID3 was first reported as mutated in BL in 2012 by Richter et al.<sup>1</sup> Th
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
     timeline
-        title Timing by entity
-          2012 : Richter : BL
-          2012 : Schmitz : DLBCL
+        title Publication timing
+          2012-10-04 : Schmitz : DLBCL
+          2012-11-11 : Richter : BL
           2016 : Spina : MZL
 ```
 ## Relevance tier by entity
