@@ -4,7 +4,7 @@
 
 |Entity|Tier|Description                              |
 |:------:|:----:|-----------------------------------------|
-|DLBCL |2   |relevance in DLBCL not firmly established|
+|![DLBCL](images/icons/DLBCL_tier2.png) |2   |relevance in DLBCL not firmly established|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -46,3 +46,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/T
 ## TRAF6 Expression
 ![image](images/gene_expression/TRAF6_by_pathology.svg)
 <!-- ORIGIN: hubschmannMutationalMechanismsShaping2021b -->
+<!-- DLBCL: hubschmannMutationalMechanismsShaping2021b -->

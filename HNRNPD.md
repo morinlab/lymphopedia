@@ -6,8 +6,8 @@ hnRNPs are a family of RNA-binding proteins that play crucial roles in RNA proce
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|DLBCL |1   |high-confidence DLBCL gene            |
-|FL    |2   |relevance in FL not firmly established|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            |
+|![FL](images/icons/FL_tier2.png)    |2   |relevance in FL not firmly established|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

@@ -4,7 +4,7 @@
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
-|DLBCL |1   |high-confidence DLBCL gene|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -38,3 +38,5 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/T
 ## TAF1 Expression
 ![image](images/gene_expression/TAF1_by_pathology.svg)
 <!-- ORIGIN: morinMutationalStructuralAnalysis2013 -->
+<!-- MZL: spinaGeneticsNodalMarginal2016b -->
+<!-- DLBCL: morinMutationalStructuralAnalysis2013 -->

@@ -4,7 +4,7 @@
 
 |Entity|Tier|Description                              |
 |:------:|:----:|-----------------------------------------|
-|DLBCL |2   |relevance in DLBCL not firmly established|
+|![DLBCL](images/icons/DLBCL_tier2.png) |2   |relevance in DLBCL not firmly established|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -29,3 +29,4 @@
 ## IER2 Expression
 ![image](images/gene_expression/IER2_by_pathology.svg)
 <!-- ORIGIN: morinMutationalStructuralAnalysis2013 -->
+<!-- DLBCL: morinMutationalStructuralAnalysis2013 -->

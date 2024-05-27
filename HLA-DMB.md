@@ -6,8 +6,8 @@ HLA-DMB, along with HLA-DMA, plays a critical role in the proper functioning of 
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|BL    |2   |relevance in BL not firmly established|
-|DLBCL |1   |high-confidence DLBCL gene            |
+|![BL](images/icons/BL_tier2.png)    |2   |relevance in BL not firmly established|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -40,5 +40,3 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/H
 ![image](images/proteinpaint/HLA-DMB.svg)
 ## HLA-DMB Expression
 ![image](images/gene_expression/HLA-DMB_by_pathology.svg)
-<!-- ORIGIN: Unknown -->
-<!-- BL: 2 -->

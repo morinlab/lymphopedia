@@ -4,16 +4,12 @@
 
 |Entity|Tier|Description                              |
 |:------:|:----:|-----------------------------------------|
-|BL    |2-a | aSHM target; Although recurrent, the relevance of mutations in BL is tenuous    |
-|DLBCL |2-a | aSHM target; Although recurrent, the relevance of mutations in DLBCL is tenuous |
+|![DLBCL](images/icons/DLBCL_tier2.png) |2-a | aSHM target; Although recurrent, the relevance of mutations in DLBCL is tenuous |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
 |Entity|source               |frequency (%)|
 |:------:|:---------------------:|:-------------:|
-|BL    |GAMBL genomes+capture|2.08         |
-|BL    |Thomas cohort        |1.30         |
-|BL    |Panea cohort         |4.00         |
 |DLBCL |GAMBL genomes        |2.49         |
 |DLBCL |Schmitz cohort       |3.40         |
 |DLBCL |Reddy cohort         |3.00         |

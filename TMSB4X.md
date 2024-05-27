@@ -6,17 +6,13 @@ TMSB4X is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|BL    |2-a | aSHM target; Although recurrent, the relevance of mutations in BL is tenuous |
-|DLBCL |1-a | aSHM target and high-confidence DLBCL gene            |
-|FL    |1-a | aSHM target and high-confidence FL gene               |
+|![DLBCL](images/icons/DLBCL_tier1.png) |1-a | aSHM target and high-confidence DLBCL gene            |
+|![FL](images/icons/FL_tier1.png)    |1-a | aSHM target and high-confidence FL gene               |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
 |Entity|source               |frequency (%)|
 |:------:|:---------------------:|:-------------:|
-|BL    |GAMBL genomes+capture| 0.69        |
-|BL    |Thomas cohort        | 0.00        |
-|BL    |Panea cohort         | 2.00        |
 |DLBCL |GAMBL genomes        |12.43        |
 |DLBCL |Schmitz cohort       |20.85        |
 |DLBCL |Reddy cohort         |13.11        |
@@ -51,3 +47,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/T
 ## TMSB4X Expression
 ![image](images/gene_expression/TMSB4X_by_pathology.svg)
 <!-- ORIGIN: albuquerqueEnhancingKnowledgeDiscovery2017a -->
+<!-- DLBCL: albuquerqueEnhancingKnowledgeDiscovery2017a -->

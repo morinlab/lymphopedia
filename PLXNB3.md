@@ -4,7 +4,7 @@
 
 |Entity|Tier|Description                            |
 |:------:|:----:|---------------------------------------|
-|MCL   |2   |relevance in MCL not firmly established|
+|![MCL](images/icons/MCL_tier2.png)   |2   |relevance in MCL not firmly established|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -35,3 +35,5 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/P
 ## PLXNB3 Expression
 ![image](images/gene_expression/PLXNB3_by_pathology.svg)
 <!-- ORIGIN: zhangGenomicLandscapeMantle2014 -->
+<!-- MCL: zhangGenomicLandscapeMantle2014 -->
+<!-- MZL: spinaGeneticsNodalMarginal2016b -->

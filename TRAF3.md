@@ -4,7 +4,7 @@
 
 |Entity|Tier|Description                              |
 |:------:|:----:|-----------------------------------------|
-|DLBCL |2   |relevance in DLBCL not firmly established|
+|![DLBCL](images/icons/DLBCL_tier2.png) |2   |relevance in DLBCL not firmly established|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -37,4 +37,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/T
 ![image](images/proteinpaint/TRAF3.svg)
 ## TRAF3 Expression
 ![image](images/gene_expression/TRAF3_by_pathology.svg)
-<!-- ORIGIN: pasqualucciAnalysisCodingGenome2011 -->
+<!-- ORIGIN: rossiAlterationBIRC3Multiple2011a -->
+<!-- MZL: rossiAlterationBIRC3Multiple2011a -->
+<!-- DLBCL: pasqualucciAnalysisCodingGenome2011 -->
+<!-- PMBL: ottoGeneticLesionsTRAF32012a -->

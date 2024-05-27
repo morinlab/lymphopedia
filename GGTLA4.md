@@ -4,7 +4,7 @@
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|BL    |2   |relevance in BL not firmly established|
+|![BL](images/icons/BL_tier2.png)    |2   |relevance in BL not firmly established|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -31,3 +31,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/G
 ## GGTLA4 Expression
 ![image](images/gene_expression/GGTLA4_by_pathology.svg)
 <!-- ORIGIN: loveGeneticLandscapeMutations2012 -->
+<!-- BL: loveGeneticLandscapeMutations2012 -->

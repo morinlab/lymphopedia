@@ -6,9 +6,9 @@ Mutations in GNA13, which encodes a G protein alpha subunit involved in multiple
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
-|BL    |1   |high-confidence BL gene   |
-|DLBCL |1   |high-confidence DLBCL gene|
-|FL    |1   |high-confidence FL gene   |
+|![BL](images/icons/BL_tier1.png)    |1   |high-confidence BL gene   |
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene|
+|![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene   |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -63,3 +63,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/G
 2. *Muppidi JR, Schmitz R, Green JA, Xiao W, Larsen AB, Braun SE, An J, Xu Y, Rosenwald A, Ott G, Gascoyne RD, Rimsza LM, Campo E, Jaffe ES, Delabie J, Smeland EB, Braziel RM, Tubbs RR, Cook JR, Weisenburger DD, Chan WC, Vaidehi N, Staudt LM, Cyster JG. Loss of signalling via Gα13 in germinal centre B-cell-derived lymphoma. Nature. 2014 Dec 11;516(7530):254-8. doi: 10.1038/nature13765. Epub 2014 Sep 28. PMID: 25274307; PMCID: PMC4267955.*
 3. *Morin RD, Mendez-Lago M, Mungall AJ, Goya R, Mungall KL, Corbett RD, Johnson NA, Severson TM, Chiu R, Field M, Jackman S, Krzywinski M, Scott DW, Trinh DL, Tamura-Wells J, Li S, Firme MR, Rogic S, Griffith M, Chan S, Yakovenko O, Meyer IM, Zhao EY, Smailus D, Moksa M, Chittaranjan S, Rimsza L, Brooks-Wilson A, Spinelli JJ, Ben-Neriah S, Meissner B, Woolcock B, Boyle M, McDonald H, Tam A, Zhao Y, Delaney A, Zeng T, Tse K, Butterfield Y, Birol I, Holt R, Schein J, Horsman DE, Moore R, Jones SJ, Connors JM, Hirst M, Gascoyne RD, Marra MA. Frequent mutation of histone-modifying genes in non-Hodgkin lymphoma. Nature. 2011 Jul 27;476(7360):298-303. doi: 10.1038/nature10351. PMID: 21796119; PMCID: PMC3210554.*
 <!-- ORIGIN: morinFrequentMutationHistonemodifying2011 -->
+<!-- BL: loveGeneticLandscapeMutations2012 -->
+<!-- FL: morinFrequentMutationHistonemodifying2011 -->
+<!-- BL: loveGeneticLandscapeMutations2012 -->
+<!-- DLBCL: morinFrequentMutationHistonemodifying2011 -->

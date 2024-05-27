@@ -4,16 +4,12 @@
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|BL    |2   |relevance in BL not firmly established|
-|DLBCL |1   |high-confidence DLBCL gene            |
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
 |Entity|source               |frequency (%)|
 |:------:|:---------------------:|:-------------:|
-|BL    |GAMBL genomes+capture|2.08         |
-|BL    |Thomas cohort        |0.80         |
-|BL    |Panea cohort         |5.90         |
 |DLBCL |GAMBL genomes        |4.21         |
 |DLBCL |Schmitz cohort       |5.53         |
 |DLBCL |Reddy cohort         |4.00         |
@@ -48,3 +44,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/T
 ## TOX Expression
 ![image](images/gene_expression/TOX_by_pathology.svg)
 <!-- ORIGIN: reddyGeneticFunctionalDrivers2017 -->
+<!-- DLBCL: reddyGeneticFunctionalDrivers2017 -->

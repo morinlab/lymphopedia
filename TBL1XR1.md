@@ -4,17 +4,13 @@
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|BL    |2   |relevance in BL not firmly established|
-|DLBCL |1   |high-confidence DLBCL gene            |
-|FL    |1   |high-confidence FL gene               |
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            |
+|![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene               |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
 |Entity|source               |frequency (%)|
 |:------:|:---------------------:|:-------------:|
-|BL    |GAMBL genomes+capture| 6.00        |
-|BL    |Thomas cohort        | 4.70        |
-|BL    |Panea cohort         | 7.90        |
 |DLBCL |GAMBL genomes        | 8.60        |
 |DLBCL |Schmitz cohort       |12.77        |
 |DLBCL |Reddy cohort         | 5.71        |
@@ -56,4 +52,6 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/T
 ![image](images/proteinpaint/TBL1XR1.svg)
 ## TBL1XR1 Expression
 ![image](images/gene_expression/TBL1XR1_by_pathology.svg)
-<!-- ORIGIN: mareschalWholeExomeSequencing2016 -->
+<!-- ORIGIN: rossiCodingGenomeSplenic2012c -->
+<!-- MZL: rossiCodingGenomeSplenic2012c -->
+<!-- DLBCL: mareschalWholeExomeSequencing2016 -->

@@ -6,9 +6,9 @@ S1PR2 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm)
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|BL    |2-a | aSHM target; Although recurrent, the relevance of mutations in BL is tenuous |
-|DLBCL |1-a | aSHM target and high-confidence DLBCL gene            |
-|FL    |1-a | aSHM target and high-confidence FL gene               |
+|![BL](images/icons/BL_tier2.png)    |2-a | aSHM target; Although recurrent, the relevance of mutations in BL is tenuous |
+|![DLBCL](images/icons/DLBCL_tier1.png) |1-a | aSHM target and high-confidence DLBCL gene            |
+|![FL](images/icons/FL_tier1.png)    |1-a | aSHM target and high-confidence FL gene               |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -50,4 +50,6 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/S
 ![image](images/proteinpaint/S1PR2.svg)
 ## S1PR2 Expression
 ![image](images/gene_expression/S1PR2_by_pathology.svg)
-<!-- ORIGIN: morinFrequentMutationHistonemodifying2011 -->
+<!-- ORIGIN: 21796119 -->
+<!-- BL: muppidiLossSignalingGa132014b -->
+<!-- DLBCL: morinFrequentMutationHistonemodifying2011 -->

@@ -4,16 +4,12 @@
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|BL    |2   |relevance in BL not firmly established|
-|DLBCL |1   |high-confidence DLBCL gene            |
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
 |Entity|source               |frequency (%)|
 |:------:|:---------------------:|:-------------:|
-|BL    |GAMBL genomes+capture|0.92         |
-|BL    |Thomas cohort        |0.00         |
-|BL    |Panea cohort         |1.00         |
 |DLBCL |GAMBL genomes        |7.07         |
 |DLBCL |Schmitz cohort       |9.36         |
 |DLBCL |Reddy cohort         |3.60         |
@@ -50,3 +46,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/S
 ## STAT3 Expression
 ![image](images/gene_expression/STAT3_by_pathology.svg)
 <!-- ORIGIN: ohgamiSTAT3MutationsAre2014 -->
+<!-- DLBCL: ohgamiSTAT3MutationsAre2014 -->

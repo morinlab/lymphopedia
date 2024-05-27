@@ -6,8 +6,8 @@ Non-coding mutations, including synonymous and intronic mutations,  are enriched
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
-|DLBCL |1   |high-confidence DLBCL gene|
-|MCL   |1   |high-confidence MCL gene  |
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene|
+|![MCL](images/icons/MCL_tier1.png)   |1   |high-confidence MCL gene  |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -51,3 +51,5 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/H
 
 <!-- NONCODING -->
 <!-- ORIGIN: pararajalingamCodingNoncodingDrivers2020 -->
+<!-- MCL: pararajalingamCodingNoncodingDrivers2020 -->
+<!-- DLBCL: pararajalingamCodingNoncodingDrivers2020 -->

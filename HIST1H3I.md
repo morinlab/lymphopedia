@@ -4,8 +4,8 @@
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|BL    |2   |relevance in BL not firmly established|
-|FL    |2   |relevance in FL not firmly established|
+|![BL](images/icons/BL_tier2.png)    |2   |relevance in BL not firmly established|
+|![FL](images/icons/FL_tier2.png)    |2   |relevance in FL not firmly established|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -39,3 +39,5 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/H
 ## HIST1H3I Expression
 ![image](images/gene_expression/HIST1H3I_by_pathology.svg)
 <!-- ORIGIN: krysiakRecurrentSomaticMutations2017b -->
+<!-- FL: krysiakRecurrentSomaticMutations2017b -->
+<!-- BL: paneaWholeGenomeLandscape2019 -->

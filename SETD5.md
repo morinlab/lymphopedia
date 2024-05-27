@@ -4,7 +4,7 @@
 
 |Entity|Tier|Description                              |
 |:------:|:----:|-----------------------------------------|
-|DLBCL |2   |relevance in DLBCL not firmly established|
+|![DLBCL](images/icons/DLBCL_tier2.png) |2   |relevance in DLBCL not firmly established|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -41,3 +41,5 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/S
 ## SETD5 Expression
 ![image](images/gene_expression/SETD5_by_pathology.svg)
 <!-- ORIGIN: reddyGeneticFunctionalDrivers2017 -->
+<!-- DLBCL: reddyGeneticFunctionalDrivers2017 -->
+<!-- PMBL: tiacciPervasiveMutationsJAKSTAT2018b -->

@@ -4,8 +4,8 @@
 
 |Entity|Tier|Description                              |
 |:------:|:----:|-----------------------------------------|
-|BL    |2   |relevance in BL not firmly established   |
-|DLBCL |2   |relevance in DLBCL not firmly established|
+|![BL](images/icons/BL_tier2.png)    |2   |relevance in BL not firmly established   |
+|![DLBCL](images/icons/DLBCL_tier2.png) |2   |relevance in DLBCL not firmly established|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -42,3 +42,5 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/P
 ## PIK3R1 Expression
 ![image](images/gene_expression/PIK3R1_by_pathology.svg)
 <!-- ORIGIN: zhangGeneticHeterogeneityDiffuse2013 -->
+<!-- DLBCL: zhangGeneticHeterogeneityDiffuse2013 -->
+<!-- BL: paneaWholeGenomeLandscape2019 -->

@@ -7,8 +7,8 @@ DUSP2 functions as a negative regulator of MAPK signaling, particularly affectin
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|DLBCL |1-a | aSHM target and high-confidence DLBCL gene            |
-|FL    |2-a | aSHM target; Although recurrent, the relevance of mutations in FL is tenuous |
+|![DLBCL](images/icons/DLBCL_tier1.png) |1-a | aSHM target and high-confidence DLBCL gene            |
+|![FL](images/icons/FL_tier2.png)    |2-a | aSHM target; Although recurrent, the relevance of mutations in FL is tenuous |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -68,3 +68,5 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/D
 ## DUSP2 Expression
 ![image](images/gene_expression/DUSP2_by_pathology.svg)
 <!-- ORIGIN: morinMutationalStructuralAnalysis2013 -->
+<!-- PMBL: dunsCharacterizationDLBCLPMBL2021b -->
+<!-- DLBCL: morinMutationalStructuralAnalysis2013 -->

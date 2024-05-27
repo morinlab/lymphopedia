@@ -6,9 +6,8 @@ FAS encodes a cell surface receptor involved in the induction of apoptosis. FAS 
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|DLBCL |1   |high-confidence DLBCL gene            |
-|FL    |1   |high-confidence FL gene               |
-|BL    |2   |relevance in BL not firmly established|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            |
+|![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene               |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -50,3 +49,5 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/F
 ## FAS Expression
 ![image](images/gene_expression/FAS_by_pathology.svg)
 <!-- ORIGIN: schollMutationsRegionFAS2007 -->
+<!-- DLBCL: schollMutationsRegionFAS2007 -->
+<!-- MZL: spinaGeneticsNodalMarginal2016b -->

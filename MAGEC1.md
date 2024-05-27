@@ -4,7 +4,7 @@
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|FL    |2   |relevance in FL not firmly established|
+|![FL](images/icons/FL_tier2.png)    |2   |relevance in FL not firmly established|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -44,3 +44,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/M
 ## MAGEC1 Expression
 ![image](images/gene_expression/MAGEC1_by_pathology.svg)
 <!-- ORIGIN: russler-germainMutationsAssociatedProgression2023a -->
+<!-- FL: russler-germainMutationsAssociatedProgression2023a -->

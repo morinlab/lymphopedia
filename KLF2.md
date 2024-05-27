@@ -6,8 +6,8 @@ KLF2 (Kruppel-like factor 2) is a transcription factor involved in the regulatio
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
-|DLBCL |1-a | aSHM target and high-confidence DLBCL gene|
-|FL    |1-a | aSHM target and high-confidence FL gene   |
+|![DLBCL](images/icons/DLBCL_tier1.png) |1-a | aSHM target and high-confidence DLBCL gene|
+|![FL](images/icons/FL_tier1.png)    |1-a | aSHM target and high-confidence FL gene   |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

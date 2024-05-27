@@ -6,8 +6,8 @@ GRB2 (Growth factor receptor-bound protein 2) is an adaptor protein that links r
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|DLBCL |1   |high-confidence DLBCL gene            |
-|BL    |2   |relevance in BL seems unlikely|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            |
+|![BL](images/icons/BL_tier2.png)    |2   |relevance in BL seems unlikely|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -44,3 +44,5 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/G
 ## GRB2 Expression
 ![image](images/gene_expression/GRB2_by_pathology.svg)
 <!-- ORIGIN: pasqualucciAnalysisCodingGenome2011 -->
+<!-- DLBCL: pasqualucciAnalysisCodingGenome2011 -->
+<!-- BL: paneaWholeGenomeLandscape2019 -->

@@ -6,7 +6,7 @@ Mutations in this gene are relatively rare in DLBCL overall. *Without further su
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
-|DLBCL |1   |high-confidence DLBCL gene|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

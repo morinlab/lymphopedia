@@ -4,17 +4,13 @@
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|BL    |2-a | aSHM target; Although recurrent, the relevance of mutations in BL is tenuous |
-|DLBCL |1-a | aSHM target and high-confidence DLBCL gene            |
-|FL    |1-a | aSHM target and high-confidence FL gene               |
+|![DLBCL](images/icons/DLBCL_tier1.png) |1-a | aSHM target and high-confidence DLBCL gene            |
+|![FL](images/icons/FL_tier1.png)    |1-a | aSHM target and high-confidence FL gene               |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
 |Entity|source               |frequency (%)|
 |:------:|:---------------------:|:-------------:|
-|BL    |GAMBL genomes+capture| 2.08        |
-|BL    |Thomas cohort        | 2.50        |
-|BL    |Panea cohort         | 4.00        |
 |DLBCL |GAMBL genomes        |11.09        |
 |DLBCL |Schmitz cohort       |10.64        |
 |DLBCL |Reddy cohort         |11.21        |
@@ -53,3 +49,6 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/S
 ## SGK1 Expression
 ![image](images/gene_expression/SGK1_by_pathology.svg)
 <!-- ORIGIN: morinFrequentMutationHistonemodifying2011 -->
+<!-- FL: morinFrequentMutationHistonemodifying2011 -->
+<!-- PMBL: dunsCharacterizationDLBCLPMBL2021b -->
+<!-- DLBCL: morinFrequentMutationHistonemodifying2011 -->

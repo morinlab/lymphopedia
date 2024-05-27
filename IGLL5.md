@@ -4,9 +4,9 @@
 
 |Entity|Tier|Description                              |
 |:------:|:----:|-----------------------------------------|
-|BL    |2-a | aSHM target; Although recurrent, the relevance of mutations in BL is tenuous    |
-|DLBCL |2-a | aSHM target; Although recurrent, the relevance of mutations in DLBCL is tenuous |
-|FL    |2-a | aSHM target; Although recurrent, the relevance of mutations in FL is tenuous    |
+|![BL](images/icons/BL_tier2.png)    |2-a | aSHM target; Although recurrent, the relevance of mutations in BL is tenuous    |
+|![DLBCL](images/icons/DLBCL_tier2.png) |2-a | aSHM target; Although recurrent, the relevance of mutations in DLBCL is tenuous |
+|![FL](images/icons/FL_tier2.png)    |2-a | aSHM target; Although recurrent, the relevance of mutations in FL is tenuous    |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -48,4 +48,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/I
 ![image](images/proteinpaint/IGLL5.svg)
 ## IGLL5 Expression
 ![image](images/gene_expression/IGLL5_by_pathology.svg)
-<!-- ORIGIN: russler-germainMutationsAssociatedProgression2023a -->
+<!-- ORIGIN: deschGenotypingCirculatingTumor2020 -->
+<!-- BL: paneaWholeGenomeLandscape2019 -->
+<!-- FL: russler-germainMutationsAssociatedProgression2023a -->
+<!-- BL: paneaWholeGenomeLandscape2019 -->

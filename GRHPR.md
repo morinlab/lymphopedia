@@ -7,7 +7,7 @@ GRHPR is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm)
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
-|DLBCL |1-a | aSHM target and high-confidence DLBCL gene|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1-a | aSHM target and high-confidence DLBCL gene|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -49,3 +49,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/G
 ## GRHPR Expression
 ![image](images/gene_expression/GRHPR_by_pathology.svg)
 <!-- ORIGIN: arthurGenomewideDiscoverySomatic2018 -->
+<!-- DLBCL: arthurGenomewideDiscoverySomatic2018 -->

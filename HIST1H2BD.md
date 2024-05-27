@@ -4,7 +4,7 @@
 
 |Entity|Tier|Description            |
 |:------:|:----:|-----------------------|
-|FL    |1   |high-confidence FL gene|
+|![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -30,3 +30,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/H
 ## HIST1H2BD Expression
 ![image](images/gene_expression/HIST1H2BD_by_pathology.svg)
 <!-- ORIGIN: krysiakRecurrentSomaticMutations2017b -->
+<!-- FL: krysiakRecurrentSomaticMutations2017b -->

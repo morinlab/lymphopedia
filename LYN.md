@@ -6,7 +6,7 @@ LYN mutations have been reported in DLBCL but the rate is relatively rare in mos
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
-|DLBCL |1   |high-confidence DLBCL gene|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -39,3 +39,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/L
 
 <!-- FLAGGED FOR TIER 2 -->
 <!-- ORIGIN: chapuyMolecularSubtypesDiffuse2018b -->
+<!-- DLBCL: chapuyMolecularSubtypesDiffuse2018b -->

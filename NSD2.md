@@ -4,7 +4,7 @@
 
 |Entity|Tier|Description             |
 |:------:|:----:|------------------------|
-|MCL   |1   |high-confidence MCL gene|
+|![MCL](images/icons/MCL_tier1.png)   |1   |high-confidence MCL gene|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -31,3 +31,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/N
 ## NSD2 Expression
 ![image](images/gene_expression/NSD2_by_pathology.svg)
 <!-- ORIGIN: beaLandscapeSomaticMutations2013 -->
+<!-- MCL: beaLandscapeSomaticMutations2013 -->

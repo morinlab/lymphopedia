@@ -4,7 +4,7 @@
 
 |Entity|Tier|Description             |
 |:------:|:----:|------------------------|
-|MCL   |1   |high-confidence MCL gene|
+|![MCL](images/icons/MCL_tier1.png)   |1   |high-confidence MCL gene|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -35,3 +35,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/S
 ## S1PR1 Expression
 ![image](images/gene_expression/S1PR1_by_pathology.svg)
 <!-- ORIGIN: pararajalingamCodingNoncodingDrivers2020 -->
+<!-- MCL: pararajalingamCodingNoncodingDrivers2020 -->

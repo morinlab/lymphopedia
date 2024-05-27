@@ -4,16 +4,12 @@
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|BL    |2   |relevance in BL not firmly established|
-|DLBCL |1   |high-confidence DLBCL gene            |
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
 |Entity|source               |frequency (%)|
 |:------:|:---------------------:|:-------------:|
-|BL    |GAMBL genomes+capture|0.92         |
-|BL    |Thomas cohort        |0.00         |
-|BL    |Panea cohort         |3.00         |
 |DLBCL |GAMBL genomes        |4.21         |
 |DLBCL |Schmitz cohort       |7.02         |
 |DLBCL |Reddy cohort         |3.90         |
@@ -38,4 +34,6 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/U
 ![image](images/proteinpaint/UBE2A.svg)
 ## UBE2A Expression
 ![image](images/gene_expression/UBE2A_by_pathology.svg)
-<!-- ORIGIN: reddyGeneticFunctionalDrivers2017 -->
+<!-- ORIGIN: reichelFlowSortingExome2015a -->
+<!-- DLBCL: reddyGeneticFunctionalDrivers2017 -->
+<!-- PMBL: reichelFlowSortingExome2015a -->

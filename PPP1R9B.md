@@ -4,7 +4,7 @@
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
-|DLBCL | 2   | low-confidence DLBCL gene|
+|![DLBCL](images/icons/DLBCL_tier2.png) | 2   | low-confidence DLBCL gene|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -36,4 +36,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/P
 
 <!-- FLAGGED FOR TIER 2 -->
 
-<!-- ORIGIN: NA -->
+<!-- ORIGIN: Unknown -->

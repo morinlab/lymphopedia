@@ -4,8 +4,8 @@
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
-|BL    |1   |high-confidence BL gene   |
-|DLBCL |1   |high-confidence DLBCL gene|
+|![BL](images/icons/BL_tier1.png)    |1   |high-confidence BL gene   |
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -53,3 +53,5 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/R
 ## RHOA Expression
 ![image](images/gene_expression/RHOA_by_pathology.svg)
 <!-- ORIGIN: pasqualucciHypermutationMultipleProtooncogenes2001a -->
+<!-- DLBCL: pasqualucciHypermutationMultipleProtooncogenes2001a -->
+<!-- BL: richterRecurrentMutationID32012a -->

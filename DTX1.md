@@ -6,9 +6,9 @@ Mutations in the DTX1 gene, which encodes the E3 ubiquitin ligase Deltex 1, have
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|BL    |2-a | aSHM target; Although recurrent, the relevance of mutations in BL is tenuous |
-|DLBCL |1-a | aSHM target and high-confidence DLBCL gene            |
-|FL    |1-a | aSHM target and high-confidence FL gene               |
+|![BL](images/icons/BL_tier2.png)    |2-a | aSHM target; Although recurrent, the relevance of mutations in BL is tenuous |
+|![DLBCL](images/icons/DLBCL_tier1.png) |1-a | aSHM target and high-confidence DLBCL gene            |
+|![FL](images/icons/FL_tier1.png)    |1-a | aSHM target and high-confidence FL gene               |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -103,4 +103,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/D
 ## References
 1. *Wright GW, Huang DW, Phelan JD, Coulibaly ZA, Roulland S, Young RM, Wang JQ, Schmitz R, Morin RD, Tang J, Jiang A, Bagaev A, Plotnikova O, Kotlov N, Johnson CA, Wilson WH, Scott DW, Staudt LM. A Probabilistic Classification Tool for Genetic Subtypes of Diffuse Large B Cell Lymphoma with Therapeutic Implications. Cancer Cell. 2020 Apr 13;37(4):551-568.e14. doi: 10.1016/j.ccell.2020.03.015. PMID: 32289277; PMCID: PMC8459709.*
 2. *de Miranda NF, Georgiou K, Chen L, Wu C, Gao Z, Zaravinos A, Lisboa S, Enblad G, Teixeira MR, Zeng Y, Peng R, Pan-Hammarström Q. Exome sequencing reveals novel mutation targets in diffuse large B-cell lymphomas derived from Chinese patients. Blood. 2014 Oct 16;124(16):2544-53. doi: 10.1182/blood-2013-12-546309. Epub 2014 Aug 29. PMID: 25171927; PMCID: PMC4199956.*
-<!-- ORIGIN: schmitzGeneticsPathogenesisDiffuse2018a -->
+<!-- ORIGIN: 29641966 -->
+<!-- BL: paneaWholeGenomeLandscape2019 -->
+<!-- BL: paneaWholeGenomeLandscape2019 -->
+<!-- DLBCL: schmitzGeneticsPathogenesisDiffuse2018a -->
+<!-- MZL: rossiCodingGenomeSplenic2012c -->

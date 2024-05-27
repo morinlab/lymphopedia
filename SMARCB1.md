@@ -4,7 +4,7 @@
 
 |Entity|Tier|Description                            |
 |:------:|:----:|---------------------------------------|
-|MCL   |2   |relevance in MCL not firmly established|
+|![MCL](images/icons/MCL_tier2.png)   |2   |relevance in MCL not firmly established|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -35,3 +35,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/S
 ## SMARCB1 Expression
 ![image](images/gene_expression/SMARCB1_by_pathology.svg)
 <!-- ORIGIN: nadeuGenomicEpigenomicInsights2020a -->
+<!-- MCL: nadeuGenomicEpigenomicInsights2020a -->

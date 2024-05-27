@@ -4,8 +4,8 @@
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
-|DLBCL |1   |high-confidence DLBCL gene|
-|MCL   |1   |high-confidence MCL gene  |
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene|
+|![MCL](images/icons/MCL_tier1.png)   |1   |high-confidence MCL gene  |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -40,3 +40,5 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/R
 ## RB1 Expression
 ![image](images/gene_expression/RB1_by_pathology.svg)
 <!-- ORIGIN: morinMutationalStructuralAnalysis2013 -->
+<!-- DLBCL: morinMutationalStructuralAnalysis2013 -->
+<!-- MCL: zhangGenomicLandscapeMantle2014 -->

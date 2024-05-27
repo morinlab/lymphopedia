@@ -7,7 +7,7 @@ Mutations in this gene were first described in DLBCL and FL in 2021 by Hübschma
 
 |Entity|Tier|Description                              |
 |:------:|:----:|-----------------------------------------|
-|DLBCL |2-a | aSHM target; Although recurrent, the relevance of mutations in DLBCL is tenuous |
+|![DLBCL](images/icons/DLBCL_tier2.png) |2-a | aSHM target; Although recurrent, the relevance of mutations in DLBCL is tenuous |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

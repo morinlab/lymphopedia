@@ -6,8 +6,8 @@ Mutations in the HLA-B gene have been associated with a loss of cell surface exp
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|BL    |2   |relevance in BL not firmly established|
-|DLBCL |1   |high-confidence DLBCL gene            |
+|![BL](images/icons/BL_tier2.png)    |2   |relevance in BL not firmly established|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -50,4 +50,6 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/H
 1. *Riemersma, S., Jordanova, E., Schop, R., Philippo, K., Looijenga, L., Schuuring, E., & Kluin, P. (2000). Extensive genetic alterations of the HLA region, including homozygous deletions of HLA class II genes in B-cell lymphomas arising in immune-privileged sites.. Blood, 96 10, 3569-77 . https://doi.org/10.1182/BLOOD.V96.10.3569.*
 ## HLA-A Expression
 ![image](images/gene_expression/HLA-A_by_pathology.svg)
-<!-- ORIGIN: Unknown -->
+<!-- ORIGIN: deschGenotypingCirculatingTumor2020 -->
+<!-- BL: 2 -->
+<!-- PMBL: deschGenotypingCirculatingTumor2020 -->

@@ -6,7 +6,7 @@ WEE1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) 
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
-|DLBCL |1-a | aSHM target and high-confidence DLBCL gene|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1-a | aSHM target and high-confidence DLBCL gene|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -51,4 +51,6 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/W
 ![image](images/proteinpaint/WEE1.svg)
 ## WEE1 Expression
 ![image](images/gene_expression/WEE1_by_pathology.svg)
-<!-- ORIGIN: schmitzGeneticsPathogenesisDiffuse2018a -->
+<!-- ORIGIN: reichelFlowSortingExome2015a -->
+<!-- PMBL: reichelFlowSortingExome2015a -->
+<!-- DLBCL: schmitzGeneticsPathogenesisDiffuse2018a -->

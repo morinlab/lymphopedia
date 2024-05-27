@@ -4,10 +4,10 @@
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
-|BL    |1   |high-confidence BL gene   |
-|DLBCL |1   |high-confidence DLBCL gene|
-|FL    |1   |high-confidence FL gene   |
-|MCL   |1   |high-confidence MCL gene  |
+|![BL](images/icons/BL_tier1.png)    |1   |high-confidence BL gene   |
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene|
+|![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene   |
+|![MCL](images/icons/MCL_tier1.png)   |1   |high-confidence MCL gene  |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -45,4 +45,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/S
 ![image](images/proteinpaint/SMARCA4.svg)
 ## SMARCA4 Expression
 ![image](images/gene_expression/SMARCA4_by_pathology.svg)
-<!-- ORIGIN: loveGeneticLandscapeMutations2012 -->
+<!-- ORIGIN: zhangGeneticHeterogeneityDiffuse2013 -->
+<!-- MCL: nadeuGenomicEpigenomicInsights2020a -->
+<!-- DLBCL: zhangGeneticHeterogeneityDiffuse2013 -->
+<!-- FL: krysiakRecurrentSomaticMutations2017b -->
+<!-- BL: richterRecurrentMutationID32012a -->

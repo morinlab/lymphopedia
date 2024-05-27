@@ -6,8 +6,8 @@ The ITPKB gene encodes inositol-trisphosphate 3-kinase B, an enzyme involved in 
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
-|DLBCL |1-a | aSHM target and high-confidence DLBCL gene|
-|FL    |1-a | aSHM target and high-confidence FL gene   |
+|![DLBCL](images/icons/DLBCL_tier1.png) |1-a | aSHM target and high-confidence DLBCL gene|
+|![FL](images/icons/FL_tier1.png)    |1-a | aSHM target and high-confidence FL gene   |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -55,4 +55,6 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/I
 1. *Mareschal S, Dubois S, Viailly PJ, Bertrand P, Bohers E, Maingonnat C, Jaïs JP, Tesson B, Ruminy P, Peyrouze P, Copie-Bergman C, Fest T, Jo Molina T, Haioun C, Salles G, Tilly H, Lecroq T, Leroy K, Jardin F. Whole exome sequencing of relapsed/refractory patients expands the repertoire of somatic mutations in diffuse large B-cell lymphoma. Genes Chromosomes Cancer. 2016 Mar;55(3):251-67. doi: 10.1002/gcc.22328. Epub 2015 Nov 26. PMID: 26608593.*
 ## ITPKB Expression
 ![image](images/gene_expression/ITPKB_by_pathology.svg)
-<!-- ORIGIN: schmitzGeneticsPathogenesisDiffuse2018a -->
+<!-- ORIGIN: reichelFlowSortingExome2015a -->
+<!-- PMBL: reichelFlowSortingExome2015a -->
+<!-- DLBCL: schmitzGeneticsPathogenesisDiffuse2018a -->

@@ -6,9 +6,8 @@ HVCN1, a voltage-gated proton channel, has been identified as recurrently mutate
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|DLBCL |1   |high-confidence DLBCL gene            |
-|FL    |1   |high-confidence FL gene               |
-|BL    |2   |relevance in BL not firmly established|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            |
+|![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene               |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -54,4 +53,5 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/H
 1. *Krysiak, K., Gomez, F., White, B., Matlock, M., Miller, C., Trani, L., Fronick, C., Fulton, R., Kreisel, F., Cashen, A., Carson, K., Berrien-Elliott, M., Bartlett, N., Griffith, M., Griffith, O., & Fehniger, T. (2017). Recurrent somatic mutations affecting B-cell receptor signaling pathway genes in follicular lymphoma.. Blood, 129 4, 473-483 . https://doi.org/10.1182/blood-2016-07-729954.*
 ## HVCN1 Expression
 ![image](images/gene_expression/HVCN1_by_pathology.svg)
-<!-- ORIGIN: NA -->
+<!-- ORIGIN: krysiakRecurrentSomaticMutations2017b -->
+<!-- FL: krysiakRecurrentSomaticMutations2017b -->

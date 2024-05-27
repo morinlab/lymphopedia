@@ -4,7 +4,7 @@
 
 |Entity|Tier|Description                              |
 |:------:|:----:|-----------------------------------------|
-|DLBCL |2-a | aSHM target; Although recurrent, the relevance of mutations in DLBCL is tenuous |
+|![DLBCL](images/icons/DLBCL_tier2.png) |2-a | aSHM target; Although recurrent, the relevance of mutations in DLBCL is tenuous |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -47,3 +47,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/P
 ## PAX5 Expression
 ![image](images/gene_expression/PAX5_by_pathology.svg)
 <!-- ORIGIN: pasqualucciHypermutationMultipleProtooncogenes2001a -->
+<!-- DLBCL: pasqualucciHypermutationMultipleProtooncogenes2001a -->

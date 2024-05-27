@@ -4,7 +4,7 @@
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|FL    |2   |relevance in FL not firmly established|
+|![FL](images/icons/FL_tier2.png)    |2   |relevance in FL not firmly established|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -35,3 +35,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/T
 ## TPP1 Expression
 ![image](images/gene_expression/TPP1_by_pathology.svg)
 <!-- ORIGIN: hubschmannMutationalMechanismsShaping2021b -->
+<!-- FL: hubschmannMutationalMechanismsShaping2021b -->

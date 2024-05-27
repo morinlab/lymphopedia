@@ -4,8 +4,8 @@
 
 |Entity|Tier|Description                              |
 |:------:|:----:|-----------------------------------------|
-|DLBCL |2   |relevance in DLBCL not firmly established|
-|MCL   |1   |high-confidence MCL gene                 |
+|![DLBCL](images/icons/DLBCL_tier2.png) |2   |relevance in DLBCL not firmly established|
+|![MCL](images/icons/MCL_tier1.png)   |1   |high-confidence MCL gene                 |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -47,3 +47,5 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/T
 ## TLR2 Expression
 ![image](images/gene_expression/TLR2_by_pathology.svg)
 <!-- ORIGIN: beaLandscapeSomaticMutations2013 -->
+<!-- DLBCL: chapuyMolecularSubtypesDiffuse2018b -->
+<!-- MCL: beaLandscapeSomaticMutations2013 -->

@@ -6,8 +6,8 @@ This gene encodes the H2A protein, one of the core proteins comprising nucleosom
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|BL    |2   |relevance in BL not firmly established|
-|DLBCL |1   |high-confidence DLBCL gene            |
+|![BL](images/icons/BL_tier2.png)    |2   |relevance in BL not firmly established|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -43,4 +43,6 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/H
 ![image](images/proteinpaint/HIST1H2BK.svg)
 ## HIST1H2BK Expression
 ![image](images/gene_expression/HIST1H2BK_by_pathology.svg)
-<!-- ORIGIN: NA -->
+<!-- ORIGIN: rossiCodingGenomeSplenic2012c -->
+<!-- MZL: rossiCodingGenomeSplenic2012c -->
+<!-- BL: paneaWholeGenomeLandscape2019 -->

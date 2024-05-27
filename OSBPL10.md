@@ -6,16 +6,12 @@ OSBPL10 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ash
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|BL    |2-a | aSHM target; Although recurrent, the relevance of mutations in BL is tenuous |
-|DLBCL |1-a | aSHM target and high-confidence DLBCL gene            |
+|![DLBCL](images/icons/DLBCL_tier1.png) |1-a | aSHM target and high-confidence DLBCL gene            |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
 |Entity|source               |frequency (%)|
 |:------:|:---------------------:|:-------------:|
-|BL    |GAMBL genomes+capture| 2.08        |
-|BL    |Thomas cohort        | 2.10        |
-|BL    |Panea cohort         | 3.00        |
 |DLBCL |GAMBL genomes        | 8.80        |
 |DLBCL |Schmitz cohort       |14.26        |
 |DLBCL |Reddy cohort         | 2.30        |
@@ -46,3 +42,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/O
 ## OSBPL10 Expression
 ![image](images/gene_expression/OSBPL10_by_pathology.svg)
 <!-- ORIGIN: arthurGenomewideDiscoverySomatic2018 -->
+<!-- DLBCL: arthurGenomewideDiscoverySomatic2018 -->

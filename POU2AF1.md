@@ -6,8 +6,8 @@ POU2AF1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ash
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
-|DLBCL |1-a   |high-confidence DLBCL gene, hypermutated|
-|FL    |1-a   |high-confidence FL gene, hypermutated   |
+|![DLBCL](images/icons/DLBCL_tier1.png) |1-a   |high-confidence DLBCL gene, hypermutated|
+|![FL](images/icons/FL_tier1.png)    |1-a   |high-confidence FL gene, hypermutated   |
 
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
@@ -54,4 +54,5 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/P
 ![image](images/proteinpaint/POU2AF1.svg)
 ## POU2AF1 Expression
 ![image](images/gene_expression/POU2AF1_by_pathology.svg)
-<!-- ORIGIN: NA -->
+<!-- ORIGIN: krysiakRecurrentSomaticMutations2017b -->
+<!-- FL: krysiakRecurrentSomaticMutations2017b -->

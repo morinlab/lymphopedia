@@ -4,7 +4,7 @@
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|BL    |2-a | aSHM target; Although recurrent, the relevance of mutations in BL is tenuous |
+|![BL](images/icons/BL_tier2.png)    |2-a | aSHM target; Although recurrent, the relevance of mutations in BL is tenuous |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -42,3 +42,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/R
 ## RNF144B Expression
 ![image](images/gene_expression/RNF144B_by_pathology.svg)
 <!-- ORIGIN: paneaWholeGenomeLandscape2019 -->
+<!-- BL: paneaWholeGenomeLandscape2019 -->

@@ -6,7 +6,7 @@ JUNB has been reported to be frequently mutated in T-cell/histiocyte-rich large 
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
-|DLBCL |1   |high-confidence DLBCL gene|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -50,3 +50,5 @@ bioRxiv 2023.11.21.567983; doi: https://doi.org/10.1101/2023.11.21.567983*
 ## JUNB Expression
 ![image](images/gene_expression/JUNB_by_pathology.svg)
 <!-- ORIGIN: reddyGeneticFunctionalDrivers2017 -->
+<!-- DLBCL: reddyGeneticFunctionalDrivers2017 -->
+<!-- PMBL: mottokIntegrativeGenomicAnalysis2019b -->

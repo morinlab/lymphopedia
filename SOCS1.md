@@ -4,17 +4,13 @@
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|BL    |2-a | aSHM target; Although recurrent, the relevance of mutations in BL is tenuous |
-|DLBCL |1-a | aSHM target and high-confidence DLBCL gene            |
-|FL    |1-a | aSHM target and high-confidence FL gene               |
+|![DLBCL](images/icons/DLBCL_tier1.png) |1-a | aSHM target and high-confidence DLBCL gene            |
+|![FL](images/icons/FL_tier1.png)    |1-a | aSHM target and high-confidence FL gene               |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
 |Entity|source               |frequency (%)|
 |:------:|:---------------------:|:-------------:|
-|BL    |GAMBL genomes+capture| 1.85        |
-|BL    |Thomas cohort        | 1.70        |
-|BL    |Panea cohort         | 3.00        |
 |DLBCL |GAMBL genomes        |15.30        |
 |DLBCL |Schmitz cohort       |12.77        |
 |DLBCL |Reddy cohort         |10.41        |
@@ -45,4 +41,6 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/S
 ![image](images/proteinpaint/SOCS1.svg)
 ## SOCS1 Expression
 ![image](images/gene_expression/SOCS1_by_pathology.svg)
-<!-- ORIGIN: morinFrequentMutationHistonemodifying2011 -->
+<!-- ORIGIN: wenigerMutationsTumorSuppressor2006a -->
+<!-- PMBL: wenigerMutationsTumorSuppressor2006a -->
+<!-- DLBCL: morinFrequentMutationHistonemodifying2011 -->

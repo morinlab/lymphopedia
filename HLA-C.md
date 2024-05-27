@@ -6,7 +6,7 @@ Mutations in the HLA-C gene have been associated with a loss of cell surface exp
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
-|DLBCL |1   |high-confidence DLBCL gene|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -36,4 +36,5 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/H
 ![image](images/proteinpaint/HLA-C.svg)
 ## HLA-C Expression
 ![image](images/gene_expression/HLA-C_by_pathology.svg)
-<!-- ORIGIN: Unknown -->
+<!-- ORIGIN: gomezUltraDeepSequencingReveals2023 -->
+<!-- PMBL: gomezUltraDeepSequencingReveals2023 -->

@@ -6,7 +6,7 @@ MGA acts as a transcriptional repressor and interacts with MYC, a well-known onc
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
-|DLBCL |1   |high-confidence DLBCL gene|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -41,3 +41,5 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/M
 2. *Lee MJ, Koff JL, Switchenko JM, Jhaney CI, Harkins RA, Patel SP, Dave SS, Flowers CR. Genome-defined African ancestry is associated with distinct mutations and worse survival in patients with diffuse large B-cell lymphoma. Cancer. 2020 Aug 1;126(15):3493-3503. doi: 10.1002/cncr.32866. Epub 2020 May 29. PMID: 32469082; PMCID: PMC7494053.*
 
 <!-- ORIGIN: zhangGeneticHeterogeneityDiffuse2013 -->
+<!-- MZL: jalladesExomeSequencingIdentifies2017 -->
+<!-- DLBCL: zhangGeneticHeterogeneityDiffuse2013 -->

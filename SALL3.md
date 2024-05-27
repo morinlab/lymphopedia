@@ -4,8 +4,8 @@
 
 |Entity|Tier|Description                            |
 |:------:|:----:|---------------------------------------|
-|BL    |2   |relevance in BL not firmly established |
-|MCL   |2   |relevance in MCL not firmly established|
+|![BL](images/icons/BL_tier2.png)    |2   |relevance in BL not firmly established |
+|![MCL](images/icons/MCL_tier2.png)   |2   |relevance in MCL not firmly established|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -39,3 +39,5 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/S
 ## SALL3 Expression
 ![image](images/gene_expression/SALL3_by_pathology.svg)
 <!-- ORIGIN: loveGeneticLandscapeMutations2012 -->
+<!-- MCL: zhangGenomicLandscapeMantle2014 -->
+<!-- BL: loveGeneticLandscapeMutations2012 -->

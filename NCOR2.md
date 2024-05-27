@@ -6,8 +6,8 @@ Mutations in this gene are relatively rare in DLBCL overall but show a pattern o
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|BL    |2   |relevance in BL not firmly established|
-|DLBCL |1   |high-confidence DLBCL gene            |
+|![BL](images/icons/BL_tier2.png)    |2   |relevance in BL not firmly established|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -52,3 +52,6 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/N
 
 <!-- FLAGGED FOR TIER 2 -->
 <!-- ORIGIN: schmitzBurkittLymphomaPathogenesis2012 -->
+<!-- MZL: spinaGeneticsNodalMarginal2016b -->
+<!-- BL: schmitzBurkittLymphomaPathogenesis2012 -->
+<!-- BL: schmitzBurkittLymphomaPathogenesis2012 -->

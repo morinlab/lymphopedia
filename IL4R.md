@@ -6,7 +6,7 @@ Mutations in IL4R have been identified in various types of B-cell lymphomas, par
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
-|DLBCL |1-a | aSHM target and high-confidence DLBCL gene|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1-a | aSHM target and high-confidence DLBCL gene|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -54,4 +54,6 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/I
 2. *Viganò E, Gunawardana J, Mottok A, Van Tol T, Mak K, Chan FC, Chong L, Chavez E, Woolcock B, Takata K, Twa D, Shulha HP, Telenius A, Kutovaya O, Hung SS, Healy S, Ben-Neriah S, Leroy K, Gaulard P, Diepstra A, Kridel R, Savage KJ, Rimsza L, Gascoyne R, Steidl C. Somatic IL4R mutations in primary mediastinal large B-cell lymphoma lead to constitutive JAK-STAT signaling activation. Blood. 2018 May 3;131(18):2036-2046. doi: 10.1182/blood-2017-09-808907. Epub 2018 Feb 21. PMID: 29467182.*
 ## IL4R Expression
 ![image](images/gene_expression/IL4R_by_pathology.svg)
-<!-- ORIGIN: dunsCharacterizationDLBCLPMBL2021b -->
+<!-- ORIGIN: viganoSomaticIL4RMutations2018b -->
+<!-- DLBCL: dunsCharacterizationDLBCLPMBL2021b -->
+<!-- PMBL: viganoSomaticIL4RMutations2018b -->

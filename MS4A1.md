@@ -6,7 +6,7 @@ MS4A1 encodes the CD20 protein, which is the target of rituximab and other thera
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
-|DLBCL |1-a | aSHM target and high-confidence DLBCL gene|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1-a | aSHM target and high-confidence DLBCL gene|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -40,4 +40,6 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/M
 ## MS4A1 Expression
 ![image](images/gene_expression/MS4A1_by_pathology.svg)
 ## References
-1. *Rushton CK, Arthur SE, Alcaide M, Cheung M, Jiang A, Coyle KM, Cleary KLS, Thomas N, Hilton LK, Michaud N, Daigle S, Davidson J, Bushell K, Yu S, Rys RN, Jain M, Shepherd L, Marra MA, Kuruvilla J, Crump M, Mann K, Assouline S, Connors JM, Steidl C, Cragg MS, Scott DW, Johnson NA, Morin RD. Genetic and evolutionary patterns of treatment resistance in relapsed B-cell lymphoma. Blood Adv. 2020 Jul 14;4(13):2886-2898. doi: 10.1182/bloodadvances.2020001696. PMID: 32589730; PMCID: PMC7362366.*<!-- ORIGIN: rushtonGeneticEvolutionaryPatterns2020 -->
+<!-- ORIGIN: mottokIntegrativeGenomicAnalysis2019b -->
+<!-- DLBCL: rushtonGeneticEvolutionaryPatterns2020 -->
+<!-- PMBL: mottokIntegrativeGenomicAnalysis2019b -->

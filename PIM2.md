@@ -6,7 +6,7 @@ PIM2 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) 
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
-|DLBCL |1-a | aSHM target and high-confidence DLBCL gene|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1-a | aSHM target and high-confidence DLBCL gene|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -41,4 +41,6 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/P
 ![image](images/proteinpaint/PIM2.svg)
 ## PIM2 Expression
 ![image](images/gene_expression/PIM2_by_pathology.svg)
-<!-- ORIGIN: arthurGenomewideDiscoverySomatic2018 -->
+<!-- ORIGIN: reichelFlowSortingExome2015a -->
+<!-- DLBCL: arthurGenomewideDiscoverySomatic2018 -->
+<!-- PMBL: reichelFlowSortingExome2015a -->

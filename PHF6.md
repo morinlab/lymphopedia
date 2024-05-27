@@ -4,8 +4,8 @@
 
 |Entity|Tier|Description                              |
 |:------:|:----:|-----------------------------------------|
-|BL    |1   |high-confidence BL gene                  |
-|DLBCL |2   |relevance in DLBCL not firmly established|
+|![BL](images/icons/BL_tier1.png)    |1   |high-confidence BL gene                  |
+|![DLBCL](images/icons/DLBCL_tier2.png) |2   |relevance in DLBCL not firmly established|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -42,3 +42,5 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/P
 ## PHF6 Expression
 ![image](images/gene_expression/PHF6_by_pathology.svg)
 <!-- ORIGIN: reddyGeneticFunctionalDrivers2017 -->
+<!-- BL: thomasGeneticSubgroupsInform2023 -->
+<!-- DLBCL: reddyGeneticFunctionalDrivers2017 -->

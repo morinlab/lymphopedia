@@ -4,8 +4,8 @@
 
 |Entity|Tier|Description                              |
 |:------:|:----:|-----------------------------------------|
-|DLBCL |2   |relevance in DLBCL not firmly established|
-|FL    |2   |relevance in FL not firmly established   |
+|![DLBCL](images/icons/DLBCL_tier2.png) |2   |relevance in DLBCL not firmly established|
+|![FL](images/icons/FL_tier2.png)    |2   |relevance in FL not firmly established   |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -40,3 +40,5 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/S
 ## SRRM2 Expression
 ![image](images/gene_expression/SRRM2_by_pathology.svg)
 <!-- ORIGIN: morinMutationalStructuralAnalysis2013 -->
+<!-- DLBCL: morinMutationalStructuralAnalysis2013 -->
+<!-- FL: russler-germainMutationsAssociatedProgression2023a -->

@@ -5,9 +5,9 @@ This is one of several genes that encode linker histone proteins that are recurr
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|BL    |2   |relevance in BL not firmly established|
-|DLBCL |1   |high-confidence DLBCL gene            |
-|FL    |1   |high-confidence FL gene               |
+|![BL](images/icons/BL_tier2.png)    |2   |relevance in BL not firmly established|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            |
+|![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene               |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -45,3 +45,6 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/H
 ## HIST1H1D Expression
 ![image](images/gene_expression/HIST1H1D_by_pathology.svg)
 <!-- ORIGIN: morinMutationalStructuralAnalysis2013 -->
+<!-- FL: krysiakRecurrentSomaticMutations2017b -->
+<!-- DLBCL: morinMutationalStructuralAnalysis2013 -->
+<!-- MZL: jalladesExomeSequencingIdentifies2017 -->

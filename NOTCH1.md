@@ -4,9 +4,9 @@
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|BL    |2   |relevance in BL not firmly established|
-|DLBCL |1   |high-confidence DLBCL gene            |
-|MCL   |1   |high-confidence MCL gene              |
+|![BL](images/icons/BL_tier2.png)    |2   |relevance in BL not firmly established|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            |
+|![MCL](images/icons/MCL_tier1.png)   |1   |high-confidence MCL gene              |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -50,3 +50,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/N
 ## NOTCH1 Expression
 ![image](images/gene_expression/NOTCH1_by_pathology.svg)
 <!-- ORIGIN: pasqualucciAnalysisCodingGenome2011 -->
+<!-- BL: loveGeneticLandscapeMutations2012 -->
+<!-- MZL: rossiCodingGenomeSplenic2012c -->
+<!-- MCL: beaLandscapeSomaticMutations2013 -->
+<!-- DLBCL: pasqualucciAnalysisCodingGenome2011 -->

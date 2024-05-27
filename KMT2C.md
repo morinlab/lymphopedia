@@ -6,9 +6,9 @@ This gene has been reported to be recurrently mutated in DLBCL. The rate of muta
 
 |Entity|Tier|Description                            |
 |:------:|:----:|---------------------------------------|
-|BL    |2   |relevance in BL not firmly established |
-|DLBCL |1   |high-confidence DLBCL gene             |
-|MCL   |2   |relevance in MCL not firmly established|
+|![BL](images/icons/BL_tier2.png)    |2   |relevance in BL not firmly established |
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene             |
+|![MCL](images/icons/MCL_tier2.png)   |2   |relevance in MCL not firmly established|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -53,3 +53,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/K
 ## KMT2C Expression
 ![image](images/gene_expression/KMT2C_by_pathology.svg)
 <!-- ORIGIN: zhangGeneticHeterogeneityDiffuse2013 -->
+<!-- BL: zhouSporadicEndemicBurkitt2019 -->
+<!-- BL: zhouSporadicEndemicBurkitt2019 -->
+<!-- MCL: zhangGenomicLandscapeMantle2014 -->
+<!-- DLBCL: zhangGeneticHeterogeneityDiffuse2013 -->

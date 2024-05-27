@@ -6,7 +6,7 @@ Mutations in this gene are relatively rare in DLBCL overall. Some hotspots have 
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
-|DLBCL |1   |high-confidence DLBCL gene|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -48,4 +48,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/N
 ![image](images/gene_expression/NFKB1_by_pathology.svg)
 
 <!-- FLAGGED FOR TIER 2 -->
-<!-- ORIGIN: NA -->
+<!-- ORIGIN: Unknown -->

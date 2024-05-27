@@ -4,7 +4,7 @@
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
-|DLBCL |1   |high-confidence DLBCL gene|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -45,3 +45,5 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/X
 ## XPO1 Expression
 ![image](images/gene_expression/XPO1_by_pathology.svg)
 <!-- ORIGIN: mareschalWholeExomeSequencing2016 -->
+<!-- DLBCL: mareschalWholeExomeSequencing2016 -->
+<!-- PMBL: jardinRecurrentMutationsExportin2016a -->

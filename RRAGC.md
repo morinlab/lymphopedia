@@ -4,8 +4,8 @@
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
-|DLBCL |1   |high-confidence DLBCL gene|
-|FL    |1   |high-confidence FL gene   |
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene|
+|![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene   |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -40,3 +40,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/R
 ## RRAGC Expression
 ![image](images/gene_expression/RRAGC_by_pathology.svg)
 <!-- ORIGIN: okosunRecurrentMTORC1activatingRRAGC2016a -->
+<!-- DLBCL: okosunRecurrentMTORC1activatingRRAGC2016a -->

@@ -4,17 +4,13 @@
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|BL    |2   |relevance in BL not firmly established|
-|DLBCL |1   |high-confidence DLBCL gene            |
-|FL    |2   |relevance in FL not firmly established|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            |
+|![FL](images/icons/FL_tier2.png)    |2   |relevance in FL not firmly established|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
 |Entity|source               |frequency (%)|
 |:------:|:---------------------:|:-------------:|
-|BL    |GAMBL genomes+capture|1.85         |
-|BL    |Thomas cohort        |1.30         |
-|BL    |Panea cohort         |5.00         |
 |DLBCL |GAMBL genomes        |4.78         |
 |DLBCL |Schmitz cohort       |7.66         |
 |DLBCL |Reddy cohort         |2.80         |
@@ -54,3 +50,5 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/T
 ## TMEM30A Expression
 ![image](images/gene_expression/TMEM30A_by_pathology.svg)
 <!-- ORIGIN: morinFrequentMutationHistonemodifying2011 -->
+<!-- DLBCL: morinFrequentMutationHistonemodifying2011 -->
+<!-- FL: morinFrequentMutationHistonemodifying2011 -->

@@ -6,7 +6,7 @@ The NFKBIZ gene is a significant player in NF-κB signaling, with mutations lead
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
-|DLBCL |1-a | aSHM target and high-confidence DLBCL gene|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1-a | aSHM target and high-confidence DLBCL gene|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -49,3 +49,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/N
 
 <!-- NONCODING -->
 <!-- ORIGIN: morinGeneticLandscapesRelapsed2016 -->
+<!-- DLBCL: morinGeneticLandscapesRelapsed2016 -->

@@ -6,17 +6,13 @@ NFKBIA encodes IκBα, an inhibitor of NF-κB, which regulates the NF-κB signal
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|BL    |2   |relevance in BL not firmly established|
-|DLBCL |1   |high-confidence DLBCL gene            |
-|FL    |2   |relevance in FL not firmly established|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            |
+|![FL](images/icons/FL_tier2.png)    |2   |relevance in FL not firmly established|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
 |Entity|source               |frequency (%)|
 |:------:|:---------------------:|:-------------:|
-|BL    |GAMBL genomes+capture|1.39         |
-|BL    |Thomas cohort        |1.70         |
-|BL    |Panea cohort         |2.00         |
 |DLBCL |GAMBL genomes        |4.40         |
 |DLBCL |Schmitz cohort       |3.83         |
 |DLBCL |Reddy cohort         |3.60         |
@@ -49,4 +45,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/N
 
 ## References
 1. *Wright GW, Huang DW, Phelan JD, Coulibaly ZA, Roulland S, Young RM, Wang JQ, Schmitz R, Morin RD, Tang J, Jiang A, Bagaev A, Plotnikova O, Kotlov N, Johnson CA, Wilson WH, Scott DW, Staudt LM. A Probabilistic Classification Tool for Genetic Subtypes of Diffuse Large B Cell Lymphoma with Therapeutic Implications. Cancer Cell. 2020 Apr 13;37(4):551-568.e14. doi: 10.1016/j.ccell.2020.03.015. PMID: 32289277; PMCID: PMC8459709.*
-<!-- ORIGIN: NA -->
+<!-- ORIGIN: lakeMutationsNFKBIAEncoding2009 -->
+<!-- DLBCL: lakeMutationsNFKBIAEncoding2009 -->
+<!-- FL: russler-germainMutationsAssociatedProgression2023a -->
+<!-- PMBL: wienandGenomicAnalysesFlowsorted2019b -->

@@ -6,17 +6,13 @@ The STAT6 gene, which encodes a transcription factor involved in the JAK-STAT si
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|BL    |2   |relevance in BL not firmly established|
-|DLBCL |1   |high-confidence DLBCL gene            |
-|FL    |1   |high-confidence FL gene               |
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            |
+|![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene               |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
 |Entity|source               |frequency (%)|
 |:------:|:---------------------:|:-------------:|
-|BL    |GAMBL genomes+capture| 1.62        |
-|BL    |Thomas cohort        | 1.70        |
-|BL    |Panea cohort         | 2.00        |
 |DLBCL |GAMBL genomes        | 5.74        |
 |DLBCL |Schmitz cohort       | 2.55        |
 |DLBCL |Reddy cohort         | 3.80        |
@@ -67,3 +63,6 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/S
 ## STAT6 Expression
 ![image](images/gene_expression/STAT6_by_pathology.svg)
 <!-- ORIGIN: yildizActivatingSTAT6Mutations2015c -->
+<!-- PMBL: ritzRecurrentMutationsSTAT62009a -->
+<!-- FL: yildizActivatingSTAT6Mutations2015c -->
+<!-- DLBCL: yildizActivatingSTAT6Mutations2015c -->

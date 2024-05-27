@@ -4,8 +4,8 @@
 
 |Entity|Tier|Description                              |
 |:------:|:----:|-----------------------------------------|
-|DLBCL |2   |relevance in DLBCL not firmly established|
-|FL    |1   |high-confidence FL gene                  |
+|![DLBCL](images/icons/DLBCL_tier2.png) |2   |relevance in DLBCL not firmly established|
+|![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene                  |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -46,3 +46,5 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/M
 ## MAP2K1 Expression
 ![image](images/gene_expression/MAP2K1_by_pathology.svg)
 <!-- ORIGIN: shinBRAFV600EMAP2K12015 -->
+<!-- DLBCL: shinBRAFV600EMAP2K12015 -->
+<!-- FL: louissaintPediatrictypeNodalFollicular2016a -->

@@ -4,7 +4,7 @@
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
-|DLBCL |1   |high-confidence DLBCL gene|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -42,4 +42,6 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/N
 ![image](images/proteinpaint/NOL9.svg)
 ## NOL9 Expression
 ![image](images/gene_expression/NOL9_by_pathology.svg)
-<!-- ORIGIN: schmitzGeneticsPathogenesisDiffuse2018a -->
+<!-- ORIGIN: spinaGeneticsNodalMarginal2016b -->
+<!-- DLBCL: schmitzGeneticsPathogenesisDiffuse2018a -->
+<!-- MZL: spinaGeneticsNodalMarginal2016b -->

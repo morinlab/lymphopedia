@@ -4,7 +4,7 @@
 
 |Entity|Tier|Description                            |
 |:------:|:----:|---------------------------------------|
-|MCL   |2   |relevance in MCL not firmly established|
+|![MCL](images/icons/MCL_tier2.png)   |2   |relevance in MCL not firmly established|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -26,3 +26,4 @@
 ## ROBO2 Expression
 ![image](images/gene_expression/ROBO2_by_pathology.svg)
 <!-- ORIGIN: zhangGenomicLandscapeMantle2014 -->
+<!-- MCL: zhangGenomicLandscapeMantle2014 -->

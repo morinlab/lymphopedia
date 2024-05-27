@@ -4,7 +4,7 @@
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
-|DLBCL |1   |high-confidence DLBCL gene|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -43,3 +43,6 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/S
 ## SPEN Expression
 ![image](images/gene_expression/SPEN_by_pathology.svg)
 <!-- ORIGIN: rossiCodingGenomeSplenic2012c -->
+<!-- DLBCL: rossiCodingGenomeSplenic2012c -->
+<!-- MZL: rossiCodingGenomeSplenic2012c -->
+<!-- PMBL: sarkozyMutationalLandscapeGray2021a -->
