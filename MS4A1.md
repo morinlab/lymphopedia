@@ -6,6 +6,7 @@ MS4A1 encodes the CD20 protein, which is the target of rituximab and other thera
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
+|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene|
 |![DLBCL](images/icons/DLBCL_tier1.png) |1-a | aSHM target and high-confidence DLBCL gene|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)

@@ -6,6 +6,8 @@ FAS encodes a cell surface receptor involved in the induction of apoptosis. FAS 
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
+|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene|
+|![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene|
 |![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            |
 |![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene               |
 

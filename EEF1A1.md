@@ -9,6 +9,7 @@ Mutations in this gene were first described in DLBCL and FL in 2021 by Hübschma
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
+|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene|
 |![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            |
 |![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene|
 

@@ -10,6 +10,8 @@ Mutations were later described in MCL in 2013 by Bea et al.<sup>4</sup> KMT2D mu
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
+|![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene|
+|![PMBL](images/icons/PMBL_tier2.png)|2|relevance in PMBL/cHL/GZL not firmly established|
 |![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene   |
 |![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene|
 |![BL](images/icons/BL_tier1.png)    |1   |high-confidence BL gene   |

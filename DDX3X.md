@@ -6,6 +6,7 @@ Mutations in the DDX3X gene, which encodes an RNA helicase involved in various a
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
+|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene|
 |![BL](images/icons/BL_tier1.png)    |1 | high-confidence BL gene               |
 |![DLBCL](images/icons/DLBCL_tier1.png) |1 | high-confidence DLBCL gene            |
 |![FL](images/icons/FL_tier2.png)    |2 | Although recurrent, the relevance of mutations in FL is tenuous |

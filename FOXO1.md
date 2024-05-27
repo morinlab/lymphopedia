@@ -6,6 +6,8 @@ Mutations in the FOXO1 gene, which encodes a member of the forkhead family of tr
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
+|![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene|
+|![PMBL](images/icons/PMBL_tier2.png)|2|relevance in PMBL/cHL/GZL not firmly established|
 |![BL](images/icons/BL_tier1.png)    |1   |high-confidence BL gene   |
 |![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene|
 |![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene   |

@@ -6,6 +6,8 @@ Mutations in this gene are relatively rare in DLBCL overall but show a pattern o
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
+|![PMBL](images/icons/PMBL_tier2.png)|2|relevance in PMBL/cHL/GZL not firmly established|
+|![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene|
 |![BL](images/icons/BL_tier2.png)    |2   |relevance in BL not firmly established|
 |![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            |
 

@@ -6,6 +6,7 @@ Mutations in this gene were first described in MZL in 2012 by Rossi et al<sup>1<
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
+|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene|
 |![BL](images/icons/BL_tier1.png)    |1   |high-confidence BL gene   |
 |![MZL](images/icons/MZL_tier1.png)    |1   |high-confidence MZL gene   |
 |![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene|

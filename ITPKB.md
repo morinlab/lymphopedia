@@ -6,6 +6,7 @@ The ITPKB gene encodes inositol-trisphosphate 3-kinase B, an enzyme involved in 
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
+|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene|
 |![DLBCL](images/icons/DLBCL_tier1.png) |1-a | aSHM target and high-confidence DLBCL gene|
 |![FL](images/icons/FL_tier1.png)    |1-a | aSHM target and high-confidence FL gene   |
 

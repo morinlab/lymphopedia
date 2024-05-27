@@ -6,6 +6,7 @@ NFKBIE encodes IκBε, a negative regulator of NF-κB. Mutations in NFKBIE can d
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
+|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene|
 |![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene|
 |![MCL](images/icons/MCL_tier1.png)   |1   |high-confidence MCL gene  |
 

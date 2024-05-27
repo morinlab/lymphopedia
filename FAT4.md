@@ -4,6 +4,8 @@
 
 |Entity|Tier|Description                              |
 |:------:|:----:|-----------------------------------------|
+|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene|
+|![MZL](images/icons/MZL_tier2.png)|2|relevance in MZL not firmly established|
 |![DLBCL](images/icons/DLBCL_tier2.png) |2   |relevance in DLBCL not firmly established|
 |![MCL](images/icons/MCL_tier2.png)   |2   |relevance in MCL not firmly established  |
 
