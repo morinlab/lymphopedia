@@ -2,7 +2,7 @@
 ## History
 ID3 was first reported as mutated in BL in 2012 by Richter et al.<sup>1</sup> The existence of mutations in DLBCL were described in 2012 by Schmitz et al<sup>2</sup> and later in MZL by Spina et al.<sup>3</sup>
 
-```
+`
 %%{init: { 'logLevel': 'debug', 'theme': 'base' } }%%
     timeline
         title History of Social Media Platform
@@ -13,7 +13,7 @@ ID3 was first reported as mutated in BL in 2012 by Richter et al.<sup>1</sup> Th
           2007 : Tumblr
           2008 : Instagram
           2010 : Pinterest
-```
+`
 ## Relevance tier by entity
 
 |Entity|Tier|Description                              |
