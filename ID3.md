@@ -5,14 +5,10 @@ ID3 was first reported as mutated in BL in 2012 by Richter et al.<sup>1</sup> Th
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'base' } }%%
     timeline
-        title History of Social Media Platform
-          2002 : LinkedIn
-          2004 : Facebook : Google
-          2005 : Youtube
-          2006 : Twitter
-          2007 : Tumblr
-          2008 : Instagram
-          2010 : Pinterest
+        title Timing of association with B-cell entities
+          2012 : BL
+          2012 : DLBCL
+          2016 : MZL
 ```
 ## Relevance tier by entity
 
