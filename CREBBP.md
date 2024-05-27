@@ -4,6 +4,15 @@ CREBBP mutations are highly prevalent in both DLBCL and FL. These mutations ofte
 
 ## Relevance tier by entity
 
+```mermaid
+%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
+timeline
+    title Publication timing
+      2011-03-10 : Pasqualucci : DLBCL
+      2012-12-01 : Love : BL
+      2013-12-13 : Parry : MZL
+      2021-07-15 : Duns : PMBL
+```
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
 |![MZL](images/icons/MZL_tier2.png)|2|relevance in MZL not firmly established|
@@ -76,9 +85,6 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/C
 
 ![image](images/proteinpaint/CREBBP.svg)
 
-## References
-1. *Pasqualucci, L., Dominguez-Sola, D., Chiarenza, A., Fabbri, G., Grunn, A., Trifonov, V., Kasper, L., Lerach, S., Tang, H., Ma, J., Rossi, D., Chadburn, A., Murty, V., Mullighan, C., Gaidano, G., Rabadán, R., Brindle, P., & Dalla-Favera, R. (2010). Inactivating mutations of acetyltransferase genes in B-cell lymphoma. Nature, 471, 189 - 195. https://doi.org/10.1038/nature09730.*
-2. *Dreval K, Hilton LK, Cruz M, Shaalan H, Ben-Neriah S, Boyle M, Collinge B, Coyle KM, Duns G, Farinha P, Grande BM, Meissner B, Pararajalingam P, Rushton CK, Slack GW, Wong J, Mungall AJ, Marra MA, Connors JM, Steidl C, Scott DW, Morin RD. Genetic subdivisions of follicular lymphoma defined by distinct coding and noncoding mutation patterns. Blood. 2023 Aug 10;142(6):561-573. doi: 10.1182/blood.2022018719. PMID: 37084389; PMCID: PMC10644066.*
 ## CREBBP Expression
 ![image](images/gene_expression/CREBBP_by_pathology.svg)
 <!-- ORIGIN: pasqualucciInactivatingMutationsAcetyltransferase2011a -->
@@ -87,3 +93,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/C
 <!-- BL: loveGeneticLandscapeMutations2012 -->
 <!-- DLBCL: pasqualucciInactivatingMutationsAcetyltransferase2011a -->
 <!-- MZL: parryWholeExomeSequencing2013 -->
+
+## References
+1. *Pasqualucci, L., Dominguez-Sola, D., Chiarenza, A., Fabbri, G., Grunn, A., Trifonov, V., Kasper, L., Lerach, S., Tang, H., Ma, J., Rossi, D., Chadburn, A., Murty, V., Mullighan, C., Gaidano, G., Rabadán, R., Brindle, P., & Dalla-Favera, R. (2010). Inactivating mutations of acetyltransferase genes in B-cell lymphoma. Nature, 471, 189 - 195. https://doi.org/10.1038/nature09730.*
+2. *Dreval K, Hilton LK, Cruz M, Shaalan H, Ben-Neriah S, Boyle M, Collinge B, Coyle KM, Duns G, Farinha P, Grande BM, Meissner B, Pararajalingam P, Rushton CK, Slack GW, Wong J, Mungall AJ, Marra MA, Connors JM, Steidl C, Scott DW, Morin RD. Genetic subdivisions of follicular lymphoma defined by distinct coding and noncoding mutation patterns. Blood. 2023 Aug 10;142(6):561-573. doi: 10.1182/blood.2022018719. PMID: 37084389; PMCID: PMC10644066.*
+
