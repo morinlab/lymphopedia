@@ -7,11 +7,10 @@ Here is a simple flow chart:
 
 ```mermaid
 timeline
-    title History of Social Media Platform
-    2002 : LinkedIn
-    2004 : Facebook
-         : Google
-    2005 : Youtube
+    2002-01-01 : LinkedIn
+    2002-01-31 : Facebook
+    2003 : Google
+    2005-09-09 : Youtube
     2006 : Twitter
 ```
 
