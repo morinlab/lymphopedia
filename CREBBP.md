@@ -6,9 +6,9 @@ CREBBP mutations are highly prevalent in both DLBCL and FL. These mutations ofte
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|DLBCL |1   |high-confidence DLBCL gene            |
-|FL    |1   |high-confidence FL gene               |
-|BL    |2   |association with BL is tenuous|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            |
+|![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene               |
+|![BL](images/icons/BL_tier2.png)    |2   |association with BL is tenuous|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -80,3 +80,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/C
 ## CREBBP Expression
 ![image](images/gene_expression/CREBBP_by_pathology.svg)
 <!-- ORIGIN: pasqualucciInactivatingMutationsAcetyltransferase2011a -->
+<!-- FL: pasqualucciInactivatingMutationsAcetyltransferase2011a -->
+<!-- BL: loveGeneticLandscapeMutations2012 -->
+<!-- BL: loveGeneticLandscapeMutations2012 -->
+<!-- DLBCL: pasqualucciInactivatingMutationsAcetyltransferase2011a -->
+<!-- MZL: parryWholeExomeSequencing2013 -->

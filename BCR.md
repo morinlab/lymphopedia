@@ -4,16 +4,12 @@ BCR (Breakpoint Cluster Region Protein) is one of [a number of genes](https://gi
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|DLBCL |1-a | aSHM target and high-confidence DLBCL gene            |
-|BL    |2-a | aSHM target; Although recurrent, the relevance of mutations in BL is tenuous |
+|![DLBCL](images/icons/DLBCL_tier1.png) |1-a | aSHM target and high-confidence DLBCL gene            |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
 |Entity|source               |frequency (%)|
 |:------:|:---------------------:|:-------------:|
-|BL    |GAMBL genomes+capture| 6.00        |
-|BL    |Thomas cohort        | 6.40        |
-|BL    |Panea cohort         |10.90        |
 |DLBCL |GAMBL genomes        | 4.97        |
 |DLBCL |Schmitz cohort       | 6.38        |
 |DLBCL |Reddy cohort         | 3.90        |

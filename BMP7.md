@@ -4,7 +4,7 @@
 
 |Entity|Tier|Description            |
 |:------:|:----:|-----------------------|
-|BL    |1   |high-confidence BL gene|
+|![BL](images/icons/BL_tier1.png)    |1   |high-confidence BL gene|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

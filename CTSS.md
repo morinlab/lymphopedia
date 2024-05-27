@@ -4,7 +4,7 @@
 
 |Entity|Tier|Description            |
 |:------:|:----:|-----------------------|
-|FL    |1   |high-confidence FL gene|
+|![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -40,3 +40,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/C
 ## CTSS Expression
 ![image](images/gene_expression/CTSS_by_pathology.svg)
 <!-- ORIGIN: barariaCathepsinAlterationsInduce2020c -->
+<!-- FL: barariaCathepsinAlterationsInduce2020c -->

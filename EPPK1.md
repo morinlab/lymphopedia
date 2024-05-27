@@ -4,7 +4,7 @@
 
 |Entity|Tier|Description            |
 |:------:|:----:|-----------------------|
-|BL    |1   |high-confidence BL gene|
+|![BL](images/icons/BL_tier1.png)    |1   |high-confidence BL gene|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -43,3 +43,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/E
 ## EPPK1 Expression
 ![image](images/gene_expression/EPPK1_by_pathology.svg)
 <!-- ORIGIN: paneaWholeGenomeLandscape2019 -->
+<!-- BL: paneaWholeGenomeLandscape2019 -->

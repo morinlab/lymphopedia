@@ -4,9 +4,8 @@
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|BL    |2   |relevance in BL not firmly established|
-|DLBCL |1   |high-confidence DLBCL gene            |
-|FL    |2   |relevance in FL not firmly established|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            |
+|![FL](images/icons/FL_tier2.png)    |2   |relevance in FL not firmly established|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -48,4 +47,6 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/M
 ![image](images/proteinpaint/MYD88.svg)
 ## MYD88 Expression
 ![image](images/gene_expression/MYD88_by_pathology.svg)
-<!-- ORIGIN: ngoOncogenicallyActiveMYD882011a -->
+<!-- ORIGIN: yanBCRTLRSignaling2012a -->
+<!-- DLBCL: ngoOncogenicallyActiveMYD882011a -->
+<!-- MZL: yanBCRTLRSignaling2012a -->

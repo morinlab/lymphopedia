@@ -7,9 +7,9 @@ BCL2 mutations are frequently found in DLBCL, particularly in the germinal cente
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|BL    |2   |relevance in BL not firmly established|
-|DLBCL |1-a   |high-confidence DLBCL gene, hypermutated            |
-|FL    |1-a   |high-confidence FL gene, hypermutated               |
+|![BL](images/icons/BL_tier2.png)    |2   |relevance in BL not firmly established|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1-a   |high-confidence DLBCL gene, hypermutated            |
+|![FL](images/icons/FL_tier1.png)    |1-a   |high-confidence FL gene, hypermutated               |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

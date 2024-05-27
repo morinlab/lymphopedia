@@ -4,8 +4,8 @@
 
 |Entity|Tier|Description                              |
 |:------:|:----:|-----------------------------------------|
-|DLBCL |2-a | aSHM target; Although recurrent, the relevance of mutations in DLBCL is tenuous |
-|MCL   |1-a | aSHM target and high-confidence MCL gene                 |
+|![DLBCL](images/icons/DLBCL_tier2.png) |2-a | aSHM target; Although recurrent, the relevance of mutations in DLBCL is tenuous |
+|![MCL](images/icons/MCL_tier1.png)   |1-a | aSHM target and high-confidence MCL gene                 |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
