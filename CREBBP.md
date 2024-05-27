@@ -45,10 +45,6 @@ timeline
 |FL    |No  |Yes                  |43.869          |112.938         |
 
 
-> [!NOTE]
-> First described in BL in 2012 by [Love C](https://pubmed.ncbi.nlm.nih.gov/23143597). First described in DLBCL in 2011 by [Pasqualucci L](https://pubmed.ncbi.nlm.nih.gov/21390126). First described in FL in 2011 by [Morin RD](https://pubmed.ncbi.nlm.nih.gov/21796119)
-
-
  ## CREBBP Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 

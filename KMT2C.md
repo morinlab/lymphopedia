@@ -2,6 +2,18 @@
 ## Overview
 This gene has been reported to be recurrently mutated in DLBCL. The rate of mutations in KMT2C (MLL3) varies across published cohorts. In the initial study describing these mutations, it was suggested to be mutated in >15% of DLBCLs.<sup>1</sup> The actual rate of mutations may be much lower,<sup>2</sup> potentially due to the existence of germline variants in some studies.<sup>3</sup> A more recent study suggested KMT2C mutations were more common in DLBCLs in patients of African ancestry.<sup>4</sup> Although KMT2C mutations have been described as a feature of MCL in a single study, this pattern was not reproduced in other cohorts.<sup>5</sup>
 
+## History
+
+```mermaid
+%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
+timeline
+    title Publication timing
+      2013-01-01 : Zhang : DLBCL
+      2014-05-08 : Zhang : MCL
+      2019-07-23 : Zhou : BL
+      2021-04-01 : Sarkozy : PMBL
+```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description                            |
