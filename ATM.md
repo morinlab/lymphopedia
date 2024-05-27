@@ -6,6 +6,7 @@ Mutations in this gene were first described in MZL by Braggio et al,<sup>1</sup>
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
+|![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene|
 |![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene|
 |![MCL](images/icons/MCL_tier1.png)   |1   |high-confidence MCL gene  |
 
