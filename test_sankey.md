@@ -62,21 +62,21 @@ troen 2008, DLBCL Tier 1, 1
 yildiz 2015, DLBCL Tier 1, 1
 zhang 2013, DLBCL Tier 1, 11
 zhang 2013, DLBCL Tier 2, 8
-1992, tanaka 1992, 1
-2001, pasqualucci 2001, 4
-2006, pasqualucci 2006, 1
-2007, scholl 2007, 1
-2008, lenz 2008, 1
-2008, troen 2008, 1
-2009, compagno 2009, 1
-2009, lake 2009, 1
-2010, cheung 2010, 1
-2010, morin 2010, 1
-2011, morin 2011, 25
-2011, ngo 2011, 1
-2011, pasqualucci 2011, 2
-2011, pasqualucci 2011, 7
-2011, tiacci 2011, 1
+1992, tanaka 1992
+2001, pasqualucci 2001
+2006, pasqualucci 2006
+2007, scholl 2007
+2008, lenz 2008
+2008, troen 2008
+2009, compagno 2009
+2009, lake 2009
+2010, cheung 2010
+2010, morin 2010
+2011, morin 2011
+2011, ngo 2011
+2011, pasqualucci 2011
+2011, pasqualucci 2011
+2011, tiacci 2011
 2012, khodabakhshi 2012, 1
 2012, kwanhian 2012, 1
 2012, lohr 2012, 4
