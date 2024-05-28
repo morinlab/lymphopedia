@@ -1,7 +1,13 @@
 # LCOR
 ## Overview
 LCOR (Ligand Dependent Nuclear Receptor Corepressor) is involved in the regulation of gene expression by acting as a corepressor for various nuclear receptors and transcription factors. It influences chromatin structure and gene transcription, which can impact cell growth and differentiation. Although recurrently mutated in DLBCL, owing to different annotations of this gene and C10orf12 in hg19 and hg38, there is some confusion about the mutation rate. 
-
+## History
+```mermaid
+%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
+timeline
+    title Publication timing
+      2018-10-01 : Arthur : DLBCL
+```
 ## Relevance tier by entity
 
 |Entity|Tier|Description                           |
@@ -44,3 +50,5 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/L
 <!-- ORIGIN: 30275490 -->
 <!-- BL: 2 -->
 <!-- DLBCL: arthurGenomewideDiscoverySomatic2018 -->
+## References
+1.  Arthur SE, Jiang A, Grande BM, Alcaide M, Cojocaru R, Rushton CK, Mottok A, Hilton LK, Lat PK, Zhao EY, Culibrk L, Ennishi D, Jessa S, Chong L, Thomas N, Pararajalingam P, Meissner B, Boyle M, Davidson J, Bushell KR, Lai D, Farinha P, Slack GW, Morin GB, Shah S, Sen D, Jones SJM, Mungall AJ, Gascoyne RD, Audas TE, Unrau P, Marra MA, Connors JM, Steidl C, Scott DW, Morin RD. Genome-wide discovery of somatic regulatory variants in diffuse large B-cell lymphoma. Nat Commun. 2018 Oct 1;9(1):4001. PMCID: PMC6167379
