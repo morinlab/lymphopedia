@@ -8,7 +8,7 @@ config:
   sankey:
     showValues: false
     width: 800
-    height: 600
+    height: 800
 ---
 sankey-beta
 
