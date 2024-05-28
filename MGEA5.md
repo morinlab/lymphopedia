@@ -2,6 +2,12 @@
 ## History
 Mutations in this gene were first described in DLBCL and FL in 2021 by Hübschmann et al.<sup>1</sup>
 
+```mermaid
+%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
+timeline
+    title Publication timing
+      2021-05-05 : H : FL
+```
 ## Relevance tier by entity
 
 |Entity|Tier|Description                           |

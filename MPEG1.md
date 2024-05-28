@@ -1,11 +1,18 @@
 # MPEG1
 ## Overview
 Mutations in MPEG1 have been described in DLBCL<sup>1</sup> with the overall rate of mutations somewhat variable across studies. MPEG1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus. Coding and non-coding MPEG1 mutations are a feature of the MCD genetic subgroup of DLBCL. 
-
+## History
+```mermaid
+%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
+timeline
+    title Publication timing
+      2013-08-15 : Morin : DLBCL
+```
 ## Relevance tier by entity
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
+|![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene|
 |![DLBCL](images/icons/DLBCL_tier1.png) |1-a   |high-confidence DLBCL gene|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)

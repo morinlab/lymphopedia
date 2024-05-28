@@ -1,7 +1,14 @@
 # MTOR
 ## Overview
 Although mutations in MTOR have been reported in DLBCL<sup>1</sup> and some BL, their role in lymphomagenesis has not been thoroughly studied. 
-
+## History
+```mermaid
+%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
+timeline
+    title Publication timing
+      2013-01-01 : Zhang : DLBCL
+      2019-09-26 : Panea : BL
+```
 ## Relevance tier by entity
 
 |Entity|Tier|Description                           |
