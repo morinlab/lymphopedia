@@ -2,10 +2,18 @@
 ## History
 Mutations in this gene were first described in DLBCL in 2017 by Reddy et al<sup>1</sup> and in BL in 2019 by Grande et al.<sup>2</sup>
 
+```mermaid
+%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
+timeline
+    title Publication timing
+      2017-10-10 : Reddy : DLBCL
+      2019-03-21 : Grande : BL
+```
 ## Relevance tier by entity
 
 |Entity|Tier|Description                              |
 |:------:|:----:|-----------------------------------------|
+|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene|
 |![BL](images/icons/BL_tier1.png)    |1   |high-confidence BL gene                  |
 |![DLBCL](images/icons/DLBCL_tier2.png) |2   |relevance in DLBCL not firmly established|
 
