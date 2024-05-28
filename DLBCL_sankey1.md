@@ -14,8 +14,9 @@ config:
 ---
 sankey-beta
 
-RNA-seq/exome, 2011, 15
-2011, morin 2011, 15
+RNA-seq/exome, 2011, 25
+2011, morin 2011, 25
+morin 2011,DLBCL Tier 1, 25
 
 exome, 2011, 7
 2011, pasqualucci 2011a, 7
