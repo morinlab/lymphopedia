@@ -7,6 +7,7 @@
 config:
   sankey:
     showValues: true
+    useMaxWidth: true
 ---
 sankey-beta
 
