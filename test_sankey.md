@@ -12,8 +12,9 @@ config:
 ---
 sankey-beta
 2001, pasqualucci 2001, 4
-pasqualucci 2001, DLBCL Tier 2, 1
+
 pasqualucci 2001, DLBCL Tier 1, 3
+pasqualucci 2001, DLBCL Tier 2, 1
 2011, morin 2011, 25
 2011, pasqualucci 2011, 7
 2011, pasqualucci 2011, 2
@@ -30,29 +31,32 @@ schmitz 2012, BL Tier 1, 3
 schmitz 2012, BL Tier 2, 16
 love 2012, BL Tier 1, 3
 love 2012, BL Tier 2, 56
+2012, lohr 2012, 4
+
 morin 2013, DLBCL Tier 2, 29
 morin 2013, DLBCL Tier 1, 11
 zhang 2013, DLBCL Tier 1, 11
 zhang 2013, DLBCL Tier 2, 8
+2013, zhang 2013, 19
+2013, morin 2013, 40
+
 2014, muppidi 2014, 3
 muppidi 2014, BL Tier 1, 1
 muppidi 2014, BL Tier 2, 2
 2016, morin 2016, 2
 2017, albuquerque 2017, 3
 2017, reddy 2017, 60
+reddy 2017, DLBCL Tier 2, 50
+reddy 2017, DLBCL Tier 1, 10
 2018, schmitz 2018, 16
-2012, lohr 2012, 4
 
 2018, arthur 2018, 20
 2020, pararajalingam 2020, 2
 2016, mareschal 2016, 2
 2018, chapuy 2018, 19
 2021, hubschmann 2021, 23
-2013, zhang 2013, 19
-2013, morin 2013, 40
 
-reddy 2017, DLBCL Tier 2, 50
-reddy 2017, DLBCL Tier 1, 10
+
 morin 2016, DLBCL Tier 1, 2
 albuquerque 2017, DLBCL Tier 1, 3
 schmitz 2018, DLBCL Tier 2, 7
