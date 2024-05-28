@@ -7,10 +7,19 @@ CXCR4 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm)
 Mutations in this gene were first described in DLBCL in 2012 by Khodabakhshi et al,<sup>1</sup> in FL in 2021 by Hübschmann et al<sup>2</sup> and in BL in 2019 by Panea et al.<sup>3</sup>
 
 
+```mermaid
+%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
+timeline
+    title Publication timing
+      2012-11-12 : Khodabakhshi : DLBCL
+      2017-01-26 : Krysiak : FL
+      2019-09-26 : Panea : BL
+```
 ## Relevance tier by entity
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
+|![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene|
 |![DLBCL](images/icons/DLBCL_tier1.png) |1-a | aSHM target and high-confidence DLBCL gene            |
 |![FL](images/icons/FL_tier2.png)    |2-a | aSHM target; Although recurrent, the relevance of mutations in FL is tenuous |
 |![BL](images/icons/BL_tier2.png)    |2-a | aSHM target; Although recurrent, the relevance of mutations in BL is tenuous |

@@ -1,5 +1,12 @@
 # CTSS
+## History
 
+```mermaid
+%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
+timeline
+    title Publication timing
+      2020-05-05 : Bararia : FL
+```
 ## Relevance tier by entity
 
 |Entity|Tier|Description            |
@@ -41,3 +48,5 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/C
 ![image](images/gene_expression/CTSS_by_pathology.svg)
 <!-- ORIGIN: barariaCathepsinAlterationsInduce2020c -->
 <!-- FL: barariaCathepsinAlterationsInduce2020c -->
+## References
+1.  Bararia D, Hildebrand JA, Stolz S, Haebe S, Alig S, Trevisani CP, Osorio-Barrios F, Bartoschek MD, Mentz M, Pastore A, Gaitzsch E, Heide M, Jurinovic V, Rautter K, Gunawardana J, Sabdia MB, Szczepanowski M, Richter J, Klapper W, Louissaint A, Ludwig C, Bultmann S, Leonhardt H, Eustermann S, Hopfner KP, Hiddemann W, von Bergwelt-Baildon M, Steidl C, Kridel R, Tobin JWD, Gandhi MK, Weinstock DM, Schmidt-Supprian M, Sárosi MB, Rudelius M, Passerini V, Mautner J, Weigert O. Cathepsin S Alterations Induce a Tumor-Promoting Immune Microenvironment in Follicular Lymphoma. Cell Rep. 2020 May 5;31(5):107522. PMID: 32330423
