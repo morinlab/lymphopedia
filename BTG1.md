@@ -2,6 +2,14 @@
 ## Overview
 BTG1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus. These mutations are a feature of the MCD genetic subgroup of DLBCL.<sup>1</sup>  Mutations in the BTG1 gene have been implicated in the pathogenesis and progression of diffuse large B-cell lymphoma (DLBCL) through functional exploration in vivo. Knock-out of BTG1 did not lead to spontaneous lymphomagenesis but enhanced the lymphoproliferation induced by VavP-BCL2 and promoted lymphoma dissemination in xenotransplantation experiments.<sup>2</sup>  Another study demonstrated that specific BTG1 mutations afford germinal center (GC) B cells with a fitness advantage relative to un-mutated counterparts.<sup>3</sup> 
 
+```mermaid
+%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
+timeline
+    title Publication timing
+      2011-07-27 : Morin : DLBCL
+      2021-04-01 : Sarkozy : PMBL
+      2022-07-06 : Burkhardt : BL
+```
 ## Relevance tier by entity
 
 |Entity|Tier|Description                           |
@@ -82,12 +90,18 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/B
 ## BTG1 Expression
 ![image](images/gene_expression/BTG1_by_pathology.svg)
 
-## References
-1. *Wright GW, Huang DW, Phelan JD, Coulibaly ZA, Roulland S, Young RM, Wang JQ, Schmitz R, Morin RD, Tang J, Jiang A, Bagaev A, Plotnikova O, Kotlov N, Johnson CA, Wilson WH, Scott DW, Staudt LM. A Probabilistic Classification Tool for Genetic Subtypes of Diffuse Large B Cell Lymphoma with Therapeutic Implications. Cancer Cell. 2020 Apr 13;37(4):551-568.e14. doi: 10.1016/j.ccell.2020.03.015. PMID: 32289277; PMCID: PMC8459709.*
-2. *Delage L, Lambert M, Bardel É, Kundlacz C, Chartoire D, Conchon A, Peugnet AL, Gorka L, Auberger P, Jacquel A, Soussain C, Destaing O, Delecluse HJ, Delecluse S, Merabet S, Traverse-Glehen A, Salles G, Bachy E, Billaud M, Ghesquières H, Genestier L, Rouault JP, Sujobert P. BTG1 inactivation drives lymphomagenesis and promotes lymphoma dissemination through activation of BCAR1. Blood. 2023 Mar 9;141(10):1209-1220. doi: 10.1182/blood.2022016943. PMID: 36375119.*
-3. *Mlynarczyk C, Teater M, Pae J, Chin CR, Wang L, Arulraj T, Barisic D, Papin A, Hoehn KB, Kots E, Ersching J, Bandyopadhyay A, Barin E, Poh HX, Evans CM, Chadburn A, Chen Z, Shen H, Isles HM, Pelzer B, Tsialta I, Doane AS, Geng H, Rehman MH, Melnick J, Morgan W, Nguyen DTT, Elemento O, Kharas MG, Jaffrey SR, Scott DW, Khelashvili G, Meyer-Hermann M, Victora GD, Melnick A. BTG1 mutation yields supercompetitive B cells primed for malignant transformation. Science. 2023 Jan 20;379(6629):eabj7412. doi: 10.1126/science.abj7412. Epub 2023 Jan 20. PMID: 36656933; PMCID: PMC10515739.*
-4. *Morin RD, Mendez-Lago M, Mungall AJ, Goya R, Mungall KL, Corbett RD, Johnson NA, Severson TM, Chiu R, Field M, Jackman S, Krzywinski M, Scott DW, Trinh DL, Tamura-Wells J, Li S, Firme MR, Rogic S, Griffith M, Chan S, Yakovenko O, Meyer IM, Zhao EY, Smailus D, Moksa M, Chittaranjan S, Rimsza L, Brooks-Wilson A, Spinelli JJ, Ben-Neriah S, Meissner B, Woolcock B, Boyle M, McDonald H, Tam A, Zhao Y, Delaney A, Zeng T, Tse K, Butterfield Y, Birol I, Holt R, Schein J, Horsman DE, Moore R, Jones SJ, Connors JM, Hirst M, Gascoyne RD, Marra MA. Frequent mutation of histone-modifying genes in non-Hodgkin lymphoma. Nature. 2011 Jul 27;476(7360):298-303. doi: 10.1038/nature10351. PMID: 21796119; PMCID: PMC3210554.*
+
 <!-- ORIGIN: morinFrequentMutationHistonemodifying2011 -->
 <!-- DLBCL: morinFrequentMutationHistonemodifying2011 -->
 <!-- BL: burkhardtClinicalRelevanceMolecular2022b -->
 <!-- BL: burkhardtClinicalRelevanceMolecular2022b -->
+## References
+
+1. *Wright GW, Huang DW, Phelan JD, Coulibaly ZA, Roulland S, Young RM, Wang JQ, Schmitz R, Morin RD, Tang J, Jiang A, Bagaev A, Plotnikova O, Kotlov N, Johnson CA, Wilson WH, Scott DW, Staudt LM. A Probabilistic Classification Tool for Genetic Subtypes of Diffuse Large B Cell Lymphoma with Therapeutic Implications. Cancer Cell. 2020 Apr 13;37(4):551-568.e14. doi: 10.1016/j.ccell.2020.03.015. PMID: 32289277; PMCID: PMC8459709.*
+2. *Delage L, Lambert M, Bardel É, Kundlacz C, Chartoire D, Conchon A, Peugnet AL, Gorka L, Auberger P, Jacquel A, Soussain C, Destaing O, Delecluse HJ, Delecluse S, Merabet S, Traverse-Glehen A, Salles G, Bachy E, Billaud M, Ghesquières H, Genestier L, Rouault JP, Sujobert P. BTG1 inactivation drives lymphomagenesis and promotes lymphoma dissemination through activation of BCAR1. Blood. 2023 Mar 9;141(10):1209-1220. doi: 10.1182/blood.2022016943. PMID: 36375119.*
+3. *Mlynarczyk C, Teater M, Pae J, Chin CR, Wang L, Arulraj T, Barisic D, Papin A, Hoehn KB, Kots E, Ersching J, Bandyopadhyay A, Barin E, Poh HX, Evans CM, Chadburn A, Chen Z, Shen H, Isles HM, Pelzer B, Tsialta I, Doane AS, Geng H, Rehman MH, Melnick J, Morgan W, Nguyen DTT, Elemento O, Kharas MG, Jaffrey SR, Scott DW, Khelashvili G, Meyer-Hermann M, Victora GD, Melnick A. BTG1 mutation yields supercompetitive B cells primed for malignant transformation. Science. 2023 Jan 20;379(6629):eabj7412. doi: 10.1126/science.abj7412. Epub 2023 Jan 20. PMID: 36656933; PMCID: PMC10515739.*
+4. *Morin RD, Mendez-Lago M, Mungall AJ, Goya R, Mungall KL, Corbett RD, Johnson NA, Severson TM, Chiu R, Field M, Jackman S, Krzywinski M, Scott DW, Trinh DL, Tamura-Wells J, Li S, Firme MR, Rogic S, Griffith M, Chan S, Yakovenko O, Meyer IM, Zhao EY, Smailus D, Moksa M, Chittaranjan S, Rimsza L, Brooks-Wilson A, Spinelli JJ, Ben-Neriah S, Meissner B, Woolcock B, Boyle M, McDonald H, Tam A, Zhao Y, Delaney A, Zeng T, Tse K, Butterfield Y, Birol I, Holt R, Schein J, Horsman DE, Moore R, Jones SJ, Connors JM, Hirst M, Gascoyne RD, Marra MA. Frequent mutation of histone-modifying genes in non-Hodgkin lymphoma. Nature. 2011 Jul 27;476(7360):298-303. doi: 10.1038/nature10351. PMID: 21796119; PMCID: PMC3210554.*
+
+5.  Sarkozy C, Hung SS, Chavez EA, Duns G, Takata K, Chong LC, Aoki T, Jiang A, Miyata-Takata T, Telenius A, Slack GW, Molina TJ, Ben-Neriah S, Farinha P, Dartigues P, Damotte D, Mottok A, Salles GA, Casasnovas RO, Savage KJ, Laurent C, Scott DW, Traverse-Glehen A, Steidl C. Mutational landscape of gray zone lymphoma. Blood. 2021 Apr 1;137(13):1765–1776. PMID: 32961552
+6.  Burkhardt B, Michgehl U, Rohde J, Erdmann T, Berning P, Reutter K, Rohde M, Borkhardt A, Burmeister T, Dave S, Tzankov A, Dugas M, Sandmann S, Fend F, Finger J, Mueller S, Gökbuget N, Haferlach T, Kern W, Hartmann W, Klapper W, Oschlies I, Richter J, Kontny U, Lutz M, Maecker-Kolhoff B, Ott G, Rosenwald A, Siebert R, von Stackelberg A, Strahm B, Woessmann W, Zimmermann M, Zapukhlyak M, Grau M, Lenz G. Clinical relevance of molecular characteristics in Burkitt lymphoma differs according to age. Nat Commun. 2022 Jul 6;13(1):3881. PMCID: PMC9259584
+
