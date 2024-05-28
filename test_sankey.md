@@ -19,15 +19,22 @@ pasqualucci 2001, DLBCL Tier 1, 3
 2011, pasqualucci 2011, 2
 pasqualucci 2011, DLBCL Tier 1, 5
 pasqualucci 2011, DLBCL Tier 2, 2
+morin 2011, DLBCL Tier 1, 25
+
+pasqualucci 2011, DLBCL Tier 1, 2
+2011, pasqualucci 2011, 2
 2012, schmitz 2012, 19
+2012, richter 2012, 5
 2012, love 2012, 59
 schmitz 2012, BL Tier 1, 3
 schmitz 2012, BL Tier 2, 16
 love 2012, BL Tier 1, 3
 love 2012, BL Tier 2, 56
-
+morin 2013, DLBCL Tier 2, 29
+morin 2013, DLBCL Tier 1, 11
 zhang 2013, DLBCL Tier 1, 11
 zhang 2013, DLBCL Tier 2, 8
+2014, muppidi 2014, 3
 muppidi 2014, BL Tier 1, 1
 muppidi 2014, BL Tier 2, 2
 2016, morin 2016, 2
@@ -63,11 +70,7 @@ hubschmann 2021, DLBCL Tier 2, 19
 chapuy 2018, DLBCL Tier 2, 16
 chapuy 2018, DLBCL Tier 1, 3
 
-morin 2011, DLBCL Tier 1, 25
-morin 2013, DLBCL Tier 2, 29
-morin 2013, DLBCL Tier 1, 11
-pasqualucci 2011, DLBCL Tier 1, 2
-2011, pasqualucci 2011, 2
+
 2017, krysiak 2017, 22
 2016, okosun 2016, 2
 2011, morin 2011, 15
@@ -85,10 +88,10 @@ russler 2023, FL Tier 1, 1
 russler 2023, FL Tier 2, 19
 
 2022, burkhardt 2022, 25
-2012, richter 2012, 5
+
 2019, panea 2019, 47
 2023, thomas 2023, 3
-2014, muppidi 2014, 3
+
 2019, grande 2019, 13
 burkhardt 2022, BL Tier 2, 25
 richter 2012, BL Tier 1, 5
