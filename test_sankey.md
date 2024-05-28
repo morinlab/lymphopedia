@@ -1,10 +1,12 @@
 
 
 ```mermaid
+
+
 ---
 config:
   sankey:
-    showValues: false
+    showValues: true
 ---
 sankey-beta
 
