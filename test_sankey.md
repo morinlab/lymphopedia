@@ -8,10 +8,6 @@ config:
 ---
 sankey-beta
 
-pasqualucci 2001, DLBCL Tier 1, 3
-pasqualucci 2001, DLBCL Tier 2, 1
-2001, pasqualucci 2001, 4
-
 morin 2011, DLBCL Tier 1, 25
 pasqualucci 2011, DLBCL Tier 1, 2
 pasqualucci 2011, DLBCL Tier 1, 5
