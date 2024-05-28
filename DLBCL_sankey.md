@@ -5,6 +5,8 @@ config:
     showValues: false
 ---
 sankey-beta
+2001, pasqualucci 2001, 3
+pasqualucci 2001,DLBCL Tier 1, 3
 2017, reddy 2017, 60
 2017, albuquerque 2017, 3
 2018, schmitz 2018, 16
@@ -20,9 +22,9 @@ sankey-beta
 2018, chapuy 2018, 19
 2021, hubschmann 2021, 23
 2021, duns 2021, 14
-2001, pasqualucci 2001, 3
+
 2020, pararajalingam 2020, 2
-pasqualucci 2001,DLBCL Tier 1, 3
+
 pararajalingam 2020,DLBCL Tier 1, 2
 morin 2011,DLBCL Tier 1, 25
 lohr 2012,DLBCL Tier 1, 3
