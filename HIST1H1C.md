@@ -6,6 +6,13 @@ This is one of several genes that encode linker histone proteins that are recurr
 Mutations in this gene were first described in DLBCL and FL in 2011 by Morin et al.<sup>1</sup> Mutations were subsequently reported in BL by Panea et al.<sup>3</sup> 
 
 
+```mermaid
+%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
+timeline
+    title Publication timing
+      2011-07-27 : Morin : DLBCL
+      2019-09-26 : Panea : BL
+```
 ## Relevance tier by entity
 
 |Entity|Tier|Description                           |
