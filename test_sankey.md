@@ -7,7 +7,8 @@
 config:
   sankey:
     showValues: true
-    useMaxWidth: true
+    prefix: "("
+    suffix: ")"
 ---
 sankey-beta
 
