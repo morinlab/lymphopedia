@@ -1,6 +1,11 @@
 # PCLO
-## Overview
-
+## History
+```mermaid
+%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
+timeline
+    title Publication timing
+      2012-03-06 : Lohr : DLBCL
+```
 ## Relevance tier by entity
 
 |Entity|Tier|Description                              |

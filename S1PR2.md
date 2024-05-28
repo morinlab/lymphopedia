@@ -1,7 +1,14 @@
 # S1PR2
 ## Overview
 S1PR2 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus.
-
+## History
+```mermaid
+%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
+timeline
+    title Publication timing
+      2011-07-27 : Morin : DLBCL
+      2014-12-11 : Muppidi : BL
+```
 ## Relevance tier by entity
 
 |Entity|Tier|Description                           |
@@ -38,9 +45,6 @@ S1PR2 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm)
 |:--------:|:----------:|:--------:|:------------------------------------------------------------------------------------------:|:------------------:|
 |chr19   |10340142  |10341764|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr19%3A10340142%2D10341764)|active_promoter   |
 
-> [!NOTE]
-> First described in BL in 2014 by [Muppidi JR](https://pubmed.ncbi.nlm.nih.gov/25274307)
-
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/S1PR2_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/S1PR2_protein_hg38.html)
 
@@ -54,3 +58,6 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/S
 <!-- ORIGIN: 21796119 -->
 <!-- BL: muppidiLossSignalingGa132014b -->
 <!-- DLBCL: morinFrequentMutationHistonemodifying2011 -->
+## References
+1.  Morin RD, Mendez-Lago M, Mungall AJ, Goya R, Mungall KL, Corbett RD, Johnson NA, Severson TM, Chiu R, Field M, Jackman S, Krzywinski M, Scott DW, Trinh DL, Tamura-Wells J, Li S, Firme MR, Rogic S, Griffith M, Chan S, Yakovenko O, Meyer IM, Zhao EY, Smailus D, Moksa M, Chittaranjan S, Rimsza L, Brooks-Wilson A, Spinelli JJ, Ben-Neriah S, Meissner B, Woolcock B, Boyle M, McDonald H, Tam A, Zhao Y, Delaney A, Zeng T, Tse K, Butterfield Y, Birol I, Holt R, Schein J, Horsman DE, Moore R, Jones SJM, Connors JM, Hirst M, Gascoyne RD, Marra MA. Frequent mutation of histone-modifying genes in non-Hodgkin lymphoma. Nature. 2011 Jul 27;476(7360):298–303. PMCID: PMC3210554
+2.  Muppidi J, Schmitz R, Green JA, Green JA, Xiao W, Larsen AB, Braun S, An J, Xu Y, Rosenwald A, Ott G, Gascoyne R, Rimsza L, Campo E, Jaffe E, Delabie J, Smeland E, Braziel R, Tubbs R, Cook J, Weisenburger D, Chan W, Vaidehi N, Staudt L, Cyster J. Loss of signaling via Gα13 in germinal center B cell-derived lymphoma. Nature. 2014;516:254–258. 

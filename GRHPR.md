@@ -2,7 +2,13 @@
 ## Overview
 GRHPR is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus. The mutation pattern in DLBCL implies the preferential accumulation of *inactivating mutations*. Coding and non-coding mutations in GRHPR are a feature of the MCD genetic subgroup of DLBCL.<sup>1</sup> Further research is needed to elucidate the specific role of GRHPR mutations in DLBCL.
 
-
+## History
+```mermaid
+%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
+timeline
+    title Publication timing
+      2018-10-01 : Arthur : DLBCL
+```
 ## Relevance tier by entity
 
 |Entity|Tier|Description               |
