@@ -1,7 +1,14 @@
 # JUNB
 ## Overview
 JUNB has been reported to be frequently mutated in T-cell/histiocyte-rich large B-cell lymphoma (THRLBCL).<sup>1</sup> Mutations have also been reported in DLBCL but the mutation rate in the earliest study<sup>2</sup> was likely an over-estimate.<sup>3</sup> According to one study, mutations are often enriched at somatic hypermutation hotspot sites, indicating the involvement of aberrant somatic hypermutation in the pathogenesis of these lymphomas.<sup>1</sup>
-
+## History
+```mermaid
+%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
+timeline
+    title Publication timing
+      2017-10-10 : Reddy : DLBCL
+      2019-09-05 : Mottok : PMBL
+```
 ## Relevance tier by entity
 
 |Entity|Tier|Description               |

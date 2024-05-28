@@ -1,7 +1,14 @@
 # ITPKB
 ## Overview
 The ITPKB gene encodes inositol-trisphosphate 3-kinase B, an enzyme involved in the regulation of intracellular calcium levels and PI3K/Akt signaling pathways. Mutations in ITPKB have been linked to various B-cell lymphomas, including DLBCL, PMBCL and, less commonly, FL.<sup>1</sup> ITPKB is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus. These mutations are associated with the **BN2** genetic subgroup of DLBCL. The mutation pattern in ITPKB implies selection for loss-of-function mutations. 
-
+## History
+```mermaid
+%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
+timeline
+    title Publication timing
+      2015-02-12 : Reichel : PMBL
+      2018-04-12 : Schmitz : DLBCL
+```
 ## Relevance tier by entity
 
 |Entity|Tier|Description               |

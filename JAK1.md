@@ -1,5 +1,12 @@
 # JAK1
-
+## History
+```mermaid
+%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
+timeline
+    title Publication timing
+      2013-01-01 : Zhang : DLBCL
+      2019-09-05 : Mottok : PMBL
+```
 ## Relevance tier by entity
 
 |Entity|Tier|Description                              |
@@ -47,3 +54,6 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/J
 <!-- ORIGIN: zhangGeneticHeterogeneityDiffuse2013 -->
 <!-- DLBCL: zhangGeneticHeterogeneityDiffuse2013 -->
 <!-- PMBL: mottokIntegrativeGenomicAnalysis2019b -->
+## References
+1.  Zhang J, Grubor V, Love CL, Banerjee A, Richards KL, Mieczkowski PA, Dunphy C, Choi W, Au WY, Srivastava G, Lugar PL, Rizzieri DA, Lagoo AS, Bernal-Mizrachi L, Mann KP, Flowers C, Naresh K, Evens A, Gordon LI, Czader M, Gill JI, Hsi ED, Liu Q, Fan A, Walsh K, Jima D, Smith LL, Johnson AJ, Byrd JC, Luftig MA, Ni T, Zhu J, Chadburn A, Levy S, Dunson D, Dave SS. Genetic heterogeneity of diffuse large B-cell lymphoma. 2013 Jan; 
+2.  Mottok A, Hung SS, Chavez EA, Woolcock B, Telenius A, Chong LC, Meissner B, Nakamura H, Rushton C, Viganò E, Sarkozy C, Gascoyne RD, Connors JM, Ben-Neriah S, Mungall A, Marra MA, Siebert R, Scott DW, Savage KJ, Steidl C. Integrative genomic analysis identifies key pathogenic mechanisms in primary mediastinal large B-cell lymphoma. Blood. 2019 Sep 5;134(10):802–813. PMID: 31292115

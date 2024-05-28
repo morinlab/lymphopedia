@@ -1,7 +1,14 @@
 # IRF4
 ## Overview
 IRF4 (Interferon Regulatory Factor 4) encodes a transcription factor that plays a critical role in the regulation of immune response genes and  B-cell development. Mutations and rearrangements in the IRF4 gene have been implicated in various B-cell lymphomas, including DLBCL. IRF4-rearranged large B-cell lymphomas (LBCL-IRF4) show a unique molecular profile with strong expression of IRF4/MUM1 and are associated with favorable outcomes. MUM1 staining is also commonly used to assign DLBCLs to one of the two cell-of-origin (COO) subgroups by immunohistochemistry.<sup>1</sup> IRF4 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus. There are a few mutation hotspots in this gene. The functional role of mutations in IRF4 in the absence of a rearrangement remains poorly understood. 
-
+## History
+```mermaid
+%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
+timeline
+    title Publication timing
+      2011-07-27 : Morin : DLBCL
+      2019-09-05 : Mottok : PMBL
+```
 ## Relevance tier by entity
 
 |Entity|Tier|Description               |

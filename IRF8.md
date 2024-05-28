@@ -1,7 +1,15 @@
 # IRF8 
 ## Overview
 IRF8 (Interferon Regulatory Factor 8) is a transcription factor critical for the development and function of B lymphocytes. Mutations in IRF8 have been implicated in various lymphoid malignancies, most predominantly in FL and DLBCL. IRF8 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus. Coding and non-coding mutations in IRF8 are associated with the EZB subgroup of DLBCL.<sup>1</sup> There is preliminary evidence that IRF8 mutations contribute to immune evasion by downregulating CD74 and HLA-DM in DLBCL.<sup>2</sup>  These are crucial for processing and presentation of self antigens.
-
+## History
+```mermaid
+%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
+timeline
+    title Publication timing
+      2011-07-27 : Morin : DLBCL
+      2019-09-05 : Mottok : PMBL
+      2019-09-26 : Panea : BL
+```
 ## Relevance tier by entity
 
 |Entity|Tier|Description                           |
