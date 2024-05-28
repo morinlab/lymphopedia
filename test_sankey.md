@@ -7,8 +7,8 @@
 config:
   sankey:
     showValues: false
-    prefix: "("
-    suffix: ")"
+    width: 800
+    height: 600
 ---
 sankey-beta
 
