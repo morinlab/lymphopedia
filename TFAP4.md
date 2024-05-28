@@ -2,6 +2,12 @@
 ## History
 Mutations in BL were first described by Grande et al.<sup>1</sup>
 
+```mermaid
+%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
+timeline
+    title Publication timing
+      2019-03-21 : Grande : BL
+```
 ## Relevance tier by entity
 
 |Entity|Tier|Description            |

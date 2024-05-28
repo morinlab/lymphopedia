@@ -1,9 +1,18 @@
 # WNK1
-
+## History
+```mermaid
+%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
+timeline
+    title Publication timing
+      2017-07-27 : Jallades : MZL
+      2021-05-05 : H : DLBCL
+      2023-02-03 : Thomas : BL
+```
 ## Relevance tier by entity
 
 |Entity|Tier|Description                              |
 |:------:|:----:|-----------------------------------------|
+|![MZL](images/icons/MZL_tier2.png)|2|relevance in MZL not firmly established|
 |![BL](images/icons/BL_tier1.png)    |1   |high-confidence BL gene                  |
 |![DLBCL](images/icons/DLBCL_tier2.png) |2   |relevance in DLBCL not firmly established|
 
