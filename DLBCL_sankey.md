@@ -3,6 +3,7 @@
 config:
   sankey:
     showValues: false
+    height: 1000
 ---
 sankey-beta
 2001, pasqualucci 2001, 3
