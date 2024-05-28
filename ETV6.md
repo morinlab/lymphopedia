@@ -1,7 +1,14 @@
 # ETV6
 ## Overview
 ETV6 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus. The prevalence of mutations in DLBCL has varied across different studies and may occur in as many as 10% of patients. This gene has some recurrent sites of mutations (hot spots) including multiple mutations predicted to affect splicing of ETV6 pre-mRNA. The mutation pattern in DLBCL mplies the preferential accumulation of *inactivating mutations*. Coding and non-coding mutations in this gene are associated with the MCD genetic subgroup of DLBCL. 
+## History
 
+```mermaid
+%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
+timeline
+    title Publication timing
+      2018-10-01 : Arthur : DLBCL
+```
 ## Relevance tier by entity
 
 |Entity|Tier|Description               |
@@ -52,3 +59,5 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/E
 ![image](images/gene_expression/ETV6_by_pathology.svg)
 <!-- ORIGIN: arthurGenomewideDiscoverySomatic2018 -->
 <!-- DLBCL: arthurGenomewideDiscoverySomatic2018 -->
+## References
+1.  Arthur SE, Jiang A, Grande BM, Alcaide M, Cojocaru R, Rushton CK, Mottok A, Hilton LK, Lat PK, Zhao EY, Culibrk L, Ennishi D, Jessa S, Chong L, Thomas N, Pararajalingam P, Meissner B, Boyle M, Davidson J, Bushell KR, Lai D, Farinha P, Slack GW, Morin GB, Shah S, Sen D, Jones SJM, Mungall AJ, Gascoyne RD, Audas TE, Unrau P, Marra MA, Connors JM, Steidl C, Scott DW, Morin RD. Genome-wide discovery of somatic regulatory variants in diffuse large B-cell lymphoma. Nat Commun. 2018 Oct 1;9(1):4001. PMCID: PMC6167379

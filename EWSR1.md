@@ -1,9 +1,16 @@
 # EWSR1
 
+```mermaid
+%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
+timeline
+    title Publication timing
+      2020-07-30 : Pararajalingam : MCL
+```
 ## Relevance tier by entity
 
 |Entity|Tier|Description             |
 |:------:|:----:|------------------------|
+|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene|
 |![MCL](images/icons/MCL_tier1.png)   |1   |high-confidence MCL gene|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
@@ -36,3 +43,5 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/E
 ![image](images/gene_expression/EWSR1_by_pathology.svg)
 <!-- ORIGIN: pararajalingamCodingNoncodingDrivers2020 -->
 <!-- MCL: pararajalingamCodingNoncodingDrivers2020 -->
+## References
+1.  Pararajalingam P, Coyle KM, Arthur SE, Thomas N, Alcaide M, Meissner B, Boyle M, Qureshi Q, Grande BM, Rushton C, Slack GW, Mungall AJ, Tam CS, Agarwal R, Dawson SJ, Lenz G, Balasubramanian S, Gascoyne RD, Steidl C, Connors J, Villa D, Audas TE, Marra MA, Johnson NA, Scott DW, Morin RD. Coding and noncoding drivers of mantle cell lymphoma identified through exome and genome sequencing. Blood. 2020 Jul 30;136(5):572–584. PMCID: PMC7440974
