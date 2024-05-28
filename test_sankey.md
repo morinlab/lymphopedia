@@ -6,7 +6,7 @@
 ---
 config:
   sankey:
-    showValues: true
+    showValues: false
     prefix: "("
     suffix: ")"
 ---
