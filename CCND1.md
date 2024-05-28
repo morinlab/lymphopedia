@@ -4,7 +4,7 @@
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
 timeline
     title Publication timing
-      2013-11-05 : Be : MCL
+      2013-11-05 : Bea : MCL
 ```
 ## Relevance tier by entity
 

@@ -2,6 +2,13 @@
 ## Overview
 Non-coding mutations, including synonymous and intronic mutations,  are enriched at splicing signals in exon 4 of HNRNPH1. These result in deregulated splicing and increased expression of the hnRNP H1 protein. This overexpression is linked to enhanced cell proliferation and survival, contributing to the aggressive nature of MCL. <sup>1,2</sup> Although initially characterized in MCL, the same pattern of mutations appears in a small number of DLBCLs.
 
+## History
+```mermaid
+%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
+timeline
+    title Publication timing
+      2020-07-30 : Pararajalingam : MCL
+```
 ## Relevance tier by entity
 
 |Entity|Tier|Description               |

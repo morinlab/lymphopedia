@@ -4,7 +4,7 @@
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
 timeline
     title Publication timing
-      2013-11-05 : Be : MCL
+      2013-11-05 : Bea : MCL
       2018-05-01 : Chapuy : DLBCL
 ```
 ## Relevance tier by entity
@@ -31,11 +31,6 @@ timeline
 |BL    |No  |No                   |1.141           |0               |
 |DLBCL |No  |No                   |3.705           |0               |
 |FL    |No  |No                   |0.000           |0               |
-
-
-> [!NOTE]
-> First described in DLBCL in 2018 by [Chapuy B](https://pubmed.ncbi.nlm.nih.gov/29713087). First described in MCL in 2013 by [Beà S](https://pubmed.ncbi.nlm.nih.gov/24145436)
-
 
  ## TLR2 Hotspots
 

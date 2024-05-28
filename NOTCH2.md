@@ -1,5 +1,14 @@
 # NOTCH2
-
+## History
+```mermaid
+%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
+timeline
+    title Publication timing
+      2008-07-01 : Troen : DLBCL
+      2012-08-27 : Rossi : MZL
+      2013-11-05 : Bea : MCL
+      2019-09-26 : Panea : BL
+```
 ## Relevance tier by entity
 
 |Entity|Tier|Description                           |
