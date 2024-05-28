@@ -1,7 +1,15 @@
 # BTG2
 ## Overview
 BTG2 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus. Mutations in the BTG2 gene have been implicated in the pathogenesis of diffuse large B-cell lymphoma (DLBCL), contributing to the development and progression of the disease. These mutations are a feature of the MCD genetic subgroup of DLBCL.<sup>1</sup> The biological function of BTG2 mutations and their role in lymphomagenesis remains poorly understood. A potential prognostic association with BTG2 mutations in primary testicular DLBCL has been reported but this has not yet been reproduced.<sup>2</sup>
+## History
 
+```mermaid
+%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
+timeline
+    title Publication timing
+      2011-07-27 : Morin : DLBCL
+      2012-12-01 : Love : BL
+```
 ## Relevance tier by entity
 
 |Entity|Tier|Description                           |

@@ -2,7 +2,14 @@
 ## Overview
 
 DUSP2 functions as a negative regulator of MAPK signaling, particularly affecting the ERK1/2 pathway. DUSP2 mutations have been reported in nodular lymphocyte predominant Hodgkin lymphoma (NLPHL),<sup>1</sup> T-cell/histiocyte-rich large B-cell lymphoma (T/HRLBCL)<sup>2</sup> and they are relatively frequent in DLBCL.  DUSP2 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus. These mutations are associated with the ST2 genetic subgroup of DLBCL. This gene has some recurrent sites of mutations (hot spots). The mutation pattern in DLBCL implies the preferential accumulation of *inactivating mutations*.
-
+## History
+```mermaid
+%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
+timeline
+    title Publication timing
+      2013-08-15 : Morin : DLBCL
+      2021-07-15 : Duns : PMBL
+```
 ## Relevance tier by entity
 
 |Entity|Tier|Description                           |

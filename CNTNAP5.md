@@ -2,6 +2,12 @@
 ## History
 Mutations in this gene were first described in DLBCL in 2013 by Morin et al.<sup>1</sup>
 
+```mermaid
+%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
+timeline
+    title Publication timing
+      2013-08-15 : Morin : DLBCL
+```
 ## Relevance tier by entity
 
 |Entity|Tier|Description                              |

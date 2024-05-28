@@ -7,6 +7,12 @@ Mutations in this gene were first described in DLBCL in 2017 by Reddy et al.<sup
 > Mutations in this gene were reported to be inflated in the original results according to [Dreval K](https://www.biorxiv.org/content/10.1101/2023.11.21.567983v1)
 
 
+```mermaid
+%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
+timeline
+    title Publication timing
+      2017-10-10 : Reddy : DLBCL
+```
 ## Relevance tier by entity
 
 |Entity|Tier|Description                              |

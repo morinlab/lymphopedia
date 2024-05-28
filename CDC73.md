@@ -2,6 +2,13 @@
 ## History
 Mutations in this gene were first described in BL in 2012 by Love et al<sup>1</sup> and subsequently in DLBCL by Reddy et al.<sup>2</sup> Subsequent exome and genome-wide studies of DLBCL and BL did not reproduce these observations. 
 
+```mermaid
+%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
+timeline
+    title Publication timing
+      2012-12-01 : Love : BL
+      2017-10-10 : Reddy : DLBCL
+```
 ## Relevance tier by entity
 
 |Entity|Tier|Description                              |
