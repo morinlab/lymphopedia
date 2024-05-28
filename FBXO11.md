@@ -5,10 +5,19 @@ Somatic mutations in FBXO11 are common in BL<sup>1,2</sup> and appear in a small
 ## History
 Mutations in this gene were first described in BL in 2015 by Pighi et al<sup>4</sup> and in DLBCL by Hübschmann et al.<sup>5</sup>
 
+```mermaid
+%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
+timeline
+    title Publication timing
+      2012-11-11 : Richter : BL
+      2013-12-13 : Parry : MZL
+      2021-05-05 : H : DLBCL
+```
 ## Relevance tier by entity
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
+|![MZL](images/icons/MZL_tier2.png)|2|relevance in MZL not firmly established|
 |![BL](images/icons/BL_tier1.png)    |1   |high-confidence BL gene   |
 |![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene|
 

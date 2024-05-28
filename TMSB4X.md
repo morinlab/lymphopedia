@@ -1,7 +1,14 @@
 # TMSB4X
 ## Overview
 TMSB4X is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus.
+## History
 
+```mermaid
+%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
+timeline
+    title Publication timing
+      2017-05-01 : Albuquerque : DLBCL
+```
 ## Relevance tier by entity
 
 |Entity|Tier|Description                           |
@@ -49,3 +56,5 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/T
 ![image](images/gene_expression/TMSB4X_by_pathology.svg)
 <!-- ORIGIN: albuquerqueEnhancingKnowledgeDiscovery2017a -->
 <!-- DLBCL: albuquerqueEnhancingKnowledgeDiscovery2017a -->
+## References
+1.  Albuquerque MA, Grande BM, Ritch EJ, Pararajalingam P, Jessa S, Krzywinski M, Grewal JK, Shah SP, Boutros PC, Morin RD. Enhancing knowledge discovery from cancer genomics data with Galaxy. Gigascience. 2017 May 1;6(5):1–13. PMCID: PMC5437943

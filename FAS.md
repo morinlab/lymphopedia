@@ -1,7 +1,14 @@
 # FAS
 ## Overview
 FAS encodes a cell surface receptor involved in the induction of apoptosis. FAS mutations are common in DLBCL and may be more frequent in primary gastric DLBCL.<sup>1,2</sup> Mutations also occur in FL at a lower rate.<sup>3</sup> Although reported in one BL study,<sup>4</sup> overall the evidence for FAS mutations in BL remains sparse. Mutations in FAS often lead to a loss of function, making lymphoma cells resistant to Fas ligand-induced apoptosis, thereby allowing malignant cells to evade immune surveillance.<sup>5</sup> In mouse models, Fas mutations led to a significantly shorter lymphoma-specific survival and reduced sensitivity to chemotherapy.<sup>5</sup>
-
+## History
+```mermaid
+%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
+timeline
+    title Publication timing
+      2007-05-01 : Scholl : DLBCL
+      2016-09-08 : Spina : MZL
+```
 ## Relevance tier by entity
 
 |Entity|Tier|Description                           |

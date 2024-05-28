@@ -5,6 +5,13 @@ Mutations in the EEF1A1 gene, which encodes the eukaryotic translation elongatio
 ## History
 Mutations in this gene were first described in DLBCL and FL in 2021 by Hübschmann et al.<sup>1</sup>
 
+```mermaid
+%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
+timeline
+    title Publication timing
+      2015-02-12 : Reichel : PMBL
+      2021-05-05 : H : FL
+```
 ## Relevance tier by entity
 
 |Entity|Tier|Description                           |
