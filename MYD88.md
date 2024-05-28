@@ -1,9 +1,17 @@
 # MYD88
-
+## History
+```mermaid
+%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
+timeline
+    title Publication timing
+      2011-02-03 : Ngo : DLBCL
+      2012-04-01 : Yan : MZL
+```
 ## Relevance tier by entity
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
+|![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene|
 |![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            |
 |![FL](images/icons/FL_tier2.png)    |2   |relevance in FL not firmly established|
 
@@ -50,3 +58,6 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/M
 <!-- ORIGIN: yanBCRTLRSignaling2012a -->
 <!-- DLBCL: ngoOncogenicallyActiveMYD882011a -->
 <!-- MZL: yanBCRTLRSignaling2012a -->
+## References
+1.  Ngo VN, Young RM, Schmitz R, Jhavar S, Xiao W, Lim KH, Kohlhammer H, Xu W, Yang Y, Zhao H, Shaffer AL, Romesser P, Wright G, Powell J, Rosenwald A, Muller-Hermelink HK, Ott G, Gascoyne RD, Connors JM, Rimsza LM, Campo E, Jaffe ES, Delabie J, Smeland EB, Fisher RI, Braziel RM, Tubbs RR, Cook JR, Weisenburger DD, Chan WC, Staudt LM. Oncogenically active MYD88 mutations in human lymphoma. Nature. 2011 Feb 3;470(7332):115–119. PMCID: PMC5024568
+2.  Yan Q, Huang Y, Watkins AJ, Kocialkowski S, Zeng N, Hamoudi RA, Isaacson PG, de Leval L, Wotherspoon A, Du MQ. BCR and TLR signaling pathways are recurrently targeted by genetic changes in splenic marginal zone lymphomas. Haematologica. 2012 Apr;97(4):595–598. PMCID: PMC3347666

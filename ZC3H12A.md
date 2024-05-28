@@ -1,5 +1,11 @@
 # ZC3H12A
-
+## History
+```mermaid
+%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
+timeline
+    title Publication timing
+      2017-10-10 : Reddy : DLBCL
+```
 ## Relevance tier by entity
 
 |Entity|Tier|Description                           |
