@@ -2,6 +2,12 @@
 ## History
 Mutations were first described in DLBCL in 2013 by Morin et al.<sup>1</sup> Subsequent exome and genome-wide studies of DLBCL did not reproduce this observation. 
 
+```mermaid
+%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
+timeline
+    title Publication timing
+      2013-08-15 : Morin : DLBCL
+```
 ## Relevance tier by entity
 
 |Entity|Tier|Description                              |

@@ -4,6 +4,14 @@
 ## History
 Mutations in this gene were first described in DLBCL and FL in 2021 by Hübschmann et al.<sup>1</sup>
 
+```mermaid
+%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
+timeline
+    title Publication timing
+      2016-09-08 : Spina : MZL
+      2019-08-20 : Desch : PMBL
+      2021-05-05 : H : DLBCL
+```
 ## Relevance tier by entity
 
 |Entity|Tier|Description                           |

@@ -2,7 +2,14 @@
 ## Overview
 
 ACTB is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas. 
-
+## History
+```mermaid
+%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
+timeline
+    title Publication timing
+      2012-03-06 : Lohr : DLBCL
+      2019-12-10 : Wienand : PMBL
+```
 ## Relevance tier by entity
 
 |Entity|Tier|Description               |

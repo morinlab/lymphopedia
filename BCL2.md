@@ -3,6 +3,15 @@
 
 BCL2 mutations are frequently found in DLBCL, particularly in the germinal center B-cell (GCB) subtype, and are often located in the flexible loop domain and outside the BCL2-homology domains. These mutations are caused by the somatic hypermutation process.<sup>1</sup> The presence of these mutations are strongly correlated with the presence of a translocation between BCL2 and one of the immunoglobulin loci. <sup>2</sup> Although missense mutations may not be under positive selective pressure in the context of lymphomagenesis, some of these mutations may interfere with the function of BCL2 antagonists.<sup>3</sup> 
 
+```mermaid
+%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
+timeline
+    title Publication timing
+      1992-01-01 : Tanaka : DLBCL
+      2011-07-27 : Morin : FL
+      2021-04-01 : Sarkozy : PMBL
+      2022-07-06 : Burkhardt : BL
+```
 ## Relevance tier by entity
 
 |Entity|Tier|Description                           |
@@ -68,16 +77,17 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/B
 
 ![image](images/proteinpaint/BCL2.svg)
 
-## References
 
-1. *Schuetz JM, Johnson NA, Morin RD, Scott DW, Tan K, Ben-Nierah S, Boyle M, Slack GW, Marra MA, Connors JM, Brooks-Wilson AR, Gascoyne RD. BCL2 mutations in diffuse large B-cell lymphoma. Leukemia. 2012 Jun;26(6):1383-90. doi: 10.1038/leu.2011.378. Epub 2011 Dec 22. PMID: 22189900.*
-2. *Hilton L et al. Motive and Opportunity: MYC rearrangements in high-grade B-cell lymphoma with MYC
-and BCL2 rearrangements-an LLMPP study. Blood. 2024. Epub May 3.*
-3. *Singh K, Briggs JM. Functional Implications of the spectrum of BCL2 mutations in Lymphoma. Mutat Res Rev Mutat Res. 2016 Jul-Sep;769:1-18. doi: 10.1016/j.mrrev.2016.06.001. Epub 2016 Jun 16. PMID: 27543313.*
 ## BCL2 Expression
 ![image](images/gene_expression/BCL2_by_pathology.svg)
+
 <!-- ORIGIN: 1339299 -->
 <!-- FL: morinFrequentMutationHistonemodifying2011 -->
 <!-- BL: burkhardtClinicalRelevanceMolecular2022b -->
 <!-- BL: burkhardtClinicalRelevanceMolecular2022b -->
 <!-- DLBCL: tanakaFrequentIncidenceSomatic1992 -->
+## References
+1.  Tanaka S, Louie DC, Kant JA, Reed JC. Frequent incidence of somatic mutations in translocated BCL2 oncogenes of non-Hodgkin’s lymphomas. Blood. 1992 Jan 1;79(1):229–237. PMID: 1339299
+2.  Morin RD, Mendez-Lago M, Mungall AJ, Goya R, Mungall KL, Corbett RD, Johnson NA, Severson TM, Chiu R, Field M, Jackman S, Krzywinski M, Scott DW, Trinh DL, Tamura-Wells J, Li S, Firme MR, Rogic S, Griffith M, Chan S, Yakovenko O, Meyer IM, Zhao EY, Smailus D, Moksa M, Chittaranjan S, Rimsza L, Brooks-Wilson A, Spinelli JJ, Ben-Neriah S, Meissner B, Woolcock B, Boyle M, McDonald H, Tam A, Zhao Y, Delaney A, Zeng T, Tse K, Butterfield Y, Birol I, Holt R, Schein J, Horsman DE, Moore R, Jones SJM, Connors JM, Hirst M, Gascoyne RD, Marra MA. Frequent mutation of histone-modifying genes in non-Hodgkin lymphoma. Nature. 2011 Jul 27;476(7360):298–303. PMCID: PMC3210554
+3.  Sarkozy C, Hung SS, Chavez EA, Duns G, Takata K, Chong LC, Aoki T, Jiang A, Miyata-Takata T, Telenius A, Slack GW, Molina TJ, Ben-Neriah S, Farinha P, Dartigues P, Damotte D, Mottok A, Salles GA, Casasnovas RO, Savage KJ, Laurent C, Scott DW, Traverse-Glehen A, Steidl C. Mutational landscape of gray zone lymphoma. Blood. 2021 Apr 1;137(13):1765–1776. PMID: 32961552
+4.  Burkhardt B, Michgehl U, Rohde J, Erdmann T, Berning P, Reutter K, Rohde M, Borkhardt A, Burmeister T, Dave S, Tzankov A, Dugas M, Sandmann S, Fend F, Finger J, Mueller S, Gökbuget N, Haferlach T, Kern W, Hartmann W, Klapper W, Oschlies I, Richter J, Kontny U, Lutz M, Maecker-Kolhoff B, Ott G, Rosenwald A, Siebert R, von Stackelberg A, Strahm B, Woessmann W, Zimmermann M, Zapukhlyak M, Grau M, Lenz G. Clinical relevance of molecular characteristics in Burkitt lymphoma differs according to age. Nat Commun. 2022 Jul 6;13(1):3881. PMCID: PMC9259584

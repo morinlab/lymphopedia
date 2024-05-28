@@ -5,6 +5,13 @@ Mutations in the GNAI2 gene, which encodes the G protein alpha subunit involved 
 ## History
 Mutations were first described in DLBCL in 2013 by Morin et al<sup>1</sup> and in BL in 2019 by Grande et al.<sup>2</sup>
 
+```mermaid
+%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
+timeline
+    title Publication timing
+      2013-08-15 : Morin : DLBCL
+      2019-03-21 : Grande : BL
+```
 ## Relevance tier by entity
 
 |Entity|Tier|Description               |
