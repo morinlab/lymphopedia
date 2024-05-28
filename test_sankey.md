@@ -11,21 +11,29 @@ config:
     height: 800
 ---
 sankey-beta
-
+2001, pasqualucci 2001, 4
+pasqualucci 2001, DLBCL Tier 2, 1
+pasqualucci 2001, DLBCL Tier 1, 3
+2011, morin 2011, 25
+2011, pasqualucci 2011, 7
+pasqualucci 2011, DLBCL Tier 1, 5
+pasqualucci 2011, DLBCL Tier 2, 2
+2012, schmitz 2012, 19
+2012, love 2012, 59
+zhang 2013, DLBCL Tier 1, 11
+zhang 2013, DLBCL Tier 2, 8
 2016, morin 2016, 2
 2017, albuquerque 2017, 3
 2017, reddy 2017, 60
 2018, schmitz 2018, 16
 2012, lohr 2012, 4
-2001, pasqualucci 2001, 4
+
 2018, arthur 2018, 20
 2020, pararajalingam 2020, 2
 2016, mareschal 2016, 2
 2018, chapuy 2018, 19
 2021, hubschmann 2021, 23
 2013, zhang 2013, 19
-2011, morin 2011, 25
-2011, pasqualucci 2011, 7
 2013, morin 2013, 40
 2011, pasqualucci 2011, 2
 reddy 2017, DLBCL Tier 2, 50
@@ -40,16 +48,13 @@ mareschal 2016, DLBCL Tier 1, 2
 pararajalingam 2020, DLBCL Tier 1, 2
 arthur 2018, DLBCL Tier 2, 12
 arthur 2018, DLBCL Tier 1, 8
-pasqualucci 2001, DLBCL Tier 2, 1
-pasqualucci 2001, DLBCL Tier 1, 3
-zhang 2013, DLBCL Tier 1, 11
-zhang 2013, DLBCL Tier 2, 8
+
+
 hubschmann 2021, DLBCL Tier 1, 4
 hubschmann 2021, DLBCL Tier 2, 19
 chapuy 2018, DLBCL Tier 2, 16
 chapuy 2018, DLBCL Tier 1, 3
-pasqualucci 2011, DLBCL Tier 1, 5
-pasqualucci 2011, DLBCL Tier 2, 2
+
 morin 2011, DLBCL Tier 1, 25
 morin 2013, DLBCL Tier 2, 29
 morin 2013, DLBCL Tier 1, 11
@@ -70,8 +75,7 @@ krysiak 2017, FL Tier 2, 5
 krysiak 2017, FL Tier 1, 17
 russler 2023, FL Tier 1, 1
 russler 2023, FL Tier 2, 19
-2012, schmitz 2012, 19
-2012, love 2012, 59
+
 2022, burkhardt 2022, 25
 2012, richter 2012, 5
 2019, panea 2019, 47
