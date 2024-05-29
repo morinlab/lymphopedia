@@ -1,4 +1,7 @@
-# DLBCL genes, Tier 2
+# DLBCL genes
+## Origins of DLBCL genes
+![sankey](DLBCL_sankey-1.svg)
+## Tier 2 genes
 |Category|Gene|DLBCL mutation frequency |gene|protein|
 | :---: | :----: | :---: | :---: | :--: |
 |2|[ABI3BP](ABI3BP)|3.44|[view](images/proteinpaint/ABI3BP.svg)|[view](images/proteinpaint/ABI3BP_NM_015429.svg)|
