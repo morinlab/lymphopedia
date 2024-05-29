@@ -5,7 +5,7 @@ config:
     showValues: true
     linkColor: target
     width: 800
-    height: 600
+    height: 500
     prefix: "("
     suffix: ")"
     nodeAlignment: right
