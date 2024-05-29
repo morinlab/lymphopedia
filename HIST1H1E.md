@@ -92,3 +92,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/H
 <!-- BL: grandeGenomewideDiscoverySomatic2019 -->
 <!-- FL: krysiakRecurrentSomaticMutations2017b -->
 <!-- DLBCL: morinMutationalStructuralAnalysis2013 -->
+<!-- PMBL: reichelFlowSortingExome2015a -->

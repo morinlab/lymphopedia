@@ -32,10 +32,6 @@ timeline
 |FL    |No  |No                   |0.000           |0               |
 
 
-> [!NOTE]
-> First described in DLBCL in 2016 by [Mareschal S](https://pubmed.ncbi.nlm.nih.gov/26608593)
-
-
  ## XPO1 Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 

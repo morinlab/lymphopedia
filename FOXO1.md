@@ -95,3 +95,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/F
 <!-- BL: schmitzBurkittLymphomaPathogenesis2012 -->
 <!-- FL: morinFrequentMutationHistonemodifying2011 -->
 <!-- DLBCL: morinFrequentMutationHistonemodifying2011 -->
+<!-- PMBL: dunsCharacterizationDLBCLPMBL2021b -->

@@ -57,12 +57,14 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/M
 ![image](images/gene_expression/MCL1_by_pathology.svg)
 
 
-<!-- ORIGIN: reddyGeneticFunctionalDrivers2017 -->
-<!-- BL: paneaWholeGenomeLandscape2019 -->
-<!-- BL: paneaWholeGenomeLandscape2019 -->
-<!-- DLBCL: reddyGeneticFunctionalDrivers2017 -->
+
 ## References
 1. *Wenzel, S., Grau, M., Mavis, C., Hailfinger, S., Wolf, A., Madle, H., Deeb, G., Dörken, B., Thome, M., Lenz, P., Dirnhofer, S., Hernandez-Ilizaliturri, F., Tzankov, A., & Lenz, G. (2013). MCL1 is deregulated in subgroups of diffuse large B-cell lymphoma. Leukemia, 27, 1381-1390. https://doi.org/10.1038/leu.2012.367.*
 2. *Reddy A, Zhang J, Davis NS, Moffitt AB, Love CL, Waldrop A, Leppa S, Pasanen A, Meriranta L, Karjalainen-Lindsberg ML, Nørgaard P, Pedersen M, Gang AO, Høgdall E, Heavican TB, Lone W, Iqbal J, Qin Q, Li G, Kim SY, Healy J, Richards KL, Fedoriw Y, Bernal-Mizrachi L, Koff JL, Staton AD, Flowers CR, Paltiel O, Goldschmidt N, Calaminici M, Clear A, Gribben J, Nguyen E, Czader MB, Ondrejka SL, Collie A, Hsi ED, Tse E, Au-Yeung RKH, Kwong YL, Srivastava G, Choi WWL, Evens AM, Pilichowska M, Sengar M, Reddy N, Li S, Chadburn A, Gordon LI, Jaffe ES, Levy S, Rempel R, Tzeng T, Happ LE, Dave T, Rajagopalan D, Datta J, Dunson DB, Dave SS. Genetic and Functional Drivers of Diffuse Large B Cell Lymphoma. Cell. 2017 Oct 5;171(2):481-494.e15. doi: 10.1016/j.cell.2017.09.027. PMID: 28985567; PMCID: PMC5659841.*
 3.  *Panea R, Love C, Shingleton JR, Reddy A, Bailey J, Moormann A, Otieno J, Ong’echa J, Oduor C, Schroêder K, Masalu N, Chao N, Agajanian M, Major M, Fedoriw Y, Richards K, Rymkiewicz G, Miles R, Alobeid B, Bhagat G, Flowers C, Ondrejka S, Hsi E, Choi W, Au-Yeung R, Hartmann W, Lenz G, Meyerson H, Lin YY, Zhuang Y, Luftig M, Waldrop A, Dave T, Thakkar D, Sahay H, Li G, Palus B, Seshadri V, Kim S, Gascoyne R, Levy S, Mukhopadhyay M, Dunson D, Dave S. The whole genome landscape of Burkitt lymphoma subtypes. Blood. 2019;* 
 4.  *Duns G, Viganò E, Ennishi D, Sarkozy C, Hung SS, Chavez E, Takata K, Rushton C, Jiang A, Ben-Neriah S, Woolcock BW, Slack GW, Hsi ED, Craig JW, Hilton LK, Shah SP, Farinha P, Mottok A, Gascoyne RD, Morin RD, Savage KJ, Scott DW, Steidl C. Characterization of DLBCL with a PMBL gene expression signature. Blood. 2021 Jul 15;138(2):136–148. PMID: 33684939*
+<!-- ORIGIN: reddyGeneticFunctionalDrivers2017 -->
+<!-- BL: paneaWholeGenomeLandscape2019 -->
+<!-- BL: paneaWholeGenomeLandscape2019 -->
+<!-- DLBCL: reddyGeneticFunctionalDrivers2017 -->
+<!-- PMBL: dunsCharacterizationDLBCLPMBL2021b -->

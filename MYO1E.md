@@ -40,3 +40,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/M
 ## MYO1E Expression
 ![image](images/gene_expression/MYO1E_by_pathology.svg)
 <!-- ORIGIN: Unknown -->
+## References

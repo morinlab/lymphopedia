@@ -47,9 +47,6 @@ timeline
 |chr16   |85931918  |85933977|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr16%3A85931918%2D85933977)|active_promoter   |
 
 
-> [!NOTE]
-> First described in DLBCL in 2011 by [Morin RD](https://pubmed.ncbi.nlm.nih.gov/21796119). First described in FL in 2011 by [Morin RD](https://pubmed.ncbi.nlm.nih.gov/21796119)
-
  ## IRF8 Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
@@ -81,3 +78,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/I
 <!-- PMBL: mottokIntegrativeGenomicAnalysis2019b -->
 <!-- FL: morinFrequentMutationHistonemodifying2011 -->
 <!-- DLBCL: morinFrequentMutationHistonemodifying2011 -->
+<!-- BL: paneaWholeGenomeLandscape2019 -->

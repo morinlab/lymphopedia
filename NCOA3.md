@@ -40,3 +40,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/N
 ## NCOA3 Expression
 ![image](images/gene_expression/NCOA3_by_pathology.svg)
 <!-- ORIGIN: Unknown -->
+## References

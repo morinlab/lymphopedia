@@ -44,9 +44,11 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/H
 ![image](images/proteinpaint/HIST1H4J.svg)
 ## HIST1H4J Expression
 ![image](images/gene_expression/HIST1H4J_by_pathology.svg)
-<!-- ORIGIN: paneaWholeGenomeLandscape2019 -->
-<!-- BL: paneaWholeGenomeLandscape2019 -->
-<!-- BL: paneaWholeGenomeLandscape2019 -->
+
 ## References
 1.  Mottok A, Hung SS, Chavez EA, Woolcock B, Telenius A, Chong LC, Meissner B, Nakamura H, Rushton C, Viganò E, Sarkozy C, Gascoyne RD, Connors JM, Ben-Neriah S, Mungall A, Marra MA, Siebert R, Scott DW, Savage KJ, Steidl C. Integrative genomic analysis identifies key pathogenic mechanisms in primary mediastinal large B-cell lymphoma. Blood. 2019 Sep 5;134(10):802–813. PMID: 31292115
 2.  Panea R, Love C, Shingleton JR, Reddy A, Bailey J, Moormann A, Otieno J, Ong’echa J, Oduor C, Schroêder K, Masalu N, Chao N, Agajanian M, Major M, Fedoriw Y, Richards K, Rymkiewicz G, Miles R, Alobeid B, Bhagat G, Flowers C, Ondrejka S, Hsi E, Choi W, Au-Yeung R, Hartmann W, Lenz G, Meyerson H, Lin YY, Zhuang Y, Luftig M, Waldrop A, Dave T, Thakkar D, Sahay H, Li G, Palus B, Seshadri V, Kim S, Gascoyne R, Levy S, Mukhopadhyay M, Dunson D, Dave S. The whole genome landscape of Burkitt lymphoma subtypes. Blood. 2019; 
+<!-- PMBL: mottokIntegrativeGenomicAnalysis2019b -->
+<!-- ORIGIN: paneaWholeGenomeLandscape2019 -->
+<!-- BL: paneaWholeGenomeLandscape2019 -->
+<!-- BL: paneaWholeGenomeLandscape2019 -->

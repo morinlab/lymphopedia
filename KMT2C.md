@@ -70,3 +70,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/K
 <!-- BL: zhouSporadicEndemicBurkitt2019 -->
 <!-- MCL: zhangGenomicLandscapeMantle2014 -->
 <!-- DLBCL: zhangGeneticHeterogeneityDiffuse2013 -->
+<!-- PMBL: sarkozyMutationalLandscapeGray2021a -->

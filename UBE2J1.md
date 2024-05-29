@@ -40,3 +40,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/U
 ## UBE2J1 Expression
 ![image](images/gene_expression/UBE2J1_by_pathology.svg)
 <!-- ORIGIN: Unknown -->
+## References
