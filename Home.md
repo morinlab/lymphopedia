@@ -54,8 +54,8 @@ Lohr 2012, DLBCL Tier 2, 1
 Love 2012, BL Tier 1, 3
 Love 2012, BL Tier 2, 56
 
-RNA-seq, 2012 RNA-seq studies, 19
-2012 RNA-seq studies, Schmitz 2012, 19
+RNA-seq, 2012 , 19
+2012 , Schmitz 2012, 19
 Schmitz 2012, BL Tier 1, 3
 Schmitz 2012, BL Tier 2, 16
 
