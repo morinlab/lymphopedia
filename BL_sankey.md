@@ -25,8 +25,8 @@ Love 2012, Tier 2 BL genes, 56
 
 RNA-seq, 2012 RNA-seq studies, 19
 2012 RNA-seq studies, Schmitz 2012, 19
-Schmitz 2012, BL Tier 1, 3
-Schmitz 2012, BL Tier 2, 16
+Schmitz 2012, Tier 1 BL genes, 3
+Schmitz 2012, Tier 2 BL genes, 16
 
 
 RNA-seq/exome, RNA-seq/exome studies,47
