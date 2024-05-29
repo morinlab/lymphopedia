@@ -2,7 +2,7 @@
 ---
 config:
   sankey:
-    showValues: false
+    showValues: true
     linkColor: target
     width: 800
     height: 600
