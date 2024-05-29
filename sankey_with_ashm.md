@@ -6,6 +6,8 @@ config:
     linkColor: target
     width: 800
     height: 600
+    prefix: "("
+    suffix: ")"
     nodeAlignment: right
 ---
 sankey-beta
