@@ -11,6 +11,9 @@ of mutations in each gene can be found through the gene lists (below). Additiona
 | BL | [(29 genes)](tier1_bl) |[(188 genes)](tier2_bl) |
 | MCL | [(24 genes)](tier1_mcl) |[(29 genes)](tier2_mcl) |
 
+## Origins of B-cell lymphoma gene lists
+![all_lists_sankey](BL_FL_DLBCL_sankey-1.svg)
+
 # B-cell Lymphoma aSHM targets
 [hg19 coordinates](ashm)
 
