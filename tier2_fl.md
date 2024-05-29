@@ -1,4 +1,7 @@
-# FL genes, Tier 2
+# FL genes
+## Origins of FL genes
+![sankey](FL_sankey-1.svg)
+## Tier 2 FL genes
 |Category|Gene|FL mutation frequency|gene|protein|
 | :---: | :----: | :---: | :---: | :---: |
 |2|[ABL2](ABL2)|0.69|[view](images/proteinpaint/ABL2.svg)|[view](images/proteinpaint/ABL2_NM_007314.svg)|

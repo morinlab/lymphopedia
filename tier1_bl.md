@@ -1,4 +1,7 @@
-# BL genes, Tier 1
+# BL genes
+## Origins of BL genes
+![sankey](BL_sankey-1.svg)
+## Tier 1 BL genes
 |Category |Gene|BL mutation frequency|gene|protein|
 | :---: | :----: | :---: | :---: | :---: |
 |1|[ARID1A](ARID1A)|28.64|[view](images/proteinpaint/ARID1A.svg)|[view](images/proteinpaint/ARID1A_NM_006015.svg)|

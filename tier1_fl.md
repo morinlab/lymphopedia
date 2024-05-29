@@ -1,4 +1,7 @@
-# FL genes, Tier 1
+# FL genes
+## Origins of FL genes
+![sankey](FL_sankey-1.svg)
+## Tier 1 FL genes
 |Category|Gene|FL Mutation frequency|gene|protein|
 | :---: | :----: | :---: | :---: | :---: |
 |1-a|[ACTB](ACTB)|5.31|[view](images/proteinpaint/ACTB.svg)|[view](images/proteinpaint/ACTB_NM_001101.svg)|

@@ -1,4 +1,7 @@
-# BL genes, Tier 2
+# BL genes
+## Origins of BL genes
+![sankey](BL_sankey-1.svg)
+## Tier 2 BL genes
 |Category|Gene|BL mutation frequency|gene|protein|
 | :---: | :----: | :---: | :---: | :---: |
 |2|[ALPK2](ALPK2)|3.93|[view](images/proteinpaint/ALPK2.svg)|[view](images/proteinpaint/ALPK2_NM_052947.svg)|

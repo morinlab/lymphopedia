@@ -1,7 +1,7 @@
 # DLBCL genes
 ## Origins of DLBCL genes
 ![sankey](DLBCL_sankey-1.svg)
-## Tier 1 genes
+## Tier 1 DLBCL genes
 |Category|Gene|Frequency(GAMBL)|gene|protein|
 | :---: | :----: | :---: | :---: | :---: |
 |1-a|[ACTB](ACTB)|9.18|[view](images/proteinpaint/ACTB.svg)|[view](images/proteinpaint/ACTB_NM_001101.svg)|
