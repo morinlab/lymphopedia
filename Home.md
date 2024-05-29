@@ -54,8 +54,8 @@ Lohr 2012, DLBCL Tier 2, 1
 Love 2012, BL Tier 1, 3
 Love 2012, BL Tier 2, 56
 
-RNA-seq, 2012 RNA-seq studies, 19
-2012 RNA-seq studies, Schmitz 2012, 19
+RNA-seq, 2012 , 19
+2012 , Schmitz 2012, 19
 Schmitz 2012, BL Tier 1, 3
 Schmitz 2012, BL Tier 2, 16
 
@@ -114,8 +114,8 @@ WGS, 2018 WGS studies, 20
 Arthur 2018, DLBCL Tier 2, 12
 Arthur 2018, DLBCL Tier 1, 8
 
-RNA-seq/exome,2019 RNA-seq/exome studies,47
-2019 RNA-seq/exome studies, Panea 2019, 47
+RNA-seq/exome,2019 ,47
+2019 , Panea 2019, 47
 Panea 2019, BL Tier 2, 43
 Panea 2019, BL Tier 1, 4
 
