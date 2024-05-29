@@ -1,5 +1,11 @@
 # SAMD9L
-
+## History
+```mermaid
+%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
+timeline
+    title Publication timing
+      2013-08-15 : Morin : DLBCL
+```
 ## Relevance tier by entity
 
 |Entity|Tier|Description                              |
@@ -24,9 +30,6 @@
 |FL    |No  |No                   |0.000           |0.000           |
 
 
-> [!NOTE]
-> First described in DLBCL in 2013 by [Morin RD](https://pubmed.ncbi.nlm.nih.gov/23699601)
-
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/SAMD9L_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/SAMD9L_protein_hg38.html)
 
@@ -39,3 +42,5 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/S
 ![image](images/gene_expression/SAMD9L_by_pathology.svg)
 <!-- ORIGIN: morinMutationalStructuralAnalysis2013 -->
 <!-- DLBCL: morinMutationalStructuralAnalysis2013 -->
+## References
+1.  Morin RD, Mungall K, Pleasance E, Mungall AJ, Goya R, Huff RD, Scott DW, Ding J, Roth A, Chiu R, Corbett RD, Chan FC, Mendez-Lago M, Trinh DL, Bolger-Munro M, Taylor G, Hadj Khodabakhshi A, Ben-Neriah S, Pon J, Meissner B, Woolcock B, Farnoud N, Rogic S, Lim EL, Johnson NA, Shah S, Jones S, Steidl C, Holt R, Birol I, Moore R, Connors JM, Gascoyne RD, Marra MA. Mutational and structural analysis of diffuse large B-cell lymphoma using whole-genome sequencing. Blood. 2013 Aug 15;122(7):1256–1265. PMCID: PMC3744992

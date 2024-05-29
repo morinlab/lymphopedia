@@ -35,3 +35,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/P
 ![image](images/gene_expression/PMAIP1_by_pathology.svg)
 <!-- ORIGIN: Unknown -->
 <!-- BL: 2 -->
+## References

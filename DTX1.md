@@ -119,3 +119,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/D
 <!-- BL: paneaWholeGenomeLandscape2019 -->
 <!-- DLBCL: schmitzGeneticsPathogenesisDiffuse2018a -->
 <!-- MZL: rossiCodingGenomeSplenic2012c -->
+<!-- PMBL: gomezUltraDeepSequencingReveals2023 -->

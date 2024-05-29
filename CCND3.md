@@ -108,3 +108,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/C
 <!-- BL: richterRecurrentMutationID32012a -->
 <!-- DLBCL: morinFrequentMutationHistonemodifying2011 -->
 <!-- MZL: jalladesExomeSequencingIdentifies2017 -->
+<!-- PMBL: deschGenotypingCirculatingTumor2020 -->

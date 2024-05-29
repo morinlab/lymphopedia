@@ -35,3 +35,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/R
 ![image](images/gene_expression/RPL22_by_pathology.svg)
 <!-- ORIGIN: Unknown -->
 <!-- BL: 2 -->
+## References

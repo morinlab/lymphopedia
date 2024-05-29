@@ -2,6 +2,13 @@
 ## History
 Mutations in this gene were first described in DLBCL in 2013 by Morin et al<sup>1</sup> and in FL in 2021 by Hübschmann et al.<sup>2</sup>
 
+```mermaid
+%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
+timeline
+    title Publication timing
+      2013-08-15 : Morin : DLBCL
+      2021-05-05 : H : FL
+```
 ## Relevance tier by entity
 
 |Entity|Tier|Description                              |
@@ -44,3 +51,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/P
 
 <!-- ORIGIN: morinMutationalStructuralAnalysis2013 -->
 <!-- DLBCL: morinMutationalStructuralAnalysis2013 -->
+<!-- FL: hubschmannMutationalMechanismsShaping2021b -->

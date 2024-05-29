@@ -1,5 +1,11 @@
 # RNF144B
-
+## History
+```mermaid
+%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
+timeline
+    title Publication timing
+      2019-09-26 : Panea : BL
+```
 ## Relevance tier by entity
 
 |Entity|Tier|Description                           |
@@ -28,8 +34,6 @@
 |:--------:|:----------:|:--------:|:-----------------------------------------------------------------------------------------:|:------------------:|
 |chr6    |25861094  |25868788|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr6%3A25861094%2D25868788)|NA                |
 
-> [!NOTE]
-> First described in BL in 2019 by [Panea RI](https://pubmed.ncbi.nlm.nih.gov/31558468)
 
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/RNF144B_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/RNF144B_protein_hg38.html)
@@ -43,3 +47,5 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/R
 ![image](images/gene_expression/RNF144B_by_pathology.svg)
 <!-- ORIGIN: paneaWholeGenomeLandscape2019 -->
 <!-- BL: paneaWholeGenomeLandscape2019 -->
+## References
+1.  Panea R, Love C, Shingleton JR, Reddy A, Bailey J, Moormann A, Otieno J, Ong’echa J, Oduor C, Schroêder K, Masalu N, Chao N, Agajanian M, Major M, Fedoriw Y, Richards K, Rymkiewicz G, Miles R, Alobeid B, Bhagat G, Flowers C, Ondrejka S, Hsi E, Choi W, Au-Yeung R, Hartmann W, Lenz G, Meyerson H, Lin YY, Zhuang Y, Luftig M, Waldrop A, Dave T, Thakkar D, Sahay H, Li G, Palus B, Seshadri V, Kim S, Gascoyne R, Levy S, Mukhopadhyay M, Dunson D, Dave S. The whole genome landscape of Burkitt lymphoma subtypes. Blood. 2019; 

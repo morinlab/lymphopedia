@@ -40,3 +40,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/P
 ## PTMA Expression
 ![image](images/gene_expression/PTMA_by_pathology.svg)
 <!-- ORIGIN: Unknown -->
+## References

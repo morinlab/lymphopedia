@@ -69,3 +69,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/D
 <!-- DLBCL: schmitzGeneticsPathogenesisDiffuse2018a -->
 <!-- BL: schmitzBurkittLymphomaPathogenesis2012 -->
 <!-- BL: schmitzBurkittLymphomaPathogenesis2012 -->
+<!-- PMBL: mottokIntegrativeGenomicAnalysis2019b -->

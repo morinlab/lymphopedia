@@ -1,5 +1,11 @@
 # PDE4DIP
-
+## History
+```mermaid
+%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
+timeline
+    title Publication timing
+      2018-05-01 : Chapuy : DLBCL
+```
 ## Relevance tier by entity
 
 |Entity|Tier|Description                              |
@@ -24,10 +30,6 @@
 |FL    |No  |No                   |2.010           |7.866           |
 
 
-> [!NOTE]
-> First described in DLBCL in 2018 by [Chapuy B](https://pubmed.ncbi.nlm.nih.gov/29713087)
-
-
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PDE4DIP_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PDE4DIP_protein_hg38.html)
 
 ![image](images/proteinpaint/PDE4DIP_NM_014644.svg)
@@ -39,3 +41,5 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/P
 ![image](images/gene_expression/PDE4DIP_by_pathology.svg)
 <!-- ORIGIN: chapuyMolecularSubtypesDiffuse2018b -->
 <!-- DLBCL: chapuyMolecularSubtypesDiffuse2018b -->
+## References
+1.  Chapuy B, Stewart C, Dunford AJ, Kim J, Kamburov A, Redd RA, Lawrence MS, Roemer MGM, Li AJ, Ziepert M, Staiger AM, Wala JA, Ducar MD, Leshchiner I, Rheinbay E, Taylor-Weiner A, Coughlin CA, Hess JM, Pedamallu CS, Livitz D, Rosebrock D, Rosenberg M, Tracy AA, Horn H, van Hummelen P, Feldman AL, Link BK, Novak AJ, Cerhan JR, Habermann TM, Siebert R, Rosenwald A, Thorner AR, Meyerson ML, Golub TR, Beroukhim R, Wulf GG, Ott G, Rodig SJ, Monti S, Neuberg DS, Loeffler M, Pfreundschuh M, Trümper L, Getz G, Shipp MA. Molecular subtypes of diffuse large B cell lymphoma are associated with distinct pathogenic mechanisms and outcomes. Nat Med. 2018 May;24(5):679–690. PMCID: PMC6613387

@@ -80,3 +80,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/C
 4. *Kim Y, Ju H, Kim DH, Yoo HY, Kim SJ, Kim WS, Ko YH. CD79B and MYD88 mutations in diffuse large B-cell lymphoma. Hum Pathol. 2014 Mar;45(3):556-64. doi: 10.1016/j.humpath.2013.10.023. Epub 2013 Oct 31. PMID: 24444466.*
 <!-- ORIGIN: morinFrequentMutationHistonemodifying2011 -->
 <!-- DLBCL: morinFrequentMutationHistonemodifying2011 -->
+<!-- BL: paneaWholeGenomeLandscape2019 -->
