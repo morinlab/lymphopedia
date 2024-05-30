@@ -8,7 +8,7 @@ of mutations in each gene can be found through the gene lists (below). Additiona
 | ----- | ----------- | ---------- |
 | DLBCL | [(152 genes)](tier1_dlbcl) |[(173 genes)](tier2_dlbcl) |
 | FL | [(65 genes)](tier1_fl) |[(50 genes)](tier2_fl) |
-| BL | [(29 genes)](tier1_bl) |[(188 genes)](tier2_bl) |
+| BL | [(29 genes)](BL_genes) |[(157 genes)](BL_genes#tier-2-bl-genes) |
 | MCL | [(24 genes)](tier1_mcl) |[(29 genes)](tier2_mcl) |
 
 ## Origins of B-cell lymphoma gene lists
