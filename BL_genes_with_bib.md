@@ -114,9 +114,9 @@
 |  [HIST1H3I](HIST1H3I)  |  2   |                 (Panea et al. 2019; Krysiak et al. 2017)                  |
 |  [HIST1H3J](HIST1H3J)  |  2   |                            (Panea et al. 2019)                            |
 |  [HIST1H4J](HIST1H4J)  |  2   |                            (Panea et al. 2019)                            |
-|     [HLA-A](HLA-A)     |  2   |                                   \[@\]                                   |
-|     [HLA-B](HLA-B)     |  2   |                                   \[@\]                                   |
-|   [HLA-DMB](HLA-DMB)   |  2   |                                   \[@\]                                   |
+|     [HLA-A](HLA-A)     |  2   |                                                                           |
+|     [HLA-B](HLA-B)     |  2   |                                                                           |
+|   [HLA-DMB](HLA-DMB)   |  2   |                                                                           |
 |  [HLA-DQB1](HLA-DQB1)  |  2   |                          (Burkhardt et al. 2022)                          |
 |       [ICK](ICK)       |  2   |                            (Love et al. 2012)                             |
 |     [IGLL5](IGLL5)     |  2   |             (Panea et al. 2019; Russler-Germain et al. 2023)              |
