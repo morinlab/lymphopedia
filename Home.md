@@ -36,7 +36,6 @@ Morin 2016, DLBCL Tier 1, 2
 Morin 2013, DLBCL Tier 1, 11
 Morin 2013, DLBCL Tier 2, 29
 Pasqualucci 2011, DLBCL Tier 1, 2
-Pararajalingam 2020, DLBCL Tier 2, 2
 Hubschmann 2021, DLBCL Tier 1, 3
 Hubschmann 2021, DLBCL Tier 2, 20
 Chapuy 2018, DLBCL Tier 1, 2
