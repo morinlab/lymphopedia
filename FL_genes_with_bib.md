@@ -60,8 +60,8 @@
 | HIST1H3B  |  1   |               (Zhang et al. 2013)                |
 | HIST1H3G  |  1   |              (Krysiak et al. 2017)               |
 | HIST1H3I  |  2   |              (Krysiak et al. 2017)               |
-|   HLA-B   |  2   |                        \]                        |
-|  HNRNPD   |  2   |                        \]                        |
+|   HLA-B   |  2   |                                                  |
+|  HNRNPD   |  2   |                                                  |
 |   HVCN1   |  1   |              (Krysiak et al. 2017)               |
 |   IGLL5   |  2   |          (Russler-Germain et al. 2023)           |
 |   IRF4    |  1   |               (Morin et al. 2011)                |
@@ -94,7 +94,7 @@
 |  POU2F2   |  1   |     (Krysiak et al. 2017; Zhang et al. 2013)     |
 |   PPP4C   |  2   |             (Hübschmann et al. 2021)             |
 |   PRKDC   |  2   |  (Hübschmann et al. 2021; Schmitz et al. 2018)   |
-|   PTPRD   |  1   |                        \]                        |
+|   PTPRD   |  1   |                                                  |
 |    PZP    |  2   |          (Russler-Germain et al. 2023)           |
 |   RBM6    |  2   |             (Hübschmann et al. 2021)             |
 |   RRAGC   |  1   |               (Okosun et al. 2016)               |
