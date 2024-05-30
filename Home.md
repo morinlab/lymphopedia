@@ -57,7 +57,6 @@ DLBCL-exome, Chapuy 2018, 19
 DLBCL, DLBCL-WGS, 23
 DLBCL-WGS, Hubschmann 2021, 23
 DLBCL, DLBCL-WGS/exome, 2
-DLBCL-WGS/exome, Pararajalingam 2020, 2
 DLBCL, DLBCL-exome, 2
 DLBCL-exome, Pasqualucci 2011, 2
 DLBCL, DLBCL-RNA-seq/WGS, 25
