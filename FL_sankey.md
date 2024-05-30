@@ -1,8 +1,4 @@
-
-
 ```mermaid
-
-
 ---
 config:
   sankey:
@@ -10,34 +6,28 @@ config:
     linkColor: target
     width: 800
     height: 1000
-    nodeAlignment: right
 ---
 sankey-beta
-
-RNA-seq/exome, 2011, 17
-2011, Morin 2011, 15
-Morin 2011, Tier 1 FL genes, 14
-Morin 2011, Tier 2 FL genes, 1
-2011, Pasqualucci 2011b, 2
-Pasqualucci 2011b, Tier 1 FL genes, 2
-
-WGS, 2016 WGS, 2
-2016 WGS, Okosun 2016, 2
-Okosun 2016, Tier 1 FL genes, 2
-
-exome, 2017 exome, 22
-2017 exome, Krysiak 2017, 22
-Krysiak 2017, Tier 2 FL genes, 5
-Krysiak 2017, Tier 1 FL genes, 17
-
-WGS, 2021 WGS, 17
-2021 WGS, Hubschmann 2021, 17
-Hubschmann 2021, Tier 2 FL genes, 15
-Hubschmann 2021, Tier 1 FL genes, 2
-
-exome, 2023 exome, 20
-2023 exome, Russler-Germain 2023, 20
-Russler-Germain 2023, Tier 1 FL genes, 1
-Russler-Germain 2023, Tier 2 FL genes, 19
-
+Russler-germain 2023, FL Tier 1, 1
+Russler-germain 2023, FL Tier 2, 19
+Hubschmann 2021, FL Tier 1, 2
+Hubschmann 2021, FL Tier 2, 15
+Pasqualucci 2011, FL Tier 1, 2
+Krysiak 2017, FL Tier 1, 17
+Krysiak 2017, FL Tier 2, 5
+Okosun 2016, FL Tier 1, 2
+Morin 2011, FL Tier 1, 14
+Morin 2011, FL Tier 2, 1
+FL, RNA-seq/WGS, 15
+RNA-seq/WGS, morin 2011, 15
+FL, exome, 22
+exome, krysiak 2017, 22
+FL, WGS, 2
+WGS, okosun 2016, 2
+FL, WGS, 17
+WGS, hubschmann 2021, 17
+FL, exome, 2
+exome, pasqualucci 2011, 2
+FL, exome, 20
+exome, russler 2023, 20
 ```
