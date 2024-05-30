@@ -1,8 +1,4 @@
-
-
 ```mermaid
-
-
 ---
 config:
   sankey:
@@ -13,39 +9,34 @@ config:
     nodeAlignment: right
 ---
 sankey-beta
-
-exome, 2012 exome studies, 64
-2012 exome studies, Richter 2012, 5
-2012 exome studies, Love 2012, 59
-
-Richter 2012, Tier 1 BL genes, 5
-
-Love 2012, Tier 1 BL genes, 3
-Love 2012, Tier 2 BL genes, 56
-
-RNA-seq, 2012 RNA-seq studies, 19
-2012 RNA-seq studies, Schmitz 2012, 19
-Schmitz 2012, Tier 1 BL genes, 3
-Schmitz 2012, Tier 2 BL genes, 16
-
-
-RNA-seq/exome, RNA-seq/exome studies,47
-RNA-seq/exome studies, Panea 2019, 47
-Panea 2019, Tier 2 BL genes, 43
-Panea 2019, Tier 1 BL genes, 4
-
-WGS,2019 WGS studies,13
-2019 WGS studies, Grande 2019, 13
-Grande 2019, Tier 1 BL genes, 8
-Grande 2019, Tier 2 BL genes, 5
-
-
-Panel, 2022 panel studies, 25
-2022 panel studies, Burkhardt 2022, 25
-Burkhardt 2022, Tier 2 BL genes, 25
-
-WGS, 2023 WGS studies, 3
-2023 WGS studies, Thomas 2023, 3
-Thomas 2023, Tier 2 BL genes, 1
-Thomas 2023, Tier 1 BL genes, 2
+Love 2012, BL Tier 1, 3
+Love 2012, BL Tier 2, 56
+Muppidi 2014, BL Tier 1, 1
+Muppidi 2014, BL Tier 2, 2
+Schmitz 2012, BL Tier 1, 3
+Schmitz 2012, BL Tier 2, 16
+Richter 2012, BL Tier 1, 5
+Burkhardt 2022, BL Tier 2, 25
+Thomas 2023, BL Tier 1, 2
+Thomas 2023, BL Tier 2, 3
+Grande 2019, BL Tier 1, 9
+Grande 2019, BL Tier 2, 4
+Panea 2019, BL Tier 1, 4
+Panea 2019, BL Tier 2, 46
+BL, exome, 59
+exome, Love 2012, 59
+BL, RNA-seq/WGS/exome, 5
+RNA-seq/WGS/exome, Richter 2012, 5
+BL, Sanger, 3
+Sanger, Muppidi 2014, 3
+BL, RNA-seq, 19
+RNA-seq, Schmitz 2012, 19
+BL, WGS, 13
+WGS, Grande 2019, 13
+BL, RNA-seq/exome, 50
+RNA-seq/exome, Panea 2019, 50
+BL, panel, 25
+panel, Burkhardt 2022, 25
+BL, WGS, 5
+WGS, Thomas 2023, 5
 ```
