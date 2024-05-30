@@ -41,9 +41,6 @@ timeline
 |FL    |No  |No                   |2.864           |0               |
 
 
-> [!NOTE]
-> First described in BL in 2012 by [Love C](https://pubmed.ncbi.nlm.nih.gov/23143597). First described in DLBCL in 2011 by [Pasqualucci L](https://pubmed.ncbi.nlm.nih.gov/21804550). First described in MCL in 2013 by [Beà S](https://pubmed.ncbi.nlm.nih.gov/24145436)
-
  ## NOTCH1 Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
