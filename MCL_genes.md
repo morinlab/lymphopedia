@@ -6,84 +6,84 @@
 
 ### *23 total*
 
-|        Gene        |     Tier     |                               Relevant references                                |
-|:------------------:|:------------:|:--------------------------------------------------------------------------------:|
-|     [ATM](ATM)     |      1       |                       Beà et al. 2013; Reddy et al. 2017                       |
-|   [BIRC3](BIRC3)   |      1       |                      Beà et al. 2013; Arthur et al. 2018                       |
-|  [CARD11](CARD11)  |      1       |     Panea et al. 2019; Lenz et al. 2008; Morin et al. 2011; Wu et al. 2016     |
-|   [CCND1](CCND1)   |   1, aSHM    |                                Beà et al. 2013                                 |
-|  [DAZAP1](DAZAP1)  |      1       |                           Pararajalingam et al. 2020                           |
-|   [EWSR1](EWSR1)   |      1       |                           Pararajalingam et al. 2020                           |
-| [HNRNPH1](HNRNPH1) | 1, noncoding |                           Pararajalingam et al. 2020                           |
-|   [KMT2D](KMT2D)   |      1       |             Morin et al. 2011; Beà et al. 2013; Grande et al. 2019             |
-|   [MEF2B](MEF2B)   |      1       |                       Beà et al. 2013; Morin et al. 2011                       |
-|  [NFKBIE](NFKBIE)  |      1       |                 Pararajalingam et al. 2020; Morin et al. 2016                  |
-|  [NOTCH1](NOTCH1)  |      1       |           Pasqualucci et al. 2011; Love et al. 2012; Beà et al. 2013           |
-|  [NOTCH2](NOTCH2)  |      1       |             Beà et al. 2013; Panea et al. 2019; Trøen et al. 2008              |
-|    [NSD2](NSD2)    |      1       |                                Beà et al. 2013                                 |
-|    [POT1](POT1)    |      1       |                               Zhang et al. 2014                                |
-|     [RB1](RB1)     |      1       |                      Zhang et al. 2014; Morin et al. 2013                      |
-|   [S1PR1](S1PR1)   |      1       |                           Pararajalingam et al. 2020                           |
-| [SMARCA4](SMARCA4) |      1       | Richter et al. 2012; Krysiak et al. 2017; Zhang et al. 2013; Nadeu et al. 2020 |
-|   [SP140](SP140)   |      1       |                                Beà et al. 2013                                 |
-|   [SYNE1](SYNE1)   |      1       |                               Nadeu et al. 2020                                |
-|    [TERT](TERT)    | 1, noncoding |                               Nadeu et al. 2020                                |
-|    [TLR2](TLR2)    |      1       |                      Beà et al. 2013; Chapuy et al. 2018                       |
-|    [TP53](TP53)    |      1       |             Morin et al. 2011; Beà et al. 2013; Wilda et al. 2004              |
-|    [UBR5](UBR5)    |      1       |                 Zhang et al. 2013; Pararajalingam et al. 2020                  |
+|        Gene        |     Tier     | Relevant references                                                              |
+|:------------------:|:------------:|:---------------------------------------------------------------------------------|
+|     [ATM](ATM)     |      1       | Beà et al. 2013; Reddy et al. 2017                                             |
+|   [BIRC3](BIRC3)   |      1       | Arthur et al. 2018; Beà et al. 2013                                            |
+|  [CARD11](CARD11)  |      1       | Morin et al. 2011; Lenz et al. 2008; Wu et al. 2016; Panea et al. 2019         |
+|   [CCND1](CCND1)   |   1, aSHM    | Beà et al. 2013                                                                |
+|  [DAZAP1](DAZAP1)  |      1       | Pararajalingam et al. 2020                                                     |
+|   [EWSR1](EWSR1)   |      1       | Pararajalingam et al. 2020                                                     |
+| [HNRNPH1](HNRNPH1) | 1, noncoding | Pararajalingam et al. 2020                                                     |
+|   [KMT2D](KMT2D)   |      1       | Grande et al. 2019; Morin et al. 2011; Beà et al. 2013                         |
+|   [MEF2B](MEF2B)   |      1       | Morin et al. 2011; Beà et al. 2013                                             |
+|  [NFKBIE](NFKBIE)  |      1       | Pararajalingam et al. 2020; Morin et al. 2016                                  |
+|  [NOTCH1](NOTCH1)  |      1       | Pasqualucci et al. 2011; Love et al. 2012; Beà et al. 2013                     |
+|  [NOTCH2](NOTCH2)  |      1       | Beà et al. 2013; Trøen et al. 2008; Panea et al. 2019                          |
+|    [NSD2](NSD2)    |      1       | Beà et al. 2013                                                                |
+|    [POT1](POT1)    |      1       | Zhang et al. 2014                                                              |
+|     [RB1](RB1)     |      1       | Morin et al. 2013; Zhang et al. 2014                                           |
+|   [S1PR1](S1PR1)   |      1       | Pararajalingam et al. 2020                                                     |
+| [SMARCA4](SMARCA4) |      1       | Richter et al. 2012; Zhang et al. 2013; Krysiak et al. 2017; Nadeu et al. 2020 |
+|   [SP140](SP140)   |      1       | Beà et al. 2013                                                                |
+|   [SYNE1](SYNE1)   |      1       | Nadeu et al. 2020                                                              |
+|    [TERT](TERT)    | 1, noncoding | Nadeu et al. 2020                                                              |
+|    [TLR2](TLR2)    |      1       | Beà et al. 2013; Chapuy et al. 2018                                            |
+|    [TP53](TP53)    |      1       | Morin et al. 2011; Wilda et al. 2004; Beà et al. 2013                          |
+|    [UBR5](UBR5)    |      1       | Zhang et al. 2013; Pararajalingam et al. 2020                                  |
 
 ## Tier 2 MCL genes
 
 ### *46 total*
 
-|         Gene         | Tier |                   Relevant references                    |
-|:--------------------:|:----:|:--------------------------------------------------------:|
-|    [ABCA3](ABCA3)    |  2   |                    Beà et al. 2013                     |
-|    [ABCC9](ABCC9)    |  2   |                    Beà et al. 2013                     |
-|     [ANK2](ANK2)     |  2   |                   Zhang et al. 2014                    |
-|   [ARID1B](ARID1B)   |  2   |                   Reddy et al. 2017                    |
-|   [ATP11C](ATP11C)   |  2   |                   Zhang et al. 2014                    |
-|      [B2M](B2M)      |  2   |     Pararajalingam et al. 2020; Morin et al. 2011      |
-|     [BCOR](BCOR)     |  2   |                   Nadeu et al. 2020                    |
-|     [CDH8](CDH8)     |  2   |                   Zhang et al. 2014                    |
-|   [CHMP4C](CHMP4C)   |  2   |                    Beà et al. 2013                     |
-|  [COL11A1](COL11A1)  |  2   |                   Zhang et al. 2014                    |
-|  [COL16A1](COL16A1)  |  2   |                   Zhang et al. 2014                    |
-|   [CRYBG3](CRYBG3)   |  2   |                    Beà et al. 2013                     |
-|   [CTNNA2](CTNNA2)   |  2   |                   Zhang et al. 2014                    |
-|    [DCP1B](DCP1B)    |  2   |                    Beà et al. 2013                     |
-|     [DHDH](DHDH)     |  2   |                   Zhang et al. 2014                    |
-|     [DLC1](DLC1)     |  2   |                   Zhang et al. 2014                    |
-|   [DLGAP2](DLGAP2)   |  2   |                    Beà et al. 2013                     |
-|   [DNAJC6](DNAJC6)   |  2   |                    Beà et al. 2013                     |
-|  [EIF2AK4](EIF2AK4)  |  2   |                   Zhang et al. 2014                    |
-|     [ESX1](ESX1)     |  2   |                   Zhang et al. 2014                    |
-|     [FAT4](FAT4)     |  2   |          Morin et al. 2013; Zhang et al. 2014          |
-|   [GRIN2A](GRIN2A)   |  2   |                   Zhang et al. 2014                    |
-|     [HEPH](HEPH)     |  2   |                   Zhang et al. 2014                    |
-|    [KCNC2](KCNC2)    |  2   |                    Beà et al. 2013                     |
-| [KIAA1671](KIAA1671) |  2   |                    Beà et al. 2013                     |
-|    [KMT2C](KMT2C)    |  2   | Zhang et al. 2014; Zhang et al. 2013; Zhou et al. 2019 |
-|    [LUZP4](LUZP4)    |  2   |                    Beà et al. 2013                     |
-|   [MRGPRF](MRGPRF)   |  2   |                   Zhang et al. 2014                    |
-|      [NIN](NIN)      |  2   |                   Zhang et al. 2014                    |
-|    [OGDHL](OGDHL)    |  2   |                   Zhang et al. 2014                    |
-|   [PCDHB2](PCDHB2)   |  2   |                   Zhang et al. 2014                    |
-|    [PCSK2](PCSK2)    |  2   |                    Beà et al. 2013                     |
-|   [PDLIM3](PDLIM3)   |  2   |                    Beà et al. 2013                     |
-|   [PLXNB3](PLXNB3)   |  2   |                   Zhang et al. 2014                    |
-|     [RGS4](RGS4)     |  2   |                    Beà et al. 2013                     |
-|    [ROBO2](ROBO2)    |  2   |                   Zhang et al. 2014                    |
-|    [SALL3](SALL3)    |  2   |          Zhang et al. 2014; Love et al. 2012           |
-|       [SI](SI)       |  2   |                   Zhang et al. 2014                    |
-|  [SLC17A6](SLC17A6)  |  2   |                    Beà et al. 2013                     |
-|  [SMARCB1](SMARCB1)  |  2   |                   Nadeu et al. 2020                    |
-|    [SMC1A](SMC1A)    |  2   |                   Zhang et al. 2014                    |
-|  [TBC1D26](TBC1D26)  |  2   |                   Zhang et al. 2014                    |
-|   [TNRC6B](TNRC6B)   |  2   |                    Beà et al. 2013                     |
-|    [TRPM6](TRPM6)    |  2   |                    Beà et al. 2013                     |
-|   [ZNF117](ZNF117)   |  2   |                   Zhang et al. 2014                    |
-|   [ZNF296](ZNF296)   |  2   |                   Zhang et al. 2014                    |
+|         Gene         | Tier | Relevant references                                      |
+|:--------------------:|:----:|:---------------------------------------------------------|
+|    [ABCA3](ABCA3)    |  2   | Beà et al. 2013                                        |
+|    [ABCC9](ABCC9)    |  2   | Beà et al. 2013                                        |
+|     [ANK2](ANK2)     |  2   | Zhang et al. 2014                                      |
+|   [ARID1B](ARID1B)   |  2   | Reddy et al. 2017                                      |
+|   [ATP11C](ATP11C)   |  2   | Zhang et al. 2014                                      |
+|      [B2M](B2M)      |  2   | Pararajalingam et al. 2020; Morin et al. 2011          |
+|     [BCOR](BCOR)     |  2   | Nadeu et al. 2020                                      |
+|     [CDH8](CDH8)     |  2   | Zhang et al. 2014                                      |
+|   [CHMP4C](CHMP4C)   |  2   | Beà et al. 2013                                        |
+|  [COL11A1](COL11A1)  |  2   | Zhang et al. 2014                                      |
+|  [COL16A1](COL16A1)  |  2   | Zhang et al. 2014                                      |
+|   [CRYBG3](CRYBG3)   |  2   | Beà et al. 2013                                        |
+|   [CTNNA2](CTNNA2)   |  2   | Zhang et al. 2014                                      |
+|    [DCP1B](DCP1B)    |  2   | Beà et al. 2013                                        |
+|     [DHDH](DHDH)     |  2   | Zhang et al. 2014                                      |
+|     [DLC1](DLC1)     |  2   | Zhang et al. 2014                                      |
+|   [DLGAP2](DLGAP2)   |  2   | Beà et al. 2013                                        |
+|   [DNAJC6](DNAJC6)   |  2   | Beà et al. 2013                                        |
+|  [EIF2AK4](EIF2AK4)  |  2   | Zhang et al. 2014                                      |
+|     [ESX1](ESX1)     |  2   | Zhang et al. 2014                                      |
+|     [FAT4](FAT4)     |  2   | Zhang et al. 2014; Morin et al. 2013                   |
+|   [GRIN2A](GRIN2A)   |  2   | Zhang et al. 2014                                      |
+|     [HEPH](HEPH)     |  2   | Zhang et al. 2014                                      |
+|    [KCNC2](KCNC2)    |  2   | Beà et al. 2013                                        |
+| [KIAA1671](KIAA1671) |  2   | Beà et al. 2013                                        |
+|    [KMT2C](KMT2C)    |  2   | Zhang et al. 2013; Zhou et al. 2019; Zhang et al. 2014 |
+|    [LUZP4](LUZP4)    |  2   | Beà et al. 2013                                        |
+|   [MRGPRF](MRGPRF)   |  2   | Zhang et al. 2014                                      |
+|      [NIN](NIN)      |  2   | Zhang et al. 2014                                      |
+|    [OGDHL](OGDHL)    |  2   | Zhang et al. 2014                                      |
+|   [PCDHB2](PCDHB2)   |  2   | Zhang et al. 2014                                      |
+|    [PCSK2](PCSK2)    |  2   | Beà et al. 2013                                        |
+|   [PDLIM3](PDLIM3)   |  2   | Beà et al. 2013                                        |
+|   [PLXNB3](PLXNB3)   |  2   | Zhang et al. 2014                                      |
+|     [RGS4](RGS4)     |  2   | Beà et al. 2013                                        |
+|    [ROBO2](ROBO2)    |  2   | Zhang et al. 2014                                      |
+|    [SALL3](SALL3)    |  2   | Love et al. 2012; Zhang et al. 2014                    |
+|       [SI](SI)       |  2   | Zhang et al. 2014                                      |
+|  [SLC17A6](SLC17A6)  |  2   | Beà et al. 2013                                        |
+|  [SMARCB1](SMARCB1)  |  2   | Nadeu et al. 2020                                      |
+|    [SMC1A](SMC1A)    |  2   | Zhang et al. 2014                                      |
+|  [TBC1D26](TBC1D26)  |  2   | Zhang et al. 2014                                      |
+|   [TNRC6B](TNRC6B)   |  2   | Beà et al. 2013                                        |
+|    [TRPM6](TRPM6)    |  2   | Beà et al. 2013                                        |
+|   [ZNF117](ZNF117)   |  2   | Zhang et al. 2014                                      |
+|   [ZNF296](ZNF296)   |  2   | Zhang et al. 2014                                      |
 
 # References
 
