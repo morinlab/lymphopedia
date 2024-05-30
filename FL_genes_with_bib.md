@@ -1,16 +1,14 @@
 # FL genes
 
-|   Gene    | Tier |              FL Relevant references              |
+## Tier 1 FL genes
+
+|   Gene    | Tier |               Relevant references                |
 |:---------:|:----:|:------------------------------------------------:|
-|   ABL2    |  2   |          (Russler-Germain et al. 2023)           |
 |   ACTB    |  1   |                (Lohr et al. 2012)                |
-|   ACTG1   |  2   |             (Hübschmann et al. 2021)             |
 |  ARID1A   |  1   |     (Krysiak et al. 2017; Zhang et al. 2013)     |
 |  ATP6AP1  |  1   |               (Okosun et al. 2016)               |
-|  ATP6V1A  |  2   |             (Hübschmann et al. 2021)             |
 | ATP6V1B2  |  1   |               (Okosun et al. 2016)               |
 |    B2M    |  1   |               (Morin et al. 2011)                |
-|   BCL10   |  2   | (Russler-Germain et al. 2023; Morin et al. 2011) |
 |   BCL2    |  1   |     (Morin et al. 2011; Tanaka et al. 1992)      |
 |   BCL6    |  1   |               (Morin et al. 2011)                |
 |   BCL7A   |  1   |    (Krysiak et al. 2017; Arthur et al. 2018)     |
@@ -19,33 +17,19 @@
 |   BTG2    |  1   |               (Morin et al. 2011)                |
 |    BTK    |  1   |  (Krysiak et al. 2017; Albuquerque et al. 2017)  |
 |  CARD11   |  1   |      (Morin et al. 2011; Lenz et al. 2008)       |
-| CCDC42BPB |  2   |             (Hübschmann et al. 2021)             |
 |   CCND3   |  1   |               (Morin et al. 2011)                |
-|   CD70    |  2   | (Russler-Germain et al. 2023; Morin et al. 2011) |
-|   CD79B   |  2   |               (Morin et al. 2011)                |
 |   CD83    |  1   | (Russler-Germain et al. 2023; Morin et al. 2013) |
-|   CILP    |  2   |          (Russler-Germain et al. 2023)           |
-|   CPNE8   |  2   |             (Hübschmann et al. 2021)             |
 |  CREBBP   |  1   | (Laura Pasqualucci, Dominguez-Sola, et al. 2011) |
 |   CTSS    |  1   |              (Bararia et al. 2020)               |
-|   CXCR4   |  2   | (Krysiak et al. 2017; Khodabakhshi et al. 2012)  |
-|  CYP2A6   |  2   |          (Russler-Germain et al. 2023)           |
-|   DDX3X   |  2   |              (Schmitz et al. 2018)               |
-|   DHX15   |  2   |             (Hübschmann et al. 2021)             |
 |   DTX1    |  1   |              (Schmitz et al. 2018)               |
-|   DUSP2   |  2   |               (Morin et al. 2013)                |
 |   EBF1    |  1   |               (Bohle et al. 2013)                |
 |  EEF1A1   |  1   |             (Hübschmann et al. 2021)             |
-|   EGR1    |  2   |              (Krysiak et al. 2017)               |
 |   EP300   |  1   | (Laura Pasqualucci, Dominguez-Sola, et al. 2011) |
 |   EZH2    |  1   |               (Morin et al. 2010)                |
 |    FAS    |  1   |               (Scholl et al. 2007)               |
 |   FOXO1   |  1   |               (Morin et al. 2011)                |
-|   FZR1    |  2   |             (Hübschmann et al. 2021)             |
-|   GBP7    |  2   |          (Russler-Germain et al. 2023)           |
 |   GNA13   |  1   |               (Morin et al. 2011)                |
 |   GNAI2   |  1   |               (Morin et al. 2013)                |
-|   GRM6    |  2   |          (Russler-Germain et al. 2023)           |
 | HIST1H1B  |  1   |    (Krysiak et al. 2017; Chapuy et al. 2018)     |
 | HIST1H1C  |  1   |               (Morin et al. 2011)                |
 | HIST1H1D  |  1   |     (Krysiak et al. 2017; Morin et al. 2013)     |
@@ -56,29 +40,69 @@
 | HIST1H2BC |  1   |     (Krysiak et al. 2017; Reddy et al. 2017)     |
 | HIST1H2BD |  1   |              (Krysiak et al. 2017)               |
 | HIST1H2BG |  1   |              (Krysiak et al. 2017)               |
-| HIST1H2BM |  2   |              (Krysiak et al. 2017)               |
 | HIST1H3B  |  1   |               (Zhang et al. 2013)                |
 | HIST1H3G  |  1   |              (Krysiak et al. 2017)               |
-| HIST1H3I  |  2   |              (Krysiak et al. 2017)               |
-|   HLA-B   |  2   |                                                  |
-|  HNRNPD   |  2   |                                                  |
 |   HVCN1   |  1   |              (Krysiak et al. 2017)               |
-|   IGLL5   |  2   |          (Russler-Germain et al. 2023)           |
 |   IRF4    |  1   |               (Morin et al. 2011)                |
 |   IRF8    |  1   |               (Morin et al. 2011)                |
 |   ITPKB   |  1   |              (Schmitz et al. 2018)               |
-|    JUP    |  2   |             (Hübschmann et al. 2021)             |
-|  KIR3DL1  |  2   |          (Russler-Germain et al. 2023)           |
 |   KLF2    |  1   |    (Laura Pasqualucci, Trifonov, et al. 2011)    |
 |   KLHL6   |  1   |               (Morin et al. 2011)                |
 |   KMT2D   |  1   |               (Morin et al. 2011)                |
-|  LAPTM5   |  2   |             (Hübschmann et al. 2021)             |
 |    LTB    |  1   |               (Chapuy et al. 2018)               |
-|  MAGEC1   |  2   |          (Russler-Germain et al. 2023)           |
 |  MAP2K1   |  1   |    (Louissaint et al. 2016; Shin et al. 2015)    |
-|  MAP7D1   |  2   |          (Russler-Germain et al. 2023)           |
 |   MEF2B   |  1   |               (Morin et al. 2011)                |
 |   MEF2C   |  1   |               (Arthur et al. 2018)               |
+|   PCLO    |  1   |                (Lohr et al. 2012)                |
+|   PIM1    |  1   |           (L. Pasqualucci et al. 2001)           |
+|  POU2AF1  |  1   |              (Krysiak et al. 2017)               |
+|  POU2F2   |  1   |     (Krysiak et al. 2017; Zhang et al. 2013)     |
+|   PTPRD   |  1   |                                                  |
+|   RRAGC   |  1   |               (Okosun et al. 2016)               |
+|   S1PR2   |  1   |               (Morin et al. 2011)                |
+|   SGK1    |  1   |               (Morin et al. 2011)                |
+|  SMARCA4  |  1   |     (Krysiak et al. 2017; Zhang et al. 2013)     |
+|   SOCS1   |  1   |               (Morin et al. 2011)                |
+|   STAT6   |  1   |               (Yildiz et al. 2015)               |
+|  TBL1XR1  |  1   |             (Mareschal et al. 2016)              |
+|  TMSB4X   |  1   |            (Albuquerque et al. 2017)             |
+|  TNFAIP3  |  1   |              (Compagno et al. 2009)              |
+| TNFRSF14  |  1   |               (Cheung et al. 2010)               |
+|   TP53    |  1   |               (Morin et al. 2011)                |
+|   VMA21   |  1   |             (Hübschmann et al. 2021)             |
+
+## Tier 2 FL genes
+
+|   Gene    | Tier |               Relevant references                |
+|:---------:|:----:|:------------------------------------------------:|
+|   ABL2    |  2   |          (Russler-Germain et al. 2023)           |
+|   ACTG1   |  2   |             (Hübschmann et al. 2021)             |
+|  ATP6V1A  |  2   |             (Hübschmann et al. 2021)             |
+|   BCL10   |  2   | (Russler-Germain et al. 2023; Morin et al. 2011) |
+| CCDC42BPB |  2   |             (Hübschmann et al. 2021)             |
+|   CD70    |  2   | (Russler-Germain et al. 2023; Morin et al. 2011) |
+|   CD79B   |  2   |               (Morin et al. 2011)                |
+|   CILP    |  2   |          (Russler-Germain et al. 2023)           |
+|   CPNE8   |  2   |             (Hübschmann et al. 2021)             |
+|   CXCR4   |  2   | (Krysiak et al. 2017; Khodabakhshi et al. 2012)  |
+|  CYP2A6   |  2   |          (Russler-Germain et al. 2023)           |
+|   DDX3X   |  2   |              (Schmitz et al. 2018)               |
+|   DHX15   |  2   |             (Hübschmann et al. 2021)             |
+|   DUSP2   |  2   |               (Morin et al. 2013)                |
+|   EGR1    |  2   |              (Krysiak et al. 2017)               |
+|   FZR1    |  2   |             (Hübschmann et al. 2021)             |
+|   GBP7    |  2   |          (Russler-Germain et al. 2023)           |
+|   GRM6    |  2   |          (Russler-Germain et al. 2023)           |
+| HIST1H2BM |  2   |              (Krysiak et al. 2017)               |
+| HIST1H3I  |  2   |              (Krysiak et al. 2017)               |
+|   HLA-B   |  2   |                                                  |
+|  HNRNPD   |  2   |                                                  |
+|   IGLL5   |  2   |          (Russler-Germain et al. 2023)           |
+|    JUP    |  2   |             (Hübschmann et al. 2021)             |
+|  KIR3DL1  |  2   |          (Russler-Germain et al. 2023)           |
+|  LAPTM5   |  2   |             (Hübschmann et al. 2021)             |
+|  MAGEC1   |  2   |          (Russler-Germain et al. 2023)           |
+|  MAP7D1   |  2   |          (Russler-Germain et al. 2023)           |
 |   MGEA5   |  2   |             (Hübschmann et al. 2021)             |
 |   MKI67   |  2   |          (Russler-Germain et al. 2023)           |
 |    MYC    |  2   |           (L. Pasqualucci et al. 2001)           |
@@ -87,34 +111,17 @@
 |  NFKBIA   |  2   | (Russler-Germain et al. 2023; Lake et al. 2009)  |
 |   OR8H2   |  2   |          (Russler-Germain et al. 2023)           |
 |   P2RY8   |  2   |                (Lohr et al. 2012)                |
-|   PCLO    |  1   |                (Lohr et al. 2012)                |
 |   PDS5B   |  2   |   (Hübschmann et al. 2021; Morin et al. 2013)    |
-|   PIM1    |  1   |           (L. Pasqualucci et al. 2001)           |
-|  POU2AF1  |  1   |              (Krysiak et al. 2017)               |
-|  POU2F2   |  1   |     (Krysiak et al. 2017; Zhang et al. 2013)     |
 |   PPP4C   |  2   |             (Hübschmann et al. 2021)             |
 |   PRKDC   |  2   |  (Hübschmann et al. 2021; Schmitz et al. 2018)   |
-|   PTPRD   |  1   |                                                  |
 |    PZP    |  2   |          (Russler-Germain et al. 2023)           |
 |   RBM6    |  2   |             (Hübschmann et al. 2021)             |
-|   RRAGC   |  1   |               (Okosun et al. 2016)               |
-|   S1PR2   |  1   |               (Morin et al. 2011)                |
 |   SESN1   |  2   |              (Oricchio et al. 2017)              |
-|   SGK1    |  1   |               (Morin et al. 2011)                |
 |  SHROOM3  |  2   |          (Russler-Germain et al. 2023)           |
-|  SMARCA4  |  1   |     (Krysiak et al. 2017; Zhang et al. 2013)     |
-|   SOCS1   |  1   |               (Morin et al. 2011)                |
 |   SRRM2   |  2   | (Russler-Germain et al. 2023; Morin et al. 2013) |
 |   STAB2   |  2   |          (Russler-Germain et al. 2023)           |
-|   STAT6   |  1   |               (Yildiz et al. 2015)               |
-|  TBL1XR1  |  1   |             (Mareschal et al. 2016)              |
 |  TMEM30A  |  2   |               (Morin et al. 2011)                |
-|  TMSB4X   |  1   |            (Albuquerque et al. 2017)             |
-|  TNFAIP3  |  1   |              (Compagno et al. 2009)              |
-| TNFRSF14  |  1   |               (Cheung et al. 2010)               |
-|   TP53    |  1   |               (Morin et al. 2011)                |
 |   TPP1    |  2   |             (Hübschmann et al. 2021)             |
-|   VMA21   |  1   |             (Hübschmann et al. 2021)             |
 |   XIRP2   |  2   |          (Russler-Germain et al. 2023)           |
 |  ZC3H12A  |  2   |               (Arthur et al. 2018)               |
 |  ZNF608   |  2   |     (Krysiak et al. 2017; Zhang et al. 2013)     |

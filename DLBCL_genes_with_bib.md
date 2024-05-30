@@ -1,19 +1,13 @@
 # DLBCL genes
 
-|   Gene    | Tier |            DLBCL Relevant references             |
+## Tier 1 DLBCL genes
+
+|   Gene    | Tier |               Relevant references                |
 |:---------:|:----:|:------------------------------------------------:|
-|  ABI3BP   |  2   |               (Morin et al. 2013)                |
 |   ACTB    |  1   |                (Lohr et al. 2012)                |
 |   ACTG1   |  1   |             (Hübschmann et al. 2021)             |
-|  ADAMTS1  |  2   |             (Hübschmann et al. 2021)             |
-|   AICDA   |  2   |               (Arthur et al. 2018)               |
-|  ANKRD12  |  2   |             (Hübschmann et al. 2021)             |
-|  ANKRD17  |  2   |               (Reddy et al. 2017)                |
 |  ARID1A   |  1   |     (Zhang et al. 2013; Krysiak et al. 2017)     |
-|  ARID1B   |  2   |               (Reddy et al. 2017)                |
-|  ARID5B   |  2   |               (Reddy et al. 2017)                |
 |    ATM    |  1   |               (Reddy et al. 2017)                |
-|    ATR    |  2   |               (Reddy et al. 2017)                |
 |    B2M    |  1   |               (Morin et al. 2011)                |
 |   BCL10   |  1   | (Morin et al. 2011; Russler-Germain et al. 2023) |
 |  BCL11A   |  1   |                                                  |
@@ -22,97 +16,49 @@
 |   BCL7A   |  1   |    (Arthur et al. 2018; Krysiak et al. 2017)     |
 |   BCOR    |  1   |                                                  |
 |    BCR    |  1   |                                                  |
-|   BIRC3   |  2   |               (Arthur et al. 2018)               |
 |   BIRC6   |  1   |               (Reddy et al. 2017)                |
-|    BLK    |  2   |                                                  |
 |   BRAF    |  1   |               (Tiacci et al. 2011)               |
-|  BRINP3   |  2   |               (Reddy et al. 2017)                |
-|   BTBD3   |  2   |               (Reddy et al. 2017)                |
 |   BTG1    |  1   |               (Morin et al. 2011)                |
 |   BTG2    |  1   |               (Morin et al. 2011)                |
 |    BTK    |  1   |  (Albuquerque et al. 2017; Krysiak et al. 2017)  |
-|  CADPS2   |  2   |             (Hübschmann et al. 2021)             |
 |  CARD11   |  1   |      (Lenz et al. 2008; Morin et al. 2011)       |
 |   CASP8   |  1   |               (Reddy et al. 2017)                |
-|   CBLB    |  2   |               (Reddy et al. 2017)                |
-|   CCL4    |  2   |               (Chapuy et al. 2018)               |
 |   CCND3   |  1   |               (Morin et al. 2011)                |
-|   CD22    |  2   |               (Reddy et al. 2017)                |
 |   CD274   |  1   |               (Morin et al. 2011)                |
 |   CD36    |  1   |    (Laura Pasqualucci, Trifonov, et al. 2011)    |
-|   CD44    |  2   |               (Arthur et al. 2018)               |
 |   CD58    |  1   |               (Morin et al. 2011)                |
 |   CD70    |  1   | (Morin et al. 2011; Russler-Germain et al. 2023) |
-|   CD74    |  2   |               (Arthur et al. 2018)               |
 |   CD79B   |  1   |               (Morin et al. 2011)                |
 |   CD83    |  1   | (Morin et al. 2013; Russler-Germain et al. 2023) |
-|   CDC73   |  2   |               (Reddy et al. 2017)                |
-|   CDH9    |  2   |               (Morin et al. 2013)                |
 |  CDKN2A   |  1   |               (Morin et al. 2013)                |
-|   CHD1    |  2   |               (Reddy et al. 2017)                |
-|   CHD8    |  2   |               (Reddy et al. 2017)                |
-|   CHST2   |  2   |               (Reddy et al. 2017)                |
 |   CIITA   |  1   |               (Morin et al. 2011)                |
-|   CNOT2   |  2   |             (Hübschmann et al. 2021)             |
-|  CNTNAP5  |  2   |               (Morin et al. 2013)                |
-|   COQ7    |  2   |               (Chapuy et al. 2018)               |
 |  CREBBP   |  1   | (Laura Pasqualucci, Dominguez-Sola, et al. 2011) |
-|   CRIP1   |  2   |               (Chapuy et al. 2018)               |
 |   CXCR4   |  1   | (Khodabakhshi et al. 2012; Krysiak et al. 2017)  |
 |   CXCR5   |  1   |              (Schmitz et al. 2018)               |
 |  DAZAP1   |  1   |           (Pararajalingam et al. 2020)           |
-|   DCAF6   |  2   |               (Reddy et al. 2017)                |
-|   DDX10   |  2   |               (Reddy et al. 2017)                |
 |   DDX3X   |  1   |              (Schmitz et al. 2018)               |
-|   DHX16   |  2   |             (Hübschmann et al. 2021)             |
-|  DICER1   |  2   |               (Reddy et al. 2017)                |
-|   DNAH5   |  2   |               (Morin et al. 2013)                |
-|   DNM2    |  2   |             (Hübschmann et al. 2021)             |
-|  DNMT3A   |  2   |               (Reddy et al. 2017)                |
-|   DOCK1   |  2   |               (Chapuy et al. 2018)               |
-|   DSG4    |  2   |               (Morin et al. 2013)                |
 |   DTX1    |  1   |              (Schmitz et al. 2018)               |
 |   DUSP2   |  1   |               (Morin et al. 2013)                |
 |   EBF1    |  1   |               (Bohle et al. 2013)                |
 |  EEF1A1   |  1   |             (Hübschmann et al. 2021)             |
-|  EIF2AK3  |  2   |                                                  |
 |   EP300   |  1   | (Laura Pasqualucci, Dominguez-Sola, et al. 2011) |
 |   ETS1    |  1   |               (Morin et al. 2011)                |
 |   ETV6    |  1   |               (Arthur et al. 2018)               |
 |   EZH2    |  1   |               (Morin et al. 2010)                |
-|    EZR    |  2   |                                                  |
-|  FAM102A  |  2   |                                                  |
-|  FAM38B   |  2   |               (Morin et al. 2013)                |
-|   FANK1   |  2   |                                                  |
 |    FAS    |  1   |               (Scholl et al. 2007)               |
-|   FAT4    |  2   |               (Morin et al. 2013)                |
 |  FBXO11   |  1   |             (Hübschmann et al. 2021)             |
 |   FBXW7   |  1   |               (Zhang et al. 2013)                |
-|   FCRL3   |  2   |                                                  |
-|   FNBP1   |  2   |                                                  |
-|   FNDC1   |  2   |               (Morin et al. 2013)                |
 |   FOXC1   |  1   |              (Schmitz et al. 2018)               |
 |   FOXO1   |  1   |               (Morin et al. 2011)                |
-|   FOXP1   |  2   |               (Reddy et al. 2017)                |
-|   FUBP1   |  2   |               (Reddy et al. 2017)                |
-|   FUT5    |  2   |               (Chapuy et al. 2018)               |
-|  GABRA2   |  2   |               (Chapuy et al. 2018)               |
-|    GAK    |  2   |             (Hübschmann et al. 2021)             |
 |   GNA13   |  1   |               (Morin et al. 2011)                |
 |   GNAI2   |  1   |               (Morin et al. 2013)                |
-|   GNAS    |  2   |               (Reddy et al. 2017)                |
-|  GOLGA5   |  2   |               (Reddy et al. 2017)                |
-|   GPC5    |  2   |              (Schmitz et al. 2018)               |
 |   GRB2    |  1   |    (Laura Pasqualucci, Trifonov, et al. 2011)    |
 |   GRHPR   |  1   |               (Arthur et al. 2018)               |
-|   GSG2    |  2   |              (Schmitz et al. 2018)               |
-|   HDAC7   |  2   |               (Morin et al. 2013)                |
 | HIST1H1B  |  1   |    (Chapuy et al. 2018; Krysiak et al. 2017)     |
 | HIST1H1C  |  1   |               (Morin et al. 2011)                |
 | HIST1H1D  |  1   |     (Morin et al. 2013; Krysiak et al. 2017)     |
 | HIST1H1E  |  1   |     (Morin et al. 2013; Krysiak et al. 2017)     |
 | HIST1H2AC |  1   |     (Morin et al. 2013; Krysiak et al. 2017)     |
-| HIST1H2AG |  2   |     (Morin et al. 2013; Krysiak et al. 2017)     |
 | HIST1H2AM |  1   |              (Krysiak et al. 2017)               |
 | HIST1H2BC |  1   |     (Reddy et al. 2017; Krysiak et al. 2017)     |
 | HIST1H2BK |  1   |                                                  |
@@ -124,100 +70,205 @@
 |  HLA-DMA  |  1   |                                                  |
 |  HLA-DMB  |  1   |                                                  |
 | HLA-DQA1  |  1   |             (Hübschmann et al. 2021)             |
-|   HNF1B   |  2   |    (Laura Pasqualucci, Trifonov, et al. 2011)    |
 |  HNRNPD   |  1   |                                                  |
 |  HNRNPH1  |  1   |           (Pararajalingam et al. 2020)           |
 |  HNRNPU   |  1   |               (Reddy et al. 2017)                |
-|   HRAS    |  2   |               (Reddy et al. 2017)                |
 |   HVCN1   |  1   |              (Krysiak et al. 2017)               |
+|   IKZF3   |  1   |               (Morin et al. 2013)                |
+|   IL16    |  1   |                                                  |
+|   IL4R    |  1   |                (Duns et al. 2021)                |
+|   IRF4    |  1   |               (Morin et al. 2011)                |
+|   IRF8    |  1   |               (Morin et al. 2011)                |
+|   ITPKB   |  1   |              (Schmitz et al. 2018)               |
+|   JUNB    |  1   |               (Reddy et al. 2017)                |
+|   KLF2    |  1   |    (Laura Pasqualucci, Trifonov, et al. 2011)    |
+|  KLHL14   |  1   |               (Zhang et al. 2013)                |
+|   KLHL6   |  1   |               (Morin et al. 2011)                |
+|   KMT2C   |  1   |               (Zhang et al. 2013)                |
+|   KMT2D   |  1   |               (Morin et al. 2011)                |
+|   KRAS    |  1   |                (Lohr et al. 2012)                |
+|   LCOR    |  1   |               (Arthur et al. 2018)               |
+|    LTB    |  1   |               (Chapuy et al. 2018)               |
+|    LYN    |  1   |               (Chapuy et al. 2018)               |
+|   MCL1    |  1   |               (Reddy et al. 2017)                |
+|   MEF2B   |  1   |               (Morin et al. 2011)                |
+|   MEF2C   |  1   |               (Arthur et al. 2018)               |
+|    MGA    |  1   |               (Zhang et al. 2013)                |
+|   MPEG1   |  1   |               (Morin et al. 2013)                |
+|   MS4A1   |  1   |              (Rushton et al. 2020)               |
+|   MTOR    |  1   |               (Zhang et al. 2013)                |
+|    MYC    |  1   |           (L. Pasqualucci et al. 2001)           |
+|   MYD88   |  1   |                (Ngo et al. 2011)                 |
+|   MYOM2   |  1   |    (Laura Pasqualucci, Trifonov, et al. 2011)    |
+|   NCOR2   |  1   |                                                  |
+|   NFKB1   |  1   |                                                  |
+|  NFKBIA   |  1   | (Lake et al. 2009; Russler-Germain et al. 2023)  |
+|  NFKBIE   |  1   |               (Morin et al. 2016)                |
+|  NFKBIZ   |  1   |               (Morin et al. 2016)                |
+|   NLRC5   |  1   |                                                  |
+|   NOL9    |  1   |              (Schmitz et al. 2018)               |
+|  NOTCH1   |  1   |    (Laura Pasqualucci, Trifonov, et al. 2011)    |
+|  NOTCH2   |  1   |               (Trøen et al. 2008)                |
+|  OSBPL10  |  1   |               (Arthur et al. 2018)               |
+|   P2RY8   |  1   |                (Lohr et al. 2012)                |
+|   PCBP1   |  1   |                                                  |
+|   PIM1    |  1   |           (L. Pasqualucci et al. 2001)           |
+|   PIM2    |  1   |               (Arthur et al. 2018)               |
+|  POU2AF1  |  1   |              (Krysiak et al. 2017)               |
+|  POU2F2   |  1   |     (Zhang et al. 2013; Krysiak et al. 2017)     |
+|   PRDM1   |  1   |  (**pasqualucciInactivationPRDM1BLIMP12006?**)   |
+|   PRKDC   |  1   |  (Schmitz et al. 2018; Hübschmann et al. 2021)   |
+|   PTEN    |  1   |                                                  |
+|   PTPRD   |  1   |                                                  |
+|    RB1    |  1   |               (Morin et al. 2013)                |
+|   RFX7    |  1   |                                                  |
+|   RFXAP   |  1   |                                                  |
+|   RHOA    |  1   |           (L. Pasqualucci et al. 2001)           |
+|   RRAGC   |  1   |               (Okosun et al. 2016)               |
+|   S1PR2   |  1   |               (Morin et al. 2011)                |
+|  SETD1B   |  1   |               (Reddy et al. 2017)                |
+|   SF3B1   |  1   |                                                  |
+|   SGK1    |  1   |               (Morin et al. 2011)                |
+|   SIN3A   |  1   |                                                  |
+|  SMARCA4  |  1   |     (Zhang et al. 2013; Krysiak et al. 2017)     |
+|   SOCS1   |  1   |               (Morin et al. 2011)                |
+|   SPEN    |  1   |               (Rossi et al. 2012)                |
+|   STAT3   |  1   |               (Ohgami et al. 2014)               |
+|   STAT6   |  1   |               (Yildiz et al. 2015)               |
+|   TAF1    |  1   |               (Morin et al. 2013)                |
+|  TBL1XR1  |  1   |             (Mareschal et al. 2016)              |
+|   TET2    |  1   |            (Albuquerque et al. 2017)             |
+|  TMEM30A  |  1   |               (Morin et al. 2011)                |
+|  TMSB4X   |  1   |            (Albuquerque et al. 2017)             |
+|  TNFAIP3  |  1   |              (Compagno et al. 2009)              |
+| TNFRSF14  |  1   |               (Cheung et al. 2010)               |
+|    TOX    |  1   |               (Reddy et al. 2017)                |
+|   TP53    |  1   |               (Morin et al. 2011)                |
+|  TRIP12   |  1   |                                                  |
+|   TRRAP   |  1   |               (Parry et al. 2013)                |
+|   UBE2A   |  1   |               (Reddy et al. 2017)                |
+|   UNC5C   |  1   |                                                  |
+|   USP7    |  1   |                                                  |
+|  VPS13B   |  1   |                                                  |
+|   WEE1    |  1   |              (Schmitz et al. 2018)               |
+|   XPO1    |  1   |             (Mareschal et al. 2016)              |
+|  ZC3H12A  |  1   |               (Arthur et al. 2018)               |
+|  ZFP36L1  |  1   |               (Morin et al. 2011)                |
+|  ZNF292   |  1   |               (Zhang et al. 2013)                |
+|  ZNF608   |  1   |     (Zhang et al. 2013; Krysiak et al. 2017)     |
+
+## Tier 2 DLBCL genes
+
+|   Gene    | Tier |               Relevant references                |
+|:---------:|:----:|:------------------------------------------------:|
+|  ABI3BP   |  2   |               (Morin et al. 2013)                |
+|  ADAMTS1  |  2   |             (Hübschmann et al. 2021)             |
+|   AICDA   |  2   |               (Arthur et al. 2018)               |
+|  ANKRD12  |  2   |             (Hübschmann et al. 2021)             |
+|  ANKRD17  |  2   |               (Reddy et al. 2017)                |
+|  ARID1B   |  2   |               (Reddy et al. 2017)                |
+|  ARID5B   |  2   |               (Reddy et al. 2017)                |
+|    ATR    |  2   |               (Reddy et al. 2017)                |
+|   BIRC3   |  2   |               (Arthur et al. 2018)               |
+|    BLK    |  2   |                                                  |
+|  BRINP3   |  2   |               (Reddy et al. 2017)                |
+|   BTBD3   |  2   |               (Reddy et al. 2017)                |
+|  CADPS2   |  2   |             (Hübschmann et al. 2021)             |
+|   CBLB    |  2   |               (Reddy et al. 2017)                |
+|   CCL4    |  2   |               (Chapuy et al. 2018)               |
+|   CD22    |  2   |               (Reddy et al. 2017)                |
+|   CD44    |  2   |               (Arthur et al. 2018)               |
+|   CD74    |  2   |               (Arthur et al. 2018)               |
+|   CDC73   |  2   |               (Reddy et al. 2017)                |
+|   CDH9    |  2   |               (Morin et al. 2013)                |
+|   CHD1    |  2   |               (Reddy et al. 2017)                |
+|   CHD8    |  2   |               (Reddy et al. 2017)                |
+|   CHST2   |  2   |               (Reddy et al. 2017)                |
+|   CNOT2   |  2   |             (Hübschmann et al. 2021)             |
+|  CNTNAP5  |  2   |               (Morin et al. 2013)                |
+|   COQ7    |  2   |               (Chapuy et al. 2018)               |
+|   CRIP1   |  2   |               (Chapuy et al. 2018)               |
+|   DCAF6   |  2   |               (Reddy et al. 2017)                |
+|   DDX10   |  2   |               (Reddy et al. 2017)                |
+|   DHX16   |  2   |             (Hübschmann et al. 2021)             |
+|  DICER1   |  2   |               (Reddy et al. 2017)                |
+|   DNAH5   |  2   |               (Morin et al. 2013)                |
+|   DNM2    |  2   |             (Hübschmann et al. 2021)             |
+|  DNMT3A   |  2   |               (Reddy et al. 2017)                |
+|   DOCK1   |  2   |               (Chapuy et al. 2018)               |
+|   DSG4    |  2   |               (Morin et al. 2013)                |
+|  EIF2AK3  |  2   |                                                  |
+|    EZR    |  2   |                                                  |
+|  FAM102A  |  2   |                                                  |
+|  FAM38B   |  2   |               (Morin et al. 2013)                |
+|   FANK1   |  2   |                                                  |
+|   FAT4    |  2   |               (Morin et al. 2013)                |
+|   FCRL3   |  2   |                                                  |
+|   FNBP1   |  2   |                                                  |
+|   FNDC1   |  2   |               (Morin et al. 2013)                |
+|   FOXP1   |  2   |               (Reddy et al. 2017)                |
+|   FUBP1   |  2   |               (Reddy et al. 2017)                |
+|   FUT5    |  2   |               (Chapuy et al. 2018)               |
+|  GABRA2   |  2   |               (Chapuy et al. 2018)               |
+|    GAK    |  2   |             (Hübschmann et al. 2021)             |
+|   GNAS    |  2   |               (Reddy et al. 2017)                |
+|  GOLGA5   |  2   |               (Reddy et al. 2017)                |
+|   GPC5    |  2   |              (Schmitz et al. 2018)               |
+|   GSG2    |  2   |              (Schmitz et al. 2018)               |
+|   HDAC7   |  2   |               (Morin et al. 2013)                |
+| HIST1H2AG |  2   |     (Morin et al. 2013; Krysiak et al. 2017)     |
+|   HNF1B   |  2   |    (Laura Pasqualucci, Trifonov, et al. 2011)    |
+|   HRAS    |  2   |               (Reddy et al. 2017)                |
 |    ID3    |  2   |              (Schmitz et al. 2012)               |
 |   IER2    |  2   |               (Morin et al. 2013)                |
 |  IFNGR1   |  2   |               (Morin et al. 2013)                |
 |   IGLL5   |  2   |          (Russler-Germain et al. 2023)           |
 |   IKBKB   |  2   |               (Reddy et al. 2017)                |
 |   IKBKE   |  2   |             (Hübschmann et al. 2021)             |
-|   IKZF3   |  1   |               (Morin et al. 2013)                |
-|   IL16    |  1   |                                                  |
-|   IL4R    |  1   |                (Duns et al. 2021)                |
 |    IL6    |  2   |               (Chapuy et al. 2018)               |
 |   INO80   |  2   |               (Zhang et al. 2013)                |
 |   IRAG2   |  2   |                                                  |
 |   IRF1    |  2   |             (Hübschmann et al. 2021)             |
-|   IRF4    |  1   |               (Morin et al. 2011)                |
-|   IRF8    |  1   |               (Morin et al. 2011)                |
-|   ITPKB   |  1   |              (Schmitz et al. 2018)               |
 |   JAK1    |  2   |               (Zhang et al. 2013)                |
 |   JAK3    |  2   |               (Zhang et al. 2013)                |
-|   JUNB    |  1   |               (Reddy et al. 2017)                |
 |   KCMF1   |  2   |               (Reddy et al. 2017)                |
-|   KLF2    |  1   |    (Laura Pasqualucci, Trifonov, et al. 2011)    |
-|  KLHL14   |  1   |               (Zhang et al. 2013)                |
 |  KLHL21   |  2   |              (Schmitz et al. 2018)               |
-|   KLHL6   |  1   |               (Morin et al. 2011)                |
-|   KMT2C   |  1   |               (Zhang et al. 2013)                |
-|   KMT2D   |  1   |               (Morin et al. 2011)                |
-|   KRAS    |  1   |                (Lohr et al. 2012)                |
 |   LAMA5   |  2   |              (Schmitz et al. 2018)               |
 |  LAPTM5   |  2   |             (Hübschmann et al. 2021)             |
-|   LCOR    |  1   |               (Arthur et al. 2018)               |
 |   LIN54   |  2   |               (Reddy et al. 2017)                |
 |    LPP    |  2   |               (Arthur et al. 2018)               |
 |   LRP12   |  2   |             (Hübschmann et al. 2021)             |
 |   LRRN3   |  2   |               (Morin et al. 2013)                |
-|    LTB    |  1   |               (Chapuy et al. 2018)               |
-|    LYN    |  1   |               (Chapuy et al. 2018)               |
 |   MAGT1   |  2   |               (Reddy et al. 2017)                |
 |  MALAT1   |  2   |               (Arthur et al. 2018)               |
 |  MAP2K1   |  2   |    (Shin et al. 2015; Louissaint et al. 2016)    |
 |  MAP4K4   |  2   |               (Reddy et al. 2017)                |
 |   MARK1   |  2   |               (Reddy et al. 2017)                |
-|   MCL1    |  1   |               (Reddy et al. 2017)                |
 |   MECOM   |  2   |               (Reddy et al. 2017)                |
-|   MEF2B   |  1   |               (Morin et al. 2011)                |
-|   MEF2C   |  1   |               (Arthur et al. 2018)               |
 |    MET    |  2   |               (Reddy et al. 2017)                |
-|    MGA    |  1   |               (Zhang et al. 2013)                |
 |  MIR142   |  2   |              (Kwanhian et al. 2012)              |
 | MIR155HG  |  2   |                                                  |
 |   MPDZ    |  2   |               (Morin et al. 2013)                |
-|   MPEG1   |  1   |               (Morin et al. 2013)                |
-|   MS4A1   |  1   |              (Rushton et al. 2020)               |
 |   MSH2    |  2   |               (Reddy et al. 2017)                |
 |   MSH6    |  2   |               (Reddy et al. 2017)                |
-|   MTOR    |  1   |               (Zhang et al. 2013)                |
 |    MYB    |  2   |               (Reddy et al. 2017)                |
 |  MYBPC2   |  2   |              (Schmitz et al. 2018)               |
-|    MYC    |  1   |           (L. Pasqualucci et al. 2001)           |
-|   MYD88   |  1   |                (Ngo et al. 2011)                 |
 |   MYO1E   |  2   |                                                  |
-|   MYOM2   |  1   |    (Laura Pasqualucci, Trifonov, et al. 2011)    |
 |   N2RF2   |  2   |             (Hübschmann et al. 2021)             |
 |   NANOG   |  2   |               (Chapuy et al. 2018)               |
 |   NAV1    |  2   |               (Chapuy et al. 2018)               |
 |   NCOA3   |  2   |                                                  |
 |   NCOR1   |  2   |               (Reddy et al. 2017)                |
-|   NCOR2   |  1   |                                                  |
 |   NEAT1   |  2   |               (Arthur et al. 2018)               |
 |    NF1    |  2   |               (Reddy et al. 2017)                |
-|   NFKB1   |  1   |                                                  |
 |   NFKB2   |  2   |               (Reddy et al. 2017)                |
-|  NFKBIA   |  1   | (Lake et al. 2009; Russler-Germain et al. 2023)  |
-|  NFKBIE   |  1   |               (Morin et al. 2016)                |
-|  NFKBIZ   |  1   |               (Morin et al. 2016)                |
-|   NLRC5   |  1   |                                                  |
 |   NLRP5   |  2   |               (Morin et al. 2013)                |
 |   NLRP8   |  2   |               (Chapuy et al. 2018)               |
-|   NOL9    |  1   |              (Schmitz et al. 2018)               |
-|  NOTCH1   |  1   |    (Laura Pasqualucci, Trifonov, et al. 2011)    |
-|  NOTCH2   |  1   |               (Trøen et al. 2008)                |
 |   ODZ3    |  2   |               (Morin et al. 2013)                |
-|  OSBPL10  |  1   |               (Arthur et al. 2018)               |
 |   P2RX5   |  2   |               (Morin et al. 2013)                |
-|   P2RY8   |  1   |                (Lohr et al. 2012)                |
 |  PAPOLG   |  2   |              (Schmitz et al. 2018)               |
 |   PASK    |  2   |               (Morin et al. 2013)                |
 |   PAX5    |  2   |           (L. Pasqualucci et al. 2001)           |
-|   PCBP1   |  1   |                                                  |
 |  PCDHB11  |  2   |               (Morin et al. 2013)                |
 |   PCLO    |  2   |                (Lohr et al. 2012)                |
 |  PDE4DIP  |  2   |               (Chapuy et al. 2018)               |
@@ -225,109 +276,65 @@
 |   PHF6    |  2   |               (Reddy et al. 2017)                |
 |  PIK3CD   |  2   |               (Reddy et al. 2017)                |
 |  PIK3R1   |  2   |               (Zhang et al. 2013)                |
-|   PIM1    |  1   |           (L. Pasqualucci et al. 2001)           |
-|   PIM2    |  1   |               (Arthur et al. 2018)               |
 |   PKD1    |  2   |               (Morin et al. 2013)                |
 |   PNPO    |  2   |             (Hübschmann et al. 2021)             |
 |   POGZ    |  2   |               (Morin et al. 2013)                |
-|  POU2AF1  |  1   |              (Krysiak et al. 2017)               |
-|  POU2F2   |  1   |     (Zhang et al. 2013; Krysiak et al. 2017)     |
 |  PPP1R9B  |  2   |                                                  |
-|   PRDM1   |  1   |  (**pasqualucciInactivationPRDM1BLIMP12006?**)   |
 |   PRKCB   |  2   |               (Morin et al. 2013)                |
-|   PRKDC   |  1   |  (Schmitz et al. 2018; Hübschmann et al. 2021)   |
 |   PRPS1   |  2   |               (Chapuy et al. 2018)               |
-|   PTEN    |  1   |                                                  |
 |   PTMA    |  2   |                                                  |
 |   PTPN1   |  2   |                                                  |
 |  PTPN23   |  2   |               (Morin et al. 2013)                |
 |   PTPN6   |  2   |               (Reddy et al. 2017)                |
-|   PTPRD   |  1   |                                                  |
 |   PTPRK   |  2   |               (Reddy et al. 2017)                |
 |   RAC2    |  2   |             (Hübschmann et al. 2021)             |
 |   RAD9A   |  2   |               (Chapuy et al. 2018)               |
 |   RARA    |  2   |               (Reddy et al. 2017)                |
-|    RB1    |  1   |               (Morin et al. 2013)                |
 |    RCC    |  2   |                                                  |
 |   RFTN1   |  2   |               (Arthur et al. 2018)               |
-|   RFX7    |  1   |                                                  |
-|   RFXAP   |  1   |                                                  |
 |   RHEX    |  2   |                                                  |
-|   RHOA    |  1   |           (L. Pasqualucci et al. 2001)           |
 |   RHOH    |  2   |                                                  |
-|   RRAGC   |  1   |               (Okosun et al. 2016)               |
 |  RUBCNL   |  2   |                                                  |
 |   RUNX1   |  2   |               (Reddy et al. 2017)                |
-|   S1PR2   |  1   |               (Morin et al. 2011)                |
 |  SAMD9L   |  2   |               (Morin et al. 2013)                |
 |   SARM1   |  2   |               (Morin et al. 2013)                |
 |  SEL1L3   |  2   |                                                  |
 |  SEPTIN9  |  2   |                                                  |
 | SERPINA9  |  2   |               (Arthur et al. 2018)               |
-|  SETD1B   |  1   |               (Reddy et al. 2017)                |
 |   SETD2   |  2   |               (Zhang et al. 2013)                |
 |   SETD5   |  2   |               (Reddy et al. 2017)                |
-|   SF3B1   |  1   |                                                  |
-|   SGK1    |  1   |               (Morin et al. 2011)                |
 |   SIAH2   |  2   |             (Hübschmann et al. 2021)             |
-|   SIN3A   |  1   |                                                  |
 |  SLC34A2  |  2   |             (Hübschmann et al. 2021)             |
-|  SMARCA4  |  1   |     (Zhang et al. 2013; Krysiak et al. 2017)     |
 |   SMEK1   |  2   |               (Chapuy et al. 2018)               |
-|   SOCS1   |  1   |               (Morin et al. 2011)                |
-|   SPEN    |  1   |               (Rossi et al. 2012)                |
 |   SRRM2   |  2   | (Morin et al. 2013; Russler-Germain et al. 2023) |
 |  ST6GAL1  |  2   |               (Arthur et al. 2018)               |
-|   STAT3   |  1   |               (Ohgami et al. 2014)               |
 |  STAT5B   |  2   |               (Zhang et al. 2013)                |
-|   STAT6   |  1   |               (Yildiz et al. 2015)               |
 |    SYK    |  2   |               (Reddy et al. 2017)                |
 |   SYPL1   |  2   |               (Morin et al. 2013)                |
-|   TAF1    |  1   |               (Morin et al. 2013)                |
 |   TAP1    |  2   |              (Schmitz et al. 2018)               |
 |  TBC1D4   |  2   |               (Arthur et al. 2018)               |
-|  TBL1XR1  |  1   |             (Mareschal et al. 2016)              |
 |   TCL1A   |  2   |                                                  |
-|   TET2    |  1   |            (Albuquerque et al. 2017)             |
 |  TGFBR2   |  2   |               (Reddy et al. 2017)                |
 |  TIPARP   |  2   |               (Reddy et al. 2017)                |
 |   TLR2    |  2   |               (Chapuy et al. 2018)               |
-|  TMEM30A  |  1   |               (Morin et al. 2011)                |
-|  TMSB4X   |  1   |            (Albuquerque et al. 2017)             |
-|  TNFAIP3  |  1   |              (Compagno et al. 2009)              |
-| TNFRSF14  |  1   |               (Cheung et al. 2010)               |
-|    TOX    |  1   |               (Reddy et al. 2017)                |
-|   TP53    |  1   |               (Morin et al. 2011)                |
 |   TRAF3   |  2   |    (Laura Pasqualucci, Trifonov, et al. 2011)    |
 |   TRAF6   |  2   |             (Hübschmann et al. 2021)             |
-|  TRIP12   |  1   |                                                  |
-|   TRRAP   |  1   |               (Parry et al. 2013)                |
-|   UBE2A   |  1   |               (Reddy et al. 2017)                |
 |  UBE2J1   |  2   |                                                  |
 |   UBR5    |  2   |               (Zhang et al. 2013)                |
 |   UNC5B   |  2   |             (Hübschmann et al. 2021)             |
-|   UNC5C   |  1   |                                                  |
 |   UNC5D   |  2   |                                                  |
-|   USP7    |  1   |                                                  |
-|  VPS13B   |  1   |                                                  |
 |    WAC    |  2   |               (Reddy et al. 2017)                |
 |   WDFY3   |  2   |               (Morin et al. 2013)                |
-|   WEE1    |  1   |              (Schmitz et al. 2018)               |
 |   WNK1    |  2   |             (Hübschmann et al. 2021)             |
 |   XBP1    |  2   |                                                  |
-|   XPO1    |  1   |             (Mareschal et al. 2016)              |
 |    YY1    |  2   |               (Reddy et al. 2017)                |
 |  ZBTB7A   |  2   |               (Reddy et al. 2017)                |
-|  ZC3H12A  |  1   |               (Arthur et al. 2018)               |
 |  ZCCHC7   |  2   |               (Arthur et al. 2018)               |
 |   ZEB2    |  2   |               (Zhang et al. 2013)                |
 |   ZFAT    |  2   |               (Reddy et al. 2017)                |
-|  ZFP36L1  |  1   |               (Morin et al. 2011)                |
 |    ZFX    |  2   |               (Reddy et al. 2017)                |
 |  ZNF217   |  2   |             (Hübschmann et al. 2021)             |
-|  ZNF292   |  1   |               (Zhang et al. 2013)                |
 |  ZNF423   |  2   |               (Chapuy et al. 2018)               |
-|  ZNF608   |  1   |     (Zhang et al. 2013; Krysiak et al. 2017)     |
 
 # References
 
