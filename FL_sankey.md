@@ -6,6 +6,7 @@ config:
     linkColor: target
     width: 800
     height: 1000
+    nodeAlignment: right
 ---
 sankey-beta
 Russler-germain 2023, FL Tier 1, 1
