@@ -4,42 +4,38 @@
 
 ## Tier 1 DLBCL genes
 
-### *140 total*
+### *131 total*
 
 |          Gene          |     Tier     |                               Relevant references                                |
 |:----------------------:|:------------:|:--------------------------------------------------------------------------------:|
 |      [ACTB](ACTB)      |   1, aSHM    |                                Lohr et al. 2012                                |
 |     [ACTG1](ACTG1)     |   1, aSHM    |                             Hübschmann et al. 2021                             |
-|    [ARID1A](ARID1A)    |      1       |            Krysiak et al. 2017; Zhang et al. 2013; Love et al. 2012            |
+|    [ARID1A](ARID1A)    |      1       |            Zhang et al. 2013; Love et al. 2012; Krysiak et al. 2017            |
 |       [ATM](ATM)       |      1       |                       Beà et al. 2013; Reddy et al. 2017                       |
-|       [B2M](B2M)       |      1       |                 Pararajalingam et al. 2020; Morin et al. 2011                  |
-|     [BCL10](BCL10)     |      1       |                 Russler-Germain et al. 2023; Morin et al. 2011                 |
-|      [BCL2](BCL2)      |   1, aSHM    |          Morin et al. 2011; Burkhardt et al. 2022; Tanaka et al. 1992          |
+|       [B2M](B2M)       |      1       |                 Morin et al. 2011; Pararajalingam et al. 2020                  |
+|     [BCL10](BCL10)     |      1       |                 Morin et al. 2011; Russler-Germain et al. 2023                 |
+|      [BCL2](BCL2)      |   1, aSHM    |          Tanaka et al. 1992; Morin et al. 2011; Burkhardt et al. 2022          |
 |      [BCL6](BCL6)      |   1, aSHM    |                      Morin et al. 2011; Love et al. 2012                       |
 |     [BCL7A](BCL7A)     |   1, aSHM    |          Arthur et al. 2018; Grande et al. 2019; Krysiak et al. 2017           |
-|       [BCR](BCR)       |      1       |                                                                                  |
 |     [BIRC6](BIRC6)     |      1       |                               Reddy et al. 2017                                |
-|      [BRAF](BRAF)      |      1       |                      Tiacci et al. 2011; Love et al. 2012                      |
-|      [BTG1](BTG1)      |   1, aSHM    |                    Burkhardt et al. 2022; Morin et al. 2011                    |
-|      [BTG2](BTG2)      |   1, aSHM    |                      Love et al. 2012; Morin et al. 2011                       |
+|      [BRAF](BRAF)      |      1       |                      Love et al. 2012; Tiacci et al. 2011                      |
+|      [BTG1](BTG1)      |   1, aSHM    |                    Morin et al. 2011; Burkhardt et al. 2022                    |
+|      [BTG2](BTG2)      |   1, aSHM    |                      Morin et al. 2011; Love et al. 2012                       |
 |       [BTK](BTK)       |      1       |                  Krysiak et al. 2017; Albuquerque et al. 2017                  |
-|    [CARD11](CARD11)    |      1       |     Morin et al. 2011; Lenz et al. 2008; Wu et al. 2016; Panea et al. 2019     |
+|    [CARD11](CARD11)    |      1       |     Panea et al. 2019; Lenz et al. 2008; Morin et al. 2011; Wu et al. 2016     |
 |     [CASP8](CASP8)     |      1       |                               Reddy et al. 2017                                |
 |     [CCND3](CCND3)     |      1       |                     Morin et al. 2011; Richter et al. 2012                     |
-|     [CD274](CD274)     |      1       |                               Morin et al. 2011                                |
-|      [CD36](CD36)      |      1       |                    Laura Pasqualucci, Trifonov, et al. 2011                    |
 |      [CD58](CD58)      |      1       |                               Morin et al. 2011                                |
-|      [CD70](CD70)      |      1       |                 Russler-Germain et al. 2023; Morin et al. 2011                 |
-|     [CD79B](CD79B)     |      1       |                      Morin et al. 2011; Panea et al. 2019                      |
-|      [CD83](CD83)      |   1, aSHM    |       Panea et al. 2019; Morin et al. 2013; Russler-Germain et al. 2023        |
-|    [CDKN2A](CDKN2A)    |      1       |                     Grande et al. 2019; Morin et al. 2013                      |
+|      [CD70](CD70)      |      1       |                 Morin et al. 2011; Russler-Germain et al. 2023                 |
+|     [CD79B](CD79B)     |      1       |                      Panea et al. 2019; Morin et al. 2011                      |
+|      [CD83](CD83)      |   1, aSHM    |       Morin et al. 2013; Panea et al. 2019; Russler-Germain et al. 2023        |
+|    [CDKN2A](CDKN2A)    |      1       |                     Morin et al. 2013; Grande et al. 2019                      |
 |     [CIITA](CIITA)     |   1, aSHM    |                               Morin et al. 2011                                |
 |    [CREBBP](CREBBP)    |      1       |        Love et al. 2012; Laura Pasqualucci, Dominguez-Sola, et al. 2011        |
-|     [CXCR4](CXCR4)     |   1, aSHM    |        Krysiak et al. 2017; Khodabakhshi et al. 2012; Panea et al. 2019        |
+|     [CXCR4](CXCR4)     |   1, aSHM    |        Krysiak et al. 2017; Panea et al. 2019; Khodabakhshi et al. 2012        |
 |     [CXCR5](CXCR5)     |      1       |                              Schmitz et al. 2018                               |
-|    [DAZAP1](DAZAP1)    |      1       |                           Pararajalingam et al. 2020                           |
-|     [DDX3X](DDX3X)     |      1       |                           Schmitz et al. 2012, 2018                            |
-|      [DTX1](DTX1)      |   1, aSHM    |                     Panea et al. 2019; Schmitz et al. 2018                     |
+|     [DDX3X](DDX3X)     |      1       |                           Schmitz et al. 2018, 2012                            |
+|      [DTX1](DTX1)      |   1, aSHM    |                     Schmitz et al. 2018; Panea et al. 2019                     |
 |     [DUSP2](DUSP2)     |   1, aSHM    |                               Morin et al. 2013                                |
 |      [EBF1](EBF1)      |   1, aSHM    |                     Bohle et al. 2013; Thomas et al. 2023                      |
 |    [EEF1A1](EEF1A1)    |      1       |                             Hübschmann et al. 2021                             |
@@ -48,19 +44,19 @@
 |      [ETV6](ETV6)      |   1, aSHM    |                               Arthur et al. 2018                               |
 |      [EZH2](EZH2)      |      1       |                      Love et al. 2012; Morin et al. 2010                       |
 |       [FAS](FAS)       |      1       |                               Scholl et al. 2007                               |
-|    [FBXO11](FBXO11)    |      1       |                  Hübschmann et al. 2021; Richter et al. 2012                   |
+|    [FBXO11](FBXO11)    |      1       |                  Richter et al. 2012; Hübschmann et al. 2021                   |
 |     [FBXW7](FBXW7)     |      1       |                               Zhang et al. 2013                                |
 |     [FOXO1](FOXO1)     |      1       |                     Schmitz et al. 2012; Morin et al. 2011                     |
 |     [GNA13](GNA13)     |      1       |                      Love et al. 2012; Morin et al. 2011                       |
 |     [GNAI2](GNAI2)     |      1       |                     Grande et al. 2019; Morin et al. 2013                      |
-|      [GRB2](GRB2)      |      1       |          Laura Pasqualucci, Trifonov, et al. 2011; Panea et al. 2019           |
+|      [GRB2](GRB2)      |      1       |          Panea et al. 2019; Laura Pasqualucci, Trifonov, et al. 2011           |
 |     [GRHPR](GRHPR)     |   1, aSHM    |                               Arthur et al. 2018                               |
-|  [HIST1H1B](HIST1H1B)  |   1, aSHM    |                    Krysiak et al. 2017; Chapuy et al. 2018                     |
+|  [HIST1H1B](HIST1H1B)  |   1, aSHM    |                    Chapuy et al. 2018; Krysiak et al. 2017                     |
 |  [HIST1H1C](HIST1H1C)  |   1, aSHM    |                      Panea et al. 2019; Morin et al. 2011                      |
 |  [HIST1H1D](HIST1H1D)  |   1, aSHM    |                     Morin et al. 2013; Krysiak et al. 2017                     |
-|  [HIST1H1E](HIST1H1E)  |   1, aSHM    |           Krysiak et al. 2017; Grande et al. 2019; Morin et al. 2013           |
-| [HIST1H2AC](HIST1H2AC) |   1, aSHM    |                     Morin et al. 2013; Krysiak et al. 2017                     |
-| [HIST1H2AM](HIST1H2AM) |   1, aSHM    |                     Krysiak et al. 2017; Panea et al. 2019                     |
+|  [HIST1H1E](HIST1H1E)  |   1, aSHM    |           Grande et al. 2019; Krysiak et al. 2017; Morin et al. 2013           |
+| [HIST1H2AC](HIST1H2AC) |   1, aSHM    |                     Krysiak et al. 2017; Morin et al. 2013                     |
+| [HIST1H2AM](HIST1H2AM) |   1, aSHM    |                     Panea et al. 2019; Krysiak et al. 2017                     |
 | [HIST1H2BC](HIST1H2BC) |   1, aSHM    |                     Reddy et al. 2017; Krysiak et al. 2017                     |
 | [HIST1H2BK](HIST1H2BK) |   1, aSHM    |                               Panea et al. 2019                                |
 |  [HIST1H3B](HIST1H3B)  |   1, aSHM    |                               Zhang et al. 2013                                |
@@ -69,52 +65,48 @@
 |     [HLA-B](HLA-B)     |      1       |                                                                                  |
 |     [HLA-C](HLA-C)     |      1       |                                                                                  |
 |   [HLA-DMB](HLA-DMB)   |      1       |                                                                                  |
-|    [HNRNPU](HNRNPU)    |   1, aSHM    |                      Panea et al. 2019; Reddy et al. 2017                      |
+|    [HNRNPU](HNRNPU)    |   1, aSHM    |                      Reddy et al. 2017; Panea et al. 2019                      |
 |     [HVCN1](HVCN1)     |      1       |                              Krysiak et al. 2017                               |
-|     [IKZF3](IKZF3)     |      1       |                      Morin et al. 2013; Panea et al. 2019                      |
+|     [IKZF3](IKZF3)     |      1       |                      Panea et al. 2019; Morin et al. 2013                      |
 |      [IL4R](IL4R)      |   1, aSHM    |                                Duns et al. 2021                                |
 |      [IRF4](IRF4)      |   1, aSHM    |                               Morin et al. 2011                                |
 |      [IRF8](IRF8)      |   1, aSHM    |                      Morin et al. 2011; Panea et al. 2019                      |
 |     [ITPKB](ITPKB)     |   1, aSHM    |                              Schmitz et al. 2018                               |
-|      [JUNB](JUNB)      |      1       |                               Reddy et al. 2017                                |
 |      [KLF2](KLF2)      |   1, aSHM    |                    Laura Pasqualucci, Trifonov, et al. 2011                    |
 |    [KLHL14](KLHL14)    |      1       |                               Zhang et al. 2013                                |
 |     [KLHL6](KLHL6)     |   1, aSHM    |                      Morin et al. 2011; Panea et al. 2019                      |
-|     [KMT2C](KMT2C)     |      1       |             Zhou et al. 2019; Zhang et al. 2014; Zhang et al. 2013             |
+|     [KMT2C](KMT2C)     |      1       |             Zhang et al. 2014; Zhang et al. 2013; Zhou et al. 2019             |
 |     [KMT2D](KMT2D)     |      1       |             Grande et al. 2019; Beà et al. 2013; Morin et al. 2011             |
 |      [KRAS](KRAS)      |      1       |                                Lohr et al. 2012                                |
 |      [LCOR](LCOR)      |      1       |                               Arthur et al. 2018                               |
-|       [LTB](LTB)       |   1, aSHM    |                     Panea et al. 2019; Chapuy et al. 2018                      |
-|      [MCL1](MCL1)      |      1       |                      Reddy et al. 2017; Panea et al. 2019                      |
+|       [LTB](LTB)       |   1, aSHM    |                     Chapuy et al. 2018; Panea et al. 2019                      |
 |     [MEF2B](MEF2B)     |   1, aSHM    |                       Beà et al. 2013; Morin et al. 2011                       |
 |     [MEF2C](MEF2C)     |   1, aSHM    |                               Arthur et al. 2018                               |
 |       [MGA](MGA)       |      1       |                               Zhang et al. 2013                                |
 |     [MPEG1](MPEG1)     |      1       |                               Morin et al. 2013                                |
 |     [MS4A1](MS4A1)     |   1, aSHM    |                              Rushton et al. 2020                               |
-|      [MTOR](MTOR)      |      1       |                      Zhang et al. 2013; Panea et al. 2019                      |
-|       [MYC](MYC)       |   1, aSHM    |             Johnston and Carroll 1992; L. Pasqualucci et al. 2001              |
+|      [MTOR](MTOR)      |      1       |                      Panea et al. 2019; Zhang et al. 2013                      |
+|       [MYC](MYC)       |   1, aSHM    |             L. Pasqualucci et al. 2001; Johnston and Carroll 1992              |
 |     [MYD88](MYD88)     |      1       |                                Ngo et al. 2011                                 |
 |     [MYOM2](MYOM2)     |      1       |                    Laura Pasqualucci, Trifonov, et al. 2011                    |
-|    [NFKBIA](NFKBIA)    |      1       |                 Lake et al. 2009; Russler-Germain et al. 2023                  |
-|    [NFKBIE](NFKBIE)    |      1       |                 Morin et al. 2016; Pararajalingam et al. 2020                  |
+|    [NFKBIA](NFKBIA)    |      1       |                 Russler-Germain et al. 2023; Lake et al. 2009                  |
+|    [NFKBIE](NFKBIE)    |      1       |                 Pararajalingam et al. 2020; Morin et al. 2016                  |
 |    [NFKBIZ](NFKBIZ)    | 1, noncoding |                               Morin et al. 2016                                |
 |      [NOL9](NOL9)      |      1       |                              Schmitz et al. 2018                               |
 |    [NOTCH1](NOTCH1)    |      1       |  Laura Pasqualucci, Trifonov, et al. 2011; Love et al. 2012; Beà et al. 2013   |
-|    [NOTCH2](NOTCH2)    |      1       |             Beà et al. 2013; Panea et al. 2019; Trøen et al. 2008              |
+|    [NOTCH2](NOTCH2)    |      1       |             Trøen et al. 2008; Panea et al. 2019; Beà et al. 2013              |
 |   [OSBPL10](OSBPL10)   |   1, aSHM    |                               Arthur et al. 2018                               |
 |     [P2RY8](P2RY8)     |      1       |                     Lohr et al. 2012; Muppidi et al. 2014                      |
 |     [PCBP1](PCBP1)     |      1       |                              Schmitz et al. 2012                               |
 |      [PIM1](PIM1)      |   1, aSHM    |               Burkhardt et al. 2022; L. Pasqualucci et al. 2001                |
 |      [PIM2](PIM2)      |   1, aSHM    |                               Arthur et al. 2018                               |
 |   [POU2AF1](POU2AF1)   |   1, aSHM    |                              Krysiak et al. 2017                               |
-|    [POU2F2](POU2F2)    |      1       |                     Zhang et al. 2013; Krysiak et al. 2017                     |
+|    [POU2F2](POU2F2)    |      1       |                     Krysiak et al. 2017; Zhang et al. 2013                     |
 |     [PRDM1](PRDM1)     |      1       |                         Laura Pasqualucci et al. 2006                          |
-|     [PRKDC](PRKDC)     |      1       |                  Hübschmann et al. 2021; Schmitz et al. 2018                   |
 |      [PTEN](PTEN)      |      1       |                                Love et al. 2012                                |
 |     [PTPRD](PTPRD)     |      1       |                                                                                  |
-|       [RB1](RB1)       |      1       |                      Zhang et al. 2014; Morin et al. 2013                      |
+|       [RB1](RB1)       |      1       |                      Morin et al. 2013; Zhang et al. 2014                      |
 |      [RFX7](RFX7)      |      1       |                               Grande et al. 2019                               |
-|     [RFXAP](RFXAP)     |      1       |                                                                                  |
 |      [RHOA](RHOA)      |      1       |                              Richter et al. 2012                               |
 |     [RRAGC](RRAGC)     |      1       |                               Okosun et al. 2016                               |
 |     [S1PR2](S1PR2)     |   1, aSHM    |                     Muppidi et al. 2014; Morin et al. 2011                     |
@@ -122,7 +114,7 @@
 |     [SF3B1](SF3B1)     |      1       |                                Love et al. 2012                                |
 |      [SGK1](SGK1)      |   1, aSHM    |                               Morin et al. 2011                                |
 |     [SIN3A](SIN3A)     |      1       |                               Grande et al. 2019                               |
-|   [SMARCA4](SMARCA4)   |      1       | Zhang et al. 2013; Richter et al. 2012; Nadeu et al. 2020; Krysiak et al. 2017 |
+|   [SMARCA4](SMARCA4)   |      1       | Zhang et al. 2013; Nadeu et al. 2020; Richter et al. 2012; Krysiak et al. 2017 |
 |     [SOCS1](SOCS1)     |   1, aSHM    |                               Morin et al. 2011                                |
 |      [SPEN](SPEN)      |      1       |                               Rossi et al. 2012                                |
 |     [STAT3](STAT3)     |      1       |                               Ohgami et al. 2014                               |
@@ -136,7 +128,6 @@
 |  [TNFRSF14](TNFRSF14)  |      1       |                               Cheung et al. 2010                               |
 |       [TOX](TOX)       |      1       |                               Reddy et al. 2017                                |
 |      [TP53](TP53)      |      1       |             Wilda et al. 2004; Morin et al. 2011; Beà et al. 2013              |
-|    [TRIP12](TRIP12)    |      1       |                                                                                  |
 |     [TRRAP](TRRAP)     |      1       |                               Parry et al. 2013                                |
 |     [UBE2A](UBE2A)     |      1       |                               Reddy et al. 2017                                |
 |     [UNC5C](UNC5C)     |      1       |                                                                                  |
@@ -147,11 +138,11 @@
 |   [ZC3H12A](ZC3H12A)   |      1       |                               Arthur et al. 2018                               |
 |   [ZFP36L1](ZFP36L1)   |   1, aSHM    |                      Panea et al. 2019; Morin et al. 2011                      |
 |    [ZNF292](ZNF292)    |      1       |                               Zhang et al. 2013                                |
-|    [ZNF608](ZNF608)    |      1       |                     Zhang et al. 2013; Krysiak et al. 2017                     |
+|    [ZNF608](ZNF608)    |      1       |                     Krysiak et al. 2017; Zhang et al. 2013                     |
 
 ## Tier 2 DLBCL genes
 
-### *186 total*
+### *195 total*
 
 |          Gene          |     Tier     |                     Relevant references                     |
 |:----------------------:|:------------:|:-----------------------------------------------------------:|
@@ -165,6 +156,7 @@
 |       [ATR](ATR)       |      2       |                     Reddy et al. 2017                     |
 |    [BCL11A](BCL11A)    |   2, aSHM    |                                                             |
 |      [BCOR](BCOR)      |      2       |                     Nadeu et al. 2020                     |
+|       [BCR](BCR)       |      2       |                                                             |
 |     [BIRC3](BIRC3)     |   2, aSHM    |            Beà et al. 2013; Arthur et al. 2018            |
 |       [BLK](BLK)       |   2, aSHM    |                                                             |
 |    [BRINP3](BRINP3)    |      2       |                     Reddy et al. 2017                     |
@@ -173,9 +165,11 @@
 |      [CBLB](CBLB)      |      2       |                     Reddy et al. 2017                     |
 |      [CCL4](CCL4)      |      2       |                    Chapuy et al. 2018                     |
 |      [CD22](CD22)      |      2       |                     Reddy et al. 2017                     |
+|     [CD274](CD274)     |      2       |                     Morin et al. 2011                     |
+|      [CD36](CD36)      |      2       |         Laura Pasqualucci, Trifonov, et al. 2011          |
 |      [CD44](CD44)      |   2, aSHM    |                    Arthur et al. 2018                     |
 |      [CD74](CD74)      |   2, aSHM    |                    Arthur et al. 2018                     |
-|     [CDC73](CDC73)     |      2       |            Love et al. 2012; Reddy et al. 2017            |
+|     [CDC73](CDC73)     |      2       |            Reddy et al. 2017; Love et al. 2012            |
 |      [CDH9](CDH9)      |      2       |                     Morin et al. 2013                     |
 |      [CHD1](CHD1)      |      2       |                     Reddy et al. 2017                     |
 |      [CHD8](CHD8)      |      2       |           Grande et al. 2019; Reddy et al. 2017           |
@@ -184,6 +178,7 @@
 |   [CNTNAP5](CNTNAP5)   |      2       |                     Morin et al. 2013                     |
 |      [COQ7](COQ7)      |      2       |                    Chapuy et al. 2018                     |
 |     [CRIP1](CRIP1)     |      2       |                    Chapuy et al. 2018                     |
+|    [DAZAP1](DAZAP1)    |      2       |                Pararajalingam et al. 2020                 |
 |     [DCAF6](DCAF6)     |      2       |                     Reddy et al. 2017                     |
 |     [DDX10](DDX10)     |      2       |                     Reddy et al. 2017                     |
 |     [DHX16](DHX16)     |      2       |                  Hübschmann et al. 2021                   |
@@ -198,7 +193,7 @@
 |   [FAM102A](FAM102A)   |   2, aSHM    |                                                             |
 |    [FAM38B](FAM38B)    |      2       |                     Morin et al. 2013                     |
 |     [FANK1](FANK1)     |   2, aSHM    |                                                             |
-|      [FAT4](FAT4)      |      2       |           Zhang et al. 2014; Morin et al. 2013            |
+|      [FAT4](FAT4)      |      2       |           Morin et al. 2013; Zhang et al. 2014            |
 |     [FCRL3](FCRL3)     |   2, aSHM    |                                                             |
 |     [FNBP1](FNBP1)     |   2, aSHM    |                                                             |
 |     [FNDC1](FNDC1)     |      2       |                     Morin et al. 2013                     |
@@ -220,7 +215,7 @@
 |    [HNRNPD](HNRNPD)    |      2       |                                                             |
 |   [HNRNPH1](HNRNPH1)   | 2, noncoding |                Pararajalingam et al. 2020                 |
 |      [HRAS](HRAS)      |      2       |                     Reddy et al. 2017                     |
-|       [ID3](ID3)       |      2       |         Richter et al. 2012; Schmitz et al. 2012          |
+|       [ID3](ID3)       |      2       |         Schmitz et al. 2012; Richter et al. 2012          |
 |      [IER2](IER2)      |      2       |                     Morin et al. 2013                     |
 |    [IFNGR1](IFNGR1)    |      2       |                     Morin et al. 2013                     |
 |     [IGLL5](IGLL5)     |   2, aSHM    |      Russler-Germain et al. 2023; Panea et al. 2019       |
@@ -233,6 +228,7 @@
 |      [IRF1](IRF1)      |   2, aSHM    |                  Hübschmann et al. 2021                   |
 |      [JAK1](JAK1)      |      2       |                     Zhang et al. 2013                     |
 |      [JAK3](JAK3)      |      2       |                     Zhang et al. 2013                     |
+|      [JUNB](JUNB)      |      2       |                     Reddy et al. 2017                     |
 |     [KCMF1](KCMF1)     |      2       |                     Reddy et al. 2017                     |
 |    [KLHL21](KLHL21)    |      2       |                    Schmitz et al. 2018                    |
 |     [LAMA5](LAMA5)     |      2       |                    Schmitz et al. 2018                    |
@@ -244,12 +240,13 @@
 |       [LYN](LYN)       |      2       |                    Chapuy et al. 2018                     |
 |     [MAGT1](MAGT1)     |      2       |                     Reddy et al. 2017                     |
 |    [MALAT1](MALAT1)    |   2, aSHM    |                    Arthur et al. 2018                     |
-|    [MAP2K1](MAP2K1)    |      2       |         Shin et al. 2015; Louissaint et al. 2016          |
+|    [MAP2K1](MAP2K1)    |      2       |         Louissaint et al. 2016; Shin et al. 2015          |
 |    [MAP4K4](MAP4K4)    |      2       |                     Reddy et al. 2017                     |
 |     [MARK1](MARK1)     |      2       |                     Reddy et al. 2017                     |
+|      [MCL1](MCL1)      |      2       |           Reddy et al. 2017; Panea et al. 2019            |
 |     [MECOM](MECOM)     |      2       |                     Reddy et al. 2017                     |
 |       [MET](MET)       |      2       |                     Reddy et al. 2017                     |
-|    [MIR142](MIR142)    |   2, aSHM    |         Kwanhian et al. 2012; Grande et al. 2019          |
+|    [MIR142](MIR142)    |   2, aSHM    |         Grande et al. 2019; Kwanhian et al. 2012          |
 |  [MIR155HG](MIR155HG)  |   2, aSHM    |                                                             |
 |      [MPDZ](MPDZ)      |      2       |                     Morin et al. 2013                     |
 |      [MSH2](MSH2)      |      2       |                     Reddy et al. 2017                     |
@@ -287,6 +284,7 @@
 |      [POGZ](POGZ)      |      2       |                     Morin et al. 2013                     |
 |   [PPP1R9B](PPP1R9B)   |      2       |                                                             |
 |     [PRKCB](PRKCB)     |      2       |                     Morin et al. 2013                     |
+|     [PRKDC](PRKDC)     |      2       |        Hübschmann et al. 2021; Schmitz et al. 2018        |
 |     [PRPS1](PRPS1)     |      2       |                    Chapuy et al. 2018                     |
 |      [PTMA](PTMA)      |   2, aSHM    |                                                             |
 |     [PTPN1](PTPN1)     |   2, aSHM    |                                                             |
@@ -298,6 +296,7 @@
 |      [RARA](RARA)      |      2       |                     Reddy et al. 2017                     |
 |       [RCC](RCC)       |   2, aSHM    |                                                             |
 |     [RFTN1](RFTN1)     |   2, aSHM    |                    Arthur et al. 2018                     |
+|     [RFXAP](RFXAP)     |      2       |                                                             |
 |      [RHEX](RHEX)      |   2, aSHM    |                                                             |
 |      [RHOH](RHOH)      |   2, aSHM    |                L. Pasqualucci et al. 2001                 |
 |    [RUBCNL](RUBCNL)    |   2, aSHM    |                                                             |
@@ -312,7 +311,7 @@
 |     [SIAH2](SIAH2)     |      2       |                  Hübschmann et al. 2021                   |
 |   [SLC34A2](SLC34A2)   |      2       |                  Hübschmann et al. 2021                   |
 |     [SMEK1](SMEK1)     |      2       |                    Chapuy et al. 2018                     |
-|     [SRRM2](SRRM2)     |      2       |      Morin et al. 2013; Russler-Germain et al. 2023       |
+|     [SRRM2](SRRM2)     |      2       |      Russler-Germain et al. 2023; Morin et al. 2013       |
 |   [ST6GAL1](ST6GAL1)   |   2, aSHM    |                    Arthur et al. 2018                     |
 |    [STAT5B](STAT5B)    |      2       |                     Zhang et al. 2013                     |
 |       [SYK](SYK)       |      2       |                     Reddy et al. 2017                     |
@@ -325,13 +324,14 @@
 |      [TLR2](TLR2)      |      2       |            Chapuy et al. 2018; Beà et al. 2013            |
 |     [TRAF3](TRAF3)     |      2       |         Laura Pasqualucci, Trifonov, et al. 2011          |
 |     [TRAF6](TRAF6)     |      2       |                  Hübschmann et al. 2021                   |
+|    [TRIP12](TRIP12)    |      2       |                                                             |
 |    [UBE2J1](UBE2J1)    |   2, aSHM    |                                                             |
-|      [UBR5](UBR5)      |      2       |       Zhang et al. 2013; Pararajalingam et al. 2020       |
+|      [UBR5](UBR5)      |      2       |       Pararajalingam et al. 2020; Zhang et al. 2013       |
 |     [UNC5B](UNC5B)     |      2       |                  Hübschmann et al. 2021                   |
 |     [UNC5D](UNC5D)     |      2       |                                                             |
 |       [WAC](WAC)       |      2       |                     Reddy et al. 2017                     |
 |     [WDFY3](WDFY3)     |      2       |                     Morin et al. 2013                     |
-|      [WNK1](WNK1)      |      2       |        Thomas et al. 2023; Hübschmann et al. 2021         |
+|      [WNK1](WNK1)      |      2       |        Hübschmann et al. 2021; Thomas et al. 2023         |
 |      [XBP1](XBP1)      |   2, aSHM    |                                                             |
 |       [YY1](YY1)       |      2       |                     Reddy et al. 2017                     |
 |    [ZBTB7A](ZBTB7A)    |      2       |         Burkhardt et al. 2022; Reddy et al. 2017          |
