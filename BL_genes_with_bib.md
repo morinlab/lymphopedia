@@ -25,7 +25,7 @@
 |    [PHF6](PHF6)    |  1   |            (Thomas et al. 2023; Reddy et al. 2017)            |
 |    [PTEN](PTEN)    |  1   |                      (Love et al. 2012)                       |
 |    [RFX7](RFX7)    |  1   |                     (Grande et al. 2019)                      |
-|    [RHOA](RHOA)    |  1   |       (Richter et al. 2012; L. Pasqualucci et al. 2001)       |
+|    [RHOA](RHOA)    |  1   |                 \[Richter et al. (2012); @\]                  |
 |   [SIN3A](SIN3A)   |  1   |                     (Grande et al. 2019)                      |
 | [SMARCA4](SMARCA4) |  1   | (Richter et al. 2012; Krysiak et al. 2017; Zhang et al. 2013) |
 |    [TCF3](TCF3)    |  1   |                     (Schmitz et al. 2012)                     |

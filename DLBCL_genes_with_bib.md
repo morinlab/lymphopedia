@@ -66,11 +66,11 @@
 | [HIST1H2BK](HIST1H2BK) |  1   |                         (Panea et al. 2019)                         |
 |  [HIST1H3B](HIST1H3B)  |  1   |                         (Zhang et al. 2013)                         |
 | [HIST2H2BE](HIST2H2BE) |  1   |                        (Schmitz et al. 2018)                        |
-|     [HLA-A](HLA-A)     |  1   |                                \[@\]                                |
-|     [HLA-B](HLA-B)     |  1   |                                \[@\]                                |
+|     [HLA-A](HLA-A)     |  1   |                                                                     |
+|     [HLA-B](HLA-B)     |  1   |                                                                     |
 |     [HLA-C](HLA-C)     |  1   |                                                                     |
 |   [HLA-DMA](HLA-DMA)   |  1   |                                                                     |
-|   [HLA-DMB](HLA-DMB)   |  1   |                                \[@\]                                |
+|   [HLA-DMB](HLA-DMB)   |  1   |                                                                     |
 |  [HLA-DQA1](HLA-DQA1)  |  1   |                      (Hübschmann et al. 2021)                       |
 |    [HNRNPD](HNRNPD)    |  1   |                                                                     |
 |   [HNRNPH1](HNRNPH1)   |  1   |                    (Pararajalingam et al. 2020)                     |
@@ -125,7 +125,7 @@
 |       [RB1](RB1)       |  1   |                         (Morin et al. 2013)                         |
 |      [RFX7](RFX7)      |  1   |                        (Grande et al. 2019)                         |
 |     [RFXAP](RFXAP)     |  1   |                                                                     |
-|      [RHOA](RHOA)      |  1   |          (L. Pasqualucci et al. 2001; Richter et al. 2012)          |
+|      [RHOA](RHOA)      |  1   |                    \[@; Richter et al. (2012)\]                     |
 |     [RRAGC](RRAGC)     |  1   |                        (Okosun et al. 2016)                         |
 |     [S1PR2](S1PR2)     |  1   |              (Morin et al. 2011; Muppidi et al. 2014)               |
 |    [SETD1B](SETD1B)    |  1   |                         (Reddy et al. 2017)                         |

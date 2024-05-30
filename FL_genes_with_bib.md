@@ -97,7 +97,7 @@
 |      [GRM6](GRM6)      |  2   |                   (Russler-Germain et al. 2023)                    |
 | [HIST1H2BM](HIST1H2BM) |  2   |                       (Krysiak et al. 2017)                        |
 |  [HIST1H3I](HIST1H3I)  |  2   |              (Krysiak et al. 2017; Panea et al. 2019)              |
-|     [HLA-B](HLA-B)     |  2   |                               \[@\]                                |
+|     [HLA-B](HLA-B)     |  2   |                                                                    |
 |    [HNRNPD](HNRNPD)    |  2   |                                                                    |
 |     [IGLL5](IGLL5)     |  2   |          (Russler-Germain et al. 2023; Panea et al. 2019)          |
 |       [JUP](JUP)       |  2   |                      (Hübschmann et al. 2021)                      |
