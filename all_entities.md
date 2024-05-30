@@ -225,7 +225,6 @@
 |GRM6|![FL](images/icons/FL_tier2.png)||||||
 |GSG2||![DLBCL](images/icons/DLBCL_tier2.png)|||||
 |GTSE1|||![BL](images/icons/BL_tier2.png)||||
-|Gene|||||![PMBL](images/icons/PMBL_tierTier.png)||
 |H1-4||||||![MZL](images/icons/MZL_tier1.png)|
 |H1-5||||||![MZL](images/icons/MZL_tier1.png)|
 |HDAC7||![DLBCL](images/icons/DLBCL_tier2.png)|||||
