@@ -6,9 +6,9 @@ of mutations in each gene can be found through the gene lists (below). Additiona
 ## B-cell Lymphoma gene lists
 | entity | Tier 1 (high-confidence) | Tier 2 (low-confidence) |
 | ----- | ----------- | ---------- |
-| DLBCL | [(152 genes)](tier1_dlbcl) |[(173 genes)](tier2_dlbcl) |
+| DLBCL | [(128 genes)](DLBCL_genes#tier-1-dlbcl-genes) |[(198 genes)](DLBCL_genes#tier-2-dlbcl-genes) |
 | FL | [(65 genes)](tier1_fl) |[(50 genes)](tier2_fl) |
-| BL | [(29 genes)](BL_genes) |[(157 genes)](BL_genes#tier-2-bl-genes) |
+| BL | [(29 genes)](BL_genes#tier-1-bl-genes) |[(157 genes)](BL_genes#tier-2-bl-genes) |
 | MCL | [(24 genes)](tier1_mcl) |[(29 genes)](tier2_mcl) |
 
 ## Origins of B-cell lymphoma gene lists
