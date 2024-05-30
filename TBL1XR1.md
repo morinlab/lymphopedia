@@ -35,10 +35,6 @@ timeline
 |FL    |No  |No                   |12.400          |18.940          |
 
 
-> [!NOTE]
-> First described in DLBCL in 2016 by [Mareschal S](https://pubmed.ncbi.nlm.nih.gov/26608593)
-
-
  ## TBL1XR1 Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
