@@ -24,9 +24,9 @@
 |    [CREBBP](CREBBP)    |  1   | (Laura Pasqualucci, Dominguez-Sola, et al. 2011; Love et al. 2012)  |
 |      [CTSS](CTSS)      |  1   |                        (Bararia et al. 2020)                        |
 |      [DTX1](DTX1)      |  1   |              (Schmitz et al. 2018; Panea et al. 2019)               |
-|      [EBF1](EBF1)      |  1   |                     \[Bohle et al. (2013); @\]                      |
+|      [EBF1](EBF1)      |  1   |               (Bohle et al. 2013; Thomas et al. 2023)               |
 |    [EEF1A1](EEF1A1)    |  1   |                      (Hübschmann et al. 2021)                       |
-|     [EP300](EP300)     |  1   |       \[Laura Pasqualucci, Dominguez-Sola, et al. (2011); @\]       |
+|     [EP300](EP300)     |  1   | (Laura Pasqualucci, Dominguez-Sola, et al. 2011; Panea et al. 2019) |
 |      [EZH2](EZH2)      |  1   |                (Morin et al. 2010; Love et al. 2012)                |
 |       [FAS](FAS)       |  1   |                        (Scholl et al. 2007)                         |
 |     [FOXO1](FOXO1)     |  1   |              (Morin et al. 2011; Schmitz et al. 2012)               |
@@ -49,11 +49,11 @@
 |      [IRF8](IRF8)      |  1   |               (Morin et al. 2011; Panea et al. 2019)                |
 |     [ITPKB](ITPKB)     |  1   |                        (Schmitz et al. 2018)                        |
 |      [KLF2](KLF2)      |  1   |             (Laura Pasqualucci, Trifonov, et al. 2011)              |
-|     [KLHL6](KLHL6)     |  1   |                     \[Morin et al. (2011); @\]                      |
+|     [KLHL6](KLHL6)     |  1   |               (Morin et al. 2011; Panea et al. 2019)                |
 |     [KMT2D](KMT2D)     |  1   |               (Morin et al. 2011; Grande et al. 2019)               |
-|       [LTB](LTB)       |  1   |                     \[Chapuy et al. (2018); @\]                     |
+|       [LTB](LTB)       |  1   |               (Chapuy et al. 2018; Panea et al. 2019)               |
 |    [MAP2K1](MAP2K1)    |  1   |             (Louissaint et al. 2016; Shin et al. 2015)              |
-|     [MEF2B](MEF2B)     |  1   |                     \[Morin et al. (2011); @\]                      |
+|     [MEF2B](MEF2B)     |  1   |                         (Morin et al. 2011)                         |
 |     [MEF2C](MEF2C)     |  1   |                        (Arthur et al. 2018)                         |
 |      [PCLO](PCLO)      |  1   |                         (Lohr et al. 2012)                          |
 |      [PIM1](PIM1)      |  1   |         (L. Pasqualucci et al. 2001; Burkhardt et al. 2022)         |
@@ -517,6 +517,16 @@ Cases.” *Annals of Laboratory Medicine* 35 (2): 257–59.
 Tanaka, S., D. C. Louie, J. A. Kant, and J. C. Reed. 1992. “Frequent
 Incidence of Somatic Mutations in Translocated BCL2 Oncogenes of
 Non-Hodgkin’s Lymphomas.” *Blood* 79 (1): 229–37.
+
+</div>
+
+<div id="ref-thomasGeneticSubgroupsInform2023" class="csl-entry">
+
+Thomas, Nicole, Kostiantyn Dreval, Daniela S. Gerhard, Laura K. Hilton,
+Jeremy S. Abramson, Richard F. Ambinder, Stefan Barta, et al. 2023.
+“Genetic Subgroups Inform on Pathobiology in Adult and Pediatric Burkitt
+Lymphoma.” *Blood* 141 (8): 904–16.
+<https://doi.org/10.1182/blood.2022016534>.
 
 </div>
 

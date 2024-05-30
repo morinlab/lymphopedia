@@ -41,9 +41,9 @@
 |     [DDX3X](DDX3X)     |  1   |                     (Schmitz et al. 2018, 2012)                     |
 |      [DTX1](DTX1)      |  1   |              (Schmitz et al. 2018; Panea et al. 2019)               |
 |     [DUSP2](DUSP2)     |  1   |                         (Morin et al. 2013)                         |
-|      [EBF1](EBF1)      |  1   |                     \[Bohle et al. (2013); @\]                      |
+|      [EBF1](EBF1)      |  1   |               (Bohle et al. 2013; Thomas et al. 2023)               |
 |    [EEF1A1](EEF1A1)    |  1   |                      (Hübschmann et al. 2021)                       |
-|     [EP300](EP300)     |  1   |       \[Laura Pasqualucci, Dominguez-Sola, et al. (2011); @\]       |
+|     [EP300](EP300)     |  1   | (Laura Pasqualucci, Dominguez-Sola, et al. 2011; Panea et al. 2019) |
 |      [ETS1](ETS1)      |  1   |               (Morin et al. 2011; Panea et al. 2019)                |
 |      [ETV6](ETV6)      |  1   |                        (Arthur et al. 2018)                         |
 |      [EZH2](EZH2)      |  1   |                (Morin et al. 2010; Love et al. 2012)                |
@@ -85,15 +85,15 @@
 |      [JUNB](JUNB)      |  1   |                         (Reddy et al. 2017)                         |
 |      [KLF2](KLF2)      |  1   |             (Laura Pasqualucci, Trifonov, et al. 2011)              |
 |    [KLHL14](KLHL14)    |  1   |                         (Zhang et al. 2013)                         |
-|     [KLHL6](KLHL6)     |  1   |                     \[Morin et al. (2011); @\]                      |
+|     [KLHL6](KLHL6)     |  1   |               (Morin et al. 2011; Panea et al. 2019)                |
 |     [KMT2C](KMT2C)     |  1   |                (Zhang et al. 2013; Zhou et al. 2019)                |
 |     [KMT2D](KMT2D)     |  1   |               (Morin et al. 2011; Grande et al. 2019)               |
 |      [KRAS](KRAS)      |  1   |                         (Lohr et al. 2012)                          |
-|      [LCOR](LCOR)      |  1   |                     \[Arthur et al. (2018); @\]                     |
-|       [LTB](LTB)       |  1   |                     \[Chapuy et al. (2018); @\]                     |
+|      [LCOR](LCOR)      |  1   |                        (Arthur et al. 2018)                         |
+|       [LTB](LTB)       |  1   |               (Chapuy et al. 2018; Panea et al. 2019)               |
 |       [LYN](LYN)       |  1   |                        (Chapuy et al. 2018)                         |
 |      [MCL1](MCL1)      |  1   |               (Reddy et al. 2017; Panea et al. 2019)                |
-|     [MEF2B](MEF2B)     |  1   |                     \[Morin et al. (2011); @\]                      |
+|     [MEF2B](MEF2B)     |  1   |                         (Morin et al. 2011)                         |
 |     [MEF2C](MEF2C)     |  1   |                        (Arthur et al. 2018)                         |
 |       [MGA](MGA)       |  1   |                         (Zhang et al. 2013)                         |
 |     [MPEG1](MPEG1)     |  1   |                         (Morin et al. 2013)                         |
@@ -118,7 +118,7 @@
 |      [PIM2](PIM2)      |  1   |                        (Arthur et al. 2018)                         |
 |   [POU2AF1](POU2AF1)   |  1   |                        (Krysiak et al. 2017)                        |
 |    [POU2F2](POU2F2)    |  1   |              (Zhang et al. 2013; Krysiak et al. 2017)               |
-|     [PRDM1](PRDM1)     |  1   |        \[(**pasqualucciInactivationPRDM1BLIMP12006?**); @\]         |
+|     [PRDM1](PRDM1)     |  1   |                   (Laura Pasqualucci et al. 2006)                   |
 |     [PRKDC](PRKDC)     |  1   |            (Schmitz et al. 2018; Hübschmann et al. 2021)            |
 |      [PTEN](PTEN)      |  1   |                         (Love et al. 2012)                          |
 |     [PTPRD](PTPRD)     |  1   |                                                                     |
@@ -656,6 +656,16 @@ Renata Walewska, Jade Forster, Helen Parker, et al. 2013. “Whole Exome
 Sequencing Identifies Novel Recurrently Mutated Genes in Patients with
 Splenic Marginal Zone Lymphoma.” *PloS One* 8 (12): e83244.
 <https://doi.org/10.1371/journal.pone.0083244>.
+
+</div>
+
+<div id="ref-pasqualucciInactivationPRDM1BLIMP12006a" class="csl-entry">
+
+Pasqualucci, Laura, Mara Compagno, Jane Houldsworth, Stefano Monti,
+Adina Grunn, Subhadra V Nandula, Jon C Aster, Vundavally V Murty,
+Margaret A Shipp, and Riccardo Dalla-Favera. 2006. “Inactivation of the
+PRDM1/BLIMP1 Gene in Diffuse Large B Cell Lymphoma.” *J Exp Med* 203
+(2): 311–17.
 
 </div>
 
