@@ -1,5 +1,5 @@
 ---
-title: DLBCL genes
+title: 'DLBCL genes'
 bibliography: 'morinlab.bib'
 ---
 
