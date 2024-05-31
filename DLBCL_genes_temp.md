@@ -1,12 +1,16 @@
 ---
 title: DLBCL genes
-csl: 'chicago-author-date.csl'
 bibliography: 'morinlab.bib'
 ---
+
 # DLBCL genes
+
 ## Origins of DLBCL genes![sankey](DLBCL_sankey-1.svg)
+
 ## Tier 1 DLBCL genes
+
 ### *128 total*
+
 |Gene|Tier| Relevant references|
 |:-:|:-:|:-|
 |[ACTB](ACTB)|1, aSHM|[@wienandGenomicAnalysesFlowsorted2019b; @lohrDiscoveryPrioritizationSomatic2012a]|
