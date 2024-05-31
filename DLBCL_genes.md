@@ -425,7 +425,7 @@ Albuquerque, Marco A., Bruno M. Grande, Elie J. Ritch, Prasath
 Pararajalingam, Selin Jessa, Martin Krzywinski, Jasleen K. Grewal,
 Sohrab P. Shah, Paul C. Boutros, and Ryan D. Morin. 2017. “Enhancing
 Knowledge Discovery from Cancer Genomics Data with Galaxy.”
-*GigaScience* 6 5: 1–13. <https://doi.org/10.1093/gigascience/gix015>.
+*GigaScience* 6 5: 1–13. <a href=https://doi.org/10.1093/gigascience/gix015>.
 
 </div>
 
