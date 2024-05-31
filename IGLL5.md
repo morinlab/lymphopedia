@@ -65,5 +65,5 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/I
 <!-- PMBL: deschGenotypingCirculatingTumor2020 -->
 <!-- ORIGIN: deschGenotypingCirculatingTumor2020 -->
 <!-- BL: paneaWholeGenomeLandscape2019 -->
-<!-- FL: russler-germainMutationsAssociatedProgression2023a -->
+<!-- FL: russler-germainMutationsAssociatedProgression2023b -->
 <!-- BL: paneaWholeGenomeLandscape2019 -->

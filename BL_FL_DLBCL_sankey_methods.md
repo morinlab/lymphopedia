@@ -103,8 +103,8 @@ WGS, 2018 WGS studies, 20
 Arthur 2018, DLBCL Tier 2, 12
 Arthur 2018, DLBCL Tier 1, 8
 
-RNA-seq/exome,2019 RNA-seq/exome studies,47
-2019 RNA-seq/exome studies, Panea 2019, 47
+RNA-seq/exome,2019 ,47
+2019 , Panea 2019, 47
 Panea 2019, BL Tier 2, 43
 Panea 2019, BL Tier 1, 4
 

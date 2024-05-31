@@ -42,4 +42,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/A
 
 
 <!-- ORIGIN: russler-germainMutationsAssociatedProgression2023a -->
-<!-- FL: russler-germainMutationsAssociatedProgression2023a -->
+<!-- FL: russler-germainMutationsAssociatedProgression2023b -->
