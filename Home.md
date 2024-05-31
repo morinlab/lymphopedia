@@ -4,6 +4,7 @@ This project tracks all genes that have been nominated as drivers (recurrent tar
 of mutations in each gene can be found through the gene lists (below). Additional information for each gene can be found on their respective pages. To get started, select one of the gene lists from the table below then select the `gene page` link for any gene in the table.  
 
 ## B-cell Lymphoma gene lists
+
 | entity | Tier 1 (high-confidence) | Tier 2 (low-confidence) |
 | ----- | ----------- | ---------- |
 | DLBCL | [(128 genes)](DLBCL_genes#tier-1-dlbcl-genes) |[(198 genes)](DLBCL_genes#tier-2-dlbcl-genes) |
