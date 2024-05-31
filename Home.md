@@ -24,134 +24,132 @@ config:
     nodeAlignment: right
 ---
 sankey-beta
-
-Sanger, 2001, 4
-2001, Pasqualucci 2001, 4
-Pasqualucci 2001, DLBCL Tier 1, 3
-Pasqualucci 2001, DLBCL Tier 2, 1
-
-RNA-seq/WGS, 2011, 49
-2011, Morin 2011, 25
-Morin 2011, DLBCL Tier 1, 25
-2011, Morin 2011, 15
-Morin 2011, FL Tier 1, 14
-Morin 2011, FL Tier 2, 1
-2011, Pasqualucci 2011a, 7
-Pasqualucci 2011a, DLBCL Tier 1, 5
-Pasqualucci 2011a, DLBCL Tier 2, 2
-2011, Pasqualucci 2011b, 2
-Pasqualucci 2011b, FL Tier 1, 2
-Pasqualucci 2011b, DLBCL Tier 1, 2
-
-exome, 2012 exome studies, 68
-2012 exome studies, Richter 2012, 5
-2012 exome studies, Lohr 2012, 4
-2012 exome studies, Love 2012, 59
-
-Richter 2012, BL Tier 1, 5
+Albuquerque 2017, DLBCL Tier 1, 3
 Lohr 2012, DLBCL Tier 1, 3
 Lohr 2012, DLBCL Tier 2, 1
-Love 2012, BL Tier 1, 3
-Love 2012, BL Tier 2, 56
-
-RNA-seq, 2012 , 19
-2012 , Schmitz 2012, 19
-Schmitz 2012, BL Tier 1, 3
-Schmitz 2012, BL Tier 2, 16
-
-WGS, 2013 WGS studies, 40
-2013 WGS studies, Morin 2013, 40
+Pasqualucci 2001, DLBCL Tier 1, 2
+Pasqualucci 2001, DLBCL Tier 2, 2
+Mareschal 2016, DLBCL Tier 1, 2
+Arthur 2018, DLBCL Tier 1, 8
+Arthur 2018, DLBCL Tier 2, 12
+Morin 2016, DLBCL Tier 1, 2
 Morin 2013, DLBCL Tier 1, 11
 Morin 2013, DLBCL Tier 2, 29
-
-
-exome, 2013 exome studies, 19
-2013 exome studies, Zhang 2013, 19
+Pasqualucci 2011, DLBCL Tier 1, 2
+Hubschmann 2021, DLBCL Tier 1, 3
+Hubschmann 2021, DLBCL Tier 2, 20
+Chapuy 2018, DLBCL Tier 1, 2
+Chapuy 2018, DLBCL Tier 2, 17
+Pasqualucci 2011, DLBCL Tier 1, 3
+Pasqualucci 2011, DLBCL Tier 2, 4
+Reddy 2017, DLBCL Tier 1, 7
+Reddy 2017, DLBCL Tier 2, 53
 Zhang 2013, DLBCL Tier 1, 11
 Zhang 2013, DLBCL Tier 2, 8
-
-exome, 2014 exome studies, 3
-2014 exome studies, Muppidi 2014, 3
-Muppidi 2014, BL Tier 1, 1
-Muppidi 2014, BL Tier 2, 2
-
-exome, 2016 exome studies, 2
-2016 exome studies, Mareschal 2016, 2
-Mareschal 2016, DLBCL Tier 1, 2
-
-WGS, 2016 WGS studies, 2
-2016 WGS studies, Okosun 2016, 2
-Okosun 2016, FL Tier 1, 2
-
-exome, 2016 exome studies, 2
-2016 exome studies, Morin 2016, 2
-Morin 2016, DLBCL Tier 1, 2
-
-exome, 2017 exome studies, 85
-2017 exome studies, Krysiak 2017, 22
+Schmitz 2018, DLBCL Tier 1, 7
+Schmitz 2018, DLBCL Tier 2, 9
+Morin 2011, DLBCL Tier 1, 24
+Morin 2011, DLBCL Tier 2, 1
+DLBCL, DLBCL-exome, 7
+DLBCL-exome, Pasqualucci 2011, 7
+DLBCL, DLBCL-exome, 19
+DLBCL-exome, Chapuy 2018, 19
+DLBCL, DLBCL-WGS, 23
+DLBCL-WGS, Hubschmann 2021, 23
+DLBCL, DLBCL-WGS/exome, 2
+DLBCL, DLBCL-exome, 2
+DLBCL-exome, Pasqualucci 2011, 2
+DLBCL, DLBCL-RNA-seq/WGS, 25
+DLBCL-RNA-seq/WGS, Morin 2011, 25
+DLBCL, DLBCL-exome, 19
+DLBCL-exome, Zhang 2013, 19
+DLBCL, DLBCL-exome, 16
+DLBCL-exome, Schmitz 2018, 16
+DLBCL, DLBCL-exome, 60
+DLBCL-exome, Reddy 2017, 60
+DLBCL, DLBCL-exome, 4
+DLBCL-exome, Lohr 2012, 4
+DLBCL, DLBCL-exome, 3
+DLBCL-exome, Albuquerque 2017, 3
+DLBCL, DLBCL-exome, 2
+DLBCL-exome, Morin 2016, 2
+DLBCL, DLBCL-WGS, 40
+DLBCL-WGS, Morin 2013, 40
+DLBCL, DLBCL-exome, 2
+DLBCL-exome, Mareschal 2016, 2
+DLBCL, DLBCL-WGS, 20
+DLBCL-WGS, Arthur 2018, 20
+DLBCL, DLBCL-Sanger, 4
+DLBCL-Sanger, Pasqualucci 2001, 4
+Pasqualucci 2011, FL Tier 1, 2
+Hubschmann 2021, FL Tier 1, 2
+Hubschmann 2021, FL Tier 2, 15
 Krysiak 2017, FL Tier 1, 17
 Krysiak 2017, FL Tier 2, 5
-
-
-2017 exome studies, Albuquerque 2017, 3
-Albuquerque 2017, DLBCL Tier 1, 3
-
-2017 exome studies, Reddy 2017, 60
-Reddy 2017, DLBCL Tier 2, 50
-Reddy 2017, DLBCL Tier 1, 10
-
-exome, 2018 exome studies, 35
-2018 exome studies, Schmitz 2018, 16
-Schmitz 2018, DLBCL Tier 2, 7
-Schmitz 2018, DLBCL Tier 1, 9
-
-2018 exome studies, Chapuy 2018, 19
-Chapuy 2018, DLBCL Tier 2, 16
-Chapuy 2018, DLBCL Tier 1, 3
-
-WGS, 2018 WGS studies, 20
-2018 WGS studies, Arthur 2018, 20
-Arthur 2018, DLBCL Tier 2, 12
-Arthur 2018, DLBCL Tier 1, 8
-
-RNA-seq/exome,2019 ,47
-2019 , Panea 2019, 47
-Panea 2019, BL Tier 2, 43
+Morin 2011, FL Tier 1, 14
+Morin 2011, FL Tier 2, 1
+Okosun 2016, FL Tier 1, 2
+Russler-germain 2023, FL Tier 1, 1
+Russler-germain 2023, FL Tier 2, 19
+FL, FL-WGS, 17
+FL-WGS, Hubschmann 2021, 17
+FL, FL-exome, 2
+FL-exome, Pasqualucci 2011, 2
+FL, FL-RNA-seq/WGS, 15
+FL-RNA-seq/WGS, Morin 2011, 15
+FL, FL-exome, 22
+FL-exome, Krysiak 2017, 22
+FL, FL-exome, 20
+FL-exome, Russler-germain 2023, 20
+FL, FL-WGS, 2
+FL-WGS, Okosun 2016, 2
+Muppidi 2014, BL Tier 1, 1
+Muppidi 2014, BL Tier 2, 2
 Panea 2019, BL Tier 1, 4
-
-WGS,2019 WGS studies,13
-2019 WGS studies, Grande 2019, 13
-Grande 2019, BL Tier 1, 8
-Grande 2019, BL Tier 2, 5
-
-exome, 2020 exome studies, 2
-2020 exome studies, Pararajalingam 2020, 2
-Pararajalingam 2020, DLBCL Tier 1, 2
-
-WGS, 2021 WGS studies, 40
-2021 WGS studies, Hubschmann 2021, 17
-2021 WGS studies, Hubschmann 2021, 23
-Hubschmann 2021, FL Tier 2, 15
-Hubschmann 2021, FL Tier 1, 2
-Hubschmann 2021, DLBCL Tier 1, 4
-Hubschmann 2021, DLBCL Tier 2, 19
-
-exome, 2023 exome studies, 20
-2023 exome studies, Russler-Germain 2023, 20
-Russler-Germain 2023, FL Tier 1, 1
-Russler-Germain 2023, FL Tier 2, 19
-
-Panel, panel studies, 25
-panel studies, Burkhardt 2022, 25
-Burkhardt 2022, BL Tier 2, 25
-
-WGS, 2023 WGS studies, 3
-2023 WGS studies, Thomas 2023, 3
-Thomas 2023, BL Tier 2, 1
+Panea 2019, BL Tier 2, 46
 Thomas 2023, BL Tier 1, 2
-
+Thomas 2023, BL Tier 2, 3
+Grande 2019, BL Tier 1, 9
+Grande 2019, BL Tier 2, 4
+Richter 2012, BL Tier 1, 5
+Burkhardt 2022, BL Tier 2, 25
+Schmitz 2012, BL Tier 1, 3
+Schmitz 2012, BL Tier 2, 16
+Love 2012, BL Tier 1, 3
+Love 2012, BL Tier 2, 56
+BL, BL-RNA-seq/exome, 50
+BL-RNA-seq/exome, Panea 2019, 50
+BL, BL-Sanger, 3
+BL-Sanger, Muppidi 2014, 3
+BL, BL-WGS, 5
+BL-WGS, Thomas 2023, 5
+BL, BL-panel, 25
+BL-panel, Burkhardt 2022, 25
+BL, BL-WGS, 13
+BL-WGS, Grande 2019, 13
+BL, BL-RNA-seq/WGS/exome, 5
+BL-RNA-seq/WGS/exome, Richter 2012, 5
+BL, BL-exome, 59
+BL-exome, Love 2012, 59
+BL, BL-RNA-seq, 19
+BL-RNA-seq, Schmitz 2012, 19
+Zhang 2014, MCL Tier 1, 2
+Zhang 2014, MCL Tier 2, 26
+Bea 2013, MCL Tier 1, 11
+Bea 2013, MCL Tier 2, 16
+Nadeu 2020, MCL Tier 1, 3
+Nadeu 2020, MCL Tier 2, 2
+Pararajalingam 2020, MCL Tier 1, 6
+Pararajalingam 2020, MCL Tier 2, 1
+MCL, MCL-WGS/exome, 27
+MCL-WGS/exome, Bea 2013, 27
+MCL, MCL-WGS/exome, 7
+MCL-WGS/exome, Pararajalingam 2020, 7
+MCL, MCL-WGS, 5
+MCL-WGS, Nadeu 2020, 5
+MCL, MCL-exome, 28
+MCL-exome, Zhang 2014, 28
 ```
-
 ## B-cell Lymphoma aSHM targets
 [hg19 coordinates](ashm)
 
