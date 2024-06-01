@@ -1,7 +1,7 @@
 ---
 bibliography: 'test.bib'
 locale: 'locales-en-US.xml'
-csl: 'chicago-author-date.csl'
+csl: 'chicago.csl'
 ---
 
 # DLBCL genes
