@@ -35,5 +35,10 @@ bibliography: 'morinlab.bib'
 |[TP53](TP53)|1 |1 |
 |[ZFP36L1](ZFP36L1)| |1 |
 
+|Entity| Tier 1 genes| Tier 2 genes|
+|:-:|:-:|:-:|
+|FL|19|4|
+|DLBCL|27|1|
+
 # Details
 
