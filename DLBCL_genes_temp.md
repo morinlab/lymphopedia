@@ -2,6 +2,7 @@
 title: 'DLBCL genes'
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
+link-citations: true
 ---
 
 # DLBCL genes
