@@ -4,8 +4,6 @@ bibliography: 'morinlab.bib'
 
 # @hubschmannMutationalMechanismsShaping2021b
 
-# References
-
 |Gene|Entities|
 |:-:|:-:|
 |DHX16|DLBCL|
@@ -46,4 +44,6 @@ bibliography: 'morinlab.bib'
 |MYCBP2|FL|
 |CPNE8|FL|
 |LRP12|DLBCL|
+
+# References
 
