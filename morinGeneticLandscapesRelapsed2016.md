@@ -4,10 +4,10 @@ bibliography: 'morinlab.bib'
 ---
 
 # @morinGeneticLandscapesRelapsed2016
-|Gene|Entities|
+|New gene|Entity (Current Tier)|
 |:-:|:-:|
-|NFKBIZ|DLBCL|
-|NFKBIE|DLBCL|
+|NFKBIE|DLBCL (1) |
+|NFKBIZ|DLBCL (1) |
 
 # References
 
