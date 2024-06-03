@@ -160,8 +160,8 @@ MCL-exome, Zhang 2014, 28
 
 ## B-cell lymphoma mutation browser
 
-![FOXO1](images/proteinpaint/FOXO1_NM_002015.svg)
+![](images/proteinpaint/FOXO1_NM_002015.svg)
 
 ## Gene expression distributions across B-cell lymphomas
 
-![expression](images/gene_expression/FOXO1_by_pathology.svg)
+![](images/gene_expression/FOXO1_by_pathology.svg)
