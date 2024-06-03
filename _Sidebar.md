@@ -1,4 +1,4 @@
-![logo](images/lymphopedia.png)
+![](images/lymphopedia.png)
 
 **Disclaimer**
 
@@ -10,7 +10,7 @@ In particular, let us know if you feel that an important citation is missing or 
 
 This work is licensed under a Creative Commons Attribution 4.0 International License. 
 
-![CC BY-SA logo](images/by-sa.png)
+![](images/by-sa.png)
 
 *You are free to:*
 
