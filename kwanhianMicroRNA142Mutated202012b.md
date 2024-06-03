@@ -3,10 +3,10 @@ title: ''
 bibliography: 'morinlab.bib'
 ---
 
-# @ritzRecurrentMutationsSTAT62009a
+# @kwanhianMicroRNA142Mutated202012b
 |Gene|Entities|
 |:-:|:-:|
-|STAT6|PMBL|
+|MIR142|DLBCL|
 
 # References
 

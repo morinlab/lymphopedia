@@ -3,10 +3,12 @@ title: ''
 bibliography: 'morinlab.bib'
 ---
 
-# @ritzRecurrentMutationsSTAT62009a
+# @okosunRecurrentMTORC1activatingRRAGC2016a
 |Gene|Entities|
 |:-:|:-:|
-|STAT6|PMBL|
+|ATP6V1B2|FL|
+|RRAGC|DLBCL|
+|ATP6AP1|FL|
 
 # References
 

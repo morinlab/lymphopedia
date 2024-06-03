@@ -3,10 +3,10 @@ title: ''
 bibliography: 'morinlab.bib'
 ---
 
-# @ritzRecurrentMutationsSTAT62009a
+# @zhouSporadicEndemicBurkitt2019
 |Gene|Entities|
 |:-:|:-:|
-|STAT6|PMBL|
+|KMT2C|BL|
 
 # References
 

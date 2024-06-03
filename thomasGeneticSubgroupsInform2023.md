@@ -3,10 +3,14 @@ title: ''
 bibliography: 'morinlab.bib'
 ---
 
-# @ritzRecurrentMutationsSTAT62009a
+# @thomasGeneticSubgroupsInform2023
 |Gene|Entities|
 |:-:|:-:|
-|STAT6|PMBL|
+|EHD1|BL|
+|WNK1|BL|
+|EBF1|BL|
+|CDKN2C|BL|
+|PHF6|BL|
 
 # References
 

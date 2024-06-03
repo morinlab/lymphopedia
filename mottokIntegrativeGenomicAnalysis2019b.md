@@ -1,0 +1,32 @@
+---
+title: ''
+bibliography: 'morinlab.bib'
+---
+
+# @mottokIntegrativeGenomicAnalysis2019b
+|Gene|Entities|
+|:-:|:-:|
+|DDX3X|PMBL|
+|EZH2|PMBL|
+|HIST1H4J|PMBL|
+|JAK1|PMBL|
+|CISH|PMBL|
+|CXCR5|PMBL|
+|IRF2BP2|PMBL|
+|IL13RA1|PMBL|
+|HIST1H2BC|PMBL|
+|VMP1|PMBL|
+|IRF8|PMBL|
+|MAGEC2|PMBL|
+|IRF4|PMBL|
+|HIST1H4E|PMBL|
+|NFKB2|PMBL|
+|RGS1|PMBL|
+|MS4A1|PMBL|
+|JUNB|PMBL|
+|EPHA7|PMBL|
+|GCSAM|PMBL|
+|IL1RAPL2|PMBL|
+
+# References
+

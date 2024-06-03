@@ -3,10 +3,11 @@ title: ''
 bibliography: 'morinlab.bib'
 ---
 
-# @ritzRecurrentMutationsSTAT62009a
+# @yanBCRTLRSignaling2012a
 |Gene|Entities|
 |:-:|:-:|
-|STAT6|PMBL|
+|MYD88|MZL|
+|CARD11|MZL|
 
 # References
 

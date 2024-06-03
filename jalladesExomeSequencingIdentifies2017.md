@@ -1,0 +1,39 @@
+---
+title: ''
+bibliography: 'morinlab.bib'
+---
+
+# @jalladesExomeSequencingIdentifies2017
+|Gene|Entities|
+|:-:|:-:|
+|KLF2|MZL|
+|MYC|MZL|
+|WNK1|MZL|
+|KIF26A|MZL|
+|HIST1H2AD|MZL|
+|ARHGEF17|MZL|
+|EZH1|MZL|
+|DTX3L|MZL|
+|NCOA6|MZL|
+|MYLK|MZL|
+|CCND3|MZL|
+|ARHGAP20|MZL|
+|HRAS|MZL|
+|DNAH5|MZL|
+|HIST1H1D|MZL|
+|MGA|MZL|
+|KDM6A|MZL|
+|ROCK1|MZL|
+|RAF1|MZL|
+|NRAS|MZL|
+|DNAH7|MZL|
+|ARHGEF15|MZL|
+|BCOR|MZL|
+|TBK1|MZL|
+|DNAI1|MZL|
+|KAT6A|MZL|
+|DOCK6|MZL|
+|HIST4H4|MZL|
+
+# References
+

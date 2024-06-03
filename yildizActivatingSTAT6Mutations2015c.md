@@ -3,10 +3,10 @@ title: ''
 bibliography: 'morinlab.bib'
 ---
 
-# @ritzRecurrentMutationsSTAT62009a
+# @yildizActivatingSTAT6Mutations2015c
 |Gene|Entities|
 |:-:|:-:|
-|STAT6|PMBL|
+|STAT6|DLBCL,FL|
 
 # References
 

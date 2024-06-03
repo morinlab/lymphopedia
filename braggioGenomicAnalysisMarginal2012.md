@@ -3,10 +3,10 @@ title: ''
 bibliography: 'morinlab.bib'
 ---
 
-# @ritzRecurrentMutationsSTAT62009a
+# @braggioGenomicAnalysisMarginal2012
 |Gene|Entities|
 |:-:|:-:|
-|STAT6|PMBL|
+|ATM|MZL|
 
 # References
 

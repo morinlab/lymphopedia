@@ -1,0 +1,33 @@
+---
+title: ''
+bibliography: 'morinlab.bib'
+---
+
+# @krysiakRecurrentSomaticMutations2017b
+|Gene|Entities|
+|:-:|:-:|
+|EGR1|FL|
+|BTK|FL|
+|ARID1A|FL|
+|HIST1H2BG|FL|
+|HIST1H2AM|FL|
+|HIST1H3G|FL|
+|HIST1H1E|FL|
+|HIST1H2AC|FL|
+|HVCN1|FL|
+|ZNF608|FL|
+|HIST1H3I|FL|
+|HIST1H1D|FL|
+|HIST1H2BD|FL|
+|HIST1H1B|FL|
+|SMARCA4|FL|
+|POU2F2|FL|
+|POU2AF1|FL|
+|HIST1H2AG|FL|
+|BCL7A|FL|
+|HIST1H2BM|FL|
+|CXCR4|FL|
+|HIST1H2BC|FL|
+
+# References
+

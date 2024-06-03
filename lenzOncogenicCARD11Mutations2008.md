@@ -3,10 +3,10 @@ title: ''
 bibliography: 'morinlab.bib'
 ---
 
-# @ritzRecurrentMutationsSTAT62009a
+# @lenzOncogenicCARD11Mutations2008
 |Gene|Entities|
 |:-:|:-:|
-|STAT6|PMBL|
+|CARD11|DLBCL|
 
 # References
 

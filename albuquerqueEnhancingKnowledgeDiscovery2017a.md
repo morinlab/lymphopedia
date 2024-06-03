@@ -3,10 +3,12 @@ title: ''
 bibliography: 'morinlab.bib'
 ---
 
-# @ritzRecurrentMutationsSTAT62009a
+# @albuquerqueEnhancingKnowledgeDiscovery2017a
 |Gene|Entities|
 |:-:|:-:|
-|STAT6|PMBL|
+|TMSB4X|DLBCL|
+|BTK|DLBCL|
+|TET2|DLBCL|
 
 # References
 

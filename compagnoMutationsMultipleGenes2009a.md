@@ -3,10 +3,10 @@ title: ''
 bibliography: 'morinlab.bib'
 ---
 
-# @ritzRecurrentMutationsSTAT62009a
+# @compagnoMutationsMultipleGenes2009a
 |Gene|Entities|
 |:-:|:-:|
-|STAT6|PMBL|
+|TNFAIP3|DLBCL|
 
 # References
 

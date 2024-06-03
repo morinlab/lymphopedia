@@ -3,10 +3,10 @@ title: ''
 bibliography: 'morinlab.bib'
 ---
 
-# @ritzRecurrentMutationsSTAT62009a
+# @louissaintPediatrictypeNodalFollicular2016a
 |Gene|Entities|
 |:-:|:-:|
-|STAT6|PMBL|
+|MAP2K1|FL|
 
 # References
 

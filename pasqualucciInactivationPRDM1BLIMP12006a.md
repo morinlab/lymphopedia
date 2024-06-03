@@ -3,10 +3,10 @@ title: ''
 bibliography: 'morinlab.bib'
 ---
 
-# @ritzRecurrentMutationsSTAT62009a
+# @pasqualucciInactivationPRDM1BLIMP12006a
 |Gene|Entities|
 |:-:|:-:|
-|STAT6|PMBL|
+|PRDM1|DLBCL|
 
 # References
 

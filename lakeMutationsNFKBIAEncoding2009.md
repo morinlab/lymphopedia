@@ -3,10 +3,10 @@ title: ''
 bibliography: 'morinlab.bib'
 ---
 
-# @ritzRecurrentMutationsSTAT62009a
+# @lakeMutationsNFKBIAEncoding2009
 |Gene|Entities|
 |:-:|:-:|
-|STAT6|PMBL|
+|NFKBIA|DLBCL|
 
 # References
 

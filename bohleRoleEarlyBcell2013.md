@@ -3,10 +3,10 @@ title: ''
 bibliography: 'morinlab.bib'
 ---
 
-# @ritzRecurrentMutationsSTAT62009a
+# @bohleRoleEarlyBcell2013
 |Gene|Entities|
 |:-:|:-:|
-|STAT6|PMBL|
+|EBF1|DLBCL|
 
 # References
 

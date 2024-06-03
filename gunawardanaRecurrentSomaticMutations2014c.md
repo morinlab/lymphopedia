@@ -3,10 +3,10 @@ title: ''
 bibliography: 'morinlab.bib'
 ---
 
-# @ritzRecurrentMutationsSTAT62009a
+# @gunawardanaRecurrentSomaticMutations2014c
 |Gene|Entities|
 |:-:|:-:|
-|STAT6|PMBL|
+|PTPN1|PMBL|
 
 # References
 

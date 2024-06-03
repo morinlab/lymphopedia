@@ -3,10 +3,10 @@ title: ''
 bibliography: 'morinlab.bib'
 ---
 
-# @ritzRecurrentMutationsSTAT62009a
+# @ganapathiGeneticLandscapeDural2016
 |Gene|Entities|
 |:-:|:-:|
-|STAT6|PMBL|
+|KLHL6|MZL|
 
 # References
 

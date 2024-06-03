@@ -3,10 +3,11 @@ title: ''
 bibliography: 'morinlab.bib'
 ---
 
-# @ritzRecurrentMutationsSTAT62009a
+# @morinGeneticLandscapesRelapsed2016
 |Gene|Entities|
 |:-:|:-:|
-|STAT6|PMBL|
+|NFKBIZ|DLBCL|
+|NFKBIE|DLBCL|
 
 # References
 

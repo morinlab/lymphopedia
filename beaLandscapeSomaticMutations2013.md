@@ -1,0 +1,38 @@
+---
+title: ''
+bibliography: 'morinlab.bib'
+---
+
+# @beaLandscapeSomaticMutations2013
+|Gene|Entities|
+|:-:|:-:|
+|PDLIM3|MCL|
+|NOTCH1|MCL|
+|CCND1|MCL|
+|BIRC3|MCL|
+|TRPM6|MCL|
+|TLR2|MCL|
+|CHMP4C|MCL|
+|ABCA3|MCL|
+|LUZP4|MCL|
+|RGS4|MCL|
+|KMT2D|MCL|
+|KIAA1671|MCL|
+|PCSK2|MCL|
+|ATM|MCL|
+|CRYBG3|MCL|
+|KCNC2|MCL|
+|ABCC9|MCL|
+|SP140|MCL|
+|MEF2B|MCL|
+|TP53|MCL|
+|TNRC6B|MCL|
+|DLGAP2|MCL|
+|DCP1B|MCL|
+|NSD2|MCL|
+|DNAJC6|MCL|
+|NOTCH2|MCL|
+|SLC17A6|MCL|
+
+# References
+

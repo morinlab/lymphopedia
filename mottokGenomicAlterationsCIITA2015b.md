@@ -3,10 +3,10 @@ title: ''
 bibliography: 'morinlab.bib'
 ---
 
-# @ritzRecurrentMutationsSTAT62009a
+# @mottokGenomicAlterationsCIITA2015b
 |Gene|Entities|
 |:-:|:-:|
-|STAT6|PMBL|
+|CIITA|PMBL|
 
 # References
 

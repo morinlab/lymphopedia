@@ -3,10 +3,11 @@ title: ''
 bibliography: 'morinlab.bib'
 ---
 
-# @ritzRecurrentMutationsSTAT62009a
+# @wenigerMutationsTumorSuppressor2006a
 |Gene|Entities|
 |:-:|:-:|
-|STAT6|PMBL|
+|SOCS1|PMBL|
+|GPR126|PMBL|
 
 # References
 

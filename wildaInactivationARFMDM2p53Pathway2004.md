@@ -3,10 +3,10 @@ title: ''
 bibliography: 'morinlab.bib'
 ---
 
-# @ritzRecurrentMutationsSTAT62009a
+# @wildaInactivationARFMDM2p53Pathway2004
 |Gene|Entities|
 |:-:|:-:|
-|STAT6|PMBL|
+|TP53|BL|
 
 # References
 

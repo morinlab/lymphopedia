@@ -1,0 +1,30 @@
+---
+title: ''
+bibliography: 'morinlab.bib'
+---
+
+# @zhangGeneticHeterogeneityDiffuse2013
+|Gene|Entities|
+|:-:|:-:|
+|ZNF292|DLBCL|
+|ZNF608|DLBCL|
+|STAT5B|DLBCL|
+|FBXW7|DLBCL|
+|SETD2|DLBCL|
+|KLHL14|DLBCL|
+|UBR5|DLBCL|
+|KMT2C|DLBCL|
+|JAK1|DLBCL|
+|INO80|DLBCL|
+|PIK3R1|DLBCL|
+|MGA|DLBCL|
+|ARID1A|DLBCL|
+|JAK3|DLBCL|
+|ZEB2|DLBCL|
+|HIST1H3B|DLBCL|
+|POU2F2|DLBCL|
+|SMARCA4|DLBCL|
+|MTOR|DLBCL|
+
+# References
+

@@ -3,10 +3,10 @@ title: ''
 bibliography: 'morinlab.bib'
 ---
 
-# @ritzRecurrentMutationsSTAT62009a
+# @oricchioGeneticEpigeneticInactivation2017b
 |Gene|Entities|
 |:-:|:-:|
-|STAT6|PMBL|
+|SESN1|FL|
 
 # References
 

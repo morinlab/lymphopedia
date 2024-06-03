@@ -3,10 +3,11 @@ title: ''
 bibliography: 'morinlab.bib'
 ---
 
-# @ritzRecurrentMutationsSTAT62009a
+# @ottoGeneticLesionsTRAF32012a
 |Gene|Entities|
 |:-:|:-:|
-|STAT6|PMBL|
+|TRAF3|PMBL|
+|MAP3K14|PMBL|
 
 # References
 

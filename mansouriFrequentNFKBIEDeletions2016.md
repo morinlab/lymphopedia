@@ -3,10 +3,10 @@ title: ''
 bibliography: 'morinlab.bib'
 ---
 
-# @ritzRecurrentMutationsSTAT62009a
+# @mansouriFrequentNFKBIEDeletions2016
 |Gene|Entities|
 |:-:|:-:|
-|STAT6|PMBL|
+|NFKBIE|PMBL|
 
 # References
 

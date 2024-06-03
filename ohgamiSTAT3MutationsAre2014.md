@@ -3,10 +3,10 @@ title: ''
 bibliography: 'morinlab.bib'
 ---
 
-# @ritzRecurrentMutationsSTAT62009a
+# @ohgamiSTAT3MutationsAre2014
 |Gene|Entities|
 |:-:|:-:|
-|STAT6|PMBL|
+|STAT3|DLBCL|
 
 # References
 

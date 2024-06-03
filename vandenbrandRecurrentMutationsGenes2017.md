@@ -3,10 +3,11 @@ title: ''
 bibliography: 'morinlab.bib'
 ---
 
-# @ritzRecurrentMutationsSTAT62009a
+# @vandenbrandRecurrentMutationsGenes2017
 |Gene|Entities|
 |:-:|:-:|
-|STAT6|PMBL|
+|TNIP2|MZL|
+|CD9B|MZL|
 
 # References
 

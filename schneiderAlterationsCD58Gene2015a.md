@@ -3,10 +3,10 @@ title: ''
 bibliography: 'morinlab.bib'
 ---
 
-# @ritzRecurrentMutationsSTAT62009a
+# @schneiderAlterationsCD58Gene2015a
 |Gene|Entities|
 |:-:|:-:|
-|STAT6|PMBL|
+|CD58|PMBL|
 
 # References
 

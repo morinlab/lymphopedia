@@ -3,10 +3,10 @@ title: ''
 bibliography: 'morinlab.bib'
 ---
 
-# @ritzRecurrentMutationsSTAT62009a
+# @troenNOTCH2MutationsMarginal2008
 |Gene|Entities|
 |:-:|:-:|
-|STAT6|PMBL|
+|NOTCH2|DLBCL|
 
 # References
 

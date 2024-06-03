@@ -3,10 +3,10 @@ title: ''
 bibliography: 'morinlab.bib'
 ---
 
-# @ritzRecurrentMutationsSTAT62009a
+# @barariaCathepsinAlterationsInduce2020c
 |Gene|Entities|
 |:-:|:-:|
-|STAT6|PMBL|
+|CTSS|FL|
 
 # References
 

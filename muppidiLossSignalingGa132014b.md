@@ -3,10 +3,12 @@ title: ''
 bibliography: 'morinlab.bib'
 ---
 
-# @ritzRecurrentMutationsSTAT62009a
+# @muppidiLossSignalingGa132014b
 |Gene|Entities|
 |:-:|:-:|
-|STAT6|PMBL|
+|ARHGEF1|BL|
+|S1PR2|BL|
+|P2RY8|BL|
 
 # References
 

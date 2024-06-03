@@ -3,10 +3,10 @@ title: ''
 bibliography: 'morinlab.bib'
 ---
 
-# @ritzRecurrentMutationsSTAT62009a
+# @ngoOncogenicallyActiveMYD882011a
 |Gene|Entities|
 |:-:|:-:|
-|STAT6|PMBL|
+|MYD88|DLBCL|
 
 # References
 

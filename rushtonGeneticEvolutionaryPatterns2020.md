@@ -3,10 +3,10 @@ title: ''
 bibliography: 'morinlab.bib'
 ---
 
-# @ritzRecurrentMutationsSTAT62009a
+# @rushtonGeneticEvolutionaryPatterns2020
 |Gene|Entities|
 |:-:|:-:|
-|STAT6|PMBL|
+|MS4A1|DLBCL|
 
 # References
 

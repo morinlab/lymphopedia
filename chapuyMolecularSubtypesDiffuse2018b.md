@@ -1,0 +1,30 @@
+---
+title: ''
+bibliography: 'morinlab.bib'
+---
+
+# @chapuyMolecularSubtypesDiffuse2018b
+|Gene|Entities|
+|:-:|:-:|
+|CCL4|DLBCL|
+|TLR2|DLBCL|
+|LYN|DLBCL|
+|LTB|DLBCL|
+|GABRA2|DLBCL|
+|NAV1|DLBCL|
+|IL6|DLBCL|
+|NLRP8|DLBCL|
+|NANOG|DLBCL|
+|CRIP1|DLBCL|
+|PRPS1|DLBCL|
+|COQ7|DLBCL|
+|FUT5|DLBCL|
+|HIST1H1B|DLBCL|
+|SMEK1|DLBCL|
+|DOCK1|DLBCL|
+|PDE4DIP|DLBCL|
+|ZNF423|DLBCL|
+|RAD9A|DLBCL|
+
+# References
+

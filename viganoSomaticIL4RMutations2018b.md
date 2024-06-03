@@ -3,10 +3,10 @@ title: ''
 bibliography: 'morinlab.bib'
 ---
 
-# @ritzRecurrentMutationsSTAT62009a
+# @viganoSomaticIL4RMutations2018b
 |Gene|Entities|
 |:-:|:-:|
-|STAT6|PMBL|
+|IL4R|PMBL|
 
 # References
 

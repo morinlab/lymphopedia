@@ -1,0 +1,31 @@
+---
+title: ''
+bibliography: 'morinlab.bib'
+---
+
+# @arthurGenomewideDiscoverySomatic2018
+|Gene|Entities|
+|:-:|:-:|
+|ETV6|DLBCL|
+|AICDA|DLBCL|
+|PIM2|DLBCL|
+|TBC1D4|DLBCL|
+|NEAT1|DLBCL|
+|LCOR|DLBCL|
+|RFTN1|DLBCL|
+|MALAT1|DLBCL|
+|OSBPL10|DLBCL|
+|CD74|DLBCL|
+|MEF2C|DLBCL|
+|SERPINA9|DLBCL|
+|ZC3H12A|DLBCL|
+|BIRC3|DLBCL|
+|ZCCHC7|DLBCL|
+|CD44|DLBCL|
+|GRHPR|DLBCL|
+|LPP|DLBCL|
+|BCL7A|DLBCL|
+|ST6GAL1|DLBCL|
+
+# References
+

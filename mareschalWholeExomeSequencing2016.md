@@ -3,10 +3,11 @@ title: ''
 bibliography: 'morinlab.bib'
 ---
 
-# @ritzRecurrentMutationsSTAT62009a
+# @mareschalWholeExomeSequencing2016
 |Gene|Entities|
 |:-:|:-:|
-|STAT6|PMBL|
+|XPO1|DLBCL|
+|TBL1XR1|DLBCL|
 
 # References
 

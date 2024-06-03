@@ -3,10 +3,10 @@ title: ''
 bibliography: 'morinlab.bib'
 ---
 
-# @ritzRecurrentMutationsSTAT62009a
+# @jardinRecurrentMutationsExportin2016a
 |Gene|Entities|
 |:-:|:-:|
-|STAT6|PMBL|
+|XPO1|PMBL|
 
 # References
 

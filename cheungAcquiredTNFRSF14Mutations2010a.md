@@ -3,10 +3,10 @@ title: ''
 bibliography: 'morinlab.bib'
 ---
 
-# @ritzRecurrentMutationsSTAT62009a
+# @cheungAcquiredTNFRSF14Mutations2010a
 |Gene|Entities|
 |:-:|:-:|
-|STAT6|PMBL|
+|TNFRSF14|FL,DLBCL|
 
 # References
 

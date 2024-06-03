@@ -1,0 +1,42 @@
+---
+title: ''
+bibliography: 'morinlab.bib'
+---
+
+# @spinaGeneticsNodalMarginal2016b
+|Gene|Entities|
+|:-:|:-:|
+|PTPRD|MZL|
+|RPL1L|MZL|
+|GPR98|MZL|
+|FAS|MZL|
+|RCOR1|MZL|
+|SAMD5|MZL|
+|TNFRSF14|MZL|
+|LRP1B|MZL|
+|BCL10|MZL|
+|STXBP5|MZL|
+|TCTN2|MZL|
+|TAF1|MZL|
+|ZNF9|MZL|
+|AMN|MZL|
+|CLGN|MZL|
+|SCG3|MZL|
+|AOC2|MZL|
+|NOL9|MZL|
+|CDKN2A|MZL|
+|NCOR2|MZL|
+|C6orf103|MZL|
+|ABCA13|MZL|
+|ID3|MZL|
+|ADD2|MZL|
+|PARK2|MZL|
+|PACRG|MZL|
+|CNKSR2|MZL|
+|ACTG1|MZL|
+|PLXNB3|MZL|
+|CDC42BPB|MZL|
+|FAT1|MZL|
+
+# References
+

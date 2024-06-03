@@ -3,10 +3,10 @@ title: ''
 bibliography: 'morinlab.bib'
 ---
 
-# @ritzRecurrentMutationsSTAT62009a
+# @abateDistinctViralMutational2015a
 |Gene|Entities|
 |:-:|:-:|
-|STAT6|PMBL|
+|CCNF|BL|
 
 # References
 

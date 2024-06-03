@@ -3,10 +3,10 @@ title: ''
 bibliography: 'morinlab.bib'
 ---
 
-# @ritzRecurrentMutationsSTAT62009a
+# @khodabakhshiRecurrentTargetsAberrant2012
 |Gene|Entities|
 |:-:|:-:|
-|STAT6|PMBL|
+|CXCR4|DLBCL|
 
 # References
 

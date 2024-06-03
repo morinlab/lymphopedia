@@ -3,10 +3,10 @@ title: ''
 bibliography: 'morinlab.bib'
 ---
 
-# @ritzRecurrentMutationsSTAT62009a
+# @tiacciBRAFMutationsHairycell2011a
 |Gene|Entities|
 |:-:|:-:|
-|STAT6|PMBL|
+|BRAF|DLBCL|
 
 # References
 

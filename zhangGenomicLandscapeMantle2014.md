@@ -1,0 +1,39 @@
+---
+title: ''
+bibliography: 'morinlab.bib'
+---
+
+# @zhangGenomicLandscapeMantle2014
+|Gene|Entities|
+|:-:|:-:|
+|PCDHB2|MCL|
+|ATP11C|MCL|
+|COL16A1|MCL|
+|FAT4|MCL|
+|RB1|MCL|
+|SMC1A|MCL|
+|CDH8|MCL|
+|PLXNB3|MCL|
+|ZNF296|MCL|
+|HEPH|MCL|
+|CTNNA2|MCL|
+|POT1|MCL|
+|GRIN2A|MCL|
+|EIF2AK4|MCL|
+|ROBO2|MCL|
+|NIN|MCL|
+|DLC1|MCL|
+|ESX1|MCL|
+|ZNF117|MCL|
+|KMT2C|MCL|
+|SALL3|MCL|
+|TBC1D26|MCL|
+|SI|MCL|
+|ANK2|MCL|
+|MRGPRF|MCL|
+|OGDHL|MCL|
+|COL11A1|MCL|
+|DHDH|MCL|
+
+# References
+
