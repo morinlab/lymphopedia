@@ -4,6 +4,13 @@ bibliography: 'morinlab.bib'
 ---
 
 # @morinFrequentMutationHistonemodifying2011
+## Summary of novel genes
+
+|Entity| Tier 1 genes| Tier 2 genes|
+|:-:|:-:|:-:|
+|DLBCL|27|1|
+|FL|19|4|
+
 ## Novel genes reported in this study
 
 |New gene|DLBCL tier|FL tier|
@@ -36,13 +43,6 @@ bibliography: 'morinlab.bib'
 |[TMEM30A](TMEM30A)|1 |2 |
 |[TP53](TP53)|1 |1 |
 |[ZFP36L1](ZFP36L1)|1 | |
-
-## Summary of novel genes
-
-|Entity| Tier 1 genes| Tier 2 genes|
-|:-:|:-:|:-:|
-|DLBCL|27|1|
-|FL|19|4|
 
 # Details
 
