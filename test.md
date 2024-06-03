@@ -1,5 +1,7 @@
 ---
 bibliography: 'test.bib'
+csl: 'NLM.csl'
+link-citations: true
 ---
 
 # DLBCL genes
