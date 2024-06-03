@@ -4,67 +4,67 @@ bibliography: 'morinlab.bib'
 ---
 
 # @loveGeneticLandscapeMutations2012
-|Gene|Entities|
+|New gene|Entity (Current Tier)|
 |:-:|:-:|
-|RANBP6|BL|
-|SYNGAP1|BL|
-|PTPRN|BL|
-|NBEAL1|BL|
-|EZH2|BL|
-|EPHB2|BL|
-|GGTLA4|BL|
-|NRXN2|BL|
-|PRSS22|BL|
-|C6orf27|BL|
-|BRAF|BL|
-|NOTCH1|BL|
-|PTEN|BL|
-|FGFR3|BL|
-|SF3B1|BL|
-|MYH10|BL|
-|TIGD6|BL|
-|CAD|BL|
-|PC|BL|
-|KIFC3|BL|
-|ICK|BL|
-|CREBBP|BL|
-|TPST2|BL|
-|DLGAP1|BL|
-|CYP4F22|BL|
-|SBF1|BL|
-|P2RY2|BL|
-|COL4A2|BL|
-|RET|BL|
-|POR|BL|
-|ITPR3|BL|
-|BRD4|BL|
-|GRIK5|BL|
-|RBP3|BL|
-|CDH17|BL|
-|CYB5D1|BL|
-|CARD4|BL|
-|FAM129B|BL|
-|BTG2|BL|
-|CCT6B|BL|
-|ATP2C2|BL|
-|ACE|BL|
-|SAPS2|BL|
-|ACAD9|BL|
-|BCL6|BL|
-|SLC29A2|BL|
-|MAP3K6|BL|
-|GNA13|BL|
-|CDC73|BL|
-|EIF2C4|BL|
-|SHANK1|BL|
-|FTCD|BL|
-|ENTPD3|BL|
-|ZNF229|BL|
-|ARID1A|BL|
-|SALL3|BL|
-|EML2|BL|
-|TBC1D9B|BL|
-|POLRMT|BL|
+|NOTCH1|BL (2) |
+|PC|BL (2) |
+|EZH2|BL (2) |
+|FAM129B|BL (2) |
+|PRSS22|BL (2) |
+|CYP4F22|BL (2) |
+|MAP3K6|BL (2) |
+|FGFR3|BL (2) |
+|ZNF229|BL (2) |
+|EPHB2|BL (2) |
+|EML2|BL (2) |
+|CREBBP|BL (2) |
+|BRD4|BL (2) |
+|POLRMT|BL (2) |
+|C6orf27|BL (2) |
+|RBP3|BL (2) |
+|EIF2C4|BL (2) |
+|ICK|BL (2) |
+|POR|BL (2) |
+|ATP2C2|BL (2) |
+|NRXN2|BL (2) |
+|TIGD6|BL (2) |
+|ENTPD3|BL (2) |
+|SF3B1|BL (2) |
+|DLGAP1|BL (2) |
+|PTPRN|BL (2) |
+|RET|BL (2) |
+|TPST2|BL (2) |
+|FTCD|BL (2) |
+|TBC1D9B|BL (2) |
+|RANBP6|BL (2) |
+|CAD|BL (2) |
+|P2RY2|BL (2) |
+|SYNGAP1|BL (2) |
+|CCT6B|BL (2) |
+|CYB5D1|BL (2) |
+|ARID1A|BL (1) |
+|CARD4|BL (2) |
+|BRAF|BL (2) |
+|SBF1|BL (2) |
+|MYH10|BL (2) |
+|SHANK1|BL (2) |
+|GRIK5|BL (2) |
+|SALL3|BL (2) |
+|SAPS2|BL (2) |
+|NBEAL1|BL (2) |
+|CDH17|BL (2) |
+|CDC73|BL (2) |
+|COL4A2|BL (2) |
+|GGTLA4|BL (2) |
+|SLC29A2|BL (2) |
+|BCL6|BL (2) |
+|GNA13|BL (1) |
+|ACAD9|BL (2) |
+|PTEN|BL (1) |
+|BTG2|BL (2) |
+|KIFC3|BL (2) |
+|ITPR3|BL (2) |
+|ACE|BL (2) |
 
 # References
 
