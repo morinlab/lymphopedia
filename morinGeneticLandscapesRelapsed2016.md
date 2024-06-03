@@ -4,7 +4,7 @@ bibliography: 'morinlab.bib'
 ---
 
 # @morinGeneticLandscapesRelapsed2016
-|New gene|DLBCL|
+|New gene|DLBCL tier|
 |:-|:-|
 |NFKBIZ|1 |
 |NFKBIE|1 |
