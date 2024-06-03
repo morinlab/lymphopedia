@@ -4,6 +4,12 @@ bibliography: 'morinlab.bib'
 ---
 
 # @zhangGenomicLandscapeMantle2014
+## Summary of novel genes
+
+|Entity| Tier 1 genes| Tier 2 genes|
+|:-:|:-:|:-:|
+|MCL|2|26|
+
 ## Novel genes reported in this study
 
 |New gene|MCL tier|
@@ -36,12 +42,6 @@ bibliography: 'morinlab.bib'
 |[TBC1D26](TBC1D26)|2 |
 |[ZNF117](ZNF117)|2 |
 |[ZNF296](ZNF296)|2 |
-
-## Summary of novel genes
-
-|Entity| Tier 1 genes| Tier 2 genes|
-|:-:|:-:|:-:|
-|MCL|2|26|
 
 # Details
 

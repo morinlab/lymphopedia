@@ -4,6 +4,13 @@ bibliography: 'morinlab.bib'
 ---
 
 # @hubschmannMutationalMechanismsShaping2021b
+## Summary of novel genes
+
+|Entity| Tier 1 genes| Tier 2 genes|
+|:-:|:-:|:-:|
+|FL|2|15|
+|DLBCL|3|23|
+
 ## Novel genes reported in this study
 
 |New gene|FL tier|DLBCL tier|
@@ -46,13 +53,6 @@ bibliography: 'morinlab.bib'
 |[VMA21](VMA21)|1 | |
 |[WNK1](WNK1)| |2 |
 |[ZNF217](ZNF217)| |2 |
-
-## Summary of novel genes
-
-|Entity| Tier 1 genes| Tier 2 genes|
-|:-:|:-:|:-:|
-|FL|2|15|
-|DLBCL|3|23|
 
 # Details
 

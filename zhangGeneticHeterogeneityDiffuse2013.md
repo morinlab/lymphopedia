@@ -4,6 +4,12 @@ bibliography: 'morinlab.bib'
 ---
 
 # @zhangGeneticHeterogeneityDiffuse2013
+## Summary of novel genes
+
+|Entity| Tier 1 genes| Tier 2 genes|
+|:-:|:-:|:-:|
+|DLBCL|11|8|
+
 ## Novel genes reported in this study
 
 |New gene|DLBCL tier|
@@ -27,12 +33,6 @@ bibliography: 'morinlab.bib'
 |[ZEB2](ZEB2)|2 |
 |[ZNF292](ZNF292)|1 |
 |[ZNF608](ZNF608)|1 |
-
-## Summary of novel genes
-
-|Entity| Tier 1 genes| Tier 2 genes|
-|:-:|:-:|:-:|
-|DLBCL|11|8|
 
 # Details
 

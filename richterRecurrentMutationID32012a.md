@@ -4,6 +4,12 @@ bibliography: 'morinlab.bib'
 ---
 
 # @richterRecurrentMutationID32012a
+## Summary of novel genes
+
+|Entity| Tier 1 genes| Tier 2 genes|
+|:-:|:-:|:-:|
+|BL|5||
+
 ## Novel genes reported in this study
 
 |New gene|BL tier|
@@ -13,12 +19,6 @@ bibliography: 'morinlab.bib'
 |[ID3](ID3)|1 |
 |[RHOA](RHOA)|1 |
 |[SMARCA4](SMARCA4)|1 |
-
-## Summary of novel genes
-
-|Entity| Tier 1 genes| Tier 2 genes|
-|:-:|:-:|:-:|
-|BL|5||
 
 # Details
 

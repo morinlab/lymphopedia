@@ -4,6 +4,12 @@ bibliography: 'morinlab.bib'
 ---
 
 # @krysiakRecurrentSomaticMutations2017b
+## Summary of novel genes
+
+|Entity| Tier 1 genes| Tier 2 genes|
+|:-:|:-:|:-:|
+|FL|17|5|
+
 ## Novel genes reported in this study
 
 |New gene|FL tier|
@@ -30,12 +36,6 @@ bibliography: 'morinlab.bib'
 |[POU2F2](POU2F2)|1 |
 |[SMARCA4](SMARCA4)|1 |
 |[ZNF608](ZNF608)|2 |
-
-## Summary of novel genes
-
-|Entity| Tier 1 genes| Tier 2 genes|
-|:-:|:-:|:-:|
-|FL|17|5|
 
 # Details
 

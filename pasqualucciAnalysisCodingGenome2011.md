@@ -4,6 +4,12 @@ bibliography: 'morinlab.bib'
 ---
 
 # @pasqualucciAnalysisCodingGenome2011
+## Summary of novel genes
+
+|Entity| Tier 1 genes| Tier 2 genes|
+|:-:|:-:|:-:|
+|DLBCL|3|4|
+
 ## Novel genes reported in this study
 
 |New gene|DLBCL tier|
@@ -15,12 +21,6 @@ bibliography: 'morinlab.bib'
 |[MYOM2](MYOM2)|2 |
 |[NOTCH1](NOTCH1)|1 |
 |[TRAF3](TRAF3)|2 |
-
-## Summary of novel genes
-
-|Entity| Tier 1 genes| Tier 2 genes|
-|:-:|:-:|:-:|
-|DLBCL|3|4|
 
 # Details
 

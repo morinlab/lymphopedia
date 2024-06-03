@@ -4,6 +4,12 @@ bibliography: 'morinlab.bib'
 ---
 
 # @arthurGenomewideDiscoverySomatic2018
+## Summary of novel genes
+
+|Entity| Tier 1 genes| Tier 2 genes|
+|:-:|:-:|:-:|
+|DLBCL|8|12|
+
 ## Novel genes reported in this study
 
 |New gene|DLBCL tier|
@@ -28,12 +34,6 @@ bibliography: 'morinlab.bib'
 |[TBC1D4](TBC1D4)|2 |
 |[ZC3H12A](ZC3H12A)|1 |
 |[ZCCHC7](ZCCHC7)|2 |
-
-## Summary of novel genes
-
-|Entity| Tier 1 genes| Tier 2 genes|
-|:-:|:-:|:-:|
-|DLBCL|8|12|
 
 # Details
 

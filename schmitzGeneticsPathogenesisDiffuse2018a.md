@@ -4,6 +4,12 @@ bibliography: 'morinlab.bib'
 ---
 
 # @schmitzGeneticsPathogenesisDiffuse2018a
+## Summary of novel genes
+
+|Entity| Tier 1 genes| Tier 2 genes|
+|:-:|:-:|:-:|
+|DLBCL|7|9|
+
 ## Novel genes reported in this study
 
 |New gene|DLBCL tier|
@@ -24,12 +30,6 @@ bibliography: 'morinlab.bib'
 |[PRKDC](PRKDC)|2 |
 |[TAP1](TAP1)|2 |
 |[WEE1](WEE1)|1 |
-
-## Summary of novel genes
-
-|Entity| Tier 1 genes| Tier 2 genes|
-|:-:|:-:|:-:|
-|DLBCL|7|9|
 
 # Details
 

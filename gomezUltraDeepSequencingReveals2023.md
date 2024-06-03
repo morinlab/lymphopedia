@@ -4,6 +4,12 @@ bibliography: 'morinlab.bib'
 ---
 
 # @gomezUltraDeepSequencingReveals2023
+## Summary of novel genes
+
+|Entity| Tier 1 genes| Tier 2 genes|
+|:-:|:-:|:-:|
+|PMBL|2|5|
+
 ## Novel genes reported in this study
 
 |New gene|PMBL tier|
@@ -15,12 +21,6 @@ bibliography: 'morinlab.bib'
 |[HLA-C](HLA-C)|2 |
 |[LIMD2](LIMD2)|2 |
 |[OR13C2](OR13C2)|2 |
-
-## Summary of novel genes
-
-|Entity| Tier 1 genes| Tier 2 genes|
-|:-:|:-:|:-:|
-|PMBL|2|5|
 
 # Details
 

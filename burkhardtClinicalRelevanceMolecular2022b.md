@@ -4,6 +4,12 @@ bibliography: 'morinlab.bib'
 ---
 
 # @burkhardtClinicalRelevanceMolecular2022b
+## Summary of novel genes
+
+|Entity| Tier 1 genes| Tier 2 genes|
+|:-:|:-:|:-:|
+|BL||25|
+
 ## Novel genes reported in this study
 
 |New gene|BL tier|
@@ -33,12 +39,6 @@ bibliography: 'morinlab.bib'
 |[ZAN](ZAN)|2 |
 |[ZBTB7A](ZBTB7A)|2 |
 |[ZNF85](ZNF85)|2 |
-
-## Summary of novel genes
-
-|Entity| Tier 1 genes| Tier 2 genes|
-|:-:|:-:|:-:|
-|BL||25|
 
 # Details
 

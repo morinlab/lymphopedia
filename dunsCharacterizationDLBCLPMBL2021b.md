@@ -4,6 +4,13 @@ bibliography: 'morinlab.bib'
 ---
 
 # @dunsCharacterizationDLBCLPMBL2021b
+## Summary of novel genes
+
+|Entity| Tier 1 genes| Tier 2 genes|
+|:-:|:-:|:-:|
+|DLBCL|8|3|
+|PMBL|6|8|
+
 ## Novel genes reported in this study
 
 |New gene|DLBCL tier|PMBL tier|
@@ -22,13 +29,6 @@ bibliography: 'morinlab.bib'
 |[RFTN1](RFTN1)|2 |2 |
 |[SGK1](SGK1)|1 |1 |
 |[WDR87](WDR87)| |2 |
-
-## Summary of novel genes
-
-|Entity| Tier 1 genes| Tier 2 genes|
-|:-:|:-:|:-:|
-|DLBCL|8|3|
-|PMBL|6|8|
 
 # Details
 

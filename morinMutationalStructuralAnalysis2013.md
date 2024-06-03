@@ -4,6 +4,12 @@ bibliography: 'morinlab.bib'
 ---
 
 # @morinMutationalStructuralAnalysis2013
+## Summary of novel genes
+
+|Entity| Tier 1 genes| Tier 2 genes|
+|:-:|:-:|:-:|
+|DLBCL|11|29|
+
 ## Novel genes reported in this study
 
 |New gene|DLBCL tier|
@@ -48,12 +54,6 @@ bibliography: 'morinlab.bib'
 |[SYPL1](SYPL1)|2 |
 |[TAF1](TAF1)|1 |
 |[WDFY3](WDFY3)|2 |
-
-## Summary of novel genes
-
-|Entity| Tier 1 genes| Tier 2 genes|
-|:-:|:-:|:-:|
-|DLBCL|11|29|
 
 # Details
 

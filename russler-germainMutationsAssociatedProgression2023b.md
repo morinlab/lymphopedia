@@ -4,6 +4,12 @@ bibliography: 'morinlab.bib'
 ---
 
 # @russler-germainMutationsAssociatedProgression2023b
+## Summary of novel genes
+
+|Entity| Tier 1 genes| Tier 2 genes|
+|:-:|:-:|:-:|
+|FL|1|19|
+
 ## Novel genes reported in this study
 
 |New gene|FL tier|
@@ -28,12 +34,6 @@ bibliography: 'morinlab.bib'
 |[SRRM2](SRRM2)|2 |
 |[STAB2](STAB2)|2 |
 |[XIRP2](XIRP2)|2 |
-
-## Summary of novel genes
-
-|Entity| Tier 1 genes| Tier 2 genes|
-|:-:|:-:|:-:|
-|FL|1|19|
 
 # Details
 

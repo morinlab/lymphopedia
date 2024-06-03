@@ -4,6 +4,12 @@ bibliography: 'morinlab.bib'
 ---
 
 # @pasqualucciHypermutationMultipleProtooncogenes2001a
+## Summary of novel genes
+
+|Entity| Tier 1 genes| Tier 2 genes|
+|:-:|:-:|:-:|
+|DLBCL|2|2|
+
 ## Novel genes reported in this study
 
 |New gene|DLBCL tier|
@@ -12,12 +18,6 @@ bibliography: 'morinlab.bib'
 |[PAX5](PAX5)|2 |
 |[PIM1](PIM1)|1 |
 |[RHOH](RHOH)|2 |
-
-## Summary of novel genes
-
-|Entity| Tier 1 genes| Tier 2 genes|
-|:-:|:-:|:-:|
-|DLBCL|2|2|
 
 # Details
 

@@ -4,6 +4,12 @@ bibliography: 'morinlab.bib'
 ---
 
 # @paneaWholeGenomeLandscape2019
+## Summary of novel genes
+
+|Entity| Tier 1 genes| Tier 2 genes|
+|:-:|:-:|:-:|
+|BL|4|46|
+
 ## Novel genes reported in this study
 
 |New gene|BL tier|
@@ -58,12 +64,6 @@ bibliography: 'morinlab.bib'
 |[WDR7](WDR7)|2 |
 |[WNK2](WNK2)|2 |
 |[ZFP36L1](ZFP36L1)|2 |
-
-## Summary of novel genes
-
-|Entity| Tier 1 genes| Tier 2 genes|
-|:-:|:-:|:-:|
-|BL|4|46|
 
 # Details
 

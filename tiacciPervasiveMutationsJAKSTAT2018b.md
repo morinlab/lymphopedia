@@ -4,6 +4,12 @@ bibliography: 'morinlab.bib'
 ---
 
 # @tiacciPervasiveMutationsJAKSTAT2018b
+## Summary of novel genes
+
+|Entity| Tier 1 genes| Tier 2 genes|
+|:-:|:-:|:-:|
+|PMBL|1|9|
+
 ## Novel genes reported in this study
 
 |New gene|PMBL tier|
@@ -18,12 +24,6 @@ bibliography: 'morinlab.bib'
 |[TNIP1](TNIP1)|2 |
 |[TP53](TP53)|1 |
 |[ZCCHC11](ZCCHC11)|2 |
-
-## Summary of novel genes
-
-|Entity| Tier 1 genes| Tier 2 genes|
-|:-:|:-:|:-:|
-|PMBL|1|9|
 
 # Details
 

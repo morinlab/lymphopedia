@@ -4,6 +4,12 @@ bibliography: 'morinlab.bib'
 ---
 
 # @spinaGeneticsNodalMarginal2016b
+## Summary of novel genes
+
+|Entity| Tier 1 genes| Tier 2 genes|
+|:-:|:-:|:-:|
+|MZL|8|23|
+
 ## Novel genes reported in this study
 
 |New gene|MZL tier|
@@ -39,12 +45,6 @@ bibliography: 'morinlab.bib'
 |[TCTN2](TCTN2)|2 |
 |[TNFRSF14](TNFRSF14)|1 |
 |[ZNF9](ZNF9)|2 |
-
-## Summary of novel genes
-
-|Entity| Tier 1 genes| Tier 2 genes|
-|:-:|:-:|:-:|
-|MZL|8|23|
 
 # Details
 

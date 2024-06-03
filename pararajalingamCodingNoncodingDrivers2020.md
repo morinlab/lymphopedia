@@ -4,6 +4,13 @@ bibliography: 'morinlab.bib'
 ---
 
 # @pararajalingamCodingNoncodingDrivers2020
+## Summary of novel genes
+
+|Entity| Tier 1 genes| Tier 2 genes|
+|:-:|:-:|:-:|
+|DLBCL|2|3|
+|MCL|6|1|
+
 ## Novel genes reported in this study
 
 |New gene|DLBCL tier|MCL tier|
@@ -15,13 +22,6 @@ bibliography: 'morinlab.bib'
 |[NFKBIE](NFKBIE)|1 |1 |
 |[S1PR1](S1PR1)| |1 |
 |[UBR5](UBR5)|2 |1 |
-
-## Summary of novel genes
-
-|Entity| Tier 1 genes| Tier 2 genes|
-|:-:|:-:|:-:|
-|DLBCL|2|3|
-|MCL|6|1|
 
 # Details
 
