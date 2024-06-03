@@ -1,4 +1,5 @@
 ---
+title: ''
 bibliography: 'morinlab.bib'
 ---
 
