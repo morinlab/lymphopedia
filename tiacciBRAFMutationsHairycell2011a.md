@@ -4,9 +4,9 @@ bibliography: 'morinlab.bib'
 ---
 
 # @tiacciBRAFMutationsHairycell2011a
-|Gene|Entities|
-|:-:|:-:|
-|BRAF|DLBCL|
+|New gene|DLBCL tier|
+|:-|:-:|
+|[BRAF](BRAF)|1 |
 
 # References
 

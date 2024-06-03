@@ -4,9 +4,9 @@ bibliography: 'morinlab.bib'
 ---
 
 # @bohleRoleEarlyBcell2013
-|Gene|Entities|
-|:-:|:-:|
-|EBF1|DLBCL|
+|New gene|DLBCL tier|
+|:-|:-:|
+|[EBF1](EBF1)|1 |
 
 # References
 

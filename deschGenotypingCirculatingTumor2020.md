@@ -4,18 +4,18 @@ bibliography: 'morinlab.bib'
 ---
 
 # @deschGenotypingCirculatingTumor2020
-|Gene|Entities|
-|:-:|:-:|
-|EZR|PMBL|
-|CDH2|PMBL|
-|KLF2|PMBL|
-|LTB|PMBL|
-|IGLL5|PMBL|
-|KMT2D|PMBL|
-|ACTG1|PMBL|
-|HLA-A|PMBL|
-|MYB|PMBL|
-|CCND3|PMBL|
+|New gene|PMBL tier|
+|:-|:-:|
+|[ACTG1](ACTG1)|2 |
+|[CCND3](CCND3)|2 |
+|[CDH2](CDH2)|2 |
+|[EZR](EZR)|2 |
+|[HLA-A](HLA-A)|2 |
+|[IGLL5](IGLL5)|2 |
+|[KLF2](KLF2)|2 |
+|[KMT2D](KMT2D)|2 |
+|[LTB](LTB)|1 |
+|[MYB](MYB)|2 |
 
 # References
 

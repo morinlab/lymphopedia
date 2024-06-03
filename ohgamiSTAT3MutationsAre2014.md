@@ -4,9 +4,9 @@ bibliography: 'morinlab.bib'
 ---
 
 # @ohgamiSTAT3MutationsAre2014
-|Gene|Entities|
-|:-:|:-:|
-|STAT3|DLBCL|
+|New gene|DLBCL tier|
+|:-|:-:|
+|[STAT3](STAT3)|1 |
 
 # References
 

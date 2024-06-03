@@ -4,9 +4,9 @@ bibliography: 'morinlab.bib'
 ---
 
 # @braggioGenomicAnalysisMarginal2012
-|Gene|Entities|
-|:-:|:-:|
-|ATM|MZL|
+|New gene|MZL tier|
+|:-|:-:|
+|[ATM](ATM)|1 |
 
 # References
 

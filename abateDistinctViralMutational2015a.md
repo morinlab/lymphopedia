@@ -4,9 +4,9 @@ bibliography: 'morinlab.bib'
 ---
 
 # @abateDistinctViralMutational2015a
-|Gene|Entities|
-|:-:|:-:|
-|CCNF|BL|
+|New gene|BL tier|
+|:-|:-:|
+|[CCNF](CCNF)|2 |
 
 # References
 

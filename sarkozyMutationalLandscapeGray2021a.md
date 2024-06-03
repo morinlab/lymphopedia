@@ -4,19 +4,19 @@ bibliography: 'morinlab.bib'
 ---
 
 # @sarkozyMutationalLandscapeGray2021a
-|Gene|Entities|
-|:-:|:-:|
-|SPEN|PMBL|
-|BCL2|PMBL|
-|BTG1|PMBL|
-|RELN|PMBL|
-|MFHAS1|PMBL|
-|LRRN3|PMBL|
-|ABCA13|PMBL|
-|BIRC6|PMBL|
-|HIST1H1B|PMBL|
-|KMT2C|PMBL|
-|NCOR2|PMBL|
+|New gene|PMBL tier|
+|:-|:-:|
+|[ABCA13](ABCA13)|2 |
+|[BCL2](BCL2)|2 |
+|[BIRC6](BIRC6)|1 |
+|[BTG1](BTG1)|1 |
+|[HIST1H1B](HIST1H1B)|1 |
+|[KMT2C](KMT2C)|1 |
+|[LRRN3](LRRN3)|2 |
+|[MFHAS1](MFHAS1)|2 |
+|[NCOR2](NCOR2)|2 |
+|[RELN](RELN)|2 |
+|[SPEN](SPEN)|1 |
 
 # References
 

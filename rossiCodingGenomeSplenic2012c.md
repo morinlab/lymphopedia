@@ -4,29 +4,29 @@ bibliography: 'morinlab.bib'
 ---
 
 # @rossiCodingGenomeSplenic2012c
-|Gene|Entities|
-|:-:|:-:|
-|NOTCH2|MZL|
-|CD79A|MZL|
-|TBL1XR1|MZL|
-|ARID1A|MZL|
-|EGR1|MZL|
-|KMT2D|MZL|
-|SIN3A|MZL|
-|EP300|MZL|
-|DTX1|MZL|
-|EGR2|MZL|
-|HIST1H2AG|MZL|
-|TRRAP|MZL|
-|HIST1H2BK|MZL|
-|SWAP70|MZL|
-|MSL2|MZL|
-|SPEN|DLBCL,MZL|
-|GPS2|MZL|
-|MCRS1|MZL|
-|TP53|MZL|
-|NOTCH1|MZL|
-|WAC|MZL|
+|New gene|DLBCL tier|MZL tier|
+|:-|:-:|:-:|
+|[ARID1A](ARID1A)|1 |1 |
+|[CD79A](CD79A)| |2 |
+|[DTX1](DTX1)|1 |1 |
+|[EGR1](EGR1)| |2 |
+|[EGR2](EGR2)| |2 |
+|[EP300](EP300)|1 |1 |
+|[GPS2](GPS2)| |2 |
+|[HIST1H2AG](HIST1H2AG)|2 |2 |
+|[HIST1H2BK](HIST1H2BK)|1 |2 |
+|[KMT2D](KMT2D)|1 |1 |
+|[MCRS1](MCRS1)| |2 |
+|[MSL2](MSL2)| |2 |
+|[NOTCH1](NOTCH1)|1 |1 |
+|[NOTCH2](NOTCH2)|1 |1 |
+|[SIN3A](SIN3A)|1 |1 |
+|[SPEN](SPEN)|1 |1 |
+|[SWAP70](SWAP70)| |2 |
+|[TBL1XR1](TBL1XR1)|1 |1 |
+|[TP53](TP53)|1 |1 |
+|[TRRAP](TRRAP)|1 |2 |
+|[WAC](WAC)|2 |2 |
 
 # References
 

@@ -4,67 +4,67 @@ bibliography: 'morinlab.bib'
 ---
 
 # @loveGeneticLandscapeMutations2012
-|New gene|Entity (Current Tier)|
-|:-:|:-:|
-|NOTCH1|BL (2) |
-|PC|BL (2) |
-|EZH2|BL (2) |
-|FAM129B|BL (2) |
-|PRSS22|BL (2) |
-|CYP4F22|BL (2) |
-|MAP3K6|BL (2) |
-|FGFR3|BL (2) |
-|ZNF229|BL (2) |
-|EPHB2|BL (2) |
-|EML2|BL (2) |
-|CREBBP|BL (2) |
-|BRD4|BL (2) |
-|POLRMT|BL (2) |
-|C6orf27|BL (2) |
-|RBP3|BL (2) |
-|EIF2C4|BL (2) |
-|ICK|BL (2) |
-|POR|BL (2) |
-|ATP2C2|BL (2) |
-|NRXN2|BL (2) |
-|TIGD6|BL (2) |
-|ENTPD3|BL (2) |
-|SF3B1|BL (2) |
-|DLGAP1|BL (2) |
-|PTPRN|BL (2) |
-|RET|BL (2) |
-|TPST2|BL (2) |
-|FTCD|BL (2) |
-|TBC1D9B|BL (2) |
-|RANBP6|BL (2) |
-|CAD|BL (2) |
-|P2RY2|BL (2) |
-|SYNGAP1|BL (2) |
-|CCT6B|BL (2) |
-|CYB5D1|BL (2) |
-|ARID1A|BL (1) |
-|CARD4|BL (2) |
-|BRAF|BL (2) |
-|SBF1|BL (2) |
-|MYH10|BL (2) |
-|SHANK1|BL (2) |
-|GRIK5|BL (2) |
-|SALL3|BL (2) |
-|SAPS2|BL (2) |
-|NBEAL1|BL (2) |
-|CDH17|BL (2) |
-|CDC73|BL (2) |
-|COL4A2|BL (2) |
-|GGTLA4|BL (2) |
-|SLC29A2|BL (2) |
-|BCL6|BL (2) |
-|GNA13|BL (1) |
-|ACAD9|BL (2) |
-|PTEN|BL (1) |
-|BTG2|BL (2) |
-|KIFC3|BL (2) |
-|ITPR3|BL (2) |
-|ACE|BL (2) |
+|New gene|BL tier|
+|:-|:-:|
+|[ACAD9](ACAD9)|2 |
+|[ACE](ACE)|2 |
+|[ARID1A](ARID1A)|1 |
+|[ATP2C2](ATP2C2)|2 |
+|[BCL6](BCL6)|2 |
+|[BRAF](BRAF)|2 |
+|[BRD4](BRD4)|2 |
+|[BTG2](BTG2)|2 |
+|[C6orf27](C6orf27)|2 |
+|[CAD](CAD)|2 |
+|[CARD4](CARD4)|2 |
+|[CCT6B](CCT6B)|2 |
+|[CDC73](CDC73)|2 |
+|[CDH17](CDH17)|2 |
+|[COL4A2](COL4A2)|2 |
+|[CREBBP](CREBBP)|2 |
+|[CYB5D1](CYB5D1)|2 |
+|[CYP4F22](CYP4F22)|2 |
+|[DLGAP1](DLGAP1)|2 |
+|[EIF2C4](EIF2C4)|2 |
+|[EML2](EML2)|2 |
+|[ENTPD3](ENTPD3)|2 |
+|[EPHB2](EPHB2)|2 |
+|[EZH2](EZH2)|2 |
+|[FAM129B](FAM129B)|2 |
+|[FGFR3](FGFR3)|2 |
+|[FTCD](FTCD)|2 |
+|[GGTLA4](GGTLA4)|2 |
+|[GNA13](GNA13)|1 |
+|[GRIK5](GRIK5)|2 |
+|[ICK](ICK)|2 |
+|[ITPR3](ITPR3)|2 |
+|[KIFC3](KIFC3)|2 |
+|[MAP3K6](MAP3K6)|2 |
+|[MYH10](MYH10)|2 |
+|[NBEAL1](NBEAL1)|2 |
+|[NOTCH1](NOTCH1)|2 |
+|[NRXN2](NRXN2)|2 |
+|[P2RY2](P2RY2)|2 |
+|[PC](PC)|2 |
+|[POLRMT](POLRMT)|2 |
+|[POR](POR)|2 |
+|[PRSS22](PRSS22)|2 |
+|[PTEN](PTEN)|1 |
+|[PTPRN](PTPRN)|2 |
+|[RANBP6](RANBP6)|2 |
+|[RBP3](RBP3)|2 |
+|[RET](RET)|2 |
+|[SALL3](SALL3)|2 |
+|[SAPS2](SAPS2)|2 |
+|[SBF1](SBF1)|2 |
+|[SF3B1](SF3B1)|2 |
+|[SHANK1](SHANK1)|2 |
+|[SLC29A2](SLC29A2)|2 |
+|[SYNGAP1](SYNGAP1)|2 |
+|[TBC1D9B](TBC1D9B)|2 |
+|[TIGD6](TIGD6)|2 |
+|[TPST2](TPST2)|2 |
+|[ZNF229](ZNF229)|2 |
 
 # References
 

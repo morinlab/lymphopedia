@@ -4,9 +4,9 @@ bibliography: 'morinlab.bib'
 ---
 
 # @lakeMutationsNFKBIAEncoding2009
-|Gene|Entities|
-|:-:|:-:|
-|NFKBIA|DLBCL|
+|New gene|DLBCL tier|
+|:-|:-:|
+|[NFKBIA](NFKBIA)|1 |
 
 # References
 

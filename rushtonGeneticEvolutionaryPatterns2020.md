@@ -4,9 +4,9 @@ bibliography: 'morinlab.bib'
 ---
 
 # @rushtonGeneticEvolutionaryPatterns2020
-|Gene|Entities|
-|:-:|:-:|
-|MS4A1|DLBCL|
+|New gene|DLBCL tier|
+|:-|:-:|
+|[MS4A1](MS4A1)|1 |
 
 # References
 

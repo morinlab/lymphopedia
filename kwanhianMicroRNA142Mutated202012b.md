@@ -4,9 +4,9 @@ bibliography: 'morinlab.bib'
 ---
 
 # @kwanhianMicroRNA142Mutated202012b
-|Gene|Entities|
-|:-:|:-:|
-|MIR142|DLBCL|
+|New gene|DLBCL tier|
+|:-|:-:|
+|[MIR142](MIR142)|2 |
 
 # References
 

@@ -4,10 +4,10 @@ bibliography: 'morinlab.bib'
 ---
 
 # @pasqualucciInactivatingMutationsAcetyltransferase2011a
-|Gene|Entities|
-|:-:|:-:|
-|CREBBP|DLBCL,FL|
-|EP300|DLBCL,FL|
+|New gene|DLBCL tier|FL tier|
+|:-|:-:|:-:|
+|[CREBBP](CREBBP)|1 |1 |
+|[EP300](EP300)|1 |1 |
 
 # References
 

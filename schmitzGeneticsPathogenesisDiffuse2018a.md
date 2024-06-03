@@ -4,24 +4,24 @@ bibliography: 'morinlab.bib'
 ---
 
 # @schmitzGeneticsPathogenesisDiffuse2018a
-|Gene|Entities|
-|:-:|:-:|
-|MYBPC2|DLBCL|
-|GPC5|DLBCL|
-|DTX1|DLBCL|
-|WEE1|DLBCL|
-|FOXC1|DLBCL|
-|TAP1|DLBCL|
-|ITPKB|DLBCL|
-|PRKDC|DLBCL|
-|KLHL21|DLBCL|
-|GSG2|DLBCL|
-|LAMA5|DLBCL|
-|NOL9|DLBCL|
-|CXCR5|DLBCL|
-|PAPOLG|DLBCL|
-|DDX3X|DLBCL|
-|HIST2H2BE|DLBCL|
+|New gene|DLBCL tier|
+|:-|:-:|
+|[CXCR5](CXCR5)|1 |
+|[DDX3X](DDX3X)|1 |
+|[DTX1](DTX1)|1 |
+|[FOXC1](FOXC1)|2 |
+|[GPC5](GPC5)|2 |
+|[GSG2](GSG2)|2 |
+|[HIST2H2BE](HIST2H2BE)|1 |
+|[ITPKB](ITPKB)|1 |
+|[KLHL21](KLHL21)|2 |
+|[LAMA5](LAMA5)|2 |
+|[MYBPC2](MYBPC2)|2 |
+|[NOL9](NOL9)|1 |
+|[PAPOLG](PAPOLG)|2 |
+|[PRKDC](PRKDC)|2 |
+|[TAP1](TAP1)|2 |
+|[WEE1](WEE1)|1 |
 
 # References
 

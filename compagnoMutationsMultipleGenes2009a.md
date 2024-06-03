@@ -4,9 +4,9 @@ bibliography: 'morinlab.bib'
 ---
 
 # @compagnoMutationsMultipleGenes2009a
-|Gene|Entities|
-|:-:|:-:|
-|TNFAIP3|DLBCL|
+|New gene|DLBCL tier|
+|:-|:-:|
+|[TNFAIP3](TNFAIP3)|1 |
 
 # References
 

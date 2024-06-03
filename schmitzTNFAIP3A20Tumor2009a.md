@@ -4,9 +4,9 @@ bibliography: 'morinlab.bib'
 ---
 
 # @schmitzTNFAIP3A20Tumor2009a
-|Gene|Entities|
-|:-:|:-:|
-|TNFAIP3|PMBL|
+|New gene|PMBL tier|
+|:-|:-:|
+|[TNFAIP3](TNFAIP3)|1 |
 
 # References
 

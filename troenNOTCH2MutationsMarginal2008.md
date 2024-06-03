@@ -4,9 +4,9 @@ bibliography: 'morinlab.bib'
 ---
 
 # @troenNOTCH2MutationsMarginal2008
-|Gene|Entities|
-|:-:|:-:|
-|NOTCH2|DLBCL|
+|New gene|DLBCL tier|
+|:-|:-:|
+|[NOTCH2](NOTCH2)|1 |
 
 # References
 

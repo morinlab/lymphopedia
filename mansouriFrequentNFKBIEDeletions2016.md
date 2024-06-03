@@ -4,9 +4,9 @@ bibliography: 'morinlab.bib'
 ---
 
 # @mansouriFrequentNFKBIEDeletions2016
-|Gene|Entities|
-|:-:|:-:|
-|NFKBIE|PMBL|
+|New gene|PMBL tier|
+|:-|:-:|
+|[NFKBIE](NFKBIE)|1 |
 
 # References
 

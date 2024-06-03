@@ -4,9 +4,9 @@ bibliography: 'morinlab.bib'
 ---
 
 # @louissaintPediatrictypeNodalFollicular2016a
-|Gene|Entities|
-|:-:|:-:|
-|MAP2K1|FL|
+|New gene|FL tier|
+|:-|:-:|
+|[MAP2K1](MAP2K1)|1 |
 
 # References
 

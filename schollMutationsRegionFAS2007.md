@@ -4,9 +4,9 @@ bibliography: 'morinlab.bib'
 ---
 
 # @schollMutationsRegionFAS2007
-|Gene|Entities|
-|:-:|:-:|
-|FAS|DLBCL|
+|New gene|DLBCL tier|
+|:-|:-:|
+|[FAS](FAS)|1 |
 
 # References
 

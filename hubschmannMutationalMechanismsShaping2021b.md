@@ -4,46 +4,46 @@ bibliography: 'morinlab.bib'
 ---
 
 # @hubschmannMutationalMechanismsShaping2021b
-|Gene|Entities|
-|:-:|:-:|
-|PDS5B|FL|
-|GAK|DLBCL|
-|ACTG1|DLBCL,FL|
-|ZNF217|DLBCL|
-|CCDC42BPB|FL|
-|LAPTM5|FL|
-|DHX15|FL|
-|MGEA5|FL|
-|EEF1A1|DLBCL,FL|
-|SLC34A2|DLBCL|
-|DHX16|DLBCL|
-|PPP4C|FL|
-|FZR1|FL|
-|IRF1|DLBCL|
-|HLA-DQA1|DLBCL|
-|RAC2|DLBCL|
-|PRKDC|FL|
-|MYCBP2|FL|
-|CADPS2|DLBCL|
-|RBM6|FL|
-|UNC5B|DLBCL|
-|CPNE8|FL|
-|LRP12|DLBCL|
-|CNOT2|DLBCL|
-|IKBKE|DLBCL|
-|SIAH2|DLBCL|
-|ANKRD12|DLBCL|
-|JUP|FL|
-|PNPO|DLBCL|
-|WNK1|DLBCL|
-|DNM2|DLBCL|
-|FBXO11|DLBCL|
-|N2RF2|DLBCL|
-|VMA21|FL|
-|ADAMTS1|DLBCL|
-|TRAF6|DLBCL|
-|TPP1|FL|
-|ATP6V1A|FL|
+|New gene|FL tier|DLBCL tier|
+|:-|:-:|:-:|
+|[ACTG1](ACTG1)|2 |1 |
+|[ADAMTS1](ADAMTS1)| |2 |
+|[ANKRD12](ANKRD12)| |2 |
+|[ATP6V1A](ATP6V1A)|2 | |
+|[CADPS2](CADPS2)| |2 |
+|[CCDC42BPB](CCDC42BPB)|2 | |
+|[CNOT2](CNOT2)| |2 |
+|[CPNE8](CPNE8)|2 | |
+|[DHX15](DHX15)|2 | |
+|[DHX16](DHX16)| |2 |
+|[DNM2](DNM2)| |2 |
+|[EEF1A1](EEF1A1)|1 |1 |
+|[FBXO11](FBXO11)| |1 |
+|[FZR1](FZR1)|2 | |
+|[GAK](GAK)| |2 |
+|[HLA-DQA1](HLA-DQA1)| |2 |
+|[IKBKE](IKBKE)| |2 |
+|[IRF1](IRF1)| |2 |
+|[JUP](JUP)|2 | |
+|[LAPTM5](LAPTM5)|2 |2 |
+|[LRP12](LRP12)| |2 |
+|[MGEA5](MGEA5)|2 | |
+|[MYCBP2](MYCBP2)|2 | |
+|[N2RF2](N2RF2)| |2 |
+|[PDS5B](PDS5B)|2 |2 |
+|[PNPO](PNPO)| |2 |
+|[PPP4C](PPP4C)|2 | |
+|[PRKDC](PRKDC)|2 |2 |
+|[RAC2](RAC2)| |2 |
+|[RBM6](RBM6)|2 | |
+|[SIAH2](SIAH2)| |2 |
+|[SLC34A2](SLC34A2)| |2 |
+|[TPP1](TPP1)|2 | |
+|[TRAF6](TRAF6)| |2 |
+|[UNC5B](UNC5B)| |2 |
+|[VMA21](VMA21)|1 | |
+|[WNK1](WNK1)| |2 |
+|[ZNF217](ZNF217)| |2 |
 
 # References
 

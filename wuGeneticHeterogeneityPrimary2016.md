@@ -4,9 +4,9 @@ bibliography: 'morinlab.bib'
 ---
 
 # @wuGeneticHeterogeneityPrimary2016
-|Gene|Entities|
-|:-:|:-:|
-|CARD11|MCL|
+|New gene|MCL tier|
+|:-|:-:|
+|[CARD11](CARD11)|1 |
 
 # References
 

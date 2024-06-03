@@ -4,10 +4,10 @@ bibliography: 'morinlab.bib'
 ---
 
 # @yanBCRTLRSignaling2012a
-|Gene|Entities|
-|:-:|:-:|
-|MYD88|MZL|
-|CARD11|MZL|
+|New gene|MZL tier|
+|:-|:-:|
+|[CARD11](CARD11)|1 |
+|[MYD88](MYD88)|1 |
 
 # References
 

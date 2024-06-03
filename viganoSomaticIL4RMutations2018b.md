@@ -4,9 +4,9 @@ bibliography: 'morinlab.bib'
 ---
 
 # @viganoSomaticIL4RMutations2018b
-|Gene|Entities|
-|:-:|:-:|
-|IL4R|PMBL|
+|New gene|PMBL tier|
+|:-|:-:|
+|[IL4R](IL4R)|1 |
 
 # References
 

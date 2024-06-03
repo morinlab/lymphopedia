@@ -4,10 +4,10 @@ bibliography: 'morinlab.bib'
 ---
 
 # @ottoGeneticLesionsTRAF32012a
-|Gene|Entities|
-|:-:|:-:|
-|TRAF3|PMBL|
-|MAP3K14|PMBL|
+|New gene|PMBL tier|
+|:-|:-:|
+|[MAP3K14](MAP3K14)|1 |
+|[TRAF3](TRAF3)|1 |
 
 # References
 

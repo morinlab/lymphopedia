@@ -4,9 +4,9 @@ bibliography: 'morinlab.bib'
 ---
 
 # @ritzRecurrentMutationsSTAT62009a
-|Gene|Entities|
-|:-:|:-:|
-|STAT6|PMBL|
+|New gene|PMBL tier|
+|:-|:-:|
+|[STAT6](STAT6)|1 |
 
 # References
 

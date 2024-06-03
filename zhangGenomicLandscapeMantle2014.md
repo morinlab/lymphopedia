@@ -4,36 +4,36 @@ bibliography: 'morinlab.bib'
 ---
 
 # @zhangGenomicLandscapeMantle2014
-|Gene|Entities|
-|:-:|:-:|
-|PCDHB2|MCL|
-|ATP11C|MCL|
-|COL16A1|MCL|
-|FAT4|MCL|
-|RB1|MCL|
-|SMC1A|MCL|
-|CDH8|MCL|
-|PLXNB3|MCL|
-|ZNF296|MCL|
-|HEPH|MCL|
-|CTNNA2|MCL|
-|POT1|MCL|
-|GRIN2A|MCL|
-|EIF2AK4|MCL|
-|ROBO2|MCL|
-|NIN|MCL|
-|DLC1|MCL|
-|ESX1|MCL|
-|ZNF117|MCL|
-|KMT2C|MCL|
-|SALL3|MCL|
-|TBC1D26|MCL|
-|SI|MCL|
-|ANK2|MCL|
-|MRGPRF|MCL|
-|OGDHL|MCL|
-|COL11A1|MCL|
-|DHDH|MCL|
+|New gene|MCL tier|
+|:-|:-:|
+|[ANK2](ANK2)|2 |
+|[ATP11C](ATP11C)|2 |
+|[CDH8](CDH8)|2 |
+|[COL11A1](COL11A1)|2 |
+|[COL16A1](COL16A1)|2 |
+|[CTNNA2](CTNNA2)|2 |
+|[DHDH](DHDH)|2 |
+|[DLC1](DLC1)|2 |
+|[EIF2AK4](EIF2AK4)|2 |
+|[ESX1](ESX1)|2 |
+|[FAT4](FAT4)|2 |
+|[GRIN2A](GRIN2A)|2 |
+|[HEPH](HEPH)|2 |
+|[KMT2C](KMT2C)|2 |
+|[MRGPRF](MRGPRF)|2 |
+|[NIN](NIN)|2 |
+|[OGDHL](OGDHL)|2 |
+|[PCDHB2](PCDHB2)|2 |
+|[PLXNB3](PLXNB3)|2 |
+|[POT1](POT1)|1 |
+|[RB1](RB1)|1 |
+|[ROBO2](ROBO2)|2 |
+|[SALL3](SALL3)|2 |
+|[SI](SI)|2 |
+|[SMC1A](SMC1A)|2 |
+|[TBC1D26](TBC1D26)|2 |
+|[ZNF117](ZNF117)|2 |
+|[ZNF296](ZNF296)|2 |
 
 # References
 

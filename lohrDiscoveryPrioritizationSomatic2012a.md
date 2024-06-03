@@ -4,12 +4,12 @@ bibliography: 'morinlab.bib'
 ---
 
 # @lohrDiscoveryPrioritizationSomatic2012a
-|Gene|Entities|
-|:-:|:-:|
-|PCLO|DLBCL|
-|KRAS|DLBCL|
-|ACTB|DLBCL|
-|P2RY8|DLBCL|
+|New gene|DLBCL tier|
+|:-|:-:|
+|[ACTB](ACTB)|1 |
+|[KRAS](KRAS)|1 |
+|[P2RY8](P2RY8)|1 |
+|[PCLO](PCLO)|2 |
 
 # References
 

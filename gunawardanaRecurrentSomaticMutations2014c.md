@@ -4,9 +4,9 @@ bibliography: 'morinlab.bib'
 ---
 
 # @gunawardanaRecurrentSomaticMutations2014c
-|Gene|Entities|
-|:-:|:-:|
-|PTPN1|PMBL|
+|New gene|PMBL tier|
+|:-|:-:|
+|[PTPN1](PTPN1)|1 |
 
 # References
 

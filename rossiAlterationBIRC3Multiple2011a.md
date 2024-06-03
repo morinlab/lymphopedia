@@ -4,13 +4,13 @@ bibliography: 'morinlab.bib'
 ---
 
 # @rossiAlterationBIRC3Multiple2011a
-|Gene|Entities|
-|:-:|:-:|
-|TNFAIP3|MZL|
-|IKBKB|MZL|
-|MAP3K14|MZL|
-|TRAF3|MZL|
-|BIRC3|MZL|
+|New gene|MZL tier|
+|:-|:-:|
+|[BIRC3](BIRC3)|1 |
+|[IKBKB](IKBKB)|2 |
+|[MAP3K14](MAP3K14)|1 |
+|[TNFAIP3](TNFAIP3)|1 |
+|[TRAF3](TRAF3)|1 |
 
 # References
 

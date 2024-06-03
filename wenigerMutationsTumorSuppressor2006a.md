@@ -4,10 +4,10 @@ bibliography: 'morinlab.bib'
 ---
 
 # @wenigerMutationsTumorSuppressor2006a
-|Gene|Entities|
-|:-:|:-:|
-|SOCS1|PMBL|
-|GPR126|PMBL|
+|New gene|PMBL tier|
+|:-|:-:|
+|[GPR126](GPR126)|2 |
+|[SOCS1](SOCS1)|1 |
 
 # References
 

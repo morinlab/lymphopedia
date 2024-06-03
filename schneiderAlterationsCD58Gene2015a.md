@@ -4,9 +4,9 @@ bibliography: 'morinlab.bib'
 ---
 
 # @schneiderAlterationsCD58Gene2015a
-|Gene|Entities|
-|:-:|:-:|
-|CD58|PMBL|
+|New gene|PMBL tier|
+|:-|:-:|
+|[CD58](CD58)|1 |
 
 # References
 

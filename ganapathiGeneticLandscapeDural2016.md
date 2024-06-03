@@ -4,9 +4,9 @@ bibliography: 'morinlab.bib'
 ---
 
 # @ganapathiGeneticLandscapeDural2016
-|Gene|Entities|
-|:-:|:-:|
-|KLHL6|MZL|
+|New gene|MZL tier|
+|:-|:-:|
+|[KLHL6](KLHL6)|1 |
 
 # References
 

@@ -4,9 +4,9 @@ bibliography: 'morinlab.bib'
 ---
 
 # @mottokGenomicAlterationsCIITA2015b
-|Gene|Entities|
-|:-:|:-:|
-|CIITA|PMBL|
+|New gene|PMBL tier|
+|:-|:-:|
+|[CIITA](CIITA)|1 |
 
 # References
 

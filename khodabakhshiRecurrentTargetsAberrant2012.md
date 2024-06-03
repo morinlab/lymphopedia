@@ -4,9 +4,9 @@ bibliography: 'morinlab.bib'
 ---
 
 # @khodabakhshiRecurrentTargetsAberrant2012
-|Gene|Entities|
-|:-:|:-:|
-|CXCR4|DLBCL|
+|New gene|DLBCL tier|
+|:-|:-:|
+|[CXCR4](CXCR4)|1 |
 
 # References
 
