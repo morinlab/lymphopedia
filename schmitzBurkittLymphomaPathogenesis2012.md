@@ -4,6 +4,8 @@ bibliography: 'morinlab.bib'
 ---
 
 # @schmitzBurkittLymphomaPathogenesis2012
+## Novel genes reported in this study
+
 |New gene|DLBCL tier|BL tier|
 |:-|:-:|:-:|
 |[C16orf48](C16orf48)| |2 |
@@ -26,6 +28,13 @@ bibliography: 'morinlab.bib'
 |[WDR90](WDR90)| |2 |
 |[WHAMM](WHAMM)| |2 |
 |[YY1AP1](YY1AP1)| |2 |
+
+## Summary of novel genes
+
+|Entity| Tier 1 genes| Tier 2 genes|
+|:-:|:-:|:-:|
+|DLBCL|2|3|
+|BL|4|16|
 
 # Details
 

@@ -4,6 +4,8 @@ bibliography: 'morinlab.bib'
 ---
 
 # @mottokIntegrativeGenomicAnalysis2019b
+## Novel genes reported in this study
+
 |New gene|PMBL tier|
 |:-|:-:|
 |[CISH](CISH)|1 |
@@ -27,6 +29,12 @@ bibliography: 'morinlab.bib'
 |[NFKB2](NFKB2)|2 |
 |[RGS1](RGS1)|2 |
 |[VMP1](VMP1)|2 |
+
+## Summary of novel genes
+
+|Entity| Tier 1 genes| Tier 2 genes|
+|:-:|:-:|:-:|
+|PMBL|6|15|
 
 # Details
 

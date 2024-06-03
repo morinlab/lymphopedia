@@ -4,6 +4,8 @@ bibliography: 'morinlab.bib'
 ---
 
 # @beaLandscapeSomaticMutations2013
+## Novel genes reported in this study
+
 |New gene|MCL tier|
 |:-|:-:|
 |[ABCA3](ABCA3)|2 |
@@ -33,6 +35,12 @@ bibliography: 'morinlab.bib'
 |[TNRC6B](TNRC6B)|2 |
 |[TP53](TP53)|1 |
 |[TRPM6](TRPM6)|2 |
+
+## Summary of novel genes
+
+|Entity| Tier 1 genes| Tier 2 genes|
+|:-:|:-:|:-:|
+|MCL|11|16|
 
 # Details
 

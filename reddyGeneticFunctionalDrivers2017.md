@@ -4,6 +4,8 @@ bibliography: 'morinlab.bib'
 ---
 
 # @reddyGeneticFunctionalDrivers2017
+## Novel genes reported in this study
+
 |New gene|DLBCL tier|
 |:-|:-:|
 |[ANKRD17](ANKRD17)|2 |
@@ -66,6 +68,12 @@ bibliography: 'morinlab.bib'
 |[ZBTB7A](ZBTB7A)|2 |
 |[ZFAT](ZFAT)|2 |
 |[ZFX](ZFX)|2 |
+
+## Summary of novel genes
+
+|Entity| Tier 1 genes| Tier 2 genes|
+|:-:|:-:|:-:|
+|DLBCL|7|53|
 
 # Details
 

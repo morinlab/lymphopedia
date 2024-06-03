@@ -4,6 +4,8 @@ bibliography: 'morinlab.bib'
 ---
 
 # @sarkozyMutationalLandscapeGray2021a
+## Novel genes reported in this study
+
 |New gene|PMBL tier|
 |:-|:-:|
 |[ABCA13](ABCA13)|2 |
@@ -17,6 +19,12 @@ bibliography: 'morinlab.bib'
 |[NCOR2](NCOR2)|2 |
 |[RELN](RELN)|2 |
 |[SPEN](SPEN)|1 |
+
+## Summary of novel genes
+
+|Entity| Tier 1 genes| Tier 2 genes|
+|:-:|:-:|:-:|
+|PMBL|5|6|
 
 # Details
 

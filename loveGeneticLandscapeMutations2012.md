@@ -4,6 +4,8 @@ bibliography: 'morinlab.bib'
 ---
 
 # @loveGeneticLandscapeMutations2012
+## Novel genes reported in this study
+
 |New gene|BL tier|
 |:-|:-:|
 |[ACAD9](ACAD9)|2 |
@@ -65,6 +67,12 @@ bibliography: 'morinlab.bib'
 |[TIGD6](TIGD6)|2 |
 |[TPST2](TPST2)|2 |
 |[ZNF229](ZNF229)|2 |
+
+## Summary of novel genes
+
+|Entity| Tier 1 genes| Tier 2 genes|
+|:-:|:-:|:-:|
+|BL|3|56|
 
 # Details
 

@@ -4,6 +4,8 @@ bibliography: 'morinlab.bib'
 ---
 
 # @chapuyMolecularSubtypesDiffuse2018b
+## Novel genes reported in this study
+
 |New gene|DLBCL tier|
 |:-|:-:|
 |[CCL4](CCL4)|2 |
@@ -25,6 +27,12 @@ bibliography: 'morinlab.bib'
 |[SMEK1](SMEK1)|2 |
 |[TLR2](TLR2)|2 |
 |[ZNF423](ZNF423)|2 |
+
+## Summary of novel genes
+
+|Entity| Tier 1 genes| Tier 2 genes|
+|:-:|:-:|:-:|
+|DLBCL|2|17|
 
 # Details
 

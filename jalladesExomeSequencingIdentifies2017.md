@@ -4,6 +4,8 @@ bibliography: 'morinlab.bib'
 ---
 
 # @jalladesExomeSequencingIdentifies2017
+## Novel genes reported in this study
+
 |New gene|MZL tier|
 |:-|:-:|
 |[ARHGAP20](ARHGAP20)|2 |
@@ -34,6 +36,12 @@ bibliography: 'morinlab.bib'
 |[ROCK1](ROCK1)|2 |
 |[TBK1](TBK1)|2 |
 |[WNK1](WNK1)|2 |
+
+## Summary of novel genes
+
+|Entity| Tier 1 genes| Tier 2 genes|
+|:-:|:-:|:-:|
+|MZL|2|26|
 
 # Details
 

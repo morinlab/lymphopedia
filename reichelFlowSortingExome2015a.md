@@ -4,6 +4,8 @@ bibliography: 'morinlab.bib'
 ---
 
 # @reichelFlowSortingExome2015a
+## Novel genes reported in this study
+
 |New gene|PMBL tier|
 |:-|:-:|
 |[ARIH2](ARIH2)|2 |
@@ -35,6 +37,12 @@ bibliography: 'morinlab.bib'
 |[WEE1](WEE1)|1 |
 |[ZFP36L1](ZFP36L1)|1 |
 |[ZNF217](ZNF217)|2 |
+
+## Summary of novel genes
+
+|Entity| Tier 1 genes| Tier 2 genes|
+|:-:|:-:|:-:|
+|PMBL|11|18|
 
 # Details
 

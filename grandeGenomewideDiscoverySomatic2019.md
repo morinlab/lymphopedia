@@ -4,6 +4,8 @@ bibliography: 'morinlab.bib'
 ---
 
 # @grandeGenomewideDiscoverySomatic2019
+## Novel genes reported in this study
+
 |New gene|BL tier|
 |:-|:-:|
 |[BACH2](BACH2)|2 |
@@ -19,6 +21,12 @@ bibliography: 'morinlab.bib'
 |[TCL1A](TCL1A)|1 |
 |[TFAP4](TFAP4)|1 |
 |[USP7](USP7)|1 |
+
+## Summary of novel genes
+
+|Entity| Tier 1 genes| Tier 2 genes|
+|:-:|:-:|:-:|
+|BL|9|4|
 
 # Details
 

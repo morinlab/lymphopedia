@@ -4,6 +4,8 @@ bibliography: 'morinlab.bib'
 ---
 
 # @deschGenotypingCirculatingTumor2020
+## Novel genes reported in this study
+
 |New gene|PMBL tier|
 |:-|:-:|
 |[ACTG1](ACTG1)|2 |
@@ -16,6 +18,12 @@ bibliography: 'morinlab.bib'
 |[KMT2D](KMT2D)|2 |
 |[LTB](LTB)|1 |
 |[MYB](MYB)|2 |
+
+## Summary of novel genes
+
+|Entity| Tier 1 genes| Tier 2 genes|
+|:-:|:-:|:-:|
+|PMBL|1|9|
 
 # Details
 
