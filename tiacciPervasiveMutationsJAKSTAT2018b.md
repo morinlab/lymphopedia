@@ -17,5 +17,5 @@ bibliography: 'morinlab.bib'
 |[TP53](TP53)|1 |
 |[ZCCHC11](ZCCHC11)|2 |
 
-# References
+# Details
 

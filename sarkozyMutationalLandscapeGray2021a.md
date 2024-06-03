@@ -18,5 +18,5 @@ bibliography: 'morinlab.bib'
 |[RELN](RELN)|2 |
 |[SPEN](SPEN)|1 |
 
-# References
+# Details
 

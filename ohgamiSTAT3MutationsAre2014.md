@@ -8,5 +8,5 @@ bibliography: 'morinlab.bib'
 |:-|:-:|
 |[STAT3](STAT3)|1 |
 
-# References
+# Details
 

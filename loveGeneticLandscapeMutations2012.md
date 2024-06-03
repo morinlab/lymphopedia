@@ -66,5 +66,5 @@ bibliography: 'morinlab.bib'
 |[TPST2](TPST2)|2 |
 |[ZNF229](ZNF229)|2 |
 
-# References
+# Details
 

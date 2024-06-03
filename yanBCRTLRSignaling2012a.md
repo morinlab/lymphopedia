@@ -9,5 +9,5 @@ bibliography: 'morinlab.bib'
 |[CARD11](CARD11)|1 |
 |[MYD88](MYD88)|1 |
 
-# References
+# Details
 

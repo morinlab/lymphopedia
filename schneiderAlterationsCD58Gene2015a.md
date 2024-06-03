@@ -8,5 +8,5 @@ bibliography: 'morinlab.bib'
 |:-|:-:|
 |[CD58](CD58)|1 |
 
-# References
+# Details
 

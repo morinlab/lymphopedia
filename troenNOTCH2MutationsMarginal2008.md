@@ -8,5 +8,5 @@ bibliography: 'morinlab.bib'
 |:-|:-:|
 |[NOTCH2](NOTCH2)|1 |
 
-# References
+# Details
 

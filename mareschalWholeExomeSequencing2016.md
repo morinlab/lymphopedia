@@ -9,5 +9,5 @@ bibliography: 'morinlab.bib'
 |[TBL1XR1](TBL1XR1)|1 |
 |[XPO1](XPO1)|1 |
 
-# References
+# Details
 

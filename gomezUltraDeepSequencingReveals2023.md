@@ -14,5 +14,5 @@ bibliography: 'morinlab.bib'
 |[LIMD2](LIMD2)|2 |
 |[OR13C2](OR13C2)|2 |
 
-# References
+# Details
 

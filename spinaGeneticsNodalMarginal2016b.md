@@ -38,5 +38,5 @@ bibliography: 'morinlab.bib'
 |[TNFRSF14](TNFRSF14)|1 |
 |[ZNF9](ZNF9)|2 |
 
-# References
+# Details
 

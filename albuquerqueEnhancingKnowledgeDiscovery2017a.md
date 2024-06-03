@@ -10,5 +10,5 @@ bibliography: 'morinlab.bib'
 |[TET2](TET2)|1 |
 |[TMSB4X](TMSB4X)|1 |
 
-# References
+# Details
 

@@ -9,5 +9,5 @@ bibliography: 'morinlab.bib'
 |[NFKBIE](NFKBIE)|1 |
 |[NFKBIZ](NFKBIZ)|1 |
 
-# References
+# Details
 

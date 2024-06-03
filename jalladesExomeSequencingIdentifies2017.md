@@ -35,5 +35,5 @@ bibliography: 'morinlab.bib'
 |[TBK1](TBK1)|2 |
 |[WNK1](WNK1)|2 |
 
-# References
+# Details
 

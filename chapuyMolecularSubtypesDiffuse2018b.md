@@ -26,5 +26,5 @@ bibliography: 'morinlab.bib'
 |[TLR2](TLR2)|2 |
 |[ZNF423](ZNF423)|2 |
 
-# References
+# Details
 

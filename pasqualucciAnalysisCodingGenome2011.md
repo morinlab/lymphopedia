@@ -14,5 +14,5 @@ bibliography: 'morinlab.bib'
 |[NOTCH1](NOTCH1)|1 |
 |[TRAF3](TRAF3)|2 |
 
-# References
+# Details
 

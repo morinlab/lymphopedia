@@ -14,5 +14,5 @@ bibliography: 'morinlab.bib'
 |[NFKBIA](NFKBIA)|1 |
 |[RBM38](RBM38)|2 |
 
-# References
+# Details
 

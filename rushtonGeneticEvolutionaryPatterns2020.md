@@ -8,5 +8,5 @@ bibliography: 'morinlab.bib'
 |:-|:-:|
 |[MS4A1](MS4A1)|1 |
 
-# References
+# Details
 

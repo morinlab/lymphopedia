@@ -8,5 +8,5 @@ bibliography: 'morinlab.bib'
 |:-|:-:|
 |[CARD11](CARD11)|1 |
 
-# References
+# Details
 

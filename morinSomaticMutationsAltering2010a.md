@@ -8,5 +8,5 @@ bibliography: 'morinlab.bib'
 |:-|:-:|:-:|
 |[EZH2](EZH2)|1 |1 |
 
-# References
+# Details
 

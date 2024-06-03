@@ -11,5 +11,5 @@ bibliography: 'morinlab.bib'
 |[P2RY8](P2RY8)|1 |
 |[PCLO](PCLO)|2 |
 
-# References
+# Details
 

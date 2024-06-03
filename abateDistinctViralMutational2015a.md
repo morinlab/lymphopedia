@@ -8,5 +8,5 @@ bibliography: 'morinlab.bib'
 |:-|:-:|
 |[CCNF](CCNF)|2 |
 
-# References
+# Details
 

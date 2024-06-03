@@ -14,5 +14,5 @@ bibliography: 'morinlab.bib'
 |[S1PR1](S1PR1)| |1 |
 |[UBR5](UBR5)|2 |1 |
 
-# References
+# Details
 

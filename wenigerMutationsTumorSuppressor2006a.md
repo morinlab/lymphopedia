@@ -9,5 +9,5 @@ bibliography: 'morinlab.bib'
 |[GPR126](GPR126)|2 |
 |[SOCS1](SOCS1)|1 |
 
-# References
+# Details
 

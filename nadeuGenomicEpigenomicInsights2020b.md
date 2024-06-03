@@ -12,5 +12,5 @@ bibliography: 'morinlab.bib'
 |[SYNE1](SYNE1)|1 |
 |[TERT](TERT)|1 |
 
-# References
+# Details
 

@@ -8,5 +8,5 @@ bibliography: 'morinlab.bib'
 |:-|:-:|
 |[PTPN1](PTPN1)|1 |
 
-# References
+# Details
 

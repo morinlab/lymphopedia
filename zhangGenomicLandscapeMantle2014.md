@@ -35,5 +35,5 @@ bibliography: 'morinlab.bib'
 |[ZNF117](ZNF117)|2 |
 |[ZNF296](ZNF296)|2 |
 
-# References
+# Details
 

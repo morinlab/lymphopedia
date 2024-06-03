@@ -67,5 +67,5 @@ bibliography: 'morinlab.bib'
 |[ZFAT](ZFAT)|2 |
 |[ZFX](ZFX)|2 |
 
-# References
+# Details
 

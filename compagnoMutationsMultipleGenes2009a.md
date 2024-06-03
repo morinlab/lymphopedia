@@ -8,5 +8,5 @@ bibliography: 'morinlab.bib'
 |:-|:-:|
 |[TNFAIP3](TNFAIP3)|1 |
 
-# References
+# Details
 

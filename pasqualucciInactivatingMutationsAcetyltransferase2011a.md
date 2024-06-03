@@ -9,5 +9,5 @@ bibliography: 'morinlab.bib'
 |[CREBBP](CREBBP)|1 |1 |
 |[EP300](EP300)|1 |1 |
 
-# References
+# Details
 

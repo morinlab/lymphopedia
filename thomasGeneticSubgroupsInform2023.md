@@ -12,5 +12,5 @@ bibliography: 'morinlab.bib'
 |[PHF6](PHF6)|1 |
 |[WNK1](WNK1)|1 |
 
-# References
+# Details
 

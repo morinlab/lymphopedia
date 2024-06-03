@@ -8,5 +8,5 @@ bibliography: 'morinlab.bib'
 |:-|:-:|
 |[MAP2K1](MAP2K1)|1 |
 
-# References
+# Details
 

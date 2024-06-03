@@ -10,5 +10,5 @@ bibliography: 'morinlab.bib'
 |[P2RY8](P2RY8)|1 |
 |[S1PR2](S1PR2)|2 |
 
-# References
+# Details
 

@@ -32,5 +32,5 @@ bibliography: 'morinlab.bib'
 |[ZBTB7A](ZBTB7A)|2 |
 |[ZNF85](ZNF85)|2 |
 
-# References
+# Details
 

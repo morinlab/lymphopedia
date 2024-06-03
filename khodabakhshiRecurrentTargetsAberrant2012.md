@@ -8,5 +8,5 @@ bibliography: 'morinlab.bib'
 |:-|:-:|
 |[CXCR4](CXCR4)|1 |
 
-# References
+# Details
 

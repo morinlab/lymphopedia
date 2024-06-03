@@ -8,5 +8,5 @@ bibliography: 'morinlab.bib'
 |:-|:-:|
 |[SESN1](SESN1)|2 |
 
-# References
+# Details
 

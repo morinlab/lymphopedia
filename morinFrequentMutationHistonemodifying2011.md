@@ -35,5 +35,5 @@ bibliography: 'morinlab.bib'
 |[TP53](TP53)|1 |1 |
 |[ZFP36L1](ZFP36L1)| |1 |
 
-# References
+# Details
 

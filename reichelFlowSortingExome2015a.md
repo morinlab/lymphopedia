@@ -36,5 +36,5 @@ bibliography: 'morinlab.bib'
 |[ZFP36L1](ZFP36L1)|1 |
 |[ZNF217](ZNF217)|2 |
 
-# References
+# Details
 

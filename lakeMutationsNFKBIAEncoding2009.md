@@ -8,5 +8,5 @@ bibliography: 'morinlab.bib'
 |:-|:-:|
 |[NFKBIA](NFKBIA)|1 |
 
-# References
+# Details
 

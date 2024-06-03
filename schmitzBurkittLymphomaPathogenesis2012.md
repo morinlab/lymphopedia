@@ -27,5 +27,5 @@ bibliography: 'morinlab.bib'
 |[WHAMM](WHAMM)| |2 |
 |[YY1AP1](YY1AP1)| |2 |
 
-# References
+# Details
 

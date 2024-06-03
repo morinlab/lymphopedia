@@ -8,5 +8,5 @@ bibliography: 'morinlab.bib'
 |:-|:-:|
 |[MIR142](MIR142)|2 |
 
-# References
+# Details
 

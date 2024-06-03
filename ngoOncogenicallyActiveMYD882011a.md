@@ -8,5 +8,5 @@ bibliography: 'morinlab.bib'
 |:-|:-:|
 |[MYD88](MYD88)|1 |
 
-# References
+# Details
 

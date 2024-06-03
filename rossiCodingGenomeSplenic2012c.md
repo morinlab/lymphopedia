@@ -28,5 +28,5 @@ bibliography: 'morinlab.bib'
 |[TRRAP](TRRAP)|1 |2 |
 |[WAC](WAC)|2 |2 |
 
-# References
+# Details
 

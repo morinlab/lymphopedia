@@ -27,5 +27,5 @@ bibliography: 'morinlab.bib'
 |[ZC3H12A](ZC3H12A)|1 |
 |[ZCCHC7](ZCCHC7)|2 |
 
-# References
+# Details
 

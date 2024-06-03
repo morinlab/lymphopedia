@@ -11,5 +11,5 @@ bibliography: 'morinlab.bib'
 |[PIM1](PIM1)|1 |
 |[RHOH](RHOH)|2 |
 
-# References
+# Details
 

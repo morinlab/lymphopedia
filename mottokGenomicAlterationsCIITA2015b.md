@@ -8,5 +8,5 @@ bibliography: 'morinlab.bib'
 |:-|:-:|
 |[CIITA](CIITA)|1 |
 
-# References
+# Details
 

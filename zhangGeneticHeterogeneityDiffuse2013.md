@@ -26,5 +26,5 @@ bibliography: 'morinlab.bib'
 |[ZNF292](ZNF292)|1 |
 |[ZNF608](ZNF608)|1 |
 
-# References
+# Details
 

@@ -8,5 +8,5 @@ bibliography: 'morinlab.bib'
 |:-|:-:|
 |[CTSS](CTSS)|1 |
 
-# References
+# Details
 

@@ -17,5 +17,5 @@ bibliography: 'morinlab.bib'
 |[LTB](LTB)|1 |
 |[MYB](MYB)|2 |
 
-# References
+# Details
 

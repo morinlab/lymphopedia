@@ -21,5 +21,5 @@ bibliography: 'morinlab.bib'
 |[SGK1](SGK1)|1 |1 |
 |[WDR87](WDR87)|2 | |
 
-# References
+# Details
 

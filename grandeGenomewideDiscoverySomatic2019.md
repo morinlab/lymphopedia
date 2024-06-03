@@ -20,5 +20,5 @@ bibliography: 'morinlab.bib'
 |[TFAP4](TFAP4)|1 |
 |[USP7](USP7)|1 |
 
-# References
+# Details
 

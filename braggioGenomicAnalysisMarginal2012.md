@@ -8,5 +8,5 @@ bibliography: 'morinlab.bib'
 |:-|:-:|
 |[ATM](ATM)|1 |
 
-# References
+# Details
 

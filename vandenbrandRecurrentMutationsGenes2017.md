@@ -9,5 +9,5 @@ bibliography: 'morinlab.bib'
 |[CD9B](CD9B)|2 |
 |[TNIP2](TNIP2)|2 |
 
-# References
+# Details
 

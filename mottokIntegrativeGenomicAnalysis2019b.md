@@ -28,5 +28,5 @@ bibliography: 'morinlab.bib'
 |[RGS1](RGS1)|2 |
 |[VMP1](VMP1)|2 |
 
-# References
+# Details
 

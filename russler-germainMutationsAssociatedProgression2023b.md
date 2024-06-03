@@ -27,5 +27,5 @@ bibliography: 'morinlab.bib'
 |[STAB2](STAB2)|2 |
 |[XIRP2](XIRP2)|2 |
 
-# References
+# Details
 

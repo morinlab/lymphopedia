@@ -8,5 +8,5 @@ bibliography: 'morinlab.bib'
 |:-|:-:|
 |[XPO1](XPO1)|1 |
 
-# References
+# Details
 

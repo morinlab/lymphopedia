@@ -57,5 +57,5 @@ bibliography: 'morinlab.bib'
 |[WNK2](WNK2)|2 |
 |[ZFP36L1](ZFP36L1)|2 |
 
-# References
+# Details
 

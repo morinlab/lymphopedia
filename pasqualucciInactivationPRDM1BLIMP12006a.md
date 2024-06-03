@@ -8,5 +8,5 @@ bibliography: 'morinlab.bib'
 |:-|:-:|
 |[PRDM1](PRDM1)|1 |
 
-# References
+# Details
 

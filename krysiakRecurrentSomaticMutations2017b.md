@@ -29,5 +29,5 @@ bibliography: 'morinlab.bib'
 |[SMARCA4](SMARCA4)|1 |
 |[ZNF608](ZNF608)|2 |
 
-# References
+# Details
 

@@ -8,5 +8,5 @@ bibliography: 'morinlab.bib'
 |:-|:-:|
 |[BRAF](BRAF)|1 |
 
-# References
+# Details
 

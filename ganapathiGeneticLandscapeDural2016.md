@@ -8,5 +8,5 @@ bibliography: 'morinlab.bib'
 |:-|:-:|
 |[KLHL6](KLHL6)|1 |
 
-# References
+# Details
 

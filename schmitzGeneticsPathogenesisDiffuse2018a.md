@@ -23,5 +23,5 @@ bibliography: 'morinlab.bib'
 |[TAP1](TAP1)|2 |
 |[WEE1](WEE1)|1 |
 
-# References
+# Details
 

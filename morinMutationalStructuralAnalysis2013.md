@@ -47,5 +47,5 @@ bibliography: 'morinlab.bib'
 |[TAF1](TAF1)|1 |
 |[WDFY3](WDFY3)|2 |
 
-# References
+# Details
 

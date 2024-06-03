@@ -8,5 +8,5 @@ bibliography: 'morinlab.bib'
 |:-|:-:|
 |[EBF1](EBF1)|1 |
 
-# References
+# Details
 

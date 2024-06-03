@@ -8,5 +8,5 @@ bibliography: 'morinlab.bib'
 |:-|:-:|
 |[FAS](FAS)|1 |
 
-# References
+# Details
 

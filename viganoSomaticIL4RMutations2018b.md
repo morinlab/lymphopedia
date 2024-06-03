@@ -8,5 +8,5 @@ bibliography: 'morinlab.bib'
 |:-|:-:|
 |[IL4R](IL4R)|1 |
 
-# References
+# Details
 

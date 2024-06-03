@@ -34,5 +34,5 @@ bibliography: 'morinlab.bib'
 |[TP53](TP53)|1 |
 |[TRPM6](TRPM6)|2 |
 
-# References
+# Details
 

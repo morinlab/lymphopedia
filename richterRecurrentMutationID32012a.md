@@ -12,5 +12,5 @@ bibliography: 'morinlab.bib'
 |[RHOA](RHOA)|1 |
 |[SMARCA4](SMARCA4)|1 |
 
-# References
+# Details
 

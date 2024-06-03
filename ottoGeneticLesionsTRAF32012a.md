@@ -9,5 +9,5 @@ bibliography: 'morinlab.bib'
 |[MAP3K14](MAP3K14)|1 |
 |[TRAF3](TRAF3)|1 |
 
-# References
+# Details
 

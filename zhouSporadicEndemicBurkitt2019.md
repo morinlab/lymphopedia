@@ -8,5 +8,5 @@ bibliography: 'morinlab.bib'
 |:-|:-:|
 |[KMT2C](KMT2C)|2 |
 
-# References
+# Details
 
