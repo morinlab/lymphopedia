@@ -4,9 +4,9 @@ bibliography: 'morinlab.bib'
 ---
 
 # @morinSomaticMutationsAltering2010a
-|New gene|Entity (Current Tier)|
-|:-:|:-:|
-|EZH2|FL (1) DLBCL (1) |
+|New gene|FL|DLBCL
+|:-|:-|:-
+|EZH2||1 |1 |
 
 # References
 

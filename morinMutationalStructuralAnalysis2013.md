@@ -4,48 +4,48 @@ bibliography: 'morinlab.bib'
 ---
 
 # @morinMutationalStructuralAnalysis2013
-|New gene|Entity (Current Tier)|
-|:-:|:-:|
-|TAF1|DLBCL (1) |
-|ODZ3|DLBCL (2) |
-|FAM38B|DLBCL (2) |
-|FAT4|DLBCL (2) |
-|HIST1H1E|DLBCL (1) |
-|FNDC1|DLBCL (2) |
-|PDS5B|DLBCL (2) |
-|HIST1H1D|DLBCL (1) |
-|MPEG1|DLBCL (1) |
-|WDFY3|DLBCL (2) |
-|SAMD9L|DLBCL (2) |
-|PASK|DLBCL (2) |
-|PTPN23|DLBCL (2) |
-|NLRP5|DLBCL (2) |
-|IKZF3|DLBCL (1) |
-|CD83|DLBCL (1) |
-|LRRN3|DLBCL (2) |
-|POGZ|DLBCL (2) |
-|MPDZ|DLBCL (2) |
-|HDAC7|DLBCL (2) |
-|PCDHB11|DLBCL (2) |
-|PKD1|DLBCL (2) |
-|CNTNAP5|DLBCL (2) |
-|IFNGR1|DLBCL (2) |
-|IER2|DLBCL (2) |
-|CDH9|DLBCL (2) |
-|HIST1H2AG|DLBCL (2) |
-|SARM1|DLBCL (2) |
-|SYPL1|DLBCL (2) |
-|RB1|DLBCL (1) |
-|DSG4|DLBCL (2) |
-|GNAI2|DLBCL (1) |
-|HIST1H2AC|DLBCL (1) |
-|PRKCB|DLBCL (2) |
-|DUSP2|DLBCL (1) |
-|ABI3BP|DLBCL (2) |
-|DNAH5|DLBCL (2) |
-|P2RX5|DLBCL (2) |
-|SRRM2|DLBCL (2) |
-|CDKN2A|DLBCL (1) |
+|New gene|DLBCL
+|:-|:-
+|NLRP5||2 |
+|POGZ||2 |
+|TAF1||1 |
+|IFNGR1||2 |
+|PTPN23||2 |
+|RB1||1 |
+|HIST1H1E||1 |
+|SYPL1||2 |
+|CDKN2A||1 |
+|MPDZ||2 |
+|DNAH5||2 |
+|IKZF3||1 |
+|HIST1H2AC||1 |
+|HIST1H2AG||2 |
+|DSG4||2 |
+|LRRN3||2 |
+|ODZ3||2 |
+|SRRM2||2 |
+|FAT4||2 |
+|P2RX5||2 |
+|SAMD9L||2 |
+|HDAC7||2 |
+|HIST1H1D||1 |
+|ABI3BP||2 |
+|PASK||2 |
+|MPEG1||1 |
+|CDH9||2 |
+|PRKCB||2 |
+|CD83||1 |
+|PCDHB11||2 |
+|WDFY3||2 |
+|CNTNAP5||2 |
+|IER2||2 |
+|GNAI2||1 |
+|PDS5B||2 |
+|FAM38B||2 |
+|SARM1||2 |
+|PKD1||2 |
+|DUSP2||1 |
+|FNDC1||2 |
 
 # References
 
