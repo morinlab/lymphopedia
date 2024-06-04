@@ -8,6 +8,7 @@ timeline
       2017-01-26 : Krysiak : FL
       2017-05-01 : Albuquerque : DLBCL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description               |
@@ -37,18 +38,19 @@ timeline
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/BTK_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/BTK_protein_hg38.html)
 
-![image](images/proteinpaint/BTK_NM_000061.svg)
+![](images/proteinpaint/BTK_NM_000061.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/BTK.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/BTK_hg38.html)
 
-![image](images/proteinpaint/BTK.svg)
+![](images/proteinpaint/BTK.svg)
 
 
 ## BTK Expression
-![image](images/gene_expression/BTK_by_pathology.svg)
+![](images/gene_expression/BTK_by_pathology.svg)
 <!-- ORIGIN: albuquerqueEnhancingKnowledgeDiscovery2017a -->
 <!-- FL: krysiakRecurrentSomaticMutations2017b -->
 <!-- DLBCL: albuquerqueEnhancingKnowledgeDiscovery2017a -->
+
 ## References
 1.  Krysiak K, Gomez F, White BS, Matlock M, Miller CA, Trani L, Fronick CC, Fulton RS, Kreisel F, Cashen AF, Carson KR, Berrien-Elliott MM, Bartlett NL, Griffith M, Griffith OL, Fehniger TA. Recurrent somatic mutations affecting B-cell receptor signaling pathway genes in follicular lymphoma. Blood. 2017 Jan 26;129(4):473–483. PMCID: PMC5270390
 2.  Albuquerque MA, Grande BM, Ritch EJ, Pararajalingam P, Jessa S, Krzywinski M, Grewal JK, Shah SP, Boutros PC, Morin RD. Enhancing knowledge discovery from cancer genomics data with Galaxy. Gigascience. 2017 May 1;6(5):1–13. PMCID: PMC5437943

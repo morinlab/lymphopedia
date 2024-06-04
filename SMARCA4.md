@@ -1,4 +1,5 @@
 # SMARCA4
+
 ## History
 
 ```mermaid
@@ -10,6 +11,7 @@ timeline
       2017-01-26 : Krysiak : FL
       2020-09-17 : Nadeu : MCL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description               |
@@ -43,24 +45,24 @@ timeline
 |FL    |No  |No                   |11.081          |0.000           |
 
 
-> [!NOTE]
-> First described in BL in 2012 by [Love C](https://pubmed.ncbi.nlm.nih.gov/23143597). First described in DLBCL in 2013 by [Zhang J](https://pubmed.ncbi.nlm.nih.gov/23292937). First described in FL in 2023 by [Russler-Germain DA](https://pubmed.ncbi.nlm.nih.gov/37493986). First described in MCL in 2020 by [Nadeu F](https://pubmed.ncbi.nlm.nih.gov/32584970)
 
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/SMARCA4_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/SMARCA4_protein_hg38.html)
 
-![image](images/proteinpaint/SMARCA4_NM_001128849.svg)
+![](images/proteinpaint/SMARCA4_NM_001128849.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/SMARCA4.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/SMARCA4_hg38.html)
 
-![image](images/proteinpaint/SMARCA4.svg)
+![](images/proteinpaint/SMARCA4.svg)
+
 ## SMARCA4 Expression
-![image](images/gene_expression/SMARCA4_by_pathology.svg)
+![](images/gene_expression/SMARCA4_by_pathology.svg)
 <!-- ORIGIN: zhangGeneticHeterogeneityDiffuse2013 -->
 <!-- MCL: nadeuGenomicEpigenomicInsights2020a -->
 <!-- DLBCL: zhangGeneticHeterogeneityDiffuse2013 -->
 <!-- FL: krysiakRecurrentSomaticMutations2017b -->
 <!-- BL: richterRecurrentMutationID32012a -->
+
 ## References
 1.  Richter J, Schlesner M, Hoffmann S, Kreuz M, Leich E, Burkhardt B, Rosolowski M, Ammerpohl O, Wagener R, Bernhart SH, Lenze D, Szczepanowski M, Paulsen M, Lipinski S, Russell RB, Adam-Klages S, Apic G, Claviez A, Hasenclever D, Hovestadt V, Hornig N, Korbel JO, Kube D, Langenberger D, Lawerenz C, Lisfeld J, Meyer K, Picelli S, Pischimarov J, Radlwimmer B, Rausch T, Rohde M, Schilhabel M, Scholtysik R, Spang R, Trautmann H, Zenz T, Borkhardt A, Drexler HG, Möller P, MacLeod RAF, Pott C, Schreiber S, Trümper L, Loeffler M, Stadler PF, Lichter P, Eils R, Küppers R, Hummel M, Klapper W, Rosenstiel P, Rosenwald A, Brors B, Siebert R, ICGC MMML-Seq Project. Recurrent mutation of the ID3 gene in Burkitt lymphoma identified by integrated genome, exome and transcriptome sequencing. Nat Genet. 2012 Dec;44(12):1316–1320. PMID: 23143595
 2.  Zhang J, Grubor V, Love CL, Banerjee A, Richards KL, Mieczkowski PA, Dunphy C, Choi W, Au WY, Srivastava G, Lugar PL, Rizzieri DA, Lagoo AS, Bernal-Mizrachi L, Mann KP, Flowers C, Naresh K, Evens A, Gordon LI, Czader M, Gill JI, Hsi ED, Liu Q, Fan A, Walsh K, Jima D, Smith LL, Johnson AJ, Byrd JC, Luftig MA, Ni T, Zhu J, Chadburn A, Levy S, Dunson D, Dave SS. Genetic heterogeneity of diffuse large B-cell lymphoma. 2013 Jan; 

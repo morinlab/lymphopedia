@@ -1,4 +1,5 @@
 # PRDM1
+
 ## History
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
@@ -6,6 +7,7 @@ timeline
     title Publication timing
       2006-02-02 : Pasqualucci : DLBCL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description                           |
@@ -35,8 +37,6 @@ timeline
 
 
 
-> [!NOTE]
-> First described in DLBCL in 2013 by [Morin RD](https://pubmed.ncbi.nlm.nih.gov/23699601)
 
  ## PRDM1 Hotspots
 
@@ -52,15 +52,17 @@ timeline
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PRDM1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PRDM1_protein_hg38.html)
 
-![image](images/proteinpaint/PRDM1_NM_001198.svg)
+![](images/proteinpaint/PRDM1_NM_001198.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PRDM1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PRDM1_hg38.html)
 
-![image](images/proteinpaint/PRDM1.svg)
+![](images/proteinpaint/PRDM1.svg)
+
 ## PRDM1 Expression
-![image](images/gene_expression/PRDM1_by_pathology.svg)
+![](images/gene_expression/PRDM1_by_pathology.svg)
 <!-- ORIGIN: pasqualucciInactivationPRDM1BLIMP12006 -->
 <!-- DLBCL: pasqualucciInactivationPRDM1BLIMP12006 -->
 <!-- BL: 2 -->
+
 ## References
 1.  Pasqualucci L, Compagno M, Houldsworth J, Monti S, Grunn A, Nandula SV, Aster JC, Murty VV, Shipp MA, Dalla-Favera R. Inactivation of the PRDM1/BLIMP1 gene in diffuse large B cell lymphoma. J Exp Med. 2006 Feb;203(2):311–317. 

@@ -1,4 +1,5 @@
 # IKBKB
+
 ## History
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
@@ -8,6 +9,7 @@ timeline
       2017-10-10 : Reddy : DLBCL
       2019-12-10 : Wienand : PMBL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description                              |
@@ -34,23 +36,23 @@ timeline
 |FL    |No  |No                   |3.189           |0               |
 
 
-> [!NOTE]
-> First described in DLBCL in 2017 by [Reddy A](https://pubmed.ncbi.nlm.nih.gov/28985567)
 
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/IKBKB_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/IKBKB_protein_hg38.html)
 
-![image](images/proteinpaint/IKBKB_NM_001556.svg)
+![](images/proteinpaint/IKBKB_NM_001556.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/IKBKB.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/IKBKB_hg38.html)
 
-![image](images/proteinpaint/IKBKB.svg)
+![](images/proteinpaint/IKBKB.svg)
+
 ## IKBKB Expression
-![image](images/gene_expression/IKBKB_by_pathology.svg)
+![](images/gene_expression/IKBKB_by_pathology.svg)
 <!-- ORIGIN: rossiAlterationBIRC3Multiple2011a -->
 <!-- MZL: rossiAlterationBIRC3Multiple2011a -->
 <!-- DLBCL: reddyGeneticFunctionalDrivers2017 -->
 <!-- PMBL: wienandGenomicAnalysesFlowsorted2019b -->
+
 ## References
 1.  Rossi D, Deaglio S, Dominguez-Sola D, Rasi S, Vaisitti T, Agostinelli C, Spina V, Bruscaggin A, Monti S, Cerri M, Cresta S, Fangazio M, Arcaini L, Lucioni M, Marasca R, Thieblemont C, Capello D, Facchetti F, Kwee I, Pileri SA, Foà R, Bertoni F, Dalla-Favera R, Pasqualucci L, Gaidano G. Alteration of BIRC3 and multiple other NF-κB pathway genes in splenic marginal zone lymphoma. Blood. 2011 Nov 3;118(18):4930–4934. PMID: 21881048
 2.  Reddy A, Zhang J, Davis NS, Moffitt AB, Love CL, Waldrop A, Leppa S, Pasanen A, Meriranta L, Karjalainen-Lindsberg ML, Nørgaard P, Pedersen M, Gang AO, Høgdall E, Heavican TB, Lone W, Iqbal J, Qin Q, Li G, Kim SY, Healy J, Richards KL, Fedoriw Y, Bernal-Mizrachi L, Koff JL, Staton AD, Flowers CR, Paltiel O, Goldschmidt N, Calaminici M, Clear A, Gribben J, Nguyen E, Czader MB, Ondrejka SL, Collie A, Hsi ED, Tse E, Au-Yeung RKH, Kwong YL, Srivastava G, Choi WWL, Evens AM, Pilichowska M, Sengar M, Reddy N, Li S, Chadburn A, Gordon LI, Jaffe ES, Levy S, Rempel R, Tzeng T, Happ LE, Dave T, Rajagopalan D, Datta J, Dunson DB, Dave SS. Genetic and Functional Drivers of Diffuse Large B Cell Lymphoma. Cell. 2017 Oct;171(2):481-494.e15. 

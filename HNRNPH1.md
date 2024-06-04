@@ -1,4 +1,5 @@
 # HNRNPH1
+
 ## Overview
 Non-coding mutations, including synonymous and intronic mutations,  are enriched at splicing signals in exon 4 of HNRNPH1. These result in deregulated splicing and increased expression of the hnRNP H1 protein. This overexpression is linked to enhanced cell proliferation and survival, contributing to the aggressive nature of MCL. <sup>1,2</sup> Although initially characterized in MCL, the same pattern of mutations appears in a small number of DLBCLs.
 
@@ -9,6 +10,7 @@ timeline
     title Publication timing
       2020-07-30 : Pararajalingam : MCL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description               |
@@ -42,14 +44,14 @@ timeline
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/HNRNPH1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/HNRNPH1_protein_hg38.html)
 
-![image](images/proteinpaint/HNRNPH1_NM_005520.svg)
+![](images/proteinpaint/HNRNPH1_NM_005520.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/HNRNPH1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/HNRNPH1_hg38.html)
 
-![image](images/proteinpaint/HNRNPH1.svg)
+![](images/proteinpaint/HNRNPH1.svg)
 
 ## HNRNPH1 Expression
-![image](images/gene_expression/HNRNPH1_by_pathology.svg)
+![](images/gene_expression/HNRNPH1_by_pathology.svg)
 
 
 ## References

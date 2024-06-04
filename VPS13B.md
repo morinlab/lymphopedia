@@ -35,11 +35,14 @@
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/VPS13B_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/VPS13B_protein_hg38.html)
 
-![image](images/proteinpaint/VPS13B_NM_152564.svg)
+![](images/proteinpaint/VPS13B_NM_152564.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/VPS13B.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/VPS13B_hg38.html)
 
-![image](images/proteinpaint/VPS13B.svg)
+![](images/proteinpaint/VPS13B.svg)
+
 ## VPS13B Expression
-![image](images/gene_expression/VPS13B_by_pathology.svg)
+![](images/gene_expression/VPS13B_by_pathology.svg)
 <!-- ORIGIN: Unknown -->
+
+## References

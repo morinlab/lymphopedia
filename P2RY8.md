@@ -9,6 +9,7 @@ timeline
       2012-03-06 : Lohr : DLBCL
       2014-12-11 : Muppidi : BL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description                           |
@@ -42,14 +43,14 @@ timeline
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/P2RY8_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/P2RY8_protein_hg38.html)
 
-![image](images/proteinpaint/P2RY8_NM_178129.svg)
+![](images/proteinpaint/P2RY8_NM_178129.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/P2RY8.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/P2RY8_hg38.html)
 
-![image](images/proteinpaint/P2RY8.svg)
+![](images/proteinpaint/P2RY8.svg)
 
 ## P2RY8 Expression
-![image](images/gene_expression/P2RY8_by_pathology.svg)
+![](images/gene_expression/P2RY8_by_pathology.svg)
 
 ## References
 1. *Muppidi JR, Schmitz R, Green JA, Xiao W, Larsen AB, Braun SE, An J, Xu Y, Rosenwald A, Ott G, Gascoyne RD, Rimsza LM, Campo E, Jaffe ES, Delabie J, Smeland EB, Braziel RM, Tubbs RR, Cook JR, Weisenburger DD, Chan WC, Vaidehi N, Staudt LM, Cyster JG. Loss of signalling via Gα13 in germinal centre B-cell-derived lymphoma. Nature. 2014 Dec 11;516(7530):254-8. doi: 10.1038/nature13765. Epub 2014 Sep 28. PMID: 25274307; PMCID: PMC4267955.*

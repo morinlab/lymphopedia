@@ -32,11 +32,14 @@
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/RHOH_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/RHOH_protein_hg38.html)
 
-![image](images/proteinpaint/RHOH_NM_004310.svg)
+![](images/proteinpaint/RHOH_NM_004310.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/RHOH.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/RHOH_hg38.html)
 
-![image](images/proteinpaint/RHOH.svg)
+![](images/proteinpaint/RHOH.svg)
+
 ## RHOH Expression
-![image](images/gene_expression/RHOH_by_pathology.svg)
+![](images/gene_expression/RHOH_by_pathology.svg)
 <!-- ORIGIN: Unknown -->
+
+## References

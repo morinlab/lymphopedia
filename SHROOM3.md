@@ -1,4 +1,5 @@
 # SHROOM3
+
 ## History
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
@@ -6,6 +7,7 @@ timeline
     title Publication timing
       2023-07-26 : Russler-Germain : FL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description                           |
@@ -31,14 +33,16 @@ timeline
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/SHROOM3_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/SHROOM3_protein_hg38.html)
 
-![image](images/proteinpaint/SHROOM3_NM_020859.svg)
+![](images/proteinpaint/SHROOM3_NM_020859.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/SHROOM3.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/SHROOM3_hg38.html)
 
-![image](images/proteinpaint/SHROOM3.svg)
+![](images/proteinpaint/SHROOM3.svg)
+
 ## SHROOM3 Expression
-![image](images/gene_expression/SHROOM3_by_pathology.svg)
+![](images/gene_expression/SHROOM3_by_pathology.svg)
 <!-- ORIGIN: russler-germainMutationsAssociatedProgression2023a -->
 <!-- FL: russler-germainMutationsAssociatedProgression2023b -->
+
 ## References
 1.  Russler-Germain DA, Krysiak K, Ramirez CA, Mosior M, Watkins MP, Gomez F, Skidmore ZL, Trani L, Gao F, Geyer S, Cashen A, Mehta-Shah N, Kahl B, Bartlett N, Alderuccio J, Lossos I, Ondrejka S, Hsi E, Martin P, Leonard J, Griffith M, Griffith O, Fehniger T. Mutations associated with progression in follicular lymphoma predict inferior outcomes at diagnosis: Alliance A151303. Blood Advances. 2023;7:5524–5539. 

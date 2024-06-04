@@ -1,4 +1,5 @@
 # NFKBIE
+
 ## Overview
 NFKBIE encodes IκBε, a negative regulator of NF-κB. Mutations in NFKBIE can disrupt this regulatory function, leading to constitutive activation of NF-κB signaling.<sup>1</sup> Mutations are relatively common in DLBCL and MCL.<sup>2</sup> 
 ## History
@@ -11,6 +12,7 @@ timeline
       2016-12-08 : Mansouri : PMBL
       2020-07-30 : Pararajalingam : MCL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description               |
@@ -38,20 +40,18 @@ timeline
 |FL    |No  |No                   |0.000           |46.628          |
 
 
-> [!NOTE]
-> First described in DLBCL in 2016 by [Morin RD](https://pubmed.ncbi.nlm.nih.gov/26647218). First described in MCL in 2020 by [Pararajalingam P](https://pubmed.ncbi.nlm.nih.gov/32160292)
 
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/NFKBIE_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/NFKBIE_protein_hg38.html)
 
-![image](images/proteinpaint/NFKBIE_NM_004556.svg)
+![](images/proteinpaint/NFKBIE_NM_004556.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/NFKBIE.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/NFKBIE_hg38.html)
 
-![image](images/proteinpaint/NFKBIE.svg)
+![](images/proteinpaint/NFKBIE.svg)
 
 ## NFKBIE Expression
-![image](images/gene_expression/NFKBIE_by_pathology.svg)
+![](images/gene_expression/NFKBIE_by_pathology.svg)
 
 ## References
 1. *Mansouri, L., Noerenberg, D., Young, E., Mylonas, E., Abdulla, M., Frick, M., Asmar, F., Ljungström, V., Schneider, M., Yoshida, K., Skaftason, A., Pandzic, T., González, B., Tasidou, A., Waldhueter, N., Rivas-Delgado, A., Angelopoulou, M., Ziepert, M., Arends, C., Couronné, L., Lenze, D., Baldus, C., Bastard, C., Okosun, J., Fitzgibbon, J., Dörken, B., Drexler, H., Roos-Weil, D., Schmitt, C., Munch-Petersen, H., Zenz, T., Hansmann, M., Strefford, J., Enblad, G., Bernard, O., Ralfkiaer, E., Erlanson, M., Korkolopoulou, P., Hultdin, M., Papadaki, T., Grønbæk, K., López-Guillermo, A., Ogawa, S., Küppers, R., Stamatopoulos, K., Stavroyianni, N., Kanellis, G., Rosenwald, A., Campo, E., Amini, R., Ott, G., Vassilakopoulos, T., Hummel, M., Rosenquist, R., & Damm, F. (2016). Frequent NFKBIE deletions are associated with poor outcome in primary mediastinal B-cell lymphoma.. Blood, 128 23, 2666-2670 . https://doi.org/10.1182/BLOOD-2016-03-704528.*

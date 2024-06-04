@@ -32,12 +32,14 @@
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PTMA_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PTMA_protein_hg38.html)
 
-![image](images/proteinpaint/PTMA_NM_001099285.svg)
+![](images/proteinpaint/PTMA_NM_001099285.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PTMA.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PTMA_hg38.html)
 
-![image](images/proteinpaint/PTMA.svg)
+![](images/proteinpaint/PTMA.svg)
+
 ## PTMA Expression
-![image](images/gene_expression/PTMA_by_pathology.svg)
+![](images/gene_expression/PTMA_by_pathology.svg)
 <!-- ORIGIN: Unknown -->
+
 ## References

@@ -10,6 +10,7 @@ timeline
       2011-06-16 : Tiacci : DLBCL
       2012-12-01 : Love : BL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description                           |
@@ -39,8 +40,6 @@ timeline
 |FL    |No  |No                   |4.680           |0               |
 
 
-> [!NOTE]
-> First described in BL in 2012 by [Love C](https://pubmed.ncbi.nlm.nih.gov/23143597). First described in DLBCL in 2012 by [Lohr JG](https://pubmed.ncbi.nlm.nih.gov/22343534)
 
 
  ## BRAF Hotspots
@@ -60,14 +59,14 @@ timeline
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/BRAF_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/BRAF_protein_hg38.html)
 
-![image](images/proteinpaint/BRAF_NM_004333.svg)
+![](images/proteinpaint/BRAF_NM_004333.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/BRAF.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/BRAF_hg38.html)
 
-![image](images/proteinpaint/BRAF.svg)
+![](images/proteinpaint/BRAF.svg)
 
 ## BRAF Expression
-![image](images/gene_expression/BRAF_by_pathology.svg)
+![](images/gene_expression/BRAF_by_pathology.svg)
 
 ## References
 1. *Tiacci E, Trifonov V, Schiavoni G, Holmes A, Kern W, Martelli MP, Pucciarini A, Bigerna B, Pacini R, Wells VA, Sportoletti P, Pettirossi V, Mannucci R, Elliott O, Liso A, Ambrosetti A, Pulsoni A, Forconi F, Trentin L, Semenzato G, Inghirami G, Capponi M, Di Raimondo F, Patti C, Arcaini L, Musto P, Pileri S, Haferlach C, Schnittger S, Pizzolo G, Foà R, Farinelli L, Haferlach T, Pasqualucci L, Rabadan R, Falini B. BRAF mutations in hairy-cell leukemia. N Engl J Med. 2011 Jun 16;364(24):2305-15. doi: 10.1056/NEJMoa1014209. Epub 2011 Jun 11. PMID: 21663470; PMCID: PMC3689585.*

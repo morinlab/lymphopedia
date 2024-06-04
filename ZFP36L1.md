@@ -1,4 +1,5 @@
 # ZFP36L1
+
 ## Overview
 ZFP36L1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus.
 ## History
@@ -10,6 +11,7 @@ timeline
       2015-02-12 : Reichel : PMBL
       2019-09-26 : Panea : BL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description                           |
@@ -48,13 +50,14 @@ timeline
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ZFP36L1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ZFP36L1_protein_hg38.html)
 
-![image](images/proteinpaint/ZFP36L1_NM_004926.svg)
+![](images/proteinpaint/ZFP36L1_NM_004926.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ZFP36L1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ZFP36L1_hg38.html)
 
-![image](images/proteinpaint/ZFP36L1.svg)
+![](images/proteinpaint/ZFP36L1.svg)
+
 ## ZFP36L1 Expression
-![image](images/gene_expression/ZFP36L1_by_pathology.svg)
+![](images/gene_expression/ZFP36L1_by_pathology.svg)
 
 ## References
 1.  Morin RD, Mendez-Lago M, Mungall AJ, Goya R, Mungall KL, Corbett RD, Johnson NA, Severson TM, Chiu R, Field M, Jackman S, Krzywinski M, Scott DW, Trinh DL, Tamura-Wells J, Li S, Firme MR, Rogic S, Griffith M, Chan S, Yakovenko O, Meyer IM, Zhao EY, Smailus D, Moksa M, Chittaranjan S, Rimsza L, Brooks-Wilson A, Spinelli JJ, Ben-Neriah S, Meissner B, Woolcock B, Boyle M, McDonald H, Tam A, Zhao Y, Delaney A, Zeng T, Tse K, Butterfield Y, Birol I, Holt R, Schein J, Horsman DE, Moore R, Jones SJM, Connors JM, Hirst M, Gascoyne RD, Marra MA. Frequent mutation of histone-modifying genes in non-Hodgkin lymphoma. Nature. 2011 Jul 27;476(7360):298–303. PMCID: PMC3210554

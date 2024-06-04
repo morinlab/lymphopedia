@@ -9,6 +9,7 @@ timeline
     title Publication timing
       2021-05-05 : H : DLBCL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description                              |
@@ -28,9 +29,10 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/N2RF2.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/N2RF2_hg38.html)
 
-![image](images/proteinpaint/N2RF2.svg)
+![](images/proteinpaint/N2RF2.svg)
+
 ## N2RF2 Expression
-![image](images/gene_expression/N2RF2_by_pathology.svg)
+![](images/gene_expression/N2RF2_by_pathology.svg)
 
 
 ## References

@@ -1,4 +1,5 @@
 # IKZF3
+
 ## Overview
 IKZF3 (IKAROS family zinc finger 3, also known as AIOLOS) is a transcription factor involved in regulating B-cell development and function. Mutations in IKZF3 can lead to transcriptional dysregulation and contribute to the pathogenesis of B-cell neoplasms. IKZF3 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus. IKZF3 has multiple hot spot mutations in DLBCL. The most common, L162R, has been identified as a driver in CLL. In that context, it alters DNA binding specificity and causes hyperactivation of B-cell receptor (BCR) signaling and overexpression of NF-κB target genes.<sup>1</sup> While primarily studied in CLL, the functional effects of IKZF3 mutations could have implications for other B-cell malignancies, including DLBCL 
 ## History
@@ -9,6 +10,7 @@ timeline
       2013-08-15 : Morin : DLBCL
       2019-09-26 : Panea : BL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description                           |
@@ -43,8 +45,6 @@ timeline
 |chr17   |37928959  |37940119|[TSS-1](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr17%3A37928959%2D37940119)|NA                |
 |chr17   |38015776  |38024832|[TSS-2](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr17%3A38015776%2D38024832)|NA                |
 
-> [!NOTE]
-> First described in BL in 2019 by [Panea RI](https://pubmed.ncbi.nlm.nih.gov/31558468). First described in DLBCL in 2013 by [Morin RD](https://pubmed.ncbi.nlm.nih.gov/23699601)
 
  ## IKZF3 Hotspots
 
@@ -70,16 +70,16 @@ timeline
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/IKZF3_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/IKZF3_protein_hg38.html)
 
-![image](images/proteinpaint/IKZF3_NM_012481.svg)
+![](images/proteinpaint/IKZF3_NM_012481.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/IKZF3.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/IKZF3_hg38.html)
 
-![image](images/proteinpaint/IKZF3.svg)
+![](images/proteinpaint/IKZF3.svg)
 
 ## References
 1. *Lazarian, G., Yin, S., Hacken, E., Sewastianik, T., Uduman, M., Font-Tello, A., Gohil, S., Li, S., Kim, E., Joyal, H., Billington, L., Witten, E., Zheng, M., Huang, T., Severgnini, M., Lefebvre, V., Rassenti, L., Gutierrez, C., Georgopoulos, K., Ott, C., Wang, L., Kipps, T., Burger, J., Livak, K., Neuberg, D., Baran-Marszak, F., Cymbalista, F., Carrasco, R., & Wu, C. (2021). A hotspot mutation in transcription factor IKZF3 drives B cell neoplasia via transcriptional dysregulation.. Cancer cell, 39 3, 380-393.e8 . https://doi.org/10.1016/j.ccell.2021.02.003.*
 ## IKZF3 Expression
-![image](images/gene_expression/IKZF3_by_pathology.svg)
+![](images/gene_expression/IKZF3_by_pathology.svg)
 <!-- ORIGIN: morinMutationalStructuralAnalysis2013 -->
 <!-- DLBCL: morinMutationalStructuralAnalysis2013 -->
 <!-- BL: paneaWholeGenomeLandscape2019 -->

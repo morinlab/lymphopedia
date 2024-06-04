@@ -1,4 +1,5 @@
 # ST6GAL1
+
 ## History
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
@@ -6,6 +7,7 @@ timeline
     title Publication timing
       2018-10-01 : Arthur : DLBCL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description                              |
@@ -41,14 +43,16 @@ timeline
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ST6GAL1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ST6GAL1_protein_hg38.html)
 
-![image](images/proteinpaint/ST6GAL1_NM_173216.svg)
+![](images/proteinpaint/ST6GAL1_NM_173216.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ST6GAL1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ST6GAL1_hg38.html)
 
-![image](images/proteinpaint/ST6GAL1.svg)
+![](images/proteinpaint/ST6GAL1.svg)
+
 ## ST6GAL1 Expression
-![image](images/gene_expression/ST6GAL1_by_pathology.svg)
+![](images/gene_expression/ST6GAL1_by_pathology.svg)
 <!-- ORIGIN: arthurGenomewideDiscoverySomatic2018 -->
 <!-- DLBCL: arthurGenomewideDiscoverySomatic2018 -->
+
 ## References
 1.  Arthur SE, Jiang A, Grande BM, Alcaide M, Cojocaru R, Rushton CK, Mottok A, Hilton LK, Lat PK, Zhao EY, Culibrk L, Ennishi D, Jessa S, Chong L, Thomas N, Pararajalingam P, Meissner B, Boyle M, Davidson J, Bushell KR, Lai D, Farinha P, Slack GW, Morin GB, Shah S, Sen D, Jones SJM, Mungall AJ, Gascoyne RD, Audas TE, Unrau P, Marra MA, Connors JM, Steidl C, Scott DW, Morin RD. Genome-wide discovery of somatic regulatory variants in diffuse large B-cell lymphoma. Nat Commun. 2018 Oct 1;9(1):4001. PMCID: PMC6167379

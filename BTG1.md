@@ -1,4 +1,5 @@
 # BTG1
+
 ## Overview
 BTG1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus. These mutations are a feature of the MCD genetic subgroup of DLBCL.<sup>1</sup>  Mutations in the BTG1 gene have been implicated in the pathogenesis and progression of diffuse large B-cell lymphoma (DLBCL) through functional exploration in vivo. Knock-out of BTG1 did not lead to spontaneous lymphomagenesis but enhanced the lymphoproliferation induced by VavP-BCL2 and promoted lymphoma dissemination in xenotransplantation experiments.<sup>2</sup>  Another study demonstrated that specific BTG1 mutations afford germinal center (GC) B cells with a fitness advantage relative to un-mutated counterparts.<sup>3</sup> 
 
@@ -10,6 +11,7 @@ timeline
       2021-04-01 : Sarkozy : PMBL
       2022-07-06 : Burkhardt : BL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description                           |
@@ -77,20 +79,21 @@ timeline
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/BTG1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/BTG1_protein_hg38.html)
 
-![image](images/proteinpaint/BTG1_NM_001731.svg)
+![](images/proteinpaint/BTG1_NM_001731.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/BTG1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/BTG1_hg38.html)
 
-![image](images/proteinpaint/BTG1.svg)
+![](images/proteinpaint/BTG1.svg)
 
 ## BTG1 Expression
-![image](images/gene_expression/BTG1_by_pathology.svg)
+![](images/gene_expression/BTG1_by_pathology.svg)
 
 
 <!-- ORIGIN: morinFrequentMutationHistonemodifying2011 -->
 <!-- DLBCL: morinFrequentMutationHistonemodifying2011 -->
 <!-- BL: burkhardtClinicalRelevanceMolecular2022b -->
 <!-- BL: burkhardtClinicalRelevanceMolecular2022b -->
+
 ## References
 
 1. *Wright GW, Huang DW, Phelan JD, Coulibaly ZA, Roulland S, Young RM, Wang JQ, Schmitz R, Morin RD, Tang J, Jiang A, Bagaev A, Plotnikova O, Kotlov N, Johnson CA, Wilson WH, Scott DW, Staudt LM. A Probabilistic Classification Tool for Genetic Subtypes of Diffuse Large B Cell Lymphoma with Therapeutic Implications. Cancer Cell. 2020 Apr 13;37(4):551-568.e14. doi: 10.1016/j.ccell.2020.03.015. PMID: 32289277; PMCID: PMC8459709.*

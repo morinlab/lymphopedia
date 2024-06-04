@@ -1,4 +1,5 @@
 # STAT6
+
 ## Overview
 The STAT6 gene, which encodes a transcription factor involved in the JAK-STAT signaling pathway, plays a significant role in the pathogenesis of various lymphomas, including diffuse large B-cell lymphoma (DLBCL). Below is a summary of the common mutations in the STAT6 gene identified in DLBCL. Mutations in the DNA binding domain of STAT6 are common in PMBCL and more rare in DLBCL. 
 ## History
@@ -9,6 +10,7 @@ timeline
       2009-08-06 : Ritz : PMBL
       2015-01-22 : Yildiz : DLBCL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description                           |
@@ -60,17 +62,17 @@ Recurrent mutations at the D419 amino acid residue are a common feature in DLBCL
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/STAT6_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/STAT6_protein_hg38.html)
 
-![image](images/proteinpaint/STAT6_NM_003153.svg)
+![](images/proteinpaint/STAT6_NM_003153.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/STAT6.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/STAT6_hg38.html)
 
-![image](images/proteinpaint/STAT6.svg)
+![](images/proteinpaint/STAT6.svg)
 
 ## References
 
 1. *Morin RD, Assouline S, Alcaide M, Mohajeri A, Johnston RL, Chong L, Grewal J, Yu S, Fornika D, Bushell K, Nielsen TH, Petrogiannis-Haliotis T, Crump M, Tosikyan A, Grande BM, MacDonald D, Rousseau C, Bayat M, Sesques P, Froment R, Albuquerque M, Monczak Y, Oros KK, Greenwood C, Riazalhosseini Y, Arseneault M, Camlioglu E, Constantin A, Pan-Hammarstrom Q, Peng R, Mann KK, Johnson NA. Genetic Landscapes of Relapsed and Refractory Diffuse Large B-Cell Lymphomas. Clin Cancer Res. 2016 May 1;22(9):2290-300. doi: 10.1158/1078-0432.CCR-15-2123. Epub 2015 Dec 8. PMID: 26647218.*
 ## STAT6 Expression
-![image](images/gene_expression/STAT6_by_pathology.svg)
+![](images/gene_expression/STAT6_by_pathology.svg)
 <!-- ORIGIN: yildizActivatingSTAT6Mutations2015c -->
 <!-- PMBL: ritzRecurrentMutationsSTAT62009a -->
 <!-- FL: yildizActivatingSTAT6Mutations2015c -->

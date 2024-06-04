@@ -32,12 +32,14 @@
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/NCOA3_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/NCOA3_protein_hg38.html)
 
-![image](images/proteinpaint/NCOA3_NM_181659.svg)
+![](images/proteinpaint/NCOA3_NM_181659.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/NCOA3.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/NCOA3_hg38.html)
 
-![image](images/proteinpaint/NCOA3.svg)
+![](images/proteinpaint/NCOA3.svg)
+
 ## NCOA3 Expression
-![image](images/gene_expression/NCOA3_by_pathology.svg)
+![](images/gene_expression/NCOA3_by_pathology.svg)
 <!-- ORIGIN: Unknown -->
+
 ## References

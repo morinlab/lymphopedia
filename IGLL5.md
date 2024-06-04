@@ -1,4 +1,5 @@
 # IGLL5
+
 ## History
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
@@ -8,6 +9,7 @@ timeline
       2019-09-26 : Panea : BL
       2023-07-26 : Russler : FL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description                              |
@@ -44,19 +46,18 @@ timeline
 |:--------:|:----------:|:--------:|:------------------------------------------------------------------------------------------:|:------------------:|
 |chr22   |23229554  |23232042|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr22%3A23229554%2D23232042)|NA                |
 
-> [!NOTE]
-> First described in FL in 2023 by [Russler-Germain DA](https://pubmed.ncbi.nlm.nih.gov/37493986)
 
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/IGLL5_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/IGLL5_protein_hg38.html)
 
-![image](images/proteinpaint/IGLL5_NM_001178126.svg)
+![](images/proteinpaint/IGLL5_NM_001178126.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/IGLL5.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/IGLL5_hg38.html)
 
-![image](images/proteinpaint/IGLL5.svg)
+![](images/proteinpaint/IGLL5.svg)
+
 ## IGLL5 Expression
-![image](images/gene_expression/IGLL5_by_pathology.svg)
+![](images/gene_expression/IGLL5_by_pathology.svg)
 
 ## References
 1.  Desch AK, Hartung K, Botzen A, Brobeil A, Rummel M, Kurch L, Georgi T, Jox T, Bielack S, Burdach S, Classen CF, Claviez A, Debatin KM, Ebinger M, Eggert A, Faber J, Flotho C, Frühwald M, Graf N, Jorch N, Kontny U, Kramm C, Kulozik A, Kühr J, Sykora KW, Metzler M, Müller HL, Nathrath M, Nüßlein T, Paulussen M, Pekrun A, Reinhardt D, Reinhard H, Rössig C, Sauerbrey A, Schlegel PG, Schneider DT, Scheurlen W, Schweigerer L, Simon T, Suttorp M, Vorwerk P, Schmitz R, Kluge R, Mauz-Körholz C, Körholz D, Gattenlöhner S, Bräuninger A. Genotyping circulating tumor DNA of pediatric Hodgkin lymphoma. Leukemia. 2020 Jan;34(1):151–166. PMID: 31431735

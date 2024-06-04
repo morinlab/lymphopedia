@@ -1,4 +1,5 @@
 # CIITA
+
 ## Overview
 CIITA encodes the major histocompatibility complex (MHC) class II transactivator.  CIITA mutations are frequent in PMBCL. These mutations often include structural genomic rearrangements, missense, nonsense, and frameshift mutations. In PMBCL, these mutations are thought to contribute to loss of MHC expression.<sup>1</sup>  Although loss of CIITA and MHC Class II Expression is commonly observed in DLBCL, the role of mutations and methylation affecting this locus remains unclear.<sup>2</sup> CIITA is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus.
 
@@ -9,6 +10,7 @@ timeline
       2011-07-27 : Morin : DLBCL
       2015-11-17 : Mottok : PMBL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description               |
@@ -39,20 +41,18 @@ timeline
 |:--------:|:----------:|:--------:|:------------------------------------------------------------------------------------------:|:-------------------------------:|
 |chr16   |10970795  |10975465|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr16%3A10970795%2D10975465)|active_promoter-strong_enhancer|
 
-> [!NOTE]
-> First described in DLBCL in 2011 by [Morin RD](https://pubmed.ncbi.nlm.nih.gov/21796119)
 
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CIITA_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CIITA_protein_hg38.html)
 
-![image](images/proteinpaint/CIITA_NM_000246.svg)
+![](images/proteinpaint/CIITA_NM_000246.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CIITA.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CIITA_hg38.html)
 
-![image](images/proteinpaint/CIITA.svg)
+![](images/proteinpaint/CIITA.svg)
 
 ## CIITA Expression
-![image](images/gene_expression/CIITA_by_pathology.svg)
+![](images/gene_expression/CIITA_by_pathology.svg)
 
 ## References
 1. *Mottok, A., Woolcock, B., Chan, F., Tong, K., Chong, L., Farinha, P., Telenius, A., Chavez, E., Ramchandani, S., Drake, M., Boyle, M., Ben-Neriah, S., Scott, D., Rimsza, L., Siebert, R., Gascoyne, R., & Steidl, C. (2015). Genomic Alterations in CIITA Are Frequent in Primary Mediastinal Large B Cell Lymphoma and Are Associated with Diminished MHC Class II Expression.. Cell reports, 13 7, 1418-1431 . https://doi.org/10.1016/j.celrep.2015.10.008.*

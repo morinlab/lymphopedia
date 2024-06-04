@@ -1,4 +1,5 @@
 # NFKB1
+
 ## Overview
 Mutations in this gene are relatively rare in DLBCL overall. Some hotspots have been identified in DLBCL. *Without further support, this gene may be migrated to Tier 2.*
 
@@ -38,14 +39,16 @@ Mutations in this gene are relatively rare in DLBCL overall. Some hotspots have 
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/NFKB1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/NFKB1_protein_hg38.html)
 
-![image](images/proteinpaint/NFKB1_NM_003998.svg)
+![](images/proteinpaint/NFKB1_NM_003998.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/NFKB1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/NFKB1_hg38.html)
 
-![image](images/proteinpaint/NFKB1.svg)
+![](images/proteinpaint/NFKB1.svg)
 
 ## NFKB1 Expression
-![image](images/gene_expression/NFKB1_by_pathology.svg)
+![](images/gene_expression/NFKB1_by_pathology.svg)
 
 <!-- FLAGGED FOR TIER 2 -->
 <!-- ORIGIN: Unknown -->
+
+## References

@@ -1,4 +1,5 @@
 # CHD8
+
 ## History
 Mutations in this gene were first described in DLBCL in 2017 by Reddy et al<sup>1</sup> and in BL in 2019 by Grande et al.<sup>2</sup>
 
@@ -9,6 +10,7 @@ timeline
       2017-10-10 : Reddy : DLBCL
       2019-03-21 : Grande : BL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description                              |
@@ -40,14 +42,14 @@ timeline
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CHD8_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CHD8_protein_hg38.html)
 
-![image](images/proteinpaint/CHD8_NM_001170629.svg)
+![](images/proteinpaint/CHD8_NM_001170629.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CHD8.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CHD8_hg38.html)
 
-![image](images/proteinpaint/CHD8.svg)
+![](images/proteinpaint/CHD8.svg)
 
 ## CHD8 Expression
-![image](images/gene_expression/CHD8_by_pathology.svg)
+![](images/gene_expression/CHD8_by_pathology.svg)
 
 ## References
 

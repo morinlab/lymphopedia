@@ -1,4 +1,5 @@
 # MYOM2
+
 ## Overview
 The prevalence of MYOM2 mutations in DLBCL varies across studies. The role of these mutations in lymphomagenesis has not been thoroughly explored. 
 ## History
@@ -8,6 +9,7 @@ timeline
     title Publication timing
       2011-07-31 : Pasqualucci : DLBCL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description               |
@@ -32,18 +34,18 @@ timeline
 |FL    |No  |No                   |0.649           |12.057          |
 
 
-> [!NOTE]
-> First described in DLBCL in 2011 by [Pasqualucci L](https://pubmed.ncbi.nlm.nih.gov/21804550)
 
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/MYOM2_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/MYOM2_protein_hg38.html)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/MYOM2.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/MYOM2_hg38.html)
 
-![image](images/proteinpaint/MYOM2.svg)
+![](images/proteinpaint/MYOM2.svg)
+
 ## MYOM2 Expression
-![image](images/gene_expression/MYOM2_by_pathology.svg)
+![](images/gene_expression/MYOM2_by_pathology.svg)
 <!-- ORIGIN: pasqualucciAnalysisCodingGenome2011 -->
 <!-- DLBCL: pasqualucciAnalysisCodingGenome2011 -->
+
 ## References
 1.  Pasqualucci L, Trifonov V, Fabbri G, Ma J, Rossi D, Chiarenza A, Wells VA, Grunn A, Messina M, Elliot O, Chan J, Bhagat G, Chadburn A, Gaidano G, Mullighan CG, Rabadan R, Dalla-Favera R. Analysis of the coding genome of diffuse large B-cell lymphoma. Nat Genet. 2011 Jul 31;43(9):830–837. PMCID: PMC3297422

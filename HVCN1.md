@@ -1,4 +1,5 @@
 # HVCN1
+
 ## Overview
 HVCN1, a voltage-gated proton channel, has been identified as recurrently mutated in follicular lymphoma and mutations also appear in some DLBCL.<sup>1</sup> HVCN1 mutations disrupt its normal function, affecting B-cell receptor (BCR) signaling pathways.<sup>1</sup> This gene has some recurrent sites of mutations (hot spots) but the function of these mutations is not well understood. The mutation pattern in DLBCL and FL implies the preferential accumulation of *inactivating mutations*.
 ## History
@@ -8,6 +9,7 @@ timeline
     title Publication timing
       2017-01-26 : Krysiak : FL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description                           |
@@ -49,15 +51,15 @@ timeline
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/HVCN1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/HVCN1_protein_hg38.html)
 
-![image](images/proteinpaint/HVCN1_NM_001040107.svg)
+![](images/proteinpaint/HVCN1_NM_001040107.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/HVCN1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/HVCN1_hg38.html)
 
-![image](images/proteinpaint/HVCN1.svg)
+![](images/proteinpaint/HVCN1.svg)
 
 ## References
 1. *Krysiak, K., Gomez, F., White, B., Matlock, M., Miller, C., Trani, L., Fronick, C., Fulton, R., Kreisel, F., Cashen, A., Carson, K., Berrien-Elliott, M., Bartlett, N., Griffith, M., Griffith, O., & Fehniger, T. (2017). Recurrent somatic mutations affecting B-cell receptor signaling pathway genes in follicular lymphoma.. Blood, 129 4, 473-483 . https://doi.org/10.1182/blood-2016-07-729954.*
 ## HVCN1 Expression
-![image](images/gene_expression/HVCN1_by_pathology.svg)
+![](images/gene_expression/HVCN1_by_pathology.svg)
 <!-- ORIGIN: krysiakRecurrentSomaticMutations2017b -->
 <!-- FL: krysiakRecurrentSomaticMutations2017b -->

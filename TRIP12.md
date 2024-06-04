@@ -27,12 +27,14 @@
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/TRIP12_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/TRIP12_protein_hg38.html)
 
-![image](images/proteinpaint/TRIP12_NM_004238.svg)
+![](images/proteinpaint/TRIP12_NM_004238.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/TRIP12.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/TRIP12_hg38.html)
 
-![image](images/proteinpaint/TRIP12.svg)
+![](images/proteinpaint/TRIP12.svg)
+
 ## TRIP12 Expression
-![image](images/gene_expression/TRIP12_by_pathology.svg)
+![](images/gene_expression/TRIP12_by_pathology.svg)
 <!-- ORIGIN: Unknown -->
+
 ## References

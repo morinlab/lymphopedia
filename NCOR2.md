@@ -1,4 +1,5 @@
 # NCOR2
+
 ## Overview
 Mutations in this gene are relatively rare in DLBCL overall but show a pattern of inactivation. *Without further support, this gene may be migrated to Tier 2.*
 ## History
@@ -10,6 +11,7 @@ timeline
       2016-09-08 : Spina : MZL
       2021-04-01 : Sarkozy : PMBL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description                           |
@@ -40,8 +42,6 @@ timeline
 |FL    |No  |No                   |0.985           |0.000           |
 
 
-> [!NOTE]
-> First described in BL in 2022 by [Burkhardt B](https://pubmed.ncbi.nlm.nih.gov/35794096)
 
 
  ## NCOR2 Hotspots
@@ -51,20 +51,21 @@ timeline
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/NCOR2_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/NCOR2_protein_hg38.html)
 
-![image](images/proteinpaint/NCOR2_NM_006312.svg)
+![](images/proteinpaint/NCOR2_NM_006312.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/NCOR2.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/NCOR2_hg38.html)
 
-![image](images/proteinpaint/NCOR2.svg)
+![](images/proteinpaint/NCOR2.svg)
 
 ## NCOR2 Expression
-![image](images/gene_expression/NCOR2_by_pathology.svg)
+![](images/gene_expression/NCOR2_by_pathology.svg)
 
 <!-- FLAGGED FOR TIER 2 -->
 <!-- ORIGIN: schmitzBurkittLymphomaPathogenesis2012 -->
 <!-- MZL: spinaGeneticsNodalMarginal2016b -->
 <!-- BL: schmitzBurkittLymphomaPathogenesis2012 -->
 <!-- BL: schmitzBurkittLymphomaPathogenesis2012 -->
+
 ## References
 1.  Schmitz R, Young RM, Ceribelli M, Jhavar S, Xiao W, Zhang M, Wright G, Shaffer AL, Hodson DJ, Buras E, Liu X, Powell J, Yang Y, Xu W, Zhao H, Kohlhammer H, Rosenwald A, Kluin P, Müller-Hermelink HK, Ott G, Gascoyne RD, Connors JM, Rimsza LM, Campo E, Jaffe ES, Delabie J, Smeland EB, Ogwang MD, Reynolds SJ, Fisher RI, Braziel RM, Tubbs RR, Cook JR, Weisenburger DD, Chan WC, Pittaluga S, Wilson W, Waldmann TA, Rowe M, Mbulaiteye SM, Rickinson AB, Staudt LM. Burkitt lymphoma pathogenesis and therapeutic targets from structural and functional genomics. Nature. 2012 Oct 4;490(7418):116–120. PMCID: PMC3609867
 2.  Spina V, Khiabanian H, Messina M, Monti S, Cascione L, Bruscaggin A, Spaccarotella E, Holmes AB, Arcaini L, Lucioni M, Tabbò F, Zairis S, Diop F, Cerri M, Chiaretti S, Marasca R, Ponzoni M, Deaglio S, Ramponi A, Tiacci E, Pasqualucci L, Paulli M, Falini B, Inghirami G, Bertoni F, Foà R, Rabadan R, Gaidano G, Rossi D. The genetics of nodal marginal zone lymphoma. Blood. 2016 Sep 8;128(10):1362–1373. 

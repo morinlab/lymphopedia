@@ -1,4 +1,5 @@
 # MCL1
+
 ## Overview
 MCL1 (Myeloid Cell Leukemia 1) is a member of the BCL2 family of proteins that play a critical role in inhibiting apoptosis. It is frequently overexpressed and sometimes mutated in DLBCL.<sup>1,2</sup> Recurrent chromosomal gains and amplifications of the MCL1 locus occur are frequent in ABC-DLBCLs.<sup>1</sup>  MCL1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus.
 ## History
@@ -10,6 +11,7 @@ timeline
       2019-09-26 : Panea : BL
       2021-07-15 : Duns : PMBL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description                           |
@@ -47,14 +49,14 @@ timeline
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/MCL1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/MCL1_protein_hg38.html)
 
-![image](images/proteinpaint/MCL1_NM_021960.svg)
+![](images/proteinpaint/MCL1_NM_021960.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/MCL1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/MCL1_hg38.html)
 
-![image](images/proteinpaint/MCL1.svg)
+![](images/proteinpaint/MCL1.svg)
 
 ## MCL1 Expression
-![image](images/gene_expression/MCL1_by_pathology.svg)
+![](images/gene_expression/MCL1_by_pathology.svg)
 
 
 

@@ -1,4 +1,5 @@
 # PDS5B
+
 ## History
 Mutations in this gene were first described in DLBCL in 2013 by Morin et al<sup>1</sup> and in FL in 2021 by Hübschmann et al.<sup>2</sup>
 
@@ -9,6 +10,7 @@ timeline
       2013-08-15 : Morin : DLBCL
       2021-05-05 : H : FL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description                              |
@@ -36,13 +38,14 @@ timeline
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PDS5B_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PDS5B_protein_hg38.html)
 
-![image](images/proteinpaint/PDS5B_NM_015032.svg)
+![](images/proteinpaint/PDS5B_NM_015032.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PDS5B.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PDS5B_hg38.html)
 
-![image](images/proteinpaint/PDS5B.svg)
+![](images/proteinpaint/PDS5B.svg)
+
 ## PDS5B Expression
-![image](images/gene_expression/PDS5B_by_pathology.svg)
+![](images/gene_expression/PDS5B_by_pathology.svg)
 
 ## References
 1.  Morin RD, Mungall K, Pleasance E, Mungall AJ, Goya R, Huff RD, Scott DW, Ding J, Roth A, Chiu R, Corbett RD, Chan FC, Mendez-Lago M, Trinh DL, Bolger-Munro M, Taylor G, Hadj Khodabakhshi A, Ben-Neriah S, Pon J, Meissner B, Woolcock B, Farnoud N, Rogic S, Lim EL, Johnson NA, Shah S, Jones S, Steidl C, Holt R, Birol I, Moore R, Connors JM, Gascoyne RD, Marra MA. Mutational and structural analysis of diffuse large B-cell lymphoma using whole-genome sequencing. Blood. 2013 Aug 15;122(7):1256–1265. PMCID: PMC3744992

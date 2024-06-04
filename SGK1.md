@@ -1,4 +1,5 @@
 # SGK1
+
 ## History
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
@@ -7,6 +8,7 @@ timeline
       2011-07-27 : Morin : FL
       2021-07-15 : Duns : PMBL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description                           |
@@ -39,23 +41,21 @@ timeline
 |:--------:|:----------:|:---------:|:---------------------------------------------------------------------------------------------:|:------------------:|
 |chr6    |134487960 |134499859|[TSS-1](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr6%3A134487960%2D134499859)|active_promoter   |
 
-> [!NOTE]
-> First described in DLBCL in 2011 by [Morin RD](https://pubmed.ncbi.nlm.nih.gov/21796119). First described in FL in 2011 by [Morin RD](https://pubmed.ncbi.nlm.nih.gov/21796119)
 
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/SGK1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/SGK1_protein_hg38.html)
 
-![image](images/proteinpaint/SGK1_NM_005627.svg)
+![](images/proteinpaint/SGK1_NM_005627.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/SGK1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/SGK1_hg38.html)
 
-![image](images/proteinpaint/SGK1.svg)
+![](images/proteinpaint/SGK1.svg)
 
 ## References
 1. *Morin RD, Mendez-Lago M, Mungall AJ, Goya R, Mungall KL, Corbett RD, Johnson NA, Severson TM, Chiu R, Field M, Jackman S, Krzywinski M, Scott DW, Trinh DL, Tamura-Wells J, Li S, Firme MR, Rogic S, Griffith M, Chan S, Yakovenko O, Meyer IM, Zhao EY, Smailus D, Moksa M, Chittaranjan S, Rimsza L, Brooks-Wilson A, Spinelli JJ, Ben-Neriah S, Meissner B, Woolcock B, Boyle M, McDonald H, Tam A, Zhao Y, Delaney A, Zeng T, Tse K, Butterfield Y, Birol I, Holt R, Schein J, Horsman DE, Moore R, Jones SJ, Connors JM, Hirst M, Gascoyne RD, Marra MA. Frequent mutation of histone-modifying genes in non-Hodgkin lymphoma. Nature. 2011 Jul 27;476(7360):298-303. doi: 10.1038/nature10351. PMID: 21796119; PMCID: PMC3210554.*
 
 ## SGK1 Expression
-![image](images/gene_expression/SGK1_by_pathology.svg)
+![](images/gene_expression/SGK1_by_pathology.svg)
 <!-- ORIGIN: morinFrequentMutationHistonemodifying2011 -->
 <!-- FL: morinFrequentMutationHistonemodifying2011 -->
 <!-- PMBL: dunsCharacterizationDLBCLPMBL2021b -->

@@ -1,4 +1,5 @@
 # PTPN1
+
 ## History
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
@@ -6,6 +7,7 @@ timeline
     title Publication timing
       2014-02-16 : Gunawardana : PMBL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description                              |
@@ -39,14 +41,16 @@ timeline
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PTPN1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PTPN1_protein_hg38.html)
 
-![image](images/proteinpaint/PTPN1_NM_002827.svg)
+![](images/proteinpaint/PTPN1_NM_002827.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PTPN1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PTPN1_hg38.html)
 
-![image](images/proteinpaint/PTPN1.svg)
+![](images/proteinpaint/PTPN1.svg)
+
 ## PTPN1 Expression
-![image](images/gene_expression/PTPN1_by_pathology.svg)
+![](images/gene_expression/PTPN1_by_pathology.svg)
 <!-- ORIGIN: gunawardanaRecurrentSomaticMutations2014c -->
 <!-- PMBL: gunawardanaRecurrentSomaticMutations2014c -->
+
 ## References
 1.  Gunawardana J, Chan FC, Telenius A, Woolcock B, Kridel R, Tan KL, Ben-Neriah S, Mottok A, Lim RS, Boyle M, Rogic S, Rimsza LM, Guiter C, Leroy K, Gaulard P, Haioun C, Marra MA, Savage KJ, Connors JM, Shah SP, Gascoyne RD, Steidl C. Recurrent somatic mutations of PTPN1 in primary mediastinal B cell lymphoma and Hodgkin lymphoma. Nat Genet. 2014 Apr;46(4):329–335. PMID: 24531327

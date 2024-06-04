@@ -1,4 +1,5 @@
 # STAT3
+
 ## History
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
@@ -6,6 +7,7 @@ timeline
     title Publication timing
       2014-07-01 : Ohgami : DLBCL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description                           |
@@ -31,8 +33,6 @@ timeline
 |FL    |No  |No                   |34.737          | 0.000          |
 
 
-> [!NOTE]
-> First described in DLBCL in 2014 by [Ohgami RS](https://pubmed.ncbi.nlm.nih.gov/24837465)
 
  ## STAT3 Hotspots
 
@@ -45,14 +45,16 @@ timeline
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/STAT3_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/STAT3_protein_hg38.html)
 
-![image](images/proteinpaint/STAT3_NM_139276.svg)
+![](images/proteinpaint/STAT3_NM_139276.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/STAT3.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/STAT3_hg38.html)
 
-![image](images/proteinpaint/STAT3.svg)
+![](images/proteinpaint/STAT3.svg)
+
 ## STAT3 Expression
-![image](images/gene_expression/STAT3_by_pathology.svg)
+![](images/gene_expression/STAT3_by_pathology.svg)
 <!-- ORIGIN: ohgamiSTAT3MutationsAre2014 -->
 <!-- DLBCL: ohgamiSTAT3MutationsAre2014 -->
+
 ## References
 1.  Ohgami RS, Ma L, Monabati A, Zehnder JL, Arber DA. STAT3 mutations are present in aggressive B-cell lymphomas including a subset of diffuse large B-cell lymphomas with CD30 expression. Haematologica. 2014 Jul;99(7):e105-107. PMCID: PMC4077094

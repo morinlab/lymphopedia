@@ -1,4 +1,5 @@
 # CYP2A6
+
 ## History
 
 ```mermaid
@@ -7,6 +8,7 @@ timeline
     title Publication timing
       2023-07-26 : Russler : FL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description                           |
@@ -28,20 +30,20 @@ timeline
 |FL    |No  |No                   |0.000           |0               |
 
 
-> [!NOTE]
-> First described in FL in 2023 by [Russler-Germain DA](https://pubmed.ncbi.nlm.nih.gov/37493986)
 
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CYP2A6_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CYP2A6_protein_hg38.html)
 
-![image](images/proteinpaint/CYP2A6_NM_000762.svg)
+![](images/proteinpaint/CYP2A6_NM_000762.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CYP2A6.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CYP2A6_hg38.html)
 
-![image](images/proteinpaint/CYP2A6.svg)
+![](images/proteinpaint/CYP2A6.svg)
+
 ## CYP2A6 Expression
-![image](images/gene_expression/CYP2A6_by_pathology.svg)
+![](images/gene_expression/CYP2A6_by_pathology.svg)
 <!-- ORIGIN: russler-germainMutationsAssociatedProgression2023a -->
 <!-- FL: russler-germainMutationsAssociatedProgression2023b -->
+
 ## References
 1.  Russler-Germain DA, Krysiak K, Ramirez CA, Mosior M, Watkins MP, Gomez F, Skidmore ZL, Trani L, Gao F, Geyer S, Cashen A, Mehta-Shah N, Kahl B, Bartlett N, Alderuccio J, Lossos I, Ondrejka S, Hsi E, Martin P, Leonard J, Griffith M, Griffith O, Fehniger T. Mutations associated with progression in follicular lymphoma predict inferior outcomes at diagnosis: Alliance A151303. Blood Advances. 2023;7:5524–5539. 

@@ -32,12 +32,15 @@
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/XBP1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/XBP1_protein_hg38.html)
 
-![image](images/proteinpaint/XBP1_NM_005080.svg)
+![](images/proteinpaint/XBP1_NM_005080.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/XBP1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/XBP1_hg38.html)
 
-![image](images/proteinpaint/XBP1.svg)
+![](images/proteinpaint/XBP1.svg)
+
 ## XBP1 Expression
-![image](images/gene_expression/XBP1_by_pathology.svg)
+![](images/gene_expression/XBP1_by_pathology.svg)
 
 <!-- FLAGGED FOR REMOVAL --><!-- ORIGIN: Unknown -->
+
+## References

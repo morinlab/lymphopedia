@@ -1,4 +1,5 @@
 # PRPS1
+
 ## History
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
@@ -6,6 +7,7 @@ timeline
     title Publication timing
       2018-05-01 : Chapuy : DLBCL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description                              |
@@ -34,14 +36,16 @@ timeline
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PRPS1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PRPS1_protein_hg38.html)
 
-![image](images/proteinpaint/PRPS1_NM_002764.svg)
+![](images/proteinpaint/PRPS1_NM_002764.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PRPS1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PRPS1_hg38.html)
 
-![image](images/proteinpaint/PRPS1.svg)
+![](images/proteinpaint/PRPS1.svg)
+
 ## PRPS1 Expression
-![image](images/gene_expression/PRPS1_by_pathology.svg)
+![](images/gene_expression/PRPS1_by_pathology.svg)
 <!-- ORIGIN: chapuyMolecularSubtypesDiffuse2018b -->
 <!-- DLBCL: chapuyMolecularSubtypesDiffuse2018b -->
+
 ## References
 1.  Chapuy B, Stewart C, Dunford AJ, Kim J, Kamburov A, Redd RA, Lawrence MS, Roemer MGM, Li AJ, Ziepert M, Staiger AM, Wala JA, Ducar MD, Leshchiner I, Rheinbay E, Taylor-Weiner A, Coughlin CA, Hess JM, Pedamallu CS, Livitz D, Rosebrock D, Rosenberg M, Tracy AA, Horn H, van Hummelen P, Feldman AL, Link BK, Novak AJ, Cerhan JR, Habermann TM, Siebert R, Rosenwald A, Thorner AR, Meyerson ML, Golub TR, Beroukhim R, Wulf GG, Ott G, Rodig SJ, Monti S, Neuberg DS, Loeffler M, Pfreundschuh M, Trümper L, Getz G, Shipp MA. Molecular subtypes of diffuse large B cell lymphoma are associated with distinct pathogenic mechanisms and outcomes. Nat Med. 2018 May;24(5):679–690. PMCID: PMC6613387

@@ -1,4 +1,5 @@
 # CXCR4
+
 ## Overview
 
 CXCR4 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus. No notable hot spots have been described in this gene in the context of the cancers listed below. The mutation pattern in DLBCL implies the preferential accumulation of *inactivating mutations*.
@@ -15,6 +16,7 @@ timeline
       2017-01-26 : Krysiak : FL
       2019-09-26 : Panea : BL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description                           |
@@ -51,19 +53,18 @@ timeline
 |:--------:|:----------:|:---------:|:----------------------------------------------------------------------------------------------:|:------------------:|
 |chr2    |136874728 |136875461|[intron](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr2%3A136874728%2D136875461)|weak_promoter     |
 
-> [!NOTE]
-> First described in BL in 2019 by [Panea RI](https://pubmed.ncbi.nlm.nih.gov/31558468). First described in DLBCL in 2012 by [Khodabakhshi AH](https://pubmed.ncbi.nlm.nih.gov/23131835). First described in FL in 2021 by [Hübschmann D](https://pubmed.ncbi.nlm.nih.gov/33953289)
 
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CXCR4_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CXCR4_protein_hg38.html)
 
-![image](images/proteinpaint/CXCR4_NM_001008540.svg)
+![](images/proteinpaint/CXCR4_NM_001008540.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CXCR4.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CXCR4_hg38.html)
 
-![image](images/proteinpaint/CXCR4.svg)
+![](images/proteinpaint/CXCR4.svg)
+
 ## CXCR4 Expression
-![image](images/gene_expression/CXCR4_by_pathology.svg)
+![](images/gene_expression/CXCR4_by_pathology.svg)
 
 ## References
 1.  Khodabakhshi AH, Morin RD, Fejes AP, Mungall AJ, Mungall KL, Bolger-Munro M, Johnson NA, Connors JM, Gascoyne RD, Marra MA, Birol I, Jones SJM. Recurrent targets of aberrant somatic hypermutation in lymphoma. Oncotarget. 2012 Nov 12;3(11):1308–1319. PMCID: PMC3717795

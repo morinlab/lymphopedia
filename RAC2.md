@@ -1,4 +1,5 @@
 # RAC2
+
 ## History
 Mutations in this gene were first described in BL in 2019 by Panea et al<sup>1</sup> and in DLBCL 2021 by Hübschmann et al.<sup>2</sup>
 
@@ -9,6 +10,7 @@ timeline
       2019-09-26 : Panea : BL
       2021-05-05 : Hübschmann : DLBCL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description                              |
@@ -46,13 +48,14 @@ timeline
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/RAC2_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/RAC2_protein_hg38.html)
 
-![image](images/proteinpaint/RAC2_NM_002872.svg)
+![](images/proteinpaint/RAC2_NM_002872.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/RAC2.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/RAC2_hg38.html)
 
-![image](images/proteinpaint/RAC2.svg)
+![](images/proteinpaint/RAC2.svg)
+
 ## RAC2 Expression
-![image](images/gene_expression/RAC2_by_pathology.svg)
+![](images/gene_expression/RAC2_by_pathology.svg)
 
 ## References
 

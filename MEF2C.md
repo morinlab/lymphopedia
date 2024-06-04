@@ -1,4 +1,5 @@
 # MEF2C
+
 ## Overview
 MEF2C is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus.
 ## History
@@ -8,6 +9,7 @@ timeline
     title Publication timing
       2018-10-01 : Arthur : DLBCL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description               |
@@ -44,14 +46,14 @@ timeline
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/MEF2C_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/MEF2C_protein_hg38.html)
 
-![image](images/proteinpaint/MEF2C_NM_002397.svg)
+![](images/proteinpaint/MEF2C_NM_002397.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/MEF2C.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/MEF2C_hg38.html)
 
-![image](images/proteinpaint/MEF2C.svg)
+![](images/proteinpaint/MEF2C.svg)
 
 ## MEF2C Expression
-![image](images/gene_expression/MEF2C_by_pathology.svg)
+![](images/gene_expression/MEF2C_by_pathology.svg)
 
 ## References
 

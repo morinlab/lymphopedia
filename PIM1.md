@@ -1,4 +1,5 @@
 # PIM1
+
 ## Overview
 PIM1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus.
 ## History
@@ -10,6 +11,7 @@ timeline
       2021-07-15 : Duns : PMBL
       2022-07-06 : Burkhardt : BL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description                           |
@@ -46,8 +48,6 @@ timeline
 |:--------:|:----------:|:--------:|:-----------------------------------------------------------------------------------------:|:------------------:|
 |chr6    |37138104  |37139804|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr6%3A37138104%2D37139804)|active_promoter   |
 
-> [!NOTE]
-> First described in BL in 2022 by [Burkhardt B](https://pubmed.ncbi.nlm.nih.gov/35794096). First described in DLBCL in 2001 by [Pasqualucci L](https://pubmed.ncbi.nlm.nih.gov/11460166)
 
 
  ## PIM1 Hotspots
@@ -77,17 +77,19 @@ timeline
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PIM1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PIM1_protein_hg38.html)
 
-![image](images/proteinpaint/PIM1_NM_002648.svg)
+![](images/proteinpaint/PIM1_NM_002648.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PIM1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PIM1_hg38.html)
 
-![image](images/proteinpaint/PIM1.svg)
+![](images/proteinpaint/PIM1.svg)
+
 ## PIM1 Expression
-![image](images/gene_expression/PIM1_by_pathology.svg)
+![](images/gene_expression/PIM1_by_pathology.svg)
 <!-- ORIGIN: pasqualucciHypermutationMultipleProtooncogenes2001a -->
 <!-- BL: burkhardtClinicalRelevanceMolecular2022b -->
 <!-- BL: burkhardtClinicalRelevanceMolecular2022b -->
 <!-- DLBCL: pasqualucciHypermutationMultipleProtooncogenes2001a -->
+
 ## References
 1.  Pasqualucci L, Neumeister P, Goossens T, Nanjangud G, Chaganti RS, Küppers R, Dalla-Favera R. Hypermutation of multiple proto-oncogenes in B-cell diffuse large-cell lymphomas. Nature. 2001 Jul 19;412(6844):341–346. PMID: 11460166
 2.  Duns G, Viganò E, Ennishi D, Sarkozy C, Hung SS, Chavez E, Takata K, Rushton C, Jiang A, Ben-Neriah S, Woolcock BW, Slack GW, Hsi ED, Craig JW, Hilton LK, Shah SP, Farinha P, Mottok A, Gascoyne RD, Morin RD, Savage KJ, Scott DW, Steidl C. Characterization of DLBCL with a PMBL gene expression signature. Blood. 2021 Jul 15;138(2):136–148. PMID: 33684939

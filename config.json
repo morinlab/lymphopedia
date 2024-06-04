@@ -1,0 +1,13 @@
+{
+  "startOnLoad": true,
+  "flowchart": {
+    "useMaxWidth": false,
+    "htmlLabels": true
+  },
+  "sankey": {
+    "height": 1000,
+    "width": 800,
+    "showValues": false,
+    "linkColor": "target"
+  }
+}

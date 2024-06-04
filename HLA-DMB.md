@@ -1,4 +1,5 @@
 # HLA-DMB
+
 ## Overview
 HLA-DMB, along with HLA-DMA, plays a critical role in the proper functioning of HLA class II molecules. These genes are essential for the loading of antigenic peptides onto HLA class II molecules, facilitating the presentation of these peptides to CD4+ T cells.
 
@@ -33,11 +34,14 @@ HLA-DMB, along with HLA-DMA, plays a critical role in the proper functioning of 
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/HLA-DMB_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/HLA-DMB_protein_hg38.html)
 
-![image](images/proteinpaint/HLA-DMB_NM_002118.svg)
+![](images/proteinpaint/HLA-DMB_NM_002118.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/HLA-DMB.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/HLA-DMB_hg38.html)
 
-![image](images/proteinpaint/HLA-DMB.svg)
+![](images/proteinpaint/HLA-DMB.svg)
+
 ## HLA-DMB Expression
-![image](images/gene_expression/HLA-DMB_by_pathology.svg)
+![](images/gene_expression/HLA-DMB_by_pathology.svg)
 <!-- ORIGIN: Unknown -->
+
+## References

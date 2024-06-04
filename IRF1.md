@@ -9,6 +9,7 @@ timeline
     title Publication timing
       2021-05-05 : H : DLBCL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description                              |
@@ -41,13 +42,14 @@ timeline
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/IRF1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/IRF1_protein_hg38.html)
 
-![image](images/proteinpaint/IRF1_NM_002198.svg)
+![](images/proteinpaint/IRF1_NM_002198.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/IRF1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/IRF1_hg38.html)
 
-![image](images/proteinpaint/IRF1.svg)
+![](images/proteinpaint/IRF1.svg)
+
 ## IRF1 Expression
-![image](images/gene_expression/IRF1_by_pathology.svg)
+![](images/gene_expression/IRF1_by_pathology.svg)
 
 
 ## References

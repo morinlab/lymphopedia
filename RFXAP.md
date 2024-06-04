@@ -27,11 +27,14 @@
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/RFXAP_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/RFXAP_protein_hg38.html)
 
-![image](images/proteinpaint/RFXAP_NM_000538.svg)
+![](images/proteinpaint/RFXAP_NM_000538.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/RFXAP.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/RFXAP_hg38.html)
 
-![image](images/proteinpaint/RFXAP.svg)
+![](images/proteinpaint/RFXAP.svg)
+
 ## RFXAP Expression
-![image](images/gene_expression/RFXAP_by_pathology.svg)
+![](images/gene_expression/RFXAP_by_pathology.svg)
 <!-- ORIGIN: Unknown -->
+
+## References

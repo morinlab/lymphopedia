@@ -1,4 +1,5 @@
 # CREBBP
+
 ## Overview
 CREBBP mutations are highly prevalent in both DLBCL and FL. These mutations often affect the histone acetyltransferase (HAT) domain, crucial for regulating gene expression through chromatin modification, or generate a truncated protein.<sup>1</sup> This gene has some recurrent sites of mutations (hotspots), mostly in the HAT domain. The pattern of mutations in DLBCL is distinct from FL with the latter having more HAT domain mutations relative to truncating mutations.<sup>2</sup>  
 
@@ -13,6 +14,7 @@ timeline
       2013-12-13 : Parry : MZL
       2021-07-15 : Duns : PMBL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description                           |
@@ -77,14 +79,14 @@ timeline
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CREBBP_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CREBBP_protein_hg38.html)
 
-![image](images/proteinpaint/CREBBP_NM_004380.svg)
+![](images/proteinpaint/CREBBP_NM_004380.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CREBBP.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CREBBP_hg38.html)
 
-![image](images/proteinpaint/CREBBP.svg)
+![](images/proteinpaint/CREBBP.svg)
 
 ## CREBBP Expression
-![image](images/gene_expression/CREBBP_by_pathology.svg)
+![](images/gene_expression/CREBBP_by_pathology.svg)
 <!-- ORIGIN: pasqualucciInactivatingMutationsAcetyltransferase2011a -->
 <!-- FL: pasqualucciInactivatingMutationsAcetyltransferase2011a -->
 <!-- BL: loveGeneticLandscapeMutations2012 -->

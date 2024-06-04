@@ -1,4 +1,5 @@
 # NOTCH2
+
 ## History
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
@@ -9,6 +10,7 @@ timeline
       2013-11-05 : Bea : MCL
       2019-09-26 : Panea : BL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description                           |
@@ -40,8 +42,6 @@ timeline
 |FL    |No  |No                   |0.000           | 0.000          |
 
 
-> [!NOTE]
-> First described in MCL in 2013 by [Beà S](https://pubmed.ncbi.nlm.nih.gov/24145436)
 
  ## NOTCH2 Hotspots
 
@@ -51,18 +51,20 @@ timeline
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/NOTCH2_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/NOTCH2_protein_hg38.html)
 
-![image](images/proteinpaint/NOTCH2_NM_024408.svg)
+![](images/proteinpaint/NOTCH2_NM_024408.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/NOTCH2.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/NOTCH2_hg38.html)
 
-![image](images/proteinpaint/NOTCH2.svg)
+![](images/proteinpaint/NOTCH2.svg)
+
 ## NOTCH2 Expression
-![image](images/gene_expression/NOTCH2_by_pathology.svg)
+![](images/gene_expression/NOTCH2_by_pathology.svg)
 <!-- ORIGIN: 18508802 -->
 <!-- DLBCL: troenNOTCH2MutationsMarginal2008 -->
 <!-- MCL: beaLandscapeSomaticMutations2013 -->
 <!-- MZL: rossiCodingGenomeSplenic2012c -->
 <!-- BL: paneaWholeGenomeLandscape2019 -->
+
 ## References
 1.  Trøen G, Wlodarska I, Warsame A, Hernández Llodrà S, De Wolf-Peeters C, Delabie J. NOTCH2 mutations in marginal zone lymphoma. Haematologica. 2008 Jul;93(7):1107–1109. PMID: 18508802
 2.  Rossi D, Trifonov V, Fangazio M, Bruscaggin A, Rasi S, Spina V, Monti S, Vaisitti T, Arruga F, Famà R, Ciardullo C, Greco M, Cresta S, Piranda D, Holmes A, Fabbri G, Messina M, Rinaldi A, Wang J, Agostinelli C, Piccaluga PP, Lucioni M, Tabbò F, Serra R, Franceschetti S, Deambrogi C, Daniele G, Gattei V, Marasca R, Facchetti F, Arcaini L, Inghirami G, Bertoni F, Pileri SA, Deaglio S, Foà R, Dalla-Favera R, Pasqualucci L, Rabadan R, Gaidano G. The coding genome of splenic marginal zone lymphoma: activation of NOTCH2 and other pathways regulating marginal zone development. J Exp Med. 2012 Aug 27;209(9):1537–1551. PMCID: PMC3428941

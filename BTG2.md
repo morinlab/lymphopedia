@@ -1,4 +1,5 @@
 # BTG2
+
 ## Overview
 BTG2 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus. Mutations in the BTG2 gene have been implicated in the pathogenesis of diffuse large B-cell lymphoma (DLBCL), contributing to the development and progression of the disease. These mutations are a feature of the MCD genetic subgroup of DLBCL.<sup>1</sup> The biological function of BTG2 mutations and their role in lymphomagenesis remains poorly understood. A potential prognostic association with BTG2 mutations in primary testicular DLBCL has been reported but this has not yet been reproduced.<sup>2</sup>
 ## History
@@ -10,6 +11,7 @@ timeline
       2011-07-27 : Morin : DLBCL
       2012-12-01 : Love : BL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description                           |
@@ -45,20 +47,18 @@ timeline
 |:--------:|:----------:|:---------:|:----------------------------------------------------------------------------------------------:|:------------------:|
 |chr1    |203274698 |203275778|[intron](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr1%3A203274698%2D203275778)|active_promoter   |
 
-> [!NOTE]
-> First described in BL in 2019 by [Panea RI](https://pubmed.ncbi.nlm.nih.gov/31558468). First described in DLBCL in 2011 by [Morin RD](https://pubmed.ncbi.nlm.nih.gov/21796119). First described in FL in 2011 by [Morin RD](https://pubmed.ncbi.nlm.nih.gov/21796119)
 
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/BTG2_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/BTG2_protein_hg38.html)
 
-![image](images/proteinpaint/BTG2_NM_006763.svg)
+![](images/proteinpaint/BTG2_NM_006763.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/BTG2.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/BTG2_hg38.html)
 
-![image](images/proteinpaint/BTG2.svg)
+![](images/proteinpaint/BTG2.svg)
 
 ## BTG2 Expression
-![image](images/gene_expression/BTG2_by_pathology.svg)
+![](images/gene_expression/BTG2_by_pathology.svg)
 
 ## References
 1. *Wright GW, Huang DW, Phelan JD, Coulibaly ZA, Roulland S, Young RM, Wang JQ, Schmitz R, Morin RD, Tang J, Jiang A, Bagaev A, Plotnikova O, Kotlov N, Johnson CA, Wilson WH, Scott DW, Staudt LM. A Probabilistic Classification Tool for Genetic Subtypes of Diffuse Large B Cell Lymphoma with Therapeutic Implications. Cancer Cell. 2020 Apr 13;37(4):551-568.e14. doi: 10.1016/j.ccell.2020.03.015. PMID: 32289277; PMCID: PMC8459709.*

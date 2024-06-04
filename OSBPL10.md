@@ -1,4 +1,5 @@
 # OSBPL10
+
 ## Overview
 OSBPL10 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus.
 ## History
@@ -8,6 +9,7 @@ timeline
     title Publication timing
       2018-10-01 : Arthur : DLBCL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description                           |
@@ -41,14 +43,16 @@ timeline
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/OSBPL10_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/OSBPL10_protein_hg38.html)
 
-![image](images/proteinpaint/OSBPL10_NM_017784.svg)
+![](images/proteinpaint/OSBPL10_NM_017784.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/OSBPL10.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/OSBPL10_hg38.html)
 
-![image](images/proteinpaint/OSBPL10.svg)
+![](images/proteinpaint/OSBPL10.svg)
+
 ## OSBPL10 Expression
-![image](images/gene_expression/OSBPL10_by_pathology.svg)
+![](images/gene_expression/OSBPL10_by_pathology.svg)
 <!-- ORIGIN: arthurGenomewideDiscoverySomatic2018 -->
 <!-- DLBCL: arthurGenomewideDiscoverySomatic2018 -->
+
 ## References
 1.  Arthur SE, Jiang A, Grande BM, Alcaide M, Cojocaru R, Rushton CK, Mottok A, Hilton LK, Lat PK, Zhao EY, Culibrk L, Ennishi D, Jessa S, Chong L, Thomas N, Pararajalingam P, Meissner B, Boyle M, Davidson J, Bushell KR, Lai D, Farinha P, Slack GW, Morin GB, Shah S, Sen D, Jones SJM, Mungall AJ, Gascoyne RD, Audas TE, Unrau P, Marra MA, Connors JM, Steidl C, Scott DW, Morin RD. Genome-wide discovery of somatic regulatory variants in diffuse large B-cell lymphoma. Nat Commun. 2018 Oct 1;9(1):4001. PMCID: PMC6167379

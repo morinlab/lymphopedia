@@ -1,4 +1,5 @@
 # TNFRSF14
+
 ## History
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
@@ -7,6 +8,7 @@ timeline
       2010-11-15 : Cheung : FL
       2016-09-08 : Spina : MZL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description                           |
@@ -34,8 +36,6 @@ timeline
 |FL    |No  |Yes                  |96.380          |1034.281        |
 
 
-> [!NOTE]
-> First described in DLBCL in 2010 by [Cheung KJ](https://pubmed.ncbi.nlm.nih.gov/20884631). First described in FL in 2011 by [Morin RD](https://pubmed.ncbi.nlm.nih.gov/21796119)
 
  ## TNFRSF14 Hotspots
 
@@ -56,14 +56,14 @@ timeline
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/TNFRSF14_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/TNFRSF14_protein_hg38.html)
 
-![image](images/proteinpaint/TNFRSF14_NM_003820.svg)
+![](images/proteinpaint/TNFRSF14_NM_003820.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/TNFRSF14.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/TNFRSF14_hg38.html)
 
-![image](images/proteinpaint/TNFRSF14.svg)
+![](images/proteinpaint/TNFRSF14.svg)
 
 ## TNFRSF14 Expression
-![image](images/gene_expression/TNFRSF14_by_pathology.svg)
+![](images/gene_expression/TNFRSF14_by_pathology.svg)
 
 ## References
 1. *Morin RD, Mendez-Lago M, Mungall AJ, Goya R, Mungall KL, Corbett RD, Johnson NA, Severson TM, Chiu R, Field M, Jackman S, Krzywinski M, Scott DW, Trinh DL, Tamura-Wells J, Li S, Firme MR, Rogic S, Griffith M, Ch$

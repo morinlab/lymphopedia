@@ -1,4 +1,5 @@
 # TNFAIP3
+
 ## History
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
@@ -8,6 +9,7 @@ timeline
       2009-06-04 : Compagno : DLBCL
       2011-11-03 : Rossi : MZL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description                           |
@@ -36,8 +38,6 @@ timeline
 |FL    |No  |No                   |5.686           |75.953          |
 
 
-> [!NOTE]
-> First described in DLBCL in 2009 by [Compagno M](https://pubmed.ncbi.nlm.nih.gov/19412164). First described in FL in 2011 by [Morin RD](https://pubmed.ncbi.nlm.nih.gov/21796119)
 
  ## TNFAIP3 Hotspots
 
@@ -49,15 +49,15 @@ timeline
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/TNFAIP3_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/TNFAIP3_protein_hg38.html)
 
-![image](images/proteinpaint/TNFAIP3_NM_006290.svg)
+![](images/proteinpaint/TNFAIP3_NM_006290.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/TNFAIP3.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/TNFAIP3_hg38.html)
 
-![image](images/proteinpaint/TNFAIP3.svg)
+![](images/proteinpaint/TNFAIP3.svg)
 
 ## TNFAIP3 Expression
 
-![image](images/gene_expression/TNFAIP3_by_pathology.svg)
+![](images/gene_expression/TNFAIP3_by_pathology.svg)
 
 ## References
 1. 

@@ -1,4 +1,5 @@
 # POU2F2
+
 ## History
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
@@ -7,6 +8,7 @@ timeline
       2013-01-01 : Zhang : DLBCL
       2017-01-26 : Krysiak : FL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description               |
@@ -46,16 +48,18 @@ timeline
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/POU2F2_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/POU2F2_protein_hg38.html)
 
-![image](images/proteinpaint/POU2F2_NM_002698.svg)
+![](images/proteinpaint/POU2F2_NM_002698.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/POU2F2.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/POU2F2_hg38.html)
 
-![image](images/proteinpaint/POU2F2.svg)
+![](images/proteinpaint/POU2F2.svg)
+
 ## POU2F2 Expression
-![image](images/gene_expression/POU2F2_by_pathology.svg)
+![](images/gene_expression/POU2F2_by_pathology.svg)
 <!-- ORIGIN: zhangGeneticHeterogeneityDiffuse2013 -->
 <!-- DLBCL: zhangGeneticHeterogeneityDiffuse2013 -->
 <!-- FL: krysiakRecurrentSomaticMutations2017b -->
+
 ## References
 1.  Zhang J, Grubor V, Love CL, Banerjee A, Richards KL, Mieczkowski PA, Dunphy C, Choi W, Au WY, Srivastava G, Lugar PL, Rizzieri DA, Lagoo AS, Bernal-Mizrachi L, Mann KP, Flowers C, Naresh K, Evens A, Gordon LI, Czader M, Gill JI, Hsi ED, Liu Q, Fan A, Walsh K, Jima D, Smith LL, Johnson AJ, Byrd JC, Luftig MA, Ni T, Zhu J, Chadburn A, Levy S, Dunson D, Dave SS. Genetic heterogeneity of diffuse large B-cell lymphoma. 2013 Jan; 
 2.  Krysiak K, Gomez F, White BS, Matlock M, Miller CA, Trani L, Fronick CC, Fulton RS, Kreisel F, Cashen AF, Carson KR, Berrien-Elliott MM, Bartlett NL, Griffith M, Griffith OL, Fehniger TA. Recurrent somatic mutations affecting B-cell receptor signaling pathway genes in follicular lymphoma. Blood. 2017 Jan 26;129(4):473–483. PMCID: PMC5270390

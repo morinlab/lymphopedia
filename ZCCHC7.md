@@ -1,4 +1,5 @@
 # ZCCHC7
+
 ## History
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
@@ -6,6 +7,7 @@ timeline
     title Publication timing
       2018-10-01 : Arthur : DLBCL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description                              |
@@ -38,20 +40,20 @@ timeline
 |chr9    |37312655  |37328260|[intron-3](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr9%3A37312655%2D37328260)|intron            |
 |chr9    |37329706  |37340398|[intron-1](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr9%3A37329706%2D37340398)|intron            |
 
-> [!NOTE]
-> First described in DLBCL in 2018 by [Arthur SE](https://pubmed.ncbi.nlm.nih.gov/30275490)
 
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ZCCHC7_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ZCCHC7_protein_hg38.html)
 
-![image](images/proteinpaint/ZCCHC7_NM_032226.svg)
+![](images/proteinpaint/ZCCHC7_NM_032226.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ZCCHC7.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ZCCHC7_hg38.html)
 
-![image](images/proteinpaint/ZCCHC7.svg)
+![](images/proteinpaint/ZCCHC7.svg)
+
 ## ZCCHC7 Expression
-![image](images/gene_expression/ZCCHC7_by_pathology.svg)
+![](images/gene_expression/ZCCHC7_by_pathology.svg)
 <!-- ORIGIN: arthurGenomewideDiscoverySomatic2018 -->
 <!-- DLBCL: arthurGenomewideDiscoverySomatic2018 -->
+
 ## References
 1.  Arthur SE, Jiang A, Grande BM, Alcaide M, Cojocaru R, Rushton CK, Mottok A, Hilton LK, Lat PK, Zhao EY, Culibrk L, Ennishi D, Jessa S, Chong L, Thomas N, Pararajalingam P, Meissner B, Boyle M, Davidson J, Bushell KR, Lai D, Farinha P, Slack GW, Morin GB, Shah S, Sen D, Jones SJM, Mungall AJ, Gascoyne RD, Audas TE, Unrau P, Marra MA, Connors JM, Steidl C, Scott DW, Morin RD. Genome-wide discovery of somatic regulatory variants in diffuse large B-cell lymphoma. Nat Commun. 2018 Oct 1;9(1):4001. PMCID: PMC6167379

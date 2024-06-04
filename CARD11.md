@@ -1,4 +1,5 @@
 # CARD11
+
 ## History
 
 ```mermaid
@@ -11,6 +12,7 @@ timeline
       2016-06-21 : Wu : MCL
       2019-09-26 : Panea : BL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description                           |
@@ -66,14 +68,14 @@ timeline
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CARD11_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CARD11_protein_hg38.html)
 
-![image](images/proteinpaint/CARD11_NM_032415.svg)
+![](images/proteinpaint/CARD11_NM_032415.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CARD11.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CARD11_hg38.html)
 
-![image](images/proteinpaint/CARD11.svg)
+![](images/proteinpaint/CARD11.svg)
 
 ## CARD11 Expression
-![image](images/gene_expression/CARD11_by_pathology.svg)
+![](images/gene_expression/CARD11_by_pathology.svg)
 
 
 
@@ -82,6 +84,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/C
 <!-- MCL: wuGeneticHeterogeneityPrimary2016 -->
 <!-- MZL: yanBCRTLRSignaling2012a -->
 <!-- DLBCL: lenzOncogenicCARD11Mutations2008 -->
+
 ## References
 1.  Lenz G, Davis RE, Ngo VN, Lam L, George TC, Wright GW, Dave SS, Zhao H, Xu W, Rosenwald A, Ott G, Müller-Hermelink HK, Gascoyne RD, Connors JM, Rimsza LM, Campo E, Jaffe ES, Delabie J, Smeland EB, Fisher RI, Chan WC, Staudt LM. Oncogenic CARD11 mutations in human diffuse large B cell lymphoma. Science. 2008 Mar;319(5870):1676–1679. 
 2.  Morin RD, Mendez-Lago M, Mungall AJ, Goya R, Mungall KL, Corbett RD, Johnson NA, Severson TM, Chiu R, Field M, Jackman S, Krzywinski M, Scott DW, Trinh DL, Tamura-Wells J, Li S, Firme MR, Rogic S, Griffith M, Chan S, Yakovenko O, Meyer IM, Zhao EY, Smailus D, Moksa M, Chittaranjan S, Rimsza L, Brooks-Wilson A, Spinelli JJ, Ben-Neriah S, Meissner B, Woolcock B, Boyle M, McDonald H, Tam A, Zhao Y, Delaney A, Zeng T, Tse K, Butterfield Y, Birol I, Holt R, Schein J, Horsman DE, Moore R, Jones SJM, Connors JM, Hirst M, Gascoyne RD, Marra MA. Frequent mutation of histone-modifying genes in non-Hodgkin lymphoma. Nature. 2011 Jul 27;476(7360):298–303. PMCID: PMC3210554

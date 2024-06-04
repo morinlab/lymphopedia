@@ -1,4 +1,5 @@
 # RHOA
+
 ## History
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
@@ -7,6 +8,7 @@ timeline
       2001-07-19 : Pasqualucci : DLBCL
       2012-11-11 : Richter : BL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description               |
@@ -36,8 +38,6 @@ timeline
 |FL    |No  |No                   |31.528          |0               |
 
 
-> [!NOTE]
-> First described in DLBCL in 2001 by [Pasqualucci L](https://pubmed.ncbi.nlm.nih.gov/11460166)
 
  ## RHOA Hotspots
 
@@ -53,16 +53,18 @@ timeline
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/RHOA_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/RHOA_protein_hg38.html)
 
-![image](images/proteinpaint/RHOA_NM_001664.svg)
+![](images/proteinpaint/RHOA_NM_001664.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/RHOA.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/RHOA_hg38.html)
 
-![image](images/proteinpaint/RHOA.svg)
+![](images/proteinpaint/RHOA.svg)
+
 ## RHOA Expression
-![image](images/gene_expression/RHOA_by_pathology.svg)
+![](images/gene_expression/RHOA_by_pathology.svg)
 <!-- ORIGIN: pasqualucciHypermutationMultipleProtooncogenes2001a -->
 <!-- DLBCL: pasqualucciHypermutationMultipleProtooncogenes2001a -->
 <!-- BL: richterRecurrentMutationID32012a -->
+
 ## References
 1.  Pasqualucci L, Neumeister P, Goossens T, Nanjangud G, Chaganti RS, Küppers R, Dalla-Favera R. Hypermutation of multiple proto-oncogenes in B-cell diffuse large-cell lymphomas. Nature. 2001 Jul 19;412(6844):341–346. PMID: 11460166
 2.  Richter J, Schlesner M, Hoffmann S, Kreuz M, Leich E, Burkhardt B, Rosolowski M, Ammerpohl O, Wagener R, Bernhart SH, Lenze D, Szczepanowski M, Paulsen M, Lipinski S, Russell RB, Adam-Klages S, Apic G, Claviez A, Hasenclever D, Hovestadt V, Hornig N, Korbel JO, Kube D, Langenberger D, Lawerenz C, Lisfeld J, Meyer K, Picelli S, Pischimarov J, Radlwimmer B, Rausch T, Rohde M, Schilhabel M, Scholtysik R, Spang R, Trautmann H, Zenz T, Borkhardt A, Drexler HG, Möller P, MacLeod RAF, Pott C, Schreiber S, Trümper L, Loeffler M, Stadler PF, Lichter P, Eils R, Küppers R, Hummel M, Klapper W, Rosenstiel P, Rosenwald A, Brors B, Siebert R, ICGC MMML-Seq Project. Recurrent mutation of the ID3 gene in Burkitt lymphoma identified by integrated genome, exome and transcriptome sequencing. Nat Genet. 2012 Dec;44(12):1316–1320. PMID: 23143595

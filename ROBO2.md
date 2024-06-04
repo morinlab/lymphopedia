@@ -1,4 +1,5 @@
 # ROBO2
+
 ## History
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
@@ -6,6 +7,7 @@ timeline
     title Publication timing
       2014-05-08 : Zhang : MCL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description                            |
@@ -27,11 +29,10 @@ timeline
 |FL    |No  |No                   |3.479           |0.000           |
 
 
-> [!NOTE]
-> First described in MCL in 2014 by [Zhang J](https://pubmed.ncbi.nlm.nih.gov/24682267)
 ## ROBO2 Expression
-![image](images/gene_expression/ROBO2_by_pathology.svg)
+![](images/gene_expression/ROBO2_by_pathology.svg)
 <!-- ORIGIN: zhangGenomicLandscapeMantle2014 -->
 <!-- MCL: zhangGenomicLandscapeMantle2014 -->
+
 ## References
 1.  Zhang J, Jima D, Moffitt AB, Liu Q, Czader M, Hsi ED, Fedoriw Y, Dunphy CH, Richards KL, Gill JI, Sun Z, Love C, Scotland P, Lock E, Levy S, Hsu DS, Dunson D, Dave SS. The genomic landscape of mantle cell lymphoma is related to the epigenetically determined chromatin state of normal B cells. Blood. 2014 May 8;123(19):2988–2996. 

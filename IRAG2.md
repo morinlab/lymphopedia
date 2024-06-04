@@ -20,5 +20,7 @@
 |
 
 ## IRAG2 Expression
-![image](images/gene_expression/IRAG2_by_pathology.svg)
+![](images/gene_expression/IRAG2_by_pathology.svg)
 <!-- ORIGIN: Unknown -->
+
+## References

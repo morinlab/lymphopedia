@@ -1,4 +1,5 @@
 # ID3
+
 ## History
 ID3 was first reported as mutated in BL in 2012 by Richter et al.<sup>1</sup> The existence of mutations in DLBCL were described in 2012 by Schmitz et al<sup>2</sup> and later in MZL by Spina et al.<sup>3</sup>
 
@@ -10,6 +11,7 @@ ID3 was first reported as mutated in BL in 2012 by Richter et al.<sup>1</sup> Th
           2012-11-11 : Richter : BL
           2016 : Spina : MZL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description                              |
@@ -47,13 +49,14 @@ ID3 was first reported as mutated in BL in 2012 by Richter et al.<sup>1</sup> Th
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ID3_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ID3_protein_hg38.html)
 
-![image](images/proteinpaint/ID3_NM_002167.svg)
+![](images/proteinpaint/ID3_NM_002167.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ID3.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ID3_hg38.html)
 
-![image](images/proteinpaint/ID3.svg)
+![](images/proteinpaint/ID3.svg)
+
 ## ID3 Expression
-![image](images/gene_expression/ID3_by_pathology.svg)
+![](images/gene_expression/ID3_by_pathology.svg)
 
 ## References
 1.  *Richter J, Schlesner M, Hoffmann S, Kreuz M, Leich E, Burkhardt B, Rosolowski M, Ammerpohl O, Wagener R, Bernhart SH, Lenze D, Szczepanowski M, Paulsen M, Lipinski S, Russell RB, Adam-Klages S, Apic G, Claviez A, Hasenclever D, Hovestadt V, Hornig N, Korbel JO, Kube D, Langenberger D, Lawerenz C, Lisfeld J, Meyer K, Picelli S, Pischimarov J, Radlwimmer B, Rausch T, Rohde M, Schilhabel M, Scholtysik R, Spang R, Trautmann H, Zenz T, Borkhardt A, Drexler HG, Möller P, MacLeod RAF, Pott C, Schreiber S, Trümper L, Loeffler M, Stadler PF, Lichter P, Eils R, Küppers R, Hummel M, Klapper W, Rosenstiel P, Rosenwald A, Brors B, Siebert R, ICGC MMML-Seq Project. Recurrent mutation of the ID3 gene in Burkitt lymphoma identified by integrated genome, exome and transcriptome sequencing. Nat Genet. 2012 Dec;44(12):1316–1320. PMID: 23143595*

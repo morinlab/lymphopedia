@@ -1,4 +1,5 @@
 # ITPR3
+
 ## History
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
@@ -7,6 +8,7 @@ timeline
       2012-12-01 : Love : BL
       2018-05-31 : Tiacci : PMBL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description                           |
@@ -34,13 +36,14 @@ timeline
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ITPR3_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ITPR3_protein_hg38.html)
 
-![image](images/proteinpaint/ITPR3_NM_002224.svg)
+![](images/proteinpaint/ITPR3_NM_002224.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ITPR3.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ITPR3_hg38.html)
 
-![image](images/proteinpaint/ITPR3.svg)
+![](images/proteinpaint/ITPR3.svg)
+
 ## ITPR3 Expression
-![image](images/gene_expression/ITPR3_by_pathology.svg)
+![](images/gene_expression/ITPR3_by_pathology.svg)
 
 
 
