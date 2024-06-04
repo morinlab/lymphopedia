@@ -35,14 +35,14 @@ timeline
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ACE_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ACE_protein_hg38.html)
 
-![image](images/proteinpaint/ACE_NM_000789.svg)
+![](images/proteinpaint/ACE_NM_000789.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ACE.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ACE_hg38.html)
 
-![image](images/proteinpaint/ACE.svg)
+![](images/proteinpaint/ACE.svg)
 
 ## ACE Expression
-![image](images/gene_expression/ACE_by_pathology.svg)
+![](images/gene_expression/ACE_by_pathology.svg)
 <!-- ORIGIN: loveGeneticLandscapeMutations2012 -->
 <!-- BL: loveGeneticLandscapeMutations2012 -->
 
