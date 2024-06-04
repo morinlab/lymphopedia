@@ -24,11 +24,10 @@ config:
 sankey-beta
 This study, New Tier 1, 5
 New Tier 1, PMBL Tier 1, 5
-This study, PMBL Tier 2, 6
 This study, New Tier 2, 6
 New Tier 2, PMBL Tier 2, 6
-Other studies, PMBL Tier 1, 76
-Other studies, PMBL Tier 2, 82
+Other studies, PMBL Tier 1, 71
+Other studies, PMBL Tier 2, 76
 ```
 
 

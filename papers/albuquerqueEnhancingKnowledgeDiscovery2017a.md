@@ -24,10 +24,9 @@ config:
 sankey-beta
 This study, New Tier 1, 3
 New Tier 1, DLBCL Tier 1, 3
-This study, DLBCL Tier 2, 
 This study, New Tier 2, 
 New Tier 2, DLBCL Tier 2, 
-Other studies, DLBCL Tier 1, 128
+Other studies, DLBCL Tier 1, 125
 Other studies, DLBCL Tier 2, 198
 ```
 

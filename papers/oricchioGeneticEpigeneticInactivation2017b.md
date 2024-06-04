@@ -24,11 +24,10 @@ config:
 sankey-beta
 This study, New Tier 1, 
 New Tier 1, FL Tier 1, 
-This study, FL Tier 2, 1
 This study, New Tier 2, 1
 New Tier 2, FL Tier 2, 1
 Other studies, FL Tier 1, 66
-Other studies, FL Tier 2, 50
+Other studies, FL Tier 2, 49
 ```
 
 

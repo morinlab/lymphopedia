@@ -24,11 +24,10 @@ config:
 sankey-beta
 This study, New Tier 1, 11
 New Tier 1, MCL Tier 1, 11
-This study, MCL Tier 2, 16
 This study, New Tier 2, 16
 New Tier 2, MCL Tier 2, 16
-Other studies, MCL Tier 1, 23
-Other studies, MCL Tier 2, 46
+Other studies, MCL Tier 1, 12
+Other studies, MCL Tier 2, 30
 ```
 
 

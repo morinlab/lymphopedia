@@ -24,11 +24,10 @@ config:
 sankey-beta
 This study, New Tier 1, 2
 New Tier 1, MZL Tier 1, 2
-This study, MZL Tier 2, 26
 This study, New Tier 2, 26
 New Tier 2, MZL Tier 2, 26
-Other studies, MZL Tier 1, 42
-Other studies, MZL Tier 2, 74
+Other studies, MZL Tier 1, 40
+Other studies, MZL Tier 2, 48
 ```
 
 
