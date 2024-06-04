@@ -1,4 +1,5 @@
 # HIST1H1E
+
 ## Overview
 This is one of several genes that encode linker histone proteins that are recurrently mutated in DLBCL and FL.<sup>1,2</sup> Mutations are often found in the globular domain of the protein, which is critical for its interaction with DNA and other histone proteins. 
 
@@ -14,6 +15,7 @@ timeline
       2017-01-26 : Krysiak : FL
       2019-03-21 : Grande : BL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description                           |
@@ -70,14 +72,14 @@ timeline
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/HIST1H1E_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/HIST1H1E_protein_hg38.html)
 
-![image](images/proteinpaint/HIST1H1E_NM_005321.svg)
+![](images/proteinpaint/HIST1H1E_NM_005321.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/HIST1H1E.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/HIST1H1E_hg38.html)
 
-![image](images/proteinpaint/HIST1H1E.svg)
+![](images/proteinpaint/HIST1H1E.svg)
 
 ## HIST1H1E Expression
-![image](images/gene_expression/HIST1H1E_by_pathology.svg)
+![](images/gene_expression/HIST1H1E_by_pathology.svg)
 
 ## References
 1. *Morin RD, Mendez-Lago M, Mungall AJ, Goya R, Mungall KL, Corbett RD, Johnson NA, Severson TM, Chiu R, Field M, Jackman S, Krzywinski M, Scott DW, Trinh DL, Tamura-Wells J, Li S, Firme MR, Rogic S, Griffith M, Chan S, Yakovenko O, Meyer IM, Zhao EY, Smailus D, Moksa M, Chittaranjan S, Rimsza L, Brooks-Wilson A, Spinelli JJ, Ben-Neriah S, Meissner B, Woolcock B, Boyle M, McDonald H, Tam A, Zhao Y, Delaney A, Zeng T, Tse K, Butterfield Y, Birol I, Holt R, Schein J, Horsman DE, Moore R, Jones SJ, Connors JM, Hirst M, Gascoyne RD, Marra MA. Frequent mutation of histone-modifying genes in non-Hodgkin lymphoma. Nature. 2011 Jul 27;476(7360):298-303. doi: 10.1038/nature10351. PMID: 21796119; PMCID: PMC3210554.*

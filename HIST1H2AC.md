@@ -8,6 +8,7 @@ timeline
       2013-08-15 : Morin : DLBCL
       2017-01-26 : Krysiak : FL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description               |
@@ -35,8 +36,6 @@ timeline
 
 
 
-> [!NOTE]
-> First described in DLBCL in 2013 by [Morin RD](https://pubmed.ncbi.nlm.nih.gov/23699601)
 
  ## HIST1H2AC Hotspots
 
@@ -66,12 +65,14 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/HIST1H2AC.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/HIST1H2AC_hg38.html)
 
-![image](images/proteinpaint/HIST1H2AC.svg)
+![](images/proteinpaint/HIST1H2AC.svg)
+
 ## HIST1H2AC Expression
-![image](images/gene_expression/HIST1H2AC_by_pathology.svg)
+![](images/gene_expression/HIST1H2AC_by_pathology.svg)
 <!-- ORIGIN: morinMutationalStructuralAnalysis2013 -->
 <!-- FL: krysiakRecurrentSomaticMutations2017b -->
 <!-- DLBCL: morinMutationalStructuralAnalysis2013 -->
+
 ## References
 1.  Morin RD, Mungall K, Pleasance E, Mungall AJ, Goya R, Huff RD, Scott DW, Ding J, Roth A, Chiu R, Corbett RD, Chan FC, Mendez-Lago M, Trinh DL, Bolger-Munro M, Taylor G, Hadj Khodabakhshi A, Ben-Neriah S, Pon J, Meissner B, Woolcock B, Farnoud N, Rogic S, Lim EL, Johnson NA, Shah S, Jones S, Steidl C, Holt R, Birol I, Moore R, Connors JM, Gascoyne RD, Marra MA. Mutational and structural analysis of diffuse large B-cell lymphoma using whole-genome sequencing. Blood. 2013 Aug 15;122(7):1256–1265. PMCID: PMC3744992
 2.  Krysiak K, Gomez F, White BS, Matlock M, Miller CA, Trani L, Fronick CC, Fulton RS, Kreisel F, Cashen AF, Carson KR, Berrien-Elliott MM, Bartlett NL, Griffith M, Griffith OL, Fehniger TA. Recurrent somatic mutations affecting B-cell receptor signaling pathway genes in follicular lymphoma. Blood. 2017 Jan 26;129(4):473–483. PMCID: PMC5270390

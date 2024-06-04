@@ -1,4 +1,5 @@
 # MAP3K6
+
 ## History
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
@@ -6,6 +7,7 @@ timeline
     title Publication timing
       2012-12-01 : Love : BL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description                           |
@@ -29,20 +31,20 @@ timeline
 |FL    |No  |No                   |1.344           |0               |
 
 
-> [!NOTE]
-> First described in BL in 2012 by [Love C](https://pubmed.ncbi.nlm.nih.gov/23143597)
 
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/MAP3K6_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/MAP3K6_protein_hg38.html)
 
-![image](images/proteinpaint/MAP3K6_NM_004672.svg)
+![](images/proteinpaint/MAP3K6_NM_004672.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/MAP3K6.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/MAP3K6_hg38.html)
 
-![image](images/proteinpaint/MAP3K6.svg)
+![](images/proteinpaint/MAP3K6.svg)
+
 ## MAP3K6 Expression
-![image](images/gene_expression/MAP3K6_by_pathology.svg)
+![](images/gene_expression/MAP3K6_by_pathology.svg)
 <!-- ORIGIN: loveGeneticLandscapeMutations2012 -->
 <!-- BL: loveGeneticLandscapeMutations2012 -->
+
 ## References
 1.  Love C, Sun Z, Jima D, Li G, Zhang J, Miles R, Richards KL, Dunphy CH, Choi WWL, Srivastava G, Lugar PL, Rizzieri DA, Lagoo AS, Bernal-Mizrachi L, Mann KP, Flowers CR, Naresh KN, Evens AM, Chadburn A, Gordon LI, Czader MB, Gill JI, Hsi ED, Greenough A, Moffitt AB, McKinney M, Banerjee A, Grubor V, Levy S, Dunson DB, Dave SS. The genetic landscape of mutations in Burkitt lymphoma. Nat Genet. 2012 Dec;44(12):1321–1325. PMCID: PMC3674561

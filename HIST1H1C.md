@@ -1,4 +1,5 @@
 # HIST1H1C
+
 ## Overview
 This is one of several genes that encode linker histone proteins that are recurrently mutated in DLBCL and FL.<sup>1,2</sup> Mutations are often found in the globular domain of the protein, which is critical for its interaction with DNA and other histone proteins. 
 
@@ -13,6 +14,7 @@ timeline
       2011-07-27 : Morin : DLBCL
       2019-09-26 : Panea : BL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description                           |
@@ -46,15 +48,15 @@ timeline
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/HIST1H1C_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/HIST1H1C_protein_hg38.html)
 
-![image](images/proteinpaint/HIST1H1C_NM_005319.svg)
+![](images/proteinpaint/HIST1H1C_NM_005319.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/HIST1H1C.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/HIST1H1C_hg38.html)
 
-![image](images/proteinpaint/HIST1H1C.svg)
+![](images/proteinpaint/HIST1H1C.svg)
 
 
 ## HIST1H1C Expression
-![image](images/gene_expression/HIST1H1C_by_pathology.svg)
+![](images/gene_expression/HIST1H1C_by_pathology.svg)
 
 ## References
 

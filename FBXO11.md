@@ -1,4 +1,5 @@
 # FBXO11
+
 ## Overview
 Somatic mutations in FBXO11 are common in BL<sup>1,2</sup> and appear in a small number of DLBCLs.<sup>3</sup> This gene has some recurrent sites of mutations (hot spots). Mutations lead to stabilization of BCL6, an important transcriptional repressor involved in lymphomagenesis.<sup>4</sup> These mutations present a potential novel target for therapeutic intervention, particularly through strategies aimed at degrading BCL6 or inhibiting its function.<sup>4</sup>
 
@@ -13,6 +14,7 @@ timeline
       2013-12-13 : Parry : MZL
       2021-05-05 : H : DLBCL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description               |
@@ -42,8 +44,6 @@ timeline
 |FL    |No  |No                   | 8.837          |  0.000         |
 
 
-> [!NOTE]
-> First described in BL in 2015 by Pighi et al<sup>1</sup> and described in DLBCL in 2021 by Hübschmann et al.<sup>5</sup>
 
 ## FBXO11 hot spots
 |Chromosome|Coordinate|Mutation|HGVSp|
@@ -67,11 +67,11 @@ timeline
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/FBXO11_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/FBXO11_protein_hg38.html)
 
-![image](images/proteinpaint/FBXO11_NM_025133.svg)
+![](images/proteinpaint/FBXO11_NM_025133.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/FBXO11.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/FBXO11_hg38.html)
 
-![image](images/proteinpaint/FBXO11.svg)
+![](images/proteinpaint/FBXO11.svg)
 
 ## References
 1. *Pighi, C., Compagno, M., Wang, Q., Cheong, T., Poggio, T., Langellotto, F., Celle, P., Zamó, A., & Chiarle, R. (2015). FBXO11, a Regulator of BCL6 Stability, Is Recurrently Mutated in Burkitt Lymphoma. Blood, 126, 3673-3673. https://doi.org/10.1182/BLOOD.V126.23.3673.3673.*
@@ -80,7 +80,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/F
 4. *Pighi, C., Cheong, T., Compagno, M., Patrucco, E., Arigoni, M., Olivero, M., Wang, Q., López, C., Bernhart, S., Grande, B., Poggio, T., Langellotto, F., Bonello, L., Dall’Olio, R., Martínez-Martín, S., Molinaro, L., Celle, P., Whitfield, J., Soucek, L., Voena, C., Calogero, R., Morin, R., Staudt, L., Siebert, R., Zamó, A., & Chiarle, R. (2021). Frequent mutations of FBXO11 highlight BCL6 as a therapeutic target in Burkitt lymphoma.. Blood advances. https://doi.org/10.1182/bloodadvances.2021005682.*
 5. *Hübschmann D, Kleinheinz K, Wagener R, Bernhart SH, López C, Toprak UH, Sungalee S, Ishaque N, Kretzmer H, Kreuz M, Waszak SM, Paramasivam N, Ammerpohl O, Aukema SM, Beekman R, Bergmann AK, Bieg M, Binder H, Borkhardt A, Borst C, Brors B, Bruns P, Carrillo de Santa Pau E, Claviez A, Doose G, Haake A, Karsch D, Haas S, Hansmann ML, Hoell JI, Hovestadt V, Huang B, Hummel M, Jäger-Schmidt C, Kerssemakers JNA, Korbel JO, Kube D, Lawerenz C, Lenze D, Martens JHA, Ott G, Radlwimmer B, Reisinger E, Richter J, Rico D, Rosenstiel P, Rosenwald A, Schillhabel M, Stilgenbauer S, Stadler PF, Martín-Subero JI, Szczepanowski M, Warsow G, Weniger MA, Zapatka M, Valencia A, Stunnenberg HG, Lichter P, Möller P, Loeffler M, Eils R, Klapper W, Hoffmann S, Trümper L; ICGC MMML-Seq consortium; ICGC DE-Mining consortium; BLUEPRINT consortium; Küppers R, Schlesner M, Siebert R. Mutational mechanisms shaping the coding and noncoding genome of germinal center derived B-cell lymphomas. Leukemia. 2021 Jul;35(7):2002-2016. doi: 10.1038/s41375-021-01251-z. Epub 2021 May 5. PMID: 33953289; PMCID: PMC8257491.*
 ## FBXO11 Expression
-![image](images/gene_expression/FBXO11_by_pathology.svg)
+![](images/gene_expression/FBXO11_by_pathology.svg)
 <!-- ORIGIN: parryWholeExomeSequencing2013 -->
 <!-- BL: richterRecurrentMutationID32012a -->
 <!-- MZL: parryWholeExomeSequencing2013 -->

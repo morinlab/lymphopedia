@@ -1,4 +1,5 @@
 # HLA-B
+
 ## Overview
 Mutations in the HLA-B gene have been associated with a loss of cell surface expression of HLA class I molecules, which are essential for presenting tumor antigens to cytotoxic T cells. This is a common mechanism of immune escape in DLBCL. Deletions of this gene are more commonly reported than HLA-B mutations.<sup>1</sup> The mutation pattern in DLBCL implies the preferential accumulation of *inactivating mutations*. Different analytical strategies relating to the mapping of sequencing data and subtracting common germline variants can complicate the detection of mutations in this and other HLA genes. Likely owing to this, the rate of mutations is highly variable across studies and the true mutation rate has not been firmly established. 
 ## History
@@ -8,6 +9,7 @@ timeline
     title Publication timing
       2019-12-10 : Wienand : PMBL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description                           |
@@ -55,14 +57,14 @@ timeline
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/HLA-B_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/HLA-B_protein_hg38.html)
 
-![image](images/proteinpaint/HLA-B_NM_005514.svg)
+![](images/proteinpaint/HLA-B_NM_005514.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/HLA-B.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/HLA-B_hg38.html)
 
-![image](images/proteinpaint/HLA-B.svg)
+![](images/proteinpaint/HLA-B.svg)
 
 ## HLA-B Expression
-![image](images/gene_expression/HLA-B_by_pathology.svg)
+![](images/gene_expression/HLA-B_by_pathology.svg)
 
 ## References
 1. *Riemersma, S., Jordanova, E., Schop, R., Philippo, K., Looijenga, L., Schuuring, E., & Kluin, P. (2000). Extensive genetic alterations of the HLA region, including homozygous deletions of HLA class II genes in B-cell lymphomas arising in immune-privileged sites.. Blood, 96 10, 3569-77 . https://doi.org/10.1182/BLOOD.V96.10.3569.*

@@ -28,11 +28,14 @@
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/MIR155HG_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/MIR155HG_protein_hg38.html)
 
-![image](images/proteinpaint/MIR155HG_NR_001458.svg)
+![](images/proteinpaint/MIR155HG_NR_001458.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/MIR155HG.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/MIR155HG_hg38.html)
 
-![image](images/proteinpaint/MIR155HG.svg)
+![](images/proteinpaint/MIR155HG.svg)
+
 ## MIR155HG Expression
-![image](images/gene_expression/MIR155HG_by_pathology.svg)
+![](images/gene_expression/MIR155HG_by_pathology.svg)
 <!-- ORIGIN: Unknown -->
+
+## References

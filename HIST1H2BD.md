@@ -1,4 +1,5 @@
 # HIST1H2BD
+
 ## History
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
@@ -6,6 +7,7 @@ timeline
     title Publication timing
       2017-01-26 : Krysiak : FL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description            |
@@ -32,10 +34,12 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/HIST1H2BD.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/HIST1H2BD_hg38.html)
 
-![image](images/proteinpaint/HIST1H2BD.svg)
+![](images/proteinpaint/HIST1H2BD.svg)
+
 ## HIST1H2BD Expression
-![image](images/gene_expression/HIST1H2BD_by_pathology.svg)
+![](images/gene_expression/HIST1H2BD_by_pathology.svg)
 <!-- ORIGIN: krysiakRecurrentSomaticMutations2017b -->
 <!-- FL: krysiakRecurrentSomaticMutations2017b -->
+
 ## References
 1.  Krysiak K, Gomez F, White BS, Matlock M, Miller CA, Trani L, Fronick CC, Fulton RS, Kreisel F, Cashen AF, Carson KR, Berrien-Elliott MM, Bartlett NL, Griffith M, Griffith OL, Fehniger TA. Recurrent somatic mutations affecting B-cell receptor signaling pathway genes in follicular lymphoma. Blood. 2017 Jan 26;129(4):473–483. PMCID: PMC5270390

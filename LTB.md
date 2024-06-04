@@ -1,4 +1,5 @@
 # LTB
+
 ## Overview
 LTB (Lymphotoxin Beta) is a member of the tumor necrosis factor (TNF) superfamily, which plays a role in the development and organization of secondary lymphoid tissues and in the regulation of immune responses. LTB is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus. Although the mutation incidence is relatively high in DLBCL, little is known about the role of these mutations in lymphomagenesis. The mutation pattern overall implies a selective pressure to acquire loss-of-function mutations in LTB. 
 ## History
@@ -9,6 +10,7 @@ timeline
       2018-05-01 : Chapuy : DLBCL
       2019-08-20 : Desch : PMBL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description                           |
@@ -48,15 +50,15 @@ timeline
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/LTB_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/LTB_protein_hg38.html)
 
-![image](images/proteinpaint/LTB_NM_002341.svg)
+![](images/proteinpaint/LTB_NM_002341.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/LTB.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/LTB_hg38.html)
 
-![image](images/proteinpaint/LTB.svg)
+![](images/proteinpaint/LTB.svg)
 
 ## LTB Expression
 
-![image](images/gene_expression/LTB_by_pathology.svg)
+![](images/gene_expression/LTB_by_pathology.svg)
 
 ## References
 <!-- ORIGIN: 29713087 -->

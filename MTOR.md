@@ -1,4 +1,5 @@
 # MTOR
+
 ## Overview
 Although mutations in MTOR have been reported in DLBCL<sup>1</sup> and some BL, their role in lymphomagenesis has not been thoroughly studied. 
 ## History
@@ -9,6 +10,7 @@ timeline
       2013-01-01 : Zhang : DLBCL
       2019-09-26 : Panea : BL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description                           |
@@ -37,8 +39,6 @@ timeline
 |FL    |No  |No                   |1.429           |0               |
 
 
-> [!NOTE]
-> First described in BL in 2019 by [Panea RI](https://pubmed.ncbi.nlm.nih.gov/31558468). First described in DLBCL in 2013 by [Zhang J](https://pubmed.ncbi.nlm.nih.gov/23292937)
 
 
  ## MTOR Hotspots
@@ -49,14 +49,14 @@ timeline
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/MTOR_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/MTOR_protein_hg38.html)
 
-![image](images/proteinpaint/MTOR_NM_004958.svg)
+![](images/proteinpaint/MTOR_NM_004958.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/MTOR.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/MTOR_hg38.html)
 
-![image](images/proteinpaint/MTOR.svg)
+![](images/proteinpaint/MTOR.svg)
 
 ## MTOR Expression
-![image](images/gene_expression/MTOR_by_pathology.svg)
+![](images/gene_expression/MTOR_by_pathology.svg)
 
 ## References
 

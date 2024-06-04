@@ -1,4 +1,5 @@
 # FOXO1
+
 ## Overview
 Mutations in the FOXO1 gene, which encodes a member of the forkhead family of transcription factors, play a significant role in diffuse large B-cell lymphoma (DLBCL). Mutations primarily occur in the first exon, with significant portions affecting the N-terminal region and the Forkhead DNA binding domain.<sup>1</sup> These mutations are common in DLBCL, BL and, to a lesser extent, FL.<sup>2,3</sup> FOXO1 mutations can contribute to resistance to certain therapies, such as anti-CD20-based immunotherapies, by repressing MS4A1 (CD20) expression.<sup>4</sup> 
 ## History
@@ -10,6 +11,7 @@ timeline
       2012-10-04 : Schmitz : BL
       2021-07-15 : Duns : PMBL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description               |
@@ -42,8 +44,6 @@ timeline
 |FL    |No  |Yes                  |18.992          |103.028         |
 
 
-> [!NOTE]
-> First described in BL in 2012 by [Schmitz R](https://pubmed.ncbi.nlm.nih.gov/22885699). First described in DLBCL in 2011 by [Morin RD](https://pubmed.ncbi.nlm.nih.gov/21796119). First described in FL in 2011 by [Morin RD](https://pubmed.ncbi.nlm.nih.gov/21796119)
 
 
  ## FOXO1 Hotspots
@@ -74,14 +74,14 @@ timeline
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/FOXO1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/FOXO1_protein_hg38.html)
 
-![image](images/proteinpaint/FOXO1_NM_002015.svg)
+![](images/proteinpaint/FOXO1_NM_002015.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/FOXO1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/FOXO1_hg38.html)
 
-![image](images/proteinpaint/FOXO1.svg)
+![](images/proteinpaint/FOXO1.svg)
 
 ## FOXO1 Expression
-![image](images/gene_expression/FOXO1_by_pathology.svg)
+![](images/gene_expression/FOXO1_by_pathology.svg)
 
 ## References
 1. *Trinh, D., Scott, D., Morin, R., Méndez-Lago, M., An, J., Jones, S., Mungall, A., Zhao, Y., Schein, J., Steidl, C., Connors, J., Gascoyne, R., & Marra, M. (2013). Analysis of FOXO1 mutations in diffuse large B-cell lymphoma.. Blood, 121 18, 3666-74 . https://doi.org/10.1182/blood-2013-01-479865.*

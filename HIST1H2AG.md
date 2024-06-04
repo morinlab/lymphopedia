@@ -1,4 +1,5 @@
 # HIST1H2AG
+
 ## History
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
@@ -9,6 +10,7 @@ timeline
       2017-01-26 : Krysiak : FL
       2019-09-26 : Panea : BL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description                              |
@@ -40,8 +42,6 @@ timeline
 |FL    |No  |No                   |0.405           |0               |
 
 
-> [!NOTE]
-> First described in BL in 2019 by [Panea RI](https://pubmed.ncbi.nlm.nih.gov/31558468). First described in DLBCL in 2013 by [Morin RD](https://pubmed.ncbi.nlm.nih.gov/23699601)
 
  ## HIST1H2AG Hotspots
 
@@ -55,18 +55,20 @@ timeline
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/HIST1H2AG_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/HIST1H2AG_protein_hg38.html)
 
-![image](images/proteinpaint/HIST1H2AG_NM_021064.svg)
+![](images/proteinpaint/HIST1H2AG_NM_021064.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/HIST1H2AG.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/HIST1H2AG_hg38.html)
 
-![image](images/proteinpaint/HIST1H2AG.svg)
+![](images/proteinpaint/HIST1H2AG.svg)
+
 ## HIST1H2AG Expression
-![image](images/gene_expression/HIST1H2AG_by_pathology.svg)
+![](images/gene_expression/HIST1H2AG_by_pathology.svg)
 <!-- ORIGIN: rossiCodingGenomeSplenic2012c -->
 <!-- MZL: rossiCodingGenomeSplenic2012c -->
 <!-- DLBCL: morinMutationalStructuralAnalysis2013 -->
 <!-- BL: paneaWholeGenomeLandscape2019 -->
 <!-- FL: krysiakRecurrentSomaticMutations2017b -->
+
 ## References
 1.  Rossi D, Trifonov V, Fangazio M, Bruscaggin A, Rasi S, Spina V, Monti S, Vaisitti T, Arruga F, Famà R, Ciardullo C, Greco M, Cresta S, Piranda D, Holmes A, Fabbri G, Messina M, Rinaldi A, Wang J, Agostinelli C, Piccaluga PP, Lucioni M, Tabbò F, Serra R, Franceschetti S, Deambrogi C, Daniele G, Gattei V, Marasca R, Facchetti F, Arcaini L, Inghirami G, Bertoni F, Pileri SA, Deaglio S, Foà R, Dalla-Favera R, Pasqualucci L, Rabadan R, Gaidano G. The coding genome of splenic marginal zone lymphoma: activation of NOTCH2 and other pathways regulating marginal zone development. J Exp Med. 2012 Aug 27;209(9):1537–1551. PMCID: PMC3428941
 2.  Morin RD, Mungall K, Pleasance E, Mungall AJ, Goya R, Huff RD, Scott DW, Ding J, Roth A, Chiu R, Corbett RD, Chan FC, Mendez-Lago M, Trinh DL, Bolger-Munro M, Taylor G, Hadj Khodabakhshi A, Ben-Neriah S, Pon J, Meissner B, Woolcock B, Farnoud N, Rogic S, Lim EL, Johnson NA, Shah S, Jones S, Steidl C, Holt R, Birol I, Moore R, Connors JM, Gascoyne RD, Marra MA. Mutational and structural analysis of diffuse large B-cell lymphoma using whole-genome sequencing. Blood. 2013 Aug 15;122(7):1256–1265. PMCID: PMC3744992

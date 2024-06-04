@@ -1,4 +1,5 @@
 # JAK3
+
 ## History
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
@@ -6,6 +7,7 @@ timeline
     title Publication timing
       2013-01-01 : Zhang : DLBCL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description                              |
@@ -30,20 +32,20 @@ timeline
 |FL    |No  |No                   |0.000           |0               |
 
 
-> [!NOTE]
-> First described in DLBCL in 2013 by [Zhang J](https://pubmed.ncbi.nlm.nih.gov/23292937)
 
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/JAK3_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/JAK3_protein_hg38.html)
 
-![image](images/proteinpaint/JAK3_NM_000215.svg)
+![](images/proteinpaint/JAK3_NM_000215.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/JAK3.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/JAK3_hg38.html)
 
-![image](images/proteinpaint/JAK3.svg)
+![](images/proteinpaint/JAK3.svg)
+
 ## JAK3 Expression
-![image](images/gene_expression/JAK3_by_pathology.svg)
+![](images/gene_expression/JAK3_by_pathology.svg)
 <!-- ORIGIN: zhangGeneticHeterogeneityDiffuse2013 -->
 <!-- DLBCL: zhangGeneticHeterogeneityDiffuse2013 -->
+
 ## References
 1.  Zhang J, Grubor V, Love CL, Banerjee A, Richards KL, Mieczkowski PA, Dunphy C, Choi W, Au WY, Srivastava G, Lugar PL, Rizzieri DA, Lagoo AS, Bernal-Mizrachi L, Mann KP, Flowers C, Naresh K, Evens A, Gordon LI, Czader M, Gill JI, Hsi ED, Liu Q, Fan A, Walsh K, Jima D, Smith LL, Johnson AJ, Byrd JC, Luftig MA, Ni T, Zhu J, Chadburn A, Levy S, Dunson D, Dave SS. Genetic heterogeneity of diffuse large B-cell lymphoma. 2013 Jan; 

@@ -1,4 +1,5 @@
 # DTX1
+
 ## Overview
 Mutations in the DTX1 gene, which encodes the E3 ubiquitin ligase Deltex 1, have been identified in various B-cell lymphomas, including diffuse large B-cell lymphoma (DLBCL). DTX1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus. These mutations are associated with the BN2 genetic subgroup of DLBCL.<sup>1</sup> There are numerous mutation hotspots in this gene with some leading to a truncated protein. DTX1 functions as a negative regulator of the Notch signaling pathway. Some DTX1 mutations impair its function, thereby dysregulating Notch signaling, which is crucial for normal B-cell development and function. <sup>2</sup> 
 ## History
@@ -11,6 +12,7 @@ timeline
       2019-09-26 : Panea : BL
       2023-11-15 : Gomez : PMBL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description                           |
@@ -48,8 +50,6 @@ timeline
 |:--------:|:----------:|:---------:|:--------------------------------------------------------------------------------------------:|:------------------:|
 |chr12   |113492311 |113497546|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr12%3A113492311%2D113497546)|NA                |
 
-> [!NOTE]
-> First described in DLBCL in 2014.<sup>2</sup> and in BL in 2019 by [Panea RI](https://pubmed.ncbi.nlm.nih.gov/31558468). 
 
  ## DTX1 Hotspots
 
@@ -102,14 +102,14 @@ timeline
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/DTX1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/DTX1_protein_hg38.html)
 
-![image](images/proteinpaint/DTX1_NM_004416.svg)
+![](images/proteinpaint/DTX1_NM_004416.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/DTX1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/DTX1_hg38.html)
 
-![image](images/proteinpaint/DTX1.svg)
+![](images/proteinpaint/DTX1.svg)
 
 ## DTX1 Expression
-![image](images/gene_expression/DTX1_by_pathology.svg)
+![](images/gene_expression/DTX1_by_pathology.svg)
 
 ## References
 1. *Wright GW, Huang DW, Phelan JD, Coulibaly ZA, Roulland S, Young RM, Wang JQ, Schmitz R, Morin RD, Tang J, Jiang A, Bagaev A, Plotnikova O, Kotlov N, Johnson CA, Wilson WH, Scott DW, Staudt LM. A Probabilistic Classification Tool for Genetic Subtypes of Diffuse Large B Cell Lymphoma with Therapeutic Implications. Cancer Cell. 2020 Apr 13;37(4):551-568.e14. doi: 10.1016/j.ccell.2020.03.015. PMID: 32289277; PMCID: PMC8459709.*

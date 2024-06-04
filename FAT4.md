@@ -1,4 +1,5 @@
 # FAT4
+
 ## History
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
@@ -8,6 +9,7 @@ timeline
       2013-12-13 : Parry : MZL
       2014-05-08 : Zhang : MCL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description                              |
@@ -36,23 +38,23 @@ timeline
 |FL    |No  |No                   |0.000           |0.000           |
 
 
-> [!NOTE]
-> First described in DLBCL in 2013 by [Morin RD](https://pubmed.ncbi.nlm.nih.gov/23699601). First described in MCL in 2014 by [Zhang J](https://pubmed.ncbi.nlm.nih.gov/24682267)
 
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/FAT4_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/FAT4_protein_hg38.html)
 
-![image](images/proteinpaint/FAT4_NM_024582.svg)
+![](images/proteinpaint/FAT4_NM_024582.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/FAT4.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/FAT4_hg38.html)
 
-![image](images/proteinpaint/FAT4.svg)
+![](images/proteinpaint/FAT4.svg)
+
 ## FAT4 Expression
-![image](images/gene_expression/FAT4_by_pathology.svg)
+![](images/gene_expression/FAT4_by_pathology.svg)
 <!-- ORIGIN: morinMutationalStructuralAnalysis2013 -->
 <!-- DLBCL: morinMutationalStructuralAnalysis2013 -->
 <!-- MCL: zhangGenomicLandscapeMantle2014 -->
 <!-- MZL: parryWholeExomeSequencing2013 -->
+
 ## References
 1.  Morin RD, Mungall K, Pleasance E, Mungall AJ, Goya R, Huff RD, Scott DW, Ding J, Roth A, Chiu R, Corbett RD, Chan FC, Mendez-Lago M, Trinh DL, Bolger-Munro M, Taylor G, Hadj Khodabakhshi A, Ben-Neriah S, Pon J, Meissner B, Woolcock B, Farnoud N, Rogic S, Lim EL, Johnson NA, Shah S, Jones S, Steidl C, Holt R, Birol I, Moore R, Connors JM, Gascoyne RD, Marra MA. Mutational and structural analysis of diffuse large B-cell lymphoma using whole-genome sequencing. Blood. 2013 Aug 15;122(7):1256–1265. PMCID: PMC3744992
 2.  Parry M, Rose-Zerilli MJJ, Gibson J, Ennis S, Walewska R, Forster J, Parker H, Davis Z, Gardiner A, Collins A, Oscier DG, Strefford JC. Whole exome sequencing identifies novel recurrently mutated genes in patients with splenic marginal zone lymphoma. PLoS One. 2013;8(12):e83244. PMCID: PMC3862727

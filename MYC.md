@@ -1,4 +1,5 @@
 # MYC
+
 ## Overview
 MYC is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus.
 
@@ -12,6 +13,7 @@ timeline
       2017-07-27 : Jallades : MZL
       2021-07-15 : Duns : PMBL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description                           |
@@ -86,15 +88,15 @@ timeline
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/MYC_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/MYC_protein_hg38.html)
 
-![image](images/proteinpaint/MYC_NM_002467.svg)
+![](images/proteinpaint/MYC_NM_002467.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/MYC.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/MYC_hg38.html)
 
-![image](images/proteinpaint/MYC.svg)
+![](images/proteinpaint/MYC.svg)
 
 ## MYC Expression
 
-![image](images/gene_expression/MYC_by_pathology.svg)
+![](images/gene_expression/MYC_by_pathology.svg)
 
 ## References
 

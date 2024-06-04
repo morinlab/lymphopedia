@@ -1,4 +1,5 @@
 # EZR
+
 ## History
 
 ```mermaid
@@ -7,6 +8,7 @@ timeline
     title Publication timing
       2019-08-20 : Desch : PMBL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description                              |
@@ -40,14 +42,16 @@ timeline
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/EZR_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/EZR_protein_hg38.html)
 
-![image](images/proteinpaint/EZR_NM_003379.svg)
+![](images/proteinpaint/EZR_NM_003379.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/EZR.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/EZR_hg38.html)
 
-![image](images/proteinpaint/EZR.svg)
+![](images/proteinpaint/EZR.svg)
+
 ## EZR Expression
-![image](images/gene_expression/EZR_by_pathology.svg)
+![](images/gene_expression/EZR_by_pathology.svg)
 <!-- ORIGIN: deschGenotypingCirculatingTumor2020 -->
 <!-- PMBL: deschGenotypingCirculatingTumor2020 -->
+
 ## References
 1.  Desch AK, Hartung K, Botzen A, Brobeil A, Rummel M, Kurch L, Georgi T, Jox T, Bielack S, Burdach S, Classen CF, Claviez A, Debatin KM, Ebinger M, Eggert A, Faber J, Flotho C, Frühwald M, Graf N, Jorch N, Kontny U, Kramm C, Kulozik A, Kühr J, Sykora KW, Metzler M, Müller HL, Nathrath M, Nüßlein T, Paulussen M, Pekrun A, Reinhardt D, Reinhard H, Rössig C, Sauerbrey A, Schlegel PG, Schneider DT, Scheurlen W, Schweigerer L, Simon T, Suttorp M, Vorwerk P, Schmitz R, Kluge R, Mauz-Körholz C, Körholz D, Gattenlöhner S, Bräuninger A. Genotyping circulating tumor DNA of pediatric Hodgkin lymphoma. Leukemia. 2020 Jan;34(1):151–166. PMID: 31431735

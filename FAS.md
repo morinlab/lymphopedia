@@ -1,4 +1,5 @@
 # FAS
+
 ## Overview
 FAS encodes a cell surface receptor involved in the induction of apoptosis. FAS mutations are common in DLBCL and may be more frequent in primary gastric DLBCL.<sup>1,2</sup> Mutations also occur in FL at a lower rate.<sup>3</sup> Although reported in one BL study,<sup>4</sup> overall the evidence for FAS mutations in BL remains sparse. Mutations in FAS often lead to a loss of function, making lymphoma cells resistant to Fas ligand-induced apoptosis, thereby allowing malignant cells to evade immune surveillance.<sup>5</sup> In mouse models, Fas mutations led to a significantly shorter lymphoma-specific survival and reduced sensitivity to chemotherapy.<sup>5</sup>
 ## History
@@ -9,6 +10,7 @@ timeline
       2007-05-01 : Scholl : DLBCL
       2016-09-08 : Spina : MZL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description                           |
@@ -42,11 +44,11 @@ timeline
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/FAS_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/FAS_protein_hg38.html)
 
-![image](images/proteinpaint/FAS_NM_000043.svg)
+![](images/proteinpaint/FAS_NM_000043.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/FAS.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/FAS_hg38.html)
 
-![image](images/proteinpaint/FAS.svg)
+![](images/proteinpaint/FAS.svg)
 
 ## References
 
@@ -56,7 +58,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/F
 4. *Panea RI, Love CL, Shingleton JR, Reddy A, Bailey JA, Moormann AM, Otieno JA, Ong'echa JM, Oduor CI, Schroeder KMS, Masalu N, Chao NJ, Agajanian M, Major MB, Fedoriw Y, Richards KL, Rymkiewicz G, Miles RR, Alobeid B, Bhagat G, Flowers CR, Ondrejka SL, Hsi ED, Choi WWL, Au-Yeung RKH, Hartmann W, Lenz G, Meyerson H, Lin YY, Zhuang Y, Luftig MA, Waldrop A, Dave T, Thakkar D, Sahay H, Li G, Palus BC, Seshadri V, Kim SY, Gascoyne RD, Levy S, Mukhopadyay M, Dunson DB, Dave SS. The whole-genome landscape of Burkitt lymphoma subtypes. Blood. 2019 Nov 7;134(19):1598-1607. doi: 10.1182/blood.2019001880. Erratum in: Blood. 2022 Feb 24;139(8):1256. Erratum in: Blood. 2023 Sep 7;142(10):940. PMID: 31558468; PMCID: PMC6871305.*
 5. *Rys, R., Venkataraman, M., Zeng, J., Mann, K., & Johnson, N. (2019). Fas Mutations in Non-Hodgkin's Lymphoma (NHL): Implications for Disease Progression and Therapeutic Resistance. Blood. https://doi.org/10.1182/blood-2019-130602.*
 ## FAS Expression
-![image](images/gene_expression/FAS_by_pathology.svg)
+![](images/gene_expression/FAS_by_pathology.svg)
 <!-- ORIGIN: schollMutationsRegionFAS2007 -->
 <!-- DLBCL: schollMutationsRegionFAS2007 -->
 <!-- MZL: spinaGeneticsNodalMarginal2016b -->

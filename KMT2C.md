@@ -1,4 +1,5 @@
 # KMT2C
+
 ## Overview
 This gene has been reported to be recurrently mutated in DLBCL. The rate of mutations in KMT2C (MLL3) varies across published cohorts. In the initial study describing these mutations, it was suggested to be mutated in >15% of DLBCLs.<sup>1</sup> The actual rate of mutations may be much lower,<sup>2</sup> potentially due to the existence of germline variants in some studies.<sup>3</sup> A more recent study suggested KMT2C mutations were more common in DLBCLs in patients of African ancestry.<sup>4</sup> Although KMT2C mutations have been described as a feature of MCL in a single study, this pattern was not reproduced in other cohorts.<sup>5</sup>
 
@@ -45,17 +46,15 @@ timeline
 |FL    |No  |No                   |0.550           |0.000           |
 
 
-> [!NOTE]
-> First described in BL in 2019 by [Zhou P](https://pubmed.ncbi.nlm.nih.gov/31300419). First described in DLBCL in 2013 by [Zhang J](https://pubmed.ncbi.nlm.nih.gov/23292937). First described in MCL in 2014 by [Zhang J](https://pubmed.ncbi.nlm.nih.gov/24682267)
 
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/KMT2C_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/KMT2C_protein_hg38.html)
 
-![image](images/proteinpaint/KMT2C_NM_170606.svg)
+![](images/proteinpaint/KMT2C_NM_170606.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/KMT2C.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/KMT2C_hg38.html)
 
-![image](images/proteinpaint/KMT2C.svg)
+![](images/proteinpaint/KMT2C.svg)
 
 ## References
 1. *Zhang J, Grubor V, Love CL, Banerjee A, Richards KL, Mieczkowski PA, Dunphy C, Choi W, Au WY, Srivastava G, Lugar PL, Rizzieri DA, Lagoo AS, Bernal-Mizrachi L, Mann KP, Flowers C, Naresh K, Evens A, Gordon LI, Czader M, Gill JI, Hsi ED, Liu Q, Fan A, Walsh K, Jima D, Smith LL, Johnson AJ, Byrd JC, Luftig MA, Ni T, Zhu J, Chadburn A, Levy S, Dunson D, Dave SS. Genetic heterogeneity of diffuse large B-cell lymphoma. Proc Natl Acad Sci U S A. 2013 Jan 22;110(4):1398-403. doi: 10.1073/pnas.1205299110. Epub 2013 Jan 4. PMID: 23292937; PMCID: PMC3557051.*
@@ -64,7 +63,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/K
 4. *Lee MJ, Koff JL, Switchenko JM, Jhaney CI, Harkins RA, Patel SP, Dave SS, Flowers CR. Genome-defined African ancestry is associated with distinct mutations and worse survival in patients with diffuse large B-cell lymphoma. Cancer. 2020 Aug 1;126(15):3493-3503. doi: 10.1002/cncr.32866. Epub 2020 May 29. PMID: 32469082; PMCID: PMC7494053.*
 5. *Zhang J, Jima D, Moffitt AB, Liu Q, Czader M, Hsi ED, Fedoriw Y, Dunphy CH, Richards KL, Gill JI, Sun Z, Love C, Scotland P, Lock E, Levy S, Hsu DS, Dunson D, Dave SS. The genomic landscape of mantle cell lymphoma is related to the epigenetically determined chromatin state of normal B cells. Blood. 2014 May 8;123(19):2988-96. doi: 10.1182/blood-2013-07-517177. Epub 2014 Mar 28. PMID: 24682267; PMCID: PMC4014841.*
 ## KMT2C Expression
-![image](images/gene_expression/KMT2C_by_pathology.svg)
+![](images/gene_expression/KMT2C_by_pathology.svg)
 <!-- ORIGIN: zhangGeneticHeterogeneityDiffuse2013 -->
 <!-- BL: zhouSporadicEndemicBurkitt2019 -->
 <!-- BL: zhouSporadicEndemicBurkitt2019 -->

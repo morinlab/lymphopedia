@@ -1,4 +1,5 @@
 # KLHL6
+
 ## Overview
 KLHL6 mutations appear to be relatively common in DLBCL, FL and possibly BL.<sup>1</sup> KLHL6 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus. KLHL6 mutations lead to the loss of its function as part of a cullin-RING ubiquitin ligase complex. 
 KLHL6 is considered a tumor suppressor gene in DLBCL with mutations tending to disrupt its interaction with cullin3, leading to the loss of its ligase activity.<sup>2</sup> 
@@ -77,14 +78,14 @@ timeline
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/KLHL6_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/KLHL6_protein_hg38.html)
 
-![image](images/proteinpaint/KLHL6_NM_130446.svg)
+![](images/proteinpaint/KLHL6_NM_130446.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/KLHL6.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/KLHL6_hg38.html)
 
-![image](images/proteinpaint/KLHL6.svg)
+![](images/proteinpaint/KLHL6.svg)
 
 ## KLHL6 Expression
-![image](images/gene_expression/KLHL6_by_pathology.svg)
+![](images/gene_expression/KLHL6_by_pathology.svg)
 <!-- ORIGIN: morinFrequentMutationHistonemodifying2011 -->
 
 ## References

@@ -1,4 +1,5 @@
 # MGA
+
 ## Overview
 MGA acts as a transcriptional repressor and interacts with MYC, a well-known oncogene. Mutations in MGA have been described in DLBCL.<sup>1</sup> One study suggested MGA mutations were more common in DLBCLs in patients of African ancestry.<sup>2</sup> The mutation pattern in MGA is consistent with a role as a tumour suppressor gene. 
 ## History
@@ -9,6 +10,7 @@ timeline
       2013-01-01 : Zhang : DLBCL
       2017-07-27 : Jallades : MZL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description               |
@@ -35,14 +37,14 @@ timeline
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/MGA_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/MGA_protein_hg38.html)
 
-![image](images/proteinpaint/MGA_NM_001164273.svg)
+![](images/proteinpaint/MGA_NM_001164273.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/MGA.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/MGA_hg38.html)
 
-![image](images/proteinpaint/MGA.svg)
+![](images/proteinpaint/MGA.svg)
 
 ## MGA Expression
-![image](images/gene_expression/MGA_by_pathology.svg)
+![](images/gene_expression/MGA_by_pathology.svg)
 
 ## References
 1. *Zhang J, Grubor V, Love CL, Banerjee A, Richards KL, Mieczkowski PA, Dunphy C, Choi W, Au WY, Srivastava G, Lugar PL, Rizzieri DA, Lagoo AS, Bernal-Mizrachi L, Mann KP, Flowers C, Naresh K, Evens A, Gordon LI, Czader M, Gill JI, Hsi ED, Liu Q, Fan A, Walsh K, Jima D, Smith LL, Johnson AJ, Byrd JC, Luftig MA, Ni T, Zhu J, Chadburn A, Levy S, Dunson D, Dave SS. Genetic heterogeneity of diffuse large B-cell lymphoma. Proc Natl Acad Sci U S A. 2013 Jan 22;110(4):1398-403. doi: 10.1073/pnas.1205299110. Epub 2013 Jan 4. PMID: 23292937; PMCID: PMC3557051.*

@@ -1,4 +1,5 @@
 # HIST1H1D
+
 ## Overview
 This is one of several genes that encode linker histone proteins that are recurrently mutated in DLBCL and FL.<sup>1,2</sup> Mutations are often found in the globular domain of the protein, which is critical for its interaction with DNA and other histone proteins. 
 ## History
@@ -10,6 +11,7 @@ timeline
       2017-01-26 : Krysiak : FL
       2017-07-27 : Jallades : MZL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description                           |
@@ -42,23 +44,23 @@ timeline
 |FL    |No  |No                   |0.857           |0               |
 
 
-> [!NOTE]
-> First described in DLBCL in 2013 by [Morin RD](https://pubmed.ncbi.nlm.nih.gov/23699601)
 
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/HIST1H1D_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/HIST1H1D_protein_hg38.html)
 
-![image](images/proteinpaint/HIST1H1D_NM_005320.svg)
+![](images/proteinpaint/HIST1H1D_NM_005320.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/HIST1H1D.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/HIST1H1D_hg38.html)
 
-![image](images/proteinpaint/HIST1H1D.svg)
+![](images/proteinpaint/HIST1H1D.svg)
+
 ## HIST1H1D Expression
-![image](images/gene_expression/HIST1H1D_by_pathology.svg)
+![](images/gene_expression/HIST1H1D_by_pathology.svg)
 <!-- ORIGIN: morinMutationalStructuralAnalysis2013 -->
 <!-- FL: krysiakRecurrentSomaticMutations2017b -->
 <!-- DLBCL: morinMutationalStructuralAnalysis2013 -->
 <!-- MZL: jalladesExomeSequencingIdentifies2017 -->
+
 ## References
 1.  Morin RD, Mungall K, Pleasance E, Mungall AJ, Goya R, Huff RD, Scott DW, Ding J, Roth A, Chiu R, Corbett RD, Chan FC, Mendez-Lago M, Trinh DL, Bolger-Munro M, Taylor G, Hadj Khodabakhshi A, Ben-Neriah S, Pon J, Meissner B, Woolcock B, Farnoud N, Rogic S, Lim EL, Johnson NA, Shah S, Jones S, Steidl C, Holt R, Birol I, Moore R, Connors JM, Gascoyne RD, Marra MA. Mutational and structural analysis of diffuse large B-cell lymphoma using whole-genome sequencing. Blood. 2013 Aug 15;122(7):1256–1265. PMCID: PMC3744992
 2.  Krysiak K, Gomez F, White BS, Matlock M, Miller CA, Trani L, Fronick CC, Fulton RS, Kreisel F, Cashen AF, Carson KR, Berrien-Elliott MM, Bartlett NL, Griffith M, Griffith OL, Fehniger TA. Recurrent somatic mutations affecting B-cell receptor signaling pathway genes in follicular lymphoma. Blood. 2017 Jan 26;129(4):473–483. PMCID: PMC5270390

@@ -32,11 +32,14 @@
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/FCRL3_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/FCRL3_protein_hg38.html)
 
-![image](images/proteinpaint/FCRL3_NM_052939.svg)
+![](images/proteinpaint/FCRL3_NM_052939.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/FCRL3.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/FCRL3_hg38.html)
 
-![image](images/proteinpaint/FCRL3.svg)
+![](images/proteinpaint/FCRL3.svg)
+
 ## FCRL3 Expression
-![image](images/gene_expression/FCRL3_by_pathology.svg)
+![](images/gene_expression/FCRL3_by_pathology.svg)
 <!-- ORIGIN: Unknown -->
+
+## References

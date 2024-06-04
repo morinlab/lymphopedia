@@ -32,11 +32,14 @@
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/FNBP1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/FNBP1_protein_hg38.html)
 
-![image](images/proteinpaint/FNBP1_NM_015033.svg)
+![](images/proteinpaint/FNBP1_NM_015033.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/FNBP1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/FNBP1_hg38.html)
 
-![image](images/proteinpaint/FNBP1.svg)
+![](images/proteinpaint/FNBP1.svg)
+
 ## FNBP1 Expression
-![image](images/gene_expression/FNBP1_by_pathology.svg)
+![](images/gene_expression/FNBP1_by_pathology.svg)
 <!-- ORIGIN: Unknown -->
+
+## References

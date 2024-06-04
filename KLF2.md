@@ -1,4 +1,5 @@
 # KLF2
+
 ## Overview
 KLF2 (Kruppel-like factor 2) is a transcription factor involved in the regulation of various cellular processes, including apoptosis, proliferation, and differentiation. Mutations in KLF2 have been identified in various B-cell lymphomas including DLBCL.<sup>1</sup> KLF2 mutations are among the most common mutations in splenic marginal zone lymphoma (SMZL).<sup>2</sup> KLF2 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus. These mutations are associated with the **BN2** genetic subgroup of DLBCL.<sup>3</sup> KLF2 mutations have been shown to impair the ability of KLF2 to suppress NF-κB activation by TLR, BCR, BAFFR, and TNFR signaling, thereby promoting lymphomagenesis. This implicates KLF2 as a tumor suppressor in B-cell lymphomas.<sup>2</sup> Contradictory to this, the mutation pattern in DLBCL implies selective pressure to retain a full-length protein.
 ## History
@@ -10,6 +11,7 @@ timeline
       2017-07-27 : Jallades : MZL
       2019-08-20 : Desch : PMBL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description               |
@@ -60,14 +62,14 @@ timeline
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/KLF2_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/KLF2_protein_hg38.html)
 
-![image](images/proteinpaint/KLF2_NM_016270.svg)
+![](images/proteinpaint/KLF2_NM_016270.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/KLF2.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/KLF2_hg38.html)
 
-![image](images/proteinpaint/KLF2.svg)
+![](images/proteinpaint/KLF2.svg)
 
 ## KLF2 Expression
-![image](images/gene_expression/KLF2_by_pathology.svg)
+![](images/gene_expression/KLF2_by_pathology.svg)
 
 ## References
 1. *Pasqualucci L, Trifonov V, Fabbri G, Ma J, Rossi D, Chiarenza A, Wells VA, Grunn A, Messina M, Elliot O, Chan J, Bhagat G, Chadburn A, Gaidano G, Mullighan CG, Rabadan R, Dalla-Favera R. Analysis of the coding genome of diffuse large B-cell lymphoma. Nat Genet. 2011 Jul 31;43(9):830-7. doi: 10.1038/ng.892. PMID: 21804550; PMCID: PMC3297422.*

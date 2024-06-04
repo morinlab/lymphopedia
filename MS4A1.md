@@ -1,4 +1,5 @@
 # MS4A1
+
 ## Overview
 MS4A1 encodes the CD20 protein, which is the target of rituximab and other therapeutic monoclonal antibodies. MS4A1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus. In relapsed DLBCLs, MS4A1 is sometimes mutated and these mutations have been shown to reduce CD20 expression.<sup>1</sup> 
 ## History
@@ -9,6 +10,7 @@ timeline
       2019-09-05 : Mottok : PMBL
       2020-07-14 : Rushton : DLBCL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description               |
@@ -44,9 +46,11 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/MS4A1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/MS4A1_hg38.html)
 
-![image](images/proteinpaint/MS4A1.svg)
+![](images/proteinpaint/MS4A1.svg)
+
 ## MS4A1 Expression
-![image](images/gene_expression/MS4A1_by_pathology.svg)
+![](images/gene_expression/MS4A1_by_pathology.svg)
+
 ## References
 <!-- ORIGIN: mottokIntegrativeGenomicAnalysis2019b -->
 <!-- DLBCL: rushtonGeneticEvolutionaryPatterns2020 -->

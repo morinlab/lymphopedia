@@ -1,4 +1,5 @@
 # DNMT1
+
 ## History
 
 ```mermaid
@@ -7,6 +8,7 @@ timeline
     title Publication timing
       2019-09-26 : Panea : BL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description                           |
@@ -30,20 +32,20 @@ timeline
 |FL    |No  |No                   |2.053           |0.000           |
 
 
-> [!NOTE]
-> First described in BL in 2019 by [Panea RI](https://pubmed.ncbi.nlm.nih.gov/31558468)
 
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/DNMT1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/DNMT1_protein_hg38.html)
 
-![image](images/proteinpaint/DNMT1_NM_001130823.svg)
+![](images/proteinpaint/DNMT1_NM_001130823.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/DNMT1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/DNMT1_hg38.html)
 
-![image](images/proteinpaint/DNMT1.svg)
+![](images/proteinpaint/DNMT1.svg)
+
 ## DNMT1 Expression
-![image](images/gene_expression/DNMT1_by_pathology.svg)
+![](images/gene_expression/DNMT1_by_pathology.svg)
 <!-- ORIGIN: paneaWholeGenomeLandscape2019 -->
 <!-- BL: paneaWholeGenomeLandscape2019 -->
+
 ## References
 1.  Panea R, Love C, Shingleton JR, Reddy A, Bailey J, Moormann A, Otieno J, Ong’echa J, Oduor C, Schroêder K, Masalu N, Chao N, Agajanian M, Major M, Fedoriw Y, Richards K, Rymkiewicz G, Miles R, Alobeid B, Bhagat G, Flowers C, Ondrejka S, Hsi E, Choi W, Au-Yeung R, Hartmann W, Lenz G, Meyerson H, Lin YY, Zhuang Y, Luftig M, Waldrop A, Dave T, Thakkar D, Sahay H, Li G, Palus B, Seshadri V, Kim S, Gascoyne R, Levy S, Mukhopadhyay M, Dunson D, Dave S. The whole genome landscape of Burkitt lymphoma subtypes. Blood. 2019; 

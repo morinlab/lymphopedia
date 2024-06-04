@@ -7,6 +7,7 @@ timeline
     title Publication timing
       2017-01-26 : Krysiak : FL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description            |
@@ -31,14 +32,16 @@ timeline
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/HIST1H3G_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/HIST1H3G_protein_hg38.html)
 
-![image](images/proteinpaint/HIST1H3G_NM_003534.svg)
+![](images/proteinpaint/HIST1H3G_NM_003534.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/HIST1H3G.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/HIST1H3G_hg38.html)
 
-![image](images/proteinpaint/HIST1H3G.svg)
+![](images/proteinpaint/HIST1H3G.svg)
+
 ## HIST1H3G Expression
-![image](images/gene_expression/HIST1H3G_by_pathology.svg)
+![](images/gene_expression/HIST1H3G_by_pathology.svg)
 <!-- ORIGIN: krysiakRecurrentSomaticMutations2017b -->
 <!-- FL: krysiakRecurrentSomaticMutations2017b -->
+
 ## References
 1.  Krysiak K, Gomez F, White BS, Matlock M, Miller CA, Trani L, Fronick CC, Fulton RS, Kreisel F, Cashen AF, Carson KR, Berrien-Elliott MM, Bartlett NL, Griffith M, Griffith OL, Fehniger TA. Recurrent somatic mutations affecting B-cell receptor signaling pathway genes in follicular lymphoma. Blood. 2017 Jan 26;129(4):473–483. PMCID: PMC5270390

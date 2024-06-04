@@ -1,4 +1,5 @@
 # GNAI2
+
 ## Overview
 Mutations in the GNAI2 gene, which encodes the G protein alpha subunit involved in signal transduction, have been identified as significant contributors to the pathogenesis of B-cell lymphomas, including BL, DLBCL and, to a lesser extent, FL.<sup>1</sup> Mutations in GNAI2, along with GNA13 and other small GTPases, affect the signaling pathways that regulate B-cell homing. These mutations are thought to cause aberrant localization and function of B-cells within lymphoid tissues.<sup>1</sup> The functional role of these mutations has not been studied as extensively as those in GNA13 and further work is needed to elucidate the specific role of these mutations in lymphomagenesis. 
 
@@ -12,6 +13,7 @@ timeline
       2013-08-15 : Morin : DLBCL
       2019-03-21 : Grande : BL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description               |
@@ -60,14 +62,14 @@ timeline
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/GNAI2_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/GNAI2_protein_hg38.html)
 
-![image](images/proteinpaint/GNAI2_NM_002070.svg)
+![](images/proteinpaint/GNAI2_NM_002070.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/GNAI2.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/GNAI2_hg38.html)
 
-![image](images/proteinpaint/GNAI2.svg)
+![](images/proteinpaint/GNAI2.svg)
 
 ## GNAI2 Expression
-![image](images/gene_expression/GNAI2_by_pathology.svg)
+![](images/gene_expression/GNAI2_by_pathology.svg)
 
 ## References
 1.  *Morin RD, Mungall K, Pleasance E, Mungall AJ, Goya R, Huff RD, Scott DW, Ding J, Roth A, Chiu R, Corbett RD, Chan FC, Mendez-Lago M, Trinh DL, Bolger-Munro M, Taylor G, Hadj Khodabakhshi A, Ben-Neriah S, Pon J, Meissner B, Woolcock B, Farnoud N, Rogic S, Lim EL, Johnson NA, Shah S, Jones S, Steidl C, Holt R, Birol I, Moore R, Connors JM, Gascoyne RD, Marra MA. Mutational and structural analysis of diffuse large B-cell lymphoma using whole-genome sequencing. Blood. 2013 Aug 15;122(7):1256–1265. PMCID: PMC3744992*

@@ -1,4 +1,5 @@
 # HIST1H4J
+
 ## History
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
@@ -7,6 +8,7 @@ timeline
       2019-09-05 : Mottok : PMBL
       2019-09-26 : Panea : BL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description                           |
@@ -31,19 +33,18 @@ timeline
 |FL    |No  |No                   |0.000           |0               |
 
 
-> [!NOTE]
-> First described in BL in 2019 by [Panea RI](https://pubmed.ncbi.nlm.nih.gov/31558468)
 
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/HIST1H4J_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/HIST1H4J_protein_hg38.html)
 
-![image](images/proteinpaint/HIST1H4J_NM_021968.svg)
+![](images/proteinpaint/HIST1H4J_NM_021968.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/HIST1H4J.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/HIST1H4J_hg38.html)
 
-![image](images/proteinpaint/HIST1H4J.svg)
+![](images/proteinpaint/HIST1H4J.svg)
+
 ## HIST1H4J Expression
-![image](images/gene_expression/HIST1H4J_by_pathology.svg)
+![](images/gene_expression/HIST1H4J_by_pathology.svg)
 
 ## References
 1.  Mottok A, Hung SS, Chavez EA, Woolcock B, Telenius A, Chong LC, Meissner B, Nakamura H, Rushton C, Viganò E, Sarkozy C, Gascoyne RD, Connors JM, Ben-Neriah S, Mungall A, Marra MA, Siebert R, Scott DW, Savage KJ, Steidl C. Integrative genomic analysis identifies key pathogenic mechanisms in primary mediastinal large B-cell lymphoma. Blood. 2019 Sep 5;134(10):802–813. PMID: 31292115
