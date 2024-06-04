@@ -1,4 +1,5 @@
 # ACE
+
 ## History
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
@@ -6,6 +7,7 @@ timeline
     title Publication timing
       2012-12-01 : Love : BL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description                           |
@@ -29,8 +31,6 @@ timeline
 |FL    |No  |No                   |1.256           |0               |
 
 
-> [!NOTE]
-> First described in BL in 2012 by [Love C](https://pubmed.ncbi.nlm.nih.gov/23143597)
 
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ACE_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ACE_protein_hg38.html)
@@ -40,6 +40,7 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ACE.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ACE_hg38.html)
 
 ![image](images/proteinpaint/ACE.svg)
+
 ## ACE Expression
 ![image](images/gene_expression/ACE_by_pathology.svg)
 <!-- ORIGIN: loveGeneticLandscapeMutations2012 -->
