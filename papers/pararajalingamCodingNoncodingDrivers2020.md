@@ -16,17 +16,20 @@ config:
     sankey:
         showValues: true
         linkColor: target
-        width: 300
+        width: 600
         height: 300
         nodeAlignment: right
         prefix: '('
         suffix: ' genes)'
 ---
 sankey-beta
-This study, MCL Tier 1, 6
+This study, New Tier 1, 6
+New Tier 1, MCL Tier 1, 6
 This study, MCL Tier 2, 1
-Other MCL studies, MCL Tier 1, 23
-Other MCL studies, MCL Tier 2, 46
+This study, New Tier 2, 1
+New Tier 2, MCL Tier 2, 1
+Other studies, MCL Tier 1, 23
+Other studies, MCL Tier 2, 46
 ```
 
 

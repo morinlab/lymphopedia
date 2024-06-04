@@ -15,17 +15,20 @@ config:
     sankey:
         showValues: true
         linkColor: target
-        width: 300
+        width: 600
         height: 300
         nodeAlignment: right
         prefix: '('
         suffix: ' genes)'
 ---
 sankey-beta
-This study, PMBL Tier 1, 6
+This study, New Tier 1, 6
+New Tier 1, PMBL Tier 1, 6
 This study, PMBL Tier 2, 15
-Other PMBL studies, PMBL Tier 1, 76
-Other PMBL studies, PMBL Tier 2, 82
+This study, New Tier 2, 15
+New Tier 2, PMBL Tier 2, 15
+Other studies, PMBL Tier 1, 76
+Other studies, PMBL Tier 2, 82
 ```
 
 

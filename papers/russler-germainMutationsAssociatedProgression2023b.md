@@ -15,17 +15,20 @@ config:
     sankey:
         showValues: true
         linkColor: target
-        width: 300
+        width: 600
         height: 300
         nodeAlignment: right
         prefix: '('
         suffix: ' genes)'
 ---
 sankey-beta
-This study, FL Tier 1, 1
+This study, New Tier 1, 1
+New Tier 1, FL Tier 1, 1
 This study, FL Tier 2, 19
-Other FL studies, FL Tier 1, 66
-Other FL studies, FL Tier 2, 50
+This study, New Tier 2, 19
+New Tier 2, FL Tier 2, 19
+Other studies, FL Tier 1, 66
+Other studies, FL Tier 2, 50
 ```
 
 

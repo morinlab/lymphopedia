@@ -8,31 +8,34 @@ bibliography: 'morinlab.bib'
 
 |Entity| Tier 1 genes| Tier 2 genes|
 |:-:|:-:|:-:|
-|DLBCL|1||
 |FL|1||
+|DLBCL|1||
 ```mermaid
 ---
 config:
     sankey:
         showValues: true
         linkColor: target
-        width: 300
+        width: 600
         height: 300
         nodeAlignment: right
         prefix: '('
         suffix: ' genes)'
 ---
 sankey-beta
-This study, DLBCL Tier 1, 1
+This study, New Tier 1, 1
+New Tier 1, DLBCL Tier 1, 1
 This study, DLBCL Tier 2, 
-Other DLBCL studies, DLBCL Tier 1, 128
-Other DLBCL studies, DLBCL Tier 2, 198
+This study, New Tier 2, 
+New Tier 2, DLBCL Tier 2, 
+Other studies, DLBCL Tier 1, 128
+Other studies, DLBCL Tier 2, 198
 ```
 
 
 ## Novel genes reported in this study
 
-|New gene|DLBCL tier|FL tier|
+|New gene|FL tier|DLBCL tier|
 |:-|:-:|:-:|
 |[TNFRSF14](TNFRSF14)|1 |1 |
 

@@ -16,17 +16,20 @@ config:
     sankey:
         showValues: true
         linkColor: target
-        width: 300
+        width: 600
         height: 300
         nodeAlignment: right
         prefix: '('
         suffix: ' genes)'
 ---
 sankey-beta
-This study, DLBCL Tier 1, 1
-This study, DLBCL Tier 2, 
-Other DLBCL studies, DLBCL Tier 1, 128
-Other DLBCL studies, DLBCL Tier 2, 198
+This study, New Tier 1, 1
+New Tier 1, FL Tier 1, 1
+This study, FL Tier 2, 
+This study, New Tier 2, 
+New Tier 2, FL Tier 2, 
+Other studies, FL Tier 1, 66
+Other studies, FL Tier 2, 50
 ```
 
 

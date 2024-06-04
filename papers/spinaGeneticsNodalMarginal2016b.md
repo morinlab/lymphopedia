@@ -15,17 +15,20 @@ config:
     sankey:
         showValues: true
         linkColor: target
-        width: 300
+        width: 600
         height: 300
         nodeAlignment: right
         prefix: '('
         suffix: ' genes)'
 ---
 sankey-beta
-This study, MZL Tier 1, 8
+This study, New Tier 1, 8
+New Tier 1, MZL Tier 1, 8
 This study, MZL Tier 2, 23
-Other MZL studies, MZL Tier 1, 42
-Other MZL studies, MZL Tier 2, 74
+This study, New Tier 2, 23
+New Tier 2, MZL Tier 2, 23
+Other studies, MZL Tier 1, 42
+Other studies, MZL Tier 2, 74
 ```
 
 
