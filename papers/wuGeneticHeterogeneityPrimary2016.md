@@ -26,8 +26,8 @@ This study, New Tier 1, 1
 New Tier 1, MCL Tier 1, 1
 This study, New Tier 2, 
 New Tier 2, MCL Tier 2, 
-Other studies, MCL Tier 1, 22
-Other studies, MCL Tier 2, 46
+All other MCL studies, MCL Tier 1, 22
+All other MCL studies, MCL Tier 2, 46
 ```
 
 

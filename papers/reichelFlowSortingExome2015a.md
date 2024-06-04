@@ -26,8 +26,8 @@ This study, New Tier 1, 11
 New Tier 1, PMBL Tier 1, 11
 This study, New Tier 2, 18
 New Tier 2, PMBL Tier 2, 18
-Other studies, PMBL Tier 1, 65
-Other studies, PMBL Tier 2, 64
+All other PMBL studies, PMBL Tier 1, 65
+All other PMBL studies, PMBL Tier 2, 64
 ```
 
 

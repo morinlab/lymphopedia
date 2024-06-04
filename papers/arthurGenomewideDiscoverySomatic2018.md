@@ -26,8 +26,8 @@ This study, New Tier 1, 8
 New Tier 1, DLBCL Tier 1, 8
 This study, New Tier 2, 12
 New Tier 2, DLBCL Tier 2, 12
-Other studies, DLBCL Tier 1, 120
-Other studies, DLBCL Tier 2, 186
+All other DLBCL studies, DLBCL Tier 1, 120
+All other DLBCL studies, DLBCL Tier 2, 186
 ```
 
 

@@ -27,8 +27,8 @@ This study, New Tier 1, 10
 New Tier 1, MZL Tier 1, 10
 This study, New Tier 2, 11
 New Tier 2, MZL Tier 2, 11
-Other studies, MZL Tier 1, 32
-Other studies, MZL Tier 2, 63
+All other MZL studies, MZL Tier 1, 32
+All other MZL studies, MZL Tier 2, 63
 ```
 
 

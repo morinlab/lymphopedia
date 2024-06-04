@@ -26,8 +26,8 @@ This study, New Tier 1, 2
 New Tier 1, BL Tier 1, 2
 This study, New Tier 2, 3
 New Tier 2, BL Tier 2, 3
-Other studies, BL Tier 1, 27
-Other studies, BL Tier 2, 154
+All other BL studies, BL Tier 1, 27
+All other BL studies, BL Tier 2, 154
 ```
 
 

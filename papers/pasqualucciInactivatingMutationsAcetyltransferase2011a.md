@@ -27,8 +27,8 @@ This study, New Tier 1, 2
 New Tier 1, FL Tier 1, 2
 This study, New Tier 2, 
 New Tier 2, FL Tier 2, 
-Other studies, FL Tier 1, 64
-Other studies, FL Tier 2, 50
+All other FL studies, FL Tier 1, 64
+All other FL studies, FL Tier 2, 50
 ```
 
 
