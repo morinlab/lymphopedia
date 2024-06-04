@@ -10,6 +10,25 @@ bibliography: 'morinlab.bib'
 |:-:|:-:|:-:|
 |BL|4|16|
 |DLBCL|2|3|
+```mermaid
+---
+config:
+    sankey:
+        showValues: true
+        linkColor: target
+        width: 300
+        height: 300
+        nodeAlignment: right
+        prefix: '('
+        suffix: ' genes)'
+---
+sankey-beta
+This study, BL Tier 1, 4
+This study, BL Tier 2, 16
+Other BL studies, BL Tier 1, 29
+Other BL studies, BL Tier 2, 157
+```
+
 
 ## Novel genes reported in this study
 

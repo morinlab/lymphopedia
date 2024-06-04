@@ -10,6 +10,25 @@ bibliography: 'morinlab.bib'
 |:-:|:-:|:-:|
 |DLBCL|12|2|
 |MZL|10|11|
+```mermaid
+---
+config:
+    sankey:
+        showValues: true
+        linkColor: target
+        width: 300
+        height: 300
+        nodeAlignment: right
+        prefix: '('
+        suffix: ' genes)'
+---
+sankey-beta
+This study, MZL Tier 1, 10
+This study, MZL Tier 2, 11
+Other MZL studies, MZL Tier 1, 42
+Other MZL studies, MZL Tier 2, 74
+```
+
 
 ## Novel genes reported in this study
 

@@ -9,6 +9,25 @@ bibliography: 'morinlab.bib'
 |Entity| Tier 1 genes| Tier 2 genes|
 |:-:|:-:|:-:|
 |MCL|3|2|
+```mermaid
+---
+config:
+    sankey:
+        showValues: true
+        linkColor: target
+        width: 300
+        height: 300
+        nodeAlignment: right
+        prefix: '('
+        suffix: ' genes)'
+---
+sankey-beta
+This study, MCL Tier 1, 3
+This study, MCL Tier 2, 2
+Other MCL studies, MCL Tier 1, 23
+Other MCL studies, MCL Tier 2, 46
+```
+
 
 ## Novel genes reported in this study
 

@@ -9,6 +9,25 @@ bibliography: 'morinlab.bib'
 |Entity| Tier 1 genes| Tier 2 genes|
 |:-:|:-:|:-:|
 |FL|17|5|
+```mermaid
+---
+config:
+    sankey:
+        showValues: true
+        linkColor: target
+        width: 300
+        height: 300
+        nodeAlignment: right
+        prefix: '('
+        suffix: ' genes)'
+---
+sankey-beta
+This study, FL Tier 1, 17
+This study, FL Tier 2, 5
+Other FL studies, FL Tier 1, 66
+Other FL studies, FL Tier 2, 50
+```
+
 
 ## Novel genes reported in this study
 

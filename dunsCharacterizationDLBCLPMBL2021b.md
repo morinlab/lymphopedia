@@ -10,6 +10,25 @@ bibliography: 'morinlab.bib'
 |:-:|:-:|:-:|
 |DLBCL|8|3|
 |PMBL|6|8|
+```mermaid
+---
+config:
+    sankey:
+        showValues: true
+        linkColor: target
+        width: 300
+        height: 300
+        nodeAlignment: right
+        prefix: '('
+        suffix: ' genes)'
+---
+sankey-beta
+This study, PMBL Tier 1, 6
+This study, PMBL Tier 2, 8
+Other PMBL studies, PMBL Tier 1, 76
+Other PMBL studies, PMBL Tier 2, 82
+```
+
 
 ## Novel genes reported in this study
 
