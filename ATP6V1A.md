@@ -33,6 +33,7 @@ timeline
 
  ## ATP6V1A Hotspots
 
+
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |
 | chr3 | 113528218 | G>A | D600N |
