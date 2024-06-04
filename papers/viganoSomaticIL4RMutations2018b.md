@@ -35,7 +35,7 @@ All other PMBL studies, PMBL Tier 2, 82
 
 |New gene|PMBL tier|
 |:-|:-:|
-|[IL4R](IL4R)|1 |
+|[IL4R](../IL4R)|1 |
 
 # Details
 

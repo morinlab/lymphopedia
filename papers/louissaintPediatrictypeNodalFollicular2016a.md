@@ -35,7 +35,7 @@ All other FL studies, FL Tier 2, 50
 
 |New gene|FL tier|
 |:-|:-:|
-|[MAP2K1](MAP2K1)|1 |
+|[MAP2K1](../MAP2K1)|1 |
 
 # Details
 

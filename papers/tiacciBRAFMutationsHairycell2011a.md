@@ -35,7 +35,7 @@ All other DLBCL studies, DLBCL Tier 2, 198
 
 |New gene|DLBCL tier|
 |:-|:-:|
-|[BRAF](BRAF)|1 |
+|[BRAF](../BRAF)|1 |
 
 # Details
 

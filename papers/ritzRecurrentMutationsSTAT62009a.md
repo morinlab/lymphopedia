@@ -35,7 +35,7 @@ All other PMBL studies, PMBL Tier 2, 82
 
 |New gene|PMBL tier|
 |:-|:-:|
-|[STAT6](STAT6)|1 |
+|[STAT6](../STAT6)|1 |
 
 # Details
 

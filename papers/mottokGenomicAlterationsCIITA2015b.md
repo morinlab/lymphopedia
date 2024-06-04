@@ -35,7 +35,7 @@ All other PMBL studies, PMBL Tier 2, 82
 
 |New gene|PMBL tier|
 |:-|:-:|
-|[CIITA](CIITA)|1 |
+|[CIITA](../CIITA)|1 |
 
 # Details
 

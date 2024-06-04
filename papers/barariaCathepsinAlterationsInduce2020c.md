@@ -35,7 +35,7 @@ All other FL studies, FL Tier 2, 50
 
 |New gene|FL tier|
 |:-|:-:|
-|[CTSS](CTSS)|1 |
+|[CTSS](../CTSS)|1 |
 
 # Details
 

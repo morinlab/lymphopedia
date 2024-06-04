@@ -35,7 +35,7 @@ All other DLBCL studies, DLBCL Tier 2, 198
 
 |New gene|DLBCL tier|
 |:-|:-:|
-|[CARD11](CARD11)|1 |
+|[CARD11](../CARD11)|1 |
 
 # Details
 

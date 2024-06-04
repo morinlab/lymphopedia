@@ -35,7 +35,7 @@ All other DLBCL studies, DLBCL Tier 2, 198
 
 |New gene|DLBCL tier|
 |:-|:-:|
-|[MS4A1](MS4A1)|1 |
+|[MS4A1](../MS4A1)|1 |
 
 # Details
 

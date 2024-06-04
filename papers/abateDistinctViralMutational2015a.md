@@ -35,7 +35,7 @@ All other BL studies, BL Tier 2, 156
 
 |New gene|BL tier|
 |:-|:-:|
-|[CCNF](CCNF)|2 |
+|[CCNF](../CCNF)|2 |
 
 # Details
 

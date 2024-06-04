@@ -35,7 +35,7 @@ All other PMBL studies, PMBL Tier 2, 82
 
 |New gene|PMBL tier|
 |:-|:-:|
-|[CD58](CD58)|1 |
+|[CD58](../CD58)|1 |
 
 # Details
 

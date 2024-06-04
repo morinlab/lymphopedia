@@ -35,7 +35,7 @@ All other DLBCL studies, DLBCL Tier 2, 198
 
 |New gene|DLBCL tier|
 |:-|:-:|
-|[PRDM1](PRDM1)|1 |
+|[PRDM1](../PRDM1)|1 |
 
 # Details
 

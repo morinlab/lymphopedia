@@ -35,7 +35,7 @@ All other DLBCL studies, DLBCL Tier 2, 197
 
 |New gene|DLBCL tier|
 |:-|:-:|
-|[MIR142](MIR142)|2 |
+|[MIR142](../MIR142)|2 |
 
 # Details
 

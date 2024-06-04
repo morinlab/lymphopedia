@@ -35,11 +35,11 @@ All other BL studies, BL Tier 2, 157
 
 |New gene|BL tier|
 |:-|:-:|
-|[CCND3](CCND3)|1 |
-|[FBXO11](FBXO11)|1 |
-|[ID3](ID3)|1 |
-|[RHOA](RHOA)|1 |
-|[SMARCA4](SMARCA4)|1 |
+|[CCND3](../CCND3)|1 |
+|[FBXO11](../FBXO11)|1 |
+|[ID3](../ID3)|1 |
+|[RHOA](../RHOA)|1 |
+|[SMARCA4](../SMARCA4)|1 |
 
 # Details
 

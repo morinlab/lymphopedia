@@ -35,7 +35,7 @@ All other FL studies, FL Tier 2, 49
 
 |New gene|FL tier|
 |:-|:-:|
-|[SESN1](SESN1)|2 |
+|[SESN1](../SESN1)|2 |
 
 # Details
 

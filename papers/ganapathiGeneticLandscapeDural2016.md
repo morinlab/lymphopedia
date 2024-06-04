@@ -35,7 +35,7 @@ All other MZL studies, MZL Tier 2, 74
 
 |New gene|MZL tier|
 |:-|:-:|
-|[KLHL6](KLHL6)|1 |
+|[KLHL6](../KLHL6)|1 |
 
 # Details
 

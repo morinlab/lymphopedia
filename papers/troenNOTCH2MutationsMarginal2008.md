@@ -35,7 +35,7 @@ All other DLBCL studies, DLBCL Tier 2, 198
 
 |New gene|DLBCL tier|
 |:-|:-:|
-|[NOTCH2](NOTCH2)|1 |
+|[NOTCH2](../NOTCH2)|1 |
 
 # Details
 

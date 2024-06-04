@@ -35,8 +35,8 @@ All other PMBL studies, PMBL Tier 2, 82
 
 |New gene|PMBL tier|
 |:-|:-:|
-|[MAP3K14](MAP3K14)|1 |
-|[TRAF3](TRAF3)|1 |
+|[MAP3K14](../MAP3K14)|1 |
+|[TRAF3](../TRAF3)|1 |
 
 # Details
 

@@ -35,10 +35,10 @@ All other DLBCL studies, DLBCL Tier 2, 197
 
 |New gene|DLBCL tier|
 |:-|:-:|
-|[ACTB](ACTB)|1 |
-|[KRAS](KRAS)|1 |
-|[P2RY8](P2RY8)|1 |
-|[PCLO](PCLO)|2 |
+|[ACTB](../ACTB)|1 |
+|[KRAS](../KRAS)|1 |
+|[P2RY8](../P2RY8)|1 |
+|[PCLO](../PCLO)|2 |
 
 # Details
 

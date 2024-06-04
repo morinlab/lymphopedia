@@ -35,7 +35,7 @@ All other DLBCL studies, DLBCL Tier 2, 198
 
 |New gene|DLBCL tier|
 |:-|:-:|
-|[MYD88](MYD88)|1 |
+|[MYD88](../MYD88)|1 |
 
 # Details
 

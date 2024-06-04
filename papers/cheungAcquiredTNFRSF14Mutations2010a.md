@@ -24,11 +24,11 @@ config:
 ---
 sankey-beta
 This study, New Tier 1, 1
-New Tier 1, FL Tier 1, 1
+New Tier 1, DLBCL Tier 1, 1
 This study, New Tier 2, 0
-New Tier 2, FL Tier 2, 0
-All other FL studies, FL Tier 1, 65
-All other FL studies, FL Tier 2, 50
+New Tier 2, DLBCL Tier 2, 0
+All other DLBCL studies, DLBCL Tier 1, 127
+All other DLBCL studies, DLBCL Tier 2, 198
 ```
 
 
@@ -36,7 +36,7 @@ All other FL studies, FL Tier 2, 50
 
 |New gene|DLBCL tier|FL tier|
 |:-|:-:|:-:|
-|[TNFRSF14](TNFRSF14)|1 |1 |
+|[TNFRSF14](../TNFRSF14)|1 |1 |
 
 # Details
 

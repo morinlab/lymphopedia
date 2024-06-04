@@ -35,7 +35,7 @@ All other PMBL studies, PMBL Tier 2, 82
 
 |New gene|PMBL tier|
 |:-|:-:|
-|[NFKBIE](NFKBIE)|1 |
+|[NFKBIE](../NFKBIE)|1 |
 
 # Details
 

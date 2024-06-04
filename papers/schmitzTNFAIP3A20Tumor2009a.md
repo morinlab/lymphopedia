@@ -35,7 +35,7 @@ All other PMBL studies, PMBL Tier 2, 82
 
 |New gene|PMBL tier|
 |:-|:-:|
-|[TNFAIP3](TNFAIP3)|1 |
+|[TNFAIP3](../TNFAIP3)|1 |
 
 # Details
 

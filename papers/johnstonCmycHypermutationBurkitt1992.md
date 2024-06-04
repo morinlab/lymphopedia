@@ -35,7 +35,7 @@ All other BL studies, BL Tier 2, 157
 
 |New gene|BL tier|
 |:-|:-:|
-|[MYC](MYC)|1 |
+|[MYC](../MYC)|1 |
 
 # Details
 

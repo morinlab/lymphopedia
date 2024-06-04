@@ -35,7 +35,7 @@ All other PMBL studies, PMBL Tier 2, 82
 
 |New gene|PMBL tier|
 |:-|:-:|
-|[XPO1](XPO1)|1 |
+|[XPO1](../XPO1)|1 |
 
 # Details
 

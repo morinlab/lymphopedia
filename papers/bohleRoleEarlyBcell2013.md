@@ -35,7 +35,7 @@ All other DLBCL studies, DLBCL Tier 2, 198
 
 |New gene|DLBCL tier|
 |:-|:-:|
-|[EBF1](EBF1)|1 |
+|[EBF1](../EBF1)|1 |
 
 # Details
 

@@ -35,7 +35,7 @@ All other BL studies, BL Tier 2, 157
 
 |New gene|BL tier|
 |:-|:-:|
-|[TP53](TP53)|1 |
+|[TP53](../TP53)|1 |
 
 # Details
 

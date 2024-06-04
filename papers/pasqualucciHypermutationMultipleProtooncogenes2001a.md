@@ -35,10 +35,10 @@ All other DLBCL studies, DLBCL Tier 2, 196
 
 |New gene|DLBCL tier|
 |:-|:-:|
-|[MYC](MYC)|1 |
-|[PAX5](PAX5)|2 |
-|[PIM1](PIM1)|1 |
-|[RHOH](RHOH)|2 |
+|[MYC](../MYC)|1 |
+|[PAX5](../PAX5)|2 |
+|[PIM1](../PIM1)|1 |
+|[RHOH](../RHOH)|2 |
 
 # Details
 

@@ -8,8 +8,8 @@ bibliography: 'morinlab.bib'
 
 |Entity| Tier 1 genes| Tier 2 genes|
 |:-:|:-:|:-:|
-|DLBCL|1|0|
 |FL|3|0|
+|DLBCL|1|0|
 ```mermaid
 ---
 config:
@@ -34,11 +34,11 @@ All other FL studies, FL Tier 2, 50
 
 ## Novel genes reported in this study
 
-|New gene|DLBCL tier|FL tier|
+|New gene|FL tier|DLBCL tier|
 |:-|:-:|:-:|
-|[ATP6AP1](ATP6AP1)| |1 |
-|[ATP6V1B2](ATP6V1B2)| |1 |
-|[RRAGC](RRAGC)|1 |1 |
+|[ATP6AP1](../ATP6AP1)|1 | |
+|[ATP6V1B2](../ATP6V1B2)|1 | |
+|[RRAGC](../RRAGC)|1 |1 |
 
 # Details
 

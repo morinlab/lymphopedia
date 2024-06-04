@@ -35,7 +35,7 @@ All other PMBL studies, PMBL Tier 2, 82
 
 |New gene|PMBL tier|
 |:-|:-:|
-|[PTPN1](PTPN1)|1 |
+|[PTPN1](../PTPN1)|1 |
 
 # Details
 

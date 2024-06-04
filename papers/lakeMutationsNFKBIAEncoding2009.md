@@ -35,7 +35,7 @@ All other DLBCL studies, DLBCL Tier 2, 198
 
 |New gene|DLBCL tier|
 |:-|:-:|
-|[NFKBIA](NFKBIA)|1 |
+|[NFKBIA](../NFKBIA)|1 |
 
 # Details
 

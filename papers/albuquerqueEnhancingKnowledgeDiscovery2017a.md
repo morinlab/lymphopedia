@@ -35,9 +35,9 @@ All other DLBCL studies, DLBCL Tier 2, 198
 
 |New gene|DLBCL tier|
 |:-|:-:|
-|[BTK](BTK)|1 |
-|[TET2](TET2)|1 |
-|[TMSB4X](TMSB4X)|1 |
+|[BTK](../BTK)|1 |
+|[TET2](../TET2)|1 |
+|[TMSB4X](../TMSB4X)|1 |
 
 # Details
 

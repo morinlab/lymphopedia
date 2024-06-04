@@ -36,8 +36,8 @@ All other FL studies, FL Tier 2, 50
 
 |New gene|DLBCL tier|FL tier|
 |:-|:-:|:-:|
-|[CREBBP](CREBBP)|1 |1 |
-|[EP300](EP300)|1 |1 |
+|[CREBBP](../CREBBP)|1 |1 |
+|[EP300](../EP300)|1 |1 |
 
 # Details
 

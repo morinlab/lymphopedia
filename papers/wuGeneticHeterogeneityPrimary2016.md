@@ -35,7 +35,7 @@ All other MCL studies, MCL Tier 2, 46
 
 |New gene|MCL tier|
 |:-|:-:|
-|[CARD11](CARD11)|1 |
+|[CARD11](../CARD11)|1 |
 
 # Details
 

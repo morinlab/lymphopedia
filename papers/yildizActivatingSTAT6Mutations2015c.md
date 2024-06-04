@@ -36,7 +36,7 @@ All other DLBCL studies, DLBCL Tier 2, 198
 
 |New gene|DLBCL tier|FL tier|
 |:-|:-:|:-:|
-|[STAT6](STAT6)|1 |1 |
+|[STAT6](../STAT6)|1 |1 |
 
 # Details
 

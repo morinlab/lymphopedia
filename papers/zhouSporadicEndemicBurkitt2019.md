@@ -35,7 +35,7 @@ All other BL studies, BL Tier 2, 156
 
 |New gene|BL tier|
 |:-|:-:|
-|[KMT2C](KMT2C)|2 |
+|[KMT2C](../KMT2C)|2 |
 
 # Details
 

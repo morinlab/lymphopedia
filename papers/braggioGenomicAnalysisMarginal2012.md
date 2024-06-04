@@ -35,7 +35,7 @@ All other MZL studies, MZL Tier 2, 74
 
 |New gene|MZL tier|
 |:-|:-:|
-|[ATM](ATM)|1 |
+|[ATM](../ATM)|1 |
 
 # Details
 
