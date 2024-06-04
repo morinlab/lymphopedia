@@ -31,7 +31,7 @@ timeline
 |FL    |No  |No                   |8.783           |0               |
 
 
- ## ATP6V1A Hotspots
+ ## Known ATP6V1A Hotspots
 
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
