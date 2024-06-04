@@ -1,4 +1,3 @@
-
 # B2M
 
 ## Overview
@@ -14,6 +13,7 @@ timeline
       2015-02-12 : Reichel : PMBL
       2020-07-30 : Pararajalingam : MCL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description                            |
@@ -46,8 +46,6 @@ timeline
 |FL    |No  |Yes                  |54.190          |326.834         |
 
 
-> [!NOTE]
-> First described in DLBCL in 2011 by [Morin RD](https://pubmed.ncbi.nlm.nih.gov/21796119). First described in FL in 2011 by [Morin RD](https://pubmed.ncbi.nlm.nih.gov/21796119). First described in MCL in 2020 by [Pararajalingam P](https://pubmed.ncbi.nlm.nih.gov/32160292)
 
  ## B2M Hotspots
 
@@ -77,14 +75,14 @@ timeline
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/B2M_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/B2M_protein_hg38.html)
 
-![image](images/proteinpaint/B2M_NM_004048.svg)
+![](images/proteinpaint/B2M_NM_004048.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/B2M.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/B2M_hg38.html)
 
-![image](images/proteinpaint/B2M.svg)
+![](images/proteinpaint/B2M.svg)
 
 ## B2M Expression
-![image](images/gene_expression/B2M_by_pathology.svg)
+![](images/gene_expression/B2M_by_pathology.svg)
 
 
 
@@ -94,6 +92,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/B
 <!-- FL: morinFrequentMutationHistonemodifying2011 -->
 <!-- MCL: pararajalingamCodingNoncodingDrivers2020 -->
 <!-- DLBCL: morinFrequentMutationHistonemodifying2011 -->
+
 ## References
 1.  Morin RD, Mendez-Lago M, Mungall AJ, Goya R, Mungall KL, Corbett RD, Johnson NA, Severson TM, Chiu R, Field M, Jackman S, Krzywinski M, Scott DW, Trinh DL, Tamura-Wells J, Li S, Firme MR, Rogic S, Griffith M, Chan S, Yakovenko O, Meyer IM, Zhao EY, Smailus D, Moksa M, Chittaranjan S, Rimsza L, Brooks-Wilson A, Spinelli JJ, Ben-Neriah S, Meissner B, Woolcock B, Boyle M, McDonald H, Tam A, Zhao Y, Delaney A, Zeng T, Tse K, Butterfield Y, Birol I, Holt R, Schein J, Horsman DE, Moore R, Jones SJM, Connors JM, Hirst M, Gascoyne RD, Marra MA. Frequent mutation of histone-modifying genes in non-Hodgkin lymphoma. Nature. 2011 Jul 27;476(7360):298–303. PMCID: PMC3210554
 2.  Reichel J, Chadburn A, Rubinstein PG, Giulino-Roth L, Tam W, Liu Y, Gaiolla R, Eng K, Brody J, Inghirami G, Carlo-Stella C, Santoro A, Rahal D, Totonchy J, Elemento O, Cesarman E, Roshal M. Flow sorting and exome sequencing reveal the oncogenome of primary Hodgkin and Reed-Sternberg cells. Blood. 2015 Feb 12;125(7):1061–1072. PMID: 25488972
