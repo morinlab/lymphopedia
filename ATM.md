@@ -1,4 +1,5 @@
 # ATM
+
 ## History
 Mutations in this gene were first described in MZL by Braggio et al,<sup>1</sup> then in MCL by Bea et al.<sup>2</sup> ATM mutations were later described in DLBCL by Reddy et al.<sup>3</sup>
 
@@ -41,13 +42,14 @@ Mutations in this gene were first described in MZL by Braggio et al,<sup>1</sup>
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ATM_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ATM_protein_hg38.html)
 
-![image](images/proteinpaint/ATM_NM_000051.svg)
+![](images/proteinpaint/ATM_NM_000051.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ATM.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ATM_hg38.html)
 
-![image](images/proteinpaint/ATM.svg)
+![](images/proteinpaint/ATM.svg)
+
 ## ATM Expression
-![image](images/gene_expression/ATM_by_pathology.svg)
+![](images/gene_expression/ATM_by_pathology.svg)
 
 ## References
 1. *Braggio E, Dogan A, Keats JJ, Chng WJ, Huang G, Matthews JM, Maurer MJ, Law ME, Bosler DS, Barrett M, Lossos IS, Witzig TE, Fonseca R. Genomic analysis of marginal zone and lymphoplasmacytic lymphomas identified common and disease-specific abnormalities. Mod Pathol. 2012 May;25(5):651–660. PMCID: PMC3341516*
