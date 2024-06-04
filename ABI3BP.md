@@ -1,4 +1,5 @@
 # ABI3BP
+
 ## History
 Mutations were first described in DLBCL in 2013 by Morin et al.<sup>1</sup> Subsequent exome and genome-wide studies of DLBCL did not reproduce this observation. 
 
@@ -8,6 +9,7 @@ timeline
     title Publication timing
       2013-08-15 : Morin : DLBCL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description                              |
@@ -33,13 +35,14 @@ timeline
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ABI3BP_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ABI3BP_protein_hg38.html)
 
-![image](images/proteinpaint/ABI3BP_NM_015429.svg)
+![](images/proteinpaint/ABI3BP_NM_015429.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ABI3BP.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ABI3BP_hg38.html)
 
-![image](images/proteinpaint/ABI3BP.svg)
+![](images/proteinpaint/ABI3BP.svg)
+
 ## ABI3BP Expression
-![image](images/gene_expression/ABI3BP_by_pathology.svg)
+![](images/gene_expression/ABI3BP_by_pathology.svg)
 
 ## References
 

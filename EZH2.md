@@ -1,4 +1,6 @@
+
 # EZH2
+
 ## Overview
 EZH2 encodes a histone methyltransferase that is a component of the polycomb repressive complex 2 (PRC2). This gene is recurrently mutated in both FL and DLBCL and has a common mutation hot spot (Y646) that affects the SET domain.<sup>1</sup> Mutations of this residue and some of the less common hotspots lead to enhanced methylation by PRC2.<sup>2,3</sup> Pharmacologic inhibitors of this activity such as tazemetostat have shown benefit in FL.<sup>3</sup> EZH2 mutations are one of the defining features of the EZB genetic subgroup of DLBCL. Although mutations in EZH2 have been described in some BL patients, they are extremely rare in most studies.<sup>4</sup> 
 ## History
@@ -10,6 +12,7 @@ timeline
       2012-12-01 : Love : BL
       2019-09-05 : Mottok : PMBL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description                           |
@@ -46,8 +49,6 @@ timeline
 |FL    |No  |Yes                  |117.987         |0               |
 
 
-> [!NOTE]
-> First described in BL in 2012 by [Love C](https://pubmed.ncbi.nlm.nih.gov/23143597). First described in DLBCL in 2010 by [Morin RD](https://pubmed.ncbi.nlm.nih.gov/20081860). First described in FL in 2010 by [Morin RD](https://pubmed.ncbi.nlm.nih.gov/20081860)
 
 
  ## EZH2 Hotspots
@@ -68,14 +69,14 @@ timeline
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/EZH2_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/EZH2_protein_hg38.html)
 
-![image](images/proteinpaint/EZH2_NM_001203247.svg)
+![](images/proteinpaint/EZH2_NM_001203247.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/EZH2.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/EZH2_hg38.html)
 
-![image](images/proteinpaint/EZH2.svg)
+![](images/proteinpaint/EZH2.svg)
 
 ## EZH2 Expression
-![image](images/gene_expression/EZH2_by_pathology.svg)
+![](images/gene_expression/EZH2_by_pathology.svg)
 
 ## References
 
