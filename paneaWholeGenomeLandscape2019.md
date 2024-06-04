@@ -17,7 +17,7 @@ config:
         linkColor: target
         width: 300
         height: 300
-        nodeAlignment: right
+        nodeAlignment: left
         prefix: '('
         suffix: ' genes)'
 ---
