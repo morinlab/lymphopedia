@@ -9,6 +9,7 @@ timeline
     title Publication timing
       2021-05-05 : H : FL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description                           |
