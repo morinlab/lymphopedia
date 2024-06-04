@@ -8,7 +8,7 @@ bibliography: 'morinlab.bib'
 
 |Entity| Tier 1 genes| Tier 2 genes|
 |:-:|:-:|:-:|
-|FL||1|
+|FL|0|1|
 ```mermaid
 ---
 config:
@@ -22,8 +22,8 @@ config:
         suffix: ' genes)'
 ---
 sankey-beta
-This study, New Tier 1, 
-New Tier 1, FL Tier 1, 
+This study, New Tier 1, 0
+New Tier 1, FL Tier 1, 0
 This study, New Tier 2, 1
 New Tier 2, FL Tier 2, 1
 All other FL studies, FL Tier 1, 66

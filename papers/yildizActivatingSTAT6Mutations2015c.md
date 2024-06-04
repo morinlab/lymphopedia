@@ -8,8 +8,8 @@ bibliography: 'morinlab.bib'
 
 |Entity| Tier 1 genes| Tier 2 genes|
 |:-:|:-:|:-:|
-|DLBCL|1||
-|FL|1||
+|DLBCL|1|0|
+|FL|1|0|
 ```mermaid
 ---
 config:
@@ -24,11 +24,11 @@ config:
 ---
 sankey-beta
 This study, New Tier 1, 1
-New Tier 1, DLBCL Tier 1, 1
-This study, New Tier 2, 
-New Tier 2, DLBCL Tier 2, 
-All other DLBCL studies, DLBCL Tier 1, 127
-All other DLBCL studies, DLBCL Tier 2, 198
+New Tier 1, FL Tier 1, 1
+This study, New Tier 2, 0
+New Tier 2, FL Tier 2, 0
+All other FL studies, FL Tier 1, 65
+All other FL studies, FL Tier 2, 50
 ```
 
 

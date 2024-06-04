@@ -8,7 +8,7 @@ bibliography: 'morinlab.bib'
 
 |Entity| Tier 1 genes| Tier 2 genes|
 |:-:|:-:|:-:|
-|BL|5||
+|BL|5|0|
 ```mermaid
 ---
 config:
@@ -24,8 +24,8 @@ config:
 sankey-beta
 This study, New Tier 1, 5
 New Tier 1, BL Tier 1, 5
-This study, New Tier 2, 
-New Tier 2, BL Tier 2, 
+This study, New Tier 2, 0
+New Tier 2, BL Tier 2, 0
 All other BL studies, BL Tier 1, 24
 All other BL studies, BL Tier 2, 157
 ```

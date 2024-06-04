@@ -8,7 +8,7 @@ bibliography: 'morinlab.bib'
 
 |Entity| Tier 1 genes| Tier 2 genes|
 |:-:|:-:|:-:|
-|MZL||8|
+|MZL|0|8|
 |DLBCL|3|1|
 ```mermaid
 ---
@@ -23,8 +23,8 @@ config:
         suffix: ' genes)'
 ---
 sankey-beta
-This study, New Tier 1, 
-New Tier 1, MZL Tier 1, 
+This study, New Tier 1, 0
+New Tier 1, MZL Tier 1, 0
 This study, New Tier 2, 8
 New Tier 2, MZL Tier 2, 8
 All other MZL studies, MZL Tier 1, 42
