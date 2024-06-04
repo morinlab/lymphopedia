@@ -13,20 +13,20 @@ bibliography: 'morinlab.bib'
 ```mermaid
 ---
 config:
-sankey:
-showValues: true
-linkColor: target
-width: 300
-height: 300
-nodeAlignment: right
-prefix: '('
-suffix: ' genes)'
+    sankey:
+        showValues: true
+        linkColor: target
+        width: 300
+        height: 300
+        nodeAlignment: right
+        prefix: '('
+        suffix: ' genes)'
 ---
 sankey-beta
 This study, DLBCL Tier 1, 27
 This study, DLBCL Tier 2, 1
-Earlier DLBCL studies, DLBCL Tier 1, 128
-Earlier DLBCL studies, DLBCL Tier 2, 198
+Other DLBCL studies, DLBCL Tier 1, 128
+Other DLBCL studies, DLBCL Tier 2, 198
 ```
 
 
