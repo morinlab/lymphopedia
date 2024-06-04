@@ -2,6 +2,7 @@
 
 ## Overview
 BIRC6, as a negative regulator of non-canonical NF-κB signaling, is implicated in lymphomagenesis. Mutations in the BIRC6 have been found in DLBCL and grey zone lymphoma (GZL).<sup>1,2</sup> 
+
 ## History
 
 ```mermaid
