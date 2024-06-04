@@ -10,6 +10,25 @@ bibliography: 'morinlab.bib'
 |:-:|:-:|:-:|
 |DLBCL|27|1|
 |FL|19|4|
+```mermaid
+---
+config:
+sankey:
+showValues: true
+linkColor: target
+width: 300
+height: 300
+nodeAlignment: right
+prefix: '('
+suffix: ' genes)'
+---
+sankey-beta
+This study, DLBCL Tier 1, 
+This study, DLBCL Tier 2, 
+Earlier DLBCL studies, DLBCL Tier 1, 128
+Earlier DLBCL studies, DLBCL Tier 2, 198
+```
+
 
 ## Novel genes reported in this study
 
