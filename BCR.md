@@ -29,8 +29,6 @@ BCR (Breakpoint Cluster Region Protein) is one of [a number of genes](https://gi
 |:--------:|:----------:|:--------:|:------------------------------------------------------------------------------------------:|:------------------:|
 |chr22   |23522060  |23528313|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr22%3A23522060%2D23528313)|NA                |
 
-> [!NOTE]
-> First described in BL in 2019 by [Panea RI](https://pubmed.ncbi.nlm.nih.gov/31558468)
 
 
  ## BCR Hotspots
@@ -47,12 +45,14 @@ BCR (Breakpoint Cluster Region Protein) is one of [a number of genes](https://gi
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/BCR_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/BCR_protein_hg38.html)
 
-![image](images/proteinpaint/BCR_NM_004327.svg)
+![](images/proteinpaint/BCR_NM_004327.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/BCR.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/BCR_hg38.html)
 
-![image](images/proteinpaint/BCR.svg)
+![](images/proteinpaint/BCR.svg)
+
 ## BCR Expression
-![image](images/gene_expression/BCR_by_pathology.svg)
+![](images/gene_expression/BCR_by_pathology.svg)
 <!-- ORIGIN: Unknown -->
+
 ## References

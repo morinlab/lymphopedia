@@ -1,4 +1,5 @@
 # BCL7A
+
 ## Overview
 
 BCL7A protein interacts with components of the SWI/SNF chromatin remodeling complex, implicating it in chromatin remodeling processes essential for normal cellular function.<sup>1</sup> Mutations in the BCL7A gene have been identified in diffuse large B-cell lymphoma (DLBCL) and other B-cell lymphomas, implicating this gene in the pathogenesis of these cancers. Importantly, BCL7A is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus. Due to the presence of some loss-of-function mutations, BCL7A has been described as a tumour-suppressor gene in DLBCL.<sup>2</sup> The rate of DLBCLs with biallelic loss of this locus remains unclear. 
@@ -16,6 +17,7 @@ timeline
       2018-10-01 : Arthur : DLBCL
       2019-03-21 : Grande : BL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description                           |
@@ -57,14 +59,14 @@ timeline
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/BCL7A_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/BCL7A_protein_hg38.html)
 
-![image](images/proteinpaint/BCL7A_NM_020993.svg)
+![](images/proteinpaint/BCL7A_NM_020993.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/BCL7A.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/BCL7A_hg38.html)
 
-![image](images/proteinpaint/BCL7A.svg)
+![](images/proteinpaint/BCL7A.svg)
 
 ## BCL7A Expression
-![image](images/gene_expression/BCL7A_by_pathology.svg)
+![](images/gene_expression/BCL7A_by_pathology.svg)
 
 
 <!-- ORIGIN: reichelFlowSortingExome2015a -->
@@ -72,6 +74,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/B
 <!-- FL: krysiakRecurrentSomaticMutations2017b -->
 <!-- BL: grandeGenomewideDiscoverySomatic2019 -->
 <!-- DLBCL: arthurGenomewideDiscoverySomatic2018 -->
+
 ## References
 1.  *Reichel J, Chadburn A, Rubinstein PG, Giulino-Roth L, Tam W, Liu Y, Gaiolla R, Eng K, Brody J, Inghirami G, Carlo-Stella C, Santoro A, Rahal D, Totonchy J, Elemento O, Cesarman E, Roshal M. Flow sorting and exome sequencing reveal the oncogenome of primary Hodgkin and Reed-Sternberg cells. Blood. 2015 Feb 12;125(7):1061–1072. PMID: 25488972*
 2.  *Krysiak K, Gomez F, White BS, Matlock M, Miller CA, Trani L, Fronick CC, Fulton RS, Kreisel F, Cashen AF, Carson KR, Berrien-Elliott MM, Bartlett NL, Griffith M, Griffith OL, Fehniger TA. Recurrent somatic mutations affecting B-cell receptor signaling pathway genes in follicular lymphoma. Blood. 2017 Jan 26;129(4):473–483. PMCID: PMC5270390*

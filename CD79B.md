@@ -1,4 +1,5 @@
 # CD79B
+
 ## Overview
 CD79B mutations significantly contribute to the pathogenesis of DLBCL by enhancing BCR signaling and promoting tumor survival. These mutations, especially when co-occurring with MYD88 mutations, define a unique molecular subtype.<sup>1</sup> This has clinical and therapeutic implications as it may contribute sensitivity to BTK inhibitors. In an inducible mouse model of MYD88-driven DLBCL, CD79B mutations did not accelerate lymphomagenesis but demonstrated an increased sensitivity to pharmacological BTK inhibition.<sup>2</sup> In a retrospective analysis, younger patients with MCD DLBCL that were treated with ibrutinib had significantly better outcomes.<sup>3</sup> The most common hotspot mutation in CD79B is at the tyrosine residue 196 (Y196). This and other common mutations primarily occur in the immunoreceptor tyrosine-based activation motif (ITAM) domain and prevent the negative regulatory feedback provided by Lyn kinase thereby enhancing BCR signaling.  
 ## History
@@ -9,6 +10,7 @@ timeline
       2011-07-27 : Morin : DLBCL
       2019-09-26 : Panea : BL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description                           |
@@ -64,14 +66,14 @@ Mutations at Y196 enhance B-cell receptor (BCR) signaling by preventing the nega
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CD79B_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CD79B_protein_hg38.html)
 
-![image](images/proteinpaint/CD79B_NM_000626.svg)
+![](images/proteinpaint/CD79B_NM_000626.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CD79B.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CD79B_hg38.html)
 
-![image](images/proteinpaint/CD79B.svg)
+![](images/proteinpaint/CD79B.svg)
 
 ## CD79B Expression
-![image](images/gene_expression/CD79B_by_pathology.svg)
+![](images/gene_expression/CD79B_by_pathology.svg)
 
 ## References
 1. *Wright GW, Huang DW, Phelan JD, Coulibaly ZA, Roulland S, Young RM, Wang JQ, Schmitz R, Morin RD, Tang J, Jiang A, Bagaev A, Plotnikova O, Kotlov N, Johnson CA, Wilson WH, Scott DW, Staudt LM. A Probabilistic Classification Tool for Genetic Subtypes of Diffuse Large B Cell Lymphoma with Therapeutic Implications. Cancer Cell. 2020 Apr 13;37(4):551-568.e14. doi: 10.1016/j.ccell.2020.03.015. PMID: 32289277; PMCID: PMC8459709.*

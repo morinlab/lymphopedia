@@ -1,4 +1,5 @@
 # CASP8
+
 ## Overview
 
 Caspase-8 mutations are relatively rare but have been documented in various non-Hodgkin lymphomas (NHLs). One study found no CASP8 mutations in gastrointestinal lymphomas, suggesting that these mutations may not be prevalent in all lymphoma types.<sup>1</sup> Due to the rarity of these mutations, their role remains poorly understood. Loss of caspase-8 may promote lymphomagenesis by impairing cytokinesis and increasing chromosomal aberrations.<sup>2</sup> 
@@ -12,6 +13,7 @@ timeline
     title Publication timing
       2017-10-10 : Reddy : DLBCL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description               |
@@ -36,20 +38,18 @@ timeline
 |FL    |No  |No                   | 8.788          |0               |
 
 
-> [!NOTE]
-> First described in DLBCL in 2017 by [Reddy A](https://pubmed.ncbi.nlm.nih.gov/28985567)
 
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CASP8_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CASP8_protein_hg38.html)
 
-![image](images/proteinpaint/CASP8_NM_001228.svg)
+![](images/proteinpaint/CASP8_NM_001228.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CASP8.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CASP8_hg38.html)
 
-![image](images/proteinpaint/CASP8.svg)
+![](images/proteinpaint/CASP8.svg)
 
 ## CASP8 Expression
-![image](images/gene_expression/CASP8_by_pathology.svg)
+![](images/gene_expression/CASP8_by_pathology.svg)
 
 ## References
 

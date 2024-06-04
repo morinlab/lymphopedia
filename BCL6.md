@@ -1,5 +1,5 @@
-
 # BCL6
+
 ## Overview
 
 BCL6 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus. Although common, particularly in DLBCL, the function of many of these mutations remains unclear but some have been shown to affect the regulation of BCL6 expression.<sup>1,2</sup> The role of BCL6 missense mutations, seen over 9% of patients,<sup>3</sup> remains unclear. 
@@ -11,6 +11,7 @@ timeline
       2011-07-27 : Morin : DLBCL
       2012-12-01 : Love : BL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description                           |
@@ -51,8 +52,6 @@ timeline
 |chr3    |187675741 |187690717|[Intergenic-4](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr3%3A187675741%2D187690717)|NA                |
 |chr3    |187690717 |187705000|[Intergenic-5](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr3%3A187690717%2D187705000)|NA                |
 
-> [!NOTE]
-> First described in BL in 2019 by [Grande BM](https://pubmed.ncbi.nlm.nih.gov/30617194).First described in FL in 2023 by [Dreval K](https://pubmed.ncbi.nlm.nih.gov/37084389)
 
 
  ## BCL6 Hotspots
@@ -70,17 +69,18 @@ timeline
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/BCL6_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/BCL6_protein_hg38.html)
 
-![image](images/proteinpaint/BCL6_NM_001706.svg)
+![](images/proteinpaint/BCL6_NM_001706.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/BCL6.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/BCL6_hg38.html)
 
-![image](images/proteinpaint/BCL6.svg)
+![](images/proteinpaint/BCL6.svg)
 
 ## BCL6 Expression
-![image](images/gene_expression/BCL6_by_pathology.svg)
+![](images/gene_expression/BCL6_by_pathology.svg)
 <!-- ORIGIN: 21796119 -->
 <!-- BL: loveGeneticLandscapeMutations2012 -->
 <!-- DLBCL: morinFrequentMutationHistonemodifying2011 -->
+
 ## References
 1.  Morin RD, Mendez-Lago M, Mungall AJ, Goya R, Mungall KL, Corbett RD, Johnson NA, Severson TM, Chiu R, Field M, Jackman S, Krzywinski M, Scott DW, Trinh DL, Tamura-Wells J, Li S, Firme MR, Rogic S, Griffith M, Chan S, Yakovenko O, Meyer IM, Zhao EY, Smailus D, Moksa M, Chittaranjan S, Rimsza L, Brooks-Wilson A, Spinelli JJ, Ben-Neriah S, Meissner B, Woolcock B, Boyle M, McDonald H, Tam A, Zhao Y, Delaney A, Zeng T, Tse K, Butterfield Y, Birol I, Holt R, Schein J, Horsman DE, Moore R, Jones SJM, Connors JM, Hirst M, Gascoyne RD, Marra MA. Frequent mutation of histone-modifying genes in non-Hodgkin lymphoma. Nature. 2011 Jul 27;476(7360):298–303. PMCID: PMC3210554
 2.  Love C, Sun Z, Jima D, Li G, Zhang J, Miles R, Richards KL, Dunphy CH, Choi WWL, Srivastava G, Lugar PL, Rizzieri DA, Lagoo AS, Bernal-Mizrachi L, Mann KP, Flowers CR, Naresh KN, Evens AM, Chadburn A, Gordon LI, Czader MB, Gill JI, Hsi ED, Greenough A, Moffitt AB, McKinney M, Banerjee A, Grubor V, Levy S, Dunson DB, Dave SS. The genetic landscape of mutations in Burkitt lymphoma. Nat Genet. 2012 Dec;44(12):1321–1325. PMCID: PMC3674561

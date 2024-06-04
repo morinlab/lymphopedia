@@ -1,4 +1,5 @@
 # BIRC3
+
 ## History
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
@@ -9,6 +10,7 @@ timeline
       2018-10-01 : Arthur : DLBCL
       2021-07-15 : Duns : PMBL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description                              |
@@ -42,24 +44,24 @@ timeline
 |:--------:|:----------:|:---------:|:--------------------------------------------------------------------------------------------:|:------------------:|
 |chr11   |102188170 |102190077|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr11%3A102188170%2D102190077)|active_promoter   |
 
-> [!NOTE]
-> First described in DLBCL in 2018 by [Arthur SE](https://pubmed.ncbi.nlm.nih.gov/30275490). First described in MCL in 2013 by [Beà S](https://pubmed.ncbi.nlm.nih.gov/24145436)
 
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/BIRC3_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/BIRC3_protein_hg38.html)
 
-![image](images/proteinpaint/BIRC3_NM_001165.svg)
+![](images/proteinpaint/BIRC3_NM_001165.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/BIRC3.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/BIRC3_hg38.html)
 
-![image](images/proteinpaint/BIRC3.svg)
+![](images/proteinpaint/BIRC3.svg)
+
 ## BIRC3 Expression
-![image](images/gene_expression/BIRC3_by_pathology.svg)
+![](images/gene_expression/BIRC3_by_pathology.svg)
 <!-- ORIGIN: rossiAlterationBIRC3Multiple2011a -->
 <!-- PMBL: dunsCharacterizationDLBCLPMBL2021b -->
 <!-- MZL: rossiAlterationBIRC3Multiple2011a -->
 <!-- MCL: beaLandscapeSomaticMutations2013 -->
 <!-- DLBCL: arthurGenomewideDiscoverySomatic2018 -->
+
 ## References
 1.  Rossi D, Deaglio S, Dominguez-Sola D, Rasi S, Vaisitti T, Agostinelli C, Spina V, Bruscaggin A, Monti S, Cerri M, Cresta S, Fangazio M, Arcaini L, Lucioni M, Marasca R, Thieblemont C, Capello D, Facchetti F, Kwee I, Pileri SA, Foà R, Bertoni F, Dalla-Favera R, Pasqualucci L, Gaidano G. Alteration of BIRC3 and multiple other NF-κB pathway genes in splenic marginal zone lymphoma. Blood. 2011 Nov 3;118(18):4930–4934. PMID: 21881048
 2.  Beà S, Valdés-Mas R, Navarro A, Salaverria I, Martín-Garcia D, Jares P, Giné E, Pinyol M, Royo C, Nadeu F, Conde L, Juan M, Clot G, Vizán P, Croce LD, Puente DA, López-Guerra M, Moros A, Roue G, Aymerich M, Villamor N, Colomo L, Martínez A, Valera A, Martín-Subero JI, Amador V, Hernández L, Rozman M, Enjuanes A, Forcada P, Muntañola A, Hartmann EM, Calasanz MJ, Rosenwald A, Ott G, Hernández-Rivas JM, Klapper W, Siebert R, Wiestner A, Wilson WH, Colomer D, López-Guillermo A, López-Otín C, Puente XS, Campo E. Landscape of somatic mutations and clonal evolution in mantle cell lymphoma. PNAS. 2013 Nov 5;110(45):18250–18255. PMID: 24145436

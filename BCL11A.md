@@ -1,4 +1,5 @@
 # BCL11A
+
 ## Overview
 BCL11A (B-cell lymphoma/leukemia 11A) is a transcription factor involved in the regulation of gene expression, particularly in lymphoid cells. Mutations in BCL11A have been linked to various lymphoid malignancies, including B-cell lymphomas. Amplification of the 2p13 region, where BCL11A is located, has been observed in various B-cell non-Hodgkin lymphomas (B-NHL) and Hodgkin disease (HD). Although this suggests that BCL11A amplification contributes to the malignancy through increased expression, the gene is commonly co-amplified with the REL gene.<sup>1</sup> The functional role of somatic mutations of BCL11A in B-cell lymphomas remains unclear. This is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus.
 
@@ -50,15 +51,15 @@ BCL11A (B-cell lymphoma/leukemia 11A) is a transcription factor involved in the 
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/BCL11A_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/BCL11A_protein_hg38.html)
 
-![image](images/proteinpaint/BCL11A_NM_022893.svg)
+![](images/proteinpaint/BCL11A_NM_022893.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/BCL11A.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/BCL11A_hg38.html)
 
-![image](images/proteinpaint/BCL11A.svg)
+![](images/proteinpaint/BCL11A.svg)
 
 ## References
 
 1. *Satterwhite E, Sonoki T, Willis TG, Harder L, Nowak R, Arriola EL, Liu H, Price HP, Gesk S, Steinemann D, Schlegelberger B, Oscier DG, Siebert R, Tucker PW, Dyer MJ. The BCL11 gene family: involvement of BCL11A in lymphoid malignancies. Blood. 2001 Dec 1;98(12):3413-20. doi: 10.1182/blood.v98.12.3413. PMID: 11719382.*
 ## BCL11A Expression
-![image](images/gene_expression/BCL11A_by_pathology.svg)
+![](images/gene_expression/BCL11A_by_pathology.svg)
 <!-- ORIGIN: Unknown -->

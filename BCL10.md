@@ -1,4 +1,5 @@
 # BCL10
+
 ## Overview
 BCL10 (B-cell lymphoma/leukemia 10) is a gene involved in apoptosis signaling and immune response regulation. Mutations in BCL10 have been implicated in the pathogenesis of various lymphomas, particularly mucosa-associated lymphoid tissue (MALT) lymphomas. They have also been reproducibly observed in a smaller proportion of DLBCLs with the frequency in non-MALT lymphomas under some debate.<sup>1</sup>
 ## History
@@ -10,6 +11,7 @@ timeline
       2016-09-08 : Spina : MZL
       2023-07-26 : Russler : FL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description                           |
@@ -51,15 +53,15 @@ timeline
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/BCL10_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/BCL10_protein_hg38.html)
 
-![image](images/proteinpaint/BCL10_NM_003921.svg)
+![](images/proteinpaint/BCL10_NM_003921.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/BCL10.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/BCL10_hg38.html)
 
-![image](images/proteinpaint/BCL10.svg)
+![](images/proteinpaint/BCL10.svg)
 
 ## BCL10 Expression
 
-![image](images/gene_expression/BCL10_by_pathology.svg)
+![](images/gene_expression/BCL10_by_pathology.svg)
 
 ## References
 
