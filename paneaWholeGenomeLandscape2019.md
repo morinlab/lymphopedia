@@ -15,7 +15,7 @@ config:
     sankey:
         showValues: true
         linkColor: target
-        width: 300
+        width: 600
         height: 300
         nodeAlignment: left
         prefix: '('
