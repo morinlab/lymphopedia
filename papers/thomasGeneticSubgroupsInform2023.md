@@ -30,16 +30,21 @@ All other BL studies, BL Tier 1, 27
 All other BL studies, BL Tier 2, 154
 ```
 
-
 ## Novel genes reported in this study
 
+### Tier 1
+|New gene|BL tier|
+|:-|:-:|
+|[PHF6](../PHF6)|1 |
+|[WNK1](../WNK1)|1 |
+
+### Tier 2
 |New gene|BL tier|
 |:-|:-:|
 |[CDKN2C](../CDKN2C)|2 |
 |[EBF1](../EBF1)|2 |
 |[EHD1](../EHD1)|2 |
-|[PHF6](../PHF6)|1 |
-|[WNK1](../WNK1)|1 |
+
 
 # Details
 

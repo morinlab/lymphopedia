@@ -31,13 +31,14 @@ All other FL studies, FL Tier 1, 64
 All other FL studies, FL Tier 2, 50
 ```
 
-
 ## Novel genes reported in this study
 
+### Tier 1
 |New gene|DLBCL tier|FL tier|
 |:-|:-:|:-:|
 |[CREBBP](../CREBBP)|1 |1 |
 |[EP300](../EP300)|1 |1 |
+
 
 # Details
 

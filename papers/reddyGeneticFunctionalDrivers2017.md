@@ -30,17 +30,26 @@ All other DLBCL studies, DLBCL Tier 1, 121
 All other DLBCL studies, DLBCL Tier 2, 145
 ```
 
-
 ## Novel genes reported in this study
 
+### Tier 1
+|New gene|DLBCL tier|
+|:-|:-:|
+|[ATM](../ATM)|1 |
+|[BIRC6](../BIRC6)|1 |
+|[HIST1H2BC](../HIST1H2BC)|1 |
+|[HNRNPU](../HNRNPU)|1 |
+|[SETD1B](../SETD1B)|1 |
+|[TOX](../TOX)|1 |
+|[UBE2A](../UBE2A)|1 |
+
+### Tier 2
 |New gene|DLBCL tier|
 |:-|:-:|
 |[ANKRD17](../ANKRD17)|2 |
 |[ARID1B](../ARID1B)|2 |
 |[ARID5B](../ARID5B)|2 |
-|[ATM](../ATM)|1 |
 |[ATR](../ATR)|2 |
-|[BIRC6](../BIRC6)|1 |
 |[BRINP3](../BRINP3)|2 |
 |[BTBD3](../BTBD3)|2 |
 |[CASP8](../CASP8)|2 |
@@ -58,8 +67,6 @@ All other DLBCL studies, DLBCL Tier 2, 145
 |[FUBP1](../FUBP1)|2 |
 |[GNAS](../GNAS)|2 |
 |[GOLGA5](../GOLGA5)|2 |
-|[HIST1H2BC](../HIST1H2BC)|1 |
-|[HNRNPU](../HNRNPU)|1 |
 |[HRAS](../HRAS)|2 |
 |[IKBKB](../IKBKB)|2 |
 |[JUNB](../JUNB)|2 |
@@ -83,18 +90,16 @@ All other DLBCL studies, DLBCL Tier 2, 145
 |[PTPRK](../PTPRK)|2 |
 |[RARA](../RARA)|2 |
 |[RUNX1](../RUNX1)|2 |
-|[SETD1B](../SETD1B)|1 |
 |[SETD5](../SETD5)|2 |
 |[SYK](../SYK)|2 |
 |[TGFBR2](../TGFBR2)|2 |
 |[TIPARP](../TIPARP)|2 |
-|[TOX](../TOX)|1 |
-|[UBE2A](../UBE2A)|1 |
 |[WAC](../WAC)|2 |
 |[YY1](../YY1)|2 |
 |[ZBTB7A](../ZBTB7A)|2 |
 |[ZFAT](../ZFAT)|2 |
 |[ZFX](../ZFX)|2 |
+
 
 # Details
 

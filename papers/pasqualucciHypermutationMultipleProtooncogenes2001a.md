@@ -30,15 +30,20 @@ All other DLBCL studies, DLBCL Tier 1, 126
 All other DLBCL studies, DLBCL Tier 2, 196
 ```
 
-
 ## Novel genes reported in this study
 
+### Tier 1
 |New gene|DLBCL tier|
 |:-|:-:|
 |[MYC](../MYC)|1 |
-|[PAX5](../PAX5)|2 |
 |[PIM1](../PIM1)|1 |
+
+### Tier 2
+|New gene|DLBCL tier|
+|:-|:-:|
+|[PAX5](../PAX5)|2 |
 |[RHOH](../RHOH)|2 |
+
 
 # Details
 

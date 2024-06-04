@@ -30,14 +30,19 @@ All other BL studies, BL Tier 1, 28
 All other BL studies, BL Tier 2, 155
 ```
 
-
 ## Novel genes reported in this study
 
+### Tier 1
+|New gene|BL tier|
+|:-|:-:|
+|[P2RY8](../P2RY8)|1 |
+
+### Tier 2
 |New gene|BL tier|
 |:-|:-:|
 |[ARHGEF1](../ARHGEF1)|2 |
-|[P2RY8](../P2RY8)|1 |
 |[S1PR2](../S1PR2)|2 |
+
 
 # Details
 

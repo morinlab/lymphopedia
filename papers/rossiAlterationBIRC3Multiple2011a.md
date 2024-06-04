@@ -30,16 +30,21 @@ All other MZL studies, MZL Tier 1, 38
 All other MZL studies, MZL Tier 2, 73
 ```
 
-
 ## Novel genes reported in this study
 
+### Tier 1
 |New gene|MZL tier|
 |:-|:-:|
 |[BIRC3](../BIRC3)|1 |
-|[IKBKB](../IKBKB)|2 |
 |[MAP3K14](../MAP3K14)|1 |
 |[TNFAIP3](../TNFAIP3)|1 |
 |[TRAF3](../TRAF3)|1 |
+
+### Tier 2
+|New gene|MZL tier|
+|:-|:-:|
+|[IKBKB](../IKBKB)|2 |
+
 
 # Details
 

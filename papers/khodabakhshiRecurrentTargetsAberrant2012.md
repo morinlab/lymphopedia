@@ -30,12 +30,13 @@ All other DLBCL studies, DLBCL Tier 1, 127
 All other DLBCL studies, DLBCL Tier 2, 198
 ```
 
-
 ## Novel genes reported in this study
 
+### Tier 1
 |New gene|DLBCL tier|
 |:-|:-:|
 |[CXCR4](../CXCR4)|1 |
+
 
 # Details
 

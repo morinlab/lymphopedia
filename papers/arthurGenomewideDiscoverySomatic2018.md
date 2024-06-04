@@ -30,31 +30,36 @@ All other DLBCL studies, DLBCL Tier 1, 120
 All other DLBCL studies, DLBCL Tier 2, 186
 ```
 
-
 ## Novel genes reported in this study
 
+### Tier 1
 |New gene|DLBCL tier|
 |:-|:-:|
-|[AICDA](../AICDA)|2 |
 |[BCL7A](../BCL7A)|1 |
-|[BIRC3](../BIRC3)|2 |
-|[CD44](../CD44)|2 |
-|[CD74](../CD74)|2 |
 |[ETV6](../ETV6)|1 |
 |[GRHPR](../GRHPR)|1 |
 |[LCOR](../LCOR)|1 |
-|[LPP](../LPP)|2 |
-|[MALAT1](../MALAT1)|2 |
 |[MEF2C](../MEF2C)|1 |
-|[NEAT1](../NEAT1)|2 |
 |[OSBPL10](../OSBPL10)|1 |
 |[PIM2](../PIM2)|1 |
+|[ZC3H12A](../ZC3H12A)|1 |
+
+### Tier 2
+|New gene|DLBCL tier|
+|:-|:-:|
+|[AICDA](../AICDA)|2 |
+|[BIRC3](../BIRC3)|2 |
+|[CD44](../CD44)|2 |
+|[CD74](../CD74)|2 |
+|[LPP](../LPP)|2 |
+|[MALAT1](../MALAT1)|2 |
+|[NEAT1](../NEAT1)|2 |
 |[RFTN1](../RFTN1)|2 |
 |[SERPINA9](../SERPINA9)|2 |
 |[ST6GAL1](../ST6GAL1)|2 |
 |[TBC1D4](../TBC1D4)|2 |
-|[ZC3H12A](../ZC3H12A)|1 |
 |[ZCCHC7](../ZCCHC7)|2 |
+
 
 # Details
 

@@ -30,13 +30,18 @@ All other PMBL studies, PMBL Tier 1, 75
 All other PMBL studies, PMBL Tier 2, 81
 ```
 
-
 ## Novel genes reported in this study
 
+### Tier 1
+|New gene|PMBL tier|
+|:-|:-:|
+|[SOCS1](../SOCS1)|1 |
+
+### Tier 2
 |New gene|PMBL tier|
 |:-|:-:|
 |[GPR126](../GPR126)|2 |
-|[SOCS1](../SOCS1)|1 |
+
 
 # Details
 

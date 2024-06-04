@@ -31,9 +31,9 @@ All other MCL studies, MCL Tier 1, 17
 All other MCL studies, MCL Tier 2, 45
 ```
 
-
 ## Novel genes reported in this study
 
+### Tier 1
 |New gene|DLBCL tier|MCL tier|
 |:-|:-:|:-:|
 |[B2M](../B2M)|1 |2 |
@@ -43,6 +43,7 @@ All other MCL studies, MCL Tier 2, 45
 |[NFKBIE](../NFKBIE)|1 |1 |
 |[S1PR1](../S1PR1)| |1 |
 |[UBR5](../UBR5)|2 |1 |
+
 
 # Details
 

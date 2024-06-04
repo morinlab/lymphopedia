@@ -30,12 +30,13 @@ All other MCL studies, MCL Tier 1, 22
 All other MCL studies, MCL Tier 2, 46
 ```
 
-
 ## Novel genes reported in this study
 
+### Tier 1
 |New gene|MCL tier|
 |:-|:-:|
 |[CARD11](../CARD11)|1 |
+
 
 # Details
 

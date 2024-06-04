@@ -30,14 +30,20 @@ All other BL studies, BL Tier 1, 26
 All other BL studies, BL Tier 2, 101
 ```
 
-
 ## Novel genes reported in this study
 
+### Tier 1
+|New gene|BL tier|
+|:-|:-:|
+|[ARID1A](../ARID1A)|1 |
+|[GNA13](../GNA13)|1 |
+|[PTEN](../PTEN)|1 |
+
+### Tier 2
 |New gene|BL tier|
 |:-|:-:|
 |[ACAD9](../ACAD9)|2 |
 |[ACE](../ACE)|2 |
-|[ARID1A](../ARID1A)|1 |
 |[ATP2C2](../ATP2C2)|2 |
 |[BCL6](../BCL6)|2 |
 |[BRAF](../BRAF)|2 |
@@ -63,7 +69,6 @@ All other BL studies, BL Tier 2, 101
 |[FGFR3](../FGFR3)|2 |
 |[FTCD](../FTCD)|2 |
 |[GGTLA4](../GGTLA4)|2 |
-|[GNA13](../GNA13)|1 |
 |[GRIK5](../GRIK5)|2 |
 |[ICK](../ICK)|2 |
 |[ITPR3](../ITPR3)|2 |
@@ -78,7 +83,6 @@ All other BL studies, BL Tier 2, 101
 |[POLRMT](../POLRMT)|2 |
 |[POR](../POR)|2 |
 |[PRSS22](../PRSS22)|2 |
-|[PTEN](../PTEN)|1 |
 |[PTPRN](../PTPRN)|2 |
 |[RANBP6](../RANBP6)|2 |
 |[RBP3](../RBP3)|2 |
@@ -94,6 +98,7 @@ All other BL studies, BL Tier 2, 101
 |[TIGD6](../TIGD6)|2 |
 |[TPST2](../TPST2)|2 |
 |[ZNF229](../ZNF229)|2 |
+
 
 # Details
 

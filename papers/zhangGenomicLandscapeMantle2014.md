@@ -30,9 +30,15 @@ All other MCL studies, MCL Tier 1, 21
 All other MCL studies, MCL Tier 2, 20
 ```
 
-
 ## Novel genes reported in this study
 
+### Tier 1
+|New gene|MCL tier|
+|:-|:-:|
+|[POT1](../POT1)|1 |
+|[RB1](../RB1)|1 |
+
+### Tier 2
 |New gene|MCL tier|
 |:-|:-:|
 |[ANK2](../ANK2)|2 |
@@ -54,8 +60,6 @@ All other MCL studies, MCL Tier 2, 20
 |[OGDHL](../OGDHL)|2 |
 |[PCDHB2](../PCDHB2)|2 |
 |[PLXNB3](../PLXNB3)|2 |
-|[POT1](../POT1)|1 |
-|[RB1](../RB1)|1 |
 |[ROBO2](../ROBO2)|2 |
 |[SALL3](../SALL3)|2 |
 |[SI](../SI)|2 |
@@ -63,6 +67,7 @@ All other MCL studies, MCL Tier 2, 20
 |[TBC1D26](../TBC1D26)|2 |
 |[ZNF117](../ZNF117)|2 |
 |[ZNF296](../ZNF296)|2 |
+
 
 # Details
 

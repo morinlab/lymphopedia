@@ -30,9 +30,15 @@ All other DLBCL studies, DLBCL Tier 1, 126
 All other DLBCL studies, DLBCL Tier 2, 181
 ```
 
-
 ## Novel genes reported in this study
 
+### Tier 1
+|New gene|DLBCL tier|
+|:-|:-:|
+|[HIST1H1B](../HIST1H1B)|1 |
+|[LTB](../LTB)|1 |
+
+### Tier 2
 |New gene|DLBCL tier|
 |:-|:-:|
 |[CCL4](../CCL4)|2 |
@@ -41,9 +47,7 @@ All other DLBCL studies, DLBCL Tier 2, 181
 |[DOCK1](../DOCK1)|2 |
 |[FUT5](../FUT5)|2 |
 |[GABRA2](../GABRA2)|2 |
-|[HIST1H1B](../HIST1H1B)|1 |
 |[IL6](../IL6)|2 |
-|[LTB](../LTB)|1 |
 |[LYN](../LYN)|2 |
 |[NANOG](../NANOG)|2 |
 |[NAV1](../NAV1)|2 |
@@ -54,6 +58,7 @@ All other DLBCL studies, DLBCL Tier 2, 181
 |[SMEK1](../SMEK1)|2 |
 |[TLR2](../TLR2)|2 |
 |[ZNF423](../ZNF423)|2 |
+
 
 # Details
 

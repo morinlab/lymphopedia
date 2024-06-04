@@ -31,9 +31,9 @@ All other DLBCL studies, DLBCL Tier 1, 101
 All other DLBCL studies, DLBCL Tier 2, 197
 ```
 
-
 ## Novel genes reported in this study
 
+### Tier 1
 |New gene|DLBCL tier|FL tier|
 |:-|:-:|:-:|
 |[B2M](../B2M)|1 |1 |
@@ -44,7 +44,6 @@ All other DLBCL studies, DLBCL Tier 2, 197
 |[BTG2](../BTG2)|1 |1 |
 |[CARD11](../CARD11)|1 |1 |
 |[CCND3](../CCND3)|1 |1 |
-|[CD274](../CD274)|2 | |
 |[CD58](../CD58)|1 | |
 |[CD70](../CD70)|1 |2 |
 |[CD79B](../CD79B)|1 |2 |
@@ -64,6 +63,12 @@ All other DLBCL studies, DLBCL Tier 2, 197
 |[TMEM30A](../TMEM30A)|1 |2 |
 |[TP53](../TP53)|1 |1 |
 |[ZFP36L1](../ZFP36L1)|1 | |
+
+### Tier 2
+|New gene|DLBCL tier|FL tier|
+|:-|:-:|:-:|
+|[CD274](../CD274)|2 | |
+
 
 # Details
 

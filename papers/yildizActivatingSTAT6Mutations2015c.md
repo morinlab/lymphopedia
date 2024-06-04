@@ -31,12 +31,13 @@ All other DLBCL studies, DLBCL Tier 1, 127
 All other DLBCL studies, DLBCL Tier 2, 198
 ```
 
-
 ## Novel genes reported in this study
 
+### Tier 1
 |New gene|DLBCL tier|FL tier|
 |:-|:-:|:-:|
 |[STAT6](../STAT6)|1 |1 |
+
 
 # Details
 

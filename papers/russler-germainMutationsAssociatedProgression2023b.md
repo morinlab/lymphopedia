@@ -30,15 +30,19 @@ All other FL studies, FL Tier 1, 65
 All other FL studies, FL Tier 2, 31
 ```
 
-
 ## Novel genes reported in this study
 
+### Tier 1
+|New gene|FL tier|
+|:-|:-:|
+|[CD83](../CD83)|1 |
+
+### Tier 2
 |New gene|FL tier|
 |:-|:-:|
 |[ABL2](../ABL2)|2 |
 |[BCL10](../BCL10)|2 |
 |[CD70](../CD70)|2 |
-|[CD83](../CD83)|1 |
 |[CILP](../CILP)|2 |
 |[CYP2A6](../CYP2A6)|2 |
 |[GBP7](../GBP7)|2 |
@@ -55,6 +59,7 @@ All other FL studies, FL Tier 2, 31
 |[SRRM2](../SRRM2)|2 |
 |[STAB2](../STAB2)|2 |
 |[XIRP2](../XIRP2)|2 |
+
 
 # Details
 

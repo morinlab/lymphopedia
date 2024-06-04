@@ -30,12 +30,13 @@ All other FL studies, FL Tier 1, 65
 All other FL studies, FL Tier 2, 50
 ```
 
-
 ## Novel genes reported in this study
 
+### Tier 1
 |New gene|FL tier|
 |:-|:-:|
 |[MAP2K1](../MAP2K1)|1 |
+
 
 # Details
 

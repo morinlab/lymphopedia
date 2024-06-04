@@ -30,13 +30,12 @@ All other MZL studies, MZL Tier 1, 42
 All other MZL studies, MZL Tier 2, 72
 ```
 
-
-## Novel genes reported in this study
-
+### Tier 2
 |New gene|MZL tier|
 |:-|:-:|
 |[CD9B](../CD9B)|2 |
 |[TNIP2](../TNIP2)|2 |
+
 
 # Details
 

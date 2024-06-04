@@ -30,9 +30,14 @@ All other PMBL studies, PMBL Tier 1, 75
 All other PMBL studies, PMBL Tier 2, 73
 ```
 
-
 ## Novel genes reported in this study
 
+### Tier 1
+|New gene|PMBL tier|
+|:-|:-:|
+|[LTB](../LTB)|1 |
+
+### Tier 2
 |New gene|PMBL tier|
 |:-|:-:|
 |[ACTG1](../ACTG1)|2 |
@@ -43,8 +48,8 @@ All other PMBL studies, PMBL Tier 2, 73
 |[IGLL5](../IGLL5)|2 |
 |[KLF2](../KLF2)|2 |
 |[KMT2D](../KMT2D)|2 |
-|[LTB](../LTB)|1 |
 |[MYB](../MYB)|2 |
+
 
 # Details
 

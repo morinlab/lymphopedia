@@ -8,8 +8,8 @@ bibliography: 'morinlab.bib'
 
 |Entity| Tier 1 genes| Tier 2 genes|
 |:-:|:-:|:-:|
-|DLBCL|1|0|
 |FL|1|0|
+|DLBCL|1|0|
 ```mermaid
 ---
 config:
@@ -31,12 +31,13 @@ All other DLBCL studies, DLBCL Tier 1, 127
 All other DLBCL studies, DLBCL Tier 2, 198
 ```
 
-
 ## Novel genes reported in this study
 
-|New gene|DLBCL tier|FL tier|
+### Tier 1
+|New gene|FL tier|DLBCL tier|
 |:-|:-:|:-:|
 |[TNFRSF14](../TNFRSF14)|1 |1 |
+
 
 # Details
 

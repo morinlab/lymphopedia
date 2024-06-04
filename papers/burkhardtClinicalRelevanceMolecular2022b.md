@@ -30,9 +30,7 @@ All other BL studies, BL Tier 1, 29
 All other BL studies, BL Tier 2, 132
 ```
 
-
-## Novel genes reported in this study
-
+### Tier 2
 |New gene|BL tier|
 |:-|:-:|
 |[ADAMTS5](../ADAMTS5)|2 |
@@ -60,6 +58,7 @@ All other BL studies, BL Tier 2, 132
 |[ZAN](../ZAN)|2 |
 |[ZBTB7A](../ZBTB7A)|2 |
 |[ZNF85](../ZNF85)|2 |
+
 
 # Details
 

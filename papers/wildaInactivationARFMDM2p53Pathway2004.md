@@ -30,12 +30,13 @@ All other BL studies, BL Tier 1, 28
 All other BL studies, BL Tier 2, 157
 ```
 
-
 ## Novel genes reported in this study
 
+### Tier 1
 |New gene|BL tier|
 |:-|:-:|
 |[TP53](../TP53)|1 |
+
 
 # Details
 

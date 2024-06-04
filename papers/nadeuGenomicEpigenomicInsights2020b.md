@@ -30,16 +30,21 @@ All other MCL studies, MCL Tier 1, 20
 All other MCL studies, MCL Tier 2, 44
 ```
 
-
 ## Novel genes reported in this study
 
+### Tier 1
+|New gene|MCL tier|
+|:-|:-:|
+|[SMARCA4](../SMARCA4)|1 |
+|[SYNE1](../SYNE1)|1 |
+|[TERT](../TERT)|1 |
+
+### Tier 2
 |New gene|MCL tier|
 |:-|:-:|
 |[BCOR](../BCOR)|2 |
-|[SMARCA4](../SMARCA4)|1 |
 |[SMARCB1](../SMARCB1)|2 |
-|[SYNE1](../SYNE1)|1 |
-|[TERT](../TERT)|1 |
+
 
 # Details
 

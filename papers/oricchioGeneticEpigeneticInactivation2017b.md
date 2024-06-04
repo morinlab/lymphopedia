@@ -30,12 +30,11 @@ All other FL studies, FL Tier 1, 66
 All other FL studies, FL Tier 2, 49
 ```
 
-
-## Novel genes reported in this study
-
+### Tier 2
 |New gene|FL tier|
 |:-|:-:|
 |[SESN1](../SESN1)|2 |
+
 
 # Details
 

@@ -30,12 +30,11 @@ All other DLBCL studies, DLBCL Tier 1, 128
 All other DLBCL studies, DLBCL Tier 2, 197
 ```
 
-
-## Novel genes reported in this study
-
+### Tier 2
 |New gene|DLBCL tier|
 |:-|:-:|
 |[MAP2K1](../MAP2K1)|2 |
+
 
 # Details
 

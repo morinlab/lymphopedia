@@ -30,9 +30,14 @@ All other PMBL studies, PMBL Tier 1, 75
 All other PMBL studies, PMBL Tier 2, 73
 ```
 
-
 ## Novel genes reported in this study
 
+### Tier 1
+|New gene|PMBL tier|
+|:-|:-:|
+|[TP53](../TP53)|1 |
+
+### Tier 2
 |New gene|PMBL tier|
 |:-|:-:|
 |[AKAP6](../AKAP6)|2 |
@@ -43,8 +48,8 @@ All other PMBL studies, PMBL Tier 2, 73
 |[SETD5](../SETD5)|2 |
 |[STAT5B](../STAT5B)|2 |
 |[TNIP1](../TNIP1)|2 |
-|[TP53](../TP53)|1 |
 |[ZCCHC11](../ZCCHC11)|2 |
+
 
 # Details
 

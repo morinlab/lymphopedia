@@ -30,13 +30,14 @@ All other MZL studies, MZL Tier 1, 40
 All other MZL studies, MZL Tier 2, 74
 ```
 
-
 ## Novel genes reported in this study
 
+### Tier 1
 |New gene|MZL tier|
 |:-|:-:|
 |[CARD11](../CARD11)|1 |
 |[MYD88](../MYD88)|1 |
+
 
 # Details
 

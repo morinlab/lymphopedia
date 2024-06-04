@@ -30,12 +30,11 @@ All other BL studies, BL Tier 1, 29
 All other BL studies, BL Tier 2, 156
 ```
 
-
-## Novel genes reported in this study
-
+### Tier 2
 |New gene|BL tier|
 |:-|:-:|
 |[KMT2C](../KMT2C)|2 |
+
 
 # Details
 

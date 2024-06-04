@@ -30,18 +30,23 @@ All other DLBCL studies, DLBCL Tier 1, 125
 All other DLBCL studies, DLBCL Tier 2, 194
 ```
 
-
 ## Novel genes reported in this study
 
+### Tier 1
+|New gene|DLBCL tier|
+|:-|:-:|
+|[GRB2](../GRB2)|1 |
+|[KLF2](../KLF2)|1 |
+|[NOTCH1](../NOTCH1)|1 |
+
+### Tier 2
 |New gene|DLBCL tier|
 |:-|:-:|
 |[CD36](../CD36)|2 |
-|[GRB2](../GRB2)|1 |
 |[HNF1B](../HNF1B)|2 |
-|[KLF2](../KLF2)|1 |
 |[MYOM2](../MYOM2)|2 |
-|[NOTCH1](../NOTCH1)|1 |
 |[TRAF3](../TRAF3)|2 |
+
 
 # Details
 

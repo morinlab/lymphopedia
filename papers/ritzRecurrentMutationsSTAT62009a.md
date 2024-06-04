@@ -30,12 +30,13 @@ All other PMBL studies, PMBL Tier 1, 75
 All other PMBL studies, PMBL Tier 2, 82
 ```
 
-
 ## Novel genes reported in this study
 
+### Tier 1
 |New gene|PMBL tier|
 |:-|:-:|
 |[STAT6](../STAT6)|1 |
+
 
 # Details
 

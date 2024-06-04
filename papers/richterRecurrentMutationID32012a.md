@@ -30,9 +30,9 @@ All other BL studies, BL Tier 1, 24
 All other BL studies, BL Tier 2, 157
 ```
 
-
 ## Novel genes reported in this study
 
+### Tier 1
 |New gene|BL tier|
 |:-|:-:|
 |[CCND3](../CCND3)|1 |
@@ -40,6 +40,7 @@ All other BL studies, BL Tier 2, 157
 |[ID3](../ID3)|1 |
 |[RHOA](../RHOA)|1 |
 |[SMARCA4](../SMARCA4)|1 |
+
 
 # Details
 

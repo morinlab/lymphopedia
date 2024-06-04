@@ -30,13 +30,20 @@ All other BL studies, BL Tier 1, 25
 All other BL studies, BL Tier 2, 111
 ```
 
-
 ## Novel genes reported in this study
 
+### Tier 1
+|New gene|BL tier|
+|:-|:-:|
+|[BMP7](../BMP7)|1 |
+|[EIF4A1](../EIF4A1)|1 |
+|[EPPK1](../EPPK1)|1 |
+|[HNRNPU](../HNRNPU)|1 |
+
+### Tier 2
 |New gene|BL tier|
 |:-|:-:|
 |[ALPK2](../ALPK2)|2 |
-|[BMP7](../BMP7)|1 |
 |[CARD11](../CARD11)|2 |
 |[CD79B](../CD79B)|2 |
 |[CD83](../CD83)|2 |
@@ -44,9 +51,7 @@ All other BL studies, BL Tier 2, 111
 |[CXCR4](../CXCR4)|2 |
 |[DNMT1](../DNMT1)|2 |
 |[DTX1](../DTX1)|2 |
-|[EIF4A1](../EIF4A1)|1 |
 |[EP300](../EP300)|2 |
-|[EPPK1](../EPPK1)|1 |
 |[ETS1](../ETS1)|2 |
 |[FZD3](../FZD3)|2 |
 |[GRB2](../GRB2)|2 |
@@ -59,7 +64,6 @@ All other BL studies, BL Tier 2, 111
 |[HIST1H3I](../HIST1H3I)|2 |
 |[HIST1H3J](../HIST1H3J)|2 |
 |[HIST1H4J](../HIST1H4J)|2 |
-|[HNRNPU](../HNRNPU)|1 |
 |[IGLL5](../IGLL5)|2 |
 |[IKZF3](../IKZF3)|2 |
 |[IRF8](../IRF8)|2 |
@@ -85,6 +89,7 @@ All other BL studies, BL Tier 2, 111
 |[WDR7](../WDR7)|2 |
 |[WNK2](../WNK2)|2 |
 |[ZFP36L1](../ZFP36L1)|2 |
+
 
 # Details
 

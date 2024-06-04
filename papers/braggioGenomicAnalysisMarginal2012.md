@@ -30,12 +30,13 @@ All other MZL studies, MZL Tier 1, 41
 All other MZL studies, MZL Tier 2, 74
 ```
 
-
 ## Novel genes reported in this study
 
+### Tier 1
 |New gene|MZL tier|
 |:-|:-:|
 |[ATM](../ATM)|1 |
+
 
 # Details
 

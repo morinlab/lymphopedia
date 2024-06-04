@@ -30,18 +30,23 @@ All other PMBL studies, PMBL Tier 1, 72
 All other PMBL studies, PMBL Tier 2, 79
 ```
 
-
 ## Novel genes reported in this study
 
+### Tier 1
 |New gene|PMBL tier|
 |:-|:-:|
 |[ACTB](../ACTB)|1 |
 |[ARID1A](../ARID1A)|1 |
-|[DNAH12](../DNAH12)|2 |
 |[HLA-B](../HLA-B)|1 |
-|[IKBKB](../IKBKB)|2 |
 |[NFKBIA](../NFKBIA)|1 |
+
+### Tier 2
+|New gene|PMBL tier|
+|:-|:-:|
+|[DNAH12](../DNAH12)|2 |
+|[IKBKB](../IKBKB)|2 |
 |[RBM38](../RBM38)|2 |
+
 
 # Details
 
