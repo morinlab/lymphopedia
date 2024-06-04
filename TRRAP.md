@@ -36,7 +36,7 @@ timeline
 
 
 
- ## TRRAP Hotspots
+## TRRAP Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |

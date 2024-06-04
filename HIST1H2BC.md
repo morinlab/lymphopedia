@@ -41,7 +41,7 @@ timeline
 
 
 
- ## HIST1H2BC Hotspots
+## HIST1H2BC Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |

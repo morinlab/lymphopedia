@@ -46,7 +46,7 @@ timeline
 |chr1    |226921088 |226927982|[intron-1](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr1%3A226921088%2D226927982)|enhancer          |
 
 
- ## ITPKB Hotspots
+## ITPKB Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |

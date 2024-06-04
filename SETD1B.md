@@ -34,7 +34,7 @@ timeline
 
 
 
- ## SETD1B Hotspots
+## SETD1B Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |

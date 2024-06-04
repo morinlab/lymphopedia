@@ -37,7 +37,7 @@ timeline
 
 
 
- ## SPEN Hotspots
+## SPEN Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |

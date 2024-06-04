@@ -34,7 +34,7 @@ timeline
 |DLBCL |No  |No                   |3.705           |0               |
 |FL    |No  |No                   |0.000           |0               |
 
- ## TLR2 Hotspots
+## TLR2 Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |

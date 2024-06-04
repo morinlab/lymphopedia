@@ -36,7 +36,7 @@ timeline
 |FL    |No  |No                   |0               |53.351          |
 
 
- ## DAZAP1 Hotspots
+## DAZAP1 Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |

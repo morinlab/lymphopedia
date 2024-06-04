@@ -47,7 +47,7 @@ timeline
 |FL    |No  |Yes                  |43.869          |112.938         |
 
 
- ## CREBBP Hotspots
+## CREBBP Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |

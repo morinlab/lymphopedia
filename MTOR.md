@@ -41,7 +41,7 @@ timeline
 
 
 
- ## MTOR Hotspots
+## MTOR Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |

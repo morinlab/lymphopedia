@@ -31,7 +31,7 @@ timeline
 
 
 
- ## ATP6V1B2 Hotspots
+## ATP6V1B2 Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |

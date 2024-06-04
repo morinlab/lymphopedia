@@ -51,7 +51,7 @@ timeline
 
 
 
- ## EBF1 Hotspots
+## EBF1 Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |

@@ -43,7 +43,7 @@ timeline
 
 
 
- ## HLA-B Hotspots
+## HLA-B Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |

@@ -38,7 +38,7 @@ timeline
 
 
 
- ## PTPRD Hotspots
+## PTPRD Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |

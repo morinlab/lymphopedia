@@ -40,7 +40,7 @@ timeline
 
 
 
- ## BCOR Hotspots
+## BCOR Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |

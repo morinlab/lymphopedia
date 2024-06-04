@@ -36,7 +36,7 @@ timeline
 
 
 
- ## KRAS Hotspots
+## KRAS Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |

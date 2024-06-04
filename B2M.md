@@ -47,7 +47,7 @@ timeline
 
 
 
- ## B2M Hotspots
+## B2M Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |

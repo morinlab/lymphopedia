@@ -36,7 +36,7 @@ timeline
 
 
 
- ## JAK1 Hotspots
+## JAK1 Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |

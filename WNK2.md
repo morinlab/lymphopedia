@@ -33,7 +33,7 @@ timeline
 
 
 
- ## WNK2 Hotspots
+## WNK2 Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |

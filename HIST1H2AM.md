@@ -40,7 +40,7 @@ timeline
 |FL    |No  |No                   |1.845           |0               |
 |BL    |No  |No                   |2.149           |0               |
 
- ## HIST1H2AM Hotspots
+## HIST1H2AM Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |

@@ -37,7 +37,7 @@ BCL11A (B-cell lymphoma/leukemia 11A) is a transcription factor involved in the 
 
 
 
- ## BCL11A Hotspots
+## BCL11A Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |

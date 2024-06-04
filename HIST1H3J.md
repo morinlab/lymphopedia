@@ -33,7 +33,7 @@ timeline
 
 
 
- ## HIST1H3J Hotspots
+## HIST1H3J Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |

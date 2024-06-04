@@ -43,7 +43,7 @@ timeline
 
 
 
- ## WEE1 Hotspots
+## WEE1 Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |

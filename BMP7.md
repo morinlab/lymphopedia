@@ -33,7 +33,7 @@ timeline
 
 
 
- ## BMP7 Hotspots
+## BMP7 Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |

@@ -32,7 +32,7 @@ timeline
 |FL    |No  |No                   |9.831           | 0.000          |
 
 
- ## TRAF6 Hotspots
+## TRAF6 Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |

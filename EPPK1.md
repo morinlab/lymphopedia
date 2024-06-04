@@ -32,7 +32,7 @@ timeline
 |FL    |No  |No                   |2.802           |0.0             |
 
 
- ## EPPK1 Hotspots
+## EPPK1 Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |

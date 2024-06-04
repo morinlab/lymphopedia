@@ -31,7 +31,7 @@ BCR (Breakpoint Cluster Region Protein) is one of [a number of genes](https://gi
 
 
 
- ## BCR Hotspots
+## BCR Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |

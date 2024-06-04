@@ -33,7 +33,7 @@ timeline
 
 
 
- ## PLCG2 Hotspots
+## PLCG2 Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |

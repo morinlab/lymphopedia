@@ -35,7 +35,7 @@ timeline
 
 
 
- ## TMEM30A Hotspots
+## TMEM30A Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |

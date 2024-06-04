@@ -54,7 +54,7 @@ timeline
 
 
 
- ## BCL6 Hotspots
+## BCL6 Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |

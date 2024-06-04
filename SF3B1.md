@@ -38,7 +38,7 @@ timeline
 
 
 
- ## SF3B1 Hotspots
+## SF3B1 Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |

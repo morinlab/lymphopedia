@@ -42,7 +42,7 @@ timeline
 |DLBCL |No  |No                   |1.795           |5.011           |
 |FL    |No  |No                   |2.997           |7.132           |
 
- ## BIRC6 Hotspots
+## BIRC6 Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |

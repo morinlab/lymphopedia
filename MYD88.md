@@ -40,7 +40,7 @@ timeline
 
 
 
- ## MYD88 Hotspots
+## MYD88 Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |

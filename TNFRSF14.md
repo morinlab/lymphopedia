@@ -37,7 +37,7 @@ timeline
 
 
 
- ## TNFRSF14 Hotspots
+## TNFRSF14 Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |

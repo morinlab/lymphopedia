@@ -42,7 +42,7 @@ timeline
 
 
 
- ## BRAF Hotspots
+## BRAF Hotspots
 
 **V600E** The V600E mutation, which is common in other cancers including hairy cell leukemia, is observed in some DLBCL patients. This mutation mimics phosphorylation and leads to constitutive activation of the BRAF kinase. As a result, the V600E mutant continuously activates the MAPK/ERK signaling pathway, promoting cell proliferation and survival even in the absence of growth signals. 
 

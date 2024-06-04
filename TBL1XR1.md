@@ -37,7 +37,7 @@ timeline
 |FL    |No  |No                   |12.400          |18.940          |
 
 
- ## TBL1XR1 Hotspots
+## TBL1XR1 Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |

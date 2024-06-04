@@ -43,7 +43,7 @@ timeline
 |FL    |No  |No                   |2.864           |0               |
 
 
- ## NOTCH1 Hotspots
+## NOTCH1 Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |

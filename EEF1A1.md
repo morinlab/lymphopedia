@@ -40,7 +40,7 @@ timeline
 |DLBCL |No  |No                   | 3.556          |24.091          |
 |FL    |No  |Yes                  |47.451          | 0.000          |
 
- ## EEF1A1 Hotspots
+## EEF1A1 Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
 | :---:| :---: | :--: | :---: |

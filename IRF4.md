@@ -45,7 +45,7 @@ timeline
 
 
 
- ## IRF4 Hotspots
+## IRF4 Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |

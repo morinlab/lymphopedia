@@ -46,7 +46,7 @@ timeline
 
 
 
- ## FOXO1 Hotspots
+## FOXO1 Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |

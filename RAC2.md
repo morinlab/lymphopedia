@@ -38,7 +38,7 @@ timeline
 |DLBCL |No  |No                   |6.256           |0               |
 |FL    |No  |No                   |0.000           |0               |
 
- ## RAC2 Hotspots
+## RAC2 Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |

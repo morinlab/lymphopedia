@@ -36,7 +36,7 @@ timeline
 
 
 
- ## KLHL14 Hotspots
+## KLHL14 Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |

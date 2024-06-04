@@ -38,7 +38,7 @@ timeline
 
 
 
- ## PRDM1 Hotspots
+## PRDM1 Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |

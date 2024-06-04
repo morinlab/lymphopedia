@@ -29,7 +29,7 @@ timeline
 |FL    |No  |No                   |43.394          | 0.000          |
 
 
- ## PPP4C Hotspots
+## PPP4C Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |

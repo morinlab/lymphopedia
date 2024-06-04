@@ -36,7 +36,7 @@ timeline
 
 
 
- ## MAP2K1 Hotspots
+## MAP2K1 Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |

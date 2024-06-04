@@ -50,7 +50,7 @@ timeline
 
 
 
- ## PIM1 Hotspots
+## PIM1 Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |

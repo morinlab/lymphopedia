@@ -41,7 +41,7 @@ timeline
 
 
 
- ## HVCN1 Hotspots
+## HVCN1 Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |

@@ -43,7 +43,7 @@ timeline
 
 
 
- ## NOTCH2 Hotspots
+## NOTCH2 Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |

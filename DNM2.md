@@ -34,7 +34,7 @@ timeline
 |FL    |No  |No                   |10.522          |0.000           |
 
 
- ## DNM2 Hotspots
+## DNM2 Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |

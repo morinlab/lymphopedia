@@ -47,7 +47,7 @@ timeline
 |FL    |No  |Yes                  |10.043          |0.000           |
 
 
- ## HIST1H1E Hotspots
+## HIST1H1E Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |

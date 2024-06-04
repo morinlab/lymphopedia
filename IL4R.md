@@ -43,7 +43,7 @@ timeline
 
 
 
- ## IL4R Hotspots
+## IL4R Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |

@@ -29,7 +29,7 @@ Mutations in this gene are relatively rare in DLBCL overall. Some hotspots have 
 
 
 
- ## NFKB1 Hotspots
+## NFKB1 Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |

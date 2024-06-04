@@ -27,7 +27,7 @@
 
 
 
- ## VPS13B Hotspots
+## VPS13B Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |

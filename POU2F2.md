@@ -37,7 +37,7 @@ timeline
 
 
 
- ## POU2F2 Hotspots
+## POU2F2 Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |

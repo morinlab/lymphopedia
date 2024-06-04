@@ -43,7 +43,7 @@ timeline
 |FL    |No  |Yes                  | 0.000          |223.832         |
 
 
- ## BCL10 Hotspots
+## BCL10 Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |

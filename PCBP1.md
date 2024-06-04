@@ -39,7 +39,7 @@ timeline
 
 
 
- ## PCBP1 Hotspots
+## PCBP1 Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |

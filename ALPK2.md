@@ -32,7 +32,7 @@ timeline
 
 
 
- ## ALPK2 Hotspots
+## ALPK2 Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |

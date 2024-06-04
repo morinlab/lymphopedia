@@ -34,7 +34,7 @@ timeline
 
 
 
- ## PIK3CD Hotspots
+## PIK3CD Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |

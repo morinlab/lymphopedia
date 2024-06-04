@@ -46,7 +46,7 @@ timeline
 |FL    |No  |Yes                  |28.329          |27.096          |
 
 
- ## CARD11 Hotspots
+## CARD11 Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |

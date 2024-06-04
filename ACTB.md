@@ -45,7 +45,7 @@ timeline
 |:--------:|:----------:|:--------:|:---------------------------------------------------------------------------------------:|:------------------:|
 |chr7    |5568297   |5570856 |[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr7%3A5568297%2D5570856)|active_promoter   |
 
- ## ACTB Hotspots
+## ACTB Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |

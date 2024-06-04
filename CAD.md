@@ -33,7 +33,7 @@ timeline
 
 
 
- ## CAD Hotspots
+## CAD Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |

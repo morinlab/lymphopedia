@@ -44,7 +44,7 @@ timeline
 
 
 
- ## NCOR2 Hotspots
+## NCOR2 Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |

@@ -41,7 +41,7 @@ timeline
 
 
 
- ## STAT6 Hotspots
+## STAT6 Hotspots
 
 Recurrent mutations at the D419 amino acid residue are a common feature in DLBCL, specifically affecting the germinal center B (GCB) cell subtype. These mutations lead to the activation of the JAK/STAT signaling pathway, contributing to lymphomagenesis (Morin et al., 2015).
 

@@ -38,7 +38,7 @@ timeline
 
 
 
- ## HIST1H3B Hotspots
+## HIST1H3B Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |

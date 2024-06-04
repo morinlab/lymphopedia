@@ -31,7 +31,7 @@ timeline
 |FL    |No  |No                   |0.000           |0.000           |
 
 
- ## TTN Hotspots
+## TTN Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |

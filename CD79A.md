@@ -36,7 +36,7 @@ timeline
 
 
 
- ## CD79A Hotspots
+## CD79A Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |

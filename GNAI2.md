@@ -44,7 +44,7 @@ timeline
 |FL    |No  |Yes                  |55.205          | 0.000          |
 
 
- ## GNAI2 Hotspots
+## GNAI2 Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |

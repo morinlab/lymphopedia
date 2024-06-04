@@ -53,7 +53,7 @@ timeline
 
 
 
- ## MYC Hotspots
+## MYC Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |

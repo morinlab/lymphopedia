@@ -49,7 +49,7 @@ timeline
 |:--------:|:----------:|:---------:|:-------------------------------------------------------------------------------------------:|:-------------------------------:|
 |chr3    |183269360 |183274139|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr3%3A183269360%2D183274139)|active_promoter-strong_enhancer|
 
- ## KLHL6 Hotspots
+## KLHL6 Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |

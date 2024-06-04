@@ -34,7 +34,7 @@ timeline
 
 
 
- ## TOX Hotspots
+## TOX Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |

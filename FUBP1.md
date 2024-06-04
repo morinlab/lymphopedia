@@ -34,7 +34,7 @@ timeline
 
 
 
- ## FUBP1 Hotspots
+## FUBP1 Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |

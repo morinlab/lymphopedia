@@ -43,7 +43,7 @@ timeline
 
 
 
- ## HIST1H2AG Hotspots
+## HIST1H2AG Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |

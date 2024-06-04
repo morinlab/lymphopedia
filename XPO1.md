@@ -34,7 +34,7 @@ timeline
 |FL    |No  |No                   |0.000           |0               |
 
 
- ## XPO1 Hotspots
+## XPO1 Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |

@@ -36,7 +36,7 @@ timeline
 |DLBCL |No  |No                   |2.337           |10.139          |
 |FL    |No  |No                   |0.000           | 0.000          |
 
- ## HNRNPH1 Hotspots
+## HNRNPH1 Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |

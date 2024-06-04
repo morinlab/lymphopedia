@@ -31,7 +31,7 @@ timeline
 
 
 
- ## XIRP2 Hotspots
+## XIRP2 Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |

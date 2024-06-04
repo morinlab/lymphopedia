@@ -34,7 +34,7 @@ timeline
 
 
 
- ## TCF3 Hotspots
+## TCF3 Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |

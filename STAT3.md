@@ -34,7 +34,7 @@ timeline
 
 
 
- ## STAT3 Hotspots
+## STAT3 Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |

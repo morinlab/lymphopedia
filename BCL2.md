@@ -54,7 +54,7 @@ timeline
 
 
 
- ## BCL2 Hotspots
+## BCL2 Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |

@@ -39,7 +39,7 @@ timeline
 
 
 
- ## RHOA Hotspots
+## RHOA Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |

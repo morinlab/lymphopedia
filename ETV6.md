@@ -42,7 +42,7 @@ timeline
 
 
 
- ## ETV6 Hotspots
+## ETV6 Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |

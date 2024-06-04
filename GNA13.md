@@ -45,7 +45,7 @@ timeline
 
 
 
- ## GNA13 Hotspots
+## GNA13 Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |

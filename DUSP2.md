@@ -46,7 +46,7 @@ timeline
 
 
 
- ## DUSP2 Hotspots
+## DUSP2 Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |

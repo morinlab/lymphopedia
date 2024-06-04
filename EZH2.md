@@ -50,7 +50,7 @@ timeline
 
 
 
- ## EZH2 Hotspots
+## EZH2 Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |
