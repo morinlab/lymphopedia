@@ -1,4 +1,5 @@
 # ARHGEF1
+
 ## History
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
@@ -6,6 +7,7 @@ timeline
     title Publication timing
       2014-12-11 : Muppidi : BL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description                           |
@@ -32,15 +34,17 @@ timeline
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ARHGEF1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ARHGEF1_protein_hg38.html)
 
-![image](images/proteinpaint/ARHGEF1_NM_199002.svg)
+![](images/proteinpaint/ARHGEF1_NM_199002.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ARHGEF1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ARHGEF1_hg38.html)
 
-![image](images/proteinpaint/ARHGEF1.svg)
+![](images/proteinpaint/ARHGEF1.svg)
+
 ## ARHGEF1 Expression
-![image](images/gene_expression/ARHGEF1_by_pathology.svg)
+![](images/gene_expression/ARHGEF1_by_pathology.svg)
 
 <!-- ORIGIN: muppidiLossSignalingGa132014b -->
 <!-- BL: muppidiLossSignalingGa132014b -->
+
 ## References
 1.  Muppidi J, Schmitz R, Green JA, Green JA, Xiao W, Larsen AB, Braun S, An J, Xu Y, Rosenwald A, Ott G, Gascoyne R, Rimsza L, Campo E, Jaffe E, Delabie J, Smeland E, Braziel R, Tubbs R, Cook J, Weisenburger D, Chan W, Vaidehi N, Staudt L, Cyster J. Loss of signaling via Gα13 in germinal center B cell-derived lymphoma. Nature. 2014;516:254–258. 

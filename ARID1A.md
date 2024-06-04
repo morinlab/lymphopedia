@@ -47,19 +47,21 @@ timeline
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ARID1A_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ARID1A_protein_hg38.html)
 
-![image](images/proteinpaint/ARID1A_NM_006015.svg)
+![](images/proteinpaint/ARID1A_NM_006015.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ARID1A.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ARID1A_hg38.html)
 
-![image](images/proteinpaint/ARID1A.svg)
+![](images/proteinpaint/ARID1A.svg)
+
 ## ARID1A Expression
-![image](images/gene_expression/ARID1A_by_pathology.svg)
+![](images/gene_expression/ARID1A_by_pathology.svg)
 <!-- ORIGIN: loveGeneticLandscapeMutations2012 -->
 <!-- MZL: rossiCodingGenomeSplenic2012c -->
 <!-- DLBCL: zhangGeneticHeterogeneityDiffuse2013 -->
 <!-- BL: loveGeneticLandscapeMutations2012 -->
 <!-- FL: krysiakRecurrentSomaticMutations2017b -->
 <!-- BL: loveGeneticLandscapeMutations2012 -->
+
 ## References
 1.  Rossi D, Trifonov V, Fangazio M, Bruscaggin A, Rasi S, Spina V, Monti S, Vaisitti T, Arruga F, Famà R, Ciardullo C, Greco M, Cresta S, Piranda D, Holmes A, Fabbri G, Messina M, Rinaldi A, Wang J, Agostinelli C, Piccaluga PP, Lucioni M, Tabbò F, Serra R, Franceschetti S, Deambrogi C, Daniele G, Gattei V, Marasca R, Facchetti F, Arcaini L, Inghirami G, Bertoni F, Pileri SA, Deaglio S, Foà R, Dalla-Favera R, Pasqualucci L, Rabadan R, Gaidano G. The coding genome of splenic marginal zone lymphoma: activation of NOTCH2 and other pathways regulating marginal zone development. J Exp Med. 2012 Aug 27;209(9):1537–1551. PMCID: PMC3428941
 2.  Love C, Sun Z, Jima D, Li G, Zhang J, Miles R, Richards KL, Dunphy CH, Choi WWL, Srivastava G, Lugar PL, Rizzieri DA, Lagoo AS, Bernal-Mizrachi L, Mann KP, Flowers CR, Naresh KN, Evens AM, Chadburn A, Gordon LI, Czader MB, Gill JI, Hsi ED, Greenough A, Moffitt AB, McKinney M, Banerjee A, Grubor V, Levy S, Dunson DB, Dave SS. The genetic landscape of mutations in Burkitt lymphoma. Nat Genet. 2012 Dec;44(12):1321–1325. PMCID: PMC3674561

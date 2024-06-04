@@ -9,6 +9,7 @@ timeline
     title Publication timing
       2021-05-05 : H : DLBCL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description                              |
@@ -34,14 +35,14 @@ timeline
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ANKRD12_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ANKRD12_protein_hg38.html)
 
-![image](images/proteinpaint/ANKRD12_NM_015208.svg)
+![](images/proteinpaint/ANKRD12_NM_015208.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ANKRD12.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ANKRD12_hg38.html)
 
-![image](images/proteinpaint/ANKRD12.svg)
+![](images/proteinpaint/ANKRD12.svg)
 
 ## ANKRD12 Expression
-![image](images/gene_expression/ANKRD12_by_pathology.svg)
+![](images/gene_expression/ANKRD12_by_pathology.svg)
 <!-- ORIGIN: hubschmannMutationalMechanismsShaping2021b -->
 
 ## References
