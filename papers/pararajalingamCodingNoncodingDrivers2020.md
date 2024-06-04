@@ -8,8 +8,8 @@ bibliography: 'morinlab.bib'
 
 |Entity| Tier 1 genes| Tier 2 genes|
 |:-:|:-:|:-:|
-|MCL|6|1|
 |DLBCL|2|3|
+|MCL|6|1|
 ```mermaid
 ---
 config:
@@ -34,15 +34,15 @@ All other MCL studies, MCL Tier 2, 45
 
 ## Novel genes reported in this study
 
-|New gene|MCL tier|DLBCL tier|
+|New gene|DLBCL tier|MCL tier|
 |:-|:-:|:-:|
-|[B2M](B2M)|2 |1 |
-|[DAZAP1](DAZAP1)|1 |2 |
-|[EWSR1](EWSR1)|1 | |
-|[HNRNPH1](HNRNPH1)|1 |2 |
+|[B2M](B2M)|1 |2 |
+|[DAZAP1](DAZAP1)|2 |1 |
+|[EWSR1](EWSR1)| |1 |
+|[HNRNPH1](HNRNPH1)|2 |1 |
 |[NFKBIE](NFKBIE)|1 |1 |
-|[S1PR1](S1PR1)|1 | |
-|[UBR5](UBR5)|1 |2 |
+|[S1PR1](S1PR1)| |1 |
+|[UBR5](UBR5)|2 |1 |
 
 # Details
 
