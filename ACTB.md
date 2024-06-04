@@ -1,4 +1,5 @@
 # ACTB
+
 ## Overview
 
 ACTB is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas. 
@@ -10,6 +11,7 @@ timeline
       2012-03-06 : Lohr : DLBCL
       2019-12-10 : Wienand : PMBL
 ```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description               |
@@ -61,15 +63,15 @@ timeline
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ACTB_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ACTB_protein_hg38.html)
 
-![image](images/proteinpaint/ACTB_NM_001101.svg)
+![](images/proteinpaint/ACTB_NM_001101.svg)
 
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ACTB.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ACTB_hg38.html)
 
-![image](images/proteinpaint/ACTB.svg)
+![](images/proteinpaint/ACTB.svg)
 
 
 ## ACTB Expression
-![image](images/gene_expression/ACTB_by_pathology.svg)
+![](images/gene_expression/ACTB_by_pathology.svg)
 
 ## References
 1. *Lohr JG, Stojanov P, Lawrence MS, Auclair D, Chapuy B, Sougnez C, Cruz-Gordillo P, Knoechel B, Asmann YW, Slager SL, Novak AJ, Dogan A, Ansell SM, Link BK, Zou L, Gould J, Saksena G, Stransky N, Rangel-Escareño C, Fernandez-Lopez JC, Hidalgo-Miranda A, Melendez-Zajgla J, Hernández-Lemus E, Schwarz-Cruz y Celis A, Imaz-Rosshandler I, Ojesina AI, Jung J, Pedamallu CS, Lander ES, Habermann TM, Cerhan JR, Shipp MA, Getz G, Golub TR. Discovery and prioritization of somatic mutations in diffuse large B-cell lymphoma (DLBCL) by whole-exome sequencing. Proc Natl Acad Sci U S A. 2012 Mar 6;109(10):3879-84. doi: 10.1073/pnas.1121343109. Epub 2012 Feb 17. PMID: 22343534; PMCID: PMC3309757.*
