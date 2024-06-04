@@ -3,12 +3,12 @@ title: ''
 bibliography: 'morinlab.bib'
 ---
 
-# @albuquerqueEnhancingKnowledgeDiscovery2017a
+# @johnstonCmycHypermutationBurkitt1992
 ## Summary of novel genes
 
 |Entity| Tier 1 genes| Tier 2 genes|
 |:-:|:-:|:-:|
-|DLBCL|3||
+|BL|1||
 ```mermaid
 ---
 config:
@@ -22,20 +22,18 @@ config:
         suffix: ' genes)'
 ---
 sankey-beta
-This study, DLBCL Tier 1, 3
-This study, DLBCL Tier 2, 
-Other DLBCL studies, DLBCL Tier 1, 128
-Other DLBCL studies, DLBCL Tier 2, 198
+This study, BL Tier 1, 1
+This study, BL Tier 2, 
+Other BL studies, BL Tier 1, 29
+Other BL studies, BL Tier 2, 157
 ```
 
 
 ## Novel genes reported in this study
 
-|New gene|DLBCL tier|
+|New gene|BL tier|
 |:-|:-:|
-|[BTK](BTK)|1 |
-|[TET2](TET2)|1 |
-|[TMSB4X](TMSB4X)|1 |
+|[MYC](MYC)|1 |
 
 # Details
 
