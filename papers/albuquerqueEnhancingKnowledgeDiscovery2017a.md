@@ -39,10 +39,6 @@ All other DLBCL studies, DLBCL Tier 2, 198
 |[TET2](../TET2)|1 |
 |[TMSB4X](../TMSB4X)|1 |
 
-### Tier 2
-|New gene|DLBCL tier|
-|:-|:-:|
-
 
 # Details
 
