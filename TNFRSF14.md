@@ -8,13 +8,12 @@ link-citations: true
 
 ## History
 
-Mutations in this gene were first described in FL[@cheungAcquiredTNFRSF14Mutations2010a] and subsequently in DLBCL.[@morinFrequentMutationHistonemodifying2011]
-
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
 timeline
     title Publication timing
       2010-11-15 : Cheung : FL
+      2011-07-27 : Morin : DLBCL
       2016-09-08 : Spina : MZL
 ```
 
@@ -22,9 +21,9 @@ timeline
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            |
-|![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene               |
+|![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene[@spinaGeneticsNodalMarginal2016b] |
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene[@morinFrequentMutationHistonemodifying2011]            |
+|![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene[@cheungAcquiredTNFRSF14Mutations2010a]               |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
