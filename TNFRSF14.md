@@ -1,3 +1,9 @@
+---
+bibliography: 'morinlab.bib'
+csl: 'NLM.csl'
+link-citations: true
+---
+
 # TNFRSF14
 
 ## History
