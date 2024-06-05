@@ -152,6 +152,8 @@ MCL, MCL-exome, 28
 MCL-exome, Zhang 2014, 28
 ```
 
+## [Studies](Papers.md)
+
 ## B-cell Lymphoma aSHM targets
 
 [hg19 coordinates](ashm)
