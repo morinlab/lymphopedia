@@ -100,8 +100,6 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/C
 <!-- DLBCL: pasqualucciInactivatingMutationsAcetyltransferase2011a -->
 <!-- MZL: parryWholeExomeSequencing2013 -->
 
-## References
-1. *Pasqualucci, L., Dominguez-Sola, D., Chiarenza, A., Fabbri, G., Grunn, A., Trifonov, V., Kasper, L., Lerach, S., Tang, H., Ma, J., Rossi, D., Chadburn, A., Murty, V., Mullighan, C., Gaidano, G., Rabadán, R., Brindle, P., & Dalla-Favera, R. (2010). Inactivating mutations of acetyltransferase genes in B-cell lymphoma. Nature, 471, 189 - 195. https://doi.org/10.1038/nature09730.*
-2. *Dreval K, Hilton LK, Cruz M, Shaalan H, Ben-Neriah S, Boyle M, Collinge B, Coyle KM, Duns G, Farinha P, Grande BM, Meissner B, Pararajalingam P, Rushton CK, Slack GW, Wong J, Mungall AJ, Marra MA, Connors JM, Steidl C, Scott DW, Morin RD. Genetic subdivisions of follicular lymphoma defined by distinct coding and noncoding mutation patterns. Blood. 2023 Aug 10;142(6):561-573. doi: 10.1182/blood.2022018719. PMID: 37084389; PMCID: PMC10644066.*
+# References
 
 <!-- PMBL: dunsCharacterizationDLBCLPMBL2021b -->
