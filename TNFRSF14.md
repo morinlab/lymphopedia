@@ -1,11 +1,19 @@
+---
+bibliography: 'morinlab.bib'
+csl: 'NLM.csl'
+link-citations: true
+---
+
 # TNFRSF14
 
 ## History
+
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
 timeline
     title Publication timing
       2010-11-15 : Cheung : FL
+      2011-07-27 : Morin : DLBCL
       2016-09-08 : Spina : MZL
 ```
 
@@ -13,9 +21,9 @@ timeline
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            |
-|![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene               |
+|![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene[@spinaGeneticsNodalMarginal2016b] |
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene[@morinFrequentMutationHistonemodifying2011]            |
+|![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene[@cheungAcquiredTNFRSF14Mutations2010a]               |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -65,10 +73,11 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/T
 ## TNFRSF14 Expression
 ![](images/gene_expression/TNFRSF14_by_pathology.svg)
 
-## References
-1. *Morin RD, Mendez-Lago M, Mungall AJ, Goya R, Mungall KL, Corbett RD, Johnson NA, Severson TM, Chiu R, Field M, Jackman S, Krzywinski M, Scott DW, Trinh DL, Tamura-Wells J, Li S, Firme MR, Rogic S, Griffith M, Ch$
 
-<!-- ORIGIN: cheungAcquiredTNFRSF14Mutations2010a -->
+<!-- ORIGIN: cheungAcquiredTNFRSF14Mutations2010a @cheungAcquiredTNFRSF14Mutations2010a -->
 <!-- FL: cheungAcquiredTNFRSF14Mutations2010a -->
-<!-- MZL: spinaGeneticsNodalMarginal2016b -->
+<!-- MZL: spinaGeneticsNodalMarginal2016b @spinaGeneticsNodalMarginal2016b -->
 <!-- DLBCL: cheungAcquiredTNFRSF14Mutations2010a -->
+
+# References
+
