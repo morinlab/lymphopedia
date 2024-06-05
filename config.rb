@@ -62,7 +62,7 @@
     #
     # Equivalent to --css
 
-    #css: true,
+    css: true,
 
     #-----------------------------------------------------------------------------
     # What should the default keybinding be on the edit page? Note: the editor will anyway remember the last choice the user made, so this is only to specify the default.
