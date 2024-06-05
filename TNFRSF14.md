@@ -1,6 +1,9 @@
 # TNFRSF14
 
 ## History
+
+Mutations in this gene were first described in FL[@cheungAcquiredTNFRSF14Mutations2010a] and subsequently in DLBCL.[@morinFrequentMutationHistonemodifying2011]
+
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
 timeline
