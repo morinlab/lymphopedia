@@ -1,7 +1,13 @@
+---
+bibliography: 'morinlab.bib'
+csl: 'NLM.csl'
+link-citations: true
+---
+
 # CREBBP
 
 ## Overview
-CREBBP mutations are highly prevalent in both DLBCL and FL. These mutations often affect the histone acetyltransferase (HAT) domain, crucial for regulating gene expression through chromatin modification, or generate a truncated protein.<sup>1</sup> This gene has some recurrent sites of mutations (hotspots), mostly in the HAT domain. The pattern of mutations in DLBCL is distinct from FL with the latter having more HAT domain mutations relative to truncating mutations.<sup>2</sup>  
+CREBBP mutations are highly prevalent in both DLBCL and FL.[@pasqualucciInactivatingMutationsAcetyltransferase2011a] These mutations often affect the histone acetyltransferase (HAT) domain, crucial for regulating gene expression through chromatin modification, or generate a truncated protein.<sup>1</sup> This gene has some recurrent sites of mutations (hotspots), mostly in the HAT domain. The pattern of mutations in DLBCL is distinct from FL with the latter having more HAT domain mutations relative to truncating mutations.[@drevalGeneticSubdivisionsFollicular2023]  
 
 ## History
 
@@ -19,11 +25,11 @@ timeline
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|![MZL](images/icons/MZL_tier2.png)|2|relevance in MZL not firmly established|
-|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            |
-|![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene               |
-|![BL](images/icons/BL_tier2.png)    |2   |association with BL is tenuous|
+|![MZL](images/icons/MZL_tier2.png)|2|relevance in MZL not firmly established[@parryWholeExomeSequencing2013] |
+|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene[@dunsCharacterizationDLBCLPMBL2021b] |
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene[@pasqualucciInactivatingMutationsAcetyltransferase2011a]            |
+|![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene[@pasqualucciInactivatingMutationsAcetyltransferase2011a]               |
+|![BL](images/icons/BL_tier2.png)    |2   |association with BL is tenuous[@loveGeneticLandscapeMutations2012]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
