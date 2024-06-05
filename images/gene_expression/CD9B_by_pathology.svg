@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='504.00pt' height='360.00pt' viewBox='0 0 504.00 360.00'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<defs>
+  <clipPath id='cpMC4wMHw1MDQuMDB8MC4wMHwzNjAuMDA='>
+    <rect x='0.00' y='0.00' width='504.00' height='360.00' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw1MDQuMDB8MC4wMHwzNjAuMDA=)'>
+<rect x='-0.000000000000064' y='0.00' width='504.00' height='360.00' style='stroke-width: 1.36; stroke: none; fill: #FFFFFF;' />
+</g>
+<defs>
+  <clipPath id='cpMjYuMDN8NDk3LjAzfDYuOTd8Mjg4Ljgw'>
+    <rect x='26.03' y='6.97' width='471.00' height='281.82' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMjYuMDN8NDk3LjAzfDYuOTd8Mjg4Ljgw)'>
+<rect x='26.03' y='6.97' width='471.00' height='281.82' style='stroke-width: 1.36; stroke: none; fill: #FFFFFF;' />
+<rect x='26.03' y='6.97' width='471.00' height='281.82' style='stroke-width: 1.36; stroke: none;' />
+</g>
+<g clip-path='url(#cpMC4wMHw1MDQuMDB8MC4wMHwzNjAuMDA=)'>
+<polyline points='26.03,288.80 26.03,6.97 ' style='stroke-width: 1.09; stroke-linecap: butt;' />
+<polyline points='26.03,288.80 497.03,288.80 ' style='stroke-width: 1.09; stroke-linecap: butt;' />
+<text x='261.53' y='308.56' text-anchor='middle' style='font-size: 16.80px; font-weight: bold; font-family: "Arial";' textLength='80.25px' lengthAdjust='spacingAndGlyphs'>pathology</text>
+<text transform='translate(15.47,147.89) rotate(-90)' text-anchor='middle' style='font-size: 16.80px; font-weight: bold; font-family: "Arial";' textLength='88.71px' lengthAdjust='spacingAndGlyphs'>expression</text>
+<rect x='92.66' y='321.80' width='337.73' height='31.23' style='stroke-width: 1.36; stroke: none; fill: #FFFFFF;' />
+<text x='99.64' y='342.42' style='font-size: 14.00px; font-style: italic; font-family: "Arial";' textLength='60.70px' lengthAdjust='spacingAndGlyphs'>pathology</text>
+<rect x='167.30' y='328.77' width='17.28' height='17.28' style='stroke-width: 1.36; stroke: none; fill: #FFFFFF;' />
+<circle cx='175.94' cy='337.41' r='1.95' style='stroke-width: 0.71; stroke: #889BE5; fill: #889BE5;' />
+<rect x='219.05' y='328.77' width='17.28' height='17.28' style='stroke-width: 1.36; stroke: none; fill: #FFFFFF;' />
+<circle cx='227.69' cy='337.41' r='1.95' style='stroke-width: 0.71; stroke: #926CAD; fill: #926CAD;' />
+<rect x='263.97' y='328.77' width='17.28' height='17.28' style='stroke-width: 1.36; stroke: none; fill: #FFFFFF;' />
+<circle cx='272.61' cy='337.41' r='1.95' style='stroke-width: 0.71; stroke: #479450; fill: #479450;' />
+<rect x='331.26' y='328.77' width='17.28' height='17.28' style='stroke-width: 1.36; stroke: none; fill: #FFFFFF;' />
+<circle cx='339.90' cy='337.41' r='1.95' style='stroke-width: 0.71; stroke: #EA8368; fill: #EA8368;' />
+<rect x='375.54' y='328.77' width='17.28' height='17.28' style='stroke-width: 1.36; stroke: none; fill: #FFFFFF;' />
+<circle cx='384.18' cy='337.41' r='1.95' style='stroke-width: 0.71; stroke: #40E0D0; fill: #40E0D0;' />
+<text x='191.56' y='341.42' style='font-size: 11.20px; font-family: "Arial";' textLength='20.52px' lengthAdjust='spacingAndGlyphs'>CLL</text>
+<text x='243.31' y='341.42' style='font-size: 11.20px; font-family: "Arial";' textLength='13.69px' lengthAdjust='spacingAndGlyphs'>BL</text>
+<text x='288.22' y='341.42' style='font-size: 11.20px; font-family: "Arial";' textLength='36.06px' lengthAdjust='spacingAndGlyphs'>DLBCL</text>
+<text x='355.51' y='341.42' style='font-size: 11.20px; font-family: "Arial";' textLength='13.05px' lengthAdjust='spacingAndGlyphs'>FL</text>
+<text x='399.80' y='341.42' style='font-size: 11.20px; font-family: "Arial";' textLength='23.62px' lengthAdjust='spacingAndGlyphs'>MCL</text>
+</g>
+</svg>
