@@ -6,8 +6,6 @@ link-citations: true
 
 # ACTG1
 
-## Overview
-
 ## History
 
 ```mermaid
