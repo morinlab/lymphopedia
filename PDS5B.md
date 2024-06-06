@@ -8,7 +8,7 @@ Mutations in this gene were first described in DLBCL in 2013 by Morin et al<sup>
 timeline
     title Publication timing
       2013-08-15 : Morin : DLBCL
-      2021-05-05 : H : FL
+      2021-05-05 : Hübschmann : FL
 ```
 
 ## Relevance tier by entity

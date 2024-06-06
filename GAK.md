@@ -7,7 +7,7 @@ Mutations in this gene were first described in DLBCL in 2021 by Hübschmann et a
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
 timeline
     title Publication timing
-      2021-05-05 : H : DLBCL
+      2021-05-05 : Hübschmann : DLBCL
 ```
 
 ## Relevance tier by entity
