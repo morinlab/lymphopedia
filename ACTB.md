@@ -1,3 +1,9 @@
+---
+bibliography: 'morinlab.bib'
+csl: 'NLM.csl'
+link-citations: true
+---
+
 # ACTB
 
 ## Overview
@@ -18,8 +24,8 @@ timeline
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
 |![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene|
-|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1-a   |high-confidence DLBCL gene, hypermutated|
+|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene[@wienandGenomicAnalysesFlowsorted2019b]|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1-a   |high-confidence DLBCL gene, hypermutated[@lohrDiscoveryPrioritizationSomatic2012a]|
 |![FL](images/icons/FL_tier1.png)    |1-a   |high-confidence FL gene, hypermutated   |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
