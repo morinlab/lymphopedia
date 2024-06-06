@@ -1,3 +1,9 @@
+---
+bibliography: 'morinlab.bib'
+csl: 'NLM.csl'
+link-citations: true
+---
+
 # BCL10
 
 ## Overview
@@ -16,9 +22,9 @@ timeline
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene|
-|![DLBCL](images/icons/DLBCL_tier1.png)  |1   |high-confidence DLBCL gene            |
-|![FL](images/icons/FL_tier2.png)     |2   |relevance in FL not firmly established|
+|![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene[@spinaGeneticsNodalMarginal2016b]|
+|![DLBCL](images/icons/DLBCL_tier1.png)  |1   |high-confidence DLBCL gene[@morinFrequentMutationHistonemodifying2011]            |
+|![FL](images/icons/FL_tier2.png)     |2   |relevance in FL not firmly established[@morinFrequentMutationHistonemodifying2011]|
 |![BL](images/icons/BL_tier2.png)    |2   |relevance in BL not firmly established|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
@@ -64,10 +70,6 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/B
 ![](images/gene_expression/BCL10_by_pathology.svg)
 
 ## References
-
-1. *Luminari S, Intini D, Baldini L, Berti E, Bertoni F, Zucca E, Cro L, Maiolo AT, Cavalli F, Neri A. BCL10 gene mutations rarely occur in lymphoid malignancies. Leukemia. 2000 May;14(5):905-8. doi: 10.1038/sj.leu.2401747. PMID: 10803524.*
-
-2. *Morin RD, Mendez-Lago M, Mungall AJ, Goya R, Mungall KL, Corbett RD, Johnson NA, Severson TM, Chiu R, Field M, Jackman S, Krzywinski M, Scott DW, Trinh DL, Tamura-Wells J, Li S, Firme MR, Rogic S, Griffith M, Chan S, Yakovenko O, Meyer IM, Zhao EY, Smailus D, Moksa M, Chittaranjan S, Rimsza L, Brooks-Wilson A, Spinelli JJ, Ben-Neriah S, Meissner B, Woolcock B, Boyle M, McDonald H, Tam A, Zhao Y, Delaney A, Zeng T, Tse K, Butterfield Y, Birol I, Holt R, Schein J, Horsman DE, Moore R, Jones SJ, Connors JM, Hirst M, Gascoyne RD, Marra MA. Frequent mutation of histone-modifying genes in non-Hodgkin lymphoma. Nature. 2011 Jul 27;476(7360):298-303. doi: 10.1038/nature10351. PMID: 21796119; PMCID: PMC3210554.*
 
 <!-- ORIGIN: morinFrequentMutationHistonemodifying2011 -->
 <!-- FL: russler-germainMutationsAssociatedProgression2023b -->
