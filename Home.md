@@ -14,7 +14,7 @@ of mutations in each gene can be found through the gene lists (below). Additiona
 
 ## Origins of B-cell lymphoma gene lists
 
-### [Studies](Papers)
+### [Browse by study](Papers)
 
 ```mermaid
 ---
@@ -153,6 +153,7 @@ MCL-WGS, Nadeu 2020, 5
 MCL, MCL-exome, 28
 MCL-exome, Zhang 2014, 28
 ```
+
 ## B-cell Lymphoma aSHM targets
 
 [hg19 coordinates](ashm)
