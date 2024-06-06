@@ -1,9 +1,14 @@
+---
+bibliography: 'morinlab.bib'
+csl: 'NLM.csl'
+link-citations: true
+---
+
 # ACTG1
 
 ## Overview
 
 ## History
-Mutations in this gene were first described in DLBCL and FL in 2021 by Hübschmann et al.<sup>1</sup>
 
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
@@ -18,10 +23,10 @@ timeline
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|![PMBL](images/icons/PMBL_tier2.png)|2|relevance in PMBL/cHL/GZL not firmly established|
-|![MZL](images/icons/MZL_tier2.png)|2|relevance in MZL not firmly established|
-|![FL](images/icons/FL_tier2.png)|2|relevance in FL not firmly established|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1-a | aSHM target and high-confidence DLBCL gene            |
+|![PMBL](images/icons/PMBL_tier2.png)|2|relevance in PMBL/cHL/GZL not firmly established[@deschGenotypingCirculatingTumor2020]|
+|![MZL](images/icons/MZL_tier2.png)|2|relevance in MZL not firmly established[@spinaGeneticsNodalMarginal2016b]|
+|![FL](images/icons/FL_tier2.png)|2|relevance in FL not firmly established[@hubschmannMutationalMechanismsShaping2021b]|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1-a | aSHM target and high-confidence DLBCL gene[@hubschmannMutationalMechanismsShaping2021b]            |
 
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
