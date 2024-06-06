@@ -1,8 +1,15 @@
+---
+bibliography: 'morinlab.bib'
+csl: 'NLM.csl'
+link-citations: true
+---
+
 # B2M
 
 ## Overview
 
 The B2M (β2-microglobulin) gene plays a crucial role in the function of the major histocompatibility complex (MHC) class I molecules, which are essential for immune system recognition of infected or malignant cells. B2M mutations in B-cell lymphomas, particularly in DLBCL and PMBCL, lead to reduced MHC class I expression, enabling tumor cells to evade immune detection and destruction by cytotoxic T cells. 
+
 ## History
 
 ```mermaid
@@ -18,10 +25,10 @@ timeline
 
 |Entity|Tier|Description                            |
 |:------:|:----:|---------------------------------------|
-|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene             |
-|![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene                |
-|![MCL](images/icons/MCL_tier2.png)   |2   |relevance in MCL not firmly established|
+|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene[@reichelFlowSortingExome2015a]|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene[@morinFrequentMutationHistonemodifying2011]             |
+|![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene[@morinFrequentMutationHistonemodifying2011]                |
+|![MCL](images/icons/MCL_tier2.png)   |2   |relevance in MCL not firmly established[@pararajalingamCodingNoncodingDrivers2020]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -44,7 +51,6 @@ timeline
 |BL    |No  |No                   | 9.379          | 56.571         |
 |DLBCL |No  |Yes                  |60.843          |340.788         |
 |FL    |No  |Yes                  |54.190          |326.834         |
-
 
 
 ## B2M Hotspots
@@ -84,9 +90,6 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/B
 ## B2M Expression
 ![](images/gene_expression/B2M_by_pathology.svg)
 
-
-
-
 <!-- ORIGIN: morinFrequentMutationHistonemodifying2011 -->
 <!-- PMBL: reichelFlowSortingExome2015a -->
 <!-- FL: morinFrequentMutationHistonemodifying2011 -->
@@ -94,6 +97,3 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/B
 <!-- DLBCL: morinFrequentMutationHistonemodifying2011 -->
 
 ## References
-1.  Morin RD, Mendez-Lago M, Mungall AJ, Goya R, Mungall KL, Corbett RD, Johnson NA, Severson TM, Chiu R, Field M, Jackman S, Krzywinski M, Scott DW, Trinh DL, Tamura-Wells J, Li S, Firme MR, Rogic S, Griffith M, Chan S, Yakovenko O, Meyer IM, Zhao EY, Smailus D, Moksa M, Chittaranjan S, Rimsza L, Brooks-Wilson A, Spinelli JJ, Ben-Neriah S, Meissner B, Woolcock B, Boyle M, McDonald H, Tam A, Zhao Y, Delaney A, Zeng T, Tse K, Butterfield Y, Birol I, Holt R, Schein J, Horsman DE, Moore R, Jones SJM, Connors JM, Hirst M, Gascoyne RD, Marra MA. Frequent mutation of histone-modifying genes in non-Hodgkin lymphoma. Nature. 2011 Jul 27;476(7360):298–303. PMCID: PMC3210554
-2.  Reichel J, Chadburn A, Rubinstein PG, Giulino-Roth L, Tam W, Liu Y, Gaiolla R, Eng K, Brody J, Inghirami G, Carlo-Stella C, Santoro A, Rahal D, Totonchy J, Elemento O, Cesarman E, Roshal M. Flow sorting and exome sequencing reveal the oncogenome of primary Hodgkin and Reed-Sternberg cells. Blood. 2015 Feb 12;125(7):1061–1072. PMID: 25488972
-3.  Pararajalingam P, Coyle KM, Arthur SE, Thomas N, Alcaide M, Meissner B, Boyle M, Qureshi Q, Grande BM, Rushton C, Slack GW, Mungall AJ, Tam CS, Agarwal R, Dawson SJ, Lenz G, Balasubramanian S, Gascoyne RD, Steidl C, Connors J, Villa D, Audas TE, Marra MA, Johnson NA, Scott DW, Morin RD. Coding and noncoding drivers of mantle cell lymphoma identified through exome and genome sequencing. Blood. 2020 Jul 30;136(5):572–584. PMCID: PMC7440974
