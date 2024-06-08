@@ -1,7 +1,14 @@
+---
+bibliography: 'morinlab.bib'
+csl: 'NLM.csl'
+link-citations: true
+---
 # DDX3X
 
 ## Overview
-Mutations in the DDX3X gene, which encodes an RNA helicase involved in various aspects of RNA metabolism, have significant implications in B-cell lymphomas, including BL, DLBCL, and other related malignancies and are particularly enriched within MYC-translocated tumors and those expressing the dark zone signature (DZsig).<sup>1</sup> These mutations are predominantly loss-of-function (LOF) mutations, affecting the helicase domain of the protein.<sup>2</sup> Missense mutations are predominantly found in male patients and rarely in females, hence showing a sex-specific pattern.<sup>3</sup> 
+Mutations in the DDX3X gene, which encodes an RNA helicase involved in various aspects of RNA metabolism, have significant implications in B-cell lymphomas, including BL, DLBCL, and other related malignancies and are particularly enriched within MYC-translocated tumors and those expressing the dark zone signature (DZsig).[@ennishiDoubleHitGeneExpression2019] 
+These mutations are predominantly loss-of-function (LOF) mutations, affecting the helicase domain of the protein.<sup>2</sup> Missense mutations are predominantly found in male patients and rarely in females, hence showing a sex-specific pattern.<sup>3</sup> 
+
 ## History
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
@@ -16,9 +23,9 @@ timeline
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene|
-|![BL](images/icons/BL_tier1.png)    |1 | high-confidence BL gene               |
-|![DLBCL](images/icons/DLBCL_tier1.png) |1 | high-confidence DLBCL gene            |
+|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene[@mottokIntegrativeGenomicAnalysis2019b]|
+|![BL](images/icons/BL_tier1.png)    |1 | high-confidence BL gene               [@schmitzBurkittLymphomaPathogenesis2012]|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1 | high-confidence DLBCL gene            [@schmitzGeneticsPathogenesisDiffuse2018a]|
 |![FL](images/icons/FL_tier2.png)    |2 | Although recurrent, the relevance of mutations in FL is tenuous |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
