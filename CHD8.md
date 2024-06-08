@@ -5,9 +5,6 @@ link-citations: true
 ---
 # CHD8
 
-## History
-Mutations in this gene were first described in DLBCL in 2017 by Reddy et al<sup>1</sup> and in BL in 2019 by Grande et al.<sup>2</sup>
-
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
 timeline
