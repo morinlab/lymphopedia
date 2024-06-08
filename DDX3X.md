@@ -65,11 +65,6 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/D
 
 ![](images/proteinpaint/DDX3X.svg)
 
-## References
-1. *Ennishi D, Jiang A, Boyle M, Collinge B, Grande BM, Ben-Neriah S, Rushton C, Tang J, Thomas N, Slack GW, Farinha P, Takata K, Miyata-Takata T, Craig J, Mottok A, Meissner B, Saberi S, Bashashati A, Villa D, Savage KJ, Sehn LH, Kridel R, Mungall AJ, Marra MA, Shah SP, Steidl C, Connors JM, Gascoyne RD, Morin RD, Scott DW. Double-Hit Gene Expression Signature Defines a Distinct Subgroup of Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma. J Clin Oncol. 2019 Jan 20;37(3):190-201. doi: 10.1200/JCO.18.01583. Epub 2018 Dec 3. PMID: 30523716; PMCID: PMC6804880.*
-2. *Lacroix, M., Beauchemin, H., & Möröy, T. (2022). DDX3: a relevant therapeutic target for lymphoma?. Expert Opinion on Therapeutic Targets, 26, 1037 - 1040. https://doi.org/10.1080/14728222.2022.2166830.*
-3. *Gong, C., Krupka, J., Gao, J., Grigoropoulos, N., Giotopoulos, G., Asby, R., Screen, M., Usheva, Z., Cucco, F., Barrans, S., Painter, D., Zaini, N., Haupl, B., Bornelöv, S., Mozos, I., Meng, W., Zhou, P., Blain, A., Forde, S., Matthews, J., Tan, M., Burke, G., Sze, S., Beer, P., Burton, C., Campbell, P., Rand, V., Turner, S., Ule, J., Roman, E., Tooze, R., Oellerich, T., Huntly, B., Turner, M., Du, M., Samarajiwa, S., & Hodson, D. (2021). Sequential inverse dysregulation of the RNA helicases DDX3X and DDX3Y facilitates MYC-driven lymphomagenesis.. Molecular cell. https://doi.org/10.1016/j.molcel.2021.07.041.*
-
 ## DDX3X Expression
 ![](images/gene_expression/DDX3X_by_pathology.svg)
 <!-- ORIGIN: schmitzBurkittLymphomaPathogenesis2012 -->
@@ -77,3 +72,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/D
 <!-- BL: schmitzBurkittLymphomaPathogenesis2012 -->
 <!-- BL: schmitzBurkittLymphomaPathogenesis2012 -->
 <!-- PMBL: mottokIntegrativeGenomicAnalysis2019b -->
+
+## References
+
+
