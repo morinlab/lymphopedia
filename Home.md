@@ -5,12 +5,14 @@ of mutations in each gene can be found through the gene lists (below). Additiona
 
 ## B-cell Lymphoma gene lists
 
-| entity | Tier 1 (high-confidence) | Tier 2 (low-confidence) |
-| ----- | ----------- | ---------- |
-| DLBCL | [(128 genes)](DLBCL_genes#tier-1-dlbcl-genes) |[(198 genes)](DLBCL_genes#tier-2-dlbcl-genes) |
-| FL | [(66 genes)](FL_genes#tier-1-fl-genes) |[(50 genes)](FL_genes#tier-2-fl-genes) |
-| BL | [(29 genes)](BL_genes#tier-1-bl-genes) |[(157 genes)](BL_genes#tier-2-bl-genes) |
-| MCL | [(23 genes)](MCL_genes#tier-1-mcl-genes) |[(46 genes)](MCL_genes#tier-2-mcl-genes) |
+|entity|Tier 1 (high-confidence)|Tier 2 (low-confidence)|
+|:-:|:-:|:-:|
+|BL|(29 genes)[BL_genes#tier-1-bl-genes]|(157 genes)[BL_genes#tier-2-bl-genes]|
+|DLBCL|(128 genes)[DLBCL_genes#tier-1-dlbcl-genes]|(198 genes)[DLBCL_genes#tier-2-dlbcl-genes]|
+|FL|(66 genes)[FL_genes#tier-1-fl-genes]|(50 genes)[FL_genes#tier-2-fl-genes]|
+|PMBL|(76 genes)[PMBL_genes#tier-1-pmbl-genes]|(82 genes)[PMBL_genes#tier-2-pmbl-genes]|
+|MCL|(23 genes)[MCL_genes#tier-1-mcl-genes]|(46 genes)[MCL_genes#tier-2-mcl-genes]|
+|MZL|(42 genes)[MZL_genes#tier-1-mzl-genes]|(74 genes)[MZL_genes#tier-2-mzl-genes]|
 
 ## Origins of B-cell lymphoma gene lists
 
