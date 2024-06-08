@@ -14,7 +14,7 @@ config:
     showValues: false
     linkColor: target
     width: 800
-    height: 750
+    height: 550
     nodeAlignment: right
 ---
 sankey-beta
