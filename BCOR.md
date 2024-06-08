@@ -15,9 +15,9 @@ timeline
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
-|![MZL](images/icons/MZL_tier2.png)|2|relevance in MZL not firmly established|
+|![MZL](images/icons/MZL_tier2.png)|2|relevance in MZL not firmly established[@jalladesExomeSequencingIdentifies2017]|
 |![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene|
-|![MCL](images/icons/MCL_tier1.png)   |1   |high-confidence MCL gene  |
+|![MCL](images/icons/MCL_tier1.png)   |1   |high-confidence MCL gene  [@nadeuGenomicEpigenomicInsights2020b]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -54,12 +54,11 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/B
 
 ![](images/proteinpaint/BCOR.svg)
 
-## References
-
-1. *Kang JH, Lee SH, Lee J, Choi M, Cho J, Kim SJ, Kim WS, Ko YH, Yoo HY. The mutation of BCOR is highly recurrent and oncogenic in mature T-cell lymphoma. BMC Cancer. 2021 Jan 19;21(1):82. doi: 10.1186/s12885-021-07806-8. PMID: 33468080; PMCID: PMC7816311.*
-2. *Nadeu F, Martin-Garcia D, Clot G, Díaz-Navarro A, Duran-Ferrer M, Navarro A, Vilarrasa-Blasi R, Kulis M, Royo R, Gutiérrez-Abril J, Valdés-Mas R, López C, Chapaprieta V, Puiggros M, Castellano G, Costa D, Aymerich M, Jares P, Espinet B, Muntañola A, Ribera-Cortada I, Siebert R, Colomer D, Torrents D, Gine E, López-Guillermo A, Küppers R, Martin-Subero JI, Puente XS, Beà S, Campo E. Genomic and epigenomic insights into the origin, pathogenesis, and clinical behavior of mantle cell lymphoma subtypes. Blood. 2020 Sep 17;136(12):1419-1432. doi: 10.1182/blood.2020005289. PMID: 32584970; PMCID: PMC7498364.*
 ## BCOR Expression
 ![](images/gene_expression/BCOR_by_pathology.svg)
 <!-- ORIGIN: jalladesExomeSequencingIdentifies2017 -->
 <!-- MCL: nadeuGenomicEpigenomicInsights2020a -->
 <!-- MZL: jalladesExomeSequencingIdentifies2017 -->
+
+## References
+
