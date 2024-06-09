@@ -1,7 +1,14 @@
+---
+bibliography: 'morinlab.bib'
+csl: 'NLM.csl'
+link-citations: true
+---
 # CD79B
 
 ## Overview
-CD79B mutations significantly contribute to the pathogenesis of DLBCL by enhancing BCR signaling and promoting tumor survival. These mutations, especially when co-occurring with MYD88 mutations, define a unique molecular subtype.<sup>1</sup> This has clinical and therapeutic implications as it may contribute sensitivity to BTK inhibitors. In an inducible mouse model of MYD88-driven DLBCL, CD79B mutations did not accelerate lymphomagenesis but demonstrated an increased sensitivity to pharmacological BTK inhibition.<sup>2</sup> In a retrospective analysis, younger patients with MCD DLBCL that were treated with ibrutinib had significantly better outcomes.<sup>3</sup> The most common hotspot mutation in CD79B is at the tyrosine residue 196 (Y196). This and other common mutations primarily occur in the immunoreceptor tyrosine-based activation motif (ITAM) domain and prevent the negative regulatory feedback provided by Lyn kinase thereby enhancing BCR signaling.  
+CD79B mutations significantly contribute to the pathogenesis of DLBCL by enhancing BCR signaling and promoting tumor survival. These mutations, especially when co-occurring with MYD88 mutations, define a unique molecular subtype.<sup>1</sup> This has clinical and therapeutic implications as it may contribute sensitivity to BTK inhibitors. In an inducible mouse model of MYD88-driven DLBCL, CD79B mutations did not accelerate lymphomagenesis but demonstrated an increased sensitivity to pharmacological BTK inhibition.<sup>2</sup> In a retrospective analysis, younger patients with MCD DLBCL that were treated with ibrutinib had significantly better outcomes.<sup>3</sup> The most common hotspot mutation in CD79B is at the tyrosine residue 196 (Y196). This and other common mutations primarily occur in the immunoreceptor tyrosine-based activation motif (ITAM) domain and prevent the negative regulatory feedback provided by Lyn kinase thereby enhancing BCR signaling.
+
+
 ## History
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
@@ -15,8 +22,8 @@ timeline
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|![BL](images/icons/BL_tier2.png)    |2   |relevance in BL not firmly established|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            |
+|![BL](images/icons/BL_tier2.png)    |2   |relevance in BL not firmly established[@paneaWholeGenomeLandscape2019]|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            [@morinFrequentMutationHistonemodifying2011]|
 |![FL](images/icons/FL_tier2.png)    |2   |relevance in FL not firmly established|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
