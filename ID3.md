@@ -7,7 +7,7 @@ link-citations: true
 
 ## History
 ID3 was first reported as mutated in BL in 2012 by Richter et al.[@richterRecurrentMutationID32012a] 
-The existence of mutations in DLBCL were described in 2012 by Schmitz et al[@schmitzBurkittLymphomaPathogenesis2] and later in MZL by Spina et al.[@spinaGeneticsNodalMarginal2016b]
+The existence of mutations in DLBCL were described in 2012 by Schmitz et al[@schmitzBurkittLymphomaPathogenesis2012] and later in MZL by Spina et al.[@spinaGeneticsNodalMarginal2016b]
 
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
@@ -22,9 +22,9 @@ The existence of mutations in DLBCL were described in 2012 by Schmitz et al[@sch
 
 |Entity|Tier|Description                              |
 |:------:|:----:|-----------------------------------------|
-|![BL](images/icons/BL_tier1.png)    |1 | high-confidence BL gene                  [@richterRecurrentMutationID32012a]|
+|![BL](images/icons/BL_tier1.png)    |1 | high-confidence BL gene [@richterRecurrentMutationID32012a]|
 |![MZL](images/icons/MZL_tier1.png) |1 | high-confidence MZL gene [@spinaGeneticsNodalMarginal2016b]|
-|![DLBCL](images/icons/DLBCL_tier2.png) |2 | Although recurrent, the relevance of mutations in DLBCL is tenuous [@schmitzBurkittLymphomaPathogenesis2012]|
+|![DLBCL](images/icons/DLBCL_tier2.png) |2 | Although recurrent, the relevance of mutations in DLBCL is tenuous[@schmitzBurkittLymphomaPathogenesis2012]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
