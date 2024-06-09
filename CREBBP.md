@@ -7,7 +7,8 @@ link-citations: true
 # CREBBP
 
 ## Overview
-CREBBP mutations are highly prevalent in both DLBCL and FL.[@pasqualucciInactivatingMutationsAcetyltransferase2011a] These mutations often affect the histone acetyltransferase (HAT) domain, crucial for regulating gene expression through chromatin modification, or generate a truncated protein.<sup>1</sup> This gene has some recurrent sites of mutations (hotspots), mostly in the HAT domain. The pattern of mutations in DLBCL is distinct from FL with the latter having more HAT domain mutations relative to truncating mutations.[@drevalGeneticSubdivisionsFollicular2023]  
+CREBBP mutations are highly prevalent in both DLBCL and FL.[@pasqualucciInactivatingMutationsAcetyltransferase2011a] These mutations often affect the histone acetyltransferase (HAT) domain, crucial for regulating gene expression through chromatin modification, or generate a truncated protein.[@pasqualucciInactivatingMutationsAcetyltransferase2011a]
+This gene has some recurrent sites of mutations (hotspots), mostly in the HAT domain. The pattern of mutations in DLBCL is distinct from FL with the latter having more HAT domain mutations relative to truncating mutations.[@drevalGeneticSubdivisionsFollicular2023]  
 
 ## History
 
