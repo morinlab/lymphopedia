@@ -86,7 +86,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/E
 
 <!-- ORIGIN: morinSomaticMutationsAltering2010 -->
 <!-- BL: loveGeneticLandscapeMutations2012 -->
-<!-- FL: morinSomaticMutationsAltering2010 -->
+<!-- FL: morinSomaticMutationsAltering2010a -->
 <!-- BL: loveGeneticLandscapeMutations2012 -->
 <!-- DLBCL: morinSomaticMutationsAltering2010 -->
 <!-- PMBL: mottokIntegrativeGenomicAnalysis2019b -->

@@ -58,7 +58,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/S
 ## SMARCA4 Expression
 ![](images/gene_expression/SMARCA4_by_pathology.svg)
 <!-- ORIGIN: zhangGeneticHeterogeneityDiffuse2013 -->
-<!-- MCL: nadeuGenomicEpigenomicInsights2020a -->
+<!-- MCL: nadeuGenomicEpigenomicInsights2020b -->
 <!-- DLBCL: zhangGeneticHeterogeneityDiffuse2013 -->
 <!-- FL: krysiakRecurrentSomaticMutations2017b -->
 <!-- BL: richterRecurrentMutationID32012a -->

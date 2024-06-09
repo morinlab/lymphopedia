@@ -33,6 +33,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/S
 
 ## SESN1 Expression
 ![](images/gene_expression/SESN1_by_pathology.svg)
-<!-- ORIGIN: Unknown -->
+<!-- ORIGIN: oricchioGeneticEpigeneticInactivation2017b -->
 
 ## References
+<!-- FL: oricchioGeneticEpigeneticInactivation2017b -->

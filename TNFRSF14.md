@@ -77,7 +77,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/T
 <!-- ORIGIN: cheungAcquiredTNFRSF14Mutations2010a @cheungAcquiredTNFRSF14Mutations2010a -->
 <!-- FL: cheungAcquiredTNFRSF14Mutations2010a -->
 <!-- MZL: spinaGeneticsNodalMarginal2016b @spinaGeneticsNodalMarginal2016b -->
-<!-- DLBCL: cheungAcquiredTNFRSF14Mutations2010a -->
+<!-- DLBCL: morinFrequentMutationHistonemodifying2011 -->
 
 # References
 

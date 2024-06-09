@@ -93,5 +93,5 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/K
 2. *Choi, J., Zhou, N., & Busino, L. (2019). KLHL6 is a tumor suppressor gene in diffuse large B-cell lymphoma. Cell Cycle, 18, 249 - 256. https://doi.org/10.1080/15384101.2019.1568765.*
 <!-- MZL: ganapathiGeneticLandscapeDural2016 -->
 <!-- DLBCL: morinFrequentMutationHistonemodifying2011 -->
-<!-- BL: 2 -->
+<!-- BL: paneaWholeGenomeLandscape2019 -->
 <!-- FL: morinFrequentMutationHistonemodifying2011 -->

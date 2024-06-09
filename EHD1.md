@@ -35,6 +35,6 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/E
 ## EHD1 Expression
 ![](images/gene_expression/EHD1_by_pathology.svg)
 <!-- ORIGIN: Unknown -->
-<!-- BL: 2 -->
+<!-- BL: thomasGeneticSubgroupsInform2023 -->
 
 ## References

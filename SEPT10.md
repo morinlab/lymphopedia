@@ -33,5 +33,5 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/S
 ![image](images/proteinpaint/SEPT10.svg)
 ## SEPT10 Expression
 ![image](images/gene_expression/SEPT10_by_pathology.svg)
-<!-- ORIGIN: Unknown -->
+<!-- ORIGIN:  -->
 <!-- BL: 2 -->

@@ -40,6 +40,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/R
 
 ## RHOH Expression
 ![](images/gene_expression/RHOH_by_pathology.svg)
-<!-- ORIGIN: Unknown -->
+<!-- ORIGIN: pasqualucciHypermutationMultipleProtooncogenes2001a -->
 
 ## References
+<!-- DLBCL: pasqualucciHypermutationMultipleProtooncogenes2001a -->
