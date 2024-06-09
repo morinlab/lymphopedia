@@ -1,7 +1,13 @@
+---
+bibliography: 'morinlab.bib'
+csl: 'NLM.csl'
+link-citations: true
+---
 # FOXO1
 
 ## Overview
 Mutations in the FOXO1 gene, which encodes a member of the forkhead family of transcription factors, play a significant role in diffuse large B-cell lymphoma (DLBCL). Mutations primarily occur in the first exon, with significant portions affecting the N-terminal region and the Forkhead DNA binding domain.<sup>1</sup> These mutations are common in DLBCL, BL and, to a lesser extent, FL.<sup>2,3</sup> FOXO1 mutations can contribute to resistance to certain therapies, such as anti-CD20-based immunotherapies, by repressing MS4A1 (CD20) expression.<sup>4</sup> 
+
 ## History
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
@@ -17,10 +23,10 @@ timeline
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
 |![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene|
-|![PMBL](images/icons/PMBL_tier2.png)|2|relevance in PMBL/cHL/GZL not firmly established|
-|![BL](images/icons/BL_tier1.png)    |1   |high-confidence BL gene   |
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene|
-|![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene   |
+|![PMBL](images/icons/PMBL_tier2.png)|2|relevance in PMBL/cHL/GZL not firmly established[@dunsCharacterizationDLBCLPMBL2021b]|
+|![BL](images/icons/BL_tier1.png)    |1   |high-confidence BL gene   [@schmitzBurkittLymphomaPathogenesis2012]|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene[@morinFrequentMutationHistonemodifying2011]|
+|![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene   [@morinFrequentMutationHistonemodifying2011]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

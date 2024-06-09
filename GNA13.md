@@ -1,7 +1,13 @@
+---
+bibliography: 'morinlab.bib'
+csl: 'NLM.csl'
+link-citations: true
+---
 # GNA13
 
 ## Overview
 Mutations in GNA13, which encodes a G protein alpha subunit involved in multiple signaling pathways, have been identified as significant contributors to the pathogenesis of germinal centre-derived B-cell lymphomas, including diffuse large B-cell lymphoma (DLBCL) and Burkitt lymphoma (BL).<sup>1</sup> This gene has some recurrent sites of mutations (hot spots). Overall, mutations are often loss-of-function in nature, disrupting the normal activity of GNA13. GNA13 regulates B-cell homing and growth suppression within the germinal center niche and its loss of function promotes lymphoma development.<sup>2</sup>
+
 ## History
 
 ```mermaid
@@ -17,10 +23,10 @@ timeline
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
-|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene|
-|![BL](images/icons/BL_tier1.png)    |1   |high-confidence BL gene   |
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene|
-|![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene   |
+|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene[@reichelFlowSortingExome2015a]|
+|![BL](images/icons/BL_tier1.png)    |1   |high-confidence BL gene   [@loveGeneticLandscapeMutations2012]|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene[@morinFrequentMutationHistonemodifying2011]|
+|![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene   [@morinFrequentMutationHistonemodifying2011]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
