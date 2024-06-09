@@ -89,10 +89,6 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/C
 ![](images/gene_expression/CD79B_by_pathology.svg)
 
 ## References
-1. *Wright GW, Huang DW, Phelan JD, Coulibaly ZA, Roulland S, Young RM, Wang JQ, Schmitz R, Morin RD, Tang J, Jiang A, Bagaev A, Plotnikova O, Kotlov N, Johnson CA, Wilson WH, Scott DW, Staudt LM. A Probabilistic Classification Tool for Genetic Subtypes of Diffuse Large B Cell Lymphoma with Therapeutic Implications. Cancer Cell. 2020 Apr 13;37(4):551-568.e14. doi: 10.1016/j.ccell.2020.03.015. PMID: 32289277; PMCID: PMC8459709.*
-2. *Flümann R, Hansen J, Meinel J, Pfeiffer P, Goldfarb Wittkopf H, Lütz A, Wirtz J, Möllmann M, Zhou T, Tabatabai A, Lohmann T, Jauch M, Beleggia F, Pelzer B, Ullrich F, Höfmann S, Arora A, Persigehl T, Büttner R, von Tresckow B, Klein S, Jachimowicz RD, Reinhardt HC, Knittel G. An inducible Cd79b mutation confers ibrutinib sensitivity in mouse models of Myd88-driven diffuse large B-cell lymphoma. Blood Adv. 2024 Mar 12;8(5):1063-1074. doi: 10.1182/bloodadvances.2023011213. PMID: 38060829; PMCID: PMC10907402.*
-3. *Wilson WH, Wright GW, Huang DW, Hodkinson B, Balasubramanian S, Fan Y, Vermeulen J, Shreeve M, Staudt LM. Effect of ibrutinib with R-CHOP chemotherapy in genetic subtypes of DLBCL. Cancer Cell. 2021 Dec 13;39(12):1643-1653.e3. doi: 10.1016/j.ccell.2021.10.006. Epub 2021 Nov 4. PMID: 34739844; PMCID: PMC8722194.*
-4. *Kim Y, Ju H, Kim DH, Yoo HY, Kim SJ, Kim WS, Ko YH. CD79B and MYD88 mutations in diffuse large B-cell lymphoma. Hum Pathol. 2014 Mar;45(3):556-64. doi: 10.1016/j.humpath.2013.10.023. Epub 2013 Oct 31. PMID: 24444466.*
 <!-- ORIGIN: morinFrequentMutationHistonemodifying2011 -->
 <!-- DLBCL: morinFrequentMutationHistonemodifying2011 -->
 <!-- BL: paneaWholeGenomeLandscape2019 -->
