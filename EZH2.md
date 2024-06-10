@@ -1,7 +1,11 @@
 # EZH2
 
 ## Overview
-EZH2 encodes a histone methyltransferase that is a component of the polycomb repressive complex 2 (PRC2). This gene is recurrently mutated in both FL and DLBCL and has a common mutation hot spot (Y646) that affects the SET domain.<sup>1</sup> Mutations of this residue and some of the less common hotspots lead to enhanced methylation by PRC2.<sup>2,3</sup> Pharmacologic inhibitors of this activity such as tazemetostat have shown benefit in FL.<sup>3</sup> EZH2 mutations are one of the defining features of the EZB genetic subgroup of DLBCL. Although mutations in EZH2 have been described in some BL patients, they are extremely rare in most studies.<sup>4</sup> 
+EZH2 encodes a histone methyltransferase that is a component of the polycomb repressive complex 2 (PRC2). 
+This gene is recurrently mutated in both FL and DLBCL and has a common mutation hot spot (Y646) that affects the SET domain.<sup>1</sup> Mutations of this residue and some of the less common hotspots lead to enhanced methylation by PRC2.<sup>2,3</sup> 
+Pharmacologic inhibitors of this activity such as tazemetostat have shown benefit in FL.<sup>3</sup> EZH2 mutations are one of the defining features of the EZB genetic subgroup of DLBCL. 
+Although mutations in EZH2 have been described in some BL patients, they are extremely rare in most studies.<sup>4</sup> 
+
 ## History
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
