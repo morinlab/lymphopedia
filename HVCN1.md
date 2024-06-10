@@ -2,6 +2,7 @@
 
 ## Overview
 HVCN1, a voltage-gated proton channel, has been identified as recurrently mutated in follicular lymphoma and mutations also appear in some DLBCL.<sup>1</sup> HVCN1 mutations disrupt its normal function, affecting B-cell receptor (BCR) signaling pathways.<sup>1</sup> This gene has some recurrent sites of mutations (hot spots) but the function of these mutations is not well understood. The mutation pattern in DLBCL and FL implies the preferential accumulation of *inactivating mutations*.
+
 ## History
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
