@@ -1,13 +1,13 @@
 # HNRNPD
 
 ## Overview
-hnRNPs are a family of RNA-binding proteins that play crucial roles in RNA processing, including splicing, stability, transport, and translation. They are involved in the regulation of gene expression at multiple levels. HNRNPD mutations are rare in DLBCL. The mutation pattern in DLBCL and FL implies the preferential accumulation of *inactivating mutations*. *Without further support, this gene may be migrated to Tier 2.* 
+hnRNPs are a family of RNA-binding proteins that play crucial roles in RNA processing, including splicing, stability, transport, and translation. They are involved in the regulation of gene expression at multiple levels. HNRNPD mutations are rare in DLBCL. The mutation pattern in DLBCL and FL implies the preferential accumulation of *inactivating mutations*. 
 
 ## Relevance tier by entity
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            |
+|![DLBCL](images/icons/DLBCL_tier1.png) |2   |relevance in DLBCL not firmly established|
 |![FL](images/icons/FL_tier2.png)    |2   |relevance in FL not firmly established|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
