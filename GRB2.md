@@ -1,7 +1,11 @@
 # GRB2
 
 ## Overview
-GRB2 (Growth factor receptor-bound protein 2) is an adaptor protein that links receptor tyrosine kinases to the Ras signaling pathway through its SH2 and SH3 domains. The mutation pattern in DLBCL implies the preferential accumulation of *inactivating mutations*. While direct evidence of GRB2 mutations in DLBCL is limited, its established role in other cancers and signal transduction pathways suggests that it may contribute to lymphomagenesis. Further research is needed to elucidate its specific role in DLBCL.
+GRB2 (Growth factor receptor-bound protein 2) is an adaptor protein that links receptor tyrosine kinases to the Ras signaling pathway through its SH2 and SH3 domains. 
+The mutation pattern in DLBCL implies the preferential accumulation of *inactivating mutations*. 
+While direct evidence of GRB2 mutations in DLBCL is limited, its established role in other cancers and signal transduction pathways suggests that it may contribute to lymphomagenesis. 
+Further research is needed to elucidate its specific role in DLBCL.
+
 ## History
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
