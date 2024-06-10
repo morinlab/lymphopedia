@@ -2,6 +2,7 @@
 
 ## Overview
 This gene encodes the H2A protein, one of the core proteins comprising nucleosomes. Although relatively common in DLBCL, little is known about the function of these mutations. 
+
 ## History
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
@@ -84,6 +85,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/H
 
 ## HIST1H2AM Expression
 ![](images/gene_expression/HIST1H2AM_by_pathology.svg)
+
 <!-- ORIGIN: krysiakRecurrentSomaticMutations2017b -->
 <!-- FL: krysiakRecurrentSomaticMutations2017b -->
 <!-- BL: paneaWholeGenomeLandscape2019 -->
