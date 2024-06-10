@@ -2,6 +2,7 @@
 
 ## Overview
 Mutations in this gene are relatively rare in DLBCL overall but show a pattern of inactivation. *Without further support, this gene may be migrated to Tier 2.*
+
 ## History
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
