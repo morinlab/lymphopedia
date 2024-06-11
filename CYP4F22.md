@@ -2,7 +2,7 @@
 
 ## Overview
 
-Due to minimal support in the [original primary data](CYP4F22#cyp4f22-expression) and subsequent studies, mutations in this gene are very unlikely to be relevant in BL. 
+Due to minimal support in the [original primary data](CYP4F22#representative-mutation), [low expression in BL](CYP4F22#cyp4f22-expression) and no mutations reported in subsequent studies, this gene is very unlikely to be relevant in BL. 
 
 ## History
 
