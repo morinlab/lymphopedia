@@ -33,15 +33,15 @@ All other DLBCL studies, DLBCL Tier 2, 145
 ## Novel genes reported in this study
 
 ### Tier 1
-|New gene|DLBCL tier|
-|:-|:-:|
-|[ATM](../ATM)|1 |
-|[BIRC6](../BIRC6)|1 |
-|[HIST1H2BC](../HIST1H2BC)|1 |
-|[HNRNPU](../HNRNPU)|1 |
-|[SETD1B](../SETD1B)|1 |
-|[TOX](../TOX)|1 |
-|[UBE2A](../UBE2A)|1 |
+|New gene|DLBCL tier|Rating of reviewed variants|
+|:-|:-:|:-:|
+|[ATM](../ATM)|1 |&starf; &starf; &starf; &star; &star;|
+|[BIRC6](../BIRC6)|1 |&starf; &starf; &starf; &star; &star;|
+|[HIST1H2BC](../HIST1H2BC)|1 |&starf; &starf; &starf; &starf; &star;|
+|[HNRNPU](../HNRNPU)|1 |&starf; &starf; &starf; &star; &star;|
+|[SETD1B](../SETD1B)|1 |&starf; &starf; &star; &star; &star;|
+|[TOX](../TOX)|1 |&starf; &starf; &starf; &star; &star;|
+|[UBE2A](../UBE2A)|1 |&starf; &starf; &starf; &star; &star;|
 
 ### Tier 2
 |New gene|DLBCL tier|Rating of reviewed variants|
