@@ -122,7 +122,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/D
 
 ### BL[@loveGeneticLandscapeMutations2012]
 
-![](primary/Love_DLGAP_chr18_3869854.png)
+![](primary/Love_DTX1_chr12_112017255.png)
 **Rating**
 &starf; &star; &star; &star; &star;
 
