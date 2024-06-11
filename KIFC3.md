@@ -52,8 +52,14 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/K
 ## Representative Mutations
 
 ![](primary/Love_KIFC3_2_56362071.png)
+**Rating**
+&starf; &star; &star; &star; &star;
+
 
 ![](primary/Love_KIFC3_56353573.png)
+**Rating**
+&starf; &star; &star; &star; &star;
+
 
 
 ## References
