@@ -1,3 +1,8 @@
+---
+bibliography: 'morinlab.bib'
+csl: 'NLM.csl'
+link-citations: true
+---
 # MYCBP2
 
 ## History
@@ -14,7 +19,7 @@ timeline
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|![FL](images/icons/FL_tier2.png)    |2   |relevance in FL not firmly established|
+|![FL](images/icons/FL_tier2.png)    |2   |relevance in FL not firmly established[@hubschmannMutationalMechanismsShaping2021b]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
