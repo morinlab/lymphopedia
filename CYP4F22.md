@@ -2,7 +2,7 @@
 
 ## Overview
 
-Due to minimal support in the [original primary data](CYP4F22#representative-mutation), [low expression in BL](CYP4F22#cyp4f22-expression) and no mutations reported in subsequent studies, this gene is very unlikely to be relevant in BL. 
+Due to [minimal support](CYP4F22#representative-mutation) in the original primary data, [low expression in BL](CYP4F22#cyp4f22-expression) and no mutations reported in subsequent studies, this gene is very unlikely to be relevant in BL. 
 
 ## History
 
@@ -34,8 +34,6 @@ timeline
 |BL    |No  |No                   |1.467           |9.614           |
 |DLBCL |No  |No                   |1.320           |0.000           |
 |FL    |No  |No                   |0.000           |0.000           |
-
-
 
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CYP4F22_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CYP4F22_protein_hg38.html)
