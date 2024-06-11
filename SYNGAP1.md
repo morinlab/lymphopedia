@@ -1,6 +1,6 @@
 # SYNGAP1
 
-Due to [minimal support](SYNGAP1#representative-mutation) in the original primary data, [low expression in BL](SYNGAP1#syngap1-expression) and very few mutations reported in subsequent studies, this gene is very unlikely to be relevant in BL. 
+Due to [minimal support](SYNGAP1#representative-mutation) in the original primary data and very few mutations reported in subsequent studies, this gene is very unlikely to be relevant in BL. 
 
 
 ## History
