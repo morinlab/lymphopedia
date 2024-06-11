@@ -123,11 +123,14 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/D
 ### BL[@loveGeneticLandscapeMutations2012]
 
 ![](primary/Love_DLGAP_chr18_3869854.png)
+**Rating**
+&starf; &star; &star; &star; &star;
 
 ## DLBCL[@schmitzGeneticsPathogenesisDiffuse2018a]
 
 ![](primary/Schmitz_113058428--DTX1--T_C--DLBCL11460T.pad100.png)
-
+**Rating**
+&starf; &starf; &starf; &starf; &star;
 
 ## References
 
