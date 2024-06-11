@@ -1,5 +1,9 @@
 # CYP4F22
 
+## Overview
+
+Due to minimal support in the [original primary data](CYP4F22#cyp4f22-expression) and subsequent studies, mutations in this gene are very unlikely to be relevant in BL. 
+
 ## History
 
 ```mermaid
