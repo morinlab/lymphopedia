@@ -64,7 +64,7 @@ All other DLBCL studies, DLBCL Tier 2, 145
 |[DICER1](../DICER1)|2 |&starf; &starf; &star; &star; &star;|
 |[DNMT3A](../DNMT3A)|2 |&starf; &star; &star; &star; &star;|
 |[FOXP1](../FOXP1)|2 |&starf; &starf; &starf; &star; &star;|
-|[FUBP1](../FUBP1)|2 |&starf; &star; &starf; &star; &star;|
+|[FUBP1](../FUBP1)|2 |&starf; &starf; &starf; &star; &star;|
 |[GNAS](../GNAS)|2 |&starf; &starf; &star; &star; &star;|
 |[GOLGA5](../GOLGA5)|2 |&starf; &starf; &starf; &star; &star;|
 |[HRAS](../HRAS)|2 |&starf; &starf; &star; &star; &star;|
