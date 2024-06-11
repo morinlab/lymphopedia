@@ -1,6 +1,6 @@
 # EML2
 
-Due to [minimal support](EML2#representative-mutation) in the original primary data, [low expression in BL](EML2#eml2-expression) and very few mutations reported in subsequent studies, this gene is very unlikely to be relevant in BL. 
+Due to [minimal support](EML2#representative-mutation) in the original primary data and very few mutations reported in subsequent studies, this gene is very unlikely to be relevant in BL. 
 
 ## History
 
