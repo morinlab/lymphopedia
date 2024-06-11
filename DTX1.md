@@ -15,7 +15,7 @@ timeline
     title Publication timing
       2012-08-27 : Rossi : MZL
       2018-04-12 : Schmitz : DLBCL
-      2019-09-26 : Panea : BL
+      2012-12-01 : Love : BL
       2023-11-15 : Gomez : PMBL
 ```
 
@@ -25,7 +25,7 @@ timeline
 |:------:|:----:|--------------------------------------|
 |![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene[@gomezUltraDeepSequencingReveals2023]|
 |![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene[@rossiCodingGenomeSplenic2012c]|
-|![BL](images/icons/BL_tier2.png)    |2-a | aSHM target; Although recurrent, the relevance of mutations in BL is tenuous [@paneaWholeGenomeLandscape2019]|
+|![BL](images/icons/BL_tier2.png)    |2 | The relevance of mutations in BL is tenuous [@loveGeneticLandscapeMutations2012]|
 |![DLBCL](images/icons/DLBCL_tier1.png) |1-a | aSHM target and high-confidence DLBCL gene            [@schmitzGeneticsPathogenesisDiffuse2018a]|
 |![FL](images/icons/FL_tier1.png)    |1-a | aSHM target and high-confidence FL gene               |
 
@@ -116,6 +116,16 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/D
 
 ## DTX1 Expression
 ![](images/gene_expression/DTX1_by_pathology.svg)
+
+## Representative Mutations
+
+### BL[@loveGeneticLandscapeMutations2012]
+
+![](primary/Love_DLGAP_chr18_3869854.png)
+
+## DLBCL[@schmitzGeneticsPathogenesisDiffuse2018a]
+
+
 
 ## References
 
