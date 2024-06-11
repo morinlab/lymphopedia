@@ -60,6 +60,7 @@ All other BL studies, BL Tier 2, 101
 |[CYB5D1](../CYB5D1)|2 ||
 |[CYP4F22](../CYP4F22)|2 ||
 |[DLGAP1](../DLGAP1)|2 ||
+|[DTX1](../DTX1)|2|&starf; &star; &star; &star; &star;|
 |[EIF2C4](../EIF2C4)|2 ||
 |[EML2](../EML2)|2 ||
 |[ENTPD3](../ENTPD3)|2 ||
@@ -93,11 +94,11 @@ All other BL studies, BL Tier 2, 101
 |[SF3B1](../SF3B1)|2 ||
 |[SHANK1](../SHANK1)|2 ||
 |[SLC29A2](../SLC29A2)|2 ||
-|[SYNGAP1](../SYNGAP1)|2 ||
+|[SYNGAP1](../SYNGAP1)|2 |&starf; &star; &star; &star; &star;|
 |[TBC1D9B](../TBC1D9B)|2 ||
 |[TIGD6](../TIGD6)|2 ||
 |[TPST2](../TPST2)|2 ||
-|[ZNF229](../ZNF229)|2 ||
+|[ZNF229](../ZNF229)|2 |*Germline*|
 
 
 # Details
