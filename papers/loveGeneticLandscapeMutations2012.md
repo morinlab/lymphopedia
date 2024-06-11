@@ -59,10 +59,10 @@ All other BL studies, BL Tier 2, 101
 |[CREBBP](../CREBBP)|2 ||
 |[CYB5D1](../CYB5D1)|2 ||
 |[CYP4F22](../CYP4F22)|2 ||
-|[DLGAP1](../DLGAP1)|2 ||
+|[DLGAP1](../DLGAP1)|2 |&starf; &star; &star; &star; &star;|
 |[DTX1](../DTX1)|2|&starf; &star; &star; &star; &star;|
 |[EIF2C4](../EIF2C4)|2 ||
-|[EML2](../EML2)|2 ||
+|[EML2](../EML2)|2 |&starf; &star; &star; &star; &star;|
 |[ENTPD3](../ENTPD3)|2 ||
 |[EPHB2](../EPHB2)|2 ||
 |[EZH2](../EZH2)|2 ||
@@ -73,21 +73,21 @@ All other BL studies, BL Tier 2, 101
 |[GRIK5](../GRIK5)|2 ||
 |[ICK](../ICK)|2 ||
 |[ITPR3](../ITPR3)|2 ||
-|[KIFC3](../KIFC3)|2 ||
+|[KIFC3](../KIFC3)|2 |&starf; &star; &star; &star; &star;|
 |[MAP3K6](../MAP3K6)|2 ||
 |[MYH10](../MYH10)|2 ||
 |[NBEAL1](../NBEAL1)|2 ||
 |[NOTCH1](../NOTCH1)|2 ||
 |[NRXN2](../NRXN2)|2 ||
 |[P2RY2](../P2RY2)|2 ||
-|[PC](../PC)|2 ||
+|[PC](../PC)|2 |&starf; &star; &star; &star; &star;|
 |[POLRMT](../POLRMT)|2 ||
 |[POR](../POR)|2 ||
 |[PRSS22](../PRSS22)|2 ||
 |[PTPRN](../PTPRN)|2 ||
 |[RANBP6](../RANBP6)|2 ||
 |[RBP3](../RBP3)|2 ||
-|[RET](../RET)|2 ||
+|[RET](../RET)|2 |&starf; &star; &star; &star; &star;|
 |[SALL3](../SALL3)|2 ||
 |[SAPS2](../SAPS2)|2 ||
 |[SBF1](../SBF1)|2 ||
