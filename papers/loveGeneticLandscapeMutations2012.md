@@ -97,7 +97,7 @@ All other BL studies, BL Tier 2, 101
 |[SYNGAP1](../SYNGAP1)|2 |&starf; &star; &star; &star; &star;|
 |[TBC1D9B](../TBC1D9B)|2 |&starf; &star; &star; &star; &star;|
 |[TIGD6](../TIGD6)|2 |&starf; &star; &star; &star; &star;|
-|[TPST2](../TPST2)|2 ||
+|[TPST2](../TPST2)|2 |&star; &star; &star; &star; &star;|
 |[ZNF229](../ZNF229)|2 |*Germline*|
 
 ## See Also
