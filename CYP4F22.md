@@ -52,6 +52,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/C
 ## Representative mutation
 
 ![](primary/Love_CYP4F22_15523136.png)
+**Rating**
+&starf; &star; &star; &star; &star;
 
 ## References
 
