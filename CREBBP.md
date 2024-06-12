@@ -101,6 +101,13 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/C
 <!-- DLBCL: pasqualucciInactivatingMutationsAcetyltransferase2011a -->
 <!-- MZL: parryWholeExomeSequencing2013 -->
 
+## Representative Mutations
+
+### BL
+![](primary/Love_CREBBP.svg)
+**Rating**
+&starf; &starf; &starf; &starf; &star;
+
 # References
 
 <!-- PMBL: dunsCharacterizationDLBCLPMBL2021b -->
