@@ -1,5 +1,8 @@
 # NOTCH1
 
+## Overview
+The relevance of NOTCH1 mutations in various malignancies has been well established. However, *due to [minimal support](NOTCH1#representative-mutations) in the original primary data and very few mutations reported in subsequent BL studies, this gene is very unlikely to be relevant in BL.* 
+
 ## History
 
 ```mermaid
@@ -71,6 +74,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/N
 ## BL<sup>3</sup>
 
 ![](primary/Love_NOTCH1.svg)
+**Rating**
 &starf; &star; &star; &star; &star;
 
 ## References
