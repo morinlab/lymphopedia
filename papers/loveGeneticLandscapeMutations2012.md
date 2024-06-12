@@ -84,7 +84,7 @@ All other BL studies, BL Tier 2, 101
 |[POLRMT](../POLRMT)|2 |&starf; &star; &star; &star; &star;|
 |[POR](../POR)|2 |&starf; &star; &star; &star; &star;|
 |[PRSS22](../PRSS22)|2 |&starf; &star; &star; &star; &star;|
-|[PTPRN](../PTPRN)|2 ||
+|[PTPRN](../PTPRN)|2 |&starf; &star; &star; &star; &star;|
 |[RANBP6](../RANBP6)|2 ||
 |[RBP3](../RBP3)|2 ||
 |[RET](../RET)|2 |&starf; &star; &star; &star; &star;|
