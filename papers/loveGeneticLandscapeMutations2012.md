@@ -74,7 +74,7 @@ All other BL studies, BL Tier 2, 101
 |[ICK](../ICK)|2 |&starf; &star; &star; &star; &star;|
 |[ITPR3](../ITPR3)|2 |&starf; &star; &star; &star; &star;|
 |[KIFC3](../KIFC3)|2 |&starf; &star; &star; &star; &star;|
-|[MAP3K6](../MAP3K6)|2 ||
+|[MAP3K6](../MAP3K6)|2 |&starf; &star; &star; &star; &star;|
 |[MYH10](../MYH10)|2 ||
 |[NBEAL1](../NBEAL1)|2 ||
 |[NOTCH1](../NOTCH1)|2 |&starf; &star; &star; &star; &star;|
