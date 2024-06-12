@@ -1,5 +1,8 @@
 # CARD4
 
+## Overview
+*CARD4 is now known as NOD1.*
+
 ## History
 
 ```mermaid
@@ -30,8 +33,6 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/C
 
 ![](images/proteinpaint/CARD4.svg)
 
-## CARD4 Expression
-![](images/gene_expression/CARD4_by_pathology.svg)
 <!-- ORIGIN: loveGeneticLandscapeMutations2012 -->
 <!-- BL: loveGeneticLandscapeMutations2012 -->
 
