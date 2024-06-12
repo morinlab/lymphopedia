@@ -102,7 +102,7 @@ All other BL studies, BL Tier 2, 101
 
 ## See Also
 
-[IGV reports](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/)
+The primary data supporting each of the mutations reported in this study can be viewed in [IGV reports](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/)
 
 # Details
 
