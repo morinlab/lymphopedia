@@ -1,5 +1,10 @@
 # ATP2C2
 
+
+## Overview
+Due to [minimal support](ATP2C2#representative-mutation) in the original primary data and very few mutations reported in subsequent studies, this gene is very unlikely to be relevant in BL. 
+
+
 ## History
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
