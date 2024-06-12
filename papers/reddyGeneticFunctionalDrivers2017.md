@@ -102,7 +102,7 @@ All other DLBCL studies, DLBCL Tier 2, 145
 
 ## See Also
 
-The primary data supporting each of the mutations reported in this study can be viewed in [IGV reports](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Reddy/)
+The primary data supporting each of the mutations reported in this study can be viewed in [IGV reports](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Reddy/igv_reports/)
 
 # Details
 
