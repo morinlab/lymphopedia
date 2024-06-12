@@ -6,7 +6,8 @@ link-citations: true
 # BRAF
 
 ## Overview
-BRAF mutations, particularly the BRAF V600E hot spot mutation, are primarily associated with hairy cell leukemia and are rare in other B-cell lymphomas. These mutations play a crucial role in the pathogenesis of HCL and have important diagnostic and therapeutic implications. Although they are rare, mutations in BRAF are reproducibly observed in some DLBCLs. Another hot spot, D594A, occurs in DLBCL. The role of these in lymphomagenesis remains poorly understood but functional evidence suggests they may contribute to aneuploidy.[@tiacciBRAFMutationsHairycell2011a]
+BRAF mutations, particularly the BRAF V600E hot spot mutation, are primarily associated with hairy cell leukemia and are rare in other B-cell lymphomas. These mutations play a crucial role in the pathogenesis of HCL and have important diagnostic and therapeutic implications. Although they are rare, mutations in BRAF are reproducibly observed in some DLBCLs. Another hot spot, D594A, occurs in DLBCL. The role of these in lymphomagenesis remains poorly understood but functional evidence suggests they may contribute to aneuploidy.[@tiacciBRAFMutationsHairycell2011a] 
+Although mutations have also been reported in BL, due to [minimal support](BRAF#representative-mutation) in the original primary data and very few mutations reported in subsequent studies, this gene is very unlikely to be relevant in BL. 
 
 ## History
 ```mermaid
@@ -23,7 +24,7 @@ timeline
 |:------:|:----:|--------------------------------------|
 |![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene|
 |![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            [@tiacciBRAFMutationsHairycell2011a]|
-|![BL](images/icons/Tier2_BL.png)    |2   |relevance in BL not firmly established|
+|![BL](images/icons/Tier2_BL.png)    |2   |relevance in BL is unlikely|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -73,6 +74,13 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/B
 
 ## BRAF Expression
 ![](images/gene_expression/BRAF_by_pathology.svg)
+
+## Representative Mutations
+### BL
+![](primary/Love_BRAF.svg)
+**Rating** 
+&starf; &star; &star; &star; &star;
+
 
 ## References
 
