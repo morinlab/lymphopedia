@@ -66,7 +66,7 @@ All other BL studies, BL Tier 2, 101
 |[ENTPD3](../ENTPD3)|2 |&starf; &starf; &star; &star; &star;|
 |[EPHB2](../EPHB2)|2 |&starf; &starf; &star; &star; &star;|
 |[EZH2](../EZH2)|2 |&starf; &starf; &starf; &starf; &starf;|
-|[FAM129B](../FAM129B)|2 ||
+|[FAM129B](../FAM129B)|2 |&starf; &starf; &star; &star; &star;|
 |[FGFR3](../FGFR3)|2 ||
 |[FTCD](../FTCD)|2 ||
 |[GGTLA4](../GGTLA4)|2 ||
