@@ -55,7 +55,7 @@ All other BL studies, BL Tier 2, 101
 |[CCT6B](../CCT6B)|2 |*Germline*|
 |[CDC73](../CDC73)|2 |&starf; &starf; &starf; &star; &star;|
 |[CDH17](../CDH17)|2 |&starf; &star; &star; &star; &star;|
-|[COL4A2](../COL4A2)|2 ||
+|[COL4A2](../COL4A2)|2 |&starf; &star; &star; &star; &star;|
 |[CREBBP](../CREBBP)|2 ||
 |[CYB5D1](../CYB5D1)|2 ||
 |[CYP4F22](../CYP4F22)|2 ||
