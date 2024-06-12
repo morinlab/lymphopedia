@@ -70,7 +70,7 @@ All other BL studies, BL Tier 2, 101
 |[FGFR3](../FGFR3)|2 |&starf; &star; &star; &star; &star;|
 |[FTCD](../FTCD)|2 |*Germline*|
 |[GGTLA4](../GGTLA4)|2 |&starf; &starf; &starf; &starf; &star;|
-|[GRIK5](../GRIK5)|2 ||
+|[GRIK5](../GRIK5)|2 |&starf; &star; &star; &star; &star;|
 |[ICK](../ICK)|2 ||
 |[ITPR3](../ITPR3)|2 ||
 |[KIFC3](../KIFC3)|2 |&starf; &star; &star; &star; &star;|
