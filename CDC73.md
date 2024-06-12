@@ -53,9 +53,14 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/C
 ### BL
 
 ![](primary/Love_CDC73.svg)
+**Rating**
+&starf; &starf; &starf; &star; &star;
+
 
 ### DLBCL
 ![](primary/Reddy_CDC73.svg)
+**Rating**
+&starf; &star; &star; &star; &star;
 
 
 ## References
