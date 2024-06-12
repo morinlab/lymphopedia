@@ -1,7 +1,7 @@
 # CAD
 
 ## Overview
-Due to [minimal support](CAD#representative-mutation) in the original primary data, [low expression in BL](CAD#cad-expression) and very few mutations reported in subsequent studies, this gene is very unlikely to be relevant in BL. 
+Due to [minimal support](CAD#representative-mutation) in the original primary data and very few mutations reported in subsequent studies, this gene is very unlikely to be relevant in BL. 
 
 
 ## History
