@@ -86,7 +86,7 @@ All other BL studies, BL Tier 2, 101
 |[PRSS22](../PRSS22)|2 |&starf; &star; &star; &star; &star;|
 |[PTPRN](../PTPRN)|2 |&starf; &star; &star; &star; &star;|
 |[RANBP6](../RANBP6)|2 |&starf; &starf; &starf; &starf; &starf;|
-|[RBP3](../RBP3)|2 ||
+|[RBP3](../RBP3)|2 |&starf; &star; &star; &star; &star;|
 |[RET](../RET)|2 |&starf; &star; &star; &star; &star;|
 |[SALL3](../SALL3)|2 ||
 |[SAPS2](../SAPS2)|2 ||
