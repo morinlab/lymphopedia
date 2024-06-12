@@ -63,7 +63,7 @@ All other BL studies, BL Tier 2, 101
 |[DTX1](../DTX1)|2|&starf; &star; &star; &star; &star;|
 |[EIF2C4](../EIF2C4)|2 |&starf; &star; &star; &star; &star;|
 |[EML2](../EML2)|2 |&starf; &star; &star; &star; &star;|
-|[ENTPD3](../ENTPD3)|2 ||
+|[ENTPD3](../ENTPD3)|2 |&starf; &starf; &star; &star; &star;|
 |[EPHB2](../EPHB2)|2 ||
 |[EZH2](../EZH2)|2 |&starf; &starf; &starf; &starf; &starf;|
 |[FAM129B](../FAM129B)|2 ||
