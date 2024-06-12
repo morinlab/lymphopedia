@@ -45,7 +45,7 @@ All other BL studies, BL Tier 2, 101
 |[ACAD9](../ACAD9)|2 |&starf; &star; &star; &star; &star;|
 |[ACE](../ACE)|2 |&starf; &star; &star; &star; &star;|
 |[ATP2C2](../ATP2C2)|2 |&starf; &starf; &star; &star; &star;|
-|[BCL6](../BCL6)|2 ||
+|[BCL6](../BCL6)|2 |&starf; &starf; &starf; &starf; &star;|
 |[BRAF](../BRAF)|2 ||
 |[BRD4](../BRD4)|2 ||
 |[BTG2](../BTG2)|2 ||
