@@ -43,7 +43,7 @@ All other BL studies, BL Tier 2, 101
 |New gene|BL tier|Rating of reviewed variants|
 |:-|:-:|:-:|
 |[ACAD9](../ACAD9)|2 |&starf; &star; &star; &star; &star;|
-|[ACE](../ACE)|2 ||
+|[ACE](../ACE)|2 |&starf; &star; &star; &star; &star;|
 |[ATP2C2](../ATP2C2)|2 ||
 |[BCL6](../BCL6)|2 ||
 |[BRAF](../BRAF)|2 ||
