@@ -100,6 +100,9 @@ All other DLBCL studies, DLBCL Tier 2, 145
 |[ZFAT](../ZFAT)|2 |&starf; &starf; &star; &star; &star;|
 |[ZFX](../ZFX)|2 |&starf; &starf; &starf; &star; &star;|
 
+## See Also
+
+The primary data supporting each of the mutations reported in this study can be viewed in [IGV reports](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Reddy/)
 
 # Details
 
