@@ -6,7 +6,7 @@ link-citations: true
 # BTG2
 
 ## Overview
-BTG2 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus. Mutations in the BTG2 gene have been implicated in the pathogenesis of diffuse large B-cell lymphoma (DLBCL), contributing to the development and progression of the disease. These mutations are a feature of the MCD genetic subgroup of DLBCL.<sup>1</sup> The biological function of BTG2 mutations and their role in lymphomagenesis remains poorly understood. A potential prognostic association with BTG2 mutations in primary testicular DLBCL has been reported but this has not yet been reproduced.<sup>2</sup> Due to [minimal support](BTG2#representative-mutations) in the original primary data and very few mutations reported in subsequent studies, this gene is very unlikely to be relevant in BL. 
+BTG2 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus. Mutations in the BTG2 gene have been implicated in the pathogenesis of diffuse large B-cell lymphoma (DLBCL), contributing to the development and progression of the disease. These mutations are a feature of the MCD genetic subgroup of DLBCL. The biological function of BTG2 mutations and their role in lymphomagenesis remains poorly understood. Due to [minimal support](BTG2#representative-mutations) in the original primary data and very few mutations reported in subsequent studies, this gene is very unlikely to be relevant in BL. 
 
 
 ## History
@@ -69,7 +69,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/B
 
 ## Representative Mutations
 
-### BL
+### BL[@loveGeneticLandscapeMutations2012]
 
 ![](primary/Love_BTG2.svg)
 **Rating**
@@ -77,9 +77,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/B
 
 
 ## References
-1. *Wright GW, Huang DW, Phelan JD, Coulibaly ZA, Roulland S, Young RM, Wang JQ, Schmitz R, Morin RD, Tang J, Jiang A, Bagaev A, Plotnikova O, Kotlov N, Johnson CA, Wilson WH, Scott DW, Staudt LM. A Probabilistic Classification Tool for Genetic Subtypes of Diffuse Large B Cell Lymphoma with Therapeutic Implications. Cancer Cell. 2020 Apr 13;37(4):551-568.e14. doi: 10.1016/j.ccell.2020.03.015. PMID: 32289277; PMCID: PMC8459709.*
-2. *Guo D, Hong L, Ji H, Jiang Y, Lu L, Wang X, Huang H. The Mutation of BTG2 Gene Predicts a Poor Outcome in Primary Testicular Diffuse Large B-Cell Lymphoma. J Inflamm Res. 2022 Mar 10;15:1757-1769. doi: 10.2147/JIR.S341355. PMID: 35300216; PMCID: PMC8923029.*
-3. *Morin RD, Mendez-Lago M, Mungall AJ, Goya R, Mungall KL, Corbett RD, Johnson NA, Severson TM, Chiu R, Field M, Jackman S, Krzywinski M, Scott DW, Trinh DL, Tamura-Wells J, Li S, Firme MR, Rogic S, Griffith M, Chan S, Yakovenko O, Meyer IM, Zhao EY, Smailus D, Moksa M, Chittaranjan S, Rimsza L, Brooks-Wilson A, Spinelli JJ, Ben-Neriah S, Meissner B, Woolcock B, Boyle M, McDonald H, Tam A, Zhao Y, Delaney A, Zeng T, Tse K, Butterfield Y, Birol I, Holt R, Schein J, Horsman DE, Moore R, Jones SJ, Connors JM, Hirst M, Gascoyne RD, Marra MA. Frequent mutation of histone-modifying genes in non-Hodgkin lymphoma. Nature. 2011 Jul 27;476(7360):298-303. doi: 10.1038/nature10351. PMID: 21796119; PMCID: PMC3210554.*
+
 <!-- ORIGIN: morinFrequentMutationHistonemodifying2011 -->
 <!-- DLBCL: morinFrequentMutationHistonemodifying2011 -->
 <!-- BL: loveGeneticLandscapeMutations2012 -->

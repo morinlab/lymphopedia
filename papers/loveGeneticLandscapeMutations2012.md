@@ -48,7 +48,7 @@ All other BL studies, BL Tier 2, 101
 |[BCL6](../BCL6)|2 |&starf; &starf; &starf; &starf; &star;|
 |[BRAF](../BRAF)|2 |&starf; &star; &star; &star; &star;|
 |[BRD4](../BRD4)|2 |&starf; &star; &star; &star; &star;|
-|[BTG2](../BTG2)|2 ||
+|[BTG2](../BTG2)|2 |&starf; &star; &star; &star; &star;|
 |[C6orf27](../C6orf27)|2 ||
 |[CAD](../CAD)|2 |&starf; &star; &star; &star; &star;|
 |[CARD4](../CARD4)|2 ||
