@@ -89,7 +89,7 @@ All other BL studies, BL Tier 2, 101
 |[RBP3](../RBP3)|2 |&starf; &star; &star; &star; &star;|
 |[RET](../RET)|2 |&starf; &star; &star; &star; &star;|
 |[SALL3](../SALL3)|2 |&starf; &starf; &star; &star; &star;|
-|[SAPS2](../SAPS2)|2 ||
+|[SAPS2](../SAPS2)|2 |&starf; &star; &star; &star; &star;|
 |[SBF1](../SBF1)|2 ||
 |[SF3B1](../SF3B1)|2 ||
 |[SHANK1](../SHANK1)|2 ||
