@@ -79,7 +79,7 @@ All other BL studies, BL Tier 2, 101
 |[NBEAL1](../NBEAL1)|2 |&starf; &starf; &starf; &starf; &star;|
 |[NOTCH1](../NOTCH1)|2 |&starf; &star; &star; &star; &star;|
 |[NRXN2](../NRXN2)|2 |&starf; &star; &star; &star; &star;|
-|[P2RY2](../P2RY2)|2 ||
+|[P2RY2](../P2RY2)|2 |&starf; &starf; &starf; &starf; &star;|
 |[PC](../PC)|2 |&starf; &star; &star; &star; &star;|
 |[POLRMT](../POLRMT)|2 ||
 |[POR](../POR)|2 ||
