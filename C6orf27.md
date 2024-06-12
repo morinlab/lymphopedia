@@ -1,4 +1,8 @@
 # C6orf27
+## Overview
+
+Due to [minimal support](C6orf27#representative-mutation) in the original primary data and very few mutations reported in subsequent studies, this gene is very unlikely to be relevant in BL. 
+
 
 ## History
 ```mermaid
@@ -39,6 +43,13 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/C
 ![](images/gene_expression/C6orf27_by_pathology.svg)
 <!-- ORIGIN: loveGeneticLandscapeMutations2012 -->
 <!-- BL: loveGeneticLandscapeMutations2012 -->
+
+## Representative Mutation
+
+![](primary/Love_C6orf27.svg)
+**Rating** 
+&starf; &star; &star; &star; &star;
+
 
 ## References
 1.  Love C, Sun Z, Jima D, Li G, Zhang J, Miles R, Richards KL, Dunphy CH, Choi WWL, Srivastava G, Lugar PL, Rizzieri DA, Lagoo AS, Bernal-Mizrachi L, Mann KP, Flowers CR, Naresh KN, Evens AM, Chadburn A, Gordon LI, Czader MB, Gill JI, Hsi ED, Greenough A, Moffitt AB, McKinney M, Banerjee A, Grubor V, Levy S, Dunson DB, Dave SS. The genetic landscape of mutations in Burkitt lymphoma. Nat Genet. 2012 Dec;44(12):1321–1325. PMCID: PMC3674561
