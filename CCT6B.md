@@ -1,4 +1,8 @@
 # CCT6B
+## Overview
+
+Due to [minimal support](CCT6B#representative-mutations) in the original primary data and very few mutations reported in subsequent studies, this gene is very unlikely to be relevant in BL. 
+
 
 ## History
 
@@ -48,7 +52,6 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/C
 <!-- BL: loveGeneticLandscapeMutations2012 -->
 
 ## Representative Mutation
-
 ![](primary/Love_CCT6B.svg)
 **Although well supported in the data, this mutation is clearly germline**
 
