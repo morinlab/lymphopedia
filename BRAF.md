@@ -24,7 +24,7 @@ timeline
 |:------:|:----:|--------------------------------------|
 |![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene|
 |![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            [@tiacciBRAFMutationsHairycell2011a]|
-|![BL](images/icons/Tier2_BL.png)    |2   |relevance in BL is unlikely|
+|![BL](images/icons/Tier2_BL.png)    |2   |relevance in BL is unlikely[@loveGeneticLandscapeMutations2012]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -76,7 +76,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/B
 ![](images/gene_expression/BRAF_by_pathology.svg)
 
 ## Representative Mutations
-### BL
+
+### BL[@loveGeneticLandscapeMutations2012]
 ![](primary/Love_BRAF.svg)
 **Rating** 
 &starf; &star; &star; &star; &star;
