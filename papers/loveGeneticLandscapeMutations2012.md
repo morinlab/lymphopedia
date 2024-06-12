@@ -52,7 +52,7 @@ All other BL studies, BL Tier 2, 101
 |[C6orf27](../C6orf27)|2 |&starf; &star; &star; &star; &star;|
 |[CAD](../CAD)|2 |&starf; &star; &star; &star; &star;|
 |[CARD4](../CARD4)|2 |&starf; &starf; &starf; &starf; &star;|
-|[CCT6B](../CCT6B)|2 ||
+|[CCT6B](../CCT6B)|2 |*Germline*|
 |[CDC73](../CDC73)|2 |&starf; &starf; &starf; &star; &star;|
 |[CDH17](../CDH17)|2 ||
 |[COL4A2](../COL4A2)|2 ||
