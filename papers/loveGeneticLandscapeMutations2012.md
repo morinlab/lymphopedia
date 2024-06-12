@@ -68,8 +68,8 @@ All other BL studies, BL Tier 2, 101
 |[EZH2](../EZH2)|2 |&starf; &starf; &starf; &starf; &starf;|
 |[FAM129B](../FAM129B)|2 |&starf; &starf; &star; &star; &star;|
 |[FGFR3](../FGFR3)|2 |&starf; &star; &star; &star; &star;|
-|[FTCD](../FTCD)|2 ||
-|[GGTLA4](../GGTLA4)|2 ||
+|[FTCD](../FTCD)|2 |*Germline*|
+|[GGTLA4](../GGTLA4)|2 |&starf; &starf; &starf; &starf; &star;|
 |[GRIK5](../GRIK5)|2 ||
 |[ICK](../ICK)|2 ||
 |[ITPR3](../ITPR3)|2 ||
