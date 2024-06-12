@@ -42,7 +42,7 @@ All other BL studies, BL Tier 2, 101
 ### Tier 2
 |New gene|BL tier|Rating of reviewed variants|
 |:-|:-:|:-:|
-|[ACAD9](../ACAD9)|2 ||
+|[ACAD9](../ACAD9)|2 |&starf; &star; &star; &star; &star;|
 |[ACE](../ACE)|2 ||
 |[ATP2C2](../ATP2C2)|2 ||
 |[BCL6](../BCL6)|2 ||
@@ -50,10 +50,10 @@ All other BL studies, BL Tier 2, 101
 |[BRD4](../BRD4)|2 ||
 |[BTG2](../BTG2)|2 ||
 |[C6orf27](../C6orf27)|2 ||
-|[CAD](../CAD)|2 ||
+|[CAD](../CAD)|2 |&starf; &star; &star; &star; &star;|
 |[CARD4](../CARD4)|2 ||
 |[CCT6B](../CCT6B)|2 ||
-|[CDC73](../CDC73)|2 ||
+|[CDC73](../CDC73)|2 |&starf; &starf; &starf; &star; &star;|
 |[CDH17](../CDH17)|2 ||
 |[COL4A2](../COL4A2)|2 ||
 |[CREBBP](../CREBBP)|2 ||
@@ -77,13 +77,13 @@ All other BL studies, BL Tier 2, 101
 |[MAP3K6](../MAP3K6)|2 ||
 |[MYH10](../MYH10)|2 ||
 |[NBEAL1](../NBEAL1)|2 ||
-|[NOTCH1](../NOTCH1)|2 ||
+|[NOTCH1](../NOTCH1)|2 |&starf; &star; &star; &star; &star;|
 |[NRXN2](../NRXN2)|2 ||
 |[P2RY2](../P2RY2)|2 ||
 |[PC](../PC)|2 |&starf; &star; &star; &star; &star;|
 |[POLRMT](../POLRMT)|2 ||
 |[POR](../POR)|2 ||
-|[PRSS22](../PRSS22)|2 ||
+|[PRSS22](../PRSS22)|2 |&starf; &star; &star; &star; &star;|
 |[PTPRN](../PTPRN)|2 ||
 |[RANBP6](../RANBP6)|2 ||
 |[RBP3](../RBP3)|2 ||
