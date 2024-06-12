@@ -51,7 +51,7 @@ All other BL studies, BL Tier 2, 101
 |[BTG2](../BTG2)|2 |&starf; &star; &star; &star; &star;|
 |[C6orf27](../C6orf27)|2 |&starf; &star; &star; &star; &star;|
 |[CAD](../CAD)|2 |&starf; &star; &star; &star; &star;|
-|[CARD4](../CARD4)|2 ||
+|[CARD4](../CARD4)|2 |&starf; &starf; &starf; &starf; &star;|
 |[CCT6B](../CCT6B)|2 ||
 |[CDC73](../CDC73)|2 |&starf; &starf; &starf; &star; &star;|
 |[CDH17](../CDH17)|2 ||
