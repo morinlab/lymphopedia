@@ -53,6 +53,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/C
 
 ## Representative Mutation
 ![](primary/Love_COL4A2.svg)
+**Rating**
 &starf; &star; &star; &star; &star;
 
 
