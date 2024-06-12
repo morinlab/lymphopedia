@@ -76,9 +76,9 @@ All other BL studies, BL Tier 2, 101
 |[KIFC3](../KIFC3)|2 |&starf; &star; &star; &star; &star;|
 |[MAP3K6](../MAP3K6)|2 |&starf; &star; &star; &star; &star;|
 |[MYH10](../MYH10)|2 |&starf; &star; &star; &star; &star;|
-|[NBEAL1](../NBEAL1)|2 ||
+|[NBEAL1](../NBEAL1)|2 |&starf; &starf; &starf; &starf; &star;|
 |[NOTCH1](../NOTCH1)|2 |&starf; &star; &star; &star; &star;|
-|[NRXN2](../NRXN2)|2 ||
+|[NRXN2](../NRXN2)|2 |&starf; &star; &star; &star; &star;|
 |[P2RY2](../P2RY2)|2 ||
 |[PC](../PC)|2 |&starf; &star; &star; &star; &star;|
 |[POLRMT](../POLRMT)|2 ||
