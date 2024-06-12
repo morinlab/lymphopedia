@@ -49,7 +49,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/C
 ## CDC73 Expression
 ![](images/gene_expression/CDC73_by_pathology.svg)
 
-## Representative Mutation
+## Representative Mutations
 ### BL
 
 ![](primary/Love_CDC73.svg)
