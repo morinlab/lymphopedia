@@ -93,7 +93,7 @@ All other BL studies, BL Tier 2, 101
 |[SBF1](../SBF1)|2 |&starf; &starf; &star; &star; &star;|
 |[SF3B1](../SF3B1)|2 |&starf; &starf; &starf; &starf; &star;|
 |[SHANK1](../SHANK1)|2 |&starf; &star; &star; &star; &star;|
-|[SLC29A2](../SLC29A2)|2 ||
+|[SLC29A2](../SLC29A2)|2 |&starf; &star; &star; &star; &star;|
 |[SYNGAP1](../SYNGAP1)|2 |&starf; &star; &star; &star; &star;|
 |[TBC1D9B](../TBC1D9B)|2 ||
 |[TIGD6](../TIGD6)|2 ||
