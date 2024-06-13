@@ -49,10 +49,9 @@ All other BL studies, BL Tier 2, 111
 |[CTCF](../CTCF)|2 | &starf; &star; &star; &star; &star;|
 |[CXCR4](../CXCR4)|2 | &starf; &starf; &starf; &starf; &star;|
 |[DNMT1](../DNMT1)|2 | &starf; &star; &star; &star; &star;|
-|[DTX1](../DTX1)|2 | &star; &star; &star; &star; &star;|
-|[EP300](../EP300)|2 | &star; &star; &star; &star; &star;|
-|[ETS1](../ETS1)|2 | &star; &star; &star; &star; &star;|
-|[FZD3](../FZD3)|2 | &star; &star; &star; &star; &star;|
+|[DTX1](../DTX1)|2 | &starf; &star; &star; &star; &star;|
+|[ETS1](../ETS1)|2 | &starf; &star; &star; &star; &star;|
+|[FZD3](../FZD3)|2 | &starf; &star; &star; &star; &star;|
 |[GRB2](../GRB2)|2 | &star; &star; &star; &star; &star;|
 |[HIST1H1C](../HIST1H1C)|2 | &star; &star; &star; &star; &star;|
 |[HIST1H2AG](../HIST1H2AG)|2 | &star; &star; &star; &star; &star;|
