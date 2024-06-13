@@ -12,7 +12,6 @@ Further research is needed to elucidate its specific role in DLBCL.
 timeline
     title Publication timing
       2011-07-31 : Pasqualucci : DLBCL
-      2019-09-26 : Panea : BL
 ```
 
 ## Relevance tier by entity
@@ -20,7 +19,6 @@ timeline
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
 |![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            |
-|![BL](images/icons/BL_tier2.png)    |2   |relevance in BL seems unlikely|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -30,9 +28,6 @@ timeline
 |DLBCL |Schmitz cohort       |2.77         |
 |DLBCL |Reddy cohort         |1.50         |
 |DLBCL |Chapuy cohort        |2.99         |
-|BL    |GAMBL genomes+capture|0.46         |
-|BL    |Thomas cohort        |0.40         |
-|BL    |Panea cohort         |1.00         |
 
 ## Mutation pattern and selective pressure estimates
 
@@ -40,8 +35,6 @@ timeline
 |:------:|:----:|:---------------------:|:----------------:|:----------------:|
 |DLBCL |No  |Yes                  |33.029          |168.982         |
 |FL    |No  |No                   | 8.575          |  0.000         |
-|BL    |No  |No                   | 7.253          |  0.000         |
-
 
 
 
@@ -61,4 +54,3 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/G
 
 ## References
 1.  Pasqualucci L, Trifonov V, Fabbri G, Ma J, Rossi D, Chiarenza A, Wells VA, Grunn A, Messina M, Elliot O, Chan J, Bhagat G, Chadburn A, Gaidano G, Mullighan CG, Rabadan R, Dalla-Favera R. Analysis of the coding genome of diffuse large B-cell lymphoma. Nat Genet. 2011 Jul 31;43(9):830–837. PMCID: PMC3297422
-2.  Panea R, Love C, Shingleton JR, Reddy A, Bailey J, Moormann A, Otieno J, Ong’echa J, Oduor C, Schroêder K, Masalu N, Chao N, Agajanian M, Major M, Fedoriw Y, Richards K, Rymkiewicz G, Miles R, Alobeid B, Bhagat G, Flowers C, Ondrejka S, Hsi E, Choi W, Au-Yeung R, Hartmann W, Lenz G, Meyerson H, Lin YY, Zhuang Y, Luftig M, Waldrop A, Dave T, Thakkar D, Sahay H, Li G, Palus B, Seshadri V, Kim S, Gascoyne R, Levy S, Mukhopadhyay M, Dunson D, Dave S. The whole genome landscape of Burkitt lymphoma subtypes. Blood. 2019; 
