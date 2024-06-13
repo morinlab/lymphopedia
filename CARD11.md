@@ -10,7 +10,6 @@ timeline
       2011-07-27 : Morin : FL
       2012-04-01 : Yan : MZL
       2016-06-21 : Wu : MCL
-      2019-09-26 : Panea : BL
 ```
 
 ## Relevance tier by entity
@@ -18,7 +17,6 @@ timeline
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
 |![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene|
-|![BL](images/icons/BL_tier2.png)    |2   |relevance in BL not firmly established|
 |![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            |
 |![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene               |
 |![MCL](images/icons/MCL_tier1.png)   |1   |high-confidence MCL gene              |
@@ -90,5 +88,5 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/C
 2.  Morin RD, Mendez-Lago M, Mungall AJ, Goya R, Mungall KL, Corbett RD, Johnson NA, Severson TM, Chiu R, Field M, Jackman S, Krzywinski M, Scott DW, Trinh DL, Tamura-Wells J, Li S, Firme MR, Rogic S, Griffith M, Chan S, Yakovenko O, Meyer IM, Zhao EY, Smailus D, Moksa M, Chittaranjan S, Rimsza L, Brooks-Wilson A, Spinelli JJ, Ben-Neriah S, Meissner B, Woolcock B, Boyle M, McDonald H, Tam A, Zhao Y, Delaney A, Zeng T, Tse K, Butterfield Y, Birol I, Holt R, Schein J, Horsman DE, Moore R, Jones SJM, Connors JM, Hirst M, Gascoyne RD, Marra MA. Frequent mutation of histone-modifying genes in non-Hodgkin lymphoma. Nature. 2011 Jul 27;476(7360):298–303. PMCID: PMC3210554
 3.  Yan Q, Huang Y, Watkins AJ, Kocialkowski S, Zeng N, Hamoudi RA, Isaacson PG, de Leval L, Wotherspoon A, Du MQ. BCR and TLR signaling pathways are recurrently targeted by genetic changes in splenic marginal zone lymphomas. Haematologica. 2012 Apr;97(4):595–598. PMCID: PMC3347666
 4.  Wu C, de Miranda NF, Chen L, Wasik AM, Mansouri L, Jurczak W, Galazka K, Dlugosz-Danecka M, Machaczka M, Zhang H, Peng R, Morin RD, Rosenquist R, Sander B, Pan-Hammarström Q. Genetic heterogeneity in primary and relapsed mantle cell lymphomas: Impact of recurrent CARD11 mutations. Oncotarget. 2016 Jun 21;7(25):38180–38190. PMCID: PMC5122381
-5.  Panea R, Love C, Shingleton JR, Reddy A, Bailey J, Moormann A, Otieno J, Ong’echa J, Oduor C, Schroêder K, Masalu N, Chao N, Agajanian M, Major M, Fedoriw Y, Richards K, Rymkiewicz G, Miles R, Alobeid B, Bhagat G, Flowers C, Ondrejka S, Hsi E, Choi W, Au-Yeung R, Hartmann W, Lenz G, Meyerson H, Lin YY, Zhuang Y, Luftig M, Waldrop A, Dave T, Thakkar D, Sahay H, Li G, Palus B, Seshadri V, Kim S, Gascoyne R, Levy S, Mukhopadhyay M, Dunson D, Dave S. The whole genome landscape of Burkitt lymphoma subtypes. Blood. 2019; 
-<!-- BL: paneaWholeGenomeLandscape2019 -->
+
+

@@ -44,19 +44,18 @@ All other BL studies, BL Tier 2, 111
 |New gene|BL tier|Rating of reviewed variants|
 |:-|:-:|:-:|
 |[ALPK2](../ALPK2)|2 | &starf; &star; &star; &star; &star;|
-|[CARD11](../CARD11)|2 | &starf; &star; &star; &star; &star;|
-|[CD79B](../CD79B)|2 | &starf; &star; &star; &star; &star;|
-|[CD83](../CD83)|2 | &starf; &star; &star; &star; &star;|
-|[CTCF](../CTCF)|2 | &starf; &star; &star; &star; &star;|
-|[CXCR4](../CXCR4)|2 | &starf; &star; &star; &star; &star;|
-|[DNMT1](../DNMT1)|2 | &starf; &star; &star; &star; &star;|
-|[DTX1](../DTX1)|2 | &starf; &star; &star; &star; &star;|
-|[EP300](../EP300)|2 | &starf; &star; &star; &star; &star;|
-|[ETS1](../ETS1)|2 | &starf; &star; &star; &star; &star;|
-|[FZD3](../FZD3)|2 | &starf; &star; &star; &star; &star;|
-|[GRB2](../GRB2)|2 | &starf; &star; &star; &star; &star;|
-|[HIST1H1C](../HIST1H1C)|2 | &starf; &star; &star; &star; &star;|
-|[HIST1H2AG](../HIST1H2AG)|2 | &starf; &star; &star; &star; &star;|
+|[CD79B](../CD79B)|2 | &starf; &starf; &star; &star; &star;|
+|[CD83](../CD83)|2 | &star; &star; &star; &star; &star;|
+|[CTCF](../CTCF)|2 | &star; &star; &star; &star; &star;|
+|[CXCR4](../CXCR4)|2 | &star; &star; &star; &star; &star;|
+|[DNMT1](../DNMT1)|2 | &star; &star; &star; &star; &star;|
+|[DTX1](../DTX1)|2 | &star; &star; &star; &star; &star;|
+|[EP300](../EP300)|2 | &star; &star; &star; &star; &star;|
+|[ETS1](../ETS1)|2 | &star; &star; &star; &star; &star;|
+|[FZD3](../FZD3)|2 | &star; &star; &star; &star; &star;|
+|[GRB2](../GRB2)|2 | &star; &star; &star; &star; &star;|
+|[HIST1H1C](../HIST1H1C)|2 | &star; &star; &star; &star; &star;|
+|[HIST1H2AG](../HIST1H2AG)|2 | &star; &star; &star; &star; &star;|
 |[HIST1H2AM](../HIST1H2AM)|2 | &star; &star; &star; &star; &star;|
 |[HIST1H2BK](../HIST1H2BK)|2 | &star; &star; &star; &star; &star;|
 |[HIST1H3D](../HIST1H3D)|2 |&star; &star; &star; &star; &star;|
