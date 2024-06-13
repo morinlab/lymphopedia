@@ -8,7 +8,7 @@ bibliography: 'morinlab.bib'
 
 |Entity| Tier 1 genes| Tier 2 genes|
 |:-:|:-:|:-:|
-|BL|4|43|
+|BL|4|42|
 ```mermaid
 ---
 config:
@@ -24,8 +24,8 @@ config:
 sankey-beta
 This study, New Tier 1, 4
 New Tier 1, BL Tier 1, 4
-This study, New Tier 2, 43
-New Tier 2, BL Tier 2, 43
+This study, New Tier 2, 42
+New Tier 2, BL Tier 2, 42
 All other BL studies, BL Tier 1, 25
 All other BL studies, BL Tier 2, 111
 ```
@@ -64,8 +64,7 @@ All other BL studies, BL Tier 2, 111
 |[IGLL5](../IGLL5)|2 |&starf; &starf; &starf; &starf; &star;|
 |[IKZF3](../IKZF3)|2 |&starf; &starf; &starf; &star; &star;|
 |[IRF8](../IRF8)|2 |&starf; &starf; &starf; &starf; &star;|
-|[KCNK10](../KCNK10)|2 |&star; &star; &star; &star; &star;|
-|[KLHL6](../KLHL6)|2 |&star; &star; &star; &star; &star;|
+|[KCNK10](../KCNK10)|2 |&starf; &starf; &star; &star; &star;|
 |[LTB](../LTB)|2 |&star; &star; &star; &star; &star;|
 |[MCL1](../MCL1)|2 |&star; &star; &star; &star; &star;|
 |[MME](../MME)|2 |&star; &star; &star; &star; &star;|

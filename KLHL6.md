@@ -20,7 +20,6 @@ timeline
 |![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene|
 |![DLBCL](images/icons/DLBCL_tier1.png) |1-a | aSHM target and high-confidence DLBCL gene            |
 |![FL](images/icons/FL_tier1.png)    |1-a | aSHM target and high-confidence FL gene               |
-|![BL](images/icons/BL_tier2.png)    |2-a | aSHM target; Although recurrent, the relevance of mutations in BL is tenuous |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -31,9 +30,6 @@ timeline
 |DLBCL |Reddy cohort         |6.41         |
 |DLBCL |Chapuy cohort        |8.97         |
 |FL    |GAMBL genomes        |7.16         |
-|BL    |GAMBL genomes+capture|3.93         |
-|BL    |Thomas cohort        |3.00         |
-|BL    |Panea cohort         |6.90         |
 
 ## Mutation pattern and selective pressure estimates
 
