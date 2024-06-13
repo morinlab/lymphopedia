@@ -55,7 +55,7 @@ All other BL studies, BL Tier 2, 111
 |[HIST1H1C](../HIST1H1C)|2 | &starf; &starf; &star; &star; &star;|
 |[HIST1H2AG](../HIST1H2AG)|2 | &starf; &starf; &star; &star; &star;|
 |[HIST1H2AM](../HIST1H2AM)|2 | &star; &star; &star; &star; &star;|
-|[HIST1H2BK](../HIST1H2BK)|2 | &star; &star; &star; &star; &star;|
+|[HIST1H2BK](../HIST1H2BK)|2 | &starf; &star; &star; &star; &star;|
 |[HIST1H3D](../HIST1H3D)|2 |&star; &star; &star; &star; &star;|
 |[HIST1H3H](../HIST1H3H)|2 |&star; &star; &star; &star; &star;|
 |[HIST1H3I](../HIST1H3I)|2 |&star; &star; &star; &star; &star;|
