@@ -96,7 +96,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/C
 
 ![](primary/Panea_CD79B_2.svg)
 **Rating**
-&starf; &starf; &star; &star; &star;
+&starf; &starf; &starf; &star; &star;
 
 
 ## References
