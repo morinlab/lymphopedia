@@ -68,10 +68,10 @@ All other BL studies, BL Tier 2, 111
 |[MCL1](../MCL1)|2 |&starf; &starf; &starf; &starf; &star;|
 |[MME](../MME)|2 |&starf; &star; &star; &star; &star;|
 |[MTOR](../MTOR)|2 |&starf; &star; &star; &star; &star;|
-|[PABPC4L](../PABPC4L)|2 |&star; &star; &star; &star; &star;|
-|[PCDHA11](../PCDHA11)|2 |&star; &star; &star; &star; &star;|
-|[PDZRN3](../PDZRN3)|2 |&star; &star; &star; &star; &star;|
-|[PIK3R1](../PIK3R1)|2 |&star; &star; &star; &star; &star;|
+|[PABPC4L](../PABPC4L)|2 |&starf; &starf; &star; &star; &star;|
+|[PCDHA11](../PCDHA11)|2 |&starf; &star; &star; &star; &star;|
+|[PDZRN3](../PDZRN3)|2 |&starf; &star; &star; &star; &star;|
+|[PIK3R1](../PIK3R1)|2 |&starf; &star; &star; &star; &star;|
 |[PLCG2](../PLCG2)|2 |&star; &star; &star; &star; &star;|
 |[PXDNL](../PXDNL)|2 |&star; &star; &star; &star; &star;|
 |[RAC2](../RAC2)|2 |&star; &star; &star; &star; &star;|
