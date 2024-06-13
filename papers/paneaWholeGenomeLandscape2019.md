@@ -65,10 +65,9 @@ All other BL studies, BL Tier 2, 111
 |[IKZF3](../IKZF3)|2 |&starf; &starf; &starf; &star; &star;|
 |[IRF8](../IRF8)|2 |&starf; &starf; &starf; &starf; &star;|
 |[KCNK10](../KCNK10)|2 |&starf; &starf; &star; &star; &star;|
-|[LTB](../LTB)|2 |&star; &star; &star; &star; &star;|
-|[MCL1](../MCL1)|2 |&star; &star; &star; &star; &star;|
-|[MME](../MME)|2 |&star; &star; &star; &star; &star;|
-|[MTOR](../MTOR)|2 |&star; &star; &star; &star; &star;|
+|[MCL1](../MCL1)|2 |&starf; &starf; &starf; &starf; &star;|
+|[MME](../MME)|2 |&starf; &star; &star; &star; &star;|
+|[MTOR](../MTOR)|2 |&starf; &star; &star; &star; &star;|
 |[NOTCH2](../NOTCH2)|2 |&star; &star; &star; &star; &star;|
 |[PABPC4L](../PABPC4L)|2 |&star; &star; &star; &star; &star;|
 |[PCDHA11](../PCDHA11)|2 |&star; &star; &star; &star; &star;|
