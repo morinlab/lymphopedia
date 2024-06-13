@@ -8,7 +8,7 @@ bibliography: 'morinlab.bib'
 
 |Entity| Tier 1 genes| Tier 2 genes|
 |:-:|:-:|:-:|
-|BL|4|46|
+|BL|4|43|
 ```mermaid
 ---
 config:
