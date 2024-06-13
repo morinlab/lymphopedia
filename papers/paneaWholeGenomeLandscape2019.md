@@ -72,7 +72,7 @@ All other BL studies, BL Tier 2, 111
 |[PCDHA11](../PCDHA11)|2 |&starf; &star; &star; &star; &star;|
 |[PDZRN3](../PDZRN3)|2 |&starf; &star; &star; &star; &star;|
 |[PIK3R1](../PIK3R1)|2 |&starf; &star; &star; &star; &star;|
-|[PLCG2](../PLCG2)|2 |&star; &star; &star; &star; &star;|
+|[PLCG2](../PLCG2)|2 |&starf; &starf; &starf; &star; &star;|
 |[PXDNL](../PXDNL)|2 |&star; &star; &star; &star; &star;|
 |[RAC2](../RAC2)|2 |&star; &star; &star; &star; &star;|
 |[RNF144B](../RNF144B)|2 |&star; &star; &star; &star; &star;|
