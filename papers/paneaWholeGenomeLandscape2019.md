@@ -8,7 +8,7 @@ bibliography: 'morinlab.bib'
 
 |Entity| Tier 1 genes| Tier 2 genes|
 |:-:|:-:|:-:|
-|BL|4|42|
+|BL|4|41|
 ```mermaid
 ---
 config:
@@ -24,8 +24,8 @@ config:
 sankey-beta
 This study, New Tier 1, 4
 New Tier 1, BL Tier 1, 4
-This study, New Tier 2, 42
-New Tier 2, BL Tier 2, 42
+This study, New Tier 2, 41
+New Tier 2, BL Tier 2, 41
 All other BL studies, BL Tier 1, 25
 All other BL studies, BL Tier 2, 111
 ```
@@ -68,7 +68,6 @@ All other BL studies, BL Tier 2, 111
 |[MCL1](../MCL1)|2 |&starf; &starf; &starf; &starf; &star;|
 |[MME](../MME)|2 |&starf; &star; &star; &star; &star;|
 |[MTOR](../MTOR)|2 |&starf; &star; &star; &star; &star;|
-|[NOTCH2](../NOTCH2)|2 |&star; &star; &star; &star; &star;|
 |[PABPC4L](../PABPC4L)|2 |&star; &star; &star; &star; &star;|
 |[PCDHA11](../PCDHA11)|2 |&star; &star; &star; &star; &star;|
 |[PDZRN3](../PDZRN3)|2 |&star; &star; &star; &star; &star;|
