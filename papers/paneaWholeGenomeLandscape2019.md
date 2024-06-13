@@ -52,8 +52,8 @@ All other BL studies, BL Tier 2, 111
 |[DTX1](../DTX1)|2 | &starf; &star; &star; &star; &star;|
 |[ETS1](../ETS1)|2 | &starf; &star; &star; &star; &star;|
 |[FZD3](../FZD3)|2 | &starf; &star; &star; &star; &star;|
-|[HIST1H1C](../HIST1H1C)|2 | &star; &star; &star; &star; &star;|
-|[HIST1H2AG](../HIST1H2AG)|2 | &star; &star; &star; &star; &star;|
+|[HIST1H1C](../HIST1H1C)|2 | &starf; &starf; &star; &star; &star;|
+|[HIST1H2AG](../HIST1H2AG)|2 | &starf; &starf; &star; &star; &star;|
 |[HIST1H2AM](../HIST1H2AM)|2 | &star; &star; &star; &star; &star;|
 |[HIST1H2BK](../HIST1H2BK)|2 | &star; &star; &star; &star; &star;|
 |[HIST1H3D](../HIST1H3D)|2 |&star; &star; &star; &star; &star;|
