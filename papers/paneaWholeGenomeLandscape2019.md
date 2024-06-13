@@ -61,9 +61,9 @@ All other BL studies, BL Tier 2, 111
 |[HIST1H3I](../HIST1H3I)|2 |&starf; &starf; &starf; &starf; &star;|
 |[HIST1H3J](../HIST1H3J)|2 |&star; &star; &star; &star; &star;|
 |[HIST1H4J](../HIST1H4J)|2 |&starf; &starf; &star; &star; &star;|
-|[IGLL5](../IGLL5)|2 |&star; &star; &star; &star; &star;|
-|[IKZF3](../IKZF3)|2 |&star; &star; &star; &star; &star;|
-|[IRF8](../IRF8)|2 |&star; &star; &star; &star; &star;|
+|[IGLL5](../IGLL5)|2 |&starf; &starf; &starf; &starf; &star;|
+|[IKZF3](../IKZF3)|2 |&starf; &starf; &starf; &star; &star;|
+|[IRF8](../IRF8)|2 |&starf; &starf; &starf; &starf; &star;|
 |[KCNK10](../KCNK10)|2 |&star; &star; &star; &star; &star;|
 |[KLHL6](../KLHL6)|2 |&star; &star; &star; &star; &star;|
 |[LTB](../LTB)|2 |&star; &star; &star; &star; &star;|
