@@ -88,6 +88,17 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/C
 ## CD79B Expression
 ![](images/gene_expression/CD79B_by_pathology.svg)
 
+## Representative Mutations
+
+![](primary/Panea_CD79B.svg)
+**Rating**
+&star; &star; &star; &star; &star;
+
+![](primary/Panea_CD79B_2.svg)
+**Rating**
+&starf; &starf; &star; &star; &star;
+
+
 ## References
 <!-- ORIGIN: morinFrequentMutationHistonemodifying2011 -->
 <!-- DLBCL: morinFrequentMutationHistonemodifying2011 -->
