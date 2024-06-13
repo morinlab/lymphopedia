@@ -45,8 +45,8 @@ All other BL studies, BL Tier 2, 111
 |:-|:-:|:-:|
 |[ALPK2](../ALPK2)|2 | &starf; &star; &star; &star; &star;|
 |[CD79B](../CD79B)|2 | &starf; &starf; &star; &star; &star;|
-|[CD83](../CD83)|2 | &star; &star; &star; &star; &star;|
-|[CTCF](../CTCF)|2 | &star; &star; &star; &star; &star;|
+|[CD83](../CD83)|2 | &starf; &starf; &starf; &star; &star;|
+|[CTCF](../CTCF)|2 | &starf; &star; &star; &star; &star;|
 |[CXCR4](../CXCR4)|2 | &star; &star; &star; &star; &star;|
 |[DNMT1](../DNMT1)|2 | &star; &star; &star; &star; &star;|
 |[DTX1](../DTX1)|2 | &star; &star; &star; &star; &star;|
