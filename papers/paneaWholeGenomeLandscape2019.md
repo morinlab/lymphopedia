@@ -76,11 +76,9 @@ All other BL studies, BL Tier 2, 111
 |[PXDNL](../PXDNL)|2 |&starf; &star; &star; &star; &star;|
 |[RNF144B](../RNF144B)|2 |&starf; &starf; &starf; &star; &star;|
 |[SNTB2](../SNTB2)|2 |&starf; &starf; &star; &star; &star;|
-|[SYNCRIP](../SYNCRIP)|2 |&star; &star; &star; &star; &star;|
-|[TET2](../TET2)|2 |&star; &star; &star; &star; &star;|
-|[WDR7](../WDR7)|2 |&star; &star; &star; &star; &star;|
-|[WNK2](../WNK2)|2 |&star; &star; &star; &star; &star;|
-|[ZFP36L1](../ZFP36L1)|2 |&star; &star; &star; &star; &star;|
+|[WDR7](../WDR7)|2 |&starf; &starf; &star; &star; &star;|
+|[WNK2](../WNK2)|2 |&starf; &starf; &starf; &starf; &star;|
+|[ZFP36L1](../ZFP36L1)|2 |&starf; &starf; &starf; &starf; &star;|
 
 
 # Details
