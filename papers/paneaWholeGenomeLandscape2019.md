@@ -8,7 +8,7 @@ bibliography: 'morinlab.bib'
 
 |Entity| Tier 1 genes| Tier 2 genes|
 |:-:|:-:|:-:|
-|BL|4|41|
+|BL|4|39|
 ```mermaid
 ---
 config:
@@ -24,8 +24,8 @@ config:
 sankey-beta
 This study, New Tier 1, 4
 New Tier 1, BL Tier 1, 4
-This study, New Tier 2, 41
-New Tier 2, BL Tier 2, 41
+This study, New Tier 2, 39
+New Tier 2, BL Tier 2, 39
 All other BL studies, BL Tier 1, 25
 All other BL studies, BL Tier 2, 111
 ```
@@ -73,11 +73,9 @@ All other BL studies, BL Tier 2, 111
 |[PDZRN3](../PDZRN3)|2 |&starf; &star; &star; &star; &star;|
 |[PIK3R1](../PIK3R1)|2 |&starf; &star; &star; &star; &star;|
 |[PLCG2](../PLCG2)|2 |&starf; &starf; &starf; &star; &star;|
-|[PXDNL](../PXDNL)|2 |&star; &star; &star; &star; &star;|
-|[RAC2](../RAC2)|2 |&star; &star; &star; &star; &star;|
-|[RNF144B](../RNF144B)|2 |&star; &star; &star; &star; &star;|
-|[SNTB2](../SNTB2)|2 |&star; &star; &star; &star; &star;|
-|[SP3](../SP3)|2 |&star; &star; &star; &star; &star;|
+|[PXDNL](../PXDNL)|2 |&starf; &star; &star; &star; &star;|
+|[RNF144B](../RNF144B)|2 |&starf; &starf; &starf; &star; &star;|
+|[SNTB2](../SNTB2)|2 |&starf; &starf; &star; &star; &star;|
 |[SYNCRIP](../SYNCRIP)|2 |&star; &star; &star; &star; &star;|
 |[TET2](../TET2)|2 |&star; &star; &star; &star; &star;|
 |[WDR7](../WDR7)|2 |&star; &star; &star; &star; &star;|
