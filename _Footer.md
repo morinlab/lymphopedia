@@ -1,1 +1,1 @@
-![](images/LLMPPlogo.png)
+![](/images/LLMPPlogo.png)
