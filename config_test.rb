@@ -276,7 +276,7 @@ require 'pandoc-ruby'
   # Change default markup
   #Precious::App.set(:default_markup, :asciidoc)
 
-  #Precious::App.set(:wiki_options, wiki_options)
+  Precious::App.set(:wiki_options, wiki_options)
 
 Precious::App.set(:markdown, {
   :extensions => {
