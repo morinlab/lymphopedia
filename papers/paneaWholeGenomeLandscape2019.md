@@ -55,12 +55,9 @@ All other BL studies, BL Tier 2, 111
 |[WNK2](../WNK2)|2 |&starf; &starf; &starf; &starf; &star;|**Pass**|
 |[ZFP36L1](../ZFP36L1)|2 |&starf; &starf; &starf; &starf; &star;|**Pass**|
 |[RNF144B](../RNF144B)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
-
 |[ALPK2](../ALPK2)|2 | &starf; &star; &star; &star; &star;|**Fail**|
 |[CD79B](../CD79B)|2 | &starf; &starf; &star; &star; &star;|**Fail**|
-
 |[CTCF](../CTCF)|2 | &starf; &star; &star; &star; &star;|**Fail**|
-
 |[DNMT1](../DNMT1)|2 | &starf; &star; &star; &star; &star;|**Fail**|
 |[DTX1](../DTX1)|2 | &starf; &star; &star; &star; &star;|**Fail**|
 |[ETS1](../ETS1)|2 | &starf; &star; &star; &star; &star;|**Fail**|
@@ -69,13 +66,9 @@ All other BL studies, BL Tier 2, 111
 |[HIST1H2AG](../HIST1H2AG)|2 | &starf; &starf; &star; &star; &star;|**Fail**|
 |[HIST1H2AM](../HIST1H2AM)|2 | &star; &star; &star; &star; &star;|**Fail**|
 |[HIST1H2BK](../HIST1H2BK)|2 | &starf; &star; &star; &star; &star;|**Fail**|
-
 |[HIST1H3H](../HIST1H3H)|2 |&star; &star; &star; &star; &star;|**Fail**|
-
 |[HIST1H3J](../HIST1H3J)|2 |&star; &star; &star; &star; &star;|**Fail**|
-
 |[KCNK10](../KCNK10)|2 |&starf; &starf; &star; &star; &star;|**Fail**|
-
 |[MME](../MME)|2 |&starf; &star; &star; &star; &star;|**Fail**|
 |[MTOR](../MTOR)|2 |&starf; &star; &star; &star; &star;|**Fail**|
 |[PABPC4L](../PABPC4L)|2 |&starf; &starf; &star; &star; &star;|**Fail**|
@@ -84,7 +77,6 @@ All other BL studies, BL Tier 2, 111
 |[PIK3R1](../PIK3R1)|2 |&starf; &star; &star; &star; &star;|**Fail**|
 |[PLCG2](../PLCG2)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
 |[PXDNL](../PXDNL)|2 |&starf; &star; &star; &star; &star;|**Fail**|
-
 |[SNTB2](../SNTB2)|2 |&starf; &starf; &star; &star; &star;|**Fail**|
 |[WDR7](../WDR7)|2 |&starf; &starf; &star; &star; &star;|**Fail**|
 
