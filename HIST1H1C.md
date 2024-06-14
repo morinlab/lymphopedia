@@ -55,8 +55,6 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/H
 ![](images/proteinpaint/HIST1H1C.svg)
 
 
-## HIST1H1C Expression
-![](images/gene_expression/HIST1H1C_by_pathology.svg)
 
 ## Representative Mutations
 
