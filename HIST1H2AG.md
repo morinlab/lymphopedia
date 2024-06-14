@@ -61,13 +61,26 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/H
 
 ![](images/proteinpaint/HIST1H2AG.svg)
 
-## HIST1H2AG Expression
-![](images/gene_expression/HIST1H2AG_by_pathology.svg)
 <!-- ORIGIN: rossiCodingGenomeSplenic2012c -->
 <!-- MZL: rossiCodingGenomeSplenic2012c -->
 <!-- DLBCL: morinMutationalStructuralAnalysis2013 -->
 <!-- BL: paneaWholeGenomeLandscape2019 -->
 <!-- FL: krysiakRecurrentSomaticMutations2017b -->
+
+## Representative Mutations
+
+### BL<sup>4</sup>
+
+![](primary/Panea_HIST1H2AG_1.svg)
+&starf; &starf; &starf; &star; &star;
+
+
+![](primary/Panea_HIST1H2AG_2.svg)
+&starf; &star; &star; &star; &star;
+
+![](primary/Panea_HIST1H2AG_3.svg)
+&starf; &star; &star; &star; &star;
+
 
 ## References
 1.  Rossi D, Trifonov V, Fangazio M, Bruscaggin A, Rasi S, Spina V, Monti S, Vaisitti T, Arruga F, Famà R, Ciardullo C, Greco M, Cresta S, Piranda D, Holmes A, Fabbri G, Messina M, Rinaldi A, Wang J, Agostinelli C, Piccaluga PP, Lucioni M, Tabbò F, Serra R, Franceschetti S, Deambrogi C, Daniele G, Gattei V, Marasca R, Facchetti F, Arcaini L, Inghirami G, Bertoni F, Pileri SA, Deaglio S, Foà R, Dalla-Favera R, Pasqualucci L, Rabadan R, Gaidano G. The coding genome of splenic marginal zone lymphoma: activation of NOTCH2 and other pathways regulating marginal zone development. J Exp Med. 2012 Aug 27;209(9):1537–1551. PMCID: PMC3428941
