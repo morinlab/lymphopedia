@@ -33,7 +33,7 @@ All other BL studies, BL Tier 2, 111
 ## Novel genes reported in this study
 
 ### Tier 1
-|New gene|BL tier|
+|Novel gene|BL tier|
 |:-|:-:|
 |[BMP7](../BMP7)|1 |
 |[EIF4A1](../EIF4A1)|1 |
@@ -41,7 +41,7 @@ All other BL studies, BL Tier 2, 111
 |[HNRNPU](../HNRNPU)|1 |
 
 ### Tier 2
-|New gene|BL tier|Rating of reviewed variants|QC outcome|
+|Novel Gene|BL tier|Average variant quality|QC outcome|
 |:-|:-:|:-:|:-:|
 |[HIST1H3I](../HIST1H3I)|2 |&starf; &starf; &starf; &starf; &star;|**Pass**|
 |[CXCR4](../CXCR4)|2 | &starf; &starf; &starf; &starf; &star;|**Pass**|
