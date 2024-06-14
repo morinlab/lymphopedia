@@ -83,12 +83,20 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/H
 
 ![](images/proteinpaint/HIST1H2AM.svg)
 
-## HIST1H2AM Expression
-![](images/gene_expression/HIST1H2AM_by_pathology.svg)
-
 <!-- ORIGIN: krysiakRecurrentSomaticMutations2017b -->
 <!-- FL: krysiakRecurrentSomaticMutations2017b -->
 <!-- BL: paneaWholeGenomeLandscape2019 -->
+
+## Representative Mutations
+
+### BL<sup>2</sup>
+
+![](primary/Panea_HIST1H2AM_1.svg)
+&starf; &star; &star; &star; &star;
+
+![](primary/Panea_HIST1H2AM_2.svg)
+&starf; &star; &star; &star; &star;
+
 
 ## References
 1.  Krysiak K, Gomez F, White BS, Matlock M, Miller CA, Trani L, Fronick CC, Fulton RS, Kreisel F, Cashen AF, Carson KR, Berrien-Elliott MM, Bartlett NL, Griffith M, Griffith OL, Fehniger TA. Recurrent somatic mutations affecting B-cell receptor signaling pathway genes in follicular lymphoma. Blood. 2017 Jan 26;129(4):473–483. PMCID: PMC5270390
