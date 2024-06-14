@@ -43,16 +43,17 @@ All other BL studies, BL Tier 2, 111
 ### Tier 2
 |New gene|BL tier|Rating of reviewed variants|QC outcome|
 |:-|:-:|:-:|:-:|
-|[CD83](../CD83)|2 | &starf; &starf; &starf; &star; &star;|**Pass**|
-|[CXCR4](../CXCR4)|2 | &starf; &starf; &starf; &starf; &star;|**Pass**|
 |[HIST1H3I](../HIST1H3I)|2 |&starf; &starf; &starf; &starf; &star;|**Pass**|
-|[HIST1H4J](../HIST1H4J)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
-|[IGLL5](../IGLL5)|2 |&starf; &starf; &starf; &starf; &star;|**Pass**|
-|[IKZF3](../IKZF3)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
+|[CXCR4](../CXCR4)|2 | &starf; &starf; &starf; &starf; &star;|**Pass**|
+|[CD83](../CD83)|2 | &starf; &starf; &starf; &star; &star;|**Pass**|
+|[PLCG2](../PLCG2)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
 |[IRF8](../IRF8)|2 |&starf; &starf; &starf; &starf; &star;|**Pass**|
 |[MCL1](../MCL1)|2 |&starf; &starf; &starf; &starf; &star;|**Pass**|
 |[HIST1H3D](../HIST1H3D)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
 |[WNK2](../WNK2)|2 |&starf; &starf; &starf; &starf; &star;|**Pass**|
+|[HIST1H4J](../HIST1H4J)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
+|[IGLL5](../IGLL5)|2 |&starf; &starf; &starf; &starf; &star;|**Pass**|
+|[IKZF3](../IKZF3)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
 |[ZFP36L1](../ZFP36L1)|2 |&starf; &starf; &starf; &starf; &star;|**Pass**|
 |[RNF144B](../RNF144B)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
 |[ALPK2](../ALPK2)|2 | &starf; &star; &star; &star; &star;|**Fail**|
@@ -75,7 +76,6 @@ All other BL studies, BL Tier 2, 111
 |[PCDHA11](../PCDHA11)|2 |&starf; &star; &star; &star; &star;|**Fail**|
 |[PDZRN3](../PDZRN3)|2 |&starf; &star; &star; &star; &star;|**Fail**|
 |[PIK3R1](../PIK3R1)|2 |&starf; &star; &star; &star; &star;|**Fail**|
-|[PLCG2](../PLCG2)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
 |[PXDNL](../PXDNL)|2 |&starf; &star; &star; &star; &star;|**Fail**|
 |[SNTB2](../SNTB2)|2 |&starf; &starf; &star; &star; &star;|**Fail**|
 |[WDR7](../WDR7)|2 |&starf; &starf; &star; &star; &star;|**Fail**|
