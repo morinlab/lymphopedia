@@ -49,10 +49,21 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/H
 
 ![](images/proteinpaint/HIST1H3D.svg)
 
-## HIST1H3D Expression
-![](images/gene_expression/HIST1H3D_by_pathology.svg)
 <!-- ORIGIN: paneaWholeGenomeLandscape2019 -->
 <!-- BL: paneaWholeGenomeLandscape2019 -->
+
+## Representative Mutations
+
+### BL<sup>1</sup>
+
+![](primary/Panea_HIST1H3D_1.svg)
+**Rating**
+&starf; &starf; &starf; &star; &star;
+
+![](primary/Panea_HIST1H3D_2.svg)
+**Rating**
+&starf; &starf; &starf; &star; &star;
+
 
 ## References
 1.  Panea R, Love C, Shingleton JR, Reddy A, Bailey J, Moormann A, Otieno J, Ong’echa J, Oduor C, Schroêder K, Masalu N, Chao N, Agajanian M, Major M, Fedoriw Y, Richards K, Rymkiewicz G, Miles R, Alobeid B, Bhagat G, Flowers C, Ondrejka S, Hsi E, Choi W, Au-Yeung R, Hartmann W, Lenz G, Meyerson H, Lin YY, Zhuang Y, Luftig M, Waldrop A, Dave T, Thakkar D, Sahay H, Li G, Palus B, Seshadri V, Kim S, Gascoyne R, Levy S, Mukhopadhyay M, Dunson D, Dave S. The whole genome landscape of Burkitt lymphoma subtypes. Blood. 2019; 
