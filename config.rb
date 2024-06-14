@@ -154,7 +154,7 @@
     #
     # Equivalent to --no-edit
 
-    #allow_editing: false,
+    allow_editing: false,
 
     #-----------------------------------------------------------------------------
     # Specify the subdirectory for all pages. If set, Gollum will only serve pages
