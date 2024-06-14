@@ -43,8 +43,13 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/H
 
 ![](images/proteinpaint/HIST1H4J.svg)
 
-## HIST1H4J Expression
-![](images/gene_expression/HIST1H4J_by_pathology.svg)
+## Representative Mutations
+
+### BL<sup>2</sup>
+
+![](primary/Panea_HIST1H4J.svg)
+**Rating**
+&starf; &starf; &starf; &star; &star;
 
 ## References
 1.  Mottok A, Hung SS, Chavez EA, Woolcock B, Telenius A, Chong LC, Meissner B, Nakamura H, Rushton C, Viganò E, Sarkozy C, Gascoyne RD, Connors JM, Ben-Neriah S, Mungall A, Marra MA, Siebert R, Scott DW, Savage KJ, Steidl C. Integrative genomic analysis identifies key pathogenic mechanisms in primary mediastinal large B-cell lymphoma. Blood. 2019 Sep 5;134(10):802–813. PMID: 31292115
