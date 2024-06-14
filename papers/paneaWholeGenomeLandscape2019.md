@@ -45,14 +45,14 @@ All other BL studies, BL Tier 2, 111
 |:-|:-:|:-:|:-:|
 |[HIST1H3I](../HIST1H3I)|2 |&starf; &starf; &starf; &starf; &star;|**Pass**|
 |[CXCR4](../CXCR4)|2 | &starf; &starf; &starf; &starf; &star;|**Pass**|
-|[CD83](../CD83)|2 | &starf; &starf; &starf; &star; &star;|**Pass**|
-|[PLCG2](../PLCG2)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
 |[IRF8](../IRF8)|2 |&starf; &starf; &starf; &starf; &star;|**Pass**|
 |[MCL1](../MCL1)|2 |&starf; &starf; &starf; &starf; &star;|**Pass**|
+|[CD83](../CD83)|2 | &starf; &starf; &starf; &star; &star;|**Pass**|
+|[PLCG2](../PLCG2)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
+|[IGLL5](../IGLL5)|2 |&starf; &starf; &starf; &starf; &star;|**Pass**|
 |[HIST1H3D](../HIST1H3D)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
 |[WNK2](../WNK2)|2 |&starf; &starf; &starf; &starf; &star;|**Pass**|
 |[HIST1H4J](../HIST1H4J)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
-|[IGLL5](../IGLL5)|2 |&starf; &starf; &starf; &starf; &star;|**Pass**|
 |[IKZF3](../IKZF3)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
 |[ZFP36L1](../ZFP36L1)|2 |&starf; &starf; &starf; &starf; &star;|**Pass**|
 |[RNF144B](../RNF144B)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
