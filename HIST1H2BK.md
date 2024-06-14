@@ -50,12 +50,21 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/H
 
 ![](images/proteinpaint/HIST1H2BK.svg)
 
-## HIST1H2BK Expression
-![](images/gene_expression/HIST1H2BK_by_pathology.svg)
 <!-- ORIGIN: rossiCodingGenomeSplenic2012c -->
 <!-- MZL: rossiCodingGenomeSplenic2012c -->
 <!-- BL: paneaWholeGenomeLandscape2019 -->
 
+## Representative Mutations
+
+### BL<sup>2</sup>
+
+![](primary/Panea_HIST1H2BK_1.svg)
+**Rating**
+&starf; &star; &star; &star; &star;
+
+![](primary/Panea_HIST1H2BK_1.svg)
+**Rating**
+&starf; &star; &star; &star; &star;
 
 
 ## References

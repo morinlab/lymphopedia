@@ -92,10 +92,10 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/H
 ### BL<sup>2</sup>
 
 ![](primary/Panea_HIST1H2AM_1.svg)
-&starf; &star; &star; &star; &star;
+&star; &star; &star; &star; &star;
 
 ![](primary/Panea_HIST1H2AM_2.svg)
-&starf; &star; &star; &star; &star;
+&star; &star; &star; &star; &star;
 
 
 ## References
