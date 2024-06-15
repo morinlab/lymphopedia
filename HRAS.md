@@ -73,7 +73,6 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/H
 [Reddy_3811T](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Reddy/igv_reports/Reddy_3811T.html)
 [Reddy_3845T](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Reddy/igv_reports/Reddy_3845T.html)
 [Reddy_3851T](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Reddy/igv_reports/Reddy_3851T.html)
-[Reddy_3920T](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Reddy/igv_reports/Reddy_3920T.html)
 
 ## References
 1.  Jallades L, Baseggio L, Sujobert P, Huet S, Chabane K, Callet-Bauchu E, Verney A, Hayette S, Desvignes JP, Salgado D, Levy N, Béroud C, Felman P, Berger F, Magaud JP, Genestier L, Salles G, Traverse-Glehen A. Exome sequencing identifies recurrent BCOR alterations and the absence of KLF2, TNFAIP3 and MYD88 mutations in splenic diffuse red pulp small B-cell lymphoma. Haematologica. 2017 Oct;102(10):1758–1766. PMCID: PMC5622860
