@@ -8,7 +8,7 @@ To get started, select one of the gene lists from the table below then select th
 
 ### Gene Tiers
 
-**Tier 2** Any gene described as significantly or recurrently mutated in one or more types of B-cell lymphoma is initially assigned to Tier 2 for that entity. The study describing the mutation of that gene in a particular entity is considered the originating study. 
+**Tier 2** - Any gene described as significantly or recurrently mutated in one or more types of B-cell lymphoma is initially assigned to Tier 2 for that entity. The study describing the mutation of that gene in a particular entity is considered the originating study. 
 
 **Tier 1** Genes can transition to Tier 1 only after additional studies have demonstrated the recurrence of mutations in the same entity.  
 
