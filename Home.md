@@ -180,6 +180,7 @@ MCL-exome, Zhang 2014, 28
 
 ### [Browse by study](Papers)
 
+### Studies with QC results
 
 ## B-cell lymphoma mutation browser
 
