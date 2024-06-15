@@ -20,7 +20,7 @@ Genes can transition to Tier 1 only after additional studies have demonstrated t
 
 **aSHM**
 
-Denotes genes documented as being affected by aberrant somatic hypermutation (aSHM). Tier 1 and Tier 2 genes can have this designation, respectively abbreviated as *1-a* and *2-a*. For example, see [BCL7A](BCL7A) 
+Denotes genes documented as being affected by aberrant somatic hypermutation (aSHM). Tier 1 and Tier 2 genes can have this designation, respectively abbreviated as *1-a* and *2-a*. For example, see [BCL7A](BCL7A).
 
 ```mermaid
 ---
