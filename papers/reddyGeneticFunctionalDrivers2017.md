@@ -48,9 +48,9 @@ All other DLBCL studies, DLBCL Tier 2, 145
 
 |Novel gene|DLBCL tier|Average variant quality|QC outcome|
 |:-|:-:|:-:|:-:|
+|[ARID5B](../ARID5B)|2 |&starf; &starf; &starf; &starf; &star;|**Pass**|
 |[ANKRD17](../ANKRD17)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
 |[SETD5](../SETD5)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
-|[ARID5B](../ARID5B)|2 |&starf; &starf; &starf; &starf; &star;|**Pass**|
 |[ATR](../ATR)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
 |[BRINP3](../BRINP3)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
 |[BTBD3](../BTBD3)|2 |&starf; &starf; &starf; &starf; &star;|**Pass**|
@@ -82,7 +82,6 @@ All other DLBCL studies, DLBCL Tier 2, 145
 |[HRAS](../HRAS)|2 |&starf; &starf; &star; &star; &star;|**Fail**|
 |[LIN54](../LIN54)|2 |&starf; &starf; &star; &star; &star;|**Fail**|
 |[MAP4K4](../MAP4K4)|2 |&starf; &starf; &star; &star; &star;|**Fail**|
-|[MARK1](../MARK1)|2 |&starf; &star; &star; &star; &star;|**Fail**|
 |[MCL1](../MCL1)|2 |&starf; &starf; &star; &star; &star;|**Fail**|
 |[MSH2](../MSH2)|2 |&starf; &starf; &star; &star; &star;|**Fail**|
 |[GNAS](../GNAS)|2 |&starf; &starf; &star; &star; &star;|**Fail**|
@@ -101,6 +100,7 @@ All other DLBCL studies, DLBCL Tier 2, 145
 |[ZBTB7A](../ZBTB7A)|2 |&starf; &star; &star; &star; &star;|**Fail**|
 |[RARA](../RARA)|2 |&starf; &star; &star; &star; &star;|**Fail**|
 |[DNMT3A](../DNMT3A)|2 |&starf; &star; &star; &star; &star;|**Fail**|
+|[MARK1](../MARK1)|2 |&starf; &star; &star; &star; &star;|**Fail**|
 
 ## See Also
 
