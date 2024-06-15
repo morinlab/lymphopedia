@@ -1,10 +1,7 @@
 # ETS1
 
-<<Warn("The variants reported in this gene in BL failed QC")>>
-
-**[See below ](#representative-mutations) or [the study page ](papers/paneaWholeGenomeLandscape2019.md#tier-2) for more information**
-
 ## Overview
+
 ETS1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus. 
 This gene has some recurrent sites of mutations (hot spots). 
 The mutation pattern in DLBCL implies the preferential accumulation of *inactivating mutations*.
@@ -24,7 +21,7 @@ timeline
 |:------:|:----:|--------------------------------------|
 |![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene|
 |![DLBCL](images/icons/DLBCL_tier1.png) |1-a | aSHM target and high-confidence DLBCL gene            |
-|![BL](images/icons/BL_tier2.png)    |2-a | aSHM target; Although recurrent, the relevance of mutations in BL is tenuous |
+|![BL](images/icons/BL_tier2.png)    |2-F | Failed QC|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
