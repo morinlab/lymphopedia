@@ -22,8 +22,8 @@ config:
         suffix: ' genes)'
 ---
 sankey-beta
-This study, DLBCL Tier 1, 7
-This study, DLBCL Tier 2, 53
+New to this study, DLBCL Tier 1, 7
+New to this study, DLBCL Tier 2, 53
 DLBCL Tier 2, Pass QC, 24
 DLBCL Tier 2, Fail QC, 29
 ```
