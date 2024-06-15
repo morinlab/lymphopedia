@@ -1,3 +1,9 @@
+---
+bibliography: 'morinlab.bib'
+csl: 'NLM.csl'
+link-citations: true
+---
+
 # Welcome to Lymphopedia!
 
 This site tracks all genes that have been nominated as recurrently mutated in one of the common B-cell lymphomas. Genes are categorized based on their level of support in the original primary data and other available datasets. Information for each gene can be found on their respective pages. The genes nominated by individual studies can be found on the study-centric pages.
@@ -176,11 +182,13 @@ MCL-exome, Zhang 2014, 28
 [hg38 coordinates](ashm_hg38)
 
 
-## Origins of B-cell lymphoma gene lists
+## Originating studies for all B-cell lymphoma genes
 
-### [Browse by study](Papers)
+### [All studies](Papers)
 
 ### Studies with QC results
+
+[@reddyGeneticFunctionalDrivers2017](papers/reddyGeneticFunctionalDrivers2017)
 
 ## B-cell lymphoma mutation browser
 
