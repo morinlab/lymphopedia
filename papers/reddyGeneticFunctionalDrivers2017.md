@@ -79,7 +79,6 @@ All other DLBCL studies, DLBCL Tier 2, 145
 |[DCAF6](../DCAF6)|2 |&starf; &starf; &star; &star; &star;|**Fail**|
 |[DDX10](../DDX10)|2 |&starf; &starf; &star; &star; &star;|**Fail**|
 |[DICER1](../DICER1)|2 |&starf; &starf; &star; &star; &star;|**Fail**|
-|[DNMT3A](../DNMT3A)|2 |&starf; &star; &star; &star; &star;|**Fail**|
 |[HRAS](../HRAS)|2 |&starf; &starf; &star; &star; &star;|**Fail**|
 |[LIN54](../LIN54)|2 |&starf; &starf; &star; &star; &star;|**Fail**|
 |[MAP4K4](../MAP4K4)|2 |&starf; &starf; &star; &star; &star;|**Fail**|
@@ -101,7 +100,7 @@ All other DLBCL studies, DLBCL Tier 2, 145
 |[WAC](../WAC)|2 |&starf; &starf; &star; &star; &star;|**Fail**|
 |[ZBTB7A](../ZBTB7A)|2 |&starf; &star; &star; &star; &star;|**Fail**|
 |[RARA](../RARA)|2 |&starf; &star; &star; &star; &star;|**Fail**|
-
+|[DNMT3A](../DNMT3A)|2 |&starf; &star; &star; &star; &star;|**Fail**|
 
 ## See Also
 
