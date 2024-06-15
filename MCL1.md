@@ -69,7 +69,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/M
 
 ![](primary/Reddy_MCL1_3.svg)
 **Rating**
-&starf; &starf; &star; &star; &star;
+&starf; &starf; &starf; &star; &star;
 
 ## All Mutations
 
