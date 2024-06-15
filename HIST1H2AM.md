@@ -1,5 +1,10 @@
 # HIST1H2AM
 
+<<Warn("The variants reported in this gene failed QC")>>
+
+
+**[See below ](#representative-mutations) or [the study page ](papers/paneaWholeGenomeLandscape2019.md#tier-2) for more information**
+
 ## Overview
 This gene encodes the H2A protein, one of the core proteins comprising nucleosomes. Although relatively common in DLBCL, little is known about the function of these mutations. 
 
