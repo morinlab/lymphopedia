@@ -186,9 +186,11 @@ MCL-exome, Zhang 2014, 28
 
 ### [All studies](Papers)
 
-### Studies with QC results
+### Studies with QC completed
 
 [@reddyGeneticFunctionalDrivers2017](papers/reddyGeneticFunctionalDrivers2017)
+
+[@paneaWholeGenomeLandscape2019](papers/paneaWholeGenomeLandscape2019)
 
 ## B-cell lymphoma mutation browser
 
