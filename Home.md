@@ -194,6 +194,7 @@ MCL-exome, Zhang 2014, 28
 |[@morinMutationalStructuralAnalysis2013](papers/morinMutationalStructuralAnalysis2013)|DLBCL|TBD|
 |[@reddyGeneticFunctionalDrivers2017](papers/reddyGeneticFunctionalDrivers2017)|DLBCL|29 (48%)|
 |[@paneaWholeGenomeLandscape2019](papers/paneaWholeGenomeLandscape2019)|BL|22 (55%)|
+|[@hubschmannMutationalMechanismsShaping2021b](papers/hubschmannMutationalMechanismsShaping2021b)|DLBCL|TBD|
 
 ## B-cell lymphoma mutation browser
 
