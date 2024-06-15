@@ -59,7 +59,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/A
 
 ![](/primary/Reddy_ARID5B_2.svg)
 **Rating**
-&starf; &starf; &starf; &star; &star;
+&starf; &starf; &starf; &starf; &star;
 
 ## References
 
