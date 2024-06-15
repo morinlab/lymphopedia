@@ -1,5 +1,9 @@
 # ETS1
 
+<<Warn("The variants reported in this gene in BL failed QC")>>
+
+**[See below ](#representative-mutations) or [the study page ](papers/paneaWholeGenomeLandscape2019.md#tier-2) for more information**
+
 ## Overview
 ETS1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus. 
 This gene has some recurrent sites of mutations (hot spots). 

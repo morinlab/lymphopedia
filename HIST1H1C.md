@@ -1,5 +1,9 @@
 # HIST1H1C
 
+<<Warn("The variants reported in this gene in BL failed QC")>>
+
+**[See below ](#representative-mutations) or [the study page ](papers/paneaWholeGenomeLandscape2019.md#tier-2) for more information**
+
 ## Overview
 This is one of several genes that encode linker histone proteins that are recurrently mutated in DLBCL and FL.<sup>1,2</sup> Mutations are often found in the globular domain of the protein, which is critical for its interaction with DNA and other histone proteins. 
 
