@@ -92,7 +92,6 @@ All other DLBCL studies, DLBCL Tier 2, 145
 |[NFKB2](../NFKB2)|2 |&starf; &starf; &star; &star; &star;|**Fail**|
 |[PHF6](../PHF6)|2 |&starf; &starf; &star; &star; &star;|**Fail**|
 |[PIK3CD](../PIK3CD)|2 |&starf; &starf; &star; &star; &star;|**Fail**|
-
 |[PTPRK](../PTPRK)|2 |&starf; &starf; &star; &star; &star;|**Fail**|
 |[RARA](../RARA)|2 |&starf; &star; &star; &star; &star;|**Fail**|
 |[ARID1B](../ARID1B)|2 |&starf; &starf; &star; &star; &star;|**Fail**|
