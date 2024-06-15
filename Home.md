@@ -190,9 +190,9 @@ MCL-exome, Zhang 2014, 28
 
 |Study|Novel genes that failed QC|
 |:-:|:-:|
-|[@loveGeneticLandscapeMutations2012](papers/loveGeneticLandscapeMutations2012)|80%|
-|[@reddyGeneticFunctionalDrivers2017](papers/reddyGeneticFunctionalDrivers2017)|48%|
-|[@paneaWholeGenomeLandscape2019](papers/paneaWholeGenomeLandscape2019)|55%|
+|[@loveGeneticLandscapeMutations2012](papers/loveGeneticLandscapeMutations2012)|47 (80%)|
+|[@reddyGeneticFunctionalDrivers2017](papers/reddyGeneticFunctionalDrivers2017)|29 (48%)|
+|[@paneaWholeGenomeLandscape2019](papers/paneaWholeGenomeLandscape2019)|22 (55%)|
 
 ## B-cell lymphoma mutation browser
 
