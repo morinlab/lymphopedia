@@ -188,6 +188,8 @@ MCL-exome, Zhang 2014, 28
 
 ### Studies with QC completed
 
+[@loveGeneticLandscapeMutations2012](papers/loveGeneticLandscapeMutations2012)
+
 [@reddyGeneticFunctionalDrivers2017](papers/reddyGeneticFunctionalDrivers2017)
 
 [@paneaWholeGenomeLandscape2019](papers/paneaWholeGenomeLandscape2019)
