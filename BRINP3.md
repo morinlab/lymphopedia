@@ -50,9 +50,19 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/B
 ## BRINP3 Expression
 ![](images/gene_expression/BRINP3_by_pathology.svg)
 
+## Representative Mutations
+
+![](primary/Reddy_BRINP3_1.svg)
+**Rating**
+&starf; &starf; &starf; &starf; &star;
+
+![](primary/Reddy_BRINP3_2.svg)
+**Rating**
+&starf; &starf; &star; &star; &star;
+
+
 ## All Mutations
 
-[Reddy_2087T](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Reddy/igv_reports/Reddy_2087T.html)
 [Reddy_2088T](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Reddy/igv_reports/Reddy_2088T.html)
 [Reddy_2128T](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Reddy/igv_reports/Reddy_2128T.html)
 [Reddy_2133T](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Reddy/igv_reports/Reddy_2133T.html)
