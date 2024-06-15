@@ -4,10 +4,11 @@ This site tracks all genes that have been nominated as recurrently mutated in on
 
 To get started, select one of the gene lists from the table below then select the `gene page` link for any gene in the table or explore the genes nominated by [individual studies](Papers).  
 
-## Gene categories
+## Definitions
 **Tier 1**
 
 **Tier 2**
+
 Any gene attributed to one or more types of B-cell lymphoma in a study is initially assigned to Tier 2 for that entity.
 
 ```mermaid
