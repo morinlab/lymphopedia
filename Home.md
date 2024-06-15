@@ -1,6 +1,6 @@
 # Welcome to Lymphopedia
 
-This site tracks all genes that have been nominated as recurrently mutated in oen of the common B-cell lymphomas. Genes are categorized based on their level of support in the original primary data and other available datasets. Information for each gene can be found on their respective pages. The genes nominated by individual studies can be found on the study-centric pages.
+This site tracks all genes that have been nominated as recurrently mutated in one of the common B-cell lymphomas. Genes are categorized based on their level of support in the original primary data and other available datasets. Information for each gene can be found on their respective pages. The genes nominated by individual studies can be found on the study-centric pages.
 
 To get started, select one of the gene lists from the table below then select the `gene page` link for any gene in the table or peruse the [individual studies](Papers).  
 
@@ -8,7 +8,7 @@ To get started, select one of the gene lists from the table below then select th
 
 |entity|Tier 1 (high-confidence)|Tier 2 (low-confidence)|
 |:-:|:-:|:-:|
-|BL|[29 genes](BL_genes#tier-1-bl-genes)|[157 genes](BL_genes#tier-2-bl-genes)|
+|Burkitt Lymphoma (BL)|[29 genes](BL_genes#tier-1-bl-genes)|[157 genes](BL_genes#tier-2-bl-genes)|
 |DLBCL|[128 genes](DLBCL_genes#tier-1-dlbcl-genes)|[198 genes](DLBCL_genes#tier-2-dlbcl-genes)|
 |FL|[66 genes](FL_genes#tier-1-fl-genes)|[50 genes](FL_genes#tier-2-fl-genes)|
 |PMBL|[76 genes](PMBL_genes#tier-1-pmbl-genes)|[82 genes](PMBL_genes#tier-2-pmbl-genes)|
