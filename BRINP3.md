@@ -1,11 +1,9 @@
 # BRINP3
 
+<<Warn("In a subsequent reanalysis, the mutation rate in this gene was found to be inflated in the original results")>>
+
 ## History
 Mutations in this gene were first described in DLBCL in 2017 by Reddy et al.<sup>1</sup> Subsequent exome and genome-wide studies of DLBCL did not reproduce this observation. 
-
-
-> [!WARNING]
-> Mutations in this gene were reported to be inflated in the original results according to [Dreval K](https://www.biorxiv.org/content/10.1101/2023.11.21.567983v1)
 
 
 ```mermaid
