@@ -1,6 +1,6 @@
 # HIST1H2AM
 
-<<Warn("The variants reported in this gene failed QC")>>
+<<Warn("The variants reported in this gene in BL failed QC")>>
 
 **[See below ](#representative-mutations) or [the study page ](papers/paneaWholeGenomeLandscape2019.md#tier-2) for more information**
 
