@@ -27,7 +27,7 @@ config:
   sankey:
     showValues: false
     linkColor: target
-    width: 800
+    width: 700
     height: 1000
     nodeAlignment: right
 ---
