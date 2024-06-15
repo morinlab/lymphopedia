@@ -188,7 +188,7 @@ MCL-exome, Zhang 2014, 28
 
 ### Studies with QC completed
 
-|Study|Novel genes failing QC|
+|Study|Novel genes that failed QC|
 |:-:|:-:|
 |[@loveGeneticLandscapeMutations2012](papers/loveGeneticLandscapeMutations2012)|80%|
 |[@reddyGeneticFunctionalDrivers2017](papers/reddyGeneticFunctionalDrivers2017)|48%|
