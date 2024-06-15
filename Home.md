@@ -125,8 +125,8 @@ Schmitz 2012, BL Tier 1, 3
 Schmitz 2012, BL Tier 2, 16
 Love 2012, BL Tier 1, 3
 Love 2012, BL Tier 2, 56
-BL, BL-RNA-seq/exome, 50
-BL-RNA-seq/exome, Panea 2019, 50
+BL, BL-RNA-seq/exome, 40
+BL-RNA-seq/exome, Panea 2019, 40
 BL, BL-Sanger, 3
 BL-Sanger, Muppidi 2014, 3
 BL, BL-WGS, 5
