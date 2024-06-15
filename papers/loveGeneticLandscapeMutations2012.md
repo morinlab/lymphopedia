@@ -6,9 +6,10 @@ bibliography: 'morinlab.bib'
 # @loveGeneticLandscapeMutations2012
 ## Summary of novel genes
 
-|Entity| Tier 1 genes| Tier 2 genes|
-|:-:|:-:|:-:|
-|BL|3|56|
+|Entity| Total| Tier 1| Tier 2| Tier 2 Pass| Tier 2 Fail|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|BL|59|3|56|9|47|
+
 ```mermaid
 ---
 config:
