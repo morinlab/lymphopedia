@@ -20,7 +20,7 @@ timeline
 |Entity|Tier|Description                              |
 |:------:|:----:|-----------------------------------------|
 |![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene|
-|![DLBCL](images/icons/DLBCL_tier2.png) |2   |relevance in DLBCL not firmly established[@reddyGeneticFunctionalDrivers2017]|
+|![DLBCL](images/icons/DLBCL_tier2.png) |2-F   |failed QC [@reddyGeneticFunctionalDrivers2017]|
 |![BL](images/icons/BL_tier1.png)    |1   |high-confidence BL gene                  [@grandeGenomewideDiscoverySomatic2019]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
