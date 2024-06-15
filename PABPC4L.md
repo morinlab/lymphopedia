@@ -58,7 +58,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/P
 
 ![](primary/Panea_PABPC4L_2.svg)
 **Rating**
-&starf; &star; &star; &star; &star;
+&starf; &starf; &star; &star; &star;
 
 
 ## References
