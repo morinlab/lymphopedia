@@ -53,6 +53,17 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/S
 <!-- DLBCL: reddyGeneticFunctionalDrivers2017 -->
 <!-- PMBL: tiacciPervasiveMutationsJAKSTAT2018b -->
 
+## Representative Mutations
+
+![](primary/Reddy_SETD5.svg)
+**Rating**
+&starf; &starf; &starf; &starf; &starf;
+
+![](primary/Reddy_SETD5_2.svg)
+**Rating**
+&starf; &starf; &starf; &star; &star;
+
+
 ## All Mutations
 
 [Reddy_2084T](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Reddy/igv_reports/Reddy_2084T.html)
