@@ -15,6 +15,8 @@ To get started, select one of the gene lists from the table below then select th
 |Mantle Cell Lymphoma (MCL)|[23 genes](MCL_genes#tier-1-mcl-genes)|[46 genes](MCL_genes#tier-2-mcl-genes)|
 |Marginal Zone Lymphoma (MZL)|[42 genes](MZL_genes#tier-1-mzl-genes)|[74 genes](MZL_genes#tier-2-mzl-genes)|
 
+\* *PMBL gene list includes genes attributed to classical Hodgkin lymphoma or marginal grey-zone lymphoma*
+
 ## Origins of B-cell lymphoma gene lists
 
 ### [Browse by study](Papers)
