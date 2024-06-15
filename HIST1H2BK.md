@@ -1,10 +1,7 @@
 # HIST1H2BK
 
-<<Warn("The variants reported in this gene failed QC")>>
-
-**[See below ](#representative-mutations) or [the study page ](papers/paneaWholeGenomeLandscape2019.md#tier-2) for more information**
-
 ## Overview
+
 This gene encodes the H2A protein, one of the core proteins comprising nucleosomes. Although relatively common in DLBCL, little is known about the function of these mutations. 
 
 ## History
@@ -21,7 +18,7 @@ timeline
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
 |![MZL](images/icons/MZL_tier2.png)|2|relevance in MZL not firmly established|
-|![BL](images/icons/BL_tier2.png)    |2   |relevance in BL not firmly established|
+|![BL](images/icons/BL_tier2.png)    |2-F   |Failed QC|
 |![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
