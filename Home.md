@@ -14,7 +14,7 @@ To get started, select one of the gene lists from the table below then select th
 
 ### Gene Designations
 
-**aSHM** - Denotes genes documented as being affected by aberrant somatic hypermutation (aSHM). Tier 1 and Tier 2 genes can have this designation, respectively abbreviated as *1-a* and *2-a*. For example, see [BCL7A](BCL7A).
+**aSHM** - Denotes genes as affected by aberrant somatic hypermutation (aSHM). Tier 1 and Tier 2 genes can have this designation, respectively abbreviated as *1-a* and *2-a*. For example, see [BCL7A](BCL7A).
 
 ```mermaid
 ---
