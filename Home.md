@@ -4,9 +4,9 @@ This site tracks all genes that have been nominated as recurrently mutated in on
 
 To get started, select one of the gene lists from the table below then select the `gene page` link for any gene in the table or explore the genes nominated by [individual studies](Papers).  
 
-## Gene Categorization
+## Categorization
 
-### Tiers
+### Gene Tiers
 
 **Tier 2 Genes**
 
@@ -16,7 +16,7 @@ Any gene described as significantly or recurrently mutated in one or more types 
 
 Genes can transition to Tier 1 only after additional studies have demonstrated the recurrence of mutations in the same entity.  
 
-### Designations
+### Gene Designations
 
 **aSHM**
 
