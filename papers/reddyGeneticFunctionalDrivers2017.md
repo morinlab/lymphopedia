@@ -63,6 +63,11 @@ All other DLBCL studies, DLBCL Tier 2, 145
 |[JUNB](../JUNB)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
 |[KCMF1](../KCMF1)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
 |[MAGT1](../MAGT1)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
+|[MECOM](../MECOM)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
+|[PTPN6](../PTPN6)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
+|[MET](../MET)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
+|[ZFX](../ZFX)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
+|[YY1](../YY1)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
 |[FOXP1](../FOXP1)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
 |[FUBP1](../FUBP1)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
 |[GOLGA5](../GOLGA5)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
@@ -77,10 +82,6 @@ All other DLBCL studies, DLBCL Tier 2, 145
 |[DNMT3A](../DNMT3A)|2 |&starf; &star; &star; &star; &star;|**Fail**|
 |[HRAS](../HRAS)|2 |&starf; &starf; &star; &star; &star;|**Fail**|
 |[LIN54](../LIN54)|2 |&starf; &starf; &star; &star; &star;|**Fail**|
-|[MECOM](../MECOM)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
-|[MET](../MET)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
-|[ZFX](../ZFX)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
-|[YY1](../YY1)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
 |[MAP4K4](../MAP4K4)|2 |&starf; &starf; &star; &star; &star;|**Fail**|
 |[MARK1](../MARK1)|2 |&starf; &star; &star; &star; &star;|**Fail**|
 |[MCL1](../MCL1)|2 |&starf; &starf; &star; &star; &star;|**Fail**|
@@ -91,7 +92,7 @@ All other DLBCL studies, DLBCL Tier 2, 145
 |[NFKB2](../NFKB2)|2 |&starf; &starf; &star; &star; &star;|**Fail**|
 |[PHF6](../PHF6)|2 |&starf; &starf; &star; &star; &star;|**Fail**|
 |[PIK3CD](../PIK3CD)|2 |&starf; &starf; &star; &star; &star;|**Fail**|
-|[PTPN6](../PTPN6)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
+
 |[PTPRK](../PTPRK)|2 |&starf; &starf; &star; &star; &star;|**Fail**|
 |[RARA](../RARA)|2 |&starf; &star; &star; &star; &star;|**Fail**|
 |[ARID1B](../ARID1B)|2 |&starf; &starf; &star; &star; &star;|**Fail**|
