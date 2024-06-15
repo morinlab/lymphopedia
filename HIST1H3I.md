@@ -1,10 +1,5 @@
 # HIST1H3I
 
-<<Warn("The variants reported in this gene failed QC")>>
-
-### [more info](papers/paneaWholeGenomeLandscape2019.md#tier-2)
-### [or ](#representative-mutations)
-
 ## History
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
