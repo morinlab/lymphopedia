@@ -23,12 +23,10 @@ config:
         suffix: ' genes)'
 ---
 sankey-beta
-This study, New Tier 1, 3
-New Tier 1, BL Tier 1, 3
-This study, New Tier 2, 56
-New Tier 2, BL Tier 2, 56
-All other BL studies, BL Tier 1, 26
-All other BL studies, BL Tier 2, 101
+New to this study, BL Tier 1, 3
+New to this study, BL Tier 2, 56
+BL Tier 2, Pass QC, 9
+BL Tier 2, Fail QC, 47
 ```
 
 ## Novel genes reported in this study
