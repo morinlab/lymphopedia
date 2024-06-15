@@ -5,6 +5,8 @@ link-citations: true
 ---
 # CHD8
 
+<<Warn("The variants reported in this gene in DLBCL failed QC")>>
+
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
 timeline

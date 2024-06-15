@@ -1,5 +1,7 @@
 # CDC73
 
+<<Warn("The variants reported in this gene in DLBCL failed QC")>>
+
 ## History
 Mutations in this gene were first described in BL in 2012 by Love et al<sup>1</sup> and subsequently in DLBCL by Reddy et al.<sup>2</sup> Subsequent exome and genome-wide studies of DLBCL and BL did not reproduce these observations. 
 
