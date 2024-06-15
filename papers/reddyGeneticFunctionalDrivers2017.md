@@ -6,9 +6,10 @@ bibliography: 'morinlab.bib'
 # @reddyGeneticFunctionalDrivers2017
 ## Summary of novel genes
 
-|Entity| Tier 1 genes| Tier 2 genes|
-|:-:|:-:|:-:|
-|DLBCL|7|53|
+|Entity| Tier 1| Tier 2| Tier 2 Pass| Tier 2 Fail|
+|:-:|:-:|:-:|:-:|:-:|
+|DLBCL|7|53|24|29|
+
 ```mermaid
 ---
 config:
