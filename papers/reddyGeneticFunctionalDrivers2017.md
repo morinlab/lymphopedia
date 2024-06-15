@@ -93,14 +93,14 @@ All other DLBCL studies, DLBCL Tier 2, 145
 |[PHF6](../PHF6)|2 |&starf; &starf; &star; &star; &star;|**Fail**|
 |[PIK3CD](../PIK3CD)|2 |&starf; &starf; &star; &star; &star;|**Fail**|
 |[PTPRK](../PTPRK)|2 |&starf; &starf; &star; &star; &star;|**Fail**|
-|[RARA](../RARA)|2 |&starf; &star; &star; &star; &star;|**Fail**|
+|[ZFAT](../ZFAT)|2 |&starf; &starf; &star; &star; &star;|**Fail**|
 |[ARID1B](../ARID1B)|2 |&starf; &starf; &star; &star; &star;|**Fail**|
 |[RUNX1](../RUNX1)|2 |&starf; &starf; &star; &star; &star;|**Fail**|
 |[CBLB](../CBLB)|2 |&starf; &starf; &star; &star; &star;|**Fail**|
 |[SYK](../SYK)|2 |&starf; &starf; &star; &star; &star;|**Fail**|
 |[WAC](../WAC)|2 |&starf; &starf; &star; &star; &star;|**Fail**|
 |[ZBTB7A](../ZBTB7A)|2 |&starf; &star; &star; &star; &star;|**Fail**|
-|[ZFAT](../ZFAT)|2 |&starf; &starf; &star; &star; &star;|**Fail**|
+|[RARA](../RARA)|2 |&starf; &star; &star; &star; &star;|**Fail**|
 
 
 ## See Also
