@@ -1,10 +1,7 @@
 # HIST1H2AG
 
-<<Warn("The variants reported in this gene failed QC")>>
-
-**[See below ](#representative-mutations) or [the study page ](papers/paneaWholeGenomeLandscape2019.md#tier-2) for more information**
-
 ## History
+
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
 timeline
@@ -20,7 +17,7 @@ timeline
 |Entity|Tier|Description                              |
 |:------:|:----:|-----------------------------------------|
 |![MZL](images/icons/MZL_tier2.png)|2|relevance in MZL not firmly established|
-|![BL](images/icons/BL_tier2.png)    |2   |relevance in BL not firmly established   |
+|![BL](images/icons/BL_tier2.png)    |2-F  | Failed QC|
 |![DLBCL](images/icons/DLBCL_tier2.png) |2   |relevance in DLBCL not firmly established|
 |![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene                  |
 
