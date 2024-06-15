@@ -16,7 +16,7 @@ To get started, select one of the gene lists from the table below then select th
 
 **aSHM** - Denotes genes as affected by aberrant somatic hypermutation (aSHM). Tier 1 and Tier 2 genes can have this designation, respectively abbreviated as *1-a* and *2-a*. For example, see [BCL7A](BCL7A).
 
-**Fail** - Some studies with large additions to Tier 2 lists have undergon manual review of the primary data. If the majority of mutations in a gene fail QC, the gene will be given this designation. 
+**Fail** - Some studies with large additions to Tier 2 lists have undergone manual review of the primary data. If the majority of mutations in a gene fail QC, the gene will be given the designation *2-F*. For example, see [MARK1](MARK1).
 
 ```mermaid
 ---
