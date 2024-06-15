@@ -28,9 +28,9 @@ timeline
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|![BL](images/icons/BL_tier2.png)    |2   |relevance in BL not firmly established[@paneaWholeGenomeLandscape2019]|
 |![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            [@morinFrequentMutationHistonemodifying2011]|
 |![FL](images/icons/FL_tier2.png)    |2   |relevance in FL not firmly established|
+|![BL](images/icons/BL_tier2.png)    |2-F   |Failed QC|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
