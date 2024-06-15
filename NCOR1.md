@@ -1,5 +1,7 @@
 # NCOR1
 
+<<Warn("The variants reported in this gene in DLBCL failed QC")>>
+
 ## History
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%

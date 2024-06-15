@@ -1,7 +1,8 @@
 # ARID1B
 
+<<Warn("The variants reported in this gene in DLBCL failed QC")>>
+
 ## History
-Mutations in this gene were first described in DLBCL in 2017 by Reddy et al.<sup>1</sup>  
 
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
