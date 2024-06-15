@@ -22,7 +22,7 @@ timeline
 |:------:|:----:|--------------------------------------|
 |![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            |
 |![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene               |
-|![BL](images/icons/BL_tier2.png)    |2   |relevance in BL not firmly established|
+|![BL](images/icons/BL_tier2.png)    |2-F   |Failed QC|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
