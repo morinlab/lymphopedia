@@ -61,7 +61,9 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/P
 
 ### DLBCL<sup>1</sup>
 
-
+![](primary/Reddy_PIK3R1_1.svg)
+**Rating**
+&starf; &starf; &starf; &star; &star;
 
 ### BL<sup>2</sup>
 
