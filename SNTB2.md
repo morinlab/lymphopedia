@@ -52,11 +52,11 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/S
 
 ![](primary/Panea_SNTB2_1.svg)
 **Rating**
-&starf; &starf; &star; &star; &star; 
+&starf; &star; &star; &star; &star; 
 
 ![](primary/Panea_SNTB2_2.svg)
 **Rating**
-&starf; &starf; &star; &star; &star; 
+&starf; &starf; &starf; &starf; &star; 
 
 
 ## References
