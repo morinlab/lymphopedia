@@ -50,10 +50,10 @@ All other DLBCL studies, DLBCL Tier 2, 145
 |:-|:-:|:-:|:-:|
 |[ARID5B](../ARID5B)|2 |&starf; &starf; &starf; &starf; &star;|**Pass**|
 |[ANKRD17](../ANKRD17)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
+|[BTBD3](../BTBD3)|2 |&starf; &starf; &starf; &starf; &star;|**Pass**|
 |[SETD5](../SETD5)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
 |[ATR](../ATR)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
 |[BRINP3](../BRINP3)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
-|[BTBD3](../BTBD3)|2 |&starf; &starf; &starf; &starf; &star;|**Pass**|
 |[CASP8](../CASP8)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
 |[TGFBR2](../TGFBR2)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
 |[TIPARP](../TIPARP)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
