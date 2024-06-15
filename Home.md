@@ -114,7 +114,7 @@ FL-WGS, Okosun 2016, 2
 Muppidi 2014, BL Tier 1, 1
 Muppidi 2014, BL Tier 2, 2
 Panea 2019, BL Tier 1, 4
-Panea 2019, BL Tier 2, 46
+Panea 2019, BL Tier 2, 36
 Thomas 2023, BL Tier 1, 2
 Thomas 2023, BL Tier 2, 3
 Grande 2019, BL Tier 1, 9
