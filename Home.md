@@ -12,6 +12,8 @@ Any gene described as significantly or recurrently mutated in one or more types 
 
 **Tier 1 Genes**
 
+Genes can transition to Tier 1 only after additional studies have demonstrated the recurrence of mutations in the same entity.  
+
 ```mermaid
 ---
 config:
