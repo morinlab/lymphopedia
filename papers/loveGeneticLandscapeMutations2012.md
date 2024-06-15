@@ -6,7 +6,7 @@ bibliography: 'morinlab.bib'
 # @loveGeneticLandscapeMutations2012
 ## Summary of novel genes
 
-|Entity| Total| Tier 1| Tier 2| Tier 2 Pass| Tier 2 Fail| Fail rate |
+|Entity| Total| Tier 1| Tier 2| Tier 2 Pass| Tier 2 Fail| Fail rate for novel genes |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |BL|59|3|56|9|47| 80% |
 
