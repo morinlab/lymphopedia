@@ -6,9 +6,9 @@ bibliography: 'morinlab.bib'
 # @paneaWholeGenomeLandscape2019
 ## Summary of novel genes
 
-|Entity| Total| Tier 1| Tier 2| Tier 2 Pass| Tier 2 Fail|
-|:-:|:-:|:-:|:-:|:-:|:-:|
-|BL|40|4|35|13 |22|
+|Entity| Total| Tier 1| Tier 2| Tier 2 Pass| Tier 2 Fail| Fail Rate|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|BL|40|4|35|13 |22| 55% |
 
 
 ```mermaid
