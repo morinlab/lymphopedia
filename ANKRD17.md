@@ -53,6 +53,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/A
 ![](/primary/Reddy_ANKRD17_2.svg)
 &starf; &star; &star; &star; &star;
 
+## All Mutations
+
 [Reddy_2262T](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Reddy/igv_reports/Reddy_2262T.html)
 [Reddy_2479T](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Reddy/igv_reports/Reddy_2479T.html)
 [Reddy_2534T](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Reddy/igv_reports/Reddy_2534T.html)
