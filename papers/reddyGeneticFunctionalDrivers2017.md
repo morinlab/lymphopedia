@@ -49,7 +49,6 @@ All other DLBCL studies, DLBCL Tier 2, 145
 |Novel gene|DLBCL tier|Average variant quality|QC outcome|
 |:-|:-:|:-:|:-:|
 |[ARID5B](../ARID5B)|2 |&starf; &starf; &starf; &starf; &star;|**Pass**|
-|[ANKRD17](../ANKRD17)|2 |&starf; &starf; &starf; &star; &star;|**Fail**|
 |[BTBD3](../BTBD3)|2 |&starf; &starf; &starf; &starf; &star;|**Pass**|
 |[SETD5](../SETD5)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
 |[ATR](../ATR)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
@@ -72,6 +71,7 @@ All other DLBCL studies, DLBCL Tier 2, 145
 |[FUBP1](../FUBP1)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
 |[GOLGA5](../GOLGA5)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
 |[MSH6](../MSH6)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
+|[ANKRD17](../ANKRD17)|2 |&starf; &starf; &starf; &star; &star;|**Fail**|
 |[CDC73](../CDC73)|2 |&starf; &starf; &star; &star; &star;|**Fail**|
 |[CHD1](../CHD1)|2 |&starf; &starf; &star; &star; &star;|**Fail**|
 |[CHD8](../CHD8)|2 |&starf; &starf; &star; &star; &star;|**Fail**|

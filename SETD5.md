@@ -61,7 +61,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/S
 
 ![](primary/Reddy_SETD5_2.svg)
 **Rating**
-&starf; &starf; &starf; &star; &star;
+&starf; &starf; &star; &star; &star;
 
 
 ## All Mutations
