@@ -1,5 +1,7 @@
 # CBLB
 
+<<Warn("The variants reported in this gene in DLBCL failed QC")>>
+
 ## History
 Mutations in this gene were first described in DLBCL in 2017 by Reddy et al.<sup>1</sup> Subsequent exome and genome-wide studies of DLBCL did not reproduce this observation. 
 

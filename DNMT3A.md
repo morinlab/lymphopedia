@@ -1,5 +1,7 @@
 # DNMT3A
 
+<<Warn("The variants reported in this gene in DLBCL failed QC")>>
+
 ## History
 
 ```mermaid
