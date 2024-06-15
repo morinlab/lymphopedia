@@ -4,22 +4,6 @@ This site tracks all genes that have been nominated as recurrently mutated in on
 
 To get started, select one of the gene lists from the table below then select the `gene page` link for any gene in the table or explore the genes nominated by [individual studies](Papers).  
 
-## Gene lists
-
-|entity|Tier 1|Tier 2|
-|:-:|:-:|:-:|
-|Burkitt Lymphoma (BL)|[29 genes](BL_genes#tier-1-bl-genes)|[157 genes](BL_genes#tier-2-bl-genes)|
-|Diffuse Large B-cell Lymphoma(DLBCL)|[128 genes](DLBCL_genes#tier-1-dlbcl-genes)|[198 genes](DLBCL_genes#tier-2-dlbcl-genes)|
-|Follicular Lymphoma (FL)|[66 genes](FL_genes#tier-1-fl-genes)|[50 genes](FL_genes#tier-2-fl-genes)|
-|Primary Mediastinal B-cell Lymphoma (PMBL)\*|[76 genes](PMBL_genes#tier-1-pmbl-genes)|[82 genes](PMBL_genes#tier-2-pmbl-genes)|
-|Mantle Cell Lymphoma (MCL)|[23 genes](MCL_genes#tier-1-mcl-genes)|[46 genes](MCL_genes#tier-2-mcl-genes)|
-|Marginal Zone Lymphoma (MZL)|[42 genes](MZL_genes#tier-1-mzl-genes)|[74 genes](MZL_genes#tier-2-mzl-genes)|
-
-\* *PMBL gene list includes genes attributed to classical Hodgkin lymphoma or marginal grey-zone lymphoma*
-
-## Origins of B-cell lymphoma gene lists
-
-### [Browse by study](Papers)
 
 ```mermaid
 ---
@@ -159,11 +143,30 @@ MCL, MCL-exome, 28
 MCL-exome, Zhang 2014, 28
 ```
 
+## Gene lists
+
+|entity|Tier 1|Tier 2|
+|:-:|:-:|:-:|
+|Burkitt Lymphoma (BL)|[29 genes](BL_genes#tier-1-bl-genes)|[157 genes](BL_genes#tier-2-bl-genes)|
+|Diffuse Large B-cell Lymphoma(DLBCL)|[128 genes](DLBCL_genes#tier-1-dlbcl-genes)|[198 genes](DLBCL_genes#tier-2-dlbcl-genes)|
+|Follicular Lymphoma (FL)|[66 genes](FL_genes#tier-1-fl-genes)|[50 genes](FL_genes#tier-2-fl-genes)|
+|Primary Mediastinal B-cell Lymphoma (PMBL)\*|[76 genes](PMBL_genes#tier-1-pmbl-genes)|[82 genes](PMBL_genes#tier-2-pmbl-genes)|
+|Mantle Cell Lymphoma (MCL)|[23 genes](MCL_genes#tier-1-mcl-genes)|[46 genes](MCL_genes#tier-2-mcl-genes)|
+|Marginal Zone Lymphoma (MZL)|[42 genes](MZL_genes#tier-1-mzl-genes)|[74 genes](MZL_genes#tier-2-mzl-genes)|
+
+\* *PMBL gene list includes genes attributed to classical Hodgkin lymphoma or marginal grey-zone lymphoma*
+
 ## B-cell Lymphoma aSHM targets
 
 [hg19 coordinates](ashm)
 
 [hg38 coordinates](ashm_hg38)
+
+
+## Origins of B-cell lymphoma gene lists
+
+### [Browse by study](Papers)
+
 
 ## B-cell lymphoma mutation browser
 
