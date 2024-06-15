@@ -71,6 +71,7 @@ All other DLBCL studies, DLBCL Tier 2, 145
 |[FUBP1](../FUBP1)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
 |[GOLGA5](../GOLGA5)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
 |[MSH6](../MSH6)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
+|[MCL1](../MCL1)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
 |[ANKRD17](../ANKRD17)|2 |&starf; &starf; &starf; &star; &star;|**Fail**|
 |[CDC73](../CDC73)|2 |&starf; &starf; &star; &star; &star;|**Fail**|
 |[CHD1](../CHD1)|2 |&starf; &starf; &star; &star; &star;|**Fail**|
@@ -82,7 +83,6 @@ All other DLBCL studies, DLBCL Tier 2, 145
 |[HRAS](../HRAS)|2 |&starf; &starf; &star; &star; &star;|**Fail**|
 |[LIN54](../LIN54)|2 |&starf; &starf; &star; &star; &star;|**Fail**|
 |[MAP4K4](../MAP4K4)|2 |&starf; &starf; &star; &star; &star;|**Fail**|
-|[MCL1](../MCL1)|2 |&starf; &starf; &star; &star; &star;|**Fail**|
 |[MSH2](../MSH2)|2 |&starf; &starf; &star; &star; &star;|**Fail**|
 |[GNAS](../GNAS)|2 |&starf; &starf; &star; &star; &star;|**Fail**|
 |[MYB](../MYB)|2 |&starf; &starf; &star; &star; &star;|**Fail**|
