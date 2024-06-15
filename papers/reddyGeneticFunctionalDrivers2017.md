@@ -28,8 +28,8 @@ This study, New Tier 2, 53
 New Tier 2, DLBCL Tier 2, 53
 All other DLBCL studies, DLBCL Tier 1, 121
 All other DLBCL studies, DLBCL Tier 2, 145
-New Tier 2, Pass QC, 24
-New Tier 2, Fail QC, 29
+DLBCL Tier 2, Pass QC, 24
+DLBCL Tier 2, Fail QC, 29
 ```
 
 ## Novel genes reported in this study
