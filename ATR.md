@@ -45,6 +45,16 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/A
 ## ATR Expression
 ![](images/gene_expression/ATR_by_pathology.svg)
 
+## Representative Mutations
+
+![](primary/Reddy_ATR_1.svg)
+**Rating**
+&starf; &starf; &starf; &starf; &starf;
+
+![](primary/Reddy_ATR_2.svg)
+**Rating**
+&starf; &starf; &star; &star; &star;
+
 ## All Mutations
 
 [Reddy_2121T](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Reddy/igv_reports/Reddy_2121T.html)
