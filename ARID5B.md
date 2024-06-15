@@ -1,3 +1,9 @@
+---
+bibliography: 'morinlab.bib'
+csl: 'NLM.csl'
+link-citations: true
+---
+
 # ARID5B
 
 <<Warn("Mutations in this gene were reported to be inflated in the original results")>>
