@@ -6,7 +6,7 @@ link-citations: true
 
 # ARID5B
 
-<<Warn("Mutations in this gene were found to be inflated in the original results")>>
+<<Warn("In a subsequent reanalysis, the mutation rate in this gene was found to be inflated in the original results")>>
 
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
