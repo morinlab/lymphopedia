@@ -184,7 +184,7 @@ MCL-exome, Zhang 2014, 28
 
 ## Originating studies for all B-cell lymphoma genes
 
-### [All studies](Papers)
+### [All studies](Papers.md)
 
 ### Studies selected for QC
 
