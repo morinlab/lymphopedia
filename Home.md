@@ -6,6 +6,8 @@ To get started, select one of the gene lists from the table below then select th
 
 ## Definitions
 
+### Tiers
+
 **Tier 2 Genes**
 
 Any gene described as significantly or recurrently mutated in one or more types of B-cell lymphoma is initially assigned to Tier 2 for that entity. The study describing the mutation of that gene in a particular entity is considered the originating study. 
@@ -13,6 +15,13 @@ Any gene described as significantly or recurrently mutated in one or more types 
 **Tier 1 Genes**
 
 Genes can transition to Tier 1 only after additional studies have demonstrated the recurrence of mutations in the same entity.  
+
+### Designations
+
+**aSHM**
+
+Genes documented as being affected by aberrant somatic hypermutation (aSHM) will sometimes have this designation. Tier 1 and Tier 2 genes can have this designation, depending on whether the mutation pattern has been reproduced in multiple studies. 
+
 
 ```mermaid
 ---
