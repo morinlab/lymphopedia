@@ -2,7 +2,7 @@
 
 This site tracks all genes that have been nominated as recurrently mutated in one of the common B-cell lymphomas. Genes are categorized based on their level of support in the original primary data and other available datasets. Information for each gene can be found on their respective pages. The genes nominated by individual studies can be found on the study-centric pages.
 
-To get started, select one of the gene lists from the table below then select the `gene page` link for any gene in the table or peruse the [individual studies](Papers).  
+To get started, select one of the gene lists from the table below then select the `gene page` link for any gene in the table or explore the genes nominated by [individual studies](Papers).  
 
 ## Gene lists
 
@@ -11,7 +11,7 @@ To get started, select one of the gene lists from the table below then select th
 |Burkitt Lymphoma (BL)|[29 genes](BL_genes#tier-1-bl-genes)|[157 genes](BL_genes#tier-2-bl-genes)|
 |Diffuse Large B-cell Lymphoma(DLBCL)|[128 genes](DLBCL_genes#tier-1-dlbcl-genes)|[198 genes](DLBCL_genes#tier-2-dlbcl-genes)|
 |Follicular Lymphoma (FL)|[66 genes](FL_genes#tier-1-fl-genes)|[50 genes](FL_genes#tier-2-fl-genes)|
-|Primary Mediastinal B-cell Lymphoma (PMBL)|[76 genes](PMBL_genes#tier-1-pmbl-genes)|[82 genes](PMBL_genes#tier-2-pmbl-genes)|
+|Primary Mediastinal B-cell Lymphoma (PMBL)\*|[76 genes](PMBL_genes#tier-1-pmbl-genes)|[82 genes](PMBL_genes#tier-2-pmbl-genes)|
 |Mantle Cell Lymphoma (MCL)|[23 genes](MCL_genes#tier-1-mcl-genes)|[46 genes](MCL_genes#tier-2-mcl-genes)|
 |Marginal Zone Lymphoma (MZL)|[42 genes](MZL_genes#tier-1-mzl-genes)|[74 genes](MZL_genes#tier-2-mzl-genes)|
 
