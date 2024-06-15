@@ -46,6 +46,10 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/B
 
 ## Representative Mutations
 
+![](primary/BTBD3_1.svg)
+**Rating**
+&starf; &starf; &starf; &star; &star; 
+
 ## All Mutations
 
 [Reddy_2193T](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Reddy/igv_reports/Reddy_2193T.html)
