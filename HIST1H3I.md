@@ -1,6 +1,8 @@
 # HIST1H3I
 
-<<Warn("The variants reported in this gene failed QC [more info](papers/paneaWholeGenomeLandscape2019.md)")>>
+<<Warn("The variants reported in this gene failed QC")>>
+
+### [more info](papers/paneaWholeGenomeLandscape2019.md)
 
 ## History
 ```mermaid
