@@ -1,5 +1,7 @@
 # HIST1H3I
 
+<<Warn("The variants reported in this gene failed QC")>>
+
 ## History
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
