@@ -4,7 +4,7 @@ This site tracks all genes that have been nominated as recurrently mutated in on
 
 To get started, select one of the gene lists from the table below then select the `gene page` link for any gene in the table or explore the genes nominated by [individual studies](Papers).  
 
-## Definitions
+## Gene Categorization
 
 ### Tiers
 
