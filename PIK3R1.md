@@ -17,7 +17,7 @@ timeline
 
 |Entity|Tier|Description                              |
 |:------:|:----:|-----------------------------------------|
-|![BL](images/icons/BL_tier2.png)    |2   |relevance in BL not firmly established   |
+|![BL](images/icons/BL_tier2.png)    |2-F |Failed QC|
 |![DLBCL](images/icons/DLBCL_tier2.png) |2   |relevance in DLBCL not firmly established|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
