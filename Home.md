@@ -1,7 +1,8 @@
-# Audit of B-cell Cancer Genes
+# Welcome to Lymphopedia
 
-This project tracks all genes that have been nominated as drivers (recurrent targets of mutation) in a variety of B-cell lymphomas and their level of support based on available datasets. The pattern 
-of mutations in each gene can be found through the gene lists (below). Additional information for each gene can be found on their respective pages. To get started, select one of the gene lists from the table below then select the `gene page` link for any gene in the table or peruse the [individual studies](Papers).  
+This site tracks all genes that have been nominated as recurrently mutated in oen of the common B-cell lymphomas. Genes are categorized based on their level of support in the original primary data and other available datasets. Information for each gene can be found on their respective pages. The genes nominated by individual studies can be found on the study-centric pages.
+
+To get started, select one of the gene lists from the table below then select the `gene page` link for any gene in the table or peruse the [individual studies](Papers).  
 
 ## B-cell Lymphoma gene lists
 
