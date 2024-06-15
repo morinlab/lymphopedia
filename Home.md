@@ -20,8 +20,7 @@ Genes can transition to Tier 1 only after additional studies have demonstrated t
 
 **aSHM**
 
-Genes documented as being affected by aberrant somatic hypermutation (aSHM) will sometimes have this designation. Tier 1 and Tier 2 genes can have this designation, depending on whether the mutation pattern has been reproduced in multiple studies. 
-
+Genes documented as being affected by aberrant somatic hypermutation (aSHM) will have this designation. Tier 1 and Tier 2 genes can have this designation, respectively abbreviated as 1-a and 2-a. 
 
 ```mermaid
 ---
