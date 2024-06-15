@@ -8,7 +8,7 @@ bibliography: 'morinlab.bib'
 
 |Entity| Total| Tier 1| Tier 2| Tier 2 Pass| Tier 2 Fail|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|BL|40|4|36|13 |23|
+|BL|40|4|35|13 |22|
 
 
 ```mermaid
@@ -60,7 +60,6 @@ BL Tier 2, Fail QC, 23
 |[CD79B](../CD79B)|2 | &starf; &starf; &star; &star; &star;|**Fail**|
 |[CTCF](../CTCF)|2 | &starf; &star; &star; &star; &star;|**Fail**|
 |[DNMT1](../DNMT1)|2 | &starf; &star; &star; &star; &star;|**Fail**|
-|[DTX1](../DTX1)|2 | &starf; &star; &star; &star; &star;|**Fail**|
 |[ETS1](../ETS1)|2 | &starf; &star; &star; &star; &star;|**Fail**|
 |[FZD3](../FZD3)|2 | &starf; &star; &star; &star; &star;|**Fail**|
 |[HIST1H1C](../HIST1H1C)|2 | &starf; &starf; &star; &star; &star;|**Fail**|
