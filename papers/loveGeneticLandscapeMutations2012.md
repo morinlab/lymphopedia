@@ -56,7 +56,7 @@ All other BL studies, BL Tier 2, 101
 |[CDC73](../CDC73)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
 |[CDH17](../CDH17)|2 |&starf; &star; &star; &star; &star;|**Fail**|
 |[COL4A2](../COL4A2)|2 |&starf; &star; &star; &star; &star;|**Fail**|
-|[CREBBP](../CREBBP)|2 |&starf; &starf; &starf; &starf; &star;||
+|[CREBBP](../CREBBP)|2 |&starf; &starf; &starf; &starf; &star;|**Pass**|
 |[CYB5D1](../CYB5D1)|2 |&starf; &starf; &star; &star; &star;|**Fail**|
 |[CYP4F22](../CYP4F22)|2 |&starf; &star; &star; &star; &star;|**Fail**|
 |[DLGAP1](../DLGAP1)|2 |&starf; &star; &star; &star; &star;|**Fail**|
