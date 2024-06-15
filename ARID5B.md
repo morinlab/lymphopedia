@@ -1,6 +1,7 @@
 # ARID5B
 
-<<Warn("Mutations in this gene were reported to be inflated in the original results")>>[@drevalRevisitingReddyDLBCL2023]
+<<Warn("Mutations in this gene were reported to be inflated in the original results")>>
+[@drevalRevisitingReddyDLBCL2023]
 
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
