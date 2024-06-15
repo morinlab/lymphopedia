@@ -6,7 +6,7 @@ bibliography: 'morinlab.bib'
 # @reddyGeneticFunctionalDrivers2017
 ## Summary of novel genes
 
-|Entity| Novel Genes| Tier 1| Tier 2| Tier 2 Pass| Tier 2 Fail|
+|Entity| Total| Tier 1| Tier 2| Tier 2 Pass| Tier 2 Fail|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |DLBCL|60| 7|53|24|29|
 
