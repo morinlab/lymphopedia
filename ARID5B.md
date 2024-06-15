@@ -51,6 +51,16 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/A
 ## ARID5B Expression
 ![](images/gene_expression/ARID5B_by_pathology.svg)
 
+## Representative Mutations
+
+![](/primary/Reddy_ARID5B_1.svg)
+**Rating**
+&starf; &starf; &starf; &starf; &star;
+
+![](/primary/Reddy_ARID5B_2.svg)
+**Rating**
+&starf; &starf; &starf; &star; &star;
+
 ## References
 
 <!-- ORIGIN: reddyGeneticFunctionalDrivers2017 -->
