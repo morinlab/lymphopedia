@@ -63,6 +63,19 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/M
 ## MTOR Expression
 ![](images/gene_expression/MTOR_by_pathology.svg)
 
+## Representative Mutations
+
+### BL
+
+![](primary/Panea_MTOR_1.svg)
+**Rating**
+&starf; &star; &star; &star; &star;
+
+![](primary/Panea_MTOR_2.svg)
+**Rating**
+&starf; &star; &star; &star; &star; 
+
+
 ## References
 
 1. *Zhang J, Grubor V, Love CL, Banerjee A, Richards KL, Mieczkowski PA, Dunphy C, Choi W, Au WY, Srivastava G, Lugar PL, Rizzieri DA, Lagoo AS, Bernal-Mizrachi L, Mann KP, Flowers C, Naresh K, Evens A, Gordon LI, Czader M, Gill JI, Hsi ED, Liu Q, Fan A, Walsh K, Jima D, Smith LL, Johnson AJ, Byrd JC, Luftig MA, Ni T, Zhu J, Chadburn A, Levy S, Dunson D, Dave SS. Genetic heterogeneity of diffuse large B-cell lymphoma. Proc Natl Acad Sci U S A. 2013 Jan 22;110(4):1398-403. doi: 10.1073/pnas.1205299110. Epub 2013 Jan 4. PMID: 23292937; PMCID: PMC3557051.*<!-- ORIGIN: zhangGeneticHeterogeneityDiffuse2013 -->
