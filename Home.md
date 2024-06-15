@@ -6,7 +6,7 @@ To get started, select one of the gene lists from the table below then select th
 
 ## Gene lists
 
-|entity|Tier 1 (high-confidence)|Tier 2 (low-confidence)|
+|entity|Tier 1|Tier 2|
 |:-:|:-:|:-:|
 |Burkitt Lymphoma (BL)|[29 genes](BL_genes#tier-1-bl-genes)|[157 genes](BL_genes#tier-2-bl-genes)|
 |Diffuse Large B-cell Lymphoma(DLBCL)|[128 genes](DLBCL_genes#tier-1-dlbcl-genes)|[198 genes](DLBCL_genes#tier-2-dlbcl-genes)|
