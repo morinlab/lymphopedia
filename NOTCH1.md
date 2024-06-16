@@ -20,7 +20,7 @@ timeline
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
 |![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene|
-|![BL](images/icons/BL_tier2.png)    |2   |relevance in BL is unlikely|
+|![BL](images/icons/BL_tier2.png)    |2-F   |Failed QC|
 |![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            |
 |![MCL](images/icons/MCL_tier1.png)   |1   |high-confidence MCL gene              |
 
@@ -76,6 +76,16 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/N
 ![](primary/Love_NOTCH1.svg)
 **Rating**
 &starf; &star; &star; &star; &star;
+
+## All Mutations
+
+### BL<sup>3</sup>
+
+[1061](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/1061_reports.html)
+[1096](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/1096_reports.html)
+[324](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/324_reports.html)
+[508](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/508_reports.html)
+[513](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/513_reports.html)
 
 ## References
 1.  Pasqualucci L, Trifonov V, Fabbri G, Ma J, Rossi D, Chiarenza A, Wells VA, Grunn A, Messina M, Elliot O, Chan J, Bhagat G, Chadburn A, Gaidano G, Mullighan CG, Rabadan R, Dalla-Favera R. Analysis of the coding genome of diffuse large B-cell lymphoma. Nat Genet. 2011 Jul 31;43(9):830–837. PMCID: PMC3297422
