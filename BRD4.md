@@ -56,6 +56,12 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/B
 **Rating**
 &starf; &star; &star; &star; &star;
 
+## All Mutations
+
+[1061](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/1061_reports.html)
+[676](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/676_reports.html)
+[698](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/698_reports.html)
+[747](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/747_reports.html)
 
 ## References
 1.  Love C, Sun Z, Jima D, Li G, Zhang J, Miles R, Richards KL, Dunphy CH, Choi WWL, Srivastava G, Lugar PL, Rizzieri DA, Lagoo AS, Bernal-Mizrachi L, Mann KP, Flowers CR, Naresh KN, Evens AM, Chadburn A, Gordon LI, Czader MB, Gill JI, Hsi ED, Greenough A, Moffitt AB, McKinney M, Banerjee A, Grubor V, Levy S, Dunson DB, Dave SS. The genetic landscape of mutations in Burkitt lymphoma. Nat Genet. 2012 Dec;44(12):1321–1325. PMCID: PMC3674561
