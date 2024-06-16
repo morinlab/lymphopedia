@@ -84,9 +84,19 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/E
 ## Representative Mutations
 
 ### BL<sup>5</sup>
+
 ![](primary/Love_EZH2.svg)
 **Rating**
 &starf; &starf; &starf; &starf; &starf;
+
+## All Mutations
+
+### BL
+
+[1092](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/1092_reports.html)
+[671](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/671_reports.html)
+[672](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/672_reports.html)
+[675](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/675_reports.html)
 
 
 ## References
