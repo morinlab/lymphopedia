@@ -53,6 +53,11 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/A
 **Rating**
 &starf; &star; &star; &star; &star;
 
+## All Mutations
+
+[508](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/508_reports.html)
+[516](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/516_reports.html)
+[851](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/851_reports.html)
 
 
 ## References
