@@ -108,6 +108,18 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/C
 **Rating**
 &starf; &starf; &starf; &starf; &star;
 
+## All Mutations
+
+### BL
+
+[1093](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/1093_reports.html)
+[322](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/322_reports.html)
+[324](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/324_reports.html)
+[515](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/515_reports.html)
+[677](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/677_reports.html)
+[745](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/745_reports.html)
+[851](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/851_reports.html)
+
 # References
 
 <!-- PMBL: dunsCharacterizationDLBCLPMBL2021b -->
