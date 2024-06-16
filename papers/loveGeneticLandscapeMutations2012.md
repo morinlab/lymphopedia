@@ -48,7 +48,7 @@ BL Tier 2, Fail QC, 47
 |[BRAF](../BRAF)|2 |&starf; &star; &star; &star; &star;|**Fail**|
 |[BRD4](../BRD4)|2 |&starf; &star; &star; &star; &star;|**Fail**|
 |[BTG2](../BTG2)|2 |&starf; &star; &star; &star; &star;|**Fail**|
-|[C6orf27](../C6orf27)|2 |&starf; &star; &star; &star; &star;|**Fail**|
+|[C6orf27](../C6orf27)|2 |*Germline*|**Fail**|
 |[CAD](../CAD)|2 |&starf; &star; &star; &star; &star;|**Fail**|
 |[CARD4](../CARD4)|2 |&starf; &starf; &starf; &starf; &star;|**Pass**|
 |[CCT6B](../CCT6B)|2 |*Germline*|**Fail**|
