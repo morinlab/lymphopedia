@@ -73,7 +73,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/B
 
 ![](primary/Love_BTG2.svg)
 **Rating**
-&starf; &star; &star; &star; &star;
+&starf; &starf; &star; &star; &star;
 
 ## All Mutations
 
