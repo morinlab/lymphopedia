@@ -12,7 +12,7 @@ timeline
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|![BL](images/icons/BL_tier2.png)    |2   |relevance in BL not firmly established|
+|![BL](images/icons/BL_tier2.png)    |2-F   |Failed QC|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -29,8 +29,6 @@ timeline
 |BL    |No  |No                   |1.039           |0               |
 |DLBCL |No  |No                   |1.624           |0               |
 |FL    |No  |No                   |0.000           |0               |
-
-
 
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/NRXN2_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/NRXN2_protein_hg38.html)
@@ -52,6 +50,12 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/N
 ![](primary/Love_NRXN2.svg)
 **Rating**
 &starf; &starf; &starf; &starf; &star;
+
+## All Mutations
+
+[1066](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/1066_reports.html)
+[515](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/515_reports.html)
+[698](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/698_reports.html)
 
 
 ## References
