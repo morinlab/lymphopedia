@@ -12,7 +12,7 @@ timeline
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|![BL](images/icons/BL_tier2.png)    |2   |relevance in BL not firmly established|
+|![BL](images/icons/BL_tier2.png)    |2-F   |Failed QC|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -50,6 +50,12 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/M
 ![](primary/Love_MYH10.svg)
 **Rating**
 &starf; &star; &star; &star; &star;
+
+## All Mutations
+
+[1102](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/1102_reports.html)
+[674](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/674_reports.html)
+[677](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/677_reports.html)
 
 
 ## References
