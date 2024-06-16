@@ -138,9 +138,6 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/D
 
 [1059](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/1059_reports.html)
 [323](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/323_reports.html)
-[323](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/323_reports.html)
-[323](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/323_reports.html)
-[742](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/742_reports.html)
 [742](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/742_reports.html)
 
 ## References
