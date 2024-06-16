@@ -39,8 +39,6 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/I
 
 ![](images/proteinpaint/ICK.svg)
 
-## ICK Expression
-![](images/gene_expression/ICK_by_pathology.svg)
 <!-- ORIGIN: loveGeneticLandscapeMutations2012 -->
 <!-- BL: loveGeneticLandscapeMutations2012 -->
 
