@@ -10,19 +10,6 @@ This site tracks all genes that have been nominated as recurrently mutated in on
 
 To get started, select one of the gene lists from the table below then select the `gene page` link for any gene in the table or explore the genes nominated by [individual studies](Papers).  
 
-## Categorization
-
-### Gene Tiers
-
-**Tier 2** - Any gene described as significantly or recurrently mutated in one or more types of B-cell lymphoma is initially assigned to Tier 2 for that entity. The study describing the mutation of that gene in a particular entity is considered the originating study. 
-
-**Tier 1** - Genes can transition to Tier 1 only after additional studies have demonstrated the recurrence of mutations in the same entity.  
-
-### Gene Designations
-
-**aSHM** - Denotes genes as affected by aberrant somatic hypermutation (aSHM). Tier 1 and Tier 2 genes can have this designation, respectively abbreviated as *1-a* and *2-a*. For example, see [BCL7A](BCL7A).
-
-**Fail** - Some studies with large additions to Tier 2 lists have undergone manual review of the primary data. If the majority of mutations in a gene fail QC, the gene will be given the designation *2-F*. For example, see [MARK1](MARK1).
 
 ```mermaid
 ---
@@ -195,6 +182,21 @@ MCL-exome, Zhang 2014, 28
 |[@reddyGeneticFunctionalDrivers2017](papers/reddyGeneticFunctionalDrivers2017)|DLBCL|7|29 (48%)|
 |[@paneaWholeGenomeLandscape2019](papers/paneaWholeGenomeLandscape2019)|BL|4|22 (55%)|
 |[@hubschmannMutationalMechanismsShaping2021b](papers/hubschmannMutationalMechanismsShaping2021b)|DLBCL,FL|4|TBD|
+
+## Categorization
+
+### Gene Tiers
+
+**Tier 2** - Any gene described as significantly or recurrently mutated in one or more types of B-cell lymphoma is initially assigned to Tier 2 for that entity. The study describing the mutation of that gene in a particular entity is considered the originating study. 
+
+**Tier 1** - Genes can transition to Tier 1 only after additional studies have demonstrated the recurrence of mutations in the same entity.  
+
+### Gene Designations
+
+**aSHM** - Denotes genes as affected by aberrant somatic hypermutation (aSHM). Tier 1 and Tier 2 genes can have this designation, respectively abbreviated as *1-a* and *2-a*. For example, see [BCL7A](BCL7A).
+
+**Fail** - Some studies with large additions to Tier 2 lists have undergone manual review of the primary data. If the majority of mutations in a gene fail QC, the gene will be given the designation *2-F*. For example, see [MARK1](MARK1).
+
 
 ## B-cell lymphoma mutation browser
 
