@@ -65,7 +65,7 @@ All other DLBCL studies, DLBCL Tier 2, 175
 |[MYCBP2](../MYCBP2)|2 | |&starf; &starf; &starf; &starf; &star;|**Pass**|
 |[NR2F2](../NR2F2)| |2 |||
 |[PDS5B](../PDS5B)|2 |2 |&starf; &starf; &starf; &star; &star;|**Pass**|
-|[PNPO](../PNPO)| |2 |||
+|[PNPO](../PNPO)| |2 |&starf; &starf; &starf; &star; &star;|**Pass**|
 |[PPP4C](../PPP4C)|2 | |||
 |[PRKDC](../PRKDC)|2 |2 |||
 |[RAC2](../RAC2)| |2 |||
