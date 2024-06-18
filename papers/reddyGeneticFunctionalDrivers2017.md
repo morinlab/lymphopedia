@@ -8,7 +8,7 @@ bibliography: 'morinlab.bib'
 
 |Entity| Total| Tier 1| Tier 2| Tier 2 Pass| Tier 2 Fail|Fail rate |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|DLBCL|60| 7|53|24|29|48%|
+|DLBCL|60| 8|52|23|29|44%|
 
 ```mermaid
 ---
@@ -23,9 +23,9 @@ config:
         suffix: ' genes)'
 ---
 sankey-beta
-New to this study, DLBCL Tier 1, 7
-New to this study, DLBCL Tier 2, 53
-DLBCL Tier 2, Pass QC, 24
+New to this study, DLBCL Tier 1, 8
+New to this study, DLBCL Tier 2, 52
+DLBCL Tier 2, Pass QC, 23
 DLBCL Tier 2, Fail QC, 29
 ```
 
@@ -42,6 +42,7 @@ DLBCL Tier 2, Fail QC, 29
 |[SETD1B](../SETD1B)|1 |&starf; &starf; &star; &star; &star;|
 |[TOX](../TOX)|1 |&starf; &starf; &starf; &star; &star;|
 |[UBE2A](../UBE2A)|1 |&starf; &starf; &starf; &star; &star;|
+|[CASP8](../CASP8)|1 |&starf; &starf; &starf; &star; &star;|
 
 ### Tier 2
 
@@ -52,7 +53,6 @@ DLBCL Tier 2, Fail QC, 29
 |[SETD5](../SETD5)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
 |[ATR](../ATR)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
 |[BRINP3](../BRINP3)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
-|[CASP8](../CASP8)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
 |[TGFBR2](../TGFBR2)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
 |[TIPARP](../TIPARP)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
 |[CD22](../CD22)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
