@@ -44,7 +44,7 @@ All other DLBCL studies, DLBCL Tier 2, 175
 ### Tier 2
 |New gene|FL tier|DLBCL tier|Average variant quality|QC outcome|
 |:-|:-:|:-:|:-:|:-:|
-|[ADAMTS1](../ADAMTS1)| |2 |||
+|[ADAMTS1](../ADAMTS1)| |2 |&starf; &starf; &starf; &star; &star; | **Pass** |
 |[ANKRD12](../ANKRD12)| |2 |||
 |[ATP6V1A](../ATP6V1A)|2 | |||
 |[CADPS2](../CADPS2)| |2 |||
