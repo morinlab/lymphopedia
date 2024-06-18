@@ -92,7 +92,7 @@ link-citations: true
 |[ACTG1](ACTG1)|2, aSHM|[@hubschmannMutationalMechanismsShaping2021b]|[@spinaGeneticsNodalMarginal2016b; @deschGenotypingCirculatingTumor2020]|
 |[ATP6V1A](ATP6V1A)|2|[@hubschmannMutationalMechanismsShaping2021b]||
 |[BCL10](BCL10)|2|[@russler-germainMutationsAssociatedProgression2023b]|[@morinFrequentMutationHistonemodifying2011; @spinaGeneticsNodalMarginal2016b]|
-|[CCDC42BPB](CCDC42BPB)|2|[@hubschmannMutationalMechanismsShaping2021b]||
+|[CDC42BPB](CDC42BPB)|2|[@hubschmannMutationalMechanismsShaping2021b]||
 |[CD70](CD70)|2|[@russler-germainMutationsAssociatedProgression2023b]|[@morinFrequentMutationHistonemodifying2011]|
 |[CD79B](CD79B)|2||[@morinFrequentMutationHistonemodifying2011; @paneaWholeGenomeLandscape2019]|
 |[CILP](CILP)|2|[@russler-germainMutationsAssociatedProgression2023b]||
