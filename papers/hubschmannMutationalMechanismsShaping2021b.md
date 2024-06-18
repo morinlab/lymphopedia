@@ -74,7 +74,7 @@ All other DLBCL studies, DLBCL Tier 2, 175
 |[TPP1](../TPP1)|2 | |&starf; &starf; &starf; &star; &star;|**Pass**|
 |[TRAF6](../TRAF6)| |2 |&starf; &starf; &starf; &star; &star;|**Pass**|
 |[UNC5B](../UNC5B)| |2 |&starf; &starf; &starf; &star; &star;|**Pass**|
-|[WNK1](../WNK1)| |2 |||
+|[WNK1](../WNK1)| |2 |&starf; &starf; &starf; &star; &star;|**Pass**|
 |[ZNF217](../ZNF217)| |2 |||
 |[GAK](../GAK)| |2 |&starf; &starf; &star; &star; &star;|**Fail**|
 |[NR2F2](../NR2F2)| |2 |&starf; &starf; &star; &star; &star;|**Fail**|
