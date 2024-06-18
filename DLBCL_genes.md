@@ -260,7 +260,7 @@ link-citations: true
 |[MYBPC2](MYBPC2)|2|[@schmitzGeneticsPathogenesisDiffuse2018a]||
 |[MYO1E](MYO1E)|2, aSHM|||
 |[MYOM2](MYOM2)|2|[@pasqualucciAnalysisCodingGenome2011]||
-|[N2RF2](N2RF2)|2|[@hubschmannMutationalMechanismsShaping2021b]||
+|[NR2F2](N2RF2)|2|[@hubschmannMutationalMechanismsShaping2021b]||
 |[NANOG](NANOG)|2|[@chapuyMolecularSubtypesDiffuse2018b]||
 |[NAV1](NAV1)|2|[@chapuyMolecularSubtypesDiffuse2018b]||
 |[NCOA3](NCOA3)|2, aSHM|||
