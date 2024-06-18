@@ -56,7 +56,6 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/R
 [SP59408](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP59408.html)
 [SP116726](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP116726.html)
 [SP59444](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP59444.html)
-[SP59404](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP59404.html)
 [SP124969](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP124969.html)
 [SP124979](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP124979.html)
 
