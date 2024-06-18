@@ -44,7 +44,6 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/F
 ## All Mutations
 
 [SP194077](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP194077.html)
-[SP193004](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP193004.html)
 [SP193650](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP193650.html)
 
 ## References

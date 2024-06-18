@@ -25,7 +25,6 @@ timeline
 ## All Mutations
 
 [SP116676](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP116676.html)
-[SP193004](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP193004.html)
 [SP193375](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP193375.html)
 [SP194134](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP194134.html)
 
