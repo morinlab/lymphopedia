@@ -64,7 +64,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/W
 
 ## All Mutations
 
-### DLBCL</sup>2</sup>
+### DLBCL<sup>2</sup>
 
 [SP192988](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP192988.html)
 [SP193025](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP193025.html)
