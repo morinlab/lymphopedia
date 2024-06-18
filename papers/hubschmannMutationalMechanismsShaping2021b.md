@@ -6,10 +6,11 @@ bibliography: 'morinlab.bib'
 # @hubschmannMutationalMechanismsShaping2021b
 ## Summary of novel genes
 
-|Entity| Tier 1 genes| Tier 2 genes|
-|:-:|:-:|:-:|
-|FL|2|15|
-|DLBCL|3|23|
+|Entity| Total| Tier 1| Tier 2| Tier 2 Pass| Tier 2 Fail| Fail rate |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|DLBCL or FL|38|4|34|31|3| 9% |
+
+
 ```mermaid
 ---
 config:
@@ -23,12 +24,10 @@ config:
         suffix: ' genes)'
 ---
 sankey-beta
-This study, New Tier 1, 3
-New Tier 1, DLBCL Tier 1, 3
-This study, New Tier 2, 23
-New Tier 2, DLBCL Tier 2, 23
-All other DLBCL studies, DLBCL Tier 1, 125
-All other DLBCL studies, DLBCL Tier 2, 175
+New to this study, FL or DLBCL Tier 1, 4
+New to this study, FL or DLBCL Tier 2, 34
+FL or DLBCL Tier 2, Pass QC, 31
+FL or DLBCL Tier 2, Fail QC, 3
 ```
 
 ## Novel genes reported in this study
@@ -55,7 +54,6 @@ All other DLBCL studies, DLBCL Tier 2, 175
 |[DHX16](../DHX16)| |2 |&starf; &starf; &starf; &starf; &star;|**Pass**|
 |[DNM2](../DNM2)| |2 |&starf; &starf; &starf; &star; &star;|**Pass**|
 |[FZR1](../FZR1)|2 | |&starf; &starf; &starf; &star; &star;|**Pass**|
-|[HLA-DQA1](../HLA-DQA1)| |2 |&starf; &starf;&star; &star; &star;|**Fail**|
 |[IKBKE](../IKBKE)| |2 |&starf; &starf; &starf; &starf; &star;|**Pass**|
 |[IRF1](../IRF1)| |2 |&starf; &starf; &starf; &star; &star;|**Pass**|
 |[JUP](../JUP)|2 | |&starf; &starf; &starf; &starf; &star;|**Pass**|
@@ -76,6 +74,7 @@ All other DLBCL studies, DLBCL Tier 2, 175
 |[UNC5B](../UNC5B)| |2 |&starf; &starf; &starf; &star; &star;|**Pass**|
 |[WNK1](../WNK1)| |2 |&starf; &starf; &starf; &star; &star;|**Pass**|
 |[ZNF217](../ZNF217)| |2 |&starf; &starf; &starf; &star; &star;|**Pass**|
+|[HLA-DQA1](../HLA-DQA1)| |2 |&starf; &starf;&star; &star; &star;|**Fail**|
 |[GAK](../GAK)| |2 |&starf; &starf; &star; &star; &star;|**Fail**|
 |[NR2F2](../NR2F2)| |2 |&starf; &starf; &star; &star; &star;|**Fail**|
 
