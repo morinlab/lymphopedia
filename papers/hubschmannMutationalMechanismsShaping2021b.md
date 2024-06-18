@@ -48,7 +48,7 @@ All other DLBCL studies, DLBCL Tier 2, 175
 |[ANKRD12](../ANKRD12)| |2 |&starf; &starf; &starf; &star; &star; | **Pass** |
 |[ATP6V1A](../ATP6V1A)|2 | |&starf; &starf; &starf; &starf; &star; | **Pass** |
 |[CADPS2](../CADPS2)| |2 |&starf; &starf; &starf; &starf; &star; | **Pass** |
-|[CDC42BPB](../CDC42BPB)|2 | |&starf; &starf; &starf &star; &star;|**Pass**|
+|[CDC42BPB](../CDC42BPB)|2 | |&starf; &starf; &starf; &star; &star;|**Pass**|
 |[CNOT2](../CNOT2)| |2 |&starf; &starf; &starf; &starf; &star;|**Pass**|
 |[CPNE8](../CPNE8)|2 | |&starf; &starf; &starf; &starf; &star;|**Pass**|
 |[DHX15](../DHX15)|2 | |&starf; &starf; &starf; &starf; &star;|**Pass**|
@@ -59,10 +59,10 @@ All other DLBCL studies, DLBCL Tier 2, 175
 |[IKBKE](../IKBKE)| |2 |&starf; &starf; &starf; &starf; &star;|**Pass**|
 |[IRF1](../IRF1)| |2 |&starf; &starf; &starf; &star; &star;|**Pass**|
 |[JUP](../JUP)|2 | |&starf; &starf; &starf; &starf; &star;|**Pass**|
-|[LAPTM5](../LAPTM5)|2 |2 |&starf; &starf; &starf &starf; &star;|**Pass**|
+|[LAPTM5](../LAPTM5)|2 |2 |&starf; &starf; &starf; &starf; &star;|**Pass**|
 |[LRP12](../LRP12)| |2 |&starf; &starf; &starf; &star; &star;|**Pass**|
 |[MGEA5](../MGEA5)|2 | |&starf; &starf; &starf; &star; &star;|**Pass**|
-|[MYCBP2](../MYCBP2)|2 | |&starf; &starf; &starf &starf; &star;|**Pass**|
+|[MYCBP2](../MYCBP2)|2 | |&starf; &starf; &starf; &starf; &star;|**Pass**|
 |[N2RF2](../N2RF2)| |2 |||
 |[PDS5B](../PDS5B)|2 |2 |||
 |[PNPO](../PNPO)| |2 |||
