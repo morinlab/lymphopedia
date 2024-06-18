@@ -69,10 +69,10 @@ All other DLBCL studies, DLBCL Tier 2, 175
 |[PRKDC](../PRKDC)|2 |2 |&starf; &starf; &starf; &star; &star;|**Pass**|
 |[RAC2](../RAC2)| |2 |&starf; &starf; &starf; &star; &star;|**Pass**|
 |[RBM6](../RBM6)|2 | |&starf; &starf; &starf; &star; &star;|**Pass**|
-|[SIAH2](../SIAH2)| |2 |||
-|[SLC34A2](../SLC34A2)| |2 |||
-|[TPP1](../TPP1)|2 | |||
-|[TRAF6](../TRAF6)| |2 |||
+|[SIAH2](../SIAH2)| |2 |&starf; &starf; &starf; &star; &star;|**Pass**|
+|[SLC34A2](../SLC34A2)| |2 |&starf; &starf; &starf; &star; &star;|**Pass**|
+|[TPP1](../TPP1)|2 | |&starf; &starf; &starf; &star; &star;|**Pass**|
+|[TRAF6](../TRAF6)| |2 |&starf; &starf; &starf; &star; &star;|**Pass**|
 |[UNC5B](../UNC5B)| |2 |||
 |[WNK1](../WNK1)| |2 |||
 |[ZNF217](../ZNF217)| |2 |||
