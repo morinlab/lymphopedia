@@ -55,7 +55,7 @@ All other DLBCL studies, DLBCL Tier 2, 175
 |[DHX16](../DHX16)| |2 |&starf; &starf; &starf; &starf; &star;|**Pass**|
 |[DNM2](../DNM2)| |2 |&starf; &starf; &starf; &star; &star;|**Pass**|
 |[FZR1](../FZR1)|2 | |&starf; &starf; &starf; &star; &star;|**Pass**|
-|[HLA-DQA1](../HLA-DQA1)| |2 |||
+|[HLA-DQA1](../HLA-DQA1)| |2 |&starf; &starf;&star; &star; &star;|**Fail**|
 |[IKBKE](../IKBKE)| |2 |&starf; &starf; &starf; &starf; &star;|**Pass**|
 |[IRF1](../IRF1)| |2 |&starf; &starf; &starf; &star; &star;|**Pass**|
 |[JUP](../JUP)|2 | |&starf; &starf; &starf; &starf; &star;|**Pass**|
