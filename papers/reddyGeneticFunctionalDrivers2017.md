@@ -8,7 +8,7 @@ bibliography: 'morinlab.bib'
 
 |Entity| Total| Tier 1| Tier 2| Tier 2 Pass| Tier 2 Fail|Fail rate |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|DLBCL|60| 8|52|23|29|44%|
+|DLBCL|60| 8|52|23|29|56%|
 
 ```mermaid
 ---
