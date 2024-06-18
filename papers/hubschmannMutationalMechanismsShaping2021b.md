@@ -57,11 +57,11 @@ All other DLBCL studies, DLBCL Tier 2, 175
 |[FZR1](../FZR1)|2 | |&starf; &starf; &starf; &star; &star;|**Pass**|
 |[HLA-DQA1](../HLA-DQA1)| |2 |||
 |[IKBKE](../IKBKE)| |2 |&starf; &starf; &starf; &starf; &star;|**Pass**|
-|[IRF1](../IRF1)| |2 |&starf; &starf; &starf &star; &star;|**Pass**|
-|[JUP](../JUP)|2 | |&starf; &starf; &starf &starf; &star;|**Pass**|
+|[IRF1](../IRF1)| |2 |&starf; &starf; &starf; &star; &star;|**Pass**|
+|[JUP](../JUP)|2 | |&starf; &starf; &starf; &starf; &star;|**Pass**|
 |[LAPTM5](../LAPTM5)|2 |2 |&starf; &starf; &starf &starf; &star;|**Pass**|
-|[LRP12](../LRP12)| |2 |&starf; &starf; &starf &star; &star;|**Pass**|
-|[MGEA5](../MGEA5)|2 | |||
+|[LRP12](../LRP12)| |2 |&starf; &starf; &starf; &star; &star;|**Pass**|
+|[MGEA5](../MGEA5)|2 | |&starf; &starf; &starf; &star; &star;|**Pass**|
 |[MYCBP2](../MYCBP2)|2 | |||
 |[N2RF2](../N2RF2)| |2 |||
 |[PDS5B](../PDS5B)|2 |2 |||
