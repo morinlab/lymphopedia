@@ -54,12 +54,11 @@ All other DLBCL studies, DLBCL Tier 2, 175
 |[DHX15](../DHX15)|2 | |&starf; &starf; &starf; &starf; &star;|**Pass**|
 |[DHX16](../DHX16)| |2 |&starf; &starf; &starf; &starf; &star;|**Pass**|
 |[DNM2](../DNM2)| |2 |&starf; &starf; &starf; &star; &star;|**Pass**|
-|[FZR1](../FZR1)|2 | |||
-|[GAK](../GAK)| |2 |||
+|[FZR1](../FZR1)|2 | |&starf; &starf; &starf; &star; &star;|**Pass**|
 |[HLA-DQA1](../HLA-DQA1)| |2 |||
-|[IKBKE](../IKBKE)| |2 |||
-|[IRF1](../IRF1)| |2 |||
-|[JUP](../JUP)|2 | |||
+|[IKBKE](../IKBKE)| |2 |&starf; &starf; &starf; &starf; &star;|**Pass**|
+|[IRF1](../IRF1)| |2 |&starf; &starf; &starf &star; &star;|**Pass**|
+|[JUP](../JUP)|2 | |&starf; &starf; &starf &starf; &star;|**Pass**|
 |[LAPTM5](../LAPTM5)|2 |2 |||
 |[LRP12](../LRP12)| |2 |||
 |[MGEA5](../MGEA5)|2 | |||
@@ -78,7 +77,7 @@ All other DLBCL studies, DLBCL Tier 2, 175
 |[UNC5B](../UNC5B)| |2 |||
 |[WNK1](../WNK1)| |2 |||
 |[ZNF217](../ZNF217)| |2 |||
-
+|[GAK](../GAK)| |2 |&starf; &starf; &star; &star; &star;|**Fail**|
 
 # Details
 
