@@ -11,7 +11,7 @@ link-citations: true
 
 ## Tier 1 DLBCL genes
 
-### *128 total*
+### *129 total*
 
 |Gene|Tier| First DLBCL evidence | Other entities |
 |:-:|:-:|:-|:-|
@@ -30,6 +30,7 @@ link-citations: true
 |[BTG2](BTG2)|1, aSHM|[@morinFrequentMutationHistonemodifying2011]|[@loveGeneticLandscapeMutations2012]|
 |[BTK](BTK)|1|[@albuquerqueEnhancingKnowledgeDiscovery2017a]|[@krysiakRecurrentSomaticMutations2017b]|
 |[CARD11](CARD11)|1|[@lenzOncogenicCARD11Mutations2008]|[@yanBCRTLRSignaling2012a; @wuGeneticHeterogeneityPrimary2016; @morinFrequentMutationHistonemodifying2011; @paneaWholeGenomeLandscape2019]|
+|[CASP8](CASP8)|2|[@reddyGeneticFunctionalDrivers2017]||
 |[CCND3](CCND3)|1|[@morinFrequentMutationHistonemodifying2011]|[@deschGenotypingCirculatingTumor2020; @jalladesExomeSequencingIdentifies2017; @richterRecurrentMutationID32012a]|
 |[CD58](CD58)|1|[@morinFrequentMutationHistonemodifying2011]|[@schneiderAlterationsCD58Gene2015a]|
 |[CD70](CD70)|1|[@morinFrequentMutationHistonemodifying2011]|[@russler-germainMutationsAssociatedProgression2023b]|
@@ -146,7 +147,7 @@ link-citations: true
 
 ## Tier 2 DLBCL genes
 
-### *198 total*
+### *197 total*
 
 |Gene|Tier| First DLBCL evidence | Other entities |
 |:-:|:-:|:-|:-|
@@ -166,7 +167,6 @@ link-citations: true
 |[BRINP3](BRINP3)|2|[@reddyGeneticFunctionalDrivers2017]||
 |[BTBD3](BTBD3)|2|[@reddyGeneticFunctionalDrivers2017]||
 |[CADPS2](CADPS2)|2|[@hubschmannMutationalMechanismsShaping2021b]||
-|[CASP8](CASP8)|2|[@reddyGeneticFunctionalDrivers2017]||
 |[CBLB](CBLB)|2|[@reddyGeneticFunctionalDrivers2017]||
 |[CCL4](CCL4)|2|[@chapuyMolecularSubtypesDiffuse2018b]||
 |[CD22](CD22)|2|[@reddyGeneticFunctionalDrivers2017]||
