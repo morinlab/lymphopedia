@@ -46,7 +46,7 @@ All other DLBCL studies, DLBCL Tier 2, 175
 |:-|:-:|:-:|:-:|:-:|
 |[ADAMTS1](../ADAMTS1)| |2 |&starf; &starf; &starf; &star; &star; | *Pass* |
 |[ANKRD12](../ANKRD12)| |2 |&starf; &starf; &starf; &star; &star; | *Pass* |
-|[ATP6V1A](../ATP6V1A)|2 |&starf; &starf; &starf; &starf; &star; | *Pass* |
+|[ATP6V1A](../ATP6V1A)|2 | |&starf; &starf; &starf; &starf; &star; | *Pass* |
 |[CADPS2](../CADPS2)| |2 |&starf; &starf; &starf; &starf; &star; | *Pass* |
 |[CCDC42BPB](../CCDC42BPB)|2 | |||
 |[CNOT2](../CNOT2)| |2 |||
