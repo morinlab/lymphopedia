@@ -1,3 +1,8 @@
+---
+bibliography: 'morinlab.bib'
+csl: 'NLM.csl'
+link-citations: true
+---
 # IKZF3
 
 ## Overview
@@ -16,8 +21,8 @@ timeline
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|![BL](images/icons/BL_tier2.png)    |2-a | aSHM target; Although recurrent, the relevance of mutations in BL is tenuous |
-|![DLBCL](images/icons/DLBCL_tier1.png) |1-a | aSHM target and high-confidence DLBCL gene            |
+|![BL](images/icons/BL_tier2.png)    |2-a | aSHM target; Although recurrent, the relevance of mutations in BL is tenuous [@paneaWholeGenomeLandscape2019]|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1-a | aSHM target and high-confidence DLBCL gene            [@morinMutationalStructuralAnalysis2013]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -77,10 +82,12 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/I
 
 ![](images/proteinpaint/IKZF3.svg)
 
-## References
-1. *Lazarian, G., Yin, S., Hacken, E., Sewastianik, T., Uduman, M., Font-Tello, A., Gohil, S., Li, S., Kim, E., Joyal, H., Billington, L., Witten, E., Zheng, M., Huang, T., Severgnini, M., Lefebvre, V., Rassenti, L., Gutierrez, C., Georgopoulos, K., Ott, C., Wang, L., Kipps, T., Burger, J., Livak, K., Neuberg, D., Baran-Marszak, F., Cymbalista, F., Carrasco, R., & Wu, C. (2021). A hotspot mutation in transcription factor IKZF3 drives B cell neoplasia via transcriptional dysregulation.. Cancer cell, 39 3, 380-393.e8 . https://doi.org/10.1016/j.ccell.2021.02.003.*
 ## IKZF3 Expression
 ![](images/gene_expression/IKZF3_by_pathology.svg)
+
+## References
+1. *Lazarian, G., Yin, S., Hacken, E., Sewastianik, T., Uduman, M., Font-Tello, A., Gohil, S., Li, S., Kim, E., Joyal, H., Billington, L., Witten, E., Zheng, M., Huang, T., Severgnini, M., Lefebvre, V., Rassenti, L., Gutierrez, C., Georgopoulos, K., Ott, C., Wang, L., Kipps, T., Burger, J., Livak, K., Neuberg, D., Baran-Marszak, F., Cymbalista, F., Carrasco, R., & Wu, C. (2021). A hotspot mutation in transcription factor IKZF3 drives B cell neoplasia via transcriptional dysregulation.. Cancer cell, 39 3, 380-393.e8 . https://doi.org/10.1016/j.ccell.2021.02.003.*
+
 <!-- ORIGIN: morinMutationalStructuralAnalysis2013 -->
 <!-- DLBCL: morinMutationalStructuralAnalysis2013 -->
 <!-- BL: paneaWholeGenomeLandscape2019 -->
