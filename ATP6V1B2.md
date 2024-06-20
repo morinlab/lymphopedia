@@ -1,3 +1,8 @@
+---
+bibliography: 'morinlab.bib'
+csl: 'NLM.csl'
+link-citations: true
+---
 # ATP6V1B2
 
 ## History
@@ -12,7 +17,7 @@ timeline
 
 |Entity|Tier|Description            |
 |:------:|:----:|-----------------------|
-|![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene|
+|![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene[@okosunRecurrentMTORC1activatingRRAGC2016a]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -51,4 +56,3 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/A
 <!-- FL: okosunRecurrentMTORC1activatingRRAGC2016a -->
 
 ## References
-1.  Okosun J, Wolfson RL, Wang J, Araf S, Wilkins L, Castellano BM, Escudero-Ibarz L, Al Seraihi AF, Richter J, Bernhart SH, Efeyan A, Iqbal S, Matthews J, Clear A, Guerra-Assunção JA, Bödör C, Quentmeier H, Mansbridge C, Johnson P, Davies A, Strefford JC, Packham G, Barrans S, Jack A, Du MQ, Calaminici M, Lister TA, Auer R, Montoto S, Gribben JG, Siebert R, Chelala C, Zoncu R, Sabatini DM, Fitzgibbon J. Recurrent mTORC1-activating RRAGC mutations in follicular lymphoma. Nat Genet. 2016 Feb;48(2):183–188. PMCID: PMC4731318

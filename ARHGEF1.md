@@ -1,3 +1,8 @@
+---
+bibliography: 'morinlab.bib'
+csl: 'NLM.csl'
+link-citations: true
+---
 # ARHGEF1
 
 ## History
@@ -12,7 +17,7 @@ timeline
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|![BL](images/icons/BL_tier2.png)    |2   |relevance in BL not firmly established|
+|![BL](images/icons/BL_tier2.png)    |2   |relevance in BL not firmly established[@muppidiLossSignalingGa132014b]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -47,4 +52,3 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/A
 <!-- BL: muppidiLossSignalingGa132014b -->
 
 ## References
-1.  Muppidi J, Schmitz R, Green JA, Green JA, Xiao W, Larsen AB, Braun S, An J, Xu Y, Rosenwald A, Ott G, Gascoyne R, Rimsza L, Campo E, Jaffe E, Delabie J, Smeland E, Braziel R, Tubbs R, Cook J, Weisenburger D, Chan W, Vaidehi N, Staudt L, Cyster J. Loss of signaling via Gα13 in germinal center B cell-derived lymphoma. Nature. 2014;516:254–258. 
