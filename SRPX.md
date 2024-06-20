@@ -1,0 +1,39 @@
+---
+bibliography: 'morinlab.bib'
+csl: 'NLM.csl'
+link-citations: true
+---
+
+# SRPX
+
+## History
+
+```mermaid
+%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
+timeline
+    title Publication timing
+      2012-03-06 : Lohr : DLBCL
+```
+
+
+## Relevance tier by entity
+
+|Entity|Tier|Description|
+|:------:|:----:|--------------------------------------|
+|![DLBCL](images/icons/DLBCL_tier2.png)|2|relevance in DLBCL not firmly established[@lohrDiscoveryPrioritizationSomatic2012a]|
+
+
+## Mutation incidence in large patient cohorts (GAMBL reanalysis)
+
+|Entity|source |frequency (%)|
+|:------:|:----:|:----:|
+|BL|GAMBL Exome |1.149 |
+|BL|GAMBL Genome |0.386 |
+|DLBCL|GAMBL Exome |0.701 |
+|DLBCL|GAMBL Genome |0.94 |
+|FL|GAMBL Exome |0.287 |
+
+
+## References
+
+

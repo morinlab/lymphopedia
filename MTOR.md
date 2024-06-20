@@ -1,8 +1,13 @@
+---
+bibliography: 'morinlab.bib'
+csl: 'NLM.csl'
+link-citations: true
+---
 # MTOR
 
 ## Overview
 
-Although mutations in MTOR have been reported in DLBCL<sup>1</sup> and some BL, their role in lymphomagenesis has not been thoroughly studied. 
+Although mutations in MTOR have been reported in DLBCL and some BL, their role in lymphomagenesis has not been thoroughly studied. 
 
 ## History
 ```mermaid
@@ -17,8 +22,8 @@ timeline
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|![BL](images/icons/BL_tier2.png)    |2-F   |Failed QC|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            |
+|![BL](images/icons/BL_tier2.png)    |2-F   |Failed QC[@paneaWholeGenomeLandscape2019]|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene[@zhangGeneticHeterogeneityDiffuse2013]      |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -75,6 +80,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/M
 
 ## References
 
-1. *Zhang J, Grubor V, Love CL, Banerjee A, Richards KL, Mieczkowski PA, Dunphy C, Choi W, Au WY, Srivastava G, Lugar PL, Rizzieri DA, Lagoo AS, Bernal-Mizrachi L, Mann KP, Flowers C, Naresh K, Evens A, Gordon LI, Czader M, Gill JI, Hsi ED, Liu Q, Fan A, Walsh K, Jima D, Smith LL, Johnson AJ, Byrd JC, Luftig MA, Ni T, Zhu J, Chadburn A, Levy S, Dunson D, Dave SS. Genetic heterogeneity of diffuse large B-cell lymphoma. Proc Natl Acad Sci U S A. 2013 Jan 22;110(4):1398-403. doi: 10.1073/pnas.1205299110. Epub 2013 Jan 4. PMID: 23292937; PMCID: PMC3557051.*<!-- ORIGIN: zhangGeneticHeterogeneityDiffuse2013 -->
+
+<!-- ORIGIN: zhangGeneticHeterogeneityDiffuse2013 -->
 <!-- DLBCL: zhangGeneticHeterogeneityDiffuse2013 -->
 <!-- BL: paneaWholeGenomeLandscape2019 -->
