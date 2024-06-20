@@ -1,0 +1,39 @@
+---
+bibliography: 'morinlab.bib'
+csl: 'NLM.csl'
+link-citations: true
+---
+
+# GPS2
+
+## History
+
+```mermaid
+%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
+timeline
+    title Publication timing
+      2012-08-27 : Rossi : MZL
+```
+
+
+## Relevance tier by entity
+
+|Entity|Tier|Description|
+|:------:|:----:|--------------------------------------|
+|![MZL](images/icons/MZL_tier2.png)|2|relevance in MZL not firmly established[@rossiCodingGenomeSplenic2012c]|
+
+
+## Mutation incidence in large patient cohorts (GAMBL reanalysis)
+
+|Entity|source |frequency (%)|
+|:------:|:----:|:----:|
+|BL|GAMBL Exome |1.724 |
+|BL|GAMBL Genome |0.772 |
+|DLBCL|GAMBL Exome |0.647 |
+|DLBCL|GAMBL Genome |2.256 |
+|FL|GAMBL Exome |0.573 |
+
+
+## References
+
+
