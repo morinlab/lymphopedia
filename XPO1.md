@@ -1,3 +1,9 @@
+---
+bibliography: 'morinlab.bib'
+csl: 'NLM.csl'
+link-citations: true
+---
+
 # XPO1
 
 ## History
@@ -13,8 +19,8 @@ timeline
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
-|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene|
+|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene[@jardinRecurrentMutationsExportin2016a]|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene[@mareschalWholeExomeSequencing2016]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -56,5 +62,3 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/X
 <!-- PMBL: jardinRecurrentMutationsExportin2016a -->
 
 ## References
-1.  Mareschal S, Dubois S, Viailly PJ, Bertrand P, Bohers E, Maingonnat C, Jaïs JP, Tesson B, Ruminy P, Peyrouze P, Copie-Bergman C, Fest T, Jo Molina T, Haioun C, Salles G, Tilly H, Lecroq T, Leroy K, Jardin F. Whole exome sequencing of relapsed/refractory patients expands the repertoire of somatic mutations in diffuse large B-cell lymphoma. Genes Chromosomes Cancer. 2016 Mar;55(3):251–267. PMID: 26608593
-2.  Jardin F, Pujals A, Pelletier L, Bohers E, Camus V, Mareschal S, Dubois S, Sola B, Ochmann M, Lemonnier F, Viailly PJ, Bertrand P, Maingonnat C, Traverse-Glehen A, Gaulard P, Damotte D, Delarue R, Haioun C, Argueta C, Landesman Y, Salles G, Jais JP, Figeac M, Copie-Bergman C, Molina TJ, Picquenot JM, Cornic M, Fest T, Milpied N, Lemasle E, Stamatoullas A, Moeller P, Dyer MJS, Sundstrom C, Bastard C, Tilly H, Leroy K. Recurrent mutations of the exportin 1 gene (XPO1) and their impact on selective inhibitor of nuclear export compounds sensitivity in primary mediastinal B-cell lymphoma. Am J Hematol. 2016 Sep;91(9):923–930. PMID: 27312795
