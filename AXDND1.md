@@ -1,0 +1,39 @@
+---
+bibliography: 'morinlab.bib'
+csl: 'NLM.csl'
+link-citations: true
+---
+
+# AXDND1
+
+## History
+
+```mermaid
+%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
+timeline
+    title Publication timing
+      2023-11-15 : Gomez : PMBL
+```
+
+
+## Relevance tier by entity
+
+|Entity|Tier|Description|
+|:------:|:----:|--------------------------------------|
+|![PMBL](images/icons/PMBL_tier2.png)|2|relevance in PMBL/cHL/GZL not firmly established[@gomezUltraDeepSequencingReveals2023]|
+
+
+## Mutation incidence in large patient cohorts (GAMBL reanalysis)
+
+|Entity|source |frequency (%)|
+|:------:|:----:|:----:|
+|BL|GAMBL Exome |1.724 |
+|BL|GAMBL Genome |1.158 |
+|DLBCL|GAMBL Exome |0.863 |
+|DLBCL|GAMBL Genome |1.128 |
+|MCL|GAMBL Genome |1.17 |
+
+
+## References
+
+

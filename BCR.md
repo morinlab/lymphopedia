@@ -1,10 +1,28 @@
+---
+bibliography: 'morinlab.bib'
+csl: 'NLM.csl'
+link-citations: true
+---
+
+## Overview
+
 BCR (Breakpoint Cluster Region Protein) is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus. This gene has some recurrent sites of mutations (hot spots). 
+
+## History
+
+```mermaid
+%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
+timeline
+    title Publication timing
+      2012-03-06 : Lohr : DLBCL
+```
+
 
 ## Relevance tier by entity
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1-a | aSHM target and high-confidence DLBCL gene            |
+|![DLBCL](images/icons/DLBCL_tier1.png) |1-a | aSHM target and high-confidence DLBCL gene            [@lohrDiscoveryPrioritizationSomatic2012a]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

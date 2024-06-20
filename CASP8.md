@@ -1,9 +1,13 @@
+---
+bibliography: 'morinlab.bib'
+csl: 'NLM.csl'
+link-citations: true
+---
 # CASP8
 
 ## Overview
 
-Caspase-8 mutations are relatively rare but have been documented in various non-Hodgkin lymphomas (NHLs). One study found no CASP8 mutations in gastrointestinal lymphomas, suggesting that these mutations may not be prevalent in all lymphoma types.<sup>1</sup> Due to the rarity of these mutations, their role remains poorly understood. Loss of caspase-8 may promote lymphomagenesis by impairing cytokinesis and increasing chromosomal aberrations.<sup>2</sup> 
-
+Caspase-8 mutations are relatively rare but have been documented in various non-Hodgkin lymphomas (NHLs). One study found no CASP8 mutations in gastrointestinal lymphomas, suggesting that these mutations may not be prevalent in all lymphoma types. Due to the rarity of these mutations, their role remains poorly understood. Loss of caspase-8 may promote lymphomagenesis by impairing cytokinesis and increasing chromosomal aberrations.
 ## History
 Mutations in this gene were first described in DLBCL in 2017 by Reddy et al.<sup>1</sup>
 
@@ -18,7 +22,7 @@ timeline
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene[@reddyGeneticFunctionalDrivers2017]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -52,11 +56,6 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/C
 ![](images/gene_expression/CASP8_by_pathology.svg)
 
 ## References
-
-1. *Yoo NJ, Soung YH, Lee SH, Kim KM, Lee SH. Absence of CASP7 and CASP8 mutation in gastrointestinal lymphomas. Eur J Haematol. 2007 Jul;79(1):86-7. doi: 10.1111/j.1600-0609.2007.00865.x. Epub 2007 May 28. PMID: 17532763.*
-2. *Hakem A, El Ghamrasni S, Maire G, Lemmers B, Karaskova J, Jurisicova A, Sanchez O, Squire J, Hakem R. Caspase-8 is essential for maintaining chromosomal stability and suppressing B-cell lymphomagenesis. Blood. 2012 Apr 12;119(15):3495-502. doi: 10.1182/blood-2011-07-367532. Epub 2012 Feb 16. PMID: 22343728.*
-3. *Reddy A, Zhang J, Davis NS, Moffitt AB, Love CL, Waldrop A, Leppa S, Pasanen A, Meriranta L, Karjalainen-Lindsberg ML, Nørgaard P, Pedersen M, Gang AO, Høgdall E, Heavican TB, Lone W, Iqbal J, Qin Q, Li G, Kim SY, Healy J, Richards KL, Fedoriw Y, Bernal-Mizrachi L, Koff JL, Staton AD, Flowers CR, Paltiel O, Goldschmidt N, Calaminici M, Clear A, Gribben J, Nguyen E, Czader MB, Ondrejka SL, Collie A, Hsi ED, Tse E, Au-Yeung RKH, Kwong YL, Srivastava G, Choi WWL, Evens AM, Pilichowska M, Sengar M, Reddy N, Li S, Chadburn A, Gordon LI, Jaffe ES, Levy S, Rempel R, Tzeng T, Happ LE, Dave T, Rajagopalan D, Datta J, Dunson DB, Dave SS. Genetic and Functional Drivers of Diffuse Large B Cell Lymphoma. Cell. 2017 Oct;171(2):481-494.e15.* 
-
 
 
 <!-- ORIGIN: reddyGeneticFunctionalDrivers2017 -->

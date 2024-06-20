@@ -1,7 +1,14 @@
+---
+bibliography: 'morinlab.bib'
+csl: 'NLM.csl'
+link-citations: true
+---
 # BTG1
 
 ## Overview
-BTG1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus. These mutations are a feature of the MCD genetic subgroup of DLBCL.<sup>1</sup>  Mutations in the BTG1 gene have been implicated in the pathogenesis and progression of diffuse large B-cell lymphoma (DLBCL) through functional exploration in vivo. Knock-out of BTG1 did not lead to spontaneous lymphomagenesis but enhanced the lymphoproliferation induced by VavP-BCL2 and promoted lymphoma dissemination in xenotransplantation experiments.<sup>2</sup>  Another study demonstrated that specific BTG1 mutations afford germinal center (GC) B cells with a fitness advantage relative to un-mutated counterparts.<sup>3</sup> 
+BTG1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus. These mutations are a feature of the MCD genetic subgroup of DLBCL.  
+Mutations in the BTG1 gene have been implicated in the pathogenesis and progression of diffuse large B-cell lymphoma (DLBCL) through functional exploration in vivo. Knock-out of BTG1 did not lead to spontaneous lymphomagenesis but enhanced the lymphoproliferation induced by VavP-BCL2 and promoted lymphoma dissemination in xenotransplantation experiments.
+Another study demonstrated that specific BTG1 mutations afford germinal center (GC) B cells with a fitness advantage relative to un-mutated counterparts.
 
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
@@ -17,10 +24,10 @@ timeline
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
 |![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene|
-|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1-a | aSHM target and high-confidence DLBCL gene            |
+|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene[@sarkozyMutationalLandscapeGray2021a]|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1-a | aSHM target and high-confidence DLBCL gene            [@morinFrequentMutationHistonemodifying2011]|
 |![FL](images/icons/FL_tier1.png)    |1-a | aSHM target and high-confidence FL gene               |
-|![BL](images/icons/BL_tier2.png)    |2-a | aSHM target; Although recurrent, the relevance of mutations in BL is tenuous |
+|![BL](images/icons/BL_tier2.png)    |2-a | aSHM target; Although recurrent, the relevance of mutations in BL is tenuous [@burkhardtClinicalRelevanceMolecular2022b]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
