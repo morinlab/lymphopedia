@@ -1,3 +1,8 @@
+---
+bibliography: 'morinlab.bib'
+csl: 'NLM.csl'
+link-citations: true
+---
 # CCNF
 
 ## History
@@ -12,7 +17,7 @@ timeline
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|![BL](images/icons/BL_tier2.png)    |2   |relevance in BL not firmly established|
+|![BL](images/icons/BL_tier2.png)    |2   |relevance in BL not firmly established[@abateDistinctViralMutational2015a]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -45,4 +50,3 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/C
 <!-- BL: abateDistinctViralMutational2015a -->
 
 ## References
-1.  Abate F, Ambrosio M, Mundo L, Laginestra M, Fuligni F, Rossi M, Zairis S, Gazaneo S, Falco GD, Lazzi S, Bellan C, Rocca BJ, Amato T, Marasco E, Etebari M, Ogwang M, Calbi V, Ndede I, Patel K, Chumba D, Piccaluga P, Pileri S, Leoncini L, Rabadán R. Distinct Viral and Mutational Spectrum of Endemic Burkitt Lymphoma. PLoS Pathogens. 2015;11. 
