@@ -1,3 +1,8 @@
+---
+bibliography: 'morinlab.bib'
+csl: 'NLM.csl'
+link-citations: true
+---
 # NFKBIE
 
 ## Overview
@@ -18,9 +23,9 @@ timeline
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
-|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene|
-|![MCL](images/icons/MCL_tier1.png)   |1   |high-confidence MCL gene  |
+|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene[@mansouriFrequentNFKBIEDeletions2016]|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene[@morinGeneticLandscapesRelapsed2016]|
+|![MCL](images/icons/MCL_tier1.png)   |1   |high-confidence MCL gene  [@pararajalingamCodingNoncodingDrivers2020]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -55,8 +60,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/N
 ![](images/gene_expression/NFKBIE_by_pathology.svg)
 
 ## References
-1. *Mansouri, L., Noerenberg, D., Young, E., Mylonas, E., Abdulla, M., Frick, M., Asmar, F., Ljungström, V., Schneider, M., Yoshida, K., Skaftason, A., Pandzic, T., González, B., Tasidou, A., Waldhueter, N., Rivas-Delgado, A., Angelopoulou, M., Ziepert, M., Arends, C., Couronné, L., Lenze, D., Baldus, C., Bastard, C., Okosun, J., Fitzgibbon, J., Dörken, B., Drexler, H., Roos-Weil, D., Schmitt, C., Munch-Petersen, H., Zenz, T., Hansmann, M., Strefford, J., Enblad, G., Bernard, O., Ralfkiaer, E., Erlanson, M., Korkolopoulou, P., Hultdin, M., Papadaki, T., Grønbæk, K., López-Guillermo, A., Ogawa, S., Küppers, R., Stamatopoulos, K., Stavroyianni, N., Kanellis, G., Rosenwald, A., Campo, E., Amini, R., Ott, G., Vassilakopoulos, T., Hummel, M., Rosenquist, R., & Damm, F. (2016). Frequent NFKBIE deletions are associated with poor outcome in primary mediastinal B-cell lymphoma.. Blood, 128 23, 2666-2670 . https://doi.org/10.1182/BLOOD-2016-03-704528.*
-2. *Pararajalingam P, Coyle KM, Arthur SE, Thomas N, Alcaide M, Meissner B, Boyle M, Qureshi Q, Grande BM, Rushton C, Slack GW, Mungall AJ, Tam CS, Agarwal R, Dawson SJ, Lenz G, Balasubramanian S, Gascoyne RD, Steidl C, Connors J, Villa D, Audas TE, Marra MA, Johnson NA, Scott DW, Morin RD. Coding and noncoding drivers of mantle cell lymphoma identified through exome and genome sequencing. Blood. 2020 Jul 30;136(5):572-584. doi: 10.1182/blood.2019002385. PMID: 32160292; PMCID: PMC7440974.*<!-- ORIGIN: morinGeneticLandscapesRelapsed2016 -->
+<!-- ORIGIN: morinGeneticLandscapesRelapsed2016 -->
 <!-- DLBCL: morinGeneticLandscapesRelapsed2016 -->
 <!-- MCL: pararajalingamCodingNoncodingDrivers2020 -->
 <!-- PMBL: mansouriFrequentNFKBIEDeletions2016 -->
