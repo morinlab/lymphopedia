@@ -181,7 +181,7 @@ MCL-exome, Zhang 2014, 28
 |[@morinMutationalStructuralAnalysis2013](papers/morinMutationalStructuralAnalysis2013)|DLBCL|11|TBD|
 |[@reddyGeneticFunctionalDrivers2017](papers/reddyGeneticFunctionalDrivers2017)|DLBCL|7|29 (56%)|
 |[@paneaWholeGenomeLandscape2019](papers/paneaWholeGenomeLandscape2019)|BL|4|22 (55%)|
-|[@hubschmannMutationalMechanismsShaping2021b](papers/hubschmannMutationalMechanismsShaping2021b)|DLBCL,FL|4|TBD|
+|[@hubschmannMutationalMechanismsShaping2021b](papers/hubschmannMutationalMechanismsShaping2021b)|DLBCL,FL|4|3 (9%)|
 
 ## Categorization
 
