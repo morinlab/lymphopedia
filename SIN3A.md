@@ -1,3 +1,8 @@
+---
+bibliography: 'morinlab.bib'
+csl: 'NLM.csl'
+link-citations: true
+---
 # SIN3A
 
 ## History
@@ -16,8 +21,8 @@ timeline
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
 |![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene|
-|![BL](images/icons/BL_tier1.png)    |1   |high-confidence BL gene   |
-|![MZL](images/icons/MZL_tier1.png)    |1   |high-confidence MZL gene   |
+|![BL](images/icons/BL_tier1.png)    |1   |high-confidence BL gene   [@grandeGenomewideDiscoverySomatic2019]|
+|![MZL](images/icons/MZL_tier1.png)    |1   |high-confidence MZL gene   [@rossiCodingGenomeSplenic2012c]|
 |![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
@@ -54,9 +59,6 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/S
 
 ## References
 
-1.  *Rossi D, Trifonov V, Fangazio M, Bruscaggin A, Rasi S, Spina V, Monti S, Vaisitti T, Arruga F, Famà R, Ciardullo C, Greco M, Cresta S, Piranda D, Holmes A, Fabbri G, Messina M, Rinaldi A, Wang J, Agostinelli C, Piccaluga PP, Lucioni M, Tabbò F, Serra R, Franceschetti S, Deambrogi C, Daniele G, Gattei V, Marasca R, Facchetti F, Arcaini L, Inghirami G, Bertoni F, Pileri SA, Deaglio S, Foà R, Dalla-Favera R, Pasqualucci L, Rabadan R, Gaidano G. The coding genome of splenic marginal zone lymphoma: activation of NOTCH2 and other pathways regulating marginal zone development. J Exp Med. 2012 Aug 27;209(9):1537–1551. PMCID: PMC3428941*
-
-2.  *Grande BM, Gerhard DS, Jiang A, Griner NB, Abramson JS, Alexander TB, Allen H, Ayers LW, Bethony JM, Bhatia K, Bowen J, Casper C, Choi JK, Culibrk L, Davidsen TM, Dyer MA, Gastier-Foster JM, Gesuwan P, Greiner TC, Gross TG, Hanf B, Harris NL, He Y, Irvin JD, Jaffe ES, Jones SJM, Kerchan P, Knoetze N, Leal FE, Lichtenberg TM, Ma Y, Martin JP, Martin MR, Mbulaiteye SM, Mullighan CG, Mungall AJ, Namirembe C, Novik K, Noy A, Ogwang MD, Omoding A, Orem J, Reynolds SJ, Rushton CK, Sandlund JT, Schmitz R, Taylor C, Wilson WH, Wright GW, Zhao EY, Marra MA, Morin RD, Staudt LM. Genome-wide discovery of somatic coding and noncoding mutations in pediatric endemic and sporadic Burkitt lymphoma. Blood. 2019 Mar 21;133(12):1313–1324.* 
 
 <!-- ORIGIN: rossiCodingGenomeSplenic2012c -->
 <!-- BL: grandeGenomewideDiscoverySomatic2019 -->

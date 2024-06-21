@@ -1,3 +1,8 @@
+---
+bibliography: 'morinlab.bib'
+csl: 'NLM.csl'
+link-citations: true
+---
 # FBXW7
 
 ## Overview
@@ -18,7 +23,7 @@ timeline
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene[@zhangGeneticHeterogeneityDiffuse2013]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

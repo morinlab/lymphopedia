@@ -1,3 +1,8 @@
+---
+bibliography: 'morinlab.bib'
+csl: 'NLM.csl'
+link-citations: true
+---
 # FAS
 
 ## Overview
@@ -21,8 +26,8 @@ timeline
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
 |![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene|
-|![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            |
+|![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene[@spinaGeneticsNodalMarginal2016b]|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            [@schollMutationsRegionFAS2007]|
 |![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene               |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
