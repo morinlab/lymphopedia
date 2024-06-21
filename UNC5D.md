@@ -1,10 +1,15 @@
+---
+bibliography: 'morinlab.bib'
+csl: 'NLM.csl'
+link-citations: true
+---
 # UNC5D
 
 ## Relevance tier by entity
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
-|![DLBCL](images/icons/DLBCL_tier2.png) | 2   |low-confidence DLBCL gene|
+|![DLBCL](images/icons/DLBCL_tier2.png) | 2   |low-confidence DLBCL gene[@lohrDiscoveryPrioritizationSomatic2012a]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

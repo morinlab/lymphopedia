@@ -1,0 +1,40 @@
+---
+bibliography: 'morinlab.bib'
+csl: 'NLM.csl'
+link-citations: true
+---
+
+# USH2A
+
+## History
+
+```mermaid
+%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
+timeline
+    title Publication timing
+      2013-12-13 : Parry : MZL
+```
+
+
+## Relevance tier by entity
+
+|Entity|Tier|Description|
+|:------:|:----:|--------------------------------------|
+|![MZL](images/icons/MZL_tier2.png)|2|relevance in MZL not firmly established[@parryWholeExomeSequencing2013]|
+
+
+## Mutation incidence in large patient cohorts (GAMBL reanalysis)
+
+|Entity|source |frequency (%)|
+|:------:|:----:|:----:|
+|BL|GAMBL Exome |14.943 |
+|BL|GAMBL Genome |6.95 |
+|DLBCL|GAMBL Exome |15.094 |
+|DLBCL|GAMBL Genome |12.218 |
+|FL|GAMBL Exome |3.725 |
+|MCL|GAMBL Genome |6.433 |
+
+
+## References
+
+
