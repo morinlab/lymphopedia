@@ -1,3 +1,8 @@
+---
+bibliography: 'morinlab.bib'
+csl: 'NLM.csl'
+link-citations: true
+---
 # STAT6
 
 ## Overview
@@ -17,9 +22,9 @@ timeline
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
 |![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene|
-|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            |
-|![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene               |
+|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene[@ritzRecurrentMutationsSTAT62009a]|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            [@yildizActivatingSTAT6Mutations2015c]|
+|![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene               [@yildizActivatingSTAT6Mutations2015c]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -69,12 +74,14 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/S
 
 ![](images/proteinpaint/STAT6.svg)
 
-## References
 
-1. *Morin RD, Assouline S, Alcaide M, Mohajeri A, Johnston RL, Chong L, Grewal J, Yu S, Fornika D, Bushell K, Nielsen TH, Petrogiannis-Haliotis T, Crump M, Tosikyan A, Grande BM, MacDonald D, Rousseau C, Bayat M, Sesques P, Froment R, Albuquerque M, Monczak Y, Oros KK, Greenwood C, Riazalhosseini Y, Arseneault M, Camlioglu E, Constantin A, Pan-Hammarstrom Q, Peng R, Mann KK, Johnson NA. Genetic Landscapes of Relapsed and Refractory Diffuse Large B-Cell Lymphomas. Clin Cancer Res. 2016 May 1;22(9):2290-300. doi: 10.1158/1078-0432.CCR-15-2123. Epub 2015 Dec 8. PMID: 26647218.*
+
 ## STAT6 Expression
 ![](images/gene_expression/STAT6_by_pathology.svg)
 <!-- ORIGIN: yildizActivatingSTAT6Mutations2015c -->
 <!-- PMBL: ritzRecurrentMutationsSTAT62009a -->
 <!-- FL: yildizActivatingSTAT6Mutations2015c -->
 <!-- DLBCL: yildizActivatingSTAT6Mutations2015c -->
+
+## References
+
