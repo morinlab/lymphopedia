@@ -1,3 +1,8 @@
+---
+bibliography: 'morinlab.bib'
+csl: 'NLM.csl'
+link-citations: true
+---
 # PTPRD
 
 ## History
@@ -12,7 +17,7 @@ timeline
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
-|![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene|
+|![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene[@spinaGeneticsNodalMarginal2016b]|
 |![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene|
 |![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene|
 |![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene   |
@@ -58,4 +63,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/P
 <!-- MZL: spinaGeneticsNodalMarginal2016b -->
 
 ## References
-1.  Spina V, Khiabanian H, Messina M, Monti S, Cascione L, Bruscaggin A, Spaccarotella E, Holmes AB, Arcaini L, Lucioni M, Tabbò F, Zairis S, Diop F, Cerri M, Chiaretti S, Marasca R, Ponzoni M, Deaglio S, Ramponi A, Tiacci E, Pasqualucci L, Paulli M, Falini B, Inghirami G, Bertoni F, Foà R, Rabadan R, Gaidano G, Rossi D. The genetics of nodal marginal zone lymphoma. Blood. 2016 Sep 8;128(10):1362–1373. 
+

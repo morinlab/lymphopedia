@@ -1,3 +1,8 @@
+---
+bibliography: 'morinlab.bib'
+csl: 'NLM.csl'
+link-citations: true
+---
 # PTPN1
 
 ## History
@@ -12,7 +17,7 @@ timeline
 
 |Entity|Tier|Description                              |
 |:------:|:----:|-----------------------------------------|
-|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene|
+|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene[@gunawardanaRecurrentSomaticMutations2014c]|
 |![DLBCL](images/icons/DLBCL_tier2.png) |2-a | aSHM target; Although recurrent, the relevance of mutations in DLBCL is tenuous |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
@@ -53,4 +58,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/P
 <!-- PMBL: gunawardanaRecurrentSomaticMutations2014c -->
 
 ## References
-1.  Gunawardana J, Chan FC, Telenius A, Woolcock B, Kridel R, Tan KL, Ben-Neriah S, Mottok A, Lim RS, Boyle M, Rogic S, Rimsza LM, Guiter C, Leroy K, Gaulard P, Haioun C, Marra MA, Savage KJ, Connors JM, Shah SP, Gascoyne RD, Steidl C. Recurrent somatic mutations of PTPN1 in primary mediastinal B cell lymphoma and Hodgkin lymphoma. Nat Genet. 2014 Apr;46(4):329–335. PMID: 24531327
+

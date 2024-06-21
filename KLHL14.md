@@ -1,3 +1,8 @@
+---
+bibliography: 'morinlab.bib'
+csl: 'NLM.csl'
+link-citations: true
+---
 # KLHL14
 
 ## Overview
@@ -15,7 +20,7 @@ timeline
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene[@zhangGeneticHeterogeneityDiffuse2013]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -55,8 +60,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/K
 ![](images/proteinpaint/KLHL14.svg)
 
 ## References
-1. *Zhang J, Grubor V, Love CL, Banerjee A, Richards KL, Mieczkowski PA, Dunphy C, Choi W, Au WY, Srivastava G, Lugar PL, Rizzieri DA, Lagoo AS, Bernal-Mizrachi L, Mann KP, Flowers C, Naresh K, Evens A, Gordon LI, Czader M, Gill JI, Hsi ED, Liu Q, Fan A, Walsh K, Jima D, Smith LL, Johnson AJ, Byrd JC, Luftig MA, Ni T, Zhu J, Chadburn A, Levy S, Dunson D, Dave SS. Genetic heterogeneity of diffuse large B-cell lymphoma. Proc Natl Acad Sci U S A. 2013 Jan 22;110(4):1398-403. doi: 10.1073/pnas.1205299110. Epub 2013 Jan 4. PMID: 23292937; PMCID: PMC3557051.*
-2. *Choi J, Phelan JD, Wright GW, Häupl B, Huang DW, Shaffer AL 3rd, Young RM, Wang Z, Zhao H, Yu X, Oellerich T, Staudt LM. Regulation of B cell receptor-dependent NF-κB signaling by the tumor suppressor KLHL14. Proc Natl Acad Sci U S A. 2020 Mar 17;117(11):6092-6102. doi: 10.1073/pnas.1921187117. Epub 2020 Mar 3. PMID: 32127472; PMCID: PMC7084139.*
+
 
 ## KLHL14 Expression
 ![](images/gene_expression/KLHL14_by_pathology.svg)

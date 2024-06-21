@@ -1,3 +1,8 @@
+---
+bibliography: 'morinlab.bib'
+csl: 'NLM.csl'
+link-citations: true
+---
 # MAP7D1
 
 ## History
@@ -12,7 +17,7 @@ timeline
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|![FL](images/icons/FL_tier2.png)    |2   |relevance in FL not firmly established|
+|![FL](images/icons/FL_tier2.png)    |2   |relevance in FL not firmly established[@russler-germainMutationsAssociatedProgression2023b]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -45,4 +50,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/M
 <!-- FL: russler-germainMutationsAssociatedProgression2023b -->
 
 ## References
-1.  Russler-Germain DA, Krysiak K, Ramirez CA, Mosior M, Watkins MP, Gomez F, Skidmore ZL, Trani L, Gao F, Geyer S, Cashen A, Mehta-Shah N, Kahl B, Bartlett N, Alderuccio J, Lossos I, Ondrejka S, Hsi E, Martin P, Leonard J, Griffith M, Griffith O, Fehniger T. Mutations associated with progression in follicular lymphoma predict inferior outcomes at diagnosis: Alliance A151303. Blood Advances. 2023;7:5524–5539. 
+

@@ -1,3 +1,8 @@
+---
+bibliography: 'morinlab.bib'
+csl: 'NLM.csl'
+link-citations: true
+---
 # KMT2C
 
 ## Overview
@@ -19,10 +24,10 @@ timeline
 
 |Entity|Tier|Description                            |
 |:------:|:----:|---------------------------------------|
-|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene|
-|![BL](images/icons/BL_tier2.png)    |2   |relevance in BL not firmly established |
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene             |
-|![MCL](images/icons/MCL_tier2.png)   |2   |relevance in MCL not firmly established|
+|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene[@sarkozyMutationalLandscapeGray2021a]|
+|![BL](images/icons/BL_tier2.png)    |2   |relevance in BL not firmly established [@zhouSporadicEndemicBurkitt2019]|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene             [@zhangGeneticHeterogeneityDiffuse2013]|
+|![MCL](images/icons/MCL_tier2.png)   |2   |relevance in MCL not firmly established[@zhangGenomicLandscapeMantle2014]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -56,12 +61,6 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/K
 
 ![](images/proteinpaint/KMT2C.svg)
 
-## References
-1. *Zhang J, Grubor V, Love CL, Banerjee A, Richards KL, Mieczkowski PA, Dunphy C, Choi W, Au WY, Srivastava G, Lugar PL, Rizzieri DA, Lagoo AS, Bernal-Mizrachi L, Mann KP, Flowers C, Naresh K, Evens A, Gordon LI, Czader M, Gill JI, Hsi ED, Liu Q, Fan A, Walsh K, Jima D, Smith LL, Johnson AJ, Byrd JC, Luftig MA, Ni T, Zhu J, Chadburn A, Levy S, Dunson D, Dave SS. Genetic heterogeneity of diffuse large B-cell lymphoma. Proc Natl Acad Sci U S A. 2013 Jan 22;110(4):1398-403. doi: 10.1073/pnas.1205299110. Epub 2013 Jan 4. PMID: 23292937; PMCID: PMC3557051.*
-2. *Reddy A, Zhang J, Davis NS, Moffitt AB, Love CL, Waldrop A, Leppa S, Pasanen A, Meriranta L, Karjalainen-Lindsberg ML, Nørgaard P, Pedersen M, Gang AO, Høgdall E, Heavican TB, Lone W, Iqbal J, Qin Q, Li G, Kim SY, Healy J, Richards KL, Fedoriw Y, Bernal-Mizrachi L, Koff JL, Staton AD, Flowers CR, Paltiel O, Goldschmidt N, Calaminici M, Clear A, Gribben J, Nguyen E, Czader MB, Ondrejka SL, Collie A, Hsi ED, Tse E, Au-Yeung RKH, Kwong YL, Srivastava G, Choi WWL, Evens AM, Pilichowska M, Sengar M, Reddy N, Li S, Chadburn A, Gordon LI, Jaffe ES, Levy S, Rempel R, Tzeng T, Happ LE, Dave T, Rajagopalan D, Datta J, Dunson DB, Dave SS. Genetic and Functional Drivers of Diffuse Large B Cell Lymphoma. Cell. 2017 Oct 5;171(2):481-494.e15. doi: 10.1016/j.cell.2017.09.027. PMID: 28985567; PMCID: PMC5659841.*
-3. *https://pubpeer.com/publications/C1086AC68FD7082E3811E097EA4EA0*
-4. *Lee MJ, Koff JL, Switchenko JM, Jhaney CI, Harkins RA, Patel SP, Dave SS, Flowers CR. Genome-defined African ancestry is associated with distinct mutations and worse survival in patients with diffuse large B-cell lymphoma. Cancer. 2020 Aug 1;126(15):3493-3503. doi: 10.1002/cncr.32866. Epub 2020 May 29. PMID: 32469082; PMCID: PMC7494053.*
-5. *Zhang J, Jima D, Moffitt AB, Liu Q, Czader M, Hsi ED, Fedoriw Y, Dunphy CH, Richards KL, Gill JI, Sun Z, Love C, Scotland P, Lock E, Levy S, Hsu DS, Dunson D, Dave SS. The genomic landscape of mantle cell lymphoma is related to the epigenetically determined chromatin state of normal B cells. Blood. 2014 May 8;123(19):2988-96. doi: 10.1182/blood-2013-07-517177. Epub 2014 Mar 28. PMID: 24682267; PMCID: PMC4014841.*
 ## KMT2C Expression
 ![](images/gene_expression/KMT2C_by_pathology.svg)
 <!-- ORIGIN: zhangGeneticHeterogeneityDiffuse2013 -->
@@ -70,3 +69,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/K
 <!-- MCL: zhangGenomicLandscapeMantle2014 -->
 <!-- DLBCL: zhangGeneticHeterogeneityDiffuse2013 -->
 <!-- PMBL: sarkozyMutationalLandscapeGray2021a -->
+
+
+## References
+
