@@ -9,9 +9,11 @@ link-citations: true
 
 This is one of several genes that encode linker histone proteins that are recurrently mutated in DLBCL and FL.<sup>1,2</sup> Mutations are often found in the globular domain of the protein, which is critical for its interaction with DNA and other histone proteins. 
 
-## History
-Mutations in this gene were first described in DLBCL and FL in 2011 by Morin et al.<sup>1</sup> Mutations were subsequently reported in BL by Panea et al.<sup>3</sup> 
+<<Warn("The variants reported in BL in this gene failed QC")>>
 
+**[See below ](#representative-mutations) or [the study page ](papers/paneaWholeGenomeLandscape2019.md#tier-2) for more information**
+
+## History
 
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%

@@ -5,6 +5,10 @@ link-citations: true
 ---
 # HIST1H2AG
 
+<<Warn("The variants reported in BL in this gene failed QC")>>
+
+**[See below ](#representative-mutations) or [the study page ](papers/paneaWholeGenomeLandscape2019.md#tier-2) for more information**
+
 ## History
 
 ```mermaid
@@ -14,7 +18,7 @@ timeline
       2012-08-27 : Rossi : MZL
       2013-08-15 : Morin : DLBCL
       2017-01-26 : Krysiak : FL
-      2019-09-26 : Panea : BL
+      2019-09-26 : [Panea](papers/paneaWholeGenomeLandscape2019) : BL
 ```
 
 ## Relevance tier by entity
@@ -22,7 +26,7 @@ timeline
 |Entity|Tier|Description                              |
 |:------:|:----:|-----------------------------------------|
 |![MZL](images/icons/MZL_tier2.png)|2|relevance in MZL not firmly established[@rossiCodingGenomeSplenic2012c]|
-|![BL](images/icons/BL_tier2.png)    |2-F  | Failed QC|
+|![BL](images/icons/BL_tier2.png)    |2-F  | Failed QC[@paneaWholeGenomeLandscape2019]|
 |![DLBCL](images/icons/DLBCL_tier2.png) |2   |relevance in DLBCL not firmly established|
 |![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene                  |
 
