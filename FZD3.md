@@ -1,6 +1,11 @@
+---
+bibliography: 'morinlab.bib'
+csl: 'NLM.csl'
+link-citations: true
+---
 # FZD3
 
-<<Warn("The variants reported in this gene failed QC")>>
+<<Warn("The variants reported in BL in this gene failed QC")>>
 
 **[See below ](#representative-mutations) or [the study page ](papers/paneaWholeGenomeLandscape2019.md#tier-2) for more information**
 
@@ -16,7 +21,7 @@ timeline
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|![BL](images/icons/BL_tier2.png)    |2-F   |Failed QC|
+|![BL](images/icons/BL_tier2.png)    |2-F   |Failed QC[@paneaWholeGenomeLandscape2019]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
