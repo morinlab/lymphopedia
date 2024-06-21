@@ -9,6 +9,9 @@ link-citations: true
 
 Although mutations in MTOR have been reported in DLBCL and some BL, their role in lymphomagenesis has not been thoroughly studied. 
 
+<<Warn("The variants reported in this gene in BL failed QC")>>
+
+
 ## History
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
