@@ -1,3 +1,8 @@
+---
+bibliography: 'morinlab.bib'
+csl: 'NLM.csl'
+link-citations: true
+---
 # GRB2
 
 ## Overview
@@ -18,8 +23,9 @@ timeline
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            |
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            [@pasqualucciAnalysisCodingGenome2011]|
 
+|![BL](images/icons/BL_tier2.png)|2|relevance in BL not firmly established|
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
 |Entity|source               |frequency (%)|
@@ -53,4 +59,3 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/G
 <!-- BL: paneaWholeGenomeLandscape2019 -->
 
 ## References
-1.  Pasqualucci L, Trifonov V, Fabbri G, Ma J, Rossi D, Chiarenza A, Wells VA, Grunn A, Messina M, Elliot O, Chan J, Bhagat G, Chadburn A, Gaidano G, Mullighan CG, Rabadan R, Dalla-Favera R. Analysis of the coding genome of diffuse large B-cell lymphoma. Nat Genet. 2011 Jul 31;43(9):830–837. PMCID: PMC3297422

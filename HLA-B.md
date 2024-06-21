@@ -1,7 +1,13 @@
+---
+bibliography: 'morinlab.bib'
+csl: 'NLM.csl'
+link-citations: true
+---
 # HLA-B
 
 ## Overview
-Mutations in the HLA-B gene have been associated with a loss of cell surface expression of HLA class I molecules, which are essential for presenting tumor antigens to cytotoxic T cells. This is a common mechanism of immune escape in DLBCL. Deletions of this gene are more commonly reported than HLA-B mutations.<sup>1</sup> The mutation pattern in DLBCL implies the preferential accumulation of *inactivating mutations*. Different analytical strategies relating to the mapping of sequencing data and subtracting common germline variants can complicate the detection of mutations in this and other HLA genes. Likely owing to this, the rate of mutations is highly variable across studies and the true mutation rate has not been firmly established. 
+Mutations in the HLA-B gene have been associated with a loss of cell surface expression of HLA class I molecules, which are essential for presenting tumor antigens to cytotoxic T cells. This is a common mechanism of immune escape in DLBCL. Deletions of this gene are more commonly reported than HLA-B mutations. 
+The mutation pattern in DLBCL implies the preferential accumulation of *inactivating mutations*. Different analytical strategies relating to the mapping of sequencing data and subtracting common germline variants can complicate the detection of mutations in this and other HLA genes. Likely owing to this, the rate of mutations is highly variable across studies and the true mutation rate has not been firmly established. 
 
 ## History
 ```mermaid
@@ -15,9 +21,9 @@ timeline
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene|
+|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene[@wienandGenomicAnalysesFlowsorted2019b]|
 |![BL](images/icons/BL_tier2.png)    |2   |relevance in BL not firmly established|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            |
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            [@lohrDiscoveryPrioritizationSomatic2012a]|
 |![FL](images/icons/FL_tier2.png)    |2   |relevance in FL not firmly established|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
@@ -68,7 +74,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/H
 ![](images/gene_expression/HLA-B_by_pathology.svg)
 
 ## References
-1. *Riemersma, S., Jordanova, E., Schop, R., Philippo, K., Looijenga, L., Schuuring, E., & Kluin, P. (2000). Extensive genetic alterations of the HLA region, including homozygous deletions of HLA class II genes in B-cell lymphomas arising in immune-privileged sites.. Blood, 96 10, 3569-77 . https://doi.org/10.1182/BLOOD.V96.10.3569.*
+
 
 <!-- ORIGIN: wienandGenomicAnalysesFlowsorted2019b -->
 <!-- BL: 2 -->

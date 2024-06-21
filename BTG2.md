@@ -8,6 +8,7 @@ link-citations: true
 ## Overview
 BTG2 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus. Mutations in the BTG2 gene have been implicated in the pathogenesis of diffuse large B-cell lymphoma (DLBCL), contributing to the development and progression of the disease. These mutations are a feature of the MCD genetic subgroup of DLBCL. The biological function of BTG2 mutations and their role in lymphomagenesis remains poorly understood. Due to [minimal support](BTG2#representative-mutations) in the original primary data and very few mutations reported in subsequent studies, this gene is very unlikely to be relevant in BL. 
 
+<<Warn("The variants reported in this gene in BL failed QC")>>
 
 ## History
 
@@ -23,7 +24,7 @@ timeline
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|![BL](images/icons/BL_tier2.png)    |2-a | aSHM target; Although recurrent, the relevance of mutations in BL is tenuous [@loveGeneticLandscapeMutations2012]|
+|![BL](images/icons/BL_tier2.png)    |2-F | Failed QC[@loveGeneticLandscapeMutations2012]|
 |![DLBCL](images/icons/DLBCL_tier1.png) |1-a | aSHM target and high-confidence DLBCL gene            [@morinFrequentMutationHistonemodifying2011]|
 |![FL](images/icons/FL_tier1.png)    |1-a | aSHM target and high-confidence FL gene               [@morinFrequentMutationHistonemodifying2011]|
 

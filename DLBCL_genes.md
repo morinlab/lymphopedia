@@ -147,7 +147,7 @@ link-citations: true
 
 ## Tier 2 DLBCL genes
 
-### *196 total*
+### *195 total*
 
 |Gene|Tier| First DLBCL evidence | Other entities |
 |:-:|:-:|:-|:-|
@@ -217,7 +217,6 @@ link-citations: true
 |[HLA-DMA](HLA-DMA)|2|||
 |[HLA-DQA1](HLA-DQA1)|2|[@hubschmannMutationalMechanismsShaping2021b]||
 |[HNF1B](HNF1B)|2|[@pasqualucciAnalysisCodingGenome2011]||
-|[HNRNPD](HNRNPD)|2|||
 |[HNRNPH1](HNRNPH1)|2, noncoding|[@pararajalingamCodingNoncodingDrivers2020]||
 |[HRAS](HRAS)|2|[@reddyGeneticFunctionalDrivers2017]|[@jalladesExomeSequencingIdentifies2017]|
 |[ID3](ID3)|2|[@schmitzBurkittLymphomaPathogenesis2012]|[@spinaGeneticsNodalMarginal2016b; @richterRecurrentMutationID32012a]|

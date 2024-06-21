@@ -1,13 +1,18 @@
+---
+bibliography: 'morinlab.bib'
+csl: 'NLM.csl'
+link-citations: true
+---
 # HLA-DMA
 
 ## Overview
-Mutations in this gene are relatively rare in DLBCL overall. *Without further support, this gene may be migrated to Tier 2.* 
+Mutations in this gene are relatively rare in DLBCL overall. 
 
 ## Relevance tier by entity
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene|
+|![DLBCL](images/icons/DLBCL_tier1.png) |2   |Association with DLBCL is tenuous|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
