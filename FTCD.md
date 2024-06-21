@@ -5,6 +5,9 @@ link-citations: true
 ---
 # FTCD
 
+<<Warn("The variants reported in this gene in BL failed QC")>>
+
+
 ## Overview
 
 Due to [minimal support](FTCD#representative-mutation) in the original primary data and very few mutations reported in subsequent studies, this gene is very unlikely to be relevant in BL. 
@@ -23,7 +26,7 @@ timeline
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|![BL](images/icons/BL_tier2.png)    |2-F   |Failed QC|
+|![BL](images/icons/BL_tier2.png)    |2-F   |Failed QC[@loveGeneticLandscapeMutations2012]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

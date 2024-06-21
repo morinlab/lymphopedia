@@ -5,6 +5,8 @@ link-citations: true
 ---
 # SALL3
 
+<<Warn("The variants reported in this gene in BL failed QC")>>
+
 ## History
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
@@ -18,7 +20,7 @@ timeline
 
 |Entity|Tier|Description                            |
 |:------:|:----:|---------------------------------------|
-|![BL](images/icons/BL_tier2.png)    |2   |relevance in BL not firmly established [@loveGeneticLandscapeMutations2012]|
+|![BL](images/icons/BL_tier2.png)    |2-F   |Failed QC[@loveGeneticLandscapeMutations2012]|
 |![MCL](images/icons/MCL_tier2.png)   |2   |relevance in MCL not firmly established[@zhangGenomicLandscapeMantle2014]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)

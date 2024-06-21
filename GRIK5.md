@@ -5,6 +5,8 @@ link-citations: true
 ---
 # GRIK5
 
+<<Warn("The variants reported in this gene in BL failed QC")>>
+
 ## History
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
@@ -17,7 +19,7 @@ timeline
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|![BL](images/icons/BL_tier2.png)    |2-F   |Failed QC|
+|![BL](images/icons/BL_tier2.png)    |2-F   |Failed QC[@loveGeneticLandscapeMutations2012]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

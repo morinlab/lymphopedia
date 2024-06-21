@@ -7,6 +7,7 @@ link-citations: true
 
 Due to [minimal support](KIFC3#representative-mutations) in the original primary data, [low expression in BL](KIFC3#kifc3-expression) and very few mutations reported in subsequent studies, this gene is very unlikely to be relevant in BL. 
 
+<<Warn("The variants reported in this gene failed QC")>>
 
 ## History
 ```mermaid

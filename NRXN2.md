@@ -5,6 +5,8 @@ link-citations: true
 ---
 # NRXN2
 
+<<Warn("The variants reported in this gene failed QC")>>
+
 ## History
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%

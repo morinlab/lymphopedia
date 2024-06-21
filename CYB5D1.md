@@ -5,6 +5,8 @@ link-citations: true
 ---
 # CYB5D1
 
+<<Warn("The variants reported in this gene failed QC")>>
+
 ## History
 
 ```mermaid
@@ -18,7 +20,7 @@ timeline
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|![BL](images/icons/BL_tier2.png)    |2   |relevance in BL not firmly established[@loveGeneticLandscapeMutations2012]|
+|![BL](images/icons/BL_tier2.png)    |2-F   |Failed QC[@loveGeneticLandscapeMutations2012]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

@@ -5,6 +5,8 @@ link-citations: true
 ---
 # EPHB2
 
+<<Warn("The variants reported in this gene failed QC")>>
+
 ## History
 
 
@@ -19,7 +21,7 @@ timeline
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|![BL](images/icons/BL_tier2.png)    |2-F   |Failed QC|
+|![BL](images/icons/BL_tier2.png)    |2-F   |Failed QC[@loveGeneticLandscapeMutations2012]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

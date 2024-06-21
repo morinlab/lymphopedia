@@ -7,6 +7,8 @@ link-citations: true
 
 Due to [minimal support](EML2#representative-mutation) in the original primary data and very few mutations reported in subsequent studies, this gene is very unlikely to be relevant in BL. 
 
+<<Warn("The variants reported in this gene in BL failed QC")>>
+
 ## History
 
 ```mermaid
@@ -20,7 +22,7 @@ timeline
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|![BL](images/icons/BL_tier2.png)    |2   |relevance in BL not firmly established[@loveGeneticLandscapeMutations2012]|
+|![BL](images/icons/BL_tier2.png)    |2-F   |Failed QC[@loveGeneticLandscapeMutations2012]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
