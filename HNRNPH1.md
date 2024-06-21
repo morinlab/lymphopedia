@@ -1,3 +1,8 @@
+---
+bibliography: 'morinlab.bib'
+csl: 'NLM.csl'
+link-citations: true
+---
 # HNRNPH1
 
 ## Overview
@@ -15,8 +20,8 @@ timeline
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene|
-|![MCL](images/icons/MCL_tier1.png)   |1   |high-confidence MCL gene  |
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene[@pararajalingamCodingNoncodingDrivers2020]|
+|![MCL](images/icons/MCL_tier1.png)   |1   |high-confidence MCL gene  [@pararajalingamCodingNoncodingDrivers2020]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -55,8 +60,6 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/H
 
 
 ## References
-1. *Pararajalingam, P., Coyle, K., Arthur, S., Thomas, N., Alcaide, M., Meissner, B., Boyle, M., Qureshi, Q., Grande, B., Rushton, C., Slack, G., Mungall, A., Tam, C., Agarwal, R., Dawson, S., Lenz, G., Balasubramanian, S., Gascoyne, R., Steidl, C., Connors, J., Villa, D., Audas, T., Marra, M., Johnson, N., Scott, D., & Morin, R. (2020). Coding and non-coding drivers of mantle cell lymphoma identified through exome and genome sequencing.. Blood. https://doi.org/10.1182/blood.2019002385.*
-2. *Coyle, K., Qureshi, Q., Pararajalingam, P., Thomas, N., Audas, T., & Morin, R. (2020). Perturbations in HNRNPH1 Splicing and Abundance Affect Global Splicing and Proliferation in Mantle Cell Lymphoma. Blood, 136, 23-24. https://doi.org/10.1182/BLOOD-2020-141389.*
 
 <!-- NONCODING -->
 <!-- ORIGIN: pararajalingamCodingNoncodingDrivers2020 -->

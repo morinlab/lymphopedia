@@ -147,7 +147,7 @@ link-citations: true
 
 ## Tier 2 DLBCL genes
 
-### *195 total*
+### *194 total*
 
 |Gene|Tier| First DLBCL evidence | Other entities |
 |:-:|:-:|:-|:-|
@@ -228,7 +228,6 @@ link-citations: true
 |[IL16](IL16)|2|||
 |[IL6](IL6)|2|[@chapuyMolecularSubtypesDiffuse2018b]||
 |[INO80](INO80)|2|[@zhangGeneticHeterogeneityDiffuse2013]||
-|[IRAG2](IRAG2)|2, aSHM|||
 |[IRF1](IRF1)|2, aSHM|[@hubschmannMutationalMechanismsShaping2021b]||
 |[JAK1](JAK1)|2|[@zhangGeneticHeterogeneityDiffuse2013]|[@mottokIntegrativeGenomicAnalysis2019b]|
 |[JAK3](JAK3)|2|[@zhangGeneticHeterogeneityDiffuse2013]||
