@@ -1,3 +1,8 @@
+---
+bibliography: 'morinlab.bib'
+csl: 'NLM.csl'
+link-citations: true
+---
 # RRAGC
 
 ## History
@@ -12,7 +17,7 @@ timeline
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene[@okosunRecurrentMTORC1activatingRRAGC2016a]|
 |![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene   |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
