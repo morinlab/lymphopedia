@@ -147,7 +147,7 @@ link-citations: true
 
 ## Tier 2 DLBCL genes
 
-### *197 total*
+### *196 total*
 
 |Gene|Tier| First DLBCL evidence | Other entities |
 |:-:|:-:|:-|:-|
@@ -339,7 +339,6 @@ link-citations: true
 |[WAC](WAC)|2|[@reddyGeneticFunctionalDrivers2017]|[@rossiCodingGenomeSplenic2012c]|
 |[WDFY3](WDFY3)|2|[@morinMutationalStructuralAnalysis2013]||
 |[WNK1](WNK1)|2|[@hubschmannMutationalMechanismsShaping2021b]|[@thomasGeneticSubgroupsInform2023; @jalladesExomeSequencingIdentifies2017]|
-|[XBP1](XBP1)|2, aSHM|||
 |[YY1](YY1)|2|[@reddyGeneticFunctionalDrivers2017]||
 |[ZBTB7A](ZBTB7A)|2|[@reddyGeneticFunctionalDrivers2017]|[@burkhardtClinicalRelevanceMolecular2022b]|
 |[ZCCHC7](ZCCHC7)|2, aSHM|[@arthurGenomewideDiscoverySomatic2018]||
