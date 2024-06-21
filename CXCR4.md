@@ -12,6 +12,7 @@ CXCR4 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm)
 ## History
 Mutations in this gene were first described in DLBCL in 2012 by Khodabakhshi et al,<sup>1</sup> in FL in 2021 by Hübschmann et al<sup>2</sup> and in BL in 2019 by Panea et al.<sup>3</sup>
 
+<<Warn("The variants reported in this gene in BL failed QC")>>
 
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
