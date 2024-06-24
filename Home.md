@@ -179,6 +179,10 @@ MCL-WGS, Nadeu 2020, 5
 MCL, MCL-exome, 28
 MCL-exome, Zhang 2014, 28
 Vandenbrand 2017, MZL Tier 2, 2
+MZL, MZL-panel, 2
+MZL-panel, Vandenbrand 2017, 2
+MZL, MZL-Panel, 2
+MZL-Panel, Yan 2012, 2
 Rossi 2012, MZL Tier 1, 10
 Rossi 2012, MZL Tier 2, 11
 Yan 2012, MZL Tier 1, 2
@@ -197,10 +201,9 @@ MZL, MZL-exome/panel, 31
 MZL-exome/panel, Spina 2016, 31
 MZL, MZL-exome, 21
 MZL-exome, Rossi 2012, 21
-MZL-panel1, Vandenbrand 2017, 2
-MZL-Panel2, Yan 2012, 2
-MZL, MZL-panel1, 2
-MZL, MZL-Panel2, 2
+
+
+
 MZL, MZL-exome, 7
 MZL-exome, Parry 2013, 7
 Tiacci 2018, PMBL Tier 1, 1
