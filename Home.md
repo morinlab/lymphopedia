@@ -178,6 +178,17 @@ MCL, MCL-WGS, 5
 MCL-WGS, Nadeu 2020, 5
 MCL, MCL-exome, 28
 MCL-exome, Zhang 2014, 28
+Rossi 2011, MZL Tier 1, 4
+Spina 2016, MZL Tier 1, 8
+Yan 2012, MZL Tier 1, 2
+Rossi 2012, MZL Tier 1, 10
+Jallades 2017, MZL Tier 1, 2
+Rossi 2012, MZL Tier 2, 11
+Parry 2013, MZL Tier 2, 7
+Spina 2016, MZL Tier 2, 23
+Vandenbrand 2017, MZL Tier 2, 2
+Jallades 2017, MZL Tier 2, 26
+Rossi 2011, MZL Tier 2, 1
 MZL, MZL-Panel, 2
 MZL, MZL-Panel, 2
 MZL, MZL Sanger, 5
@@ -186,29 +197,17 @@ MZL, MZL-exome, 28
 MZL, MZL-exome, 7
 MZL, MZL-exome/panel, 31
 MZL Sanger, Rossi 2011, 5
-Vandenbrand 2017, MZL Tier 2, 2
 
 MZL-Panel, Vandenbrand 2017, 2
-
 MZL-Panel, Yan 2012, 2
-Rossi 2012, MZL Tier 1, 10
-Rossi 2012, MZL Tier 2, 11
-Yan 2012, MZL Tier 1, 2
-Parry 2013, MZL Tier 2, 7
-Spina 2016, MZL Tier 1, 8
-Spina 2016, MZL Tier 2, 23
-Jallades 2017, MZL Tier 1, 2
-Jallades 2017, MZL Tier 2, 26
-Rossi 2011, MZL Tier 1, 4
-Rossi 2011, MZL Tier 2, 1
+
 
 MZL-exome, Jallades 2017, 28
-
 MZL-exome/panel, Spina 2016, 31
 
 MZL-exome, Rossi 2012, 21
-
 MZL-exome, Parry 2013, 7
+
 PMBL Sanger, Weniger 2006, 2
 PMBL, PMBL Sanger, 2
 Tiacci 2018, PMBL Tier 1, 1
