@@ -26,7 +26,6 @@ timeline
 |![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene               [@morinFrequentMutationHistonemodifying2011]|
 |![MCL](images/icons/MCL_tier1.png)   |1   |high-confidence MCL gene              [@wuGeneticHeterogeneityPrimary2016]|
 
-|![BL](images/icons/BL_tier2.png)|2|relevance in BL not firmly established|
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
 |Entity|source               |frequency (%)|

@@ -23,7 +23,6 @@ timeline
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
 |![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene[@sarkozyMutationalLandscapeGray2021a]|
-|![BL](images/icons/BL_tier2.png)    |2   |relevance in BL not firmly established|
 |![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            [@chapuyMolecularSubtypesDiffuse2018b]|
 |![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene               [@krysiakRecurrentSomaticMutations2017b]|
 

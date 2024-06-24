@@ -25,7 +25,6 @@ timeline
 |![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene [@sarkozyMutationalLandscapeGray2021a]|
 |![DLBCL](images/icons/DLBCL_tier1.png)   |1   |high-confidence DLBCL gene          [@reddyGeneticFunctionalDrivers2017]|
 |![FL](images/icons/FL_tier1.png)      |1   |high-confidence FL gene               |
-|![BL](images/icons/BL_tier2.png)    |2   |relevance in BL not firmly established|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
