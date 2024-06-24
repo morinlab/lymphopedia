@@ -45,25 +45,25 @@ Sarkozy 2021, PMBL Tier 1, 5
 Sarkozy 2021, PMBL Tier 2, 6
 Mottok 2019, PMBL Tier 1, 6
 Mottok 2019, PMBL Tier 2, 15
-PMBL genes, PMBL-exome, 13
+PMBL, PMBL-exome, 13
 PMBL-exome, Duns 2021, 13
-PMBL genes, PMBL-exome, 10
+PMBL, PMBL-exome, 10
 PMBL-exome, Tiacci 2018, 10
-PMBL genes, PMBL-panel, 10
+PMBL, PMBL-panel, 10
 PMBL-panel, Desch 2020, 10
-PMBL genes, PMBL-exome, 7
+PMBL, PMBL-exome, 7
 PMBL-exome, Gomez 2023, 7
-PMBL genes, PMBL-Sanger, 2
+PMBL, PMBL-Sanger, 2
 PMBL-Sanger, Weniger 2006, 2
-PMBL genes, PMBL-exome, 7
+PMBL, PMBL-exome, 7
 PMBL-exome, Wienand 2019, 7
-PMBL genes, PMBL-exome, 29
+PMBL, PMBL-exome, 29
 PMBL-exome, Reichel 2015, 29
-PMBL genes, PMBL-Array/Sanger, 2
+PMBL, PMBL-Array/Sanger, 2
 PMBL-Array/Sanger, Otto 2012, 2
-PMBL genes, PMBL-exome, 11
+PMBL, PMBL-exome, 11
 PMBL-exome, Sarkozy 2021, 11
-PMBL genes, PMBL-exome, 21
+PMBL, PMBL-exome, 21
 PMBL-exome, Mottok 2019, 21
 Albuquerque 2017, DLBCL Tier 1, 3
 Lohr 2012, DLBCL Tier 1, 3
