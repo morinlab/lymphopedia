@@ -178,8 +178,8 @@ MCL, MCL-WGS, 5
 MCL-WGS, Nadeu 2020, 5
 MCL, MCL-exome, 28
 MCL-exome, Zhang 2014, 28
-MZL, MZL-Sanger, 5
-MZL-Sanger, Rossi 2011, 5
+MZL, MZL Sanger, 5
+MZL Sanger, Rossi 2011, 5
 Vandenbrand 2017, MZL Tier 2, 2
 MZL, MZL-Panel, 2
 MZL-Panel, Vandenbrand 2017, 2
