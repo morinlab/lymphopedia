@@ -13,7 +13,7 @@ This is a comprehensive catalogue of genes that have been nominated as *recurren
 
 To get started, select one of the gene lists from the table below then select the `gene page` link for any gene in the table or explore the genes nominated by [individual studies](Papers).  
 
-## A brief history of B-cell lymphoma genes
+## Common B-cell lymphomas
 
 ```mermaid
 ---
@@ -137,7 +137,6 @@ BL, BL-RNA-seq, 19
 BL-RNA-seq, Schmitz 2012, 19
 ```
 
-## Common B-cell lymphomas
 
 |Entity|Tier 1 (high-confidence)|Tier 2 (low-confidence)|
 |:-:|:-:|:-:|
@@ -145,6 +144,8 @@ BL-RNA-seq, Schmitz 2012, 19
 |DLBCL|[127 genes](DLBCL_genes#tier-1-dlbcl-genes)|[215 genes](DLBCL_genes#tier-2-dlbcl-genes)|
 |FL|[66 genes](FL_genes#tier-1-fl-genes)|[50 genes](FL_genes#tier-2-fl-genes)|
 
+
+## Rare B-cell lymphomas
 
 ```mermaid
 ---
@@ -249,7 +250,6 @@ PMBL-exome, Duns 2021, 13
 PMBL-panel, Desch 2020, 10
 ```
 
-## Rare B-cell lymphomas
 
 |Entity|Tier 1 (high-confidence)|Tier 2 (low-confidence)|
 |:-:|:-:|:-:|
