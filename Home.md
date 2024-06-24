@@ -135,14 +135,6 @@ BL, BL-exome, 59
 BL-exome, Love 2012, 59
 BL, BL-RNA-seq, 19
 BL-RNA-seq, Schmitz 2012, 19
-Zhang 2014, MCL Tier 1, 2
-Zhang 2014, MCL Tier 2, 26
-Bea 2013, MCL Tier 1, 11
-Bea 2013, MCL Tier 2, 16
-Nadeu 2020, MCL Tier 1, 3
-Nadeu 2020, MCL Tier 2, 2
-Pararajalingam 2020, MCL Tier 1, 6
-Pararajalingam 2020, MCL Tier 2, 1
 MCL, MCL-WGS/exome, 27
 MCL-WGS/exome, Bea 2013, 27
 MCL, MCL-WGS/exome, 7
@@ -151,6 +143,14 @@ MCL, MCL-WGS, 5
 MCL-WGS, Nadeu 2020, 5
 MCL, MCL-exome, 28
 MCL-exome, Zhang 2014, 28
+Zhang 2014, MCL Tier 1, 2
+Zhang 2014, MCL Tier 2, 26
+Bea 2013, MCL Tier 1, 11
+Bea 2013, MCL Tier 2, 16
+Nadeu 2020, MCL Tier 1, 3
+Nadeu 2020, MCL Tier 2, 2
+Pararajalingam 2020, MCL Tier 1, 6
+Pararajalingam 2020, MCL Tier 2, 1
 MZL, MZL-exome, 28
 MZL-exome, Jallades 2017, 28
 MZL, MZL-Sanger, 5
