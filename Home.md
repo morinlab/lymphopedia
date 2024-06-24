@@ -159,7 +159,7 @@ config:
     linkColor: target
     width: 750
     height: 1300
-    nodeAlignment: left
+    nodeAlignment: right
 ---
 sankey-beta
 Zhang 2014, MCL Tier 1, 2
