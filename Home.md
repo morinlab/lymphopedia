@@ -162,22 +162,7 @@ config:
     nodeAlignment: right
 ---
 sankey-beta
-Zhang 2014, MCL Tier 1, 2
-Zhang 2014, MCL Tier 2, 26
-Bea 2013, MCL Tier 1, 11
-Bea 2013, MCL Tier 2, 16
-Nadeu 2020, MCL Tier 1, 3
-Nadeu 2020, MCL Tier 2, 2
-Pararajalingam 2020, MCL Tier 1, 6
-Pararajalingam 2020, MCL Tier 2, 1
-MCL, MCL-WGS/exome, 27
-MCL-WGS/exome, Bea 2013, 27
-MCL, MCL-WGS/exome, 7
-MCL-WGS/exome, Pararajalingam 2020, 7
-MCL, MCL-WGS, 5
-MCL-WGS, Nadeu 2020, 5
-MCL, MCL-exome, 28
-MCL-exome, Zhang 2014, 28
+
 Rossi 2011, MZL Tier 1, 4
 Spina 2016, MZL Tier 1, 8
 Yan 2012, MZL Tier 1, 2
@@ -207,6 +192,23 @@ MZL-exome/panel, Spina 2016, 31
 
 MZL-exome, Rossi 2012, 21
 MZL-exome, Parry 2013, 7
+
+Zhang 2014, MCL Tier 1, 2
+Zhang 2014, MCL Tier 2, 26
+Bea 2013, MCL Tier 1, 11
+Bea 2013, MCL Tier 2, 16
+Nadeu 2020, MCL Tier 1, 3
+Nadeu 2020, MCL Tier 2, 2
+Pararajalingam 2020, MCL Tier 1, 6
+Pararajalingam 2020, MCL Tier 2, 1
+MCL, MCL-WGS/exome, 27
+MCL-WGS/exome, Bea 2013, 27
+MCL, MCL-WGS/exome, 7
+MCL-WGS/exome, Pararajalingam 2020, 7
+MCL, MCL-WGS, 5
+MCL-WGS, Nadeu 2020, 5
+MCL, MCL-exome, 28
+MCL-exome, Zhang 2014, 28
 
 PMBL Sanger, Weniger 2006, 2
 PMBL, PMBL Sanger, 2
