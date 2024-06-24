@@ -146,16 +146,6 @@ BL-RNA-seq, Schmitz 2012, 19
 |FL|[66 genes](FL_genes#tier-1-fl-genes)|[50 genes](FL_genes#tier-2-fl-genes)|
 
 
-## Rare B-cell lymphomas
-
-|Entity|Tier 1 (high-confidence)|Tier 2 (low-confidence)|
-|:-:|:-:|:-:|
-|PMBL|[76 genes](PMBL_genes#tier-1-pmbl-genes)|[82 genes](PMBL_genes#tier-2-pmbl-genes)|
-|MCL|[23 genes](MCL_genes#tier-1-mcl-genes)|[46 genes](MCL_genes#tier-2-mcl-genes)|
-|MZL|[42 genes](MZL_genes#tier-1-mzl-genes)|[74 genes](MZL_genes#tier-2-mzl-genes)|
-
-\* *PMBL gene list includes genes attributed to classical Hodgkin lymphoma or marginal grey-zone lymphoma*
-
 ```mermaid
 ---
 config:
@@ -259,14 +249,23 @@ PMBL-exome, Duns 2021, 13
 PMBL-panel, Desch 2020, 10
 ```
 
+## Rare B-cell lymphomas
+
+|Entity|Tier 1 (high-confidence)|Tier 2 (low-confidence)|
+|:-:|:-:|:-:|
+|PMBL|[76 genes](PMBL_genes#tier-1-pmbl-genes)|[82 genes](PMBL_genes#tier-2-pmbl-genes)|
+|MCL|[23 genes](MCL_genes#tier-1-mcl-genes)|[46 genes](MCL_genes#tier-2-mcl-genes)|
+|MZL|[42 genes](MZL_genes#tier-1-mzl-genes)|[74 genes](MZL_genes#tier-2-mzl-genes)|
+
+\* *PMBL gene list includes genes attributed to classical Hodgkin lymphoma or marginal grey-zone lymphoma*
+
 ## B-cell Lymphoma aSHM targets
 
 [hg19 coordinates](ashm)
 
 [hg38 coordinates](ashm_hg38)
 
-
-## Originating studies for all B-cell lymphoma genes
+## Origins of the individual lymphoma genes
 
 ### [All studies](Papers.md)
 
