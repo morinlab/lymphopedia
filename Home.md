@@ -153,9 +153,9 @@ BL RNA-seq, Schmitz 2012, 19
 
 |Entity|Tier 1 (high-confidence)|Tier 2 (low-confidence)|
 |:-:|:-:|:-:|
-|PMBL|[76 genes](PMBL_genes#tier-1-pmbl-genes)|[82 genes](PMBL_genes#tier-2-pmbl-genes)|
-|MCL|[23 genes](MCL_genes#tier-1-mcl-genes)|[46 genes](MCL_genes#tier-2-mcl-genes)|
-|MZL|[42 genes](MZL_genes#tier-1-mzl-genes)|[74 genes](MZL_genes#tier-2-mzl-genes)|
+|Primary Mediastinal B-cell Lymphoma (PMBL)|[76 genes](PMBL_genes#tier-1-pmbl-genes)|[82 genes](PMBL_genes#tier-2-pmbl-genes)|
+|Mantle Cell Lymphoma (MCL)|[23 genes](MCL_genes#tier-1-mcl-genes)|[46 genes](MCL_genes#tier-2-mcl-genes)|
+|Marginal Zone Lymphomas (MZL)|[42 genes](MZL_genes#tier-1-mzl-genes)|[74 genes](MZL_genes#tier-2-mzl-genes)|
 
 \* *PMBL gene list includes genes attributed to classical Hodgkin lymphoma or marginal grey-zone lymphoma*
 
