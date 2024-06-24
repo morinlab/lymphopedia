@@ -165,17 +165,17 @@ MZL, MZL-Panel, 2
 MZL-Panel, Yan 2012, 2
 MZL, MZL-exome, 7
 MZL-exome, Parry 2013, 7
-Vandenbrand 2017, Tier 2 MZL genes, 2
-Rossi 2012, Tier 1 MZL genes, 10
-Rossi 2012, Tier 2 MZL genes, 11
-Yan 2012, Tier 1 MZL genes, 2
-Parry 2013, Tier 2 MZL genes, 7
-Spina 2016, Tier 1 MZL genes, 8
-Spina 2016, Tier 2 MZL genes, 23
-Jallades 2017, Tier 1 MZL genes, 2
-Jallades 2017, Tier 2 MZL genes, 26
-Rossi 2011, Tier 1 MZL genes, 4
-Rossi 2011, Tier 2 MZL genes, 1
+Vandenbrand 2017, MZL Tier 2, 2
+Rossi 2012, MZL Tier 1, 10
+Rossi 2012, MZL Tier 2, 11
+Yan 2012, MZL Tier 1, 2
+Parry 2013, MZL Tier 2, 7
+Spina 2016, MZL Tier 1, 8
+Spina 2016, MZL Tier 2, 23
+Jallades 2017, MZL Tier 1, 2
+Jallades 2017, MZL Tier 2, 26
+Rossi 2011, MZL Tier 1, 4
+Rossi 2011, MZL Tier 2, 1
 
 ```
 
