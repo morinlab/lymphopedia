@@ -197,10 +197,10 @@ MZL, MZL-exome/panel, 31
 MZL-exome/panel, Spina 2016, 31
 MZL, MZL-exome, 21
 MZL-exome, Rossi 2012, 21
-MZL-panel, Vandenbrand 2017, 2
-MZL-Panel, Yan 2012, 2
-MZL, MZL-panel, 2
-MZL, MZL-Panel, 2
+MZL-panel1, Vandenbrand 2017, 2
+MZL-Panel2, Yan 2012, 2
+MZL, MZL-panel1, 2
+MZL, MZL-Panel2, 2
 MZL, MZL-exome, 7
 MZL-exome, Parry 2013, 7
 Tiacci 2018, PMBL Tier 1, 1
