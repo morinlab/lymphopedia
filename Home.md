@@ -135,6 +135,33 @@ BL, BL-exome, 59
 BL-exome, Love 2012, 59
 BL, BL-RNA-seq, 19
 BL-RNA-seq, Schmitz 2012, 19
+```
+
+## Gene lists
+
+
+|Entity|Tier 1 (high-confidence)|Tier 2 (low-confidence)|
+|:-:|:-:|:-:|
+|BL|[29 genes](BL_genes#tier-1-bl-genes)|[152 genes](BL_genes#tier-2-bl-genes)|
+|DLBCL|[127 genes](DLBCL_genes#tier-1-dlbcl-genes)|[215 genes](DLBCL_genes#tier-2-dlbcl-genes)|
+|FL|[66 genes](FL_genes#tier-1-fl-genes)|[50 genes](FL_genes#tier-2-fl-genes)|
+|PMBL|[76 genes](PMBL_genes#tier-1-pmbl-genes)|[82 genes](PMBL_genes#tier-2-pmbl-genes)|
+|MCL|[23 genes](MCL_genes#tier-1-mcl-genes)|[46 genes](MCL_genes#tier-2-mcl-genes)|
+|MZL|[42 genes](MZL_genes#tier-1-mzl-genes)|[74 genes](MZL_genes#tier-2-mzl-genes)|
+
+\* *PMBL gene list includes genes attributed to classical Hodgkin lymphoma or marginal grey-zone lymphoma*
+
+```mermaid
+---
+config:
+  sankey:
+    showValues: false
+    linkColor: target
+    width: 750
+    height: 1300
+    nodeAlignment: left
+---
+sankey-beta
 Zhang 2014, MCL Tier 1, 2
 Zhang 2014, MCL Tier 2, 26
 Bea 2013, MCL Tier 1, 11
@@ -217,20 +244,6 @@ PMBL, PMBL-exome, 21
 PMBL-exome, Mottok 2019, 21
 
 ```
-
-## Gene lists
-
-
-|Entity|Tier 1 (high-confidence)|Tier 2 (low-confidence)|
-|:-:|:-:|:-:|
-|BL|[29 genes](BL_genes#tier-1-bl-genes)|[152 genes](BL_genes#tier-2-bl-genes)|
-|DLBCL|[127 genes](DLBCL_genes#tier-1-dlbcl-genes)|[215 genes](DLBCL_genes#tier-2-dlbcl-genes)|
-|FL|[66 genes](FL_genes#tier-1-fl-genes)|[50 genes](FL_genes#tier-2-fl-genes)|
-|PMBL|[76 genes](PMBL_genes#tier-1-pmbl-genes)|[82 genes](PMBL_genes#tier-2-pmbl-genes)|
-|MCL|[23 genes](MCL_genes#tier-1-mcl-genes)|[46 genes](MCL_genes#tier-2-mcl-genes)|
-|MZL|[42 genes](MZL_genes#tier-1-mzl-genes)|[74 genes](MZL_genes#tier-2-mzl-genes)|
-
-\* *PMBL gene list includes genes attributed to classical Hodgkin lymphoma or marginal grey-zone lymphoma*
 
 ## B-cell Lymphoma aSHM targets
 
