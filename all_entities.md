@@ -509,7 +509,6 @@
 |[SENP7](SENP7)|||||![PMBL](images/icons/PMBL_tier2.png)||
 |[SEPTIN9](SEPTIN9)||![DLBCL](images/icons/DLBCL_tier2.png)|||||
 |[SERPINA9](SERPINA9)||![DLBCL](images/icons/DLBCL_tier2.png)|||||
-|[SESN1](SESN1)|![FL](images/icons/FL_tier2.png)||||||
 |[SETD1B](SETD1B)||![DLBCL](images/icons/DLBCL_tier1.png)|||||
 |[SETD2](SETD2)||![DLBCL](images/icons/DLBCL_tier2.png)|||||
 |[SETD5](SETD5)||![DLBCL](images/icons/DLBCL_tier2.png)|||![PMBL](images/icons/PMBL_tier2.png)||

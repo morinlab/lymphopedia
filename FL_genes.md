@@ -109,7 +109,6 @@ link-citations: true
 |[HIST1H2BM](HIST1H2BM)|2, aSHM|[Krysiak et al](papers/krysiakRecurrentSomaticMutations2017b)[@krysiakRecurrentSomaticMutations2017b]||
 |[HIST1H3I](HIST1H3I)|2, aSHM|[Krysiak et al](papers/krysiakRecurrentSomaticMutations2017b)[@krysiakRecurrentSomaticMutations2017b]|[@paneaWholeGenomeLandscape2019]|
 |[HLA-B](HLA-B)|2||[@lohrDiscoveryPrioritizationSomatic2012a; @wienandGenomicAnalysesFlowsorted2019b]|
-|[HNRNPD](HNRNPD)|2|||
 |[IGLL5](IGLL5)|2, aSHM|[Russler et al](papers/russler-germainMutationsAssociatedProgression2023b)[@russler-germainMutationsAssociatedProgression2023b]|[@deschGenotypingCirculatingTumor2020; @paneaWholeGenomeLandscape2019]|
 |[JUP](JUP)|2|[Hubschmann et al](papers/hubschmannMutationalMechanismsShaping2021b)[@hubschmannMutationalMechanismsShaping2021b]||
 |[KIR3DL1](KIR3DL1)|2|[Russler et al](papers/russler-germainMutationsAssociatedProgression2023b)[@russler-germainMutationsAssociatedProgression2023b]||
@@ -129,7 +128,6 @@ link-citations: true
 |[PRKDC](PRKDC)|2|[Hubschmann et al](papers/hubschmannMutationalMechanismsShaping2021b)[@hubschmannMutationalMechanismsShaping2021b]|[@schmitzGeneticsPathogenesisDiffuse2018a]|
 |[PZP](PZP)|2|[Russler et al](papers/russler-germainMutationsAssociatedProgression2023b)[@russler-germainMutationsAssociatedProgression2023b]||
 |[RBM6](RBM6)|2|[Hubschmann et al](papers/hubschmannMutationalMechanismsShaping2021b)[@hubschmannMutationalMechanismsShaping2021b]||
-|[SESN1](SESN1)|2|[Oricchio et al](papers/oricchioGeneticEpigeneticInactivation2017b)[@oricchioGeneticEpigeneticInactivation2017b]||
 |[SHROOM3](SHROOM3)|2|[Russler et al](papers/russler-germainMutationsAssociatedProgression2023b)[@russler-germainMutationsAssociatedProgression2023b]||
 |[SRRM2](SRRM2)|2|[Russler et al](papers/russler-germainMutationsAssociatedProgression2023b)[@russler-germainMutationsAssociatedProgression2023b]|[@morinMutationalStructuralAnalysis2013]|
 |[STAB2](STAB2)|2|[Russler et al](papers/russler-germainMutationsAssociatedProgression2023b)[@russler-germainMutationsAssociatedProgression2023b]||
