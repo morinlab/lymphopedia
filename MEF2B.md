@@ -22,7 +22,6 @@ timeline
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
 |![MCL](images/icons/MCL_tier2.png)|2|relevance in MCL not firmly established[@beaLandscapeSomaticMutations2013]|
-|![BL](images/icons/BL_tier2.png)    |2-a | aSHM target; Although recurrent, the relevance of mutations in BL is tenuous |
 |![DLBCL](images/icons/DLBCL_tier1.png) |1-a | aSHM target and high-confidence DLBCL gene            [@morinFrequentMutationHistonemodifying2011]|
 |![FL](images/icons/FL_tier1.png)    |1-a | aSHM target and high-confidence FL gene               [@morinFrequentMutationHistonemodifying2011]|
 
@@ -101,6 +100,5 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/M
 <!-- DLBCL: morinFrequentMutationHistonemodifying2011 -->
 <!-- MCL: beaLandscapeSomaticMutations2013 -->
 <!-- FL: morinFrequentMutationHistonemodifying2011 -->
-<!-- BL: 2 -->
 
 ## References
