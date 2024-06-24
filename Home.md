@@ -22,7 +22,7 @@ config:
     showValues: false
     linkColor: target
     width: 750
-    height: 1300
+    height: 1100
     nodeAlignment: left
 ---
 sankey-beta
@@ -158,7 +158,7 @@ config:
     showValues: false
     linkColor: target
     width: 750
-    height: 1300
+    height: 1100
     nodeAlignment: right
 ---
 sankey-beta
