@@ -151,6 +151,32 @@ MCL, MCL-WGS, 5
 MCL-WGS, Nadeu 2020, 5
 MCL, MCL-exome, 28
 MCL-exome, Zhang 2014, 28
+MZL, MZL-exome, 28
+MZL-exome, Jallades 2017, 28
+MZL, MZL-Sanger, 5
+MZL-Sanger, Rossi 2011, 5
+MZL, MZL-exome/panel, 31
+MZL-exome/panel, Spina 2016, 31
+MZL, MZL-exome, 21
+MZL-exome, Rossi 2012, 21
+MZL, MZL-panel, 2
+MZL-panel, Vandenbrand 2017, 2
+MZL, MZL-Panel, 2
+MZL-Panel, Yan 2012, 2
+MZL, MZL-exome, 7
+MZL-exome, Parry 2013, 7
+Vandenbrand 2017, Tier 2 MZL genes, 2
+Rossi 2012, Tier 1 MZL genes, 10
+Rossi 2012, Tier 2 MZL genes, 11
+Yan 2012, Tier 1 MZL genes, 2
+Parry 2013, Tier 2 MZL genes, 7
+Spina 2016, Tier 1 MZL genes, 8
+Spina 2016, Tier 2 MZL genes, 23
+Jallades 2017, Tier 1 MZL genes, 2
+Jallades 2017, Tier 2 MZL genes, 26
+Rossi 2011, Tier 1 MZL genes, 4
+Rossi 2011, Tier 2 MZL genes, 1
+
 ```
 
 ## Gene lists
