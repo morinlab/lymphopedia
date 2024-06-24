@@ -22,7 +22,7 @@ To get started, select one of the gene lists from the table below then select th
 |FL|[66 genes](FL_genes#tier-1-fl-genes)|[50 genes](FL_genes#tier-2-fl-genes)|
 
 
-### History of lymphoma genes in rare entities
+### History of lymphoma genes in common entities
 
 ```mermaid
 ---
@@ -31,7 +31,7 @@ config:
     showValues: false
     linkColor: target
     width: 750
-    height: 1100
+    height: 1150
     nodeAlignment: left
 ---
 sankey-beta
@@ -168,7 +168,7 @@ config:
     showValues: false
     linkColor: target
     width: 750
-    height: 1100
+    height: 1050
     nodeAlignment: right
 ---
 sankey-beta
