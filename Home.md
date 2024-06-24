@@ -23,7 +23,7 @@ config:
     linkColor: target
     width: 775
     height: 1300
-    nodeAlignment: right
+    nodeAlignment: left
 ---
 sankey-beta
 Albuquerque 2017, DLBCL Tier 1, 3
