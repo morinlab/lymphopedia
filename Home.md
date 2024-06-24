@@ -184,24 +184,21 @@ Spina 2016, MZL Tier 2, 23
 Vandenbrand 2017, MZL Tier 2, 2
 Jallades 2017, MZL Tier 2, 26
 Rossi 2011, MZL Tier 2, 1
-MZL, MZL-Panel, 2
-MZL, MZL-Panel, 2
+MZL, MZL Panel, 2
+MZL, MZL Panel, 2
 MZL, MZL Sanger, 5
-MZL, MZL-exome, 21
-MZL, MZL-exome, 28
-MZL, MZL-exome, 7
-MZL, MZL-exome/panel, 31
+MZL, MZL exome, 21
+MZL, MZL exome, 28
+MZL, MZL exome, 7
+MZL, MZL exome/panel, 31
 MZL Sanger, Rossi 2011, 5
 
-MZL-Panel, Vandenbrand 2017, 2
-MZL-Panel, Yan 2012, 2
-
-
-MZL-exome, Jallades 2017, 28
-MZL-exome/panel, Spina 2016, 31
-
-MZL-exome, Rossi 2012, 21
-MZL-exome, Parry 2013, 7
+MZL Panel, Vandenbrand 2017, 2
+MZL Panel, Yan 2012, 2
+MZL exome, Jallades 2017, 28
+MZL exome/panel, Spina 2016, 31
+MZL exome, Rossi 2012, 21
+MZL exome, Parry 2013, 7
 
 Zhang 2014, MCL Tier 1, 2
 Zhang 2014, MCL Tier 2, 26
@@ -211,14 +208,14 @@ Nadeu 2020, MCL Tier 1, 3
 Nadeu 2020, MCL Tier 2, 2
 Pararajalingam 2020, MCL Tier 1, 6
 Pararajalingam 2020, MCL Tier 2, 1
-MCL, MCL-WGS/exome, 27
-MCL-WGS/exome, Bea 2013, 27
-MCL, MCL-WGS/exome, 7
-MCL-WGS/exome, Pararajalingam 2020, 7
-MCL, MCL-WGS, 5
-MCL-WGS, Nadeu 2020, 5
+MCL, MCL WGS/exome, 27
+MCL WGS/exome, Bea 2013, 27
+MCL, MCL WGS/exome, 7
+MCL WGS/exome, Pararajalingam 2020, 7
+MCL, MCL WGS, 5
+MCL WGS, Nadeu 2020, 5
 MCL, MCL-exome, 28
-MCL-exome, Zhang 2014, 28
+MCL exome, Zhang 2014, 28
 
 PMBL Sanger, Weniger 2006, 2
 PMBL, PMBL Sanger, 2
@@ -241,27 +238,25 @@ Sarkozy 2021, PMBL Tier 1, 5
 Sarkozy 2021, PMBL Tier 2, 6
 Mottok 2019, PMBL Tier 1, 6
 Mottok 2019, PMBL Tier 2, 15
-PMBL, PMBL-exome, 13
+PMBL, PMBL exome, 13
+PMBL, PMBL exome, 10
+PMBL, PMBL panel, 10
+PMBL, PMBL exome, 7
+PMBL, PMBL exome, 7
+PMBL, PMBL exome, 29
+PMBL, PMBL exome, 11
+PMBL, PMBL exome, 21
+PMBL exome, Gomez 2023, 7
+PMBL exome, Wienand 2019, 7
+PMBL exome, Reichel 2015, 29
+PMBL, PMBL Array/Sanger, 2
+PMBL Array/Sanger, Otto 2012, 2
+PMBL exome, Sarkozy 2021, 11
 
-PMBL, PMBL-exome, 10
-
-PMBL, PMBL-panel, 10
-PMBL, PMBL-exome, 7
-PMBL, PMBL-exome, 7
-PMBL, PMBL-exome, 29
-PMBL, PMBL-exome, 11
-PMBL, PMBL-exome, 21
-PMBL-exome, Gomez 2023, 7
-PMBL-exome, Wienand 2019, 7
-PMBL-exome, Reichel 2015, 29
-PMBL, PMBL-Array/Sanger, 2
-PMBL-Array/Sanger, Otto 2012, 2
-PMBL-exome, Sarkozy 2021, 11
-
-PMBL-exome, Mottok 2019, 21
-PMBL-exome, Tiacci 2018, 10
-PMBL-exome, Duns 2021, 13
-PMBL-panel, Desch 2020, 10
+PMBL exome, Mottok 2019, 21
+PMBL exome, Tiacci 2018, 10
+PMBL exome, Duns 2021, 13
+PMBL panel, Desch 2020, 10
 ```
 
 
