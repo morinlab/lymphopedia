@@ -203,6 +203,8 @@ MZL, MZL-exome, 21
 MZL-exome, Rossi 2012, 21
 MZL, MZL-exome, 7
 MZL-exome, Parry 2013, 7
+PMBL, PMBL-Sanger, 2
+PMBL-Sanger, Weniger 2006, 2
 Tiacci 2018, PMBL Tier 1, 1
 Tiacci 2018, PMBL Tier 2, 9
 Duns 2021, PMBL Tier 1, 5
@@ -230,8 +232,7 @@ PMBL, PMBL-panel, 10
 PMBL-panel, Desch 2020, 10
 PMBL, PMBL-exome, 7
 PMBL-exome, Gomez 2023, 7
-PMBL, PMBL-Sanger, 2
-PMBL-Sanger, Weniger 2006, 2
+
 PMBL, PMBL-exome, 7
 PMBL-exome, Wienand 2019, 7
 PMBL, PMBL-exome, 29
