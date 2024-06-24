@@ -151,6 +151,17 @@ Nadeu 2020, MCL Tier 1, 3
 Nadeu 2020, MCL Tier 2, 2
 Pararajalingam 2020, MCL Tier 1, 6
 Pararajalingam 2020, MCL Tier 2, 1
+Vandenbrand 2017, MZL Tier 2, 2
+Rossi 2012, MZL Tier 1, 10
+Rossi 2012, MZL Tier 2, 11
+Yan 2012, MZL Tier 1, 2
+Parry 2013, MZL Tier 2, 7
+Spina 2016, MZL Tier 1, 8
+Spina 2016, MZL Tier 2, 23
+Jallades 2017, MZL Tier 1, 2
+Jallades 2017, MZL Tier 2, 26
+Rossi 2011, MZL Tier 1, 4
+Rossi 2011, MZL Tier 2, 1
 MZL, MZL-exome, 28
 MZL-exome, Jallades 2017, 28
 MZL, MZL-Sanger, 5
@@ -165,17 +176,6 @@ MZL, MZL-Panel, 2
 MZL-Panel, Yan 2012, 2
 MZL, MZL-exome, 7
 MZL-exome, Parry 2013, 7
-Vandenbrand 2017, MZL Tier 2, 2
-Rossi 2012, MZL Tier 1, 10
-Rossi 2012, MZL Tier 2, 11
-Yan 2012, MZL Tier 1, 2
-Parry 2013, MZL Tier 2, 7
-Spina 2016, MZL Tier 1, 8
-Spina 2016, MZL Tier 2, 23
-Jallades 2017, MZL Tier 1, 2
-Jallades 2017, MZL Tier 2, 26
-Rossi 2011, MZL Tier 1, 4
-Rossi 2011, MZL Tier 2, 1
 Tiacci 2018, PMBL Tier 1, 1
 Tiacci 2018, PMBL Tier 2, 9
 Duns 2021, PMBL Tier 1, 5
