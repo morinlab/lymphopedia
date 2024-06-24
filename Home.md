@@ -61,37 +61,37 @@ Schmitz 2018, DLBCL Tier 1, 7
 Schmitz 2018, DLBCL Tier 2, 9
 Morin 2011, DLBCL Tier 1, 24
 Morin 2011, DLBCL Tier 2, 1
-DLBCL, DLBCL-exome, 7
-DLBCL-exome, Pasqualucci 2011, 7
-DLBCL, DLBCL-exome, 19
-DLBCL-exome, Chapuy 2018, 19
-DLBCL, DLBCL-WGS, 23
-DLBCL-WGS, Hubschmann 2021, 23
-DLBCL, DLBCL-WGS/exome, 2
-DLBCL, DLBCL-exome, 2
-DLBCL-exome, Pasqualucci 2011, 2
-DLBCL, DLBCL-RNA-seq/WGS, 25
-DLBCL-RNA-seq/WGS, Morin 2011, 25
-DLBCL, DLBCL-exome, 19
-DLBCL-exome, Zhang 2013, 19
-DLBCL, DLBCL-exome, 16
-DLBCL-exome, Schmitz 2018, 16
-DLBCL, DLBCL-exome, 60
-DLBCL-exome, Reddy 2017, 60
-DLBCL, DLBCL-exome, 4
-DLBCL-exome, Lohr 2012, 4
-DLBCL, DLBCL-exome, 3
-DLBCL-exome, Albuquerque 2017, 3
-DLBCL, DLBCL-exome, 2
-DLBCL-exome, Morin 2016, 2
-DLBCL, DLBCL-WGS, 40
-DLBCL-WGS, Morin 2013, 40
-DLBCL, DLBCL-exome, 2
-DLBCL-exome, Mareschal 2016, 2
-DLBCL, DLBCL-WGS, 20
-DLBCL-WGS, Arthur 2018, 20
-DLBCL, DLBCL-Sanger, 4
-DLBCL-Sanger, Pasqualucci 2001, 4
+DLBCL, DLBCL exome, 7
+DLBCL exome, Pasqualucci 2011, 7
+DLBCL, DLBCL exome, 19
+DLBCL exome, Chapuy 2018, 19
+DLBCL, DLBCL WGS, 23
+DLBCL WGS, Hubschmann 2021, 23
+DLBCL, DLBCL WGS/exome, 2
+DLBCL, DLBCL exome, 2
+DLBCL exome, Pasqualucci 2011, 2
+DLBCL, DLBCL RNA-seq/WGS, 25
+DLBCL RNA-seq/WGS, Morin 2011, 25
+DLBCL, DLBCL exome, 19
+DLBCL exome, Zhang 2013, 19
+DLBCL, DLBCL exome, 16
+DLBCL exome, Schmitz 2018, 16
+DLBCL, DLBCL exome, 60
+DLBCL exome, Reddy 2017, 60
+DLBCL, DLBCL exome, 4
+DLBCL exome, Lohr 2012, 4
+DLBCL, DLBCL exome, 3
+DLBCL exome, Albuquerque 2017, 3
+DLBCL, DLBCL exome, 2
+DLBCL exome, Morin 2016, 2
+DLBCL, DLBCL WGS, 40
+DLBCL WGS, Morin 2013, 40
+DLBCL, DLBCL exome, 2
+DLBCL exome, Mareschal 2016, 2
+DLBCL, DLBCL WGS, 20
+DLBCL WGS, Arthur 2018, 20
+DLBCL, DLBCL Sanger, 4
+DLBCL Sanger, Pasqualucci 2001, 4
 Pasqualucci 2011, FL Tier 1, 2
 Hubschmann 2021, FL Tier 1, 2
 Hubschmann 2021, FL Tier 2, 15
@@ -102,18 +102,18 @@ Morin 2011, FL Tier 2, 1
 Okosun 2016, FL Tier 1, 2
 Russler-germain 2023, FL Tier 1, 1
 Russler-germain 2023, FL Tier 2, 19
-FL, FL-WGS, 17
-FL-WGS, Hubschmann 2021, 17
-FL, FL-exome, 2
-FL-exome, Pasqualucci 2011, 2
-FL, FL-RNA-seq/WGS, 15
-FL-RNA-seq/WGS, Morin 2011, 15
-FL, FL-exome, 22
-FL-exome, Krysiak 2017, 22
-FL, FL-exome, 20
-FL-exome, Russler-germain 2023, 20
-FL, FL-WGS, 2
-FL-WGS, Okosun 2016, 2
+FL, FL WGS, 17
+FL WGS, Hubschmann 2021, 17
+FL, FL exome, 2
+FL exome, Pasqualucci 2011, 2
+FL, FL RNA-seq/WGS, 15
+FL RNA-seq/WGS, Morin 2011, 15
+FL, FL exome, 22
+FL exome, Krysiak 2017, 22
+FL, FL exome, 20
+FL exome, Russler-germain 2023, 20
+FL, FL WGS, 2
+FL WGS, Okosun 2016, 2
 Muppidi 2014, BL Tier 1, 1
 Muppidi 2014, BL Tier 2, 2
 Panea 2019, BL Tier 1, 4
@@ -128,22 +128,22 @@ Schmitz 2012, BL Tier 1, 3
 Schmitz 2012, BL Tier 2, 16
 Love 2012, BL Tier 1, 3
 Love 2012, BL Tier 2, 56
-BL, BL-RNA-seq/exome, 40
-BL-RNA-seq/exome, Panea 2019, 40
-BL, BL-Sanger, 3
-BL-Sanger, Muppidi 2014, 3
-BL, BL-WGS, 5
-BL-WGS, Thomas 2023, 5
-BL, BL-panel, 25
-BL-panel, Burkhardt 2022, 25
-BL, BL-WGS, 13
-BL-WGS, Grande 2019, 13
-BL, BL-RNA-seq/WGS/exome, 5
-BL-RNA-seq/WGS/exome, Richter 2012, 5
-BL, BL-exome, 59
-BL-exome, Love 2012, 59
-BL, BL-RNA-seq, 19
-BL-RNA-seq, Schmitz 2012, 19
+BL, BL RNA-seq/exome, 40
+BL RNA-seq/exome, Panea 2019, 40
+BL, BL Sanger, 3
+BL Sanger, Muppidi 2014, 3
+BL, BL WGS, 5
+BL WGS, Thomas 2023, 5
+BL, BL panel, 25
+BL panel, Burkhardt 2022, 25
+BL, BL WGS, 13
+BL WGS, Grande 2019, 13
+BL, BL RNA-seq/WGS/exome, 5
+BL RNA-seq/WGS/exome, Richter 2012, 5
+BL, BL exome, 59
+BL exome, Love 2012, 59
+BL, BL RNA-seq, 19
+BL RNA-seq, Schmitz 2012, 19
 ```
 
 
