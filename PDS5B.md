@@ -54,7 +54,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/P
 
 ## All Mutations
 
-### FL<sup>2</sup>
+### FL[@hubschmannMutationalMechanismsShaping2021b]
 
 [SP116618](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP116618.html)
 [SP116686](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP116686.html)
@@ -64,6 +64,10 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/P
 [SP59360](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP59360.html)
 [SP59452](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP59452.html)
 
+### DLBCL[@morinMutationalStructuralAnalysis2013]
+
+[RG024](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG024.html)
+[RG065](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG065.html)
 
 ## References
 
