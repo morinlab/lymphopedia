@@ -55,4 +55,13 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/D
 <!-- DLBCL: morinMutationalStructuralAnalysis2013 -->
 <!-- MZL: jalladesExomeSequencingIdentifies2017 -->
 
+## All Mutations
+
+### DLBCL[@morinMutationalStructuralAnalysis2013]
+
+[RG026](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG026.html)
+[RG027](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG027.html)
+[RG036](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG036.html)
+[RG130](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG130.html)
+
 ## References

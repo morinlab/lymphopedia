@@ -50,6 +50,13 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/C
 ## CNTNAP5 Expression
 ![](images/gene_expression/CNTNAP5_by_pathology.svg)
 
+## All Mutations[@morinMutationalStructuralAnalysis2013]
+
+[RG014](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG014.html)
+[RG054](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG054.html)
+[RG115](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG115.html)
+[RG136](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG136.html)
+
 ## References
 
 <!-- ORIGIN: morinMutationalStructuralAnalysis2013 -->
