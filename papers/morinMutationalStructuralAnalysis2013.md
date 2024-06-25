@@ -46,8 +46,8 @@ All other DLBCL studies, DLBCL Tier 2, 186
 |[TAF1](../TAF1)|1 |
 
 ### Tier 2
-|Novel Gene|BL tier|Average variant quality|QC outcome|
-|:-|:-:|:-:|:-:|
+|Novel Gene|DLBCL Tier|Average variant quality|QC outcome|
+|:--|:-:|:--:|:-:|
 |[ABI3BP](../ABI3BP)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
 |[CDH9](../CDH9)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
 |[CNTNAP5](../CNTNAP5)|2 |&starf; &starf; &starf; &starf; &star;|**Pass**|
