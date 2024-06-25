@@ -49,11 +49,11 @@ All other DLBCL studies, DLBCL Tier 2, 186
 |Novel Gene|BL tier|Average variant quality|QC outcome|
 |:-|:-:|:-:|:-:|
 |[ABI3BP](../ABI3BP)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
-|[CDH9](../CDH9)|2 |||
-|[CNTNAP5](../CNTNAP5)|2 |||
-|[DNAH5](../DNAH5)|2 |||
-|[DSG4](../DSG4)|2 |||
-|[FAM38B](../FAM38B)|2 |||
+|[CDH9](../CDH9)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
+|[CNTNAP5](../CNTNAP5)|2 |&starf; &starf; &starf; &starf; &star;|**Pass**|
+|[DNAH5](../DNAH5)|2 |&starf; &starf; &starf; &starf; &star;|**Pass**|
+|[DSG4](../DSG4)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
+|[FAM38B](../FAM38B)|2 |&starf; &starf; &star; &star; &star;|**Fail**|
 |[FAT4](../FAT4)|2 |||
 |[FNDC1](../FNDC1)|2 |||
 |[HDAC7](../HDAC7)|2 |||
