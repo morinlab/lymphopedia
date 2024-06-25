@@ -47,7 +47,7 @@ All other DLBCL studies, DLBCL Tier 2, 181
 ### Tier 2
 |Novel Gene|BL tier|Average variant quality|QC outcome|
 |:-|:-:|:-:|:-:|
-|[CCL4](../CCL4)|2 |
+|[CCL4](../CCL4)|2 |*No variants reported*|**Fail**|
 |[COQ7](../COQ7)|2 |
 |[CRIP1](../CRIP1)|2 |
 |[DOCK1](../DOCK1)|2 |
@@ -55,12 +55,12 @@ All other DLBCL studies, DLBCL Tier 2, 181
 |[GABRA2](../GABRA2)|2 |
 |[IL6](../IL6)|2 |
 |[LYN](../LYN)|2 |
-|[NANOG](../NANOG)|2 |
+|[NANOG](../NANOG)|2 |*No variants reported*|**Fail**|
 |[NAV1](../NAV1)|2 |
 |[NLRP8](../NLRP8)|2 |
 |[PDE4DIP](../PDE4DIP)|2 |
 |[PRPS1](../PRPS1)|2 |
-|[RAD9A](../RAD9A)|2 |
+|[RAD9A](../RAD9A)|2 |*No variants reported*|**Fail**|
 |[SMEK1](../SMEK1)|2 |
 |[TLR2](../TLR2)|2 |
 |[ZNF423](../ZNF423)|2 |

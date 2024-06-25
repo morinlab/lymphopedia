@@ -60,5 +60,10 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/T
 <!-- DLBCL: chapuyMolecularSubtypesDiffuse2018b -->
 <!-- MCL: beaLandscapeSomaticMutations2013 -->
 
+## All Mutations
+
+[DLBCL-RICOVER_1269-Tumor](https://bcgsc.ca/downloads/morinlab/GAMBL/Chapuy_2018/DLBCL-RICOVER_1269-Tumor.html)
+[DLBCL-RICOVER_174-Tumor](https://bcgsc.ca/downloads/morinlab/GAMBL/Chapuy_2018/DLBCL-RICOVER_174-Tumor.html)
+
 ## References
 

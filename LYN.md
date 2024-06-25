@@ -19,7 +19,7 @@ timeline
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene[@chapuyMolecularSubtypesDiffuse2018b]|
+|![DLBCL](images/icons/DLBCL_tier1.png) |2   |low-confidence DLBCL gene[@chapuyMolecularSubtypesDiffuse2018b]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -54,6 +54,12 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/L
 <!-- FLAGGED FOR TIER 2 -->
 <!-- ORIGIN: chapuyMolecularSubtypesDiffuse2018b -->
 <!-- DLBCL: chapuyMolecularSubtypesDiffuse2018b -->
+
+## All Mutations
+
+[DLBCL-RICOVER_1081-Tumor](https://bcgsc.ca/downloads/morinlab/GAMBL/Chapuy_2018/DLBCL-RICOVER_1081-Tumor.html)
+[DLBCL-RICOVER_181-Tumor](https://bcgsc.ca/downloads/morinlab/GAMBL/Chapuy_2018/DLBCL-RICOVER_181-Tumor.html)
+[DLBCL-RICOVER_773-Tumor](https://bcgsc.ca/downloads/morinlab/GAMBL/Chapuy_2018/DLBCL-RICOVER_773-Tumor.html)
 
 ## References
 
