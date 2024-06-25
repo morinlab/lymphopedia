@@ -262,7 +262,7 @@ PMBL panel, Desch 2020, 10
 
 
 
-## B-cell Lymphoma aSHM targets
+## Regions commonly affected by aSHM
 
 [hg19 coordinates](ashm)
 
@@ -297,11 +297,13 @@ PMBL panel, Desch 2020, 10
 **Fail** - Some studies with large additions to Tier 2 lists have undergone manual review of the primary data. If the majority of mutations in a gene fail QC, the gene will be given the designation *2-F*. For example, see [MARK1](MARK1).
 
 
-## B-cell lymphoma mutation browser
+## Other resources available for each gene
+
+### B-cell lymphoma genome browser
 
 ![](images/proteinpaint/FOXO1_NM_002015.svg)
 
-## Gene expression distributions across B-cell lymphomas
+### Gene expression overview
 
 ![](images/gene_expression/FOXO1_by_pathology.svg)
 
