@@ -282,15 +282,15 @@ PMBL panel, Desch 2020, 10
 |[@paneaWholeGenomeLandscape2019](papers/paneaWholeGenomeLandscape2019)|BL|4|22 (55%)|
 |[@hubschmannMutationalMechanismsShaping2021b](papers/hubschmannMutationalMechanismsShaping2021b)|DLBCL,FL|4|3 (9%)|
 
-## Categorization
+## Categorization of genes
 
-### Gene Tiers
+### Tiers
 
 **Tier 2** - Any gene described as significantly or recurrently mutated in one or more types of B-cell lymphoma is initially assigned to Tier 2 for that entity. The study describing the mutation of that gene in a particular entity is considered the originating study. 
 
 **Tier 1** - Genes can transition to Tier 1 only after additional studies have demonstrated the recurrence of mutations in the same entity.  
 
-### Gene Designations
+### Additional Designations
 
 **aSHM** - Denotes genes as affected by aberrant somatic hypermutation (aSHM). Tier 1 and Tier 2 genes can have this designation, respectively abbreviated as *1-a* and *2-a*. For example, see [BCL7A](BCL7A).
 
