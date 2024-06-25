@@ -55,5 +55,9 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/S
 <!-- DLBCL: morinMutationalStructuralAnalysis2013 -->
 <!-- FL: russler-germainMutationsAssociatedProgression2023b -->
 
+## All Mutations
+
+[RG043](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG043.html)
+
 ## References
 
