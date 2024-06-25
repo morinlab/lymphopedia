@@ -277,7 +277,7 @@ PMBL panel, Desch 2020, 10
 |Study|Entity|Novel Tier 1|Genes that failed QC|
 |:-:|:-:|:-:|:-:|
 |[@loveGeneticLandscapeMutations2012](papers/loveGeneticLandscapeMutations2012)|BL|3|48 (84%)|
-|[@morinMutationalStructuralAnalysis2013](papers/morinMutationalStructuralAnalysis2013)|DLBCL|11|TBD|
+|[@morinMutationalStructuralAnalysis2013](papers/morinMutationalStructuralAnalysis2013)|DLBCL|9|7 (24%)|
 |[@reddyGeneticFunctionalDrivers2017](papers/reddyGeneticFunctionalDrivers2017)|DLBCL|6|29 (55%)|
 |[@paneaWholeGenomeLandscape2019](papers/paneaWholeGenomeLandscape2019)|BL|4|22 (55%)|
 |[@hubschmannMutationalMechanismsShaping2021b](papers/hubschmannMutationalMechanismsShaping2021b)|DLBCL,FL|4|3 (9%)|
