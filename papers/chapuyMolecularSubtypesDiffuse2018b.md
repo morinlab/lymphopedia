@@ -61,7 +61,7 @@ All other DLBCL studies, DLBCL Tier 2, 181
 |[PDE4DIP](../PDE4DIP)|2 |
 |[PRPS1](../PRPS1)|2 |
 |[RAD9A](../RAD9A)|2 |*No variants reported*|**Fail**|
-|[SMEK1](../SMEK1)|2 |
+|[SMEK1](../SMEK1)|2 |*No variants in paired samples*|**Fail**|
 |[TLR2](../TLR2)|2 |
 |[ZNF423](../ZNF423)|2 |
 
