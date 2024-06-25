@@ -53,19 +53,16 @@ All other DLBCL studies, DLBCL Tier 2, 186
 |[CNTNAP5](../CNTNAP5)|2 |&starf; &starf; &starf; &starf; &star;|**Pass**|
 |[DNAH5](../DNAH5)|2 |&starf; &starf; &starf; &starf; &star;|**Pass**|
 |[DSG4](../DSG4)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
-|[FAM38B](../FAM38B)|2 |&starf; &starf; &star; &star; &star;|**Fail**|
 |[FAT4](../FAT4)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
-|[FNDC1](../FNDC1)|2 |&starf; &starf; &star; &star; &star;|**Fail**|
 |[HDAC7](../HDAC7)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
 |[HIST1H2AG](../HIST1H2AG)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
-|[IER2](../IER2)|2 |&starf; &star; &star; &star; &star;|**Fail**|
 |[IFNGR1](../IFNGR1)|2 |&starf; &starf; &starf; &starf; &star;|**Pass**|
 |[LRRN3](../LRRN3)|2 |&starf; &starf; &starf; &starf; &starf;|**Pass**|
 |[MPDZ](../MPDZ)|2 |&starf; &starf; &starf; &starf; &star;|**Pass**|
-|[NLRP5](../NLRP5)|2 |||
-|[ODZ3](../ODZ3)|2 |||
-|[P2RX5](../P2RX5)|2 |||
-|[PASK](../PASK)|2 |||
+|[NLRP5](../NLRP5)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
+|[ODZ3](../ODZ3)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
+|[P2RX5](../P2RX5)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
+|[PASK](../PASK)|2 |&starf; &starf; &starf; &starf; &star;|**Pass**|
 |[PCDHB11](../PCDHB11)|2 |
 |[PDS5B](../PDS5B)|2 |
 |[PKD1](../PKD1)|2 |
@@ -77,7 +74,9 @@ All other DLBCL studies, DLBCL Tier 2, 186
 |[SRRM2](../SRRM2)|2 |
 |[SYPL1](../SYPL1)|2 |
 |[WDFY3](../WDFY3)|2 |
-
+|[IER2](../IER2)|2 |&starf; &star; &star; &star; &star;|**Fail**|
+|[FAM38B](../FAM38B)|2 |&starf; &starf; &star; &star; &star;|**Fail**|
+|[FNDC1](../FNDC1)|2 |&starf; &starf; &star; &star; &star;|**Fail**|
 
 # Details
 
