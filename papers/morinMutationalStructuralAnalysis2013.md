@@ -63,20 +63,20 @@ All other DLBCL studies, DLBCL Tier 2, 186
 |[ODZ3](../ODZ3)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
 |[P2RX5](../P2RX5)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
 |[PASK](../PASK)|2 |&starf; &starf; &starf; &starf; &star;|**Pass**|
-|[PCDHB11](../PCDHB11)|2 |
-|[PDS5B](../PDS5B)|2 |
-|[PKD1](../PKD1)|2 |
-|[POGZ](../POGZ)|2 |
-|[PRKCB](../PRKCB)|2 |
-|[PTPN23](../PTPN23)|2 |
-|[SAMD9L](../SAMD9L)|2 |
-|[SARM1](../SARM1)|2 |
-|[SRRM2](../SRRM2)|2 |
-|[SYPL1](../SYPL1)|2 |
-|[WDFY3](../WDFY3)|2 |
+|[PCDHB11](../PCDHB11)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
+|[PDS5B](../PDS5B)|2 |&starf; &starf; &starf; &starf; &star;|**Pass**|
+|[PRKCB](../PRKCB)|2 |&starf; &starf; &starf; &starf; &star;|**Pass**|
+|[SAMD9L](../SAMD9L)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
+|[SRRM2](../SRRM2)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
+|[SYPL1](../SYPL1)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
+|[WDFY3](../WDFY3)|2 |&starf; &starf; &starf; &starf; &star;|**Pass**|
+|[POGZ](../POGZ)|2 |&starf; &starf; &star; &star; &star;|**Fail**|
+|[PKD1](../PKD1)|2 |&starf; &starf; &star; &star; &star;|**Fail**|
 |[IER2](../IER2)|2 |&starf; &star; &star; &star; &star;|**Fail**|
 |[FAM38B](../FAM38B)|2 |&starf; &starf; &star; &star; &star;|**Fail**|
 |[FNDC1](../FNDC1)|2 |&starf; &starf; &star; &star; &star;|**Fail**|
+|[PTPN23](../PTPN23)|2 |&starf; &starf; &star; &star; &star;|**Fail**|
+|[SARM1](../SARM1)|2 |&starf; &starf; &star; &star; &star;|**Fail**|
 
 # Details
 
