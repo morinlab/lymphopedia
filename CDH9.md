@@ -53,7 +53,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/C
 <!-- ORIGIN: morinMutationalStructuralAnalysis2013 -->
 <!-- DLBCL: morinMutationalStructuralAnalysis2013 -->
 
-## All Mutations
+## All Mutations[@morinMutationalStructuralAnalysis2013]
 
 [RG008](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG008.html)
 [RG034](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG034.html)
