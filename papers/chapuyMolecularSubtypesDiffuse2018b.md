@@ -47,16 +47,16 @@ All other DLBCL studies, DLBCL Tier 2, 181
 ### Tier 2
 |Novel Gene|DLBCL tier|Average variant quality|QC outcome|
 |:-|:-:|:-:|:-:|
+|[GABRA2](../GABRA2)|2 |TBD|TBD|
 |[COQ7](../COQ7)|2 |&starf; &starf; &starf; &star; &star; |**Pass**| 
-|[CRIP1](../CRIP1)|2 |
+|[CRIP1](../CRIP1)|2 |&starf; &starf; &starf; &star; &star; |**Pass**| 
 |[DOCK1](../DOCK1)|2 |&starf; &starf; &starf; &star; &star; |**Pass**| 
-|[GABRA2](../GABRA2)|2 |
-|[IL6](../IL6)|2 |
+|[NAV1](../NAV1)|2 |TBD|TBD|
+|[IL6](../IL6)|2 |&starf; &starf; &starf; &star; &star; |**Pass**| 
 |[LYN](../LYN)|2 |&starf; &starf; &starf; &starf; &star; |**Pass**| 
-|[NAV1](../NAV1)|2 |
 |[PRPS1](../PRPS1)|2 |&starf; &starf; &starf; &starf; &star; |**Pass**| 
-|[TLR2](../TLR2)|2 |
-|[ZNF423](../ZNF423)|2 |
+|[TLR2](../TLR2)|2 |&starf; &starf; &starf; &starf; &star; |**Pass**| 
+|[ZNF423](../ZNF423)|2 |&starf; &starf; &starf; &star; &star; |**Pass**| 
 |[FUT5](../FUT5)|2 |&starf; &star; &star; &star; &star; |**Fail**| 
 |[RAD9A](../RAD9A)|2 |*No variants reported*|**Fail**|
 |[CCL4](../CCL4)|2 |*No variants reported*|**Fail**|
