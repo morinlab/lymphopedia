@@ -272,7 +272,7 @@ PMBL panel, Desch 2020, 10
 
 ### [All studies](Papers.md)
 
-### Studies selected for QC
+### Studies selected for manual review
 
 |Study|Entity|Novel Tier 1|Genes that failed QC|
 |:-:|:-:|:-:|:-:|
