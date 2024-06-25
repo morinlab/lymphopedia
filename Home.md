@@ -275,7 +275,7 @@ PMBL panel, Desch 2020, 10
 ### Studies selected for manual review
 
 |Study|Method|Entity|Tier 1 genes|Genes failing QC|
-|:---:|:--:|:-:|:-:|:--:|
+|:---:|:--:|:-:|:-:|:-:|
 |[@loveGeneticLandscapeMutations2012](papers/loveGeneticLandscapeMutations2012)|Exome|BL|3|48 (84%)|
 |[@morinMutationalStructuralAnalysis2013](papers/morinMutationalStructuralAnalysis2013)|WGS|DLBCL|9|7 (24%)|
 |[@reddyGeneticFunctionalDrivers2017](papers/reddyGeneticFunctionalDrivers2017)|Exome|DLBCL|6|29 (55%)|
