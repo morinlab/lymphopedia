@@ -45,25 +45,25 @@ All other DLBCL studies, DLBCL Tier 2, 181
 |[LTB](../LTB)|1 |
 
 ### Tier 2
-|Novel Gene|BL tier|Average variant quality|QC outcome|
+|Novel Gene|DLBCL tier|Average variant quality|QC outcome|
 |:-|:-:|:-:|:-:|
-|[CCL4](../CCL4)|2 |*No variants reported*|**Fail**|
-|[COQ7](../COQ7)|2 |
+|[COQ7](../COQ7)|2 |&starf; &starf; &starf; &star; &star; |**Pass**| 
 |[CRIP1](../CRIP1)|2 |
-|[DOCK1](../DOCK1)|2 |
-|[FUT5](../FUT5)|2 |
+|[DOCK1](../DOCK1)|2 |&starf; &starf; &starf; &star; &star; |**Pass**| 
 |[GABRA2](../GABRA2)|2 |
 |[IL6](../IL6)|2 |
-|[LYN](../LYN)|2 |
-|[NANOG](../NANOG)|2 |*No variants reported*|**Fail**|
+|[LYN](../LYN)|2 |&starf; &starf; &starf; &starf; &star; |**Pass**| 
 |[NAV1](../NAV1)|2 |
-|[NLRP8](../NLRP8)|2 |
-|[PDE4DIP](../PDE4DIP)|2 |
-|[PRPS1](../PRPS1)|2 |
-|[RAD9A](../RAD9A)|2 |*No variants reported*|**Fail**|
-|[SMEK1](../SMEK1)|2 |*No variants in paired samples*|**Fail**|
+|[PRPS1](../PRPS1)|2 |&starf; &starf; &starf; &starf; &star; |**Pass**| 
 |[TLR2](../TLR2)|2 |
 |[ZNF423](../ZNF423)|2 |
+|[FUT5](../FUT5)|2 |&starf; &star; &star; &star; &star; |**Fail**| 
+|[RAD9A](../RAD9A)|2 |*No variants reported*|**Fail**|
+|[CCL4](../CCL4)|2 |*No variants reported*|**Fail**|
+|[SMEK1](../SMEK1)|2 |*No variants in paired samples*|**Fail**|
+|[NANOG](../NANOG)|2 |*No variants reported*|**Fail**|
+|[NLRP8](../NLRP8)|2 |&starf; &starf; &star; &star; &star; |**Fail**| 
+|[PDE4DIP](../PDE4DIP)|2 |&starf; &starf; &star; &star; &star; |**Fail**|
 
 
 # Details
