@@ -6,9 +6,10 @@ bibliography: 'morinlab.bib'
 # @morinMutationalStructuralAnalysis2013
 ## Summary of novel genes
 
-|Entity| Tier 1 genes| Tier 2 genes|
-|:-:|:-:|:-:|
-|DLBCL|9|29|
+|Entity| Total| Tier 1| Tier 2| Tier 2 Pass| Tier 2 Fail| Fail rate |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|DLBCL |38|9|29|22|7| 24% |
+
 ```mermaid
 ---
 config:
@@ -22,12 +23,10 @@ config:
         suffix: ' genes)'
 ---
 sankey-beta
-This study, New Tier 1, 9
-New Tier 1, DLBCL Tier 1, 9
-This study, New Tier 2, 29
-New Tier 2, DLBCL Tier 2, 29
-All other DLBCL studies, DLBCL Tier 1, 118
-All other DLBCL studies, DLBCL Tier 2, 186
+New to this study, DLBCL Tier 1, 9
+New to this study, DLBCL Tier 2, 29
+DLBCL Tier 2, Pass QC, 22
+DLBCL Tier 2, Fail QC, 7
 ```
 
 ## Novel genes reported in this study
