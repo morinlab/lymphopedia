@@ -6,9 +6,15 @@ bibliography: 'morinlab.bib'
 # @chapuyMolecularSubtypesDiffuse2018b
 ## Summary of novel genes
 
+|Entity| Total| Tier 1| Tier 2| Tier 2 Pass| Tier 2 Fail| Fail Rate|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|DLBCL|19|2|17| ||  |
+
 |Entity| Tier 1 genes| Tier 2 genes|
 |:-:|:-:|:-:|
 |DLBCL|2|17|
+
+
 ```mermaid
 ---
 config:
@@ -39,8 +45,8 @@ All other DLBCL studies, DLBCL Tier 2, 181
 |[LTB](../LTB)|1 |
 
 ### Tier 2
-|New gene|DLBCL tier|
-|:-|:-:|
+|Novel Gene|BL tier|Average variant quality|QC outcome|
+|:-|:-:|:-:|:-:|
 |[CCL4](../CCL4)|2 |
 |[COQ7](../COQ7)|2 |
 |[CRIP1](../CRIP1)|2 |
