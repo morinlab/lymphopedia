@@ -54,14 +54,14 @@ All other DLBCL studies, DLBCL Tier 2, 186
 |[DNAH5](../DNAH5)|2 |&starf; &starf; &starf; &starf; &star;|**Pass**|
 |[DSG4](../DSG4)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
 |[FAM38B](../FAM38B)|2 |&starf; &starf; &star; &star; &star;|**Fail**|
-|[FAT4](../FAT4)|2 |||
-|[FNDC1](../FNDC1)|2 |||
-|[HDAC7](../HDAC7)|2 |||
-|[HIST1H2AG](../HIST1H2AG)|2 |||
-|[IER2](../IER2)|2 |||
-|[IFNGR1](../IFNGR1)|2 |||
-|[LRRN3](../LRRN3)|2 |||
-|[MPDZ](../MPDZ)|2 |||
+|[FAT4](../FAT4)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
+|[FNDC1](../FNDC1)|2 |&starf; &starf; &star; &star; &star;|**Fail**|
+|[HDAC7](../HDAC7)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
+|[HIST1H2AG](../HIST1H2AG)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
+|[IER2](../IER2)|2 |&starf; &star; &star; &star; &star;|**Fail**|
+|[IFNGR1](../IFNGR1)|2 |&starf; &starf; &starf; &starf; &star;|**Pass**|
+|[LRRN3](../LRRN3)|2 |&starf; &starf; &starf; &starf; &starf;|**Pass**|
+|[MPDZ](../MPDZ)|2 |&starf; &starf; &starf; &starf; &star;|**Pass**|
 |[NLRP5](../NLRP5)|2 |||
 |[ODZ3](../ODZ3)|2 |||
 |[P2RX5](../P2RX5)|2 |||
