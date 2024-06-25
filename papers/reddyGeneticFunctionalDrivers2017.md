@@ -8,7 +8,7 @@ bibliography: 'morinlab.bib'
 
 |Entity| Total| Tier 1| Tier 2| Tier 2 Pass| Tier 2 Fail|Fail rate |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|DLBCL|60| 8|52|23|29|56%|
+|DLBCL|59| 6|53|24|29|55%|
 
 ```mermaid
 ---
@@ -37,12 +37,10 @@ DLBCL Tier 2, Fail QC, 29
 |:-|:-:|:-:|
 |[ATM](../ATM)|1 |&starf; &starf; &starf; &star; &star;|
 |[BIRC6](../BIRC6)|1 |&starf; &starf; &starf; &star; &star;|
-|[HIST1H2BC](../HIST1H2BC)|1 |&starf; &starf; &starf; &starf; &star;|
 |[HNRNPU](../HNRNPU)|1 |&starf; &starf; &starf; &star; &star;|
 |[SETD1B](../SETD1B)|1 |&starf; &starf; &star; &star; &star;|
 |[TOX](../TOX)|1 |&starf; &starf; &starf; &star; &star;|
-|[UBE2A](../UBE2A)|1 |&starf; &starf; &starf; &star; &star;|
-|[CASP8](../CASP8)|1 |&starf; &starf; &starf; &star; &star;|
+|[NOTCH2](../NOTCH2)|1|&starf; &starf; &starf; &star; &star;|
 
 ### Tier 2
 
@@ -55,6 +53,7 @@ DLBCL Tier 2, Fail QC, 29
 |[BRINP3](../BRINP3)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
 |[TGFBR2](../TGFBR2)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
 |[TIPARP](../TIPARP)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
+|[CASP8](../CASP8)|2 |&starf; &starf; &starf; &starf; &star;|**Pass**|
 |[CD22](../CD22)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
 |[NF1](../NF1)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
 |[IKBKB](../IKBKB)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
