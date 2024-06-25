@@ -60,4 +60,16 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/F
 <!-- MCL: zhangGenomicLandscapeMantle2014 -->
 <!-- MZL: parryWholeExomeSequencing2013 -->
 
+## All Mutations
+
+### DLBCL
+
+[RG014](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG014.html)
+[RG038](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG038.html)
+[RG043](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG043.html)
+[RG055](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG055.html)
+[RG077](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG077.html)
+[RG081](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG081.html)
+[RG111](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG111.html)
+
 ## References

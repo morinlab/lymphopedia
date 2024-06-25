@@ -55,4 +55,15 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/M
 <!-- DLBCL: morinMutationalStructuralAnalysis2013 -->
 <!-- PMBL: reichelFlowSortingExome2015a -->
 
+## All Mutations
+
+
+### DLBCL[@morinMutationalStructuralAnalysis2013]
+
+[RG054](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG054.html)
+[RG064](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG064.html)
+[RG081](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG081.html)
+[RG115](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG115.html)
+[RG130](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG130.html)
+
 ## References

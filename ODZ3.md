@@ -38,5 +38,10 @@ timeline
 <!-- ORIGIN: morinMutationalStructuralAnalysis2013 -->
 <!-- DLBCL: morinMutationalStructuralAnalysis2013 -->
 
+## All Mutations
+
+[RG034](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG034.html)
+[RG086](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG086.html)
+
 ## References
 

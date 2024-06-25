@@ -91,5 +91,12 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/H
 ![](primary/Panea_HIST1H2AG_3.svg)
 &starf; &star; &star; &star; &star;
 
+## All Mutations
+
+### DLBCL[@morinMutationalStructuralAnalysis2013]
+
+[RG130](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG130.html)
+[RG142](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG142.html)
+
 
 ## References
