@@ -274,13 +274,13 @@ PMBL panel, Desch 2020, 10
 
 ### Studies selected for manual review
 
-|Study|Entity|Novel Tier 1|Genes that failed QC|
-|:-:|:-:|:-:|:-:|
-|[@loveGeneticLandscapeMutations2012](papers/loveGeneticLandscapeMutations2012)|BL|3|48 (84%)|
-|[@morinMutationalStructuralAnalysis2013](papers/morinMutationalStructuralAnalysis2013)|DLBCL|9|7 (24%)|
-|[@reddyGeneticFunctionalDrivers2017](papers/reddyGeneticFunctionalDrivers2017)|DLBCL|6|29 (55%)|
-|[@paneaWholeGenomeLandscape2019](papers/paneaWholeGenomeLandscape2019)|BL|4|22 (55%)|
-|[@hubschmannMutationalMechanismsShaping2021b](papers/hubschmannMutationalMechanismsShaping2021b)|DLBCL,FL|4|3 (9%)|
+|Study|Method|Entity|Tier 1 genes|Genes failing QC|
+|:--:|:--:|:-:|:-:|:--:|
+|[@loveGeneticLandscapeMutations2012](papers/loveGeneticLandscapeMutations2012)|Exome|BL|3|48 (84%)|
+|[@morinMutationalStructuralAnalysis2013](papers/morinMutationalStructuralAnalysis2013)|WGS|DLBCL|9|7 (24%)|
+|[@reddyGeneticFunctionalDrivers2017](papers/reddyGeneticFunctionalDrivers2017)|Exome|DLBCL|6|29 (55%)|
+|[@paneaWholeGenomeLandscape2019](papers/paneaWholeGenomeLandscape2019)|Exome/RNA-seq|BL|4|22 (55%)|
+|[@hubschmannMutationalMechanismsShaping2021b](papers/hubschmannMutationalMechanismsShaping2021b)|WGS|DLBCL,FL|4|3 (9%)|
 
 ## Categorization of genes
 
