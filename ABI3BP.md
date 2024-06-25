@@ -6,6 +6,7 @@ link-citations: true
 # ABI3BP
 
 ## History
+
 Mutations were first described in DLBCL in 2013 by Morin et al.<sup>1</sup> Subsequent exome and genome-wide studies of DLBCL did not reproduce this observation. 
 
 ```mermaid
@@ -48,6 +49,14 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/A
 
 ## ABI3BP Expression
 ![](images/gene_expression/ABI3BP_by_pathology.svg)
+
+## All Mutations
+
+[RG014](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG014.html)
+[RG054](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG054.html)
+[RG067](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG067.html)
+[RG081](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG081.html)
+[RG054](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG054.html)
 
 ## References
 
