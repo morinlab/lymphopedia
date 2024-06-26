@@ -6,9 +6,9 @@ bibliography: 'morinlab.bib'
 # @fanComprehensiveCharacterizationDriver2020b
 ## Summary of novel genes
 
-|Entity| Tier 1 genes| Tier 2 genes|
-|:-:|:-:|:-:|
-|DLBCL|0|0|
+|Entity| Tier 1 genes| Tier 2 genes|Tier 3 genes|
+|:-:|:-:|:-:|:-:|
+|DLBCL|0|0|0|
 ```mermaid
 ---
 config:
@@ -26,8 +26,11 @@ This study, New Tier 1,
 New Tier 1,  Tier 1, 
 This study, New Tier 2, 
 New Tier 2,  Tier 2, 
+This study, New Tier 3, 
+New Tier 3,  Tier 3, 
 All other  studies,  Tier 1, 0
 All other  studies,  Tier 2, 0
+All other  studies,  Tier 3, 0
 ```
 
 ### Tier 2
