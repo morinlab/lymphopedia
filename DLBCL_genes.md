@@ -13,75 +13,76 @@ config:
   sankey:
     showValues: false
     linkColor: target
-    width: 750
-    height: 850
+    width: 800
+    height: 750
     nodeAlignment: right
 ---
 sankey-beta
-Schmitz 2018, Tier 1, 6
-Schmitz 2018, Tier 2, 9
-Morin 2013, Tier 1, 9
-Morin 2013, Tier 2, 21
-Morin 2013, Tier 3 (Retired), 7
+Fan 2020, Tier 3, 72
 Zhang 2013, Tier 1, 14
 Zhang 2013, Tier 2, 9
-Zhang 2013, Tier 3 (Retired), 266
-Albuquerque 2017, Tier 1, 3
-Pasqualucci 2011, Tier 1, 2
-Pasqualucci 2011, Tier 1, 3
-Pasqualucci 2011, Tier 2, 4
-Pasqualucci 2001, Tier 1, 2
-Pasqualucci 2001, Tier 2, 2
+Zhang 2013, Tier 3, 266
 Chapuy 2018, Tier 1, 2
 Chapuy 2018, Tier 2, 10
-Chapuy 2018, Tier 3 (Retired), 6
-Reddy 2017, Tier 1, 5
-Reddy 2017, Tier 2, 23
-Reddy 2017, Tier 3 (Retired), 26
-Pararajalingam 2020, Tier 2, 2
-Lohr 2012, Tier 1, 18
-Lohr 2012, Tier 2, 21
-Morin 2016, Tier 1, 2
-Fan 2020, Tier 3 (Retired), 72
-Morin 2011, Tier 1, 23
+Chapuy 2018, Tier 3, 6
+Schmitz 2018, Tier 1, 6
+Schmitz 2018, Tier 2, 9
+Morin 2011, Tier 1, 24
 Morin 2011, Tier 2, 2
-Arthur 2018, Tier 1, 5
-Arthur 2018, Tier 2, 12
+Morin 2016, Tier 1, 2
+Pararajalingam 2020, Tier 2, 2
+Pasqualucci 2011, Tier 1, 2
 Hubschmann 2021, Tier 1, 3
 Hubschmann 2021, Tier 2, 17
-Hubschmann 2021, Tier 3 (Retired), 3
+Hubschmann 2021, Tier 3, 3
+Albuquerque 2017, Tier 1, 5
+Albuquerque 2017, Tier 2, 5
+Reddy 2017, Tier 1, 4
+Reddy 2017, Tier 2, 23
+Reddy 2017, Tier 3, 26
+Morin 2013, Tier 1, 9
+Morin 2013, Tier 2, 21
+Morin 2013, Tier 3, 7
+Pasqualucci 2011, Tier 1, 3
+Pasqualucci 2011, Tier 2, 4
+Arthur 2018, Tier 1, 5
+Arthur 2018, Tier 2, 12
+Lohr 2012, Tier 1, 18
+Lohr 2012, Tier 2, 20
+Pasqualucci 2001, Tier 1, 2
+Pasqualucci 2001, Tier 2, 2
+DLBCL genes, DLBCL-exome, 53
+DLBCL-exome, Reddy 2017, 53
 DLBCL genes, DLBCL-WGS, 37
 DLBCL-WGS, Morin 2013, 37
-DLBCL genes, DLBCL-exome, 15
-DLBCL-exome, Schmitz 2018, 15
-DLBCL genes, DLBCL-exome, 289
-DLBCL-exome, Zhang 2013, 289
-DLBCL genes, DLBCL-exome, 2
-DLBCL-exome, Pasqualucci 2011, 2
 DLBCL genes, DLBCL-exome, 7
 DLBCL-exome, Pasqualucci 2011, 7
-DLBCL genes, DLBCL-exome, 3
-DLBCL-exome, Albuquerque 2017, 3
-DLBCL genes, DLBCL-Sanger, 4
-DLBCL-Sanger, Pasqualucci 2001, 4
-DLBCL genes, DLBCL-WGS/exome, 2
-DLBCL-WGS/exome, Pararajalingam 2020, 2
-DLBCL genes, DLBCL-exome, 54
-DLBCL-exome, Reddy 2017, 54
-DLBCL genes, DLBCL-exome, 18
-DLBCL-exome, Chapuy 2018, 18
-DLBCL genes, DLBCL-exome, 39
-DLBCL-exome, Lohr 2012, 39
-DLBCL genes, DLBCL-exome, 2
-DLBCL-exome, Morin 2016, 2
-DLBCL genes, DLBCL-exome, 72
-DLBCL-exome, Fan 2020, 72
-DLBCL genes, DLBCL-RNA-seq/WGS, 25
-DLBCL-RNA-seq/WGS, Morin 2011, 25
+DLBCL genes, DLBCL-exome, 10
+DLBCL-exome, Albuquerque 2017, 10
 DLBCL genes, DLBCL-WGS, 17
 DLBCL-WGS, Arthur 2018, 17
+DLBCL genes, DLBCL-Sanger, 4
+DLBCL-Sanger, Pasqualucci 2001, 4
+DLBCL genes, DLBCL-exome, 38
+DLBCL-exome, Lohr 2012, 38
+DLBCL genes, DLBCL-exome, 289
+DLBCL-exome, Zhang 2013, 289
+DLBCL genes, DLBCL-exome, 18
+DLBCL-exome, Chapuy 2018, 18
+DLBCL genes, DLBCL-exome, 15
+DLBCL-exome, Schmitz 2018, 15
+DLBCL genes, DLBCL-exome, 72
+DLBCL-exome, Fan 2020, 72
 DLBCL genes, DLBCL-WGS, 23
 DLBCL-WGS, Hubschmann 2021, 23
+DLBCL genes, DLBCL-exome, 2
+DLBCL-exome, Morin 2016, 2
+DLBCL genes, DLBCL-RNA-seq/WGS, 26
+DLBCL-RNA-seq/WGS, Morin 2011, 26
+DLBCL genes, DLBCL-exome, 2
+DLBCL-exome, Pasqualucci 2011, 2
+DLBCL genes, DLBCL-WGS/exome, 2
+DLBCL-WGS/exome, Pararajalingam 2020, 2
 ```
 
 ## Tier 1 DLBCL genes
