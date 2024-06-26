@@ -145,7 +145,7 @@ link-citations: true
 
 ## Tier 2 DLBCL genes
 
-### *215 total*
+### *214 total*
 
 ### This includes *46 genes failed QC (2-F)
 ||Gene|Tier| First DLBCL study | Initial study for other entities |
