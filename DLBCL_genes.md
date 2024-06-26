@@ -36,7 +36,7 @@ link-citations: true
 |[CD79B](CD79B)|1|[Morin et al](papers/morinFrequentMutationHistonemodifying2011)[@morinFrequentMutationHistonemodifying2011]|[@paneaWholeGenomeLandscape2019]|
 |[CD83](CD83)|1, aSHM|[Morin et al](papers/morinMutationalStructuralAnalysis2013)[@morinMutationalStructuralAnalysis2013]|[@paneaWholeGenomeLandscape2019; @dunsCharacterizationDLBCLPMBL2021b; @russler-germainMutationsAssociatedProgression2023b]|
 |[CDKN2A](CDKN2A)|1|[Morin et al](papers/morinMutationalStructuralAnalysis2013)[@morinMutationalStructuralAnalysis2013]|[@spinaGeneticsNodalMarginal2016b; @grandeGenomewideDiscoverySomatic2019]|
-|[CREBBP](CREBBP)|1|[Pasqualucci et al](papers/pasqualucciInactivatingMutationsAcetyltransferase2011a)[@pasqualucciInactivatingMutationsAcetyltransferase2011a]|[@parryWholeExomeSequencing2013; @dunsCharacterizationDLBCLPMBL2021b; @loveGeneticLandscapeMutations2012]|
+|[CREBBP](CREBBP)|1-EE|[Pasqualucci et al](papers/pasqualucciInactivatingMutationsAcetyltransferase2011a)[@pasqualucciInactivatingMutationsAcetyltransferase2011a]|[@parryWholeExomeSequencing2013; @dunsCharacterizationDLBCLPMBL2021b; @loveGeneticLandscapeMutations2012]|
 |[CXCR4](CXCR4)|1, aSHM|[Khodabakhshi et al](papers/khodabakhshiRecurrentTargetsAberrant2012)[@khodabakhshiRecurrentTargetsAberrant2012]|[@paneaWholeGenomeLandscape2019; @krysiakRecurrentSomaticMutations2017b]|
 |[CXCR5](CXCR5)|1|[Schmitz et al](papers/schmitzGeneticsPathogenesisDiffuse2018a)[@schmitzGeneticsPathogenesisDiffuse2018a]|[@mottokIntegrativeGenomicAnalysis2019b]|
 |[DDX3X](DDX3X)|1|[Schmitz et al](papers/schmitzGeneticsPathogenesisDiffuse2018a)[@schmitzGeneticsPathogenesisDiffuse2018a]|[@mottokIntegrativeGenomicAnalysis2019b; @schmitzBurkittLymphomaPathogenesis2012]|
@@ -47,7 +47,7 @@ link-citations: true
 |[EP300](EP300)|1|[Pasqualucci et al](papers/pasqualucciInactivatingMutationsAcetyltransferase2011a)[@pasqualucciInactivatingMutationsAcetyltransferase2011a]|[@paneaWholeGenomeLandscape2019; @rossiCodingGenomeSplenic2012c]|
 |[ETS1](ETS1)|1, aSHM|[Morin et al](papers/morinFrequentMutationHistonemodifying2011)[@morinFrequentMutationHistonemodifying2011]|[@paneaWholeGenomeLandscape2019]|
 |[ETV6](ETV6)|1, aSHM|[Lohr et al](papers/lohrDiscoveryPrioritizationSomatic2012a)[@lohrDiscoveryPrioritizationSomatic2012a]||
-|[EZH2](EZH2)|1|[Morin et al](papers/morinSomaticMutationsAltering2010a)[@morinSomaticMutationsAltering2010a]|[@loveGeneticLandscapeMutations2012; @mottokIntegrativeGenomicAnalysis2019b]|
+|[EZH2](EZH2)|1-EE|[Morin et al](papers/morinSomaticMutationsAltering2010a)[@morinSomaticMutationsAltering2010a]|[@loveGeneticLandscapeMutations2012; @mottokIntegrativeGenomicAnalysis2019b]|
 |[FAS](FAS)|1|[Scholl et al](papers/schollMutationsRegionFAS2007)[@schollMutationsRegionFAS2007]|[@spinaGeneticsNodalMarginal2016b]|
 |[FBXO11](FBXO11)|1|[Hubschmann et al](papers/hubschmannMutationalMechanismsShaping2021b)[@hubschmannMutationalMechanismsShaping2021b]|[@richterRecurrentMutationID32012a; @parryWholeExomeSequencing2013]|
 |[FBXW7](FBXW7)|1|[Zhang et al](papers/zhangGeneticHeterogeneityDiffuse2013)[@zhangGeneticHeterogeneityDiffuse2013]||

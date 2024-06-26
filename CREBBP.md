@@ -13,7 +13,7 @@ This gene has some recurrent sites of mutations (hotspots), mostly in the HAT do
 ## Experimental Evidence
 CREBBP missense mutations often affect the histone acetyltransferase (HAT) domain, crucial for regulating gene expression through chromatin modification, or generate a truncated protein.[@pasqualucciInactivatingMutationsAcetyltransferase2011a] 
 In a transgenic mouse model, CREBBP loss cooperated with BCL2 overexpression to promote B-cell lymphomagenesis.[@garcia-ramirezCrebbpLossCooperates2017]
-Mutations in CREBBP and EP300 affect a common pathway and have been described as mutually exclusive due to some functional redundancy.[@pasqualucciInactivatingMutationsAcetyltransferase2011a; @veazeyCARM1InhibitionReduces2020b]
+Mutations in CREBBP and EP300 affect a common pathway and have been described as mutually exclusive due to some functional redundancy.[@pasqualucciInactivatingMutationsAcetyltransferase2011a; @veazeyCARM1InhibitionReduces2020b] Studies using genome-wide CRISPR-Cas9 screens have identified synthetic lethal interactions between CREBBP and EP300, suggesting that targeting one may affect the viability of cells with mutations in the other.[@nieGenomewideCRISPRScreens2021b]
 
 ## History
 
@@ -33,8 +33,8 @@ timeline
 |:------:|:----:|--------------------------------------|
 |![MZL](images/icons/MZL_tier2.png)|2|relevance in MZL not firmly established[@parryWholeExomeSequencing2013] |
 |![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene[@dunsCharacterizationDLBCLPMBL2021b] |
-|![DLBCL](images/icons/DLBCL_tier1.png) |1-EE   |high-confidence DLBCL gene[@pasqualucciInactivatingMutationsAcetyltransferase2011a]            |
-|![FL](images/icons/FL_tier1.png)    |1-EE   |high-confidence FL gene[@pasqualucciInactivatingMutationsAcetyltransferase2011a]               |
+|![DLBCL](images/icons/DLBCL_tier1.png) |1-EE   |high-confidence DLBCL gene supported by functional data[@pasqualucciInactivatingMutationsAcetyltransferase2011a]            |
+|![FL](images/icons/FL_tier1.png)    |1-EE   |high-confidence FL gene supported by functional data[@pasqualucciInactivatingMutationsAcetyltransferase2011a]               |
 |![BL](images/icons/BL_tier2.png)    |2   |association with BL is tenuous[@loveGeneticLandscapeMutations2012]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
