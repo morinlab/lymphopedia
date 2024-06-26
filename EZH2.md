@@ -8,7 +8,10 @@ link-citations: true
 ## Overview
 EZH2 encodes a histone methyltransferase that is a component of the polycomb repressive complex 2 (PRC2). 
 This gene is recurrently mutated in both FL and DLBCL and has a common mutation hot spot (Y646) that affects the SET domain.[@morinSomaticMutationsAltering2010a] 
-Mutations of this residue and some of the less common hotspots lead to enhanced methylation by PRC2.[@yapSomaticMutationsEZH22011b]
+
+## Experimental Evidence
+
+Mutations at the main hotspot and some less common hotspots lead to enhanced methylation by PRC2.[@yapSomaticMutationsEZH22011b]
 Pharmacologic inhibitors of this activity such as tazemetostat have shown benefit in FL.[@morinTreatingLymphomaNow2021]
 EZH2 mutations are one of the defining features of the EZB genetic subgroup of DLBCL.[@wrightProbabilisticClassificationTool2020] 
 Although mutations in EZH2 have been described in some BL patients, they are extremely rare in most BL cohorts that have been sequenced.[@loveGeneticLandscapeMutations2012; @thomasGeneticSubgroupsInform2023] 
@@ -29,8 +32,8 @@ timeline
 |:------:|:----:|--------------------------------------|
 |![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene|
 |![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene[@mottokIntegrativeGenomicAnalysis2019b]|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            [@morinSomaticMutationsAltering2010a]|
-|![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene               [@morinSomaticMutationsAltering2010a]|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1-EE   |high-confidence DLBCL gene            [@morinSomaticMutationsAltering2010a]|
+|![FL](images/icons/FL_tier1.png)    |1-EE   |high-confidence FL gene               [@morinSomaticMutationsAltering2010a]|
 |![BL](images/icons/BL_tier2.png)    |2   |relevance in BL not firmly established[@loveGeneticLandscapeMutations2012]|
 
 
@@ -105,18 +108,13 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/E
 [672](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/672_reports.html)
 [675](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/675_reports.html)
 
-
-## References
-
-1. *Morin RD, Johnson NA, Severson TM, Mungall AJ, An J, Goya R, Paul JE, Boyle M, Woolcock BW, Kuchenbauer F, Yap D, Humphries RK, Griffith OL, Shah S, Zhu H, Kimbara M, Shashkin P, Charlot JF, Tcherpakov M, Corbett R, Tam A, Varhol R, Smailus D, Moksa M, Zhao Y, Delaney A, Qian H, Birol I, Schein J, Moore R, Holt R, Horsman DE, Connors JM, Jones S, Aparicio S, Hirst M, Gascoyne RD, Marra MA. Somatic mutations altering EZH2 (Tyr641) in follicular and diffuse large B-cell lymphomas of germinal-center origin. Nat Genet. 2010 Feb;42(2):181-5. doi: 10.1038/ng.518. Epub 2010 Jan 17. PMID: 20081860; PMCID: PMC2850970.*
-2. *Yap DB, Chu J, Berg T, Schapira M, Cheng SW, Moradian A, Morin RD, Mungall AJ, Meissner B, Boyle M, Marquez VE, Marra MA, Gascoyne RD, Humphries RK, Arrowsmith CH, Morin GB, Aparicio SA. Somatic mutations at EZH2 Y641 act dominantly through a mechanism of selectively altered PRC2 catalytic activity, to increase H3K27 trimethylation. Blood. 2011 Feb 24;117(8):2451-9. doi: 10.1182/blood-2010-11-321208. Epub 2010 Dec 29. PMID: 21190999; PMCID: PMC3062411.*
-3. *Morin RD, Arthur SE, Assouline S. Treating lymphoma is now a bit EZ-er. Blood Adv. 2021 Apr 27;5(8):2256-2263. doi: 10.1182/bloodadvances.2020002773. PMID: 33904892; PMCID: PMC8095133.*
-4. *Thomas N, Dreval K, Gerhard DS, Hilton LK, Abramson JS, Ambinder RF, Barta S, Bartlett NL, Bethony J, Bhatia K, Bowen J, Bryan AC, Cesarman E, Casper C, Chadburn A, Cruz M, Dittmer DP, Dyer MA, Farinha P, Gastier-Foster JM, Gerrie AS, Grande BM, Greiner T, Griner NB, Gross TG, Harris NL, Irvin JD, Jaffe ES, Henry D, Huppi R, Leal FE, Lee MS, Martin JP, Martin MR, Mbulaiteye SM, Mitsuyasu R, Morris V, Mullighan CG, Mungall AJ, Mungall K, Mutyaba I, Nokta M, Namirembe C, Noy A, Ogwang MD, Omoding A, Orem J, Ott G, Petrello H, Pittaluga S, Phelan JD, Ramos JC, Ratner L, Reynolds SJ, Rubinstein PG, Sissolak G, Slack G, Soudi S, Swerdlow SH, Traverse-Glehen A, Wilson WH, Wong J, Yarchoan R, ZenKlusen JC, Marra MA, Staudt LM, Scott DW, Morin RD. Genetic subgroups inform on pathobiology in adult and pediatric Burkitt lymphoma. Blood. 2023 Feb 23;141(8):904-916. doi: 10.1182/blood.2022016534. PMID: 36201743; PMCID: PMC10023728.*
-5. *Love C, Sun Z, Jima D, Li G, Zhang J, Miles R, Richards KL, Dunphy CH, Choi WWL, Srivastava G, Lugar PL, Rizzieri DA, Lagoo AS, Bernal-Mizrachi L, Mann KP, Flowers CR, Naresh KN, Evens AM, Chadburn A, Gordon LI, Czader MB, Gill JI, Hsi ED, Greenough A, Moffitt AB, McKinney M, Banerjee A, Grubor V, Levy S, Dunson DB, Dave SS. The genetic landscape of mutations in Burkitt lymphoma. Nat Genet. 2012 Dec;44(12):1321–1325. PMCID: PMC3674561*
-
 <!-- ORIGIN: morinSomaticMutationsAltering2010 -->
 <!-- BL: loveGeneticLandscapeMutations2012 -->
 <!-- FL: morinSomaticMutationsAltering2010a -->
 <!-- BL: loveGeneticLandscapeMutations2012 -->
 <!-- DLBCL: morinSomaticMutationsAltering2010 -->
 <!-- PMBL: mottokIntegrativeGenomicAnalysis2019b -->
+
+
+## References
+
