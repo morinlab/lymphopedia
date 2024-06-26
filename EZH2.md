@@ -33,8 +33,8 @@ timeline
 |:------:|:----:|--------------------------------------|
 |![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene|
 |![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene[@mottokIntegrativeGenomicAnalysis2019b]|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1-EE   |high-confidence DLBCL gene            [@morinSomaticMutationsAltering2010a]|
-|![FL](images/icons/FL_tier1.png)    |1-EE   |high-confidence FL gene               [@morinSomaticMutationsAltering2010a]|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1-EE   |high-confidence DLBCL gene supported by functional data            [@morinSomaticMutationsAltering2010a]|
+|![FL](images/icons/FL_tier1.png)    |1-EE   |high-confidence FL gene supported by functional data               [@morinSomaticMutationsAltering2010a]|
 |![BL](images/icons/BL_tier2.png)    |2   |relevance in BL not firmly established[@loveGeneticLandscapeMutations2012]|
 
 
