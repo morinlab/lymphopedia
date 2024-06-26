@@ -31,9 +31,9 @@ link-citations: true
 |[BTK](BTK)|1|[Albuquerque et al](papers/albuquerqueEnhancingKnowledgeDiscovery2017a)[@albuquerqueEnhancingKnowledgeDiscovery2017a]|[@krysiakRecurrentSomaticMutations2017b]|
 |[CARD11](CARD11)|1|[Lenz et al](papers/lenzOncogenicCARD11Mutations2008)[@lenzOncogenicCARD11Mutations2008]|[@morinFrequentMutationHistonemodifying2011; @paneaWholeGenomeLandscape2019; @yanBCRTLRSignaling2012a; @wuGeneticHeterogeneityPrimary2016]|
 |[CCND3](CCND3)|1|[Morin et al](papers/morinFrequentMutationHistonemodifying2011)[@morinFrequentMutationHistonemodifying2011]|[@jalladesExomeSequencingIdentifies2017; @deschGenotypingCirculatingTumor2020; @richterRecurrentMutationID32012a]|
-|[CD58](CD58)|1|[Morin et al](papers/morinFrequentMutationHistonemodifying2011)[@morinFrequentMutationHistonemodifying2011]|[@schneiderAlterationsCD58Gene2015a]|
+|[CD58](CD58)|1-EE|[Morin et al](papers/morinFrequentMutationHistonemodifying2011)[@morinFrequentMutationHistonemodifying2011]|[@schneiderAlterationsCD58Gene2015a]|
 |[CD70](CD70)|1|[Morin et al](papers/morinFrequentMutationHistonemodifying2011)[@morinFrequentMutationHistonemodifying2011]|[@russler-germainMutationsAssociatedProgression2023b]|
-|[CD79B](CD79B)|1|[Morin et al](papers/morinFrequentMutationHistonemodifying2011)[@morinFrequentMutationHistonemodifying2011]|[@paneaWholeGenomeLandscape2019]|
+|[CD79B](CD79B)|1-EE|[Morin et al](papers/morinFrequentMutationHistonemodifying2011)[@morinFrequentMutationHistonemodifying2011]|[@paneaWholeGenomeLandscape2019]|
 |[CD83](CD83)|1|[Morin et al](papers/morinMutationalStructuralAnalysis2013)[@morinMutationalStructuralAnalysis2013]|[@paneaWholeGenomeLandscape2019; @dunsCharacterizationDLBCLPMBL2021b; @russler-germainMutationsAssociatedProgression2023b]|
 |[CDKN2A](CDKN2A)|1|[Morin et al](papers/morinMutationalStructuralAnalysis2013)[@morinMutationalStructuralAnalysis2013]|[@spinaGeneticsNodalMarginal2016b; @grandeGenomewideDiscoverySomatic2019]|
 |[CREBBP](CREBBP)|1-EE|[Pasqualucci et al](papers/pasqualucciInactivatingMutationsAcetyltransferase2011a)[@pasqualucciInactivatingMutationsAcetyltransferase2011a]|[@parryWholeExomeSequencing2013; @dunsCharacterizationDLBCLPMBL2021b; @loveGeneticLandscapeMutations2012]|
