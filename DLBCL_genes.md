@@ -41,7 +41,7 @@ Reddy 2017, Tier 3 (Retired), 26
 Pararajalingam 2020, Tier 2, 2
 Lohr 2012, Tier 1, 18
 Lohr 2012, Tier 2, 21
-Morin 2016, Tier 1 DLBCL genes, 2
+Morin 2016, Tier 1, 2
 Fan 2020, Tier 3 (Retired), 72
 Morin 2011, Tier 1, 23
 Morin 2011, Tier 2, 2
