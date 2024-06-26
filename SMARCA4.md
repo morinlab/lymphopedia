@@ -5,6 +5,9 @@ link-citations: true
 ---
 # SMARCA4
 
+SMARCA4 is a member of the SWI/SNF family of proteins. The encoded protein is part of the large ATP-dependent chromatin remodeling complex SNF/SWI, which can allow expression of genes repressed by chromatin. 
+Overall, components of SWI/SNF have been identified as an emerging theme in germinal centre-derived B-cell lymphomas. [@lunningMutationChromatinModifiers2015b]
+
 ## History
 
 ```mermaid
