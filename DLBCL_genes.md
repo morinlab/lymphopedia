@@ -205,7 +205,7 @@ link-citations: true
 |53|[HIST1H2BO](HIST1H2BO)|2|[Lohr et al](papers/lohrDiscoveryPrioritizationSomatic2012a)[@lohrDiscoveryPrioritizationSomatic2012a]||
 |54|[HLA-DMA](HLA-DMA)|2|||
 |55|[HNF1B](HNF1B)|2|[Pasqualucci et al](papers/pasqualucciAnalysisCodingGenome2011)[@pasqualucciAnalysisCodingGenome2011]||
-|56|[HNRNPH1](HNRNPH1)|2, noncoding|[Pararajalingam et al](papers/pararajalingamCodingNoncodingDrivers2020)[@pararajalingamCodingNoncodingDrivers2020]||
+|56|[HNRNPH1](HNRNPH1)|2-EE|[Pararajalingam et al](papers/pararajalingamCodingNoncodingDrivers2020)[@pararajalingamCodingNoncodingDrivers2020]||
 |57|[ID3](ID3)|2|[Schmitz et al](papers/schmitzBurkittLymphomaPathogenesis2012)[@schmitzBurkittLymphomaPathogenesis2012]|[@spinaGeneticsNodalMarginal2016b; @richterRecurrentMutationID32012a]|
 |58|[IFNGR1](IFNGR1)|2|[Morin et al](papers/morinMutationalStructuralAnalysis2013)[@morinMutationalStructuralAnalysis2013]||
 |59|[IGLL5](IGLL5)|2||[@paneaWholeGenomeLandscape2019; @deschGenotypingCirculatingTumor2020; @russler-germainMutationsAssociatedProgression2023b]|

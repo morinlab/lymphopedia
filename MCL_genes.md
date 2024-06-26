@@ -45,10 +45,10 @@ WGS/exome, Bea 2013, 27
 |[ATM](ATM)|1|[Bea et al](papers/beaLandscapeSomaticMutations2013)[@beaLandscapeSomaticMutations2013]|[@reddyGeneticFunctionalDrivers2017; @braggioGenomicAnalysisMarginal2012]|
 |[BIRC3](BIRC3)|1|[Bea et al](papers/beaLandscapeSomaticMutations2013)[@beaLandscapeSomaticMutations2013]|[@dunsCharacterizationDLBCLPMBL2021b; @rossiAlterationBIRC3Multiple2011a; @arthurGenomewideDiscoverySomatic2018]|
 |[CARD11](CARD11)|1|[Wu et al](papers/wuGeneticHeterogeneityPrimary2016)[@wuGeneticHeterogeneityPrimary2016]|[@paneaWholeGenomeLandscape2019; @yanBCRTLRSignaling2012a; @lenzOncogenicCARD11Mutations2008; @morinFrequentMutationHistonemodifying2011]|
-|[CCND1](CCND1)|1, aSHM|[Bea et al](papers/beaLandscapeSomaticMutations2013)[@beaLandscapeSomaticMutations2013]||
+|[CCND1](CCND1)|1|[Bea et al](papers/beaLandscapeSomaticMutations2013)[@beaLandscapeSomaticMutations2013]||
 |[DAZAP1](DAZAP1)|1|[Pararajalingam et al](papers/pararajalingamCodingNoncodingDrivers2020)[@pararajalingamCodingNoncodingDrivers2020]||
 |[EWSR1](EWSR1)|1|[Pararajalingam et al](papers/pararajalingamCodingNoncodingDrivers2020)[@pararajalingamCodingNoncodingDrivers2020]||
-|[HNRNPH1](HNRNPH1)|1, noncoding|[Pararajalingam et al](papers/pararajalingamCodingNoncodingDrivers2020)[@pararajalingamCodingNoncodingDrivers2020]||
+|[HNRNPH1](HNRNPH1)|1-EE|[Pararajalingam et al](papers/pararajalingamCodingNoncodingDrivers2020)[@pararajalingamCodingNoncodingDrivers2020]||
 |[KMT2D](KMT2D)|1|[Bea et al](papers/beaLandscapeSomaticMutations2013)[@beaLandscapeSomaticMutations2013]|[@morinFrequentMutationHistonemodifying2011; @grandeGenomewideDiscoverySomatic2019; @rossiCodingGenomeSplenic2012c; @deschGenotypingCirculatingTumor2020]|
 |[MEF2B](MEF2B)|1|[Bea et al](papers/beaLandscapeSomaticMutations2013)[@beaLandscapeSomaticMutations2013]|[@morinFrequentMutationHistonemodifying2011]|
 |[NFKBIE](NFKBIE)|1|[Pararajalingam et al](papers/pararajalingamCodingNoncodingDrivers2020)[@pararajalingamCodingNoncodingDrivers2020]|[@morinGeneticLandscapesRelapsed2016; @mansouriFrequentNFKBIEDeletions2016]|
