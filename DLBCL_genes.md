@@ -22,7 +22,7 @@ link-citations: true
 |[B2M](B2M)|1-EE|[Morin et al](papers/morinFrequentMutationHistonemodifying2011)[@morinFrequentMutationHistonemodifying2011]|[@pararajalingamCodingNoncodingDrivers2020; @reichelFlowSortingExome2015a]|
 |[BCL10](BCL10)|1-EE|[Morin et al](papers/morinFrequentMutationHistonemodifying2011)[@morinFrequentMutationHistonemodifying2011]|[@spinaGeneticsNodalMarginal2016b; @russler-germainMutationsAssociatedProgression2023b]|
 |[BCL2](BCL2)|1-EE|[Tanaka et al](papers/tanakaFrequentIncidenceSomatic1992)[@tanakaFrequentIncidenceSomatic1992]|[@morinFrequentMutationHistonemodifying2011; @burkhardtClinicalRelevanceMolecular2022b; @sarkozyMutationalLandscapeGray2021a]|
-|[BCL6](BCL6)|1|[Morin et al](papers/morinFrequentMutationHistonemodifying2011)[@morinFrequentMutationHistonemodifying2011]|[@loveGeneticLandscapeMutations2012]|
+|[BCL6](BCL6)|1-EE|[Morin et al](papers/morinFrequentMutationHistonemodifying2011)[@morinFrequentMutationHistonemodifying2011]|[@loveGeneticLandscapeMutations2012]|
 |[BCL7A](BCL7A)|1|[Arthur et al](papers/arthurGenomewideDiscoverySomatic2018)[@arthurGenomewideDiscoverySomatic2018]|[@krysiakRecurrentSomaticMutations2017b; @grandeGenomewideDiscoverySomatic2019; @reichelFlowSortingExome2015a]|
 |[BIRC6](BIRC6)|1|[Reddy et al](papers/reddyGeneticFunctionalDrivers2017)[@reddyGeneticFunctionalDrivers2017]|[@sarkozyMutationalLandscapeGray2021a]|
 |[BRAF](BRAF)|1|[Tiacci et al](papers/tiacciBRAFMutationsHairycell2011a)[@tiacciBRAFMutationsHairycell2011a]|[@loveGeneticLandscapeMutations2012]|
