@@ -8,7 +8,7 @@ bibliography: 'morinlab.bib'
 
 |Entity| Total| Tier 1| Tier 2| Tier 2 Pass| Tier 2 Fail| Fail Rate|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|DLBCL|19|2|17| ||  |
+|DLBCL|19|2|17| 10\* | 7 | 41% |
 
 |Entity| Tier 1 genes| Tier 2 genes|
 |:-:|:-:|:-:|
@@ -28,12 +28,10 @@ config:
         suffix: ' genes)'
 ---
 sankey-beta
-This study, New Tier 1, 2
-New Tier 1, DLBCL Tier 1, 2
-This study, New Tier 2, 17
-New Tier 2, DLBCL Tier 2, 17
-All other DLBCL studies, DLBCL Tier 1, 126
-All other DLBCL studies, DLBCL Tier 2, 181
+New to this study, DLBCL Tier 1, 2
+New to this study, DLBCL Tier 2, 17
+DLBCL Tier 2, Pass QC, 10
+DLBCL Tier 2, Fail QC, 7
 ```
 
 ## Novel genes reported in this study
