@@ -8,7 +8,7 @@ bibliography: 'morinlab.bib'
 
 |Entity| Tier 1 genes| Tier 2 genes|Tier 3 genes|
 |:-:|:-:|:-:|:-:|
-|DLBCL|0|0|0|
+|DLBCL|0|0|72|
 ```mermaid
 ---
 config:
@@ -22,18 +22,18 @@ config:
         suffix: ' genes)'
 ---
 sankey-beta
-This study, New Tier 1, 
-New Tier 1,  Tier 1, 
-This study, New Tier 2, 
-New Tier 2,  Tier 2, 
-This study, New Tier 3, 
-New Tier 3,  Tier 3, 
-All other  studies,  Tier 1, 0
-All other  studies,  Tier 2, 0
-All other  studies,  Tier 3, 0
+This study, New Tier 1, 0
+New Tier 1, DLBCL Tier 1, 0
+This study, New Tier 2, 0
+New Tier 2, DLBCL Tier 2, 0
+This study, New Tier 3, 72
+New Tier 3, DLBCL Tier 3, 72
+All other DLBCL studies, DLBCL Tier 1, 127
+All other DLBCL studies, DLBCL Tier 2, 172
+All other DLBCL studies, DLBCL Tier 3, 309
 ```
 
-### Tier 2
+### Tier 3
 |New gene|DLBCL tier|
 |:-|:-:|
 |[ABCB1](../ABCB1)|3 |
