@@ -148,7 +148,7 @@ link-citations: true
 ### *215 total*
 
 ### This includes *39 genes failed QC (2-F)
-||Gene|Tier| First DLBCL evidence | Other entities |
+||Gene|Tier| First DLBCL study | Initial study for other entities |
 |-|:-:|:-:|:--|:-|
 |1|[ABI3BP](ABI3BP)|2|[Morin et al](papers/morinMutationalStructuralAnalysis2013)||[@morinMutationalStructuralAnalysis2013]||
 |2|[ADAMTS1](ADAMTS1)|2|[Hubschmann et al](papers/hubschmannMutationalMechanismsShaping2021b)[@hubschmannMutationalMechanismsShaping2021b]||
