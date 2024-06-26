@@ -231,51 +231,51 @@ link-citations: true
 |79|[MALAT1](MALAT1)|2, aSHM|[Arthur et al](papers/arthurGenomewideDiscoverySomatic2018)[@arthurGenomewideDiscoverySomatic2018]||
 |80|[MAP2K1](MAP2K1)|2|[Shin et al](papers/shinBRAFV600EMAP2K12015)[@shinBRAFV600EMAP2K12015]|[@louissaintPediatrictypeNodalFollicular2016a]|
 |81|[MCL1](MCL1)|2|[Reddy et al](papers/reddyGeneticFunctionalDrivers2017)[@reddyGeneticFunctionalDrivers2017]|[@paneaWholeGenomeLandscape2019; @dunsCharacterizationDLBCLPMBL2021b]|
-||[MECOM](MECOM)|2|[Reddy et al](papers/reddyGeneticFunctionalDrivers2017)[@reddyGeneticFunctionalDrivers2017]||
-||[MET](MET)|2|[Reddy et al](papers/reddyGeneticFunctionalDrivers2017)[@reddyGeneticFunctionalDrivers2017]||
-||[MIR142](MIR142)|2, aSHM|[Kwanhian et al](papers/kwanhianMicroRNA142Mutated202012b)[@kwanhianMicroRNA142Mutated202012b]|[@grandeGenomewideDiscoverySomatic2019]|
-||[MIR155HG](MIR155HG)|2, aSHM|||
-||[MPDZ](MPDZ)|2|[Morin et al](papers/morinMutationalStructuralAnalysis2013)[@morinMutationalStructuralAnalysis2013]|[@reichelFlowSortingExome2015a]|
-||[MSH6](MSH6)|2|[Reddy et al](papers/reddyGeneticFunctionalDrivers2017)[@reddyGeneticFunctionalDrivers2017]||
-||[MYBPC2](MYBPC2)|2|[Schmitz et al](papers/schmitzGeneticsPathogenesisDiffuse2018a)[@schmitzGeneticsPathogenesisDiffuse2018a]||
-||[MYO1E](MYO1E)|2, aSHM|||
-||[MYOM2](MYOM2)|2|[Pasqualucci et al](papers/pasqualucciAnalysisCodingGenome2011)[@pasqualucciAnalysisCodingGenome2011]||
-||[NAV1](NAV1)|2|[Chapuy et al](papers/chapuyMolecularSubtypesDiffuse2018b)[@chapuyMolecularSubtypesDiffuse2018b]||
-||[NCOA3](NCOA3)|2, aSHM|||
-||[NCOR2](NCOR2)|2||[@spinaGeneticsNodalMarginal2016b; @schmitzBurkittLymphomaPathogenesis2012; @sarkozyMutationalLandscapeGray2021a]|
-||[NEAT1](NEAT1)|2, aSHM|[Arthur et al](papers/arthurGenomewideDiscoverySomatic2018)[@arthurGenomewideDiscoverySomatic2018]||
-||[NF1](NF1)|2|[Reddy et al](papers/reddyGeneticFunctionalDrivers2017)[@reddyGeneticFunctionalDrivers2017]||
-||[NFKB1](NFKB1)|2|||
-||[NLRC5](NLRC5)|2|||
-||[NLRP5](NLRP5)|2|[Morin et al](papers/morinMutationalStructuralAnalysis2013)[@morinMutationalStructuralAnalysis2013]||
-||[ODZ3](ODZ3)|2|[Morin et al](papers/morinMutationalStructuralAnalysis2013)[@morinMutationalStructuralAnalysis2013]||
-||[OR6K3](OR6K3)|2|[Lohr et al](papers/lohrDiscoveryPrioritizationSomatic2012a)[@lohrDiscoveryPrioritizationSomatic2012a]||
-||[P2RX5](P2RX5)|2, aSHM|[Morin et al](papers/morinMutationalStructuralAnalysis2013)[@morinMutationalStructuralAnalysis2013]||
-||[PAPOLG](PAPOLG)|2|[Schmitz et al](papers/schmitzGeneticsPathogenesisDiffuse2018a)[@schmitzGeneticsPathogenesisDiffuse2018a]||
-||[PASD1](PASD1)|2|[Lohr et al](papers/lohrDiscoveryPrioritizationSomatic2012a)[@lohrDiscoveryPrioritizationSomatic2012a]||
-||[PASK](PASK)|2|[Morin et al](papers/morinMutationalStructuralAnalysis2013)[@morinMutationalStructuralAnalysis2013]||
-||[PAX5](PAX5)|2, aSHM|[Pasqualucci et al](papers/pasqualucciHypermutationMultipleProtooncogenes2001a)[@pasqualucciHypermutationMultipleProtooncogenes2001a]||
-||[PCBP1](PCBP1)|2||[@schmitzBurkittLymphomaPathogenesis2012]|
-||[PCDHB11](PCDHB11)|2|[Morin et al](papers/morinMutationalStructuralAnalysis2013)[@morinMutationalStructuralAnalysis2013]||
-||[PCDHB6](PCDHB6)|2|[Lohr et al](papers/lohrDiscoveryPrioritizationSomatic2012a)[@lohrDiscoveryPrioritizationSomatic2012a]||
-||[PCLO](PCLO)|2|[Lohr et al](papers/lohrDiscoveryPrioritizationSomatic2012a)[@lohrDiscoveryPrioritizationSomatic2012a]||
-||[PDGFC](PDGFC)|2|[Lohr et al](papers/lohrDiscoveryPrioritizationSomatic2012a)[@lohrDiscoveryPrioritizationSomatic2012a]||
-||[PDS5B](PDS5B)|2|[Morin et al](papers/morinMutationalStructuralAnalysis2013)[@morinMutationalStructuralAnalysis2013]|[@hubschmannMutationalMechanismsShaping2021b]|
-||[PIK3R1](PIK3R1)|2|[Zhang et al](papers/zhangGeneticHeterogeneityDiffuse2013)[@zhangGeneticHeterogeneityDiffuse2013]|[@paneaWholeGenomeLandscape2019]|
-||[PNPO](PNPO)|2|[Hubschmann et al](papers/hubschmannMutationalMechanismsShaping2021b)[@hubschmannMutationalMechanismsShaping2021b]||
-||[PPP1R9B](PPP1R9B)|2|||
-||[PRKCB](PRKCB)|2|[Morin et al](papers/morinMutationalStructuralAnalysis2013)[@morinMutationalStructuralAnalysis2013]||
-||[PRKDC](PRKDC)|2|[Schmitz et al](papers/schmitzGeneticsPathogenesisDiffuse2018a)[@schmitzGeneticsPathogenesisDiffuse2018a]|[@hubschmannMutationalMechanismsShaping2021b]|
-||[PRPS1](PRPS1)|2|[Chapuy et al](papers/chapuyMolecularSubtypesDiffuse2018b)[@chapuyMolecularSubtypesDiffuse2018b]||
-||[PTMA](PTMA)|2, aSHM|||
-||[PTPN1](PTPN1)|2, aSHM||[@gunawardanaRecurrentSomaticMutations2014c]|
-||[PTPN6](PTPN6)|2|[Reddy et al](papers/reddyGeneticFunctionalDrivers2017)[@reddyGeneticFunctionalDrivers2017]||
-||[RAC2](RAC2)|2|[Hubschmann et al](papers/hubschmannMutationalMechanismsShaping2021b)[@hubschmannMutationalMechanismsShaping2021b]|[@paneaWholeGenomeLandscape2019]|
-||[RCC](RCC)|2, aSHM|||
-||[RFTN1](RFTN1)|2, aSHM|[Arthur et al](papers/arthurGenomewideDiscoverySomatic2018)[@arthurGenomewideDiscoverySomatic2018]|[@dunsCharacterizationDLBCLPMBL2021b]|
-||[RFXAP](RFXAP)|2|||
-||[RHEX](RHEX)|2, aSHM|||
-||[RHOH](RHOH)|2, aSHM|[Pasqualucci et al](papers/pasqualucciHypermutationMultipleProtooncogenes2001a)[@pasqualucciHypermutationMultipleProtooncogenes2001a]||
+|82|[MECOM](MECOM)|2|[Reddy et al](papers/reddyGeneticFunctionalDrivers2017)[@reddyGeneticFunctionalDrivers2017]||
+|83|[MET](MET)|2|[Reddy et al](papers/reddyGeneticFunctionalDrivers2017)[@reddyGeneticFunctionalDrivers2017]||
+|84|[MIR142](MIR142)|2, aSHM|[Kwanhian et al](papers/kwanhianMicroRNA142Mutated202012b)[@kwanhianMicroRNA142Mutated202012b]|[@grandeGenomewideDiscoverySomatic2019]|
+|85|[MIR155HG](MIR155HG)|2, aSHM|||
+|86|[MPDZ](MPDZ)|2|[Morin et al](papers/morinMutationalStructuralAnalysis2013)[@morinMutationalStructuralAnalysis2013]|[@reichelFlowSortingExome2015a]|
+|87|[MSH6](MSH6)|2|[Reddy et al](papers/reddyGeneticFunctionalDrivers2017)[@reddyGeneticFunctionalDrivers2017]||
+|88|[MYBPC2](MYBPC2)|2|[Schmitz et al](papers/schmitzGeneticsPathogenesisDiffuse2018a)[@schmitzGeneticsPathogenesisDiffuse2018a]||
+|89|[MYO1E](MYO1E)|2, aSHM|||
+|90|[MYOM2](MYOM2)|2|[Pasqualucci et al](papers/pasqualucciAnalysisCodingGenome2011)[@pasqualucciAnalysisCodingGenome2011]||
+|91|[NAV1](NAV1)|2|[Chapuy et al](papers/chapuyMolecularSubtypesDiffuse2018b)[@chapuyMolecularSubtypesDiffuse2018b]||
+|92|[NCOA3](NCOA3)|2, aSHM|||
+|93|[NCOR2](NCOR2)|2||[@spinaGeneticsNodalMarginal2016b; @schmitzBurkittLymphomaPathogenesis2012; @sarkozyMutationalLandscapeGray2021a]|
+|94|[NEAT1](NEAT1)|2, aSHM|[Arthur et al](papers/arthurGenomewideDiscoverySomatic2018)[@arthurGenomewideDiscoverySomatic2018]||
+|95|[NF1](NF1)|2|[Reddy et al](papers/reddyGeneticFunctionalDrivers2017)[@reddyGeneticFunctionalDrivers2017]||
+|96|[NFKB1](NFKB1)|2|||
+|97|[NLRC5](NLRC5)|2|||
+|98|[NLRP5](NLRP5)|2|[Morin et al](papers/morinMutationalStructuralAnalysis2013)[@morinMutationalStructuralAnalysis2013]||
+|99|[ODZ3](ODZ3)|2|[Morin et al](papers/morinMutationalStructuralAnalysis2013)[@morinMutationalStructuralAnalysis2013]||
+|100|[OR6K3](OR6K3)|2|[Lohr et al](papers/lohrDiscoveryPrioritizationSomatic2012a)[@lohrDiscoveryPrioritizationSomatic2012a]||
+|101|[P2RX5](P2RX5)|2, aSHM|[Morin et al](papers/morinMutationalStructuralAnalysis2013)[@morinMutationalStructuralAnalysis2013]||
+|102|[PAPOLG](PAPOLG)|2|[Schmitz et al](papers/schmitzGeneticsPathogenesisDiffuse2018a)[@schmitzGeneticsPathogenesisDiffuse2018a]||
+|103|[PASD1](PASD1)|2|[Lohr et al](papers/lohrDiscoveryPrioritizationSomatic2012a)[@lohrDiscoveryPrioritizationSomatic2012a]||
+|104|[PASK](PASK)|2|[Morin et al](papers/morinMutationalStructuralAnalysis2013)[@morinMutationalStructuralAnalysis2013]||
+|105|[PAX5](PAX5)|2, aSHM|[Pasqualucci et al](papers/pasqualucciHypermutationMultipleProtooncogenes2001a)[@pasqualucciHypermutationMultipleProtooncogenes2001a]||
+|106|[PCBP1](PCBP1)|2||[@schmitzBurkittLymphomaPathogenesis2012]|
+|107|[PCDHB11](PCDHB11)|2|[Morin et al](papers/morinMutationalStructuralAnalysis2013)[@morinMutationalStructuralAnalysis2013]||
+|108|[PCDHB6](PCDHB6)|2|[Lohr et al](papers/lohrDiscoveryPrioritizationSomatic2012a)[@lohrDiscoveryPrioritizationSomatic2012a]||
+|109|[PCLO](PCLO)|2|[Lohr et al](papers/lohrDiscoveryPrioritizationSomatic2012a)[@lohrDiscoveryPrioritizationSomatic2012a]||
+|110|[PDGFC](PDGFC)|2|[Lohr et al](papers/lohrDiscoveryPrioritizationSomatic2012a)[@lohrDiscoveryPrioritizationSomatic2012a]||
+|111|[PDS5B](PDS5B)|2|[Morin et al](papers/morinMutationalStructuralAnalysis2013)[@morinMutationalStructuralAnalysis2013]|[@hubschmannMutationalMechanismsShaping2021b]|
+|112|[PIK3R1](PIK3R1)|2|[Zhang et al](papers/zhangGeneticHeterogeneityDiffuse2013)[@zhangGeneticHeterogeneityDiffuse2013]|[@paneaWholeGenomeLandscape2019]|
+|113|[PNPO](PNPO)|2|[Hubschmann et al](papers/hubschmannMutationalMechanismsShaping2021b)[@hubschmannMutationalMechanismsShaping2021b]||
+|114|[PPP1R9B](PPP1R9B)|2|||
+|115|[PRKCB](PRKCB)|2|[Morin et al](papers/morinMutationalStructuralAnalysis2013)[@morinMutationalStructuralAnalysis2013]||
+|116|[PRKDC](PRKDC)|2|[Schmitz et al](papers/schmitzGeneticsPathogenesisDiffuse2018a)[@schmitzGeneticsPathogenesisDiffuse2018a]|[@hubschmannMutationalMechanismsShaping2021b]|
+|117|[PRPS1](PRPS1)|2|[Chapuy et al](papers/chapuyMolecularSubtypesDiffuse2018b)[@chapuyMolecularSubtypesDiffuse2018b]||
+|118|[PTMA](PTMA)|2, aSHM|||
+|119|[PTPN1](PTPN1)|2, aSHM||[@gunawardanaRecurrentSomaticMutations2014c]|
+|120|[PTPN6](PTPN6)|2|[Reddy et al](papers/reddyGeneticFunctionalDrivers2017)[@reddyGeneticFunctionalDrivers2017]||
+|121|[RAC2](RAC2)|2|[Hubschmann et al](papers/hubschmannMutationalMechanismsShaping2021b)[@hubschmannMutationalMechanismsShaping2021b]|[@paneaWholeGenomeLandscape2019]|
+|122|[RCC](RCC)|2, aSHM|||
+|123|[RFTN1](RFTN1)|2, aSHM|[Arthur et al](papers/arthurGenomewideDiscoverySomatic2018)[@arthurGenomewideDiscoverySomatic2018]|[@dunsCharacterizationDLBCLPMBL2021b]|
+|124|[RFXAP](RFXAP)|2|||
+|125|[RHEX](RHEX)|2, aSHM|||
+|126|[RHOH](RHOH)|2, aSHM|[Pasqualucci et al](papers/pasqualucciHypermutationMultipleProtooncogenes2001a)[@pasqualucciHypermutationMultipleProtooncogenes2001a]||
 ||[RUBCNL](RUBCNL)|2, aSHM|||
 ||[S1PR1](S1PR1)|2|[Lohr et al](papers/lohrDiscoveryPrioritizationSomatic2012a)[@lohrDiscoveryPrioritizationSomatic2012a]|[@pararajalingamCodingNoncodingDrivers2020]|
 ||[SAMD9L](SAMD9L)|2|[Morin et al](papers/morinMutationalStructuralAnalysis2013)[@morinMutationalStructuralAnalysis2013]||
