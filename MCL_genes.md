@@ -61,7 +61,7 @@ WGS/exome, Bea 2013, 27
 |[SMARCA4](SMARCA4)|1|[Nadeu et al](papers/nadeuGenomicEpigenomicInsights2020b)[@nadeuGenomicEpigenomicInsights2020b]|[@krysiakRecurrentSomaticMutations2017b; @richterRecurrentMutationID32012a; @lohrDiscoveryPrioritizationSomatic2012a]|
 |[SP140](SP140)|1|[Bea et al](papers/beaLandscapeSomaticMutations2013)[@beaLandscapeSomaticMutations2013]||
 |[SYNE1](SYNE1)|1|[Nadeu et al](papers/nadeuGenomicEpigenomicInsights2020b)[@nadeuGenomicEpigenomicInsights2020b]||
-|[TERT](TERT)|1, noncoding|[Nadeu et al](papers/nadeuGenomicEpigenomicInsights2020b)[@nadeuGenomicEpigenomicInsights2020b]||
+|[TERT](TERT)|1|[Nadeu et al](papers/nadeuGenomicEpigenomicInsights2020b)[@nadeuGenomicEpigenomicInsights2020b]||
 |[TLR2](TLR2)|1|[Bea et al](papers/beaLandscapeSomaticMutations2013)[@beaLandscapeSomaticMutations2013]|[@chapuyMolecularSubtypesDiffuse2018b]|
 |[TP53](TP53)|1|[Bea et al](papers/beaLandscapeSomaticMutations2013)[@beaLandscapeSomaticMutations2013]|[@tiacciPervasiveMutationsJAKSTAT2018b; @lohrDiscoveryPrioritizationSomatic2012a; @rossiCodingGenomeSplenic2012c; @morinFrequentMutationHistonemodifying2011; @wildaInactivationARFMDM2p53Pathway2004]|
 |[UBR5](UBR5)|1|[Pararajalingam et al](papers/pararajalingamCodingNoncodingDrivers2020)[@pararajalingamCodingNoncodingDrivers2020]|[@zhangGeneticHeterogeneityDiffuse2013]|
