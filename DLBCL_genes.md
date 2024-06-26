@@ -5,9 +5,84 @@ csl: 'NLM.csl'
 link-citations: true
 ---
 
-## Origins of DLBCL genes
+## Origins and status of DLBCL genes
 
-![](DLBCL_sankey-1.svg)
+```mermaid
+---
+config:
+  sankey:
+    showValues: false
+    linkColor: target
+    width: 800
+    height: 750
+    nodeAlignment: right
+---
+sankey-beta
+Schmitz 2018, Tier 1 DLBCL genes, 6
+Schmitz 2018, Tier 2 DLBCL genes, 9
+Morin 2013, Tier 1 DLBCL genes, 9
+Morin 2013, Tier 2 DLBCL genes, 21
+Morin 2013, Tier 3 DLBCL genes, 7
+Zhang 2013, Tier 1 DLBCL genes, 14
+Zhang 2013, Tier 2 DLBCL genes, 9
+Zhang 2013, Tier 3 DLBCL genes, 266
+Albuquerque 2017, Tier 1 DLBCL genes, 3
+Pasqualucci 2011, Tier 1 DLBCL genes, 2
+Pasqualucci 2011, Tier 1 DLBCL genes, 3
+Pasqualucci 2011, Tier 2 DLBCL genes, 4
+Pasqualucci 2001, Tier 1 DLBCL genes, 2
+Pasqualucci 2001, Tier 2 DLBCL genes, 2
+Chapuy 2018, Tier 1 DLBCL genes, 2
+Chapuy 2018, Tier 2 DLBCL genes, 10
+Chapuy 2018, Tier 3 DLBCL genes, 6
+Reddy 2017, Tier 1 DLBCL genes, 5
+Reddy 2017, Tier 2 DLBCL genes, 23
+Reddy 2017, Tier 3 DLBCL genes, 26
+Pararajalingam 2020, Tier 2 DLBCL genes, 2
+Lohr 2012, Tier 1 DLBCL genes, 18
+Lohr 2012, Tier 2 DLBCL genes, 21
+Morin 2016, Tier 1 DLBCL genes, 2
+Fan 2020, Tier 3 DLBCL genes, 72
+Morin 2011, Tier 1 DLBCL genes, 23
+Morin 2011, Tier 2 DLBCL genes, 2
+Arthur 2018, Tier 1 DLBCL genes, 5
+Arthur 2018, Tier 2 DLBCL genes, 12
+Hubschmann 2021, Tier 1 DLBCL genes, 3
+Hubschmann 2021, Tier 2 DLBCL genes, 17
+Hubschmann 2021, Tier 3 DLBCL genes, 3
+DLBCL genes, DLBCL-WGS, 37
+DLBCL-WGS, Morin 2013, 37
+DLBCL genes, DLBCL-exome, 15
+DLBCL-exome, Schmitz 2018, 15
+DLBCL genes, DLBCL-exome, 289
+DLBCL-exome, Zhang 2013, 289
+DLBCL genes, DLBCL-exome, 2
+DLBCL-exome, Pasqualucci 2011, 2
+DLBCL genes, DLBCL-exome, 7
+DLBCL-exome, Pasqualucci 2011, 7
+DLBCL genes, DLBCL-exome, 3
+DLBCL-exome, Albuquerque 2017, 3
+DLBCL genes, DLBCL-Sanger, 4
+DLBCL-Sanger, Pasqualucci 2001, 4
+DLBCL genes, DLBCL-WGS/exome, 2
+DLBCL-WGS/exome, Pararajalingam 2020, 2
+DLBCL genes, DLBCL-exome, 54
+DLBCL-exome, Reddy 2017, 54
+DLBCL genes, DLBCL-exome, 18
+DLBCL-exome, Chapuy 2018, 18
+DLBCL genes, DLBCL-exome, 39
+DLBCL-exome, Lohr 2012, 39
+DLBCL genes, DLBCL-exome, 2
+DLBCL-exome, Morin 2016, 2
+DLBCL genes, DLBCL-exome, 72
+DLBCL-exome, Fan 2020, 72
+DLBCL genes, DLBCL-RNA-seq/WGS, 25
+DLBCL-RNA-seq/WGS, Morin 2011, 25
+DLBCL genes, DLBCL-WGS, 17
+DLBCL-WGS, Arthur 2018, 17
+DLBCL genes, DLBCL-WGS, 23
+DLBCL-WGS, Hubschmann 2021, 23
+```
 
 ## Tier 1 DLBCL genes
 
