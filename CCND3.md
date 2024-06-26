@@ -7,7 +7,10 @@ link-citations: true
 # CCND3
 
 ## Overview
-CCND3 (Cyclin D3) is a gene that encodes a protein involved in the regulation of the cell cycle. Mutations in CCND3 are implicated in various types of B-cell lymphomas, including Burkitt lymphoma and diffuse large B-cell lymphoma (DLBCL).<sup>1,2</sup> Somatic mutations in CCND3 often stabilize the Cyclin D3 protein by altering the phosphorylation motif, which is crucial for proteasomal degradation. These mutations are associated with an increase in Cyclin D3 protein stability and oncogenic potential.
+CCND3 (Cyclin D3) is a gene that encodes a protein involved in the regulation of the cell cycle. Mutations in CCND3 are implicated in various types of B-cell lymphomas, including Burkitt lymphoma and diffuse large B-cell lymphoma (DLBCL).[@richterRecurrentMutationID32012a; @morinFrequentMutationHistonemodifying2011]
+
+## Experimental Evidence
+Somatic mutations in CCND3 often stabilize the Cyclin D3 protein by altering the phosphorylation motif, which is crucial for proteasomal degradation. These mutations are associated with an increase in Cyclin D3 protein stability and oncogenic potential.[@schmitzBurkittLymphomaPathogenesis2012a]
 
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
@@ -25,9 +28,9 @@ timeline
 |:------:|:----:|--------------------------|
 |![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene[@jalladesExomeSequencingIdentifies2017]|
 |![PMBL](images/icons/PMBL_tier2.png)|2|relevance in PMBL/cHL/GZL not firmly established[@deschGenotypingCirculatingTumor2020]|
-|![BL](images/icons/BL_tier1.png)    |1   |high-confidence BL gene   [@richterRecurrentMutationID32012a]|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene[@morinFrequentMutationHistonemodifying2011]|
-|![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene   [@morinFrequentMutationHistonemodifying2011]|
+|![BL](images/icons/BL_tier1.png)    |1-EE   |high-confidence BL gene   [@richterRecurrentMutationID32012a]|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1-EE   |high-confidence DLBCL gene[@morinFrequentMutationHistonemodifying2011]|
+|![FL](images/icons/FL_tier1.png)    |1-EE   |high-confidence FL gene   [@morinFrequentMutationHistonemodifying2011]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

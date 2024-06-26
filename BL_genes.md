@@ -18,7 +18,7 @@ link-citations: true
 |[ARID1A](ARID1A)|1|[Love et al](papers/loveGeneticLandscapeMutations2012)[@loveGeneticLandscapeMutations2012]|[@zhangGeneticHeterogeneityDiffuse2013; @krysiakRecurrentSomaticMutations2017b; @rossiCodingGenomeSplenic2012c; @wienandGenomicAnalysesFlowsorted2019b]|
 |[BCL7A](BCL7A)|1, aSHM|[Grande et al](papers/grandeGenomewideDiscoverySomatic2019)[@grandeGenomewideDiscoverySomatic2019]|[@arthurGenomewideDiscoverySomatic2018; @krysiakRecurrentSomaticMutations2017b; @reichelFlowSortingExome2015a]|
 |[BMP7](BMP7)|1|[Panea et al](papers/paneaWholeGenomeLandscape2019)[@paneaWholeGenomeLandscape2019]||
-|[CCND3](CCND3)|1|[Richter et al](papers/richterRecurrentMutationID32012a)[@richterRecurrentMutationID32012a]|[@morinFrequentMutationHistonemodifying2011; @deschGenotypingCirculatingTumor2020; @jalladesExomeSequencingIdentifies2017]|
+|[CCND3](CCND3)|1-EE|[Richter et al](papers/richterRecurrentMutationID32012a)[@richterRecurrentMutationID32012a]|[@morinFrequentMutationHistonemodifying2011; @deschGenotypingCirculatingTumor2020; @jalladesExomeSequencingIdentifies2017]|
 |[CHD8](CHD8)|1|[Grande et al](papers/grandeGenomewideDiscoverySomatic2019)[@grandeGenomewideDiscoverySomatic2019]|[@reddyGeneticFunctionalDrivers2017]|
 |[DDX3X](DDX3X)|1|[Schmitz et al](papers/schmitzBurkittLymphomaPathogenesis2012)[@schmitzBurkittLymphomaPathogenesis2012]|[@schmitzGeneticsPathogenesisDiffuse2018a; @mottokIntegrativeGenomicAnalysis2019b]|
 |[EIF4A1](EIF4A1)|1|[Panea et al](papers/paneaWholeGenomeLandscape2019)[@paneaWholeGenomeLandscape2019]||
