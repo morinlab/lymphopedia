@@ -6,10 +6,14 @@ link-citations: false
 
 # DLBCL genes
 
-[@abateDistinctViralMutational2015a]
+|             |          Grouping           ||
+First Header  | Second Header | Third Header |
+ ------------ | :-----------: | -----------: |
+Content       |          *Long Cell*        ||
+Content       |   **Cell**    |         Cell |
 
-[@albuquerqueEnhancingKnowledgeDiscovery2017a]
-
+New section   |     More      |         Data |
+And more      | With an escaped '\|'         ||
 
 
 # References
