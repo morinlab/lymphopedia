@@ -25,9 +25,9 @@ timeline
 |:------:|:----:|--------------------------------------|
 |![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene|
 |![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene[@sarkozyMutationalLandscapeGray2021a]|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1-a | aSHM target and high-confidence DLBCL gene            [@morinFrequentMutationHistonemodifying2011]|
-|![FL](images/icons/FL_tier1.png)    |1-a | aSHM target and high-confidence FL gene               |
-|![BL](images/icons/BL_tier2.png)    |2-a | aSHM target; Although recurrent, the relevance of mutations in BL is tenuous [@burkhardtClinicalRelevanceMolecular2022b]|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1-EE[@mlynarczykBTG1MutationYields2023b; @delageBTG1InactivationDrives2023a] | aSHM target and high-confidence DLBCL gene            [@morinFrequentMutationHistonemodifying2011]|
+|![FL](images/icons/FL_tier1.png)    |1 | aSHM target and high-confidence FL gene               |
+|![BL](images/icons/BL_tier2.png)    |2 | aSHM target; Although recurrent, the relevance of mutations in BL is tenuous [@burkhardtClinicalRelevanceMolecular2022b]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

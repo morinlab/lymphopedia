@@ -23,10 +23,10 @@ link-citations: true
 |[BCL10](BCL10)|1-EE|[Morin et al](papers/morinFrequentMutationHistonemodifying2011)[@morinFrequentMutationHistonemodifying2011]|[@spinaGeneticsNodalMarginal2016b; @russler-germainMutationsAssociatedProgression2023b]|
 |[BCL2](BCL2)|1-EE|[Tanaka et al](papers/tanakaFrequentIncidenceSomatic1992)[@tanakaFrequentIncidenceSomatic1992]|[@morinFrequentMutationHistonemodifying2011; @burkhardtClinicalRelevanceMolecular2022b; @sarkozyMutationalLandscapeGray2021a]|
 |[BCL6](BCL6)|1-EE|[Morin et al](papers/morinFrequentMutationHistonemodifying2011)[@morinFrequentMutationHistonemodifying2011]|[@loveGeneticLandscapeMutations2012]|
-|[BCL7A](BCL7A)|1|[Arthur et al](papers/arthurGenomewideDiscoverySomatic2018)[@arthurGenomewideDiscoverySomatic2018]|[@krysiakRecurrentSomaticMutations2017b; @grandeGenomewideDiscoverySomatic2019; @reichelFlowSortingExome2015a]|
+|[BCL7A](BCL7A)|1-EE|[Arthur et al](papers/arthurGenomewideDiscoverySomatic2018)[@arthurGenomewideDiscoverySomatic2018]|[@krysiakRecurrentSomaticMutations2017b; @grandeGenomewideDiscoverySomatic2019; @reichelFlowSortingExome2015a]|
 |[BIRC6](BIRC6)|1|[Reddy et al](papers/reddyGeneticFunctionalDrivers2017)[@reddyGeneticFunctionalDrivers2017]|[@sarkozyMutationalLandscapeGray2021a]|
 |[BRAF](BRAF)|1|[Tiacci et al](papers/tiacciBRAFMutationsHairycell2011a)[@tiacciBRAFMutationsHairycell2011a]|[@loveGeneticLandscapeMutations2012]|
-|[BTG1](BTG1)|1|[Morin et al](papers/morinFrequentMutationHistonemodifying2011)[@morinFrequentMutationHistonemodifying2011]|[@sarkozyMutationalLandscapeGray2021a; @burkhardtClinicalRelevanceMolecular2022b]|
+|[BTG1](BTG1)|1-EE|[Morin et al](papers/morinFrequentMutationHistonemodifying2011)[@morinFrequentMutationHistonemodifying2011]|[@sarkozyMutationalLandscapeGray2021a; @burkhardtClinicalRelevanceMolecular2022b]|
 |[BTG2](BTG2)|1|[Morin et al](papers/morinFrequentMutationHistonemodifying2011)[@morinFrequentMutationHistonemodifying2011]|[@loveGeneticLandscapeMutations2012]|
 |[BTK](BTK)|1|[Albuquerque et al](papers/albuquerqueEnhancingKnowledgeDiscovery2017a)[@albuquerqueEnhancingKnowledgeDiscovery2017a]|[@krysiakRecurrentSomaticMutations2017b]|
 |[CARD11](CARD11)|1-EE|[Lenz et al](papers/lenzOncogenicCARD11Mutations2008)[@lenzOncogenicCARD11Mutations2008]|[@morinFrequentMutationHistonemodifying2011; @paneaWholeGenomeLandscape2019; @yanBCRTLRSignaling2012a; @wuGeneticHeterogeneityPrimary2016]|
