@@ -38,6 +38,12 @@ All other FL studies, FL Tier 2, 50
 |:-|:-:|:-:|
 |[EZH2](../EZH2)|1 |1 |
 
+## Data Availability
+
+|**Repository**|**Accession**|
+|-|-|
+|[dbGAP](https://www.ncbi.nlm.nih.gov/gap/)| phs000532.v18.p6 |
+
 
 # Details
 

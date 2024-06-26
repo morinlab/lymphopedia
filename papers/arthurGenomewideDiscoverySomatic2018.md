@@ -61,5 +61,15 @@ All other DLBCL studies, DLBCL Tier 2, 186
 |[ZCCHC7](../ZCCHC7)|2 |
 
 
+## Data Availability
+
+|**Repository**|**Accession**|
+|-|-|
+|[dbGAP](https://www.ncbi.nlm.nih.gov/gap/)| phs000532.v18.p6 |
+|[EGA](https://ega-archive.org/)|EGAD00001003783|
+|[EGA](https://ega-archive.org/)|EGAD00001004142|
+
+
+
 # Details
 

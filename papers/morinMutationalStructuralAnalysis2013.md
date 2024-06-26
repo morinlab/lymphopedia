@@ -77,5 +77,11 @@ DLBCL Tier 2, Fail QC, 7
 |[PTPN23](../PTPN23)|2 |&starf; &starf; &star; &star; &star;|**Fail**|
 |[SARM1](../SARM1)|2 |&starf; &starf; &star; &star; &star;|**Fail**|
 
+## Data Availability
+
+|**Repository**|**Accession**|
+|-|-|
+|[dbGAP](https://www.ncbi.nlm.nih.gov/gap/)| phs000532.v18.p6 |
+
 # Details
 

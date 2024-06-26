@@ -70,5 +70,12 @@ All other DLBCL studies, DLBCL Tier 2, 197
 |[CD274](../CD274)|2 | |
 
 
+## Data Availability
+
+|**Repository**|**Accession**|
+|-|-|
+|[dbGAP](https://www.ncbi.nlm.nih.gov/gap/)| phs000532.v18.p6 |
+
+
 # Details
 
