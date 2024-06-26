@@ -65,7 +65,7 @@ DLBCL Tier 2, Fail QC, 7
 |**Repository**|**Accession**|
 |-|-|
 |[dbGAP](https://www.ncbi.nlm.nih.gov/gap/)| phs000450.v1.p1|
-
+|[dbGAP](https://www.ncbi.nlm.nih.gov/gap/)| phs000450.v3.p1|
 
 # Details
 
