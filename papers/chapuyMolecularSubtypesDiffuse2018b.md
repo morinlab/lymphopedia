@@ -10,10 +10,6 @@ bibliography: 'morinlab.bib'
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |DLBCL|19|2|17| 10\* | 7 | 41% |
 
-|Entity| Tier 1 genes| Tier 2 genes|
-|:-:|:-:|:-:|
-|DLBCL|2|17|
-
 
 ```mermaid
 ---
