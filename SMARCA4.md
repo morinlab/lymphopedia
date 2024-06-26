@@ -22,8 +22,8 @@ timeline
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
 |![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene|
-|![BL](images/icons/BL_tier1.png)    |1   |high-confidence BL gene   [@richterRecurrentMutationID32012a]|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene[@lohrDiscoveryPrioritizationSomatic2012a]|
+|![BL](images/icons/BL_tier1.png)    |1-EE[@dengSMARCA4HaploinsufficientCell2024]   |high-confidence BL gene   [@richterRecurrentMutationID32012a]|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1-EE[@dengSMARCA4HaploinsufficientCell2024]   |high-confidence DLBCL gene[@lohrDiscoveryPrioritizationSomatic2012a]|
 |![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene   [@krysiakRecurrentSomaticMutations2017b]|
 |![MCL](images/icons/MCL_tier1.png)   |1   |high-confidence MCL gene  [@nadeuGenomicEpigenomicInsights2020b]|
 

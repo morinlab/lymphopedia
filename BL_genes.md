@@ -37,7 +37,7 @@ link-citations: true
 |[RFX7](RFX7)|1|[Grande et al](papers/grandeGenomewideDiscoverySomatic2019)[@grandeGenomewideDiscoverySomatic2019]||
 |[RHOA](RHOA)|1|[Richter et al](papers/richterRecurrentMutationID32012a)[@richterRecurrentMutationID32012a]||
 |[SIN3A](SIN3A)|1|[Grande et al](papers/grandeGenomewideDiscoverySomatic2019)[@grandeGenomewideDiscoverySomatic2019]|[@rossiCodingGenomeSplenic2012c]|
-|[SMARCA4](SMARCA4)|1|[Richter et al](papers/richterRecurrentMutationID32012a)[@richterRecurrentMutationID32012a]|[@lohrDiscoveryPrioritizationSomatic2012a; @krysiakRecurrentSomaticMutations2017b; @nadeuGenomicEpigenomicInsights2020b]|
+|[SMARCA4](SMARCA4)|1-EE|[Richter et al](papers/richterRecurrentMutationID32012a)[@richterRecurrentMutationID32012a]|[@lohrDiscoveryPrioritizationSomatic2012a; @krysiakRecurrentSomaticMutations2017b; @nadeuGenomicEpigenomicInsights2020b]|
 |[TCF3](TCF3)|1|[Schmitz et al](papers/schmitzBurkittLymphomaPathogenesis2012)[@schmitzBurkittLymphomaPathogenesis2012]||
 |[TCL1A](TCL1A)|1, aSHM|[Grande et al](papers/grandeGenomewideDiscoverySomatic2019)[@grandeGenomewideDiscoverySomatic2019]||
 |[TFAP4](TFAP4)|1|[Grande et al](papers/grandeGenomewideDiscoverySomatic2019)[@grandeGenomewideDiscoverySomatic2019]||
