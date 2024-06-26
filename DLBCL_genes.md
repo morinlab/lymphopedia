@@ -18,38 +18,38 @@ config:
     nodeAlignment: right
 ---
 sankey-beta
-Schmitz 2018, Tier 1 DLBCL genes, 6
-Schmitz 2018, Tier 2 DLBCL genes, 9
-Morin 2013, Tier 1 DLBCL genes, 9
-Morin 2013, Tier 2 DLBCL genes, 21
-Morin 2013, Tier 3 DLBCL genes, 7
-Zhang 2013, Tier 1 DLBCL genes, 14
-Zhang 2013, Tier 2 DLBCL genes, 9
-Zhang 2013, Tier 3 DLBCL genes, 266
-Albuquerque 2017, Tier 1 DLBCL genes, 3
-Pasqualucci 2011, Tier 1 DLBCL genes, 2
-Pasqualucci 2011, Tier 1 DLBCL genes, 3
-Pasqualucci 2011, Tier 2 DLBCL genes, 4
-Pasqualucci 2001, Tier 1 DLBCL genes, 2
-Pasqualucci 2001, Tier 2 DLBCL genes, 2
-Chapuy 2018, Tier 1 DLBCL genes, 2
-Chapuy 2018, Tier 2 DLBCL genes, 10
-Chapuy 2018, Tier 3 DLBCL genes, 6
-Reddy 2017, Tier 1 DLBCL genes, 5
-Reddy 2017, Tier 2 DLBCL genes, 23
-Reddy 2017, Tier 3 DLBCL genes, 26
-Pararajalingam 2020, Tier 2 DLBCL genes, 2
-Lohr 2012, Tier 1 DLBCL genes, 18
-Lohr 2012, Tier 2 DLBCL genes, 21
+Schmitz 2018, Tier 1, 6
+Schmitz 2018, Tier 2, 9
+Morin 2013, Tier 1, 9
+Morin 2013, Tier 2, 21
+Morin 2013, Tier 3 (Retired), 7
+Zhang 2013, Tier 1, 14
+Zhang 2013, Tier 2, 9
+Zhang 2013, Tier 3 (Retired), 266
+Albuquerque 2017, Tier 1, 3
+Pasqualucci 2011, Tier 1, 2
+Pasqualucci 2011, Tier 1, 3
+Pasqualucci 2011, Tier 2, 4
+Pasqualucci 2001, Tier 1, 2
+Pasqualucci 2001, Tier 2, 2
+Chapuy 2018, Tier 1, 2
+Chapuy 2018, Tier 2, 10
+Chapuy 2018, Tier 3 (Retired), 6
+Reddy 2017, Tier 1, 5
+Reddy 2017, Tier 2, 23
+Reddy 2017, Tier 3 (Retired), 26
+Pararajalingam 2020, Tier 2, 2
+Lohr 2012, Tier 1, 18
+Lohr 2012, Tier 2, 21
 Morin 2016, Tier 1 DLBCL genes, 2
-Fan 2020, Tier 3 DLBCL genes, 72
-Morin 2011, Tier 1 DLBCL genes, 23
-Morin 2011, Tier 2 DLBCL genes, 2
-Arthur 2018, Tier 1 DLBCL genes, 5
-Arthur 2018, Tier 2 DLBCL genes, 12
-Hubschmann 2021, Tier 1 DLBCL genes, 3
-Hubschmann 2021, Tier 2 DLBCL genes, 17
-Hubschmann 2021, Tier 3 DLBCL genes, 3
+Fan 2020, Tier 3 (Retired), 72
+Morin 2011, Tier 1, 23
+Morin 2011, Tier 2, 2
+Arthur 2018, Tier 1, 5
+Arthur 2018, Tier 2, 12
+Hubschmann 2021, Tier 1, 3
+Hubschmann 2021, Tier 2, 17
+Hubschmann 2021, Tier 3 (Retired), 3
 DLBCL genes, DLBCL-WGS, 37
 DLBCL-WGS, Morin 2013, 37
 DLBCL genes, DLBCL-exome, 15
