@@ -6,7 +6,10 @@ link-citations: true
 # HNRNPH1
 
 ## Overview
-Non-coding mutations, including synonymous and intronic mutations,  are enriched at splicing signals in exon 4 of HNRNPH1. These result in deregulated splicing and increased expression of the hnRNP H1 protein. This overexpression is linked to enhanced cell proliferation and survival, contributing to the aggressive nature of MCL. <sup>1,2</sup> Although initially characterized in MCL, the same pattern of mutations appears in a small number of DLBCLs.
+Non-coding mutations, including synonymous and intronic mutations,  are enriched at splicing signals in exon 4 of HNRNPH1. 
+
+## Experimental Evidence
+The common HNRNPH1 mutations cause deregulated splicing and increased expression of the hnRNP H1 protein. This overexpression is linked to enhanced cell proliferation and survival, contributing to the aggressive nature of MCL.[@pararajalingamCodingNoncodingDrivers2020]  Although initially characterized in MCL, the same pattern of mutations appears in a small number of DLBCLs.
 
 ## History
 ```mermaid
@@ -20,8 +23,8 @@ timeline
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene[@pararajalingamCodingNoncodingDrivers2020]|
-|![MCL](images/icons/MCL_tier1.png)   |1   |high-confidence MCL gene  [@pararajalingamCodingNoncodingDrivers2020]|
+|![DLBCL](images/icons/DLBCL_tier1.png) |2-EE   |high-confidence DLBCL gene[@pararajalingamCodingNoncodingDrivers2020]|
+|![MCL](images/icons/MCL_tier1.png)   |1-EE   |high-confidence MCL gene  [@pararajalingamCodingNoncodingDrivers2020]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

@@ -45,7 +45,7 @@ WGS/exome, Bea 2013, 27
 |[ATM](ATM)|1|[Bea et al](papers/beaLandscapeSomaticMutations2013)[@beaLandscapeSomaticMutations2013]|[@reddyGeneticFunctionalDrivers2017; @braggioGenomicAnalysisMarginal2012]|
 |[BIRC3](BIRC3)|1|[Bea et al](papers/beaLandscapeSomaticMutations2013)[@beaLandscapeSomaticMutations2013]|[@dunsCharacterizationDLBCLPMBL2021b; @rossiAlterationBIRC3Multiple2011a; @arthurGenomewideDiscoverySomatic2018]|
 |[CARD11](CARD11)|1|[Wu et al](papers/wuGeneticHeterogeneityPrimary2016)[@wuGeneticHeterogeneityPrimary2016]|[@paneaWholeGenomeLandscape2019; @yanBCRTLRSignaling2012a; @lenzOncogenicCARD11Mutations2008; @morinFrequentMutationHistonemodifying2011]|
-|[CCND1](CCND1)|1|[Bea et al](papers/beaLandscapeSomaticMutations2013)[@beaLandscapeSomaticMutations2013]||
+|[CCND1](CCND1)|1-EE|[Bea et al](papers/beaLandscapeSomaticMutations2013)[@beaLandscapeSomaticMutations2013]||
 |[DAZAP1](DAZAP1)|1|[Pararajalingam et al](papers/pararajalingamCodingNoncodingDrivers2020)[@pararajalingamCodingNoncodingDrivers2020]||
 |[EWSR1](EWSR1)|1|[Pararajalingam et al](papers/pararajalingamCodingNoncodingDrivers2020)[@pararajalingamCodingNoncodingDrivers2020]||
 |[HNRNPH1](HNRNPH1)|1-EE|[Pararajalingam et al](papers/pararajalingamCodingNoncodingDrivers2020)[@pararajalingamCodingNoncodingDrivers2020]||
@@ -63,7 +63,7 @@ WGS/exome, Bea 2013, 27
 |[SYNE1](SYNE1)|1|[Nadeu et al](papers/nadeuGenomicEpigenomicInsights2020b)[@nadeuGenomicEpigenomicInsights2020b]||
 |[TERT](TERT)|1|[Nadeu et al](papers/nadeuGenomicEpigenomicInsights2020b)[@nadeuGenomicEpigenomicInsights2020b]||
 |[TLR2](TLR2)|1|[Bea et al](papers/beaLandscapeSomaticMutations2013)[@beaLandscapeSomaticMutations2013]|[@chapuyMolecularSubtypesDiffuse2018b]|
-|[TP53](TP53)|1|[Bea et al](papers/beaLandscapeSomaticMutations2013)[@beaLandscapeSomaticMutations2013]|[@tiacciPervasiveMutationsJAKSTAT2018b; @lohrDiscoveryPrioritizationSomatic2012a; @rossiCodingGenomeSplenic2012c; @morinFrequentMutationHistonemodifying2011; @wildaInactivationARFMDM2p53Pathway2004]|
+|[TP53](TP53)|1-EE|[Bea et al](papers/beaLandscapeSomaticMutations2013)[@beaLandscapeSomaticMutations2013]|[@tiacciPervasiveMutationsJAKSTAT2018b; @lohrDiscoveryPrioritizationSomatic2012a; @rossiCodingGenomeSplenic2012c; @morinFrequentMutationHistonemodifying2011; @wildaInactivationARFMDM2p53Pathway2004]|
 |[UBR5](UBR5)|1|[Pararajalingam et al](papers/pararajalingamCodingNoncodingDrivers2020)[@pararajalingamCodingNoncodingDrivers2020]|[@zhangGeneticHeterogeneityDiffuse2013]|
 
 ## Tier 2 MCL genes

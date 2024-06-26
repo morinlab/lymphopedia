@@ -85,14 +85,14 @@ link-citations: true
 |[KRAS](KRAS)|1|[Lohr et al](papers/lohrDiscoveryPrioritizationSomatic2012a)[@lohrDiscoveryPrioritizationSomatic2012a]||
 |[LCOR](LCOR)|1|[Arthur et al](papers/arthurGenomewideDiscoverySomatic2018)[@arthurGenomewideDiscoverySomatic2018]||
 |[LTB](LTB)|1|[Chapuy et al](papers/chapuyMolecularSubtypesDiffuse2018b)[@chapuyMolecularSubtypesDiffuse2018b]|[@paneaWholeGenomeLandscape2019; @deschGenotypingCirculatingTumor2020]|
-|[MEF2B](MEF2B)|1|[Morin et al](papers/morinFrequentMutationHistonemodifying2011)[@morinFrequentMutationHistonemodifying2011]|[@beaLandscapeSomaticMutations2013]|
+|[MEF2B](MEF2B)|1-EE|[Morin et al](papers/morinFrequentMutationHistonemodifying2011)[@morinFrequentMutationHistonemodifying2011]|[@beaLandscapeSomaticMutations2013]|
 |[MEF2C](MEF2C)|1|[Arthur et al](papers/arthurGenomewideDiscoverySomatic2018)[@arthurGenomewideDiscoverySomatic2018]||
 |[MGA](MGA)|1|[Zhang et al](papers/zhangGeneticHeterogeneityDiffuse2013)[@zhangGeneticHeterogeneityDiffuse2013]|[@jalladesExomeSequencingIdentifies2017]|
 |[MPEG1](MPEG1)|1|[Morin et al](papers/morinMutationalStructuralAnalysis2013)[@morinMutationalStructuralAnalysis2013]||
 |[MS4A1](MS4A1)|1|[Rushton et al](papers/rushtonGeneticEvolutionaryPatterns2020)[@rushtonGeneticEvolutionaryPatterns2020]|[@mottokIntegrativeGenomicAnalysis2019b]|
 |[MTOR](MTOR)|1|[Zhang et al](papers/zhangGeneticHeterogeneityDiffuse2013)[@zhangGeneticHeterogeneityDiffuse2013]|[@paneaWholeGenomeLandscape2019]|
 |[MYC](MYC)|1|[Pasqualucci et al](papers/pasqualucciHypermutationMultipleProtooncogenes2001a)[@pasqualucciHypermutationMultipleProtooncogenes2001a]|[@dunsCharacterizationDLBCLPMBL2021b; @johnstonCmycHypermutationBurkitt1992; @jalladesExomeSequencingIdentifies2017]|
-|[MYD88](MYD88)|1|[Ngo et al](papers/ngoOncogenicallyActiveMYD882011a)[@ngoOncogenicallyActiveMYD882011a]|[@yanBCRTLRSignaling2012a]|
+|[MYD88](MYD88)|1-EE|[Ngo et al](papers/ngoOncogenicallyActiveMYD882011a)[@ngoOncogenicallyActiveMYD882011a]|[@yanBCRTLRSignaling2012a]|
 |[NFKBIA](NFKBIA)|1|[Lake et al](papers/lakeMutationsNFKBIAEncoding2009)[@lakeMutationsNFKBIAEncoding2009]|[@wienandGenomicAnalysesFlowsorted2019b; @russler-germainMutationsAssociatedProgression2023b]|
 |[NFKBIE](NFKBIE)|1|[Morin et al](papers/morinGeneticLandscapesRelapsed2016)[@morinGeneticLandscapesRelapsed2016]|[@mansouriFrequentNFKBIEDeletions2016; @pararajalingamCodingNoncodingDrivers2020]|
 |[NFKBIZ](NFKBIZ)|1|[Morin et al](papers/morinGeneticLandscapesRelapsed2016)[@morinGeneticLandscapesRelapsed2016]||

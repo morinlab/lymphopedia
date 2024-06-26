@@ -6,7 +6,10 @@ link-citations: true
 # MEF2B
 
 ## Overview
-MEF2B is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus. MEF2B mutations are observed in a significant subset of follicular lymphoma cases, as well as in other B-cell lymphomas, including diffuse large B-cell lymphoma (DLBCL) and MCL.<sup>1</sup> MEF2B has known hotspot mutations that affect multiple distinct domains of the protein. 
+MEF2B is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus. MEF2B mutations are observed in a significant subset of follicular lymphoma cases, as well as in other B-cell lymphomas, including diffuse large B-cell lymphoma (DLBCL) and MCL.[@morinFrequentMutationHistonemodifying2011; @beaLandscapeSomaticMutations2013] MEF2B has known hotspot mutations that affect multiple distinct domains of the protein. 
+
+## Experimental Evidence
+Thus far, there is limited information about the consequence of MEF2B mutations in DLBCL, FL or MCL. One study showed that MEF2B mutations lead to deregulation of BCL6 expression.[@yingMEF2BMutationsLead]
 
 ## History
 ```mermaid
