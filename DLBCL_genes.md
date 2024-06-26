@@ -44,7 +44,7 @@ link-citations: true
 |[DUSP2](DUSP2)|1, aSHM|[Lohr et al](papers/lohrDiscoveryPrioritizationSomatic2012a)[@lohrDiscoveryPrioritizationSomatic2012a]|[@dunsCharacterizationDLBCLPMBL2021b]|
 |[EBF1](EBF1)|1, aSHM|[Bohle et al](papers/bohleRoleEarlyBcell2013)[@bohleRoleEarlyBcell2013]|[@thomasGeneticSubgroupsInform2023; @reichelFlowSortingExome2015a]|
 |[EEF1A1](EEF1A1)|1|[Hubschmann et al](papers/hubschmannMutationalMechanismsShaping2021b)[@hubschmannMutationalMechanismsShaping2021b]|[@reichelFlowSortingExome2015a]|
-|[EP300](EP300)|1|[Pasqualucci et al](papers/pasqualucciInactivatingMutationsAcetyltransferase2011a)[@pasqualucciInactivatingMutationsAcetyltransferase2011a]|[@paneaWholeGenomeLandscape2019; @rossiCodingGenomeSplenic2012c]|
+|[EP300](EP300)|1-EE|[Pasqualucci et al](papers/pasqualucciInactivatingMutationsAcetyltransferase2011a)[@pasqualucciInactivatingMutationsAcetyltransferase2011a]|[@paneaWholeGenomeLandscape2019; @rossiCodingGenomeSplenic2012c]|
 |[ETS1](ETS1)|1, aSHM|[Morin et al](papers/morinFrequentMutationHistonemodifying2011)[@morinFrequentMutationHistonemodifying2011]|[@paneaWholeGenomeLandscape2019]|
 |[ETV6](ETV6)|1, aSHM|[Lohr et al](papers/lohrDiscoveryPrioritizationSomatic2012a)[@lohrDiscoveryPrioritizationSomatic2012a]||
 |[EZH2](EZH2)|1-EE|[Morin et al](papers/morinSomaticMutationsAltering2010a)[@morinSomaticMutationsAltering2010a]|[@loveGeneticLandscapeMutations2012; @mottokIntegrativeGenomicAnalysis2019b]|
