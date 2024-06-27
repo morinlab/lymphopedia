@@ -12,7 +12,7 @@ Mutations in this gene were first described in DLBCL in 2013[@zhangGeneticHetero
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
 timeline
     title Publication timing
-      2017-10-10 : Reddy : DLBCL
+      2013-01-01 : Zhang : DLBCL
 ```
 
 ## Relevance tier by entity
