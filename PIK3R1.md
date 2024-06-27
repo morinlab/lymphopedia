@@ -5,6 +5,9 @@ link-citations: true
 ---
 # PIK3R1
 
+Mutations in this gene were first described in DLBCL in 2013[@zhangGeneticHeterogeneityDiffuse2013] and by the same group in a subsequent study.[@reddyGeneticFunctionalDrivers2017] It remains in Tier 2 because other exome and genome-wide studies of DLBCL did not reproduce this observation. 
+
+
 <<Warn("The variants reported in this gene in BL failed QC")>>
 
 **[See below ](#representative-mutations) or [the study page ](papers/paneaWholeGenomeLandscape2019.md#tier-2) for more information**
