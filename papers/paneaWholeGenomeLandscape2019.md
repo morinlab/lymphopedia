@@ -6,11 +6,9 @@ bibliography: 'morinlab.bib'
 # @paneaWholeGenomeLandscape2019
 ## Summary of novel genes
 
-|Entity| Total| Tier 1| Tier 2| Tier 2 Pass| Tier 2 Fail| Fail Rate|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|BL|40|4|35|13 |22| 55% |
-
-
+|Entity| Tier 1 genes| Tier 2 genes|Tier 3 genes|
+|:-:|:-:|:-:|:-:|
+|BL|4|13|22|
 ```mermaid
 ---
 config:
@@ -24,60 +22,70 @@ config:
         suffix: ' genes)'
 ---
 sankey-beta
-New to this study, BL Tier 1, 4
-New to this study, BL Tier 2, 36
-BL Tier 2, Pass QC, 13
-BL Tier 2, Fail QC, 23
+This study, New Tier 1, 4
+New Tier 1, BL Tier 1, 4
+This study, New Tier 2, 13
+New Tier 2, BL Tier 2, 13
+This study, New Tier 3, 22
+New Tier 3, BL Tier 3, 22
+All other BL studies, BL Tier 1, 25
+All other BL studies, BL Tier 2, 62
+All other BL studies, BL Tier 3, 48
 ```
 
 ## Novel genes reported in this study
 
 ### Tier 1
-|Novel gene|BL tier|
-|:-|:-:|
-|[BMP7](../BMP7)|1 |
-|[EIF4A1](../EIF4A1)|1 |
-|[EPPK1](../EPPK1)|1 |
-|[HNRNPU](../HNRNPU)|1 |
+|New gene|BL tier| Average variant quality | QC outcome |
+|:-|:-:|:-:|:-:|
+|[BMP7](../BMP7)|1 || |
+|[EIF4A1](../EIF4A1)|1 || |
+|[EPPK1](../EPPK1)|1 || |
+|[HNRNPU](../HNRNPU)|1 || |
 
 ### Tier 2
-|Novel Gene|BL tier|Average variant quality|QC outcome|
+|New gene|BL tier| Average variant quality | QC outcome |
 |:-|:-:|:-:|:-:|
-|[HIST1H3I](../HIST1H3I)|2 |&starf; &starf; &starf; &starf; &star;|**Pass**|
-|[CXCR4](../CXCR4)|2 | &starf; &starf; &starf; &starf; &star;|**Pass**|
-|[IRF8](../IRF8)|2 |&starf; &starf; &starf; &starf; &star;|**Pass**|
-|[MCL1](../MCL1)|2 |&starf; &starf; &starf; &starf; &star;|**Pass**|
-|[CD83](../CD83)|2 | &starf; &starf; &starf; &star; &star;|**Pass**|
-|[PLCG2](../PLCG2)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
-|[IGLL5](../IGLL5)|2 |&starf; &starf; &starf; &starf; &star;|**Pass**|
-|[HIST1H3D](../HIST1H3D)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
-|[WNK2](../WNK2)|2 |&starf; &starf; &starf; &starf; &star;|**Pass**|
-|[HIST1H4J](../HIST1H4J)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
-|[IKZF3](../IKZF3)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
-|[ZFP36L1](../ZFP36L1)|2 |&starf; &starf; &starf; &starf; &star;|**Pass**|
-|[RNF144B](../RNF144B)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
-|[ALPK2](../ALPK2)|2 | &starf; &star; &star; &star; &star;|**Fail**|
-|[CD79B](../CD79B)|2 | &starf; &starf; &star; &star; &star;|**Fail**|
-|[CTCF](../CTCF)|2 | &starf; &star; &star; &star; &star;|**Fail**|
-|[DNMT1](../DNMT1)|2 | &starf; &star; &star; &star; &star;|**Fail**|
-|[ETS1](../ETS1)|2 | &starf; &star; &star; &star; &star;|**Fail**|
-|[FZD3](../FZD3)|2 | &starf; &star; &star; &star; &star;|**Fail**|
-|[HIST1H1C](../HIST1H1C)|2 | &starf; &starf; &star; &star; &star;|**Fail**|
-|[HIST1H2AG](../HIST1H2AG)|2 | &starf; &starf; &star; &star; &star;|**Fail**|
-|[HIST1H2BK](../HIST1H2BK)|2 | &starf; &star; &star; &star; &star;|**Fail**|
-|[KCNK10](../KCNK10)|2 |&starf; &starf; &star; &star; &star;|**Fail**|
-|[MME](../MME)|2 |&starf; &star; &star; &star; &star;|**Fail**|
-|[MTOR](../MTOR)|2 |&starf; &star; &star; &star; &star;|**Fail**|
-|[PABPC4L](../PABPC4L)|2 |&starf; &starf; &star; &star; &star;|**Fail**|
-|[PCDHA11](../PCDHA11)|2 |&starf; &star; &star; &star; &star;|**Fail**|
-|[PDZRN3](../PDZRN3)|2 |&starf; &star; &star; &star; &star;|**Fail**|
-|[PIK3R1](../PIK3R1)|2 |&starf; &star; &star; &star; &star;|**Fail**|
-|[PXDNL](../PXDNL)|2 |&starf; &star; &star; &star; &star;|**Fail**|
-|[SNTB2](../SNTB2)|2 |&starf; &starf; &star; &star; &star;|**Fail**|
-|[WDR7](../WDR7)|2 |&starf; &starf; &star; &star; &star;|**Fail**|
-|[HIST1H3H](../HIST1H3H)|2 |&star; &star; &star; &star; &star;|**Fail**|
-|[HIST1H3J](../HIST1H3J)|2 |&star; &star; &star; &star; &star;|**Fail**|
-|[HIST1H2AM](../HIST1H2AM)|2 | &star; &star; &star; &star; &star;|**Fail**|
+|[CD83](../CD83)|2 |&starf; &starf; &starf; &star; &star; |PASS |
+|[CXCR4](../CXCR4)|2 |&starf; &starf; &starf; &starf; &star; |PASS |
+|[HIST1H3D](../HIST1H3D)|2 |&starf; &starf; &starf; &star; &star; |PASS |
+|[HIST1H3I](../HIST1H3I)|2 |&starf; &starf; &starf; &starf; &star; |PASS |
+|[HIST1H4J](../HIST1H4J)|2 |&starf; &starf; &starf; &star; &star; |PASS |
+|[IGLL5](../IGLL5)|2 |&starf; &starf; &starf; &starf; &star; |PASS |
+|[IKZF3](../IKZF3)|2 |&starf; &starf; &starf; &star; &star; |PASS |
+|[IRF8](../IRF8)|2 |&starf; &starf; &starf; &starf; &star; |PASS |
+|[MCL1](../MCL1)|2 |&starf; &starf; &starf; &starf; &star; |PASS |
+|[PLCG2](../PLCG2)|2 |&starf; &starf; &starf; &star; &star; |PASS |
+|[RNF144B](../RNF144B)|2 |&starf; &starf; &starf; &star; &star; |PASS |
+|[WNK2](../WNK2)|2 |&starf; &starf; &starf; &starf; &star; |PASS |
+|[ZFP36L1](../ZFP36L1)|2 |&starf; &starf; &starf; &starf; &star; |PASS |
+
+### Tier 3
+|New gene|BL tier| Average variant quality | QC outcome |
+|:-|:-:|:-:|:-:|
+|[ALPK2](../ALPK2)|3 |&starf; &star; &star; &star; &star; |FAIL |
+|[CD79B](../CD79B)|3 |&starf; &starf; &star; &star; &star; |FAIL |
+|[CTCF](../CTCF)|3 |&starf; &star; &star; &star; &star; |FAIL |
+|[DNMT1](../DNMT1)|3 |&starf; &star; &star; &star; &star; |FAIL |
+|[ETS1](../ETS1)|3 |&starf; &star; &star; &star; &star; |FAIL |
+|[FZD3](../FZD3)|3 |&starf; &star; &star; &star; &star; |FAIL |
+|[HIST1H1C](../HIST1H1C)|3 |&starf; &starf; &star; &star; &star; |FAIL |
+|[HIST1H2AG](../HIST1H2AG)|3 |&starf; &starf; &star; &star; &star; |FAIL |
+|[HIST1H2AM](../HIST1H2AM)|3 |&star; &star; &star; &star; &star; |FAIL |
+|[HIST1H2BK](../HIST1H2BK)|3 |&starf; &star; &star; &star; &star; |FAIL |
+|[HIST1H3H](../HIST1H3H)|3 |&star; &star; &star; &star; &star; |FAIL |
+|[HIST1H3J](../HIST1H3J)|3 |&star; &star; &star; &star; &star; |FAIL |
+|[KCNK10](../KCNK10)|3 |&starf; &starf; &star; &star; &star; |FAIL |
+|[MME](../MME)|3 |&starf; &star; &star; &star; &star; |FAIL |
+|[MTOR](../MTOR)|3 |&starf; &star; &star; &star; &star; |FAIL |
+|[PABPC4L](../PABPC4L)|3 |&starf; &starf; &star; &star; &star; |FAIL |
+|[PCDHA11](../PCDHA11)|3 |&starf; &star; &star; &star; &star; |FAIL |
+|[PDZRN3](../PDZRN3)|3 |&starf; &star; &star; &star; &star; |FAIL |
+|[PIK3R1](../PIK3R1)|3 |&starf; &star; &star; &star; &star; |FAIL |
+|[PXDNL](../PXDNL)|3 |&starf; &star; &star; &star; &star; |FAIL |
+|[SNTB2](../SNTB2)|3 |&starf; &starf; &star; &star; &star; |FAIL |
+|[WDR7](../WDR7)|3 |&starf; &starf; &star; &star; &star; |FAIL |
+
 
 # Details
 
