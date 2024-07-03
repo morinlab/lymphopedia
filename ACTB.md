@@ -10,6 +10,16 @@ link-citations: true
 
 ACTB is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas. The function of mutations in ACTB and ACTG1 have not yet been determined.[@witjesPrevalenceCytoplasmicActin2020b]
 
+## Relevance tier by entity
+
+|Entity|Tier|Description               |
+|:------:|:----:|--------------------------|
+|![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene|
+|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene[@wienandGenomicAnalysesFlowsorted2019b]|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene, hypermutated[@lohrDiscoveryPrioritizationSomatic2012a]|
+|![FL](images/icons/FL_tier1.png)    |1  |high-confidence FL gene, hypermutated   |
+
+
 ## History
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
@@ -23,15 +33,6 @@ timeline
       2019-12-10 : Wienand : PMBL
 2021-05-05 : Hubschmann : DLBCL
 ```
-
-## Relevance tier by entity
-
-|Entity|Tier|Description               |
-|:------:|:----:|--------------------------|
-|![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene|
-|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene[@wienandGenomicAnalysesFlowsorted2019b]|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene, hypermutated[@lohrDiscoveryPrioritizationSomatic2012a]|
-|![FL](images/icons/FL_tier1.png)    |1  |high-confidence FL gene, hypermutated   |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
