@@ -14,6 +14,8 @@ JUNB has been reported to be frequently mutated in T-cell/histiocyte-rich large 
 timeline
     title Publication timing
       2017-10-10 : Reddy : DLBCL
+2018-04-12 : Schmitz : DLBCL
+2021-05-05 : Hubschmann : DLBCL
       2019-09-05 : Mottok : PMBL
 ```
 
@@ -22,7 +24,7 @@ timeline
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
 |![PMBL](images/icons/PMBL_tier2.png)|2|relevance in PMBL/cHL/GZL not firmly established[@mottokIntegrativeGenomicAnalysis2019b]|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene[@reddyGeneticFunctionalDrivers2017]|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene[@reddyGeneticFunctionalDrivers2017; @hubschmannMutationalMechanismsShaping2021b]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
