@@ -8,7 +8,7 @@ bibliography: 'morinlab.bib'
 
 |Entity| Tier 1 genes| Tier 2 genes|Tier 3 genes|
 |:-:|:-:|:-:|:-:|
-|DLBCL|8|26|26|
+|DLBCL|9|25|26|
 ```mermaid
 ---
 config:
@@ -22,10 +22,10 @@ config:
         suffix: ' genes)'
 ---
 sankey-beta
-This study, New Tier 1, 8
-New Tier 1, DLBCL Tier 1, 8
-This study, New Tier 2, 26
-New Tier 2, DLBCL Tier 2, 26
+This study, New Tier 1, 9
+New Tier 1, DLBCL Tier 1, 9
+This study, New Tier 2, 25
+New Tier 2, DLBCL Tier 2, 25
 This study, New Tier 3, 26
 New Tier 3, DLBCL Tier 3, 26
 All other DLBCL studies, DLBCL Tier 1, 120
@@ -42,6 +42,7 @@ All other DLBCL studies, DLBCL Tier 3, 359
 |[BIRC6](../BIRC6)|1 || |
 |[DDX3X](../DDX3X)|1 || |
 |[HNRNPU](../HNRNPU)|1 || |
+|[JUNB](../JUNB)|1 |&starf; &starf; &starf; &star; &star; |PASS |
 |[MGA](../MGA)|1 || |
 |[PTEN](../PTEN)|1 || |
 |[SF3B1](../SF3B1)|1 || |
@@ -61,7 +62,6 @@ All other DLBCL studies, DLBCL Tier 3, 359
 |[HNRNPD](../HNRNPD)|2 || |
 |[IKBKB](../IKBKB)|2 |&starf; &starf; &starf; &star; &star; |PASS |
 |[IL16](../IL16)|2 || |
-|[JUNB](../JUNB)|2 |&starf; &starf; &starf; &star; &star; |PASS |
 |[KCMF1](../KCMF1)|2 |&starf; &starf; &starf; &star; &star; |PASS |
 |[MAGT1](../MAGT1)|2 |&starf; &starf; &starf; &star; &star; |PASS |
 |[MCL1](../MCL1)|2 |&starf; &starf; &starf; &star; &star; |PASS |
