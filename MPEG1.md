@@ -14,6 +14,8 @@ Mutations in MPEG1 have been described in DLBCL<sup>1</sup> with the overall rat
 timeline
     title Publication timing
       2013-08-15 : Morin : DLBCL
+2018-04-12 : Schmitz : DLBCL
+2018-10-01 : Arthur : DLBCL
 ```
 
 ## Relevance tier by entity
@@ -21,7 +23,7 @@ timeline
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
 |![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1-a   |high-confidence DLBCL gene[@morinMutationalStructuralAnalysis2013]|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1-a   |high-confidence DLBCL gene[@morinMutationalStructuralAnalysis2013; @schmitzGeneticsPathogenesisDiffuse2018a]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
