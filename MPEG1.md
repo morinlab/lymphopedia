@@ -23,7 +23,7 @@ timeline
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
 |![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1-a   |high-confidence DLBCL gene[@morinMutationalStructuralAnalysis2013; @schmitzGeneticsPathogenesisDiffuse2018a]|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene[@morinMutationalStructuralAnalysis2013; @schmitzGeneticsPathogenesisDiffuse2018a]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
