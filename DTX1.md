@@ -14,9 +14,11 @@ Mutations in the DTX1 gene, which encodes the E3 ubiquitin ligase Deltex 1, have
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
 timeline
     title Publication timing
+      2013-01-01 : Zhang : DLBCL
+      2012-12-01 : Love : BL
       2012-08-27 : Rossi : MZL
       2018-04-12 : Schmitz : DLBCL
-      2012-12-01 : Love : BL
+      2018-05-01 : Chapuy : DLBCL
       2023-11-15 : Gomez : PMBL
 ```
 
@@ -27,7 +29,7 @@ timeline
 |![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene[@gomezUltraDeepSequencingReveals2023]|
 |![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene[@rossiCodingGenomeSplenic2012c]|
 |![BL](images/icons/BL_tier2.png)    |3 | Retired, Failed QC[@loveGeneticLandscapeMutations2012]|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1 | aSHM target and high-confidence DLBCL gene            [@schmitzGeneticsPathogenesisDiffuse2018a]|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1 | aSHM target and high-confidence DLBCL gene            [@zhangGeneticHeterogeneityDiffuse2013; @schmitzGeneticsPathogenesisDiffuse2018a; @chapuyMolecularSubtypesDiffuse2018b]|
 |![FL](images/icons/FL_tier1.png)    |1 | aSHM target and high-confidence FL gene               |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
