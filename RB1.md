@@ -13,13 +13,15 @@ timeline
     title Publication timing
       2013-08-15 : Morin : DLBCL
       2014-05-08 : Zhang : MCL
+2017-10-10 : Reddy : DLBCL
+2018-10-01 : Arthur : DLBCL
 ```
 
 ## Relevance tier by entity
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene[@morinMutationalStructuralAnalysis2013]|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene[@morinMutationalStructuralAnalysis2013; @reddyGeneticFunctionalDrivers2017; @arthurGenomewideDiscoverySomatic2018]|
 |![MCL](images/icons/MCL_tier1.png)   |1   |high-confidence MCL gene  [@zhangGenomicLandscapeMantle2014]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
