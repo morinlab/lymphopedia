@@ -8,7 +8,7 @@ bibliography: 'morinlab.bib'
 
 |Entity| Tier 1 genes| Tier 2 genes|Tier 3 genes|
 |:-:|:-:|:-:|:-:|
-|DLBCL|15|13|272|
+|DLBCL|16|13|271|
 ```mermaid
 ---
 config:
@@ -22,12 +22,12 @@ config:
         suffix: ' genes)'
 ---
 sankey-beta
-This study, New Tier 1, 15
-New Tier 1, DLBCL Tier 1, 15
+This study, New Tier 1, 16
+New Tier 1, DLBCL Tier 1, 16
 This study, New Tier 2, 13
 New Tier 2, DLBCL Tier 2, 13
-This study, New Tier 3, 272
-New Tier 3, DLBCL Tier 3, 272
+This study, New Tier 3, 271
+New Tier 3, DLBCL Tier 3, 271
 All other DLBCL studies, DLBCL Tier 1, 112
 All other DLBCL studies, DLBCL Tier 2, 166
 All other DLBCL studies, DLBCL Tier 3, 114
@@ -45,6 +45,7 @@ All other DLBCL studies, DLBCL Tier 3, 114
 |[HIST1H2BK](../HIST1H2BK)|1 |
 |[KLHL14](../KLHL14)|1 |
 |[KMT2C](../KMT2C)|1 |
+|[LRRN3](../LRRN3)|1 |
 |[MGA](../MGA)|1 |
 |[MTOR](../MTOR)|1 |
 |[NOTCH2](../NOTCH2)|1 |
@@ -225,7 +226,6 @@ All other DLBCL studies, DLBCL Tier 3, 114
 |[LRP10](../LRP10)|3 |
 |[LRP1B](../LRP1B)|3 |
 |[LRP3](../LRP3)|3 |
-|[LRRN3](../LRRN3)|3 |
 |[LYST](../LYST)|3 |
 |[MARCHF7](../MARCHF7)|3 |
 |[MBL2](../MBL2)|3 |
