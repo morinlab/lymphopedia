@@ -8,8 +8,8 @@ bibliography: 'morinlab.bib'
 
 |Entity| Tier 1 genes| Tier 2 genes|Tier 3 genes|
 |:-:|:-:|:-:|:-:|
-|FL|1|0|0|
 |DLBCL|1|0|0|
+|FL|1|0|0|
 ```mermaid
 ---
 config:
@@ -37,7 +37,7 @@ All other FL studies, FL Tier 3, 0
 ## Novel genes reported in this study
 
 ### Tier 1
-|New gene|FL tier|DLBCL tier|
+|New gene|DLBCL tier|FL tier|
 |:-|:-:|:-:|
 |[EZH2](../EZH2)|1 |1 |
 
