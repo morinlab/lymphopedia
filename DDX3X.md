@@ -14,9 +14,11 @@ These mutations are predominantly loss-of-function (LOF) mutations, affecting th
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
 timeline
     title Publication timing
-      2012-10-04 : Schmitz : BL
-      2018-04-12 : Schmitz : DLBCL
-      2019-09-05 : Mottok : PMBL
+2012-10-04 : Schmitz : BL 
+2017-10-10 : Reddy : DLBCL
+2018-04-12 : Schmitz : DLBCL
+2018-10-01 : Arthur : DLBCL
+2019-09-05 : Mottok : PMBL
 ```
 
 ## Relevance tier by entity
@@ -25,7 +27,7 @@ timeline
 |:------:|:----:|--------------------------------------|
 |![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene[@mottokIntegrativeGenomicAnalysis2019b]|
 |![BL](images/icons/BL_tier1.png)    |1 | high-confidence BL gene               [@schmitzBurkittLymphomaPathogenesis2012]|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1 | high-confidence DLBCL gene            [@schmitzGeneticsPathogenesisDiffuse2018a]|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1 | high-confidence DLBCL gene            [@reddyGeneticFunctionalDrivers2017; @schmitzGeneticsPathogenesisDiffuse2018a; @arthurGenomewideDiscoverySomatic2018]|
 |![FL](images/icons/FL_tier2.png)    |2 | Although recurrent, the relevance of mutations in FL is tenuous |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
