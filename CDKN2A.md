@@ -8,10 +8,6 @@ link-citations: true
 ## Overview
 Although CDKN2A aberrations are common in DLBCL, this gene is predominantly affected by copy number alterations. One study found that deletions of the CDKN2A locus occur in about one-third of DLBCL patients.<sup>1</sup> The mutation pattern in DLBCL and FL implies the preferential accumulation of *inactivating mutations*. This gene has some recurrent sites of mutations (hotspots) with the most common mutation causing a truncation at codon 80 (R80*). 
 
-## History
-Mutations in this gene were first described in DLBCL and FL in 2013 by Morin et al<sup>2</sup> and in BL in 2019 by Grande et al.<sup>3</sup>
-
-
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
 timeline
