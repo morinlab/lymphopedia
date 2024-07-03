@@ -16,6 +16,7 @@ timeline
     title Publication timing
       2017-10-10 : Reddy : DLBCL
       2021-04-01 : Sarkozy : PMBL
+      2018-10-01 : Arthur : DLBCL
 ```
 
 ## Relevance tier by entity
@@ -23,7 +24,7 @@ timeline
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
 |![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene [@sarkozyMutationalLandscapeGray2021a]|
-|![DLBCL](images/icons/DLBCL_tier1.png)   |1   |high-confidence DLBCL gene          [@reddyGeneticFunctionalDrivers2017]|
+|![DLBCL](images/icons/DLBCL_tier1.png)   |1   |high-confidence DLBCL gene          [@reddyGeneticFunctionalDrivers2017; @arthurGenomewideDiscoverySomatic2018]|
 |![FL](images/icons/FL_tier1.png)      |1   |high-confidence FL gene               |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)

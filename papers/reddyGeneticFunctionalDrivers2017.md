@@ -8,7 +8,7 @@ bibliography: 'morinlab.bib'
 
 |Entity| Tier 1 genes| Tier 2 genes|Tier 3 genes|
 |:-:|:-:|:-:|:-:|
-|DLBCL|9|24|26|
+|DLBCL|10|24|26|
 ```mermaid
 ---
 config:
@@ -22,13 +22,13 @@ config:
         suffix: ' genes)'
 ---
 sankey-beta
-This study, New Tier 1, 9
-New Tier 1, DLBCL Tier 1, 9
+This study, New Tier 1, 10
+New Tier 1, DLBCL Tier 1, 10
 This study, New Tier 2, 24
 New Tier 2, DLBCL Tier 2, 24
 This study, New Tier 3, 26
 New Tier 3, DLBCL Tier 3, 26
-All other DLBCL studies, DLBCL Tier 1, 120
+All other DLBCL studies, DLBCL Tier 1, 119
 All other DLBCL studies, DLBCL Tier 2, 154
 All other DLBCL studies, DLBCL Tier 3, 359
 ```
@@ -47,6 +47,7 @@ All other DLBCL studies, DLBCL Tier 3, 359
 |[PTEN](../PTEN)|1 || |
 |[SF3B1](../SF3B1)|1 || |
 |[TOX](../TOX)|1 || |
+|[ZNF292](../ZNF292)|1 || |
 
 ### Tier 2
 |New gene|DLBCL tier| Average variant quality | QC outcome |
