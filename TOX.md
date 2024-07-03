@@ -10,14 +10,17 @@ link-citations: true
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
 timeline
     title Publication timing
-      2017-10-10 : Reddy : DLBCL
+2017-10-10 : Reddy : DLBCL
+2018-04-12 : Schmitz : DLBCL
+2018-05-01 : Chapuy : DLBCL
+2021-05-05 : Hubschmann : DLBCL
 ```
 
 ## Relevance tier by entity
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            [@reddyGeneticFunctionalDrivers2017]|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            [@reddyGeneticFunctionalDrivers2017; @schmitzGeneticsPathogenesisDiffuse2018a; @chapuyMolecularSubtypesDiffuse2018b; @hubschmannMutationalMechanismsShaping2021b]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
