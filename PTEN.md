@@ -11,6 +11,7 @@ link-citations: true
 timeline
     title Publication timing
       2012-12-01 : Love : BL
+      2018-05-01 : Chapuy : DLBCL
 ```
 
 ## Relevance tier by entity
@@ -18,7 +19,7 @@ timeline
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
 |![BL](images/icons/BL_tier1.png)    |1   |high-confidence BL gene   [@loveGeneticLandscapeMutations2012]|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene[@reddyGeneticFunctionalDrivers2017; @chapuyMolecularSubtypesDiffuse2018b]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
