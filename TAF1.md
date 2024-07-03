@@ -12,7 +12,7 @@ link-citations: true
 config:
     timeline:
         width: 600
-        height: 300
+        height: 100
 ---
 timeline
     title Publication timing
