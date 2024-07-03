@@ -17,6 +17,7 @@ This gene encodes the H2A protein, one of the core proteins comprising nucleosom
 timeline
     title Publication timing
       2013-01-01 : Zhang : DLBCL
+      2018-05-01 : Chapuy : DLBCL
       2012-08-27 : Rossi : MZL
       2019-09-26 : Panea : BL
 ```
@@ -27,7 +28,7 @@ timeline
 |:------:|:----:|--------------------------------------|
 |![MZL](images/icons/MZL_tier2.png)|2|relevance in MZL not firmly established[@rossiCodingGenomeSplenic2012c]|
 |![BL](images/icons/BL_tier2.png)    |3   |Retired, Failed QC[@paneaWholeGenomeLandscape2019]|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            [@zhangGeneticHeterogeneityDiffuse2013]|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            [@zhangGeneticHeterogeneityDiffuse2013; @chapuyMolecularSubtypesDiffuse2018b]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
