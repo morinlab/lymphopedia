@@ -6,10 +6,10 @@ bibliography: 'morinlab.bib'
 # @morinSomaticMutationsAltering2010a
 ## Summary of novel genes
 
-|Entity| Tier 1 genes| Tier 2 genes|
-|:-:|:-:|:-:|
-|DLBCL|1|0|
-|FL|1|0|
+|Entity| Tier 1 genes| Tier 2 genes|Tier 3 genes|
+|:-:|:-:|:-:|:-:|
+|FL|1|0|0|
+|DLBCL|1|0|0|
 ```mermaid
 ---
 config:
@@ -27,22 +27,19 @@ This study, New Tier 1, 1
 New Tier 1, FL Tier 1, 1
 This study, New Tier 2, 0
 New Tier 2, FL Tier 2, 0
+This study, New Tier 3, 0
+New Tier 3, FL Tier 3, 0
 All other FL studies, FL Tier 1, 65
-All other FL studies, FL Tier 2, 50
+All other FL studies, FL Tier 2, 49
+All other FL studies, FL Tier 3, 0
 ```
 
 ## Novel genes reported in this study
 
 ### Tier 1
-|New gene|DLBCL tier|FL tier|
+|New gene|FL tier|DLBCL tier|
 |:-|:-:|:-:|
 |[EZH2](../EZH2)|1 |1 |
-
-## Data Availability
-
-|**Repository**|**Accession**|
-|-|-|
-|[dbGAP](https://www.ncbi.nlm.nih.gov/gap/)| phs000532.v18.p6 |
 
 
 # Details
