@@ -10,7 +10,7 @@ link-citations: true
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
 timeline
     title Publication timing
-      2008-07-01 : Troen : DLBCL
+      2013-01-01 : Zhang : DLBCL
       2012-08-27 : Rossi : MZL
       2013-11-05 : Bea : MCL
 ```
@@ -20,7 +20,7 @@ timeline
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
 |![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene[@rossiCodingGenomeSplenic2012c]|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            [@troenNOTCH2MutationsMarginal2008]|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            [@zhangGeneticHeterogeneityDiffuse2013]|
 |![MCL](images/icons/MCL_tier1.png)   |1   |high-confidence MCL gene              [@beaLandscapeSomaticMutations2013]|
 
 
