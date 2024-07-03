@@ -8,6 +8,12 @@ link-citations: true
 ## History
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
+---
+config:
+    timeline:
+        width: 600
+        height: 300
+---
 timeline
     title Publication timing
       2013-08-15 : Morin : DLBCL
