@@ -13,6 +13,7 @@ link-citations: true
 timeline
     title Publication timing
       2017-10-10 : Reddy : DLBCL
+      2018-10-01 : Arthur : DLBCL
       2023-11-15 : Gomez : PMBL
 ```
 
@@ -21,7 +22,7 @@ timeline
 |Entity|Tier|Description                              |
 |:------:|:----:|-----------------------------------------|
 |![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene[@gomezUltraDeepSequencingReveals2023]|
-|![DLBCL](images/icons/DLBCL_tier2.png) |2   |relevance in DLBCL not firmly established[@reddyGeneticFunctionalDrivers2017;@drevalRevisitingReddyDLBCL2023]|
+|![DLBCL](images/icons/DLBCL_tier2.png) |2   |relevance in DLBCL not firmly established[@reddyGeneticFunctionalDrivers2017;@drevalRevisitingReddyDLBCL2023; @arthurGenomewideDiscoverySomatic2018]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
