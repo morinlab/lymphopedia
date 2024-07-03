@@ -18,6 +18,7 @@ Although mutations in MTOR have been reported in DLBCL and some BL, their role i
 timeline
     title Publication timing
       2013-01-01 : Zhang : DLBCL
+      2017-10-10 : Reddy : DLBCL
       2019-09-26 : Panea : BL
 ```
 
@@ -26,7 +27,7 @@ timeline
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
 |![BL](images/icons/BL_tier2.png)    |3   |Retired, Failed QC[@paneaWholeGenomeLandscape2019]|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene[@zhangGeneticHeterogeneityDiffuse2013]      |
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene[@zhangGeneticHeterogeneityDiffuse2013; @reddyGeneticFunctionalDrivers2017]      |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
