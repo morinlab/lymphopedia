@@ -16,6 +16,7 @@ The rate of DLBCLs with biallelic loss of this locus remains unclear.
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
 timeline
     title Publication timing
+      2013-01-01 : Zhang : DLBCL
       2015-02-12 : Reichel : PMBL
       2017-01-26 : Krysiak : FL
       2018-10-01 : Arthur : DLBCL
@@ -28,7 +29,7 @@ timeline
 |:------:|:----:|--------------------------------------|
 |![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene|
 |![PMBL](images/icons/PMBL_tier2.png)|2|relevance in PMBL/cHL/GZL not firmly established[@reichelFlowSortingExome2015a]|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1-EE[@balinas-gaviraFrequentMutationsAminoterminal2020b] | high-confidence DLBCL gene           [@arthurGenomewideDiscoverySomatic2018] |
+|![DLBCL](images/icons/DLBCL_tier1.png) |1-EE[@balinas-gaviraFrequentMutationsAminoterminal2020b] | high-confidence DLBCL gene           [@zhangGeneticHeterogeneityDiffuse2013; @arthurGenomewideDiscoverySomatic2018] |
 |![FL](images/icons/FL_tier1.png)    |1 | high-confidence FL gene [@krysiakRecurrentSomaticMutations2017b]              |
 |![BL](images/icons/BL_tier2.png)    |2 | Although recurrent, the relevance of mutations in BL is tenuous [@grandeGenomewideDiscoverySomatic2019]|
 
