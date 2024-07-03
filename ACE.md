@@ -17,6 +17,7 @@ Due to [minimal support](ACE#representative-mutation) in the original primary da
 timeline
     title Publication timing
       2012-12-01 : Love : BL
+      2013-01-01 : Zhang : DLBCL
 ```
 
 ## Relevance tier by entity
@@ -24,6 +25,7 @@ timeline
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
 |![BL](images/icons/BL_tier2.png)    |3   |Retired, Failed QC[@loveGeneticLandscapeMutations2012]|
+
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

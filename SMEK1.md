@@ -10,6 +10,7 @@ link-citations: true
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
 timeline
     title Publication timing
+      2013-01-01 : Zhang : DLBCL
       2018-05-01 : Chapuy : DLBCL
 ```
 
@@ -17,7 +18,7 @@ timeline
 
 |Entity|Tier|Description                              |
 |:------:|:----:|-----------------------------------------|
-|![DLBCL](images/icons/DLBCL_tier2.png) |2   |relevance in DLBCL not firmly established[@chapuyMolecularSubtypesDiffuse2018b]|
+|![DLBCL](images/icons/DLBCL_tier2.png) |2   |relevance in DLBCL not firmly established[@zhangGeneticHeterogeneityDiffuse2013]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
