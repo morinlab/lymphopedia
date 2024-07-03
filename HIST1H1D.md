@@ -61,8 +61,6 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/H
 
 ![](images/proteinpaint/HIST1H1D.svg)
 
-## HIST1H1D Expression
-![](images/gene_expression/HIST1H1D_by_pathology.svg)
 <!-- ORIGIN: morinMutationalStructuralAnalysis2013 -->
 <!-- FL: krysiakRecurrentSomaticMutations2017b -->
 <!-- DLBCL: morinMutationalStructuralAnalysis2013 -->
