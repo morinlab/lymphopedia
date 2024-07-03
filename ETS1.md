@@ -28,8 +28,8 @@ timeline
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
 |![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1-a | aSHM target and high-confidence DLBCL gene            [@morinFrequentMutationHistonemodifying2011]|
-|![BL](images/icons/BL_tier2.png)    |2-F | Failed QC[@paneaWholeGenomeLandscape2019]|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1 | aSHM target and high-confidence DLBCL gene            [@morinFrequentMutationHistonemodifying2011]|
+|![BL](images/icons/BL_tier2.png)    |3 | Retired, Failed QC[@paneaWholeGenomeLandscape2019]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
