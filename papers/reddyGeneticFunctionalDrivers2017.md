@@ -8,7 +8,7 @@ bibliography: 'morinlab.bib'
 
 |Entity| Tier 1 genes| Tier 2 genes|Tier 3 genes|
 |:-:|:-:|:-:|:-:|
-|DLBCL|9|25|26|
+|DLBCL|9|24|26|
 ```mermaid
 ---
 config:
@@ -24,12 +24,12 @@ config:
 sankey-beta
 This study, New Tier 1, 9
 New Tier 1, DLBCL Tier 1, 9
-This study, New Tier 2, 25
-New Tier 2, DLBCL Tier 2, 25
+This study, New Tier 2, 24
+New Tier 2, DLBCL Tier 2, 24
 This study, New Tier 3, 26
 New Tier 3, DLBCL Tier 3, 26
 All other DLBCL studies, DLBCL Tier 1, 120
-All other DLBCL studies, DLBCL Tier 2, 153
+All other DLBCL studies, DLBCL Tier 2, 154
 All other DLBCL studies, DLBCL Tier 3, 359
 ```
 
@@ -68,7 +68,6 @@ All other DLBCL studies, DLBCL Tier 3, 359
 |[MECOM](../MECOM)|2 |&starf; &starf; &starf; &star; &star; |PASS |
 |[MET](../MET)|2 |&starf; &starf; &starf; &star; &star; |PASS |
 |[MSH6](../MSH6)|2 |&starf; &starf; &starf; &star; &star; |PASS |
-|[NF1](../NF1)|2 |&starf; &starf; &starf; &star; &star; |PASS |
 |[PTPN6](../PTPN6)|2 |&starf; &starf; &starf; &star; &star; |PASS |
 |[SETD5](../SETD5)|2 |&starf; &starf; &starf; &star; &star; |PASS |
 |[TCL1A](../TCL1A)|2 || |
