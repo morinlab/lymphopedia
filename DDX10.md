@@ -13,6 +13,7 @@ link-citations: true
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
 timeline
     title Publication timing
+      2013-01-01 : Zhang : DLBCL
       2017-10-10 : Reddy : DLBCL
 ```
 
@@ -20,7 +21,7 @@ timeline
 
 |Entity|Tier|Description                              |
 |:------:|:----:|-----------------------------------------|
-|![DLBCL](images/icons/DLBCL_tier2.png) |3  |Retired, Failed QC[@zhangGeneticHeterogeneityDiffuse2013]|
+|![DLBCL](images/icons/DLBCL_tier2.png) |2  |Relevance in DLBCL not firmly established[@zhangGeneticHeterogeneityDiffuse2013]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
