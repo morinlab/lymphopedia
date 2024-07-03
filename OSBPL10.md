@@ -14,14 +14,15 @@ OSBPL10 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ash
 timeline
     title Publication timing
       2013-01-01 : Zhang : DLBCL
-      2018-10-01 : Arthur : DLBCL
+      2018-04-12 : Schmitz : DLBCL
+
 ```
 
 ## Relevance tier by entity
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1-a | aSHM target and high-confidence DLBCL gene            [@zhangGeneticHeterogeneityDiffuse2013; @arthurGenomewideDiscoverySomatic2018]|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1-a | aSHM target and high-confidence DLBCL gene            [@zhangGeneticHeterogeneityDiffuse2013; @arthurGenomewideDiscoverySomatic2018; @schmitzGeneticsPathogenesisDiffuse2018a]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
