@@ -5,8 +5,6 @@ link-citations: true
 ---
 # DDX10
 
-<<Warn("The variants reported in this gene in DLBCL failed QC")>>
-
 ## History
 
 ```mermaid
