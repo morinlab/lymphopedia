@@ -13,13 +13,15 @@ timeline
     title Publication timing
       2013-08-15 : Morin : DLBCL
       2017-01-26 : Krysiak : FL
+      2018-05-01 : Chapuy : DLBCL
+      2021-05-05 : Hubschmann : DLBCL
 ```
 
 ## Relevance tier by entity
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene[@morinMutationalStructuralAnalysis2013]|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene[@morinMutationalStructuralAnalysis2013; @chapuyMolecularSubtypesDiffuse2018b; @hubschmannMutationalMechanismsShaping2021b]|
 |![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene   [@krysiakRecurrentSomaticMutations2017b]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
