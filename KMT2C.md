@@ -16,6 +16,7 @@ timeline
     title Publication timing
       2013-01-01 : Zhang : DLBCL
       2014-05-08 : Zhang : MCL
+      2017-10-10 : Reddy : DLBCL
       2019-07-23 : Zhou : BL
       2021-04-01 : Sarkozy : PMBL
 ```
@@ -26,7 +27,7 @@ timeline
 |:------:|:----:|---------------------------------------|
 |![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene[@sarkozyMutationalLandscapeGray2021a]|
 |![BL](images/icons/BL_tier2.png)    |2   |relevance in BL not firmly established [@zhouSporadicEndemicBurkitt2019]|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene             [@zhangGeneticHeterogeneityDiffuse2013]|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene             [@zhangGeneticHeterogeneityDiffuse2013; @reddyGeneticFunctionalDrivers2017]|
 |![MCL](images/icons/MCL_tier2.png)   |2   |relevance in MCL not firmly established[@zhangGenomicLandscapeMantle2014]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
