@@ -10,9 +10,13 @@ link-citations: true
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
 timeline
     title Publication timing
-      2013-01-01 : Zhang : DLBCL
-      2012-08-27 : Rossi : MZL
-      2013-11-05 : Bea : MCL
+2012-08-27 : Rossi : MZL
+2013-01-01 : Zhang : DLBCL
+2013-11-05 : Bea : MCL
+2017-10-10 : Reddy : DLBCL
+2018-04-12 : Schmitz : DLBCL
+2018-05-01 : Chapuy : DLBCL
+2021-05-05 : Hubschmann : DLBCL
 ```
 
 ## Relevance tier by entity
