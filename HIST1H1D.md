@@ -6,7 +6,8 @@ link-citations: true
 # HIST1H1D
 
 ## Overview
-This is one of several genes that encode linker histone proteins that are recurrently mutated in DLBCL and FL.<sup>1,2</sup> Mutations are often found in the globular domain of the protein, which is critical for its interaction with DNA and other histone proteins. 
+This is one of several genes that encode linker histone proteins that are recurrently mutated in DLBCL and FL.[@morinMutationalStructuralAnalysis2013; @krysiakRecurrentSomaticMutations2017b]
+Mutations are often found in the globular domain of the protein, which is critical for its interaction with DNA and other histone proteins. 
 
 ## History
 ```mermaid
@@ -16,6 +17,7 @@ timeline
       2013-08-15 : Morin : DLBCL
       2017-01-26 : Krysiak : FL
       2017-07-27 : Jallades : MZL
+2018-05-01 : Chapuy : DLBCL
 ```
 
 ## Relevance tier by entity
@@ -24,7 +26,7 @@ timeline
 |:------:|:----:|--------------------------------------|
 |![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene|
 |![MZL](images/icons/MZL_tier2.png)|2|relevance in MZL not firmly established[@jalladesExomeSequencingIdentifies2017]|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            [@morinMutationalStructuralAnalysis2013]|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            [@morinMutationalStructuralAnalysis2013; @chapuyMolecularSubtypesDiffuse2018b]|
 |![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene               [@krysiakRecurrentSomaticMutations2017b]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
