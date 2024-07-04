@@ -5,12 +5,20 @@ link-citations: true
 ---
 # UNC5C
 
+## History
+```mermaid
+%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
+timeline
+    title Publication timing
+2012-03-06 : Lohr : DLBCL
+```
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
 |![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene[@lohrDiscoveryPrioritizationSomatic2012a]|
+|![DLBCL](images/icons/DLBCL_tier1.png) |2   |low-confidence DLBCL gene[@lohrDiscoveryPrioritizationSomatic2012a]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
