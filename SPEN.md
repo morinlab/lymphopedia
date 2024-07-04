@@ -11,7 +11,14 @@ link-citations: true
 timeline
     title Publication timing
       2012-08-27 : Rossi : MZL
+2017-05-01 : Albuquerque : DLBCL
+2017-10-10 : Reddy : DLBCL
+2018-04-12 : Schmitz : DLBCL
+2018-05-01 : Chapuy : DLBCL
+2018-10-01 : Arthur : DLBCL
       2021-04-01 : Sarkozy : PMBL
+
+2021-05-05 : Hubschmann : DLBCL
 ```
 
 ## Relevance tier by entity
@@ -20,7 +27,7 @@ timeline
 |:------:|:----:|--------------------------|
 |![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene[@rossiCodingGenomeSplenic2012c]|
 |![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene[@sarkozyMutationalLandscapeGray2021a]|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene[@rossiCodingGenomeSplenic2012c]|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene[@albuquerqueEnhancingKnowledgeDiscovery2017a; @reddyGeneticFunctionalDrivers2017; @schmitzGeneticsPathogenesisDiffuse2018a]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
