@@ -13,9 +13,14 @@ ZFP36L1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ash
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
 timeline
     title Publication timing
-      2011-07-27 : Morin : DLBCL
-      2015-02-12 : Reichel : PMBL
+2011-07-27 : Morin : DLBCL
+2015-02-12 : Reichel : PMBL
+2017-05-01 : Albuquerque : DLBCL
+2018-04-12 : Schmitz : DLBCL
+2018-05-01 : Chapuy : DLBCL
+2018-10-01 : Arthur : DLBCL
       2019-09-26 : Panea : BL
+2021-05-05 : Hubschmann : DLBCL
 ```
 
 ## Relevance tier by entity
