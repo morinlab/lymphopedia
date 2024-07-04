@@ -19,6 +19,7 @@ timeline
     title Publication timing
       2012-11-11 : Richter : BL
       2013-12-13 : Parry : MZL
+      2018-10-01 : Arthur : DLBCL
       2021-05-05 : Hübschmann : DLBCL
 ```
 
@@ -28,7 +29,7 @@ timeline
 |:------:|:----:|--------------------------|
 |![MZL](images/icons/MZL_tier2.png)|2|relevance in MZL not firmly established[@parryWholeExomeSequencing2013]|
 |![BL](images/icons/BL_tier1.png)    |1   |high-confidence BL gene   [@richterRecurrentMutationID32012a]|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene[@hubschmannMutationalMechanismsShaping2021b]|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene[@hubschmannMutationalMechanismsShaping2021b; @arthurGenomewideDiscoverySomatic2018]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
