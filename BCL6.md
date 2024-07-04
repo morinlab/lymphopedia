@@ -29,7 +29,7 @@ timeline
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
 |![BL](images/icons/BL_tier2.png)    |2 | Although recurrent, the relevance of mutations in BL is tenuous [@loveGeneticLandscapeMutations2012]|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1-EE[@balSuperenhancerHypermutationAlters2022] | high-confidence DLBCL gene            [@morinFrequentMutationHistonemodifying2011]|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1-EE[@balSuperenhancerHypermutationAlters2022] | high-confidence DLBCL gene            [@morinFrequentMutationHistonemodifying2011; @morinMutationalStructuralAnalysis2013; @reddyGeneticFunctionalDrivers2017; @schmitzGeneticsPathogenesisDiffuse2018a]|
 |![FL](images/icons/FL_tier1.png)    |1 | high-confidence FL gene               |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
