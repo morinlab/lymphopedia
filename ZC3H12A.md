@@ -10,7 +10,8 @@ link-citations: true
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
 timeline
     title Publication timing
-      2017-10-10 : Reddy : DLBCL
+2018-05-01 : Chapuy : DLBCL
+2018-10-01 : Arthur : DLBCL
 ```
 
 ## Relevance tier by entity
@@ -18,7 +19,7 @@ timeline
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
 |![MCL](images/icons/MCL_tier2.png)|2|relevance in MCL not firmly established|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            [@arthurGenomewideDiscoverySomatic2018]|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            [@chapuyMolecularSubtypesDiffuse2018b; @arthurGenomewideDiscoverySomatic2018]|
 |![FL](images/icons/FL_tier2.png)    |2   |relevance in FL not firmly established|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
