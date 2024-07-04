@@ -14,7 +14,11 @@ TMSB4X is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
 timeline
     title Publication timing
-      2017-05-01 : Albuquerque : DLBCL
+2013-01-01 : Zhang : DLBCL
+2017-05-01 : Albuquerque : DLBCL
+2017-10-10 : Reddy : DLBCL
+2018-04-12 : Schmitz : DLBCL
+2018-05-01 : Chapuy : DLBCL
 ```
 
 ## Relevance tier by entity
@@ -22,7 +26,7 @@ timeline
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
 |![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1-a | aSHM target and high-confidence DLBCL gene            [@albuquerqueEnhancingKnowledgeDiscovery2017a]|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1-a | aSHM target and high-confidence DLBCL gene            [@zhangGeneticHeterogeneityDiffuse2013; @albuquerqueEnhancingKnowledgeDiscovery2017a]|
 |![FL](images/icons/FL_tier1.png)    |1-a | aSHM target and high-confidence FL gene               |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
