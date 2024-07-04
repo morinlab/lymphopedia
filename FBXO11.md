@@ -6,12 +6,9 @@ link-citations: true
 # FBXO11
 
 ## Overview
-Somatic mutations in FBXO11 are common in BL<sup>1,2</sup> and appear in a small number of DLBCLs.<sup>3</sup> 
-This gene has some recurrent sites of mutations (hot spots). Mutations lead to stabilization of BCL6, an important transcriptional repressor involved in lymphomagenesis.<sup>4</sup> 
-These mutations present a potential novel target for therapeutic intervention, particularly through strategies aimed at degrading BCL6 or inhibiting its function.<sup>4</sup>
-
-## History
-Mutations in this gene were first described in BL in 2015 by Pighi et al<sup>4</sup> and in DLBCL by Hübschmann et al.<sup>5</sup>
+Somatic mutations in FBXO11 are common in BL[@richterRecurrentMutationID32012a] and appear in a small number of DLBCLs.[@hubschmannMutationalMechanismsShaping2021b]
+This gene has some recurrent sites of mutations (hot spots). Mutations lead to stabilization of BCL6, an important transcriptional repressor involved in lymphomagenesis.
+These mutations present a potential novel target for therapeutic intervention, particularly through strategies aimed at degrading BCL6 or inhibiting its function.
 
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
