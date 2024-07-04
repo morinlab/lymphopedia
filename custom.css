@@ -1,4 +1,10 @@
 div.csl-bib-body { }
+
+div.mermaid{
+  max-width: 300px,
+  max-height: 100px
+}
+
 div.csl-entry {
   clear: both;
 $if(csl-entry-spacing)$
