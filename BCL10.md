@@ -22,9 +22,14 @@ BCL10 missense mutations in the CARD domain and truncating mutations have distin
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
 timeline
     title Publication timing
-      2011-07-27 : Morin : DLBCL
-      2016-09-08 : Spina : MZL
-      2023-07-26 : Russler : FL
+2011-07-27 : Morin : DLBCL
+2013-08-15 : Morin : DLBCL
+2016-09-08 : Spina : MZL
+2017-10-10 : Reddy : DLBCL
+2018-04-12 : Schmitz : DLBCL
+2018-05-01 : Chapuy : DLBCL
+2018-10-01 : Arthur : DLBCL
+ 2023-07-26 : Russler-Germain : FL
 ```
 
 ## Relevance tier by entity
@@ -32,7 +37,7 @@ timeline
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
 |![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene[@spinaGeneticsNodalMarginal2016b]|
-|![DLBCL](images/icons/DLBCL_tier1.png)  |1-EE[@xiaBCL10MutationsDefine2022]   |high-confidence DLBCL gene[@morinFrequentMutationHistonemodifying2011]            |
+|![DLBCL](images/icons/DLBCL_tier1.png)  |1-EE[@xiaBCL10MutationsDefine2022]   |high-confidence DLBCL gene[@morinFrequentMutationHistonemodifying2011;@morinMutationalStructuralAnalysis2013]            |
 |![FL](images/icons/FL_tier2.png)     |2   |relevance in FL not firmly established[@russler-germainMutationsAssociatedProgression2023b]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
