@@ -15,11 +15,12 @@ To get started, select one of the gene lists from the table below then select th
 
 ## Common B-cell lymphomas
 
-|Entity|Tier 1 (high-confidence)|Tier 2 (low-confidence)|
-|:---:|:-:|:-:|
-|Burkitt Lymphoma (BL)|[29 genes](BL_genes#tier-1-bl-genes)|[152 genes](BL_genes#tier-2-bl-genes)|
-|Diffuse Large B-cell Lymphoma (DLBCL)|[127 genes](DLBCL_genes#tier-1-dlbcl-genes)|[215 genes](DLBCL_genes#tier-2-dlbcl-genes)|
-|Follicular Lymphoma (FL)|[66 genes](FL_genes#tier-1-fl-genes)|[50 genes](FL_genes#tier-2-fl-genes)|
+
+|Entity|Tier 1 (high-confidence)|Tier 2 (low-confidence)|Tier 3 (retired) |
+|:-:|:-:|:-:|:-:|
+|BL|[29 genes](BL_genes#tier-1-bl-genes)|[75 genes](BL_genes#tier-2-bl-genes)|[70 genes](BL_genes#tier-3-bl-genes)|
+|DLBCL|[128 genes](DLBCL_genes#tier-1-dlbcl-genes)|[178 genes](DLBCL_genes#tier-2-dlbcl-genes)|[385 genes](DLBCL_genes#tier-3-dlbcl-genes)|
+|FL|[66 genes](FL_genes#tier-1-fl-genes)|[49 genes](FL_genes#tier-2-fl-genes)|[0 genes](FL_genes#tier-3-fl-genes)|
 
 
 ### History of lymphoma genes in common entities
@@ -151,11 +152,11 @@ BL RNA-seq, Schmitz 2012, 19
 
 ## Rare B-cell lymphomas
 
-|Entity|Tier 1 (high-confidence)|Tier 2 (low-confidence)|
-|:---:|:-:|:-:|
-|Primary Mediastinal B-cell Lymphoma (PMBL)|[76 genes](PMBL_genes#tier-1-pmbl-genes)|[82 genes](PMBL_genes#tier-2-pmbl-genes)|
-|Mantle Cell Lymphoma (MCL)|[23 genes](MCL_genes#tier-1-mcl-genes)|[46 genes](MCL_genes#tier-2-mcl-genes)|
-|Marginal Zone Lymphomas (MZL)|[42 genes](MZL_genes#tier-1-mzl-genes)|[74 genes](MZL_genes#tier-2-mzl-genes)|
+|Entity|Tier 1 (high-confidence)|Tier 2 (low-confidence)|Tier 3 (retired) |
+|:-:|:-:|:-:|:-:|
+|PMBL|[76 genes](PMBL_genes#tier-1-pmbl-genes)|[82 genes](PMBL_genes#tier-2-pmbl-genes)|[0 genes](PMBL_genes#tier-3-pmbl-genes)|
+|MCL|[23 genes](MCL_genes#tier-1-mcl-genes)|[46 genes](MCL_genes#tier-2-mcl-genes)|[0 genes](MCL_genes#tier-3-mcl-genes)|
+|MZL|[42 genes](MZL_genes#tier-1-mzl-genes)|[74 genes](MZL_genes#tier-2-mzl-genes)|[0 genes](MZL_genes#tier-3-mzl-genes)|
 
 \* *PMBL gene list includes genes attributed to classical Hodgkin lymphoma or marginal grey-zone lymphoma*
 
