@@ -1,14 +1,15 @@
-.has-sidebar #wiki-body {
-  width: 77%;
+.container-lg {
+  max-width: 90%;
 }
 
-#wiki-wrapper {
-    max-width: 90%;
-}
-
-#wiki-sidebar {
+#sidebar-content {
   width: 17%;
 }
+
+ul {
+  list-style-type: square;
+}
+
 
 div.csl-bib-body { }
 
