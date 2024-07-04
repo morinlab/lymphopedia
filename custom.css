@@ -2,9 +2,9 @@
   max-width: 90%;
 }
 
-div.mermaid {
-  max-height: 280px
-}
+#div.mermaid {
+#  max-height: 280px
+#}
 
 div.csl-bib-body { }
 
