@@ -11,8 +11,11 @@ link-citations: true
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
 timeline
     title Publication timing
+2017-10-10 : Reddy : DLBCL
       2016-03-01 : Mareschal : DLBCL
       2016-06-01 : Jardin : PMBL
+2018-05-01 : Chapuy : DLBCL
+2021-05-05 : Hubschmann : DLBCL
 ```
 
 ## Relevance tier by entity
@@ -20,7 +23,7 @@ timeline
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
 |![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene[@jardinRecurrentMutationsExportin2016a]|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene[@mareschalWholeExomeSequencing2016]|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene[@mareschalWholeExomeSequencing2016; @reddyGeneticFunctionalDrivers2017]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
