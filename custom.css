@@ -1,9 +1,9 @@
 .container-lg {
-  max-height: 200px;
+  max-width: 90%;
 }
 
 div.mermaid {
-  max-height: 400px
+  max-height: 300px
 }
 
 div.csl-bib-body { }
