@@ -19,8 +19,10 @@ The mutation pattern in DLBCL implies the preferential accumulation of *inactiva
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
 timeline
     title Publication timing
-      2013-08-15 : Morin : DLBCL
-      2021-07-15 : Duns : PMBL
+2012-03-06 : Lohr : DLBCL
+2013-08-15 : Morin : DLBCL
+2017-10-10 : Reddy : DLBCL
+2018-04-12 : Schmitz : DLBCL
 ```
 
 ## Relevance tier by entity
