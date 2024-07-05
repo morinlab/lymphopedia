@@ -13,6 +13,7 @@ First described as mutated in BL in 2009 by Grande et al.<sup>1</sup>
 timeline
     title Publication timing
       2019-03-21 : Grande : BL
+      2018-10-01 : Arthur : DLBCL
 ```
 
 ## Relevance tier by entity
@@ -20,7 +21,7 @@ timeline
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
 |![BL](images/icons/BL_tier1.png)    |1   |high-confidence BL gene   [@grandeGenomewideDiscoverySomatic2019]|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene[@arthurGenomewideDiscoverySomatic2018]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
