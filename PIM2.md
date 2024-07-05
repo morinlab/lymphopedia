@@ -15,7 +15,10 @@ PIM2 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) 
 timeline
     title Publication timing
       2015-02-12 : Reichel : PMBL
-      2018-10-01 : Arthur : DLBCL
+      2017-10-10 : Reddy : DLBCL
+2018-04-12 : Schmitz : DLBCL
+2018-10-01 : Arthur : DLBCL
+     
 ```
 
 ## Relevance tier by entity
@@ -23,7 +26,7 @@ timeline
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
 |![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene[@reichelFlowSortingExome2015a]|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1-a | aSHM target and high-confidence DLBCL gene[@arthurGenomewideDiscoverySomatic2018]|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1 | aSHM target and high-confidence DLBCL gene[@reddyGeneticFunctionalDrivers2017; @schmitzGeneticsPathogenesisDiffuse2018a; @arthurGenomewideDiscoverySomatic2018]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
