@@ -5,7 +5,7 @@ link-citations: true
 ---
 # SF3B1
 
-<<Warn("The variants reported in this gene failed QC")>>
+<<Warn("The variants reported in this gene in BL failed QC")>>
 
 ## History
 ```mermaid
