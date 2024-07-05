@@ -14,6 +14,7 @@ POU2AF1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ash
 timeline
     title Publication timing
       2017-01-26 : Krysiak : FL
+      2018-05-01 : Chapuy : DLBCL
 ```
 
 ## Relevance tier by entity
@@ -21,8 +22,8 @@ timeline
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
 |![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1-a   |high-confidence DLBCL gene, hypermutated|
-|![FL](images/icons/FL_tier1.png)    |1-a   |high-confidence FL gene, hypermutated   [@krysiakRecurrentSomaticMutations2017b]|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene, hypermutated[@chapuyMolecularSubtypesDiffuse2018b]|
+|![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene, hypermutated   [@krysiakRecurrentSomaticMutations2017b]|
 
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
