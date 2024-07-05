@@ -10,8 +10,12 @@ link-citations: true
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
 timeline
     title Publication timing
+    2012-11-11 : Richter : BL
       2013-01-01 : Zhang : DLBCL
-      2012-11-11 : Richter : BL
+2017-10-10 : Reddy : DLBCL
+2018-05-01 : Chapuy : DLBCL
+2018-10-01 : Arthur : DLBCL
+      
 ```
 
 ## Relevance tier by entity
@@ -20,7 +24,7 @@ timeline
 |:------:|:----:|--------------------------|
 |![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene|
 |![BL](images/icons/BL_tier1.png)    |1   |high-confidence BL gene   [@richterRecurrentMutationID32012a]|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene[@zhangGeneticHeterogeneityDiffuse2013]|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene[@zhangGeneticHeterogeneityDiffuse2013; @reddyGeneticFunctionalDrivers2017; @chapuyMolecularSubtypesDiffuse2018b]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
