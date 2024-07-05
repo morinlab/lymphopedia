@@ -10,15 +10,20 @@ link-citations: true
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
 timeline
     title Publication timing
-      2013-01-01 : Zhang : DLBCL
-      2017-01-26 : Krysiak : FL
+      
+      2012-03-06 : Lohr : DLBCL
+2013-01-01 : Zhang : DLBCL
+2017-01-26 : Krysiak : FL
+2017-10-10 : Reddy : DLBCL
+2018-05-01 : Chapuy : DLBCL
+2018-10-01 : Arthur : DLBCL
 ```
 
 ## Relevance tier by entity
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene[@lohrDiscoveryPrioritizationSomatic2012a]|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene[@lohrDiscoveryPrioritizationSomatic2012a; @zhangGeneticHeterogeneityDiffuse2013; @reddyGeneticFunctionalDrivers2017]|
 |![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene   [@krysiakRecurrentSomaticMutations2017b]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
