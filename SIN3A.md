@@ -6,14 +6,16 @@ link-citations: true
 # SIN3A
 
 ## History
-Mutations in this gene were first described in MZL in 2012 by Rossi et al<sup>1</sup> and in BL in 2019 by Grande et al.<sup>2</sup>
 
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
 timeline
     title Publication timing
       2012-08-27 : Rossi : MZL
+      2018-05-01 : Chapuy : DLBCL
+2018-10-01 : Arthur : DLBCL
       2019-03-21 : Grande : BL
+      2021-05-05 : Hubschmann : DLBCL
 ```
 
 ## Relevance tier by entity
@@ -23,7 +25,7 @@ timeline
 |![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene|
 |![BL](images/icons/BL_tier1.png)    |1   |high-confidence BL gene   [@grandeGenomewideDiscoverySomatic2019]|
 |![MZL](images/icons/MZL_tier1.png)    |1   |high-confidence MZL gene   [@rossiCodingGenomeSplenic2012c]|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene[@chapuyMolecularSubtypesDiffuse2018b; @arthurGenomewideDiscoverySomatic2018]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
