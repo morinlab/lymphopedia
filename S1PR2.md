@@ -13,8 +13,14 @@ S1PR2 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm)
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
 timeline
     title Publication timing
-      2011-07-27 : Morin : DLBCL
-      2014-12-11 : Muppidi : BL
+2011-07-27 : Morin : DLBCL
+2012-03-06 : Lohr : DLBCL
+2013-08-15 : Morin : DLBCL
+2014-12-11 : Muppidi : BL
+2017-10-10 : Reddy : DLBCL
+2018-04-12 : Schmitz : DLBCL
+2018-10-01 : Arthur : DLBCL
+      
 ```
 
 ## Relevance tier by entity
@@ -22,9 +28,9 @@ timeline
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
 |![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene|
-|![BL](images/icons/BL_tier2.png)    |2-a | aSHM target; Although recurrent, the relevance of mutations in BL is tenuous [@muppidiLossSignalingGa132014b]|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1-a | aSHM target and high-confidence DLBCL gene            [@morinFrequentMutationHistonemodifying2011]|
-|![FL](images/icons/FL_tier1.png)    |1-a | aSHM target and high-confidence FL gene               |
+|![BL](images/icons/BL_tier2.png)    |2 | aSHM target; Although recurrent, the relevance of mutations in BL is tenuous [@muppidiLossSignalingGa132014b]|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1 | aSHM target and high-confidence DLBCL gene            [@morinFrequentMutationHistonemodifying2011; @lohrDiscoveryPrioritizationSomatic2012a; @morinMutationalStructuralAnalysis2013]|
+|![FL](images/icons/FL_tier1.png)    |1 | aSHM target and high-confidence FL gene               |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
