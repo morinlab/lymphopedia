@@ -17,8 +17,8 @@ timeline
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene[@okosunRecurrentMTORC1activatingRRAGC2016a]|
-|![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene   |
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene[@reddyGeneticFunctionalDrivers2017;@hubschmannMutationalMechanismsShaping2021b ]|
+|![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene  [@okosunRecurrentMTORC1activatingRRAGC2016a] |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
