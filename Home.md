@@ -18,9 +18,9 @@ To get started, select one of the gene lists from the table below then select th
 
 |Entity|Tier 1 (high-confidence)|Tier 2 (low-confidence)|Tier 3 (retired) |
 |:-:|:-:|:-:|:-:|
-|BL [download](https://raw.githubusercontent.com/morinlab/LLMPP/main/resources/curated/bl_genes.tsv)|[29 genes](BL_genes#tier-1-bl-genes)|[75 genes](BL_genes#tier-2-bl-genes)|[70 genes](BL_genes#tier-3-bl-genes)|
-|DLBCL|[128 genes](DLBCL_genes#tier-1-dlbcl-genes)|[178 genes](DLBCL_genes#tier-2-dlbcl-genes)|[385 genes](DLBCL_genes#tier-3-dlbcl-genes)|
-|FL|[66 genes](FL_genes#tier-1-fl-genes)|[49 genes](FL_genes#tier-2-fl-genes)|[0 genes](FL_genes#tier-3-fl-genes)|
+|BL [(tsv)](https://raw.githubusercontent.com/morinlab/LLMPP/main/resources/curated/bl_genes.tsv)|[29 genes](BL_genes#tier-1-bl-genes)|[75 genes](BL_genes#tier-2-bl-genes)|[70 genes](BL_genes#tier-3-bl-genes)|
+|DLBCL [(tsv)]()|[128 genes](DLBCL_genes#tier-1-dlbcl-genes)|[178 genes](DLBCL_genes#tier-2-dlbcl-genes)|[385 genes](DLBCL_genes#tier-3-dlbcl-genes)|
+|FL [(tsv)]()|[66 genes](FL_genes#tier-1-fl-genes)|[49 genes](FL_genes#tier-2-fl-genes)|[0 genes](FL_genes#tier-3-fl-genes)|
 
 
 ### History of lymphoma genes in common entities
