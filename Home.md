@@ -154,9 +154,9 @@ BL RNA-seq, Schmitz 2012, 19
 
 |Entity|Tier 1 (high-confidence)|Tier 2 (low-confidence)|Tier 3 (retired) |
 |:-:|:-:|:-:|:-:|
-|PMBL|[76 genes](PMBL_genes#tier-1-pmbl-genes)|[82 genes](PMBL_genes#tier-2-pmbl-genes)|[0 genes](PMBL_genes#tier-3-pmbl-genes)|
+|PMBL[(tsv)](https://github.com/morinlab/LLMPP/blob/main/resources/curated/PMBL_HL_MGZL.tsv)|[76 genes](PMBL_genes#tier-1-pmbl-genes)|[82 genes](PMBL_genes#tier-2-pmbl-genes)|[0 genes](PMBL_genes#tier-3-pmbl-genes)|
 |MCL [(tsv)](https://github.com/morinlab/LLMPP/blob/main/resources/curated/mcl_genes.tsv)|[23 genes](MCL_genes#tier-1-mcl-genes)|[46 genes](MCL_genes#tier-2-mcl-genes)|[0 genes](MCL_genes#tier-3-mcl-genes)|
-|MZL|[42 genes](MZL_genes#tier-1-mzl-genes)|[74 genes](MZL_genes#tier-2-mzl-genes)|[0 genes](MZL_genes#tier-3-mzl-genes)|
+|MZL [(tsv)](https://github.com/morinlab/LLMPP/blob/main/resources/curated/mzl_genes.tsv)|[42 genes](MZL_genes#tier-1-mzl-genes)|[74 genes](MZL_genes#tier-2-mzl-genes)|[0 genes](MZL_genes#tier-3-mzl-genes)|
 
 \* *PMBL gene list includes genes attributed to classical Hodgkin lymphoma or marginal grey-zone lymphoma*
 
