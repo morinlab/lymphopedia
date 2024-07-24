@@ -37,7 +37,7 @@ link-citations: true
 |[RHOA](RHOA)|Tier 1 GE[@richterRecurrentMutationID32012a], FE[@ohayreInactivatingMutationsGNA132016]|[Richter et al](papers/richterRecurrentMutationID32012a)|[@zhangGeneticHeterogeneityDiffuse2013]||
 |[SIN3A](SIN3A)|Tier 1 GE[@grandeGenomewideDiscoverySomatic2019]|[Grande et al](papers/grandeGenomewideDiscoverySomatic2019)|[@chapuyMolecularSubtypesDiffuse2018b; @rossiCodingGenomeSplenic2012c]||
 |[SMARCA4](SMARCA4)|Tier 1 GE[@richterRecurrentMutationID32012a], FE[@dengSMARCA4HaploinsufficientCell2024]|[Richter et al](papers/richterRecurrentMutationID32012a)|[@krysiakRecurrentSomaticMutations2017b; @nadeuGenomicEpigenomicInsights2020b; @reddyGeneticFunctionalDrivers2017]||
-|[TCF3](TCF3)|Tier 1 GE[@schmitzBurkittLymphomaPathogenesis2012]|[Schmitz et al](papers/schmitzBurkittLymphomaPathogenesis2012)|||
+|[TCF3](TCF3)|Tier 1 GE[@schmitzBurkittLymphomaPathogenesis2012], FE[@schmitzBurkittLymphomaPathogenesis2012]|[Schmitz et al](papers/schmitzBurkittLymphomaPathogenesis2012)|||
 |[TCL1A](TCL1A)|Tier 1 GE[@grandeGenomewideDiscoverySomatic2019]|[Grande et al](papers/grandeGenomewideDiscoverySomatic2019)|[@reddyGeneticFunctionalDrivers2017]||
 |[TFAP4](TFAP4)|Tier 1 GE[@grandeGenomewideDiscoverySomatic2019]|[Grande et al](papers/grandeGenomewideDiscoverySomatic2019)|||
 |[TP53](TP53)|Tier 1 GE[@wildaInactivationARFMDM2p53Pathway2004], FE[@rowhTp53DeletionLineage2011]|[Wilda et al](papers/wildaInactivationARFMDM2p53Pathway2004)|[@beaLandscapeSomaticMutations2013; @lohrDiscoveryPrioritizationSomatic2012a; @morinFrequentMutationHistonemodifying2011; @rossiCodingGenomeSplenic2012c; @tiacciPervasiveMutationsJAKSTAT2018b]||
