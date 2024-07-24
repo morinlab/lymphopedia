@@ -82,7 +82,7 @@ link-citations: true
 |[KLHL14](KLHL14)|Tier 1 GE[@zhangGeneticHeterogeneityDiffuse2013], FE[@choiRegulationCellReceptordependent2020], CE[@hodkinsonBiomarkersResponseIbrutinib2021]|[Zhang et al](papers/zhangGeneticHeterogeneityDiffuse2013)|||
 |[KLHL6](KLHL6)|Tier 1 GE[@morinFrequentMutationHistonemodifying2011], FE[@merirantaDisruptionKLHL6Fuels2024]|[Morin et al](papers/morinFrequentMutationHistonemodifying2011)|[@ganapathiGeneticLandscapeDural2016]||
 |[KMT2C](KMT2C)|Tier 1 GE[@zhangGeneticHeterogeneityDiffuse2013]|[Zhang et al](papers/zhangGeneticHeterogeneityDiffuse2013)|[@sarkozyMutationalLandscapeGray2021a; @zhangGenomicLandscapeMantle2014; @zhouSporadicEndemicBurkitt2019]||
-|[KMT2D](KMT2D)|Tier 1 GE[@morinFrequentMutationHistonemodifying2011]|[Morin et al](papers/morinFrequentMutationHistonemodifying2011)|[@beaLandscapeSomaticMutations2013; @deschGenotypingCirculatingTumor2020; @grandeGenomewideDiscoverySomatic2019; @rossiCodingGenomeSplenic2012c]||
+|[KMT2D](KMT2D)|Tier 1 GE[@morinFrequentMutationHistonemodifying2011], FE[@liLossCREBBPKMT2D2024], CE[@rushtonGeneticEvolutionaryPatterns2020]|[Morin et al](papers/morinFrequentMutationHistonemodifying2011)|[@beaLandscapeSomaticMutations2013; @deschGenotypingCirculatingTumor2020; @grandeGenomewideDiscoverySomatic2019; @rossiCodingGenomeSplenic2012c]||
 |[KRAS](KRAS)|Tier 1 GE[@lohrDiscoveryPrioritizationSomatic2012a]|[Lohr et al](papers/lohrDiscoveryPrioritizationSomatic2012a)|||
 |[LCOR](LCOR)|Tier 1 GE[@arthurGenomewideDiscoverySomatic2018]|[Arthur et al](papers/arthurGenomewideDiscoverySomatic2018)|||
 |[LRRN3](LRRN3)|Tier 1 GE[@zhangGeneticHeterogeneityDiffuse2013]|[Zhang et al](papers/zhangGeneticHeterogeneityDiffuse2013)|[@sarkozyMutationalLandscapeGray2021a]||
