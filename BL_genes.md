@@ -30,7 +30,7 @@ link-citations: true
 |[ID3](ID3)|Tier 1 GE[@richterRecurrentMutationID32012a], FE[@richterRecurrentMutationID32012a]|[Richter et al](papers/richterRecurrentMutationID32012a)|[@schmitzBurkittLymphomaPathogenesis2012; @spinaGeneticsNodalMarginal2016b]||
 |[KMT2D](KMT2D)|Tier 1 GE[@grandeGenomewideDiscoverySomatic2019], FE[@liLossCREBBPKMT2D2024], CE[@rushtonGeneticEvolutionaryPatterns2020]|[Grande et al](papers/grandeGenomewideDiscoverySomatic2019)|[@beaLandscapeSomaticMutations2013; @deschGenotypingCirculatingTumor2020; @morinFrequentMutationHistonemodifying2011; @rossiCodingGenomeSplenic2012c]||
 |[MYC](MYC)|Tier 1 GE[@johnstonCmycHypermutationBurkitt1992], FE[@giallongoIdentificationCmycOncogene1983], CE[@christieCMYCTranslocation142008]|[Johnston et al](papers/johnstonCmycHypermutationBurkitt1992)|[@dunsCharacterizationDLBCLPMBL2021b; @jalladesExomeSequencingIdentifies2017; @pasqualucciHypermutationMultipleProtooncogenes2001a]||
-|[P2RY8](P2RY8)|Tier 1 GE[@muppidiLossSignalingGa132014b]|[Muppidi et al](papers/muppidiLossSignalingGa132014b)|[@lohrDiscoveryPrioritizationSomatic2012a]||
+|[P2RY8](P2RY8)|Tier 1 GE[@muppidiLossSignalingGa132014b], FE[@muppidiLossSignalingGa132014b]|[Muppidi et al](papers/muppidiLossSignalingGa132014b)|[@lohrDiscoveryPrioritizationSomatic2012a]||
 |[PHF6](PHF6)|Tier 1 GE[@thomasGeneticSubgroupsInform2023]|[Thomas et al](papers/thomasGeneticSubgroupsInform2023)|[@reddyGeneticFunctionalDrivers2017]||
 |[PTEN](PTEN)|Tier 1 GE[@loveGeneticLandscapeMutations2012]|[Love et al](papers/loveGeneticLandscapeMutations2012)|[@reddyGeneticFunctionalDrivers2017]||
 |[RFX7](RFX7)|Tier 1 GE[@grandeGenomewideDiscoverySomatic2019]|[Grande et al](papers/grandeGenomewideDiscoverySomatic2019)|||
