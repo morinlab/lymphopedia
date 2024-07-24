@@ -93,7 +93,7 @@ link-citations: true
 |[MPEG1](MPEG1)|Tier 1 GE[@morinMutationalStructuralAnalysis2013]|[Morin et al](papers/morinMutationalStructuralAnalysis2013)|||
 |[MS4A1](MS4A1)|Tier 1 GE[@rushtonGeneticEvolutionaryPatterns2020]|[Rushton et al](papers/rushtonGeneticEvolutionaryPatterns2020)|[@mottokIntegrativeGenomicAnalysis2019b]||
 |[MTOR](MTOR)|Tier 1 GE[@zhangGeneticHeterogeneityDiffuse2013]|[Zhang et al](papers/zhangGeneticHeterogeneityDiffuse2013)|[@paneaWholeGenomeLandscape2019]||
-|[MYC](MYC)|Tier 1 GE[@pasqualucciHypermutationMultipleProtooncogenes2001a]|[Pasqualucci et al](papers/pasqualucciHypermutationMultipleProtooncogenes2001a)|[@dunsCharacterizationDLBCLPMBL2021b; @jalladesExomeSequencingIdentifies2017; @johnstonCmycHypermutationBurkitt1992]||
+|[MYC](MYC)|Tier 1 GE[@pasqualucciHypermutationMultipleProtooncogenes2001a], FE[@giallongoIdentificationCmycOncogene1983], CE[@christieCMYCTranslocation142008]|[Pasqualucci et al](papers/pasqualucciHypermutationMultipleProtooncogenes2001a)|[@dunsCharacterizationDLBCLPMBL2021b; @jalladesExomeSequencingIdentifies2017; @johnstonCmycHypermutationBurkitt1992]||
 |[MYD88](MYD88)|Tier 1 GE[@ngoOncogenicallyActiveMYD882011a]|[Ngo et al](papers/ngoOncogenicallyActiveMYD882011a)|[@yanBCRTLRSignaling2012a]||
 |[NFKBIA](NFKBIA)|Tier 1 GE[@lakeMutationsNFKBIAEncoding2009]|[Lake et al](papers/lakeMutationsNFKBIAEncoding2009)|[@russler-germainMutationsAssociatedProgression2023b; @wienandGenomicAnalysesFlowsorted2019b]||
 |[NFKBIE](NFKBIE)|Tier 1 GE[@morinGeneticLandscapesRelapsed2016]|[Morin et al](papers/morinGeneticLandscapesRelapsed2016)|[@mansouriFrequentNFKBIEDeletions2016; @pararajalingamCodingNoncodingDrivers2020]||
