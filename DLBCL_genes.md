@@ -48,8 +48,8 @@ link-citations: true
 |[ETS1](ETS1)|Tier 1 GE[@morinFrequentMutationHistonemodifying2011]|[Morin et al](papers/morinFrequentMutationHistonemodifying2011)|[@paneaWholeGenomeLandscape2019]||
 |[ETV6](ETV6)|Tier 1 GE[@lohrDiscoveryPrioritizationSomatic2012a]|[Lohr et al](papers/lohrDiscoveryPrioritizationSomatic2012a)|||
 |[EZH2](EZH2)|Tier 1 GE[@morinSomaticMutationsAltering2010a], FE[@yapSomaticMutationsEZH22011b]|[Morin et al](papers/morinSomaticMutationsAltering2010a)|[@loveGeneticLandscapeMutations2012; @mottokIntegrativeGenomicAnalysis2019b]||
-|[FAS](FAS)|Tier 1 GE[@schollMutationsRegionFAS2007]|[Scholl et al](papers/schollMutationsRegionFAS2007)|[@spinaGeneticsNodalMarginal2016b]||
-|[FBXO11](FBXO11)|Tier 1 GE[@hubschmannMutationalMechanismsShaping2021b]|[Hubschmann et al](papers/hubschmannMutationalMechanismsShaping2021b)|[@parryWholeExomeSequencing2013; @richterRecurrentMutationID32012a]||
+|[FAS](FAS)|Tier 1 GE[@schollMutationsRegionFAS2007], FE[@seebergerLossFasCD952001]|[Scholl et al](papers/schollMutationsRegionFAS2007)|[@spinaGeneticsNodalMarginal2016b]||
+|[FBXO11](FBXO11)|Tier 1 GE[@hubschmannMutationalMechanismsShaping2021b], FE[@schneiderFBXO11InactivationLeads2016b]|[Hubschmann et al](papers/hubschmannMutationalMechanismsShaping2021b)|[@parryWholeExomeSequencing2013; @richterRecurrentMutationID32012a]||
 |[FBXW7](FBXW7)|Tier 1 GE[@zhangGeneticHeterogeneityDiffuse2013]|[Zhang et al](papers/zhangGeneticHeterogeneityDiffuse2013)|||
 |[FOXO1](FOXO1)|Tier 1 GE[@morinFrequentMutationHistonemodifying2011], FE[@trinhAnalysisFOXO1Mutations], CE[@trinhAnalysisFOXO1Mutations]|[Morin et al](papers/morinFrequentMutationHistonemodifying2011)|[@dunsCharacterizationDLBCLPMBL2021b; @schmitzBurkittLymphomaPathogenesis2012]||
 |[GNA13](GNA13)|Tier 1 GE[@morinFrequentMutationHistonemodifying2011], FE[@muppidiLossSignalingGa132014b]|[Morin et al](papers/morinFrequentMutationHistonemodifying2011)|[@loveGeneticLandscapeMutations2012; @reichelFlowSortingExome2015a]||
