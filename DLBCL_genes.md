@@ -142,7 +142,7 @@ link-citations: true
 
 ## Tier 2 DLBCL genes
 
-### *184 total*
+### *181 total*
 
 |Gene|Tier| First DLBCL study | Other entities | QC result |
 |:-:|:-:|:-:|:-|:-|
@@ -177,10 +177,8 @@ link-citations: true
 |[CPS1](CPS1)|2|[Lohr et al](papers/lohrDiscoveryPrioritizationSomatic2012a)[@lohrDiscoveryPrioritizationSomatic2012a]|||
 |[CRIP1](CRIP1)|2|[Chapuy et al](papers/chapuyMolecularSubtypesDiffuse2018b)[@chapuyMolecularSubtypesDiffuse2018b]||PASS|
 |[DAZAP1](DAZAP1)|2|[Pararajalingam et al](papers/pararajalingamCodingNoncodingDrivers2020)[@pararajalingamCodingNoncodingDrivers2020]|||
-|[DCAF6](DCAF6)|2|[Reddy et al](papers/reddyGeneticFunctionalDrivers2017)[@reddyGeneticFunctionalDrivers2017]||FAIL|
 |[DDX10](DDX10)|2|[Zhang et al](papers/zhangGeneticHeterogeneityDiffuse2013)[@zhangGeneticHeterogeneityDiffuse2013]|||
 |[DHX16](DHX16)|2|[Hubschmann et al](papers/hubschmannMutationalMechanismsShaping2021b)[@hubschmannMutationalMechanismsShaping2021b]||PASS|
-|[DICER1](DICER1)|2|[Reddy et al](papers/reddyGeneticFunctionalDrivers2017)[@reddyGeneticFunctionalDrivers2017]||FAIL|
 |[DNAH5](DNAH5)|2|[Morin et al](papers/morinMutationalStructuralAnalysis2013)[@morinMutationalStructuralAnalysis2013]|[@jalladesExomeSequencingIdentifies2017]|PASS|
 |[DNM2](DNM2)|2|[Hubschmann et al](papers/hubschmannMutationalMechanismsShaping2021b)[@hubschmannMutationalMechanismsShaping2021b]||PASS|
 |[DNMT3B](DNMT3B)|2|[Albuquerque et al](papers/albuquerqueEnhancingKnowledgeDiscovery2017a)[@albuquerqueEnhancingKnowledgeDiscovery2017a]|||
@@ -326,14 +324,13 @@ link-citations: true
 |[YY1](YY1)|2|[Reddy et al](papers/reddyGeneticFunctionalDrivers2017)[@reddyGeneticFunctionalDrivers2017]||PASS|
 |[ZCCHC7](ZCCHC7)|2|[Arthur et al](papers/arthurGenomewideDiscoverySomatic2018)[@arthurGenomewideDiscoverySomatic2018]|||
 |[ZEB2](ZEB2)|2|[Zhang et al](papers/zhangGeneticHeterogeneityDiffuse2013)[@zhangGeneticHeterogeneityDiffuse2013]|||
-|[ZFAT](ZFAT)|2|[Reddy et al](papers/reddyGeneticFunctionalDrivers2017)[@reddyGeneticFunctionalDrivers2017]||FAIL|
 |[ZFX](ZFX)|2|[Reddy et al](papers/reddyGeneticFunctionalDrivers2017)[@reddyGeneticFunctionalDrivers2017]||PASS|
 |[ZNF217](ZNF217)|2|[Hubschmann et al](papers/hubschmannMutationalMechanismsShaping2021b)[@hubschmannMutationalMechanismsShaping2021b]|[@reichelFlowSortingExome2015a]|PASS|
 |[ZNF423](ZNF423)|2|[Chapuy et al](papers/chapuyMolecularSubtypesDiffuse2018b)[@chapuyMolecularSubtypesDiffuse2018b]||PASS|
 
 ## Tier 3 DLBCL genes
 
-### *383 total*
+### *386 total*
 
 |Gene|Tier| First DLBCL study | Other entities | QC result |
 |:-:|:-:|:-:|:-|:-|
@@ -425,10 +422,12 @@ link-citations: true
 |[CYP24A1](CYP24A1)|3|[Zhang et al](papers/zhangGeneticHeterogeneityDiffuse2013)[@zhangGeneticHeterogeneityDiffuse2013]|||
 |[CYP2C18](CYP2C18)|3|[Zhang et al](papers/zhangGeneticHeterogeneityDiffuse2013)[@zhangGeneticHeterogeneityDiffuse2013]|||
 |[CYYR1](CYYR1)|3|[Fan et al](papers/fanComprehensiveCharacterizationDriver2020b)[@fanComprehensiveCharacterizationDriver2020b]|||
+|[DCAF6](DCAF6)|3|[Reddy et al](papers/reddyGeneticFunctionalDrivers2017)[@reddyGeneticFunctionalDrivers2017]||FAIL|
 |[DDB1](DDB1)|3|[Zhang et al](papers/zhangGeneticHeterogeneityDiffuse2013)[@zhangGeneticHeterogeneityDiffuse2013]|||
 |[DGCR8](DGCR8)|3|[Fan et al](papers/fanComprehensiveCharacterizationDriver2020b)[@fanComprehensiveCharacterizationDriver2020b]|||
 |[DHX33](DHX33)|3|[Fan et al](papers/fanComprehensiveCharacterizationDriver2020b)[@fanComprehensiveCharacterizationDriver2020b]|||
 |[DIAPH3](DIAPH3)|3|[Zhang et al](papers/zhangGeneticHeterogeneityDiffuse2013)[@zhangGeneticHeterogeneityDiffuse2013]|||
+|[DICER1](DICER1)|3|[Reddy et al](papers/reddyGeneticFunctionalDrivers2017)[@reddyGeneticFunctionalDrivers2017]||FAIL|
 |[DIP2B](DIP2B)|3|[Zhang et al](papers/zhangGeneticHeterogeneityDiffuse2013)[@zhangGeneticHeterogeneityDiffuse2013]|||
 |[DLGAP1](DLGAP1)|3|[Zhang et al](papers/zhangGeneticHeterogeneityDiffuse2013)[@zhangGeneticHeterogeneityDiffuse2013]|[@loveGeneticLandscapeMutations2012]||
 |[DMXL1](DMXL1)|3|[Zhang et al](papers/zhangGeneticHeterogeneityDiffuse2013)[@zhangGeneticHeterogeneityDiffuse2013]|||
@@ -709,6 +708,7 @@ link-citations: true
 |[WT1](WT1)|3|[Zhang et al](papers/zhangGeneticHeterogeneityDiffuse2013)[@zhangGeneticHeterogeneityDiffuse2013]|||
 |[XDH](XDH)|3|[Zhang et al](papers/zhangGeneticHeterogeneityDiffuse2013)[@zhangGeneticHeterogeneityDiffuse2013]|||
 |[ZBTB7A](ZBTB7A)|3|[Reddy et al](papers/reddyGeneticFunctionalDrivers2017)[@reddyGeneticFunctionalDrivers2017]|[@burkhardtClinicalRelevanceMolecular2022b]|FAIL|
+|[ZFAT](ZFAT)|3|[Reddy et al](papers/reddyGeneticFunctionalDrivers2017)[@reddyGeneticFunctionalDrivers2017]||FAIL|
 |[ZIC4](ZIC4)|3|[Zhang et al](papers/zhangGeneticHeterogeneityDiffuse2013)[@zhangGeneticHeterogeneityDiffuse2013]|||
 |[ZMYM4](ZMYM4)|3|[Fan et al](papers/fanComprehensiveCharacterizationDriver2020b)[@fanComprehensiveCharacterizationDriver2020b]|||
 |[ZNF354A](ZNF354A)|3|[Zhang et al](papers/zhangGeneticHeterogeneityDiffuse2013)[@zhangGeneticHeterogeneityDiffuse2013]|||
