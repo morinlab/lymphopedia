@@ -11,11 +11,12 @@ link-citations: true
 
 ## Tier 1 BL genes
 
-### *27 total*
+### *28 total*
 
 |Gene|Summary| First BL study | Other entities | QC result |
 |:-:|:-:|:-:|:-|:-|
 |[ARID1A](ARID1A)|Tier 1 GE[@loveGeneticLandscapeMutations2012], FE[@barisicARID1AOrchestratesSWI2024]|[Love et al](papers/loveGeneticLandscapeMutations2012)|[@krysiakRecurrentSomaticMutations2017b; @rossiCodingGenomeSplenic2012c; @wienandGenomicAnalysesFlowsorted2019b; @zhangGeneticHeterogeneityDiffuse2013]||
+|[BACH2](BACH2)|Tier 1 GE[@grandeGenomewideDiscoverySomatic2019]|[Grande et al](papers/grandeGenomewideDiscoverySomatic2019)|||
 |[BCL7A](BCL7A)|Tier 1 GE[@grandeGenomewideDiscoverySomatic2019], FE[@balinas-gaviraFrequentMutationsAminoterminal2020b]|[Grande et al](papers/grandeGenomewideDiscoverySomatic2019)|[@krysiakRecurrentSomaticMutations2017b; @morinFrequentMutationHistonemodifying2011; @reichelFlowSortingExome2015a]||
 |[BMP7](BMP7)|Tier 1 GE[@paneaWholeGenomeLandscape2019]|[Panea et al](papers/paneaWholeGenomeLandscape2019)|||
 |[CCND3](CCND3)|Tier 1 GE[@richterRecurrentMutationID32012a], FE[@schmitzBurkittLymphomaPathogenesis2012]|[Richter et al](papers/richterRecurrentMutationID32012a)|[@deschGenotypingCirculatingTumor2020; @jalladesExomeSequencingIdentifies2017; @morinFrequentMutationHistonemodifying2011]||
@@ -45,7 +46,7 @@ link-citations: true
 
 ## Tier 2 BL genes
 
-### *77 total*
+### *76 total*
 
 |Gene|Summary| First BL study | Other entities | QC result |
 |:-:|:-:|:-:|:-|:-|
@@ -53,7 +54,6 @@ link-citations: true
 |[ADNP](ADNP)|Tier 2 GE[@burkhardtClinicalRelevanceMolecular2022b]|[Burkhardt et al](papers/burkhardtClinicalRelevanceMolecular2022b)|||
 |[AGO4](AGO4)|Tier 2 GE[@burkhardtClinicalRelevanceMolecular2022b]|[Burkhardt et al](papers/burkhardtClinicalRelevanceMolecular2022b)|||
 |[ARHGEF1](ARHGEF1)|Tier 2 GE[@muppidiLossSignalingGa132014b]|[Muppidi et al](papers/muppidiLossSignalingGa132014b)|||
-|[BACH2](BACH2)|Tier 2 GE[@grandeGenomewideDiscoverySomatic2019]|[Grande et al](papers/grandeGenomewideDiscoverySomatic2019)|||
 |[BCL2](BCL2)|Tier 2 GE[@burkhardtClinicalRelevanceMolecular2022b], FE[@balSuperenhancerHypermutationAlters2022]|[Burkhardt et al](papers/burkhardtClinicalRelevanceMolecular2022b)|[@morinFrequentMutationHistonemodifying2011; @sarkozyMutationalLandscapeGray2021a; @tanakaFrequentIncidenceSomatic1992]||
 |[BCL6](BCL6)|Tier 2 GE[@loveGeneticLandscapeMutations2012], FE[@balSuperenhancerHypermutationAlters2022]|[Love et al](papers/loveGeneticLandscapeMutations2012)|[@morinFrequentMutationHistonemodifying2011]|PASS|
 |[BTG1](BTG1)|Tier 2 GE[@burkhardtClinicalRelevanceMolecular2022b], FE[@mlynarczykBTG1MutationYields2023b]|[Burkhardt et al](papers/burkhardtClinicalRelevanceMolecular2022b)|[@morinFrequentMutationHistonemodifying2011; @sarkozyMutationalLandscapeGray2021a]||
