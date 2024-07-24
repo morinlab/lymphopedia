@@ -17,7 +17,7 @@ link-citations: true
 |:-:|:-:|:-:|:-|:-|
 |[ACTB](ACTB)|Tier 1 GE[@lohrDiscoveryPrioritizationSomatic2012a]|[Lohr et al](papers/lohrDiscoveryPrioritizationSomatic2012a)|[@wienandGenomicAnalysesFlowsorted2019b]||
 |[ACTG1](ACTG1)|Tier 1 GE[@hubschmannMutationalMechanismsShaping2021b]|[Hubschmann et al](papers/hubschmannMutationalMechanismsShaping2021b)|[@deschGenotypingCirculatingTumor2020; @spinaGeneticsNodalMarginal2016b]||
-|[ARID1A](ARID1A)|Tier 1 GE[@zhangGeneticHeterogeneityDiffuse2013]|[Zhang et al](papers/zhangGeneticHeterogeneityDiffuse2013)|[@krysiakRecurrentSomaticMutations2017b; @loveGeneticLandscapeMutations2012; @rossiCodingGenomeSplenic2012c; @wienandGenomicAnalysesFlowsorted2019b]||
+|[ARID1A](ARID1A)|Tier 1 GE[@zhangGeneticHeterogeneityDiffuse2013], FE[@barisicARID1AOrchestratesSWI2024]|[Zhang et al](papers/zhangGeneticHeterogeneityDiffuse2013)|[@krysiakRecurrentSomaticMutations2017b; @loveGeneticLandscapeMutations2012; @rossiCodingGenomeSplenic2012c; @wienandGenomicAnalysesFlowsorted2019b]||
 |[ATM](ATM)|Tier 1 GE[@reddyGeneticFunctionalDrivers2017]|[Reddy et al](papers/reddyGeneticFunctionalDrivers2017)|[@beaLandscapeSomaticMutations2013; @braggioGenomicAnalysisMarginal2012]||
 |[B2M](B2M)|Tier 1 GE[@morinFrequentMutationHistonemodifying2011], FE[@challa-malladiCombinedGeneticInactivationa]|[Morin et al](papers/morinFrequentMutationHistonemodifying2011)|[@pararajalingamCodingNoncodingDrivers2020; @reichelFlowSortingExome2015a]||
 |[BCL10](BCL10)|Tier 1 GE[@morinFrequentMutationHistonemodifying2011], FE[@xiaBCL10MutationsDefine2022]|[Morin et al](papers/morinFrequentMutationHistonemodifying2011)|[@russler-germainMutationsAssociatedProgression2023b; @spinaGeneticsNodalMarginal2016b]||
@@ -102,7 +102,7 @@ link-citations: true
 |[NOTCH1](NOTCH1)|Tier 1 GE[@pasqualucciAnalysisCodingGenome2011], CE[@kridelWholeTranscriptomeSequencing2012]|[Pasqualucci et al](papers/pasqualucciAnalysisCodingGenome2011)|[@beaLandscapeSomaticMutations2013; @loveGeneticLandscapeMutations2012; @rossiCodingGenomeSplenic2012c]||
 |[NOTCH2](NOTCH2)|Tier 1 GE[@zhangGeneticHeterogeneityDiffuse2013], CE[@campos-martinClinicalDiagnosticRelevance2017]|[Zhang et al](papers/zhangGeneticHeterogeneityDiffuse2013)|[@beaLandscapeSomaticMutations2013; @rossiCodingGenomeSplenic2012c]||
 |[OSBPL10](OSBPL10)|Tier 1 GE[@zhangGeneticHeterogeneityDiffuse2013], CE[@dobashiTP53OSBPL10Alterations2018b]|[Zhang et al](papers/zhangGeneticHeterogeneityDiffuse2013)|||
-|[P2RY8](P2RY8)|Tier 1 GE[@lohrDiscoveryPrioritizationSomatic2012a]|[Lohr et al](papers/lohrDiscoveryPrioritizationSomatic2012a)|[@muppidiLossSignalingGa132014b]||
+|[P2RY8](P2RY8)|Tier 1 GE[@lohrDiscoveryPrioritizationSomatic2012a], FE[@muppidiLossSignalingGa132014b]|[Lohr et al](papers/lohrDiscoveryPrioritizationSomatic2012a)|[@muppidiLossSignalingGa132014b]||
 |[PIM1](PIM1)|Tier 1 GE[@pasqualucciHypermutationMultipleProtooncogenes2001a]|[Pasqualucci et al](papers/pasqualucciHypermutationMultipleProtooncogenes2001a)|[@burkhardtClinicalRelevanceMolecular2022b; @dunsCharacterizationDLBCLPMBL2021b]||
 |[PIM2](PIM2)|Tier 1 GE[@arthurGenomewideDiscoverySomatic2018]|[Arthur et al](papers/arthurGenomewideDiscoverySomatic2018)|[@reichelFlowSortingExome2015a]||
 |[POU2AF1](POU2AF1)|Tier 1 GE[@chapuyMolecularSubtypesDiffuse2018b]|[Chapuy et al](papers/chapuyMolecularSubtypesDiffuse2018b)|[@krysiakRecurrentSomaticMutations2017b]||
@@ -111,7 +111,7 @@ link-citations: true
 |[PTEN](PTEN)|Tier 1 GE[@reddyGeneticFunctionalDrivers2017]|[Reddy et al](papers/reddyGeneticFunctionalDrivers2017)|[@loveGeneticLandscapeMutations2012]||
 |[RB1](RB1)|Tier 1 GE[@morinMutationalStructuralAnalysis2013]|[Morin et al](papers/morinMutationalStructuralAnalysis2013)|[@zhangGenomicLandscapeMantle2014]||
 |[RFX7](RFX7)|Tier 1 GE||[@grandeGenomewideDiscoverySomatic2019]||
-|[RHOA](RHOA)|Tier 1 GE[@zhangGeneticHeterogeneityDiffuse2013]|[Zhang et al](papers/zhangGeneticHeterogeneityDiffuse2013)|[@richterRecurrentMutationID32012a]||
+|[RHOA](RHOA)|Tier 1 GE[@zhangGeneticHeterogeneityDiffuse2013], FE[@ohayreInactivatingMutationsGNA132016]|[Zhang et al](papers/zhangGeneticHeterogeneityDiffuse2013)|[@richterRecurrentMutationID32012a]||
 |[RRAGC](RRAGC)|Tier 1 GE[@okosunRecurrentMTORC1activatingRRAGC2016a]|[Okosun et al](papers/okosunRecurrentMTORC1activatingRRAGC2016a)|||
 |[S1PR2](S1PR2)|Tier 1 GE[@morinFrequentMutationHistonemodifying2011]|[Morin et al](papers/morinFrequentMutationHistonemodifying2011)|[@muppidiLossSignalingGa132014b]||
 |[SETD1B](SETD1B)|Tier 1 GE[@albuquerqueEnhancingKnowledgeDiscovery2017a]|[Albuquerque et al](papers/albuquerqueEnhancingKnowledgeDiscovery2017a)|||
@@ -210,7 +210,7 @@ link-citations: true
 |[HNF1B](HNF1B)|Tier 2 GE[@pasqualucciAnalysisCodingGenome2011]|[Pasqualucci et al](papers/pasqualucciAnalysisCodingGenome2011)|||
 |[HNRNPD](HNRNPD)|Tier 2 GE[@reddyGeneticFunctionalDrivers2017]|[Reddy et al](papers/reddyGeneticFunctionalDrivers2017)|||
 |[HNRNPH1](HNRNPH1)|Tier 2 GE[@pararajalingamCodingNoncodingDrivers2020], FE[@pararajalingamCodingNoncodingDrivers2020], CE[@pararajalingamCodingNoncodingDrivers2020]|[Pararajalingam et al](papers/pararajalingamCodingNoncodingDrivers2020)|||
-|[ID3](ID3)|Tier 2 GE[@schmitzBurkittLymphomaPathogenesis2012]|[Schmitz et al](papers/schmitzBurkittLymphomaPathogenesis2012)|[@richterRecurrentMutationID32012a; @spinaGeneticsNodalMarginal2016b]||
+|[ID3](ID3)|Tier 2 GE[@schmitzBurkittLymphomaPathogenesis2012], FE[@richterRecurrentMutationID32012a]|[Schmitz et al](papers/schmitzBurkittLymphomaPathogenesis2012)|[@richterRecurrentMutationID32012a; @spinaGeneticsNodalMarginal2016b]||
 |[IFNGR1](IFNGR1)|Tier 2 GE[@morinMutationalStructuralAnalysis2013]|[Morin et al](papers/morinMutationalStructuralAnalysis2013)||PASS|
 |[IGLL5](IGLL5)|Tier 2 GE[@chapuyMolecularSubtypesDiffuse2018b]|[Chapuy et al](papers/chapuyMolecularSubtypesDiffuse2018b)|[@deschGenotypingCirculatingTumor2020; @paneaWholeGenomeLandscape2019; @russler-germainMutationsAssociatedProgression2023b]||
 |[IKBKB](IKBKB)|Tier 2 GE[@reddyGeneticFunctionalDrivers2017]|[Reddy et al](papers/reddyGeneticFunctionalDrivers2017)|[@rossiAlterationBIRC3Multiple2011a; @wienandGenomicAnalysesFlowsorted2019b]|PASS|
