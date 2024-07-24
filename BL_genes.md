@@ -34,7 +34,7 @@ link-citations: true
 |[PHF6](PHF6)|Tier 1 GE[@thomasGeneticSubgroupsInform2023]|[Thomas et al](papers/thomasGeneticSubgroupsInform2023)|[@reddyGeneticFunctionalDrivers2017]||
 |[PTEN](PTEN)|Tier 1 GE[@loveGeneticLandscapeMutations2012]|[Love et al](papers/loveGeneticLandscapeMutations2012)|[@reddyGeneticFunctionalDrivers2017]||
 |[RFX7](RFX7)|Tier 1 GE[@grandeGenomewideDiscoverySomatic2019]|[Grande et al](papers/grandeGenomewideDiscoverySomatic2019)|||
-|[RHOA](RHOA)|Tier 1 GE[@richterRecurrentMutationID32012a]|[Richter et al](papers/richterRecurrentMutationID32012a)|[@zhangGeneticHeterogeneityDiffuse2013]||
+|[RHOA](RHOA)|Tier 1 GE[@richterRecurrentMutationID32012a], FE[@ohayreInactivatingMutationsGNA132016]|[Richter et al](papers/richterRecurrentMutationID32012a)|[@zhangGeneticHeterogeneityDiffuse2013]||
 |[SIN3A](SIN3A)|Tier 1 GE[@grandeGenomewideDiscoverySomatic2019]|[Grande et al](papers/grandeGenomewideDiscoverySomatic2019)|[@chapuyMolecularSubtypesDiffuse2018b; @rossiCodingGenomeSplenic2012c]||
 |[SMARCA4](SMARCA4)|Tier 1 GE[@richterRecurrentMutationID32012a], FE[@dengSMARCA4HaploinsufficientCell2024]|[Richter et al](papers/richterRecurrentMutationID32012a)|[@krysiakRecurrentSomaticMutations2017b; @nadeuGenomicEpigenomicInsights2020b; @reddyGeneticFunctionalDrivers2017]||
 |[TCF3](TCF3)|Tier 1 GE[@schmitzBurkittLymphomaPathogenesis2012]|[Schmitz et al](papers/schmitzBurkittLymphomaPathogenesis2012)|||
