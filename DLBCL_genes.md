@@ -101,7 +101,7 @@ link-citations: true
 |[NOL9](NOL9)|Tier 1 GE[@schmitzGeneticsPathogenesisDiffuse2018a]|[Schmitz et al](papers/schmitzGeneticsPathogenesisDiffuse2018a)|[@spinaGeneticsNodalMarginal2016b]||
 |[NOTCH1](NOTCH1)|Tier 1 GE[@pasqualucciAnalysisCodingGenome2011], CE[@kridelWholeTranscriptomeSequencing2012]|[Pasqualucci et al](papers/pasqualucciAnalysisCodingGenome2011)|[@beaLandscapeSomaticMutations2013; @loveGeneticLandscapeMutations2012; @rossiCodingGenomeSplenic2012c]||
 |[NOTCH2](NOTCH2)|Tier 1 GE[@zhangGeneticHeterogeneityDiffuse2013], CE[@campos-martinClinicalDiagnosticRelevance2017]|[Zhang et al](papers/zhangGeneticHeterogeneityDiffuse2013)|[@beaLandscapeSomaticMutations2013; @rossiCodingGenomeSplenic2012c]||
-|[OSBPL10](OSBPL10)|Tier 1 GE[@zhangGeneticHeterogeneityDiffuse2013]|[Zhang et al](papers/zhangGeneticHeterogeneityDiffuse2013)|||
+|[OSBPL10](OSBPL10)|Tier 1 GE[@zhangGeneticHeterogeneityDiffuse2013], CE[@dobashiTP53OSBPL10Alterations2018b]|[Zhang et al](papers/zhangGeneticHeterogeneityDiffuse2013)|||
 |[P2RY8](P2RY8)|Tier 1 GE[@lohrDiscoveryPrioritizationSomatic2012a]|[Lohr et al](papers/lohrDiscoveryPrioritizationSomatic2012a)|[@muppidiLossSignalingGa132014b]||
 |[PIM1](PIM1)|Tier 1 GE[@pasqualucciHypermutationMultipleProtooncogenes2001a]|[Pasqualucci et al](papers/pasqualucciHypermutationMultipleProtooncogenes2001a)|[@burkhardtClinicalRelevanceMolecular2022b; @dunsCharacterizationDLBCLPMBL2021b]||
 |[PIM2](PIM2)|Tier 1 GE[@arthurGenomewideDiscoverySomatic2018]|[Arthur et al](papers/arthurGenomewideDiscoverySomatic2018)|[@reichelFlowSortingExome2015a]||
