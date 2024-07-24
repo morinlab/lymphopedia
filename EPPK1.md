@@ -18,7 +18,7 @@ timeline
 
 |Entity|Tier|Description            |
 |:------:|:----:|-----------------------|
-|![BL](images/icons/BL_tier1.png)    |1   |high-confidence BL gene[@paneaWholeGenomeLandscape2019]|
+|![BL](images/icons/BL_tier1.png)    |2   |low-confidence BL gene[@paneaWholeGenomeLandscape2019]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
