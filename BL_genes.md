@@ -11,17 +11,16 @@ link-citations: true
 
 ## Tier 1 BL genes
 
-### *29 total*
+### *28 total*
 
 |Gene|Summary| First BL study | Other entities | QC result |
 |:-:|:-:|:-:|:-|:-|
-|[ARID1A](ARID1A)|Tier 1 GE[@loveGeneticLandscapeMutations2012]|[Love et al](papers/loveGeneticLandscapeMutations2012)|[@krysiakRecurrentSomaticMutations2017b; @rossiCodingGenomeSplenic2012c; @wienandGenomicAnalysesFlowsorted2019b; @zhangGeneticHeterogeneityDiffuse2013]||
+|[ARID1A](ARID1A)|Tier 1 GE[@loveGeneticLandscapeMutations2012], FE[@barisicARID1AOrchestratesSWI2024]|[Love et al](papers/loveGeneticLandscapeMutations2012)|[@krysiakRecurrentSomaticMutations2017b; @rossiCodingGenomeSplenic2012c; @wienandGenomicAnalysesFlowsorted2019b; @zhangGeneticHeterogeneityDiffuse2013]||
 |[BCL7A](BCL7A)|Tier 1 GE[@grandeGenomewideDiscoverySomatic2019], FE[@balinas-gaviraFrequentMutationsAminoterminal2020b]|[Grande et al](papers/grandeGenomewideDiscoverySomatic2019)|[@krysiakRecurrentSomaticMutations2017b; @morinFrequentMutationHistonemodifying2011; @reichelFlowSortingExome2015a]||
 |[BMP7](BMP7)|Tier 1 GE[@paneaWholeGenomeLandscape2019]|[Panea et al](papers/paneaWholeGenomeLandscape2019)|||
 |[CCND3](CCND3)|Tier 1 GE[@richterRecurrentMutationID32012a], FE[@schmitzBurkittLymphomaPathogenesis2012]|[Richter et al](papers/richterRecurrentMutationID32012a)|[@deschGenotypingCirculatingTumor2020; @jalladesExomeSequencingIdentifies2017; @morinFrequentMutationHistonemodifying2011]||
 |[CHD8](CHD8)|Tier 1 GE[@grandeGenomewideDiscoverySomatic2019]|[Grande et al](papers/grandeGenomewideDiscoverySomatic2019)|||
 |[DDX3X](DDX3X)|Tier 1 GE[@schmitzBurkittLymphomaPathogenesis2012], FE[@gongSequentialInverseDysregulation2021], CE[@kizhakeyilDDX3XLossAdverse2021]|[Schmitz et al](papers/schmitzBurkittLymphomaPathogenesis2012)|[@mottokIntegrativeGenomicAnalysis2019b; @reddyGeneticFunctionalDrivers2017]||
-|[EIF4A1](EIF4A1)|Tier 1 GE[@paneaWholeGenomeLandscape2019]|[Panea et al](papers/paneaWholeGenomeLandscape2019)|||
 |[EPPK1](EPPK1)|Tier 1 GE[@paneaWholeGenomeLandscape2019]|[Panea et al](papers/paneaWholeGenomeLandscape2019)|||
 |[FBXO11](FBXO11)|Tier 1 GE[@richterRecurrentMutationID32012a], FE[@schneiderFBXO11InactivationLeads2016b]|[Richter et al](papers/richterRecurrentMutationID32012a)|[@hubschmannMutationalMechanismsShaping2021b; @parryWholeExomeSequencing2013]||
 |[FOXO1](FOXO1)|Tier 1 GE[@schmitzBurkittLymphomaPathogenesis2012], FE[@trinhAnalysisFOXO1Mutations], CE[@trinhAnalysisFOXO1Mutations]|[Schmitz et al](papers/schmitzBurkittLymphomaPathogenesis2012)|[@dunsCharacterizationDLBCLPMBL2021b; @morinFrequentMutationHistonemodifying2011]||
@@ -47,7 +46,7 @@ link-citations: true
 
 ## Tier 2 BL genes
 
-### *75 total*
+### *76 total*
 
 |Gene|Summary| First BL study | Other entities | QC result |
 |:-:|:-:|:-:|:-|:-|
@@ -76,6 +75,7 @@ link-citations: true
 |[EBF1](EBF1)|Tier 2 GE[@thomasGeneticSubgroupsInform2023]|[Thomas et al](papers/thomasGeneticSubgroupsInform2023)|[@bohleRoleEarlyBcell2013; @reichelFlowSortingExome2015a]||
 |[EDNRB](EDNRB)|Tier 2 GE[@burkhardtClinicalRelevanceMolecular2022b]|[Burkhardt et al](papers/burkhardtClinicalRelevanceMolecular2022b)|||
 |[EHD1](EHD1)|Tier 2 GE[@thomasGeneticSubgroupsInform2023]|[Thomas et al](papers/thomasGeneticSubgroupsInform2023)|||
+|[EIF4A1](EIF4A1)|Tier 2 GE[@paneaWholeGenomeLandscape2019]|[Panea et al](papers/paneaWholeGenomeLandscape2019)|||
 |[ELP2](ELP2)|Tier 2 GE[@schmitzBurkittLymphomaPathogenesis2012]|[Schmitz et al](papers/schmitzBurkittLymphomaPathogenesis2012)|||
 |[ERAP1](ERAP1)|Tier 2 GE[@burkhardtClinicalRelevanceMolecular2022b]|[Burkhardt et al](papers/burkhardtClinicalRelevanceMolecular2022b)|||
 |[EXOSC6](EXOSC6)|Tier 2 GE[@schmitzBurkittLymphomaPathogenesis2012]|[Schmitz et al](papers/schmitzBurkittLymphomaPathogenesis2012)|||
