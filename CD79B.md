@@ -12,7 +12,7 @@ This has clinical and therapeutic implications as it may contribute sensitivity 
 In an inducible mouse model of MYD88-driven DLBCL, CD79B mutations did not accelerate lymphomagenesis but demonstrated an increased sensitivity to pharmacological BTK inhibition.[@flumannInducibleCd79bMutation2024] 
 In a retrospective analysis, younger patients with MCD DLBCL that were treated with ibrutinib had significantly better outcomes.[@wilsonEffectIbrutinibRCHOP2021b]
 The most common hotspot mutation in CD79B is at the tyrosine residue 196 (Y196). 
-This and other common mutations primarily occur in the immunoreceptor tyrosine-based activation motif (ITAM) domain and prevent the negative regulatory feedback provided by Lyn kinase thereby enhancing BCR signaling.[@kimCD79BMYD88Mutations2014]
+This and other common mutations primarily occur in the immunoreceptor tyrosine-based activation motif (ITAM) domain and prevent the negative regulatory feedback provided by Lyn kinase thereby enhancing BCR signaling.[@kimCD79BMYD88Mutations2014; @davisChronicActiveBcellreceptor2010]
 
 
 ## History
@@ -36,7 +36,7 @@ timeline
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            [@morinFrequentMutationHistonemodifying2011]|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1-EE   |high-confidence DLBCL gene with functional evidence[@davisChronicActiveBcellreceptor2010]            [@morinFrequentMutationHistonemodifying2011]|
 |![FL](images/icons/FL_tier2.png)    |2   |relevance in FL not firmly established|
 |![BL](images/icons/BL_tier2.png)    |3   |Retired, Failed QC[@paneaWholeGenomeLandscape2019]|
 
