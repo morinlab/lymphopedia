@@ -51,7 +51,7 @@ link-citations: true
 |[FAS](FAS)|Tier 1 GE|[Scholl et al](papers/schollMutationsRegionFAS2007)[@schollMutationsRegionFAS2007]|[@spinaGeneticsNodalMarginal2016b]||
 |[FBXO11](FBXO11)|Tier 1 GE|[Hubschmann et al](papers/hubschmannMutationalMechanismsShaping2021b)[@hubschmannMutationalMechanismsShaping2021b]|[@parryWholeExomeSequencing2013; @richterRecurrentMutationID32012a]||
 |[FBXW7](FBXW7)|Tier 1 GE|[Zhang et al](papers/zhangGeneticHeterogeneityDiffuse2013)[@zhangGeneticHeterogeneityDiffuse2013]|||
-|[FOXO1](FOXO1)|Tier 1 GE|[Morin et al](papers/morinFrequentMutationHistonemodifying2011)[@morinFrequentMutationHistonemodifying2011]|[@dunsCharacterizationDLBCLPMBL2021b; @schmitzBurkittLymphomaPathogenesis2012]||
+|[FOXO1](FOXO1)|Tier 1 GE, FE, CE|[Morin et al](papers/morinFrequentMutationHistonemodifying2011)[@morinFrequentMutationHistonemodifying2011]|[@dunsCharacterizationDLBCLPMBL2021b; @schmitzBurkittLymphomaPathogenesis2012]||
 |[GNA13](GNA13)|Tier 1 GE|[Morin et al](papers/morinFrequentMutationHistonemodifying2011)[@morinFrequentMutationHistonemodifying2011]|[@loveGeneticLandscapeMutations2012; @reichelFlowSortingExome2015a]||
 |[GNAI2](GNAI2)|Tier 1 GE|[Morin et al](papers/morinMutationalStructuralAnalysis2013)[@morinMutationalStructuralAnalysis2013]|[@grandeGenomewideDiscoverySomatic2019]||
 |[GRB2](GRB2)|Tier 1 GE|[Pasqualucci et al](papers/pasqualucciAnalysisCodingGenome2011)[@pasqualucciAnalysisCodingGenome2011]|||
