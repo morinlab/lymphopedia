@@ -79,7 +79,7 @@ link-citations: true
 |[ITPKB](ITPKB)|Tier 1 GE[@schmitzGeneticsPathogenesisDiffuse2018a]|[Schmitz et al](papers/schmitzGeneticsPathogenesisDiffuse2018a)|[@reichelFlowSortingExome2015a]||
 |[JUNB](JUNB)|Tier 1 GE[@reddyGeneticFunctionalDrivers2017]|[Reddy et al](papers/reddyGeneticFunctionalDrivers2017)|[@mottokIntegrativeGenomicAnalysis2019b]|PASS|
 |[KLF2](KLF2)|Tier 1 GE[@pasqualucciAnalysisCodingGenome2011]|[Pasqualucci et al](papers/pasqualucciAnalysisCodingGenome2011)|[@deschGenotypingCirculatingTumor2020; @jalladesExomeSequencingIdentifies2017]||
-|[KLHL14](KLHL14)|Tier 1 GE[@zhangGeneticHeterogeneityDiffuse2013]|[Zhang et al](papers/zhangGeneticHeterogeneityDiffuse2013)|||
+|[KLHL14](KLHL14)|Tier 1 GE[@zhangGeneticHeterogeneityDiffuse2013], FE[@choiRegulationCellReceptordependent2020], CE[@hodkinsonBiomarkersResponseIbrutinib2021]|[Zhang et al](papers/zhangGeneticHeterogeneityDiffuse2013)|||
 |[KLHL6](KLHL6)|Tier 1 GE[@morinFrequentMutationHistonemodifying2011]|[Morin et al](papers/morinFrequentMutationHistonemodifying2011)|[@ganapathiGeneticLandscapeDural2016]||
 |[KMT2C](KMT2C)|Tier 1 GE[@zhangGeneticHeterogeneityDiffuse2013]|[Zhang et al](papers/zhangGeneticHeterogeneityDiffuse2013)|[@sarkozyMutationalLandscapeGray2021a; @zhangGenomicLandscapeMantle2014; @zhouSporadicEndemicBurkitt2019]||
 |[KMT2D](KMT2D)|Tier 1 GE[@morinFrequentMutationHistonemodifying2011]|[Morin et al](papers/morinFrequentMutationHistonemodifying2011)|[@beaLandscapeSomaticMutations2013; @deschGenotypingCirculatingTumor2020; @grandeGenomewideDiscoverySomatic2019; @rossiCodingGenomeSplenic2012c]||
