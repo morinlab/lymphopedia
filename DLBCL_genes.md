@@ -13,8 +13,8 @@ link-citations: true
 
 ### *124 total*
 
-|Gene|Tier| First DLBCL evidence | Other entities | Data QC outcome |
-|:-:|:-:|:--|:-|:-:|
+|Gene|Tier| First DLBCL study | Other entities | Data QC outcome |
+|:-:|:-:|:-|:-|:--:|
 |[ACTB](ACTB)|1|[Lohr et al](papers/lohrDiscoveryPrioritizationSomatic2012a)[@lohrDiscoveryPrioritizationSomatic2012a]|[@wienandGenomicAnalysesFlowsorted2019b]||
 |[ACTG1](ACTG1)|1|[Hubschmann et al](papers/hubschmannMutationalMechanismsShaping2021b)[@hubschmannMutationalMechanismsShaping2021b]|[@deschGenotypingCirculatingTumor2020; @spinaGeneticsNodalMarginal2016b]||
 |[ARID1A](ARID1A)|1|[Zhang et al](papers/zhangGeneticHeterogeneityDiffuse2013)[@zhangGeneticHeterogeneityDiffuse2013]|[@krysiakRecurrentSomaticMutations2017b; @loveGeneticLandscapeMutations2012; @rossiCodingGenomeSplenic2012c; @wienandGenomicAnalysesFlowsorted2019b]||
@@ -144,8 +144,8 @@ link-citations: true
 
 ### *184 total*
 
-|Gene|Tier| First DLBCL evidence | Other entities | Data QC outcome |
-|:-:|:-:|:--|:-|:-:|
+|Gene|Tier| First DLBCL study | Other entities | Data QC outcome |
+|:-:|:-:|:-|:-|:--:|
 |[ABI3BP](ABI3BP)|2|[Morin et al](papers/morinMutationalStructuralAnalysis2013)[@morinMutationalStructuralAnalysis2013]||PASS|
 |[ADAMTS1](ADAMTS1)|2|[Hubschmann et al](papers/hubschmannMutationalMechanismsShaping2021b)[@hubschmannMutationalMechanismsShaping2021b]||PASS|
 |[AICDA](AICDA)|2|[Arthur et al](papers/arthurGenomewideDiscoverySomatic2018)[@arthurGenomewideDiscoverySomatic2018]|||
@@ -335,8 +335,8 @@ link-citations: true
 
 ### *383 total*
 
-|Gene|Tier| First DLBCL evidence | Other entities | Data QC outcome |
-|:-:|:-:|:--|:-|:-:|
+|Gene|Tier| First DLBCL study | Other entities | Data QC outcome |
+|:-:|:-:|:-|:-|:--:|
 |[ABCA3](ABCA3)|3|[Zhang et al](papers/zhangGeneticHeterogeneityDiffuse2013)[@zhangGeneticHeterogeneityDiffuse2013]|[@beaLandscapeSomaticMutations2013]||
 |[ABCA4](ABCA4)|3|[Zhang et al](papers/zhangGeneticHeterogeneityDiffuse2013)[@zhangGeneticHeterogeneityDiffuse2013]|||
 |[ABCB1](ABCB1)|3|[Fan et al](papers/fanComprehensiveCharacterizationDriver2020b)[@fanComprehensiveCharacterizationDriver2020b]|||
