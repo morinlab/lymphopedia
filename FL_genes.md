@@ -9,7 +9,7 @@ link-citations: true
 
 ![](FL_sankey-1.svg)
 
-## Tier 1 FL genes
+## Tier 1, high-confidence FL genes
 
 ### *57 total*
 
@@ -73,7 +73,7 @@ link-citations: true
 |[TP53](TP53)|Tier 1 GE[@morinFrequentMutationHistonemodifying2011], FE[@rowhTp53DeletionLineage2011], aSHM|[Morin et al](papers/morinFrequentMutationHistonemodifying2011)|[@beaLandscapeSomaticMutations2013; @lohrDiscoveryPrioritizationSomatic2012a; @rossiCodingGenomeSplenic2012c; @tiacciPervasiveMutationsJAKSTAT2018b; @wildaInactivationARFMDM2p53Pathway2004]||
 |[VMA21](VMA21)|Tier 1 GE[@hubschmannMutationalMechanismsShaping2021b]|[Hubschmann et al](papers/hubschmannMutationalMechanismsShaping2021b)|||
 
-## Tier 2 FL genes
+## Tier 2, low-confidence FL genes
 
 ### *56 total*
 
@@ -136,7 +136,7 @@ link-citations: true
 |[ZC3H12A](ZC3H12A)|Tier 2 GE, aSHM||[@chapuyMolecularSubtypesDiffuse2018b]||
 |[ZNF608](ZNF608)|Tier 2 GE[@krysiakRecurrentSomaticMutations2017b], aSHM|[Krysiak et al](papers/krysiakRecurrentSomaticMutations2017b)|[@morinMutationalStructuralAnalysis2013]||
 
-## Tier 3 FL genes
+## Tier 3, retired FL genes
 
 ### *0 total*
 

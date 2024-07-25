@@ -9,7 +9,7 @@ link-citations: true
 
 ![](BL_sankey-1.svg)
 
-## Tier 1 BL genes
+## Tier 1, high-confidence BL genes
 
 ### *28 total*
 
@@ -44,7 +44,7 @@ link-citations: true
 |[USP7](USP7)|Tier 1 GE[@grandeGenomewideDiscoverySomatic2019], aSHM|[Grande et al](papers/grandeGenomewideDiscoverySomatic2019)|[@arthurGenomewideDiscoverySomatic2018]||
 |[WNK1](WNK1)|Tier 1 GE[@thomasGeneticSubgroupsInform2023], aSHM|[Thomas et al](papers/thomasGeneticSubgroupsInform2023)|[@hubschmannMutationalMechanismsShaping2021b; @jalladesExomeSequencingIdentifies2017]||
 
-## Tier 2 BL genes
+## Tier 2, low-confidence BL genes
 
 ### *76 total*
 
@@ -127,7 +127,7 @@ link-citations: true
 |[ZFP36L1](ZFP36L1)|Tier 2 GE[@paneaWholeGenomeLandscape2019], aSHM|[Panea et al](papers/paneaWholeGenomeLandscape2019)|[@morinFrequentMutationHistonemodifying2011; @reichelFlowSortingExome2015a]|PASS|
 |[ZNF85](ZNF85)|Tier 2 GE[@burkhardtClinicalRelevanceMolecular2022b]|[Burkhardt et al](papers/burkhardtClinicalRelevanceMolecular2022b)|||
 
-## Tier 3 BL genes
+## Tier 3, retired BL genes
 
 ### *70 total*
 

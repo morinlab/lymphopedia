@@ -9,7 +9,7 @@ link-citations: true
 
 ![](DLBCL_sankey-1.svg)
 
-## Tier 1 DLBCL genes
+## Tier 1, high-confidence DLBCL genes
 
 ### *126 total*
 
@@ -142,7 +142,7 @@ link-citations: true
 |[ZNF292](ZNF292)|Tier 1 GE[@reddyGeneticFunctionalDrivers2017], aSHM|[Reddy et al](papers/reddyGeneticFunctionalDrivers2017)|||
 |[ZNF608](ZNF608)|Tier 1 GE[@morinMutationalStructuralAnalysis2013], aSHM|[Morin et al](papers/morinMutationalStructuralAnalysis2013)|[@krysiakRecurrentSomaticMutations2017b]||
 
-## Tier 2 DLBCL genes
+## Tier 2, low-confidence DLBCL genes
 
 ### *179 total*
 
@@ -328,7 +328,7 @@ link-citations: true
 |[ZNF217](ZNF217)|Tier 2 GE[@hubschmannMutationalMechanismsShaping2021b], aSHM|[Hubschmann et al](papers/hubschmannMutationalMechanismsShaping2021b)|[@reichelFlowSortingExome2015a]|PASS|
 |[ZNF423](ZNF423)|Tier 2 GE[@chapuyMolecularSubtypesDiffuse2018b], aSHM|[Chapuy et al](papers/chapuyMolecularSubtypesDiffuse2018b)||PASS|
 
-## Tier 3 DLBCL genes
+## Tier 3, retired DLBCL genes
 
 ### *386 total*
 
