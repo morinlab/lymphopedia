@@ -88,7 +88,7 @@ link-citations: true
 |[LRRN3](LRRN3)|Tier 1 GE[@zhangGeneticHeterogeneityDiffuse2013]|[Zhang et al](papers/zhangGeneticHeterogeneityDiffuse2013)|[@sarkozyMutationalLandscapeGray2021a]||
 |[LTB](LTB)|Tier 1 GE[@chapuyMolecularSubtypesDiffuse2018b]|[Chapuy et al](papers/chapuyMolecularSubtypesDiffuse2018b)|[@deschGenotypingCirculatingTumor2020]||
 |[MEF2B](MEF2B)|Tier 1 GE[@morinFrequentMutationHistonemodifying2011], FE[@yingMEF2BMutationsLead]|[Morin et al](papers/morinFrequentMutationHistonemodifying2011)|[@beaLandscapeSomaticMutations2013]||
-|[MEF2C](MEF2C)|Tier 1 GE[@arthurGenomewideDiscoverySomatic2018]|[Arthur et al](papers/arthurGenomewideDiscoverySomatic2018)|||
+|[MEF2C](MEF2C)|Tier 1 GE[@arthurGenomewideDiscoverySomatic2018], FE[@jingjingNovelMEF2CMutation2020]|[Arthur et al](papers/arthurGenomewideDiscoverySomatic2018)|||
 |[MGA](MGA)|Tier 1 GE[@reddyGeneticFunctionalDrivers2017]|[Reddy et al](papers/reddyGeneticFunctionalDrivers2017)|[@jalladesExomeSequencingIdentifies2017]||
 |[MPEG1](MPEG1)|Tier 1 GE[@morinMutationalStructuralAnalysis2013]|[Morin et al](papers/morinMutationalStructuralAnalysis2013)|||
 |[MS4A1](MS4A1)|Tier 1 GE[@rushtonGeneticEvolutionaryPatterns2020]|[Rushton et al](papers/rushtonGeneticEvolutionaryPatterns2020)|[@mottokIntegrativeGenomicAnalysis2019b]||
