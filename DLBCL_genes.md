@@ -162,7 +162,7 @@ link-citations: true
 |[BRINP3](BRINP3)|Tier 2 GE[@reddyGeneticFunctionalDrivers2017]|[Reddy et al](papers/reddyGeneticFunctionalDrivers2017)||PASS|
 |[BTBD3](BTBD3)|Tier 2 GE[@zhangGeneticHeterogeneityDiffuse2013]|[Zhang et al](papers/zhangGeneticHeterogeneityDiffuse2013)|||
 |[CADPS2](CADPS2)|Tier 2 GE[@hubschmannMutationalMechanismsShaping2021b]|[Hubschmann et al](papers/hubschmannMutationalMechanismsShaping2021b)||PASS|
-|[CASP8](CASP8)|Tier 2 GE[@reddyGeneticFunctionalDrivers2017]|[Reddy et al](papers/reddyGeneticFunctionalDrivers2017)|||
+|[CASP8](CASP8)|Tier 2 GE[@reddyGeneticFunctionalDrivers2017], FE[@hakemCaspase8EssentialMaintaining2012]|[Reddy et al](papers/reddyGeneticFunctionalDrivers2017)|||
 |[CD22](CD22)|Tier 2 GE[@reddyGeneticFunctionalDrivers2017]|[Reddy et al](papers/reddyGeneticFunctionalDrivers2017)||PASS|
 |[CD274](CD274)|Tier 2 GE[@morinFrequentMutationHistonemodifying2011]|[Morin et al](papers/morinFrequentMutationHistonemodifying2011)|||
 |[CD36](CD36)|Tier 2 GE[@pasqualucciAnalysisCodingGenome2011]|[Pasqualucci et al](papers/pasqualucciAnalysisCodingGenome2011)|||
