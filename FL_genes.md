@@ -42,8 +42,8 @@ link-citations: true
 |[HIST1H2BC](HIST1H2BC)|Tier 1 GE[@krysiakRecurrentSomaticMutations2017b], aSHM|[Krysiak et al](papers/krysiakRecurrentSomaticMutations2017b)|[@lohrDiscoveryPrioritizationSomatic2012a; @mottokIntegrativeGenomicAnalysis2019b]||
 |[HIST1H2BD](HIST1H2BD)|Tier 1 GE[@krysiakRecurrentSomaticMutations2017b]|[Krysiak et al](papers/krysiakRecurrentSomaticMutations2017b)|||
 |[HIST1H2BG](HIST1H2BG)|Tier 1 GE[@krysiakRecurrentSomaticMutations2017b]|[Krysiak et al](papers/krysiakRecurrentSomaticMutations2017b)|||
-|[HIST1H3B](HIST1H3B)|Tier 1 GE, aSHM||[@lohrDiscoveryPrioritizationSomatic2012a; @reichelFlowSortingExome2015a]||
 |[HIST1H3G](HIST1H3G)|Tier 1 GE[@krysiakRecurrentSomaticMutations2017b]|[Krysiak et al](papers/krysiakRecurrentSomaticMutations2017b)|||
+|[HIST1H3I](HIST1H3I)|Tier 1 GE[@krysiakRecurrentSomaticMutations2017b]|[Krysiak et al](papers/krysiakRecurrentSomaticMutations2017b)|[@paneaWholeGenomeLandscape2019]||
 |[HVCN1](HVCN1)|Tier 1 GE[@krysiakRecurrentSomaticMutations2017b], aSHM|[Krysiak et al](papers/krysiakRecurrentSomaticMutations2017b)|[@chapuyMolecularSubtypesDiffuse2018b]||
 |[IRF4](IRF4)|Tier 1 GE[@drevalGeneticSubdivisionsFollicular2023], aSHM|[Dreval et al](papers/drevalGeneticSubdivisionsFollicular2023)|[@morinFrequentMutationHistonemodifying2011; @mottokIntegrativeGenomicAnalysis2019b]||
 |[IRF8](IRF8)|Tier 1 GE[@morinFrequentMutationHistonemodifying2011], FE[@qiuIRF8mutantCellLymphoma2024], aSHM|[Morin et al](papers/morinFrequentMutationHistonemodifying2011)|[@mottokIntegrativeGenomicAnalysis2019b; @paneaWholeGenomeLandscape2019]||
@@ -99,7 +99,7 @@ link-citations: true
 |[GNAI2](GNAI2)|Tier 2 GE, aSHM||[@grandeGenomewideDiscoverySomatic2019; @morinMutationalStructuralAnalysis2013]||
 |[GRM6](GRM6)|Tier 2 GE[@russler-germainMutationsAssociatedProgression2023b]|[Russler et al](papers/russler-germainMutationsAssociatedProgression2023b)|||
 |[HIST1H2BM](HIST1H2BM)|Tier 2 GE[@krysiakRecurrentSomaticMutations2017b]|[Krysiak et al](papers/krysiakRecurrentSomaticMutations2017b)|||
-|[HIST1H3I](HIST1H3I)|Tier 2 GE[@krysiakRecurrentSomaticMutations2017b]|[Krysiak et al](papers/krysiakRecurrentSomaticMutations2017b)|[@paneaWholeGenomeLandscape2019]||
+|[HIST1H3B](HIST1H3B)|Tier 2 GE, aSHM||[@lohrDiscoveryPrioritizationSomatic2012a; @reichelFlowSortingExome2015a]||
 |[HLA-B](HLA-B)|Tier 2 GE, aSHM||[@lohrDiscoveryPrioritizationSomatic2012a; @wienandGenomicAnalysesFlowsorted2019b]||
 |[IGLL5](IGLL5)|Tier 2 GE[@russler-germainMutationsAssociatedProgression2023b], aSHM|[Russler et al](papers/russler-germainMutationsAssociatedProgression2023b)|[@chapuyMolecularSubtypesDiffuse2018b; @deschGenotypingCirculatingTumor2020; @paneaWholeGenomeLandscape2019]||
 |[ITPKB](ITPKB)|Tier 2 GE[@drevalGeneticSubdivisionsFollicular2023], aSHM|[Dreval et al](papers/drevalGeneticSubdivisionsFollicular2023)|[@reichelFlowSortingExome2015a; @schmitzGeneticsPathogenesisDiffuse2018a]||
