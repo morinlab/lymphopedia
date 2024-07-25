@@ -91,7 +91,7 @@ link-citations: true
 |[MEF2C](MEF2C)|Tier 1 GE[@arthurGenomewideDiscoverySomatic2018], FE[@jingjingNovelMEF2CMutation2020]|[Arthur et al](papers/arthurGenomewideDiscoverySomatic2018)|||
 |[MGA](MGA)|Tier 1 GE[@reddyGeneticFunctionalDrivers2017], CE[@guoSGK1MutationStatus2022b]|[Reddy et al](papers/reddyGeneticFunctionalDrivers2017)|[@jalladesExomeSequencingIdentifies2017]||
 |[MPEG1](MPEG1)|Tier 1 GE[@morinMutationalStructuralAnalysis2013], CE[@guoSGK1MutationStatus2022b]|[Morin et al](papers/morinMutationalStructuralAnalysis2013)|||
-|[MS4A1](MS4A1)|Tier 1 GE[@rushtonGeneticEvolutionaryPatterns2020]|[Rushton et al](papers/rushtonGeneticEvolutionaryPatterns2020)|[@mottokIntegrativeGenomicAnalysis2019b]||
+|[MS4A1](MS4A1)|Tier 1 GE[@rushtonGeneticEvolutionaryPatterns2020], FE[@rushtonGeneticEvolutionaryPatterns2020], CE[@rushtonGeneticEvolutionaryPatterns2020]|[Rushton et al](papers/rushtonGeneticEvolutionaryPatterns2020)|[@mottokIntegrativeGenomicAnalysis2019b]||
 |[MTOR](MTOR)|Tier 1 GE[@zhangGeneticHeterogeneityDiffuse2013]|[Zhang et al](papers/zhangGeneticHeterogeneityDiffuse2013)|[@paneaWholeGenomeLandscape2019]||
 |[MYC](MYC)|Tier 1 GE[@pasqualucciHypermutationMultipleProtooncogenes2001a], FE[@giallongoIdentificationCmycOncogene1983], CE[@christieCMYCTranslocation142008]|[Pasqualucci et al](papers/pasqualucciHypermutationMultipleProtooncogenes2001a)|[@dunsCharacterizationDLBCLPMBL2021b; @jalladesExomeSequencingIdentifies2017; @johnstonCmycHypermutationBurkitt1992]||
 |[MYD88](MYD88)|Tier 1 GE[@ngoOncogenicallyActiveMYD882011a], FE[@ngoOncogenicallyActiveMYD882011a], CE[@guoSGK1MutationStatus2022b]|[Ngo et al](papers/ngoOncogenicallyActiveMYD882011a)|[@yanBCRTLRSignaling2012a]||
