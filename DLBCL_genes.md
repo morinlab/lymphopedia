@@ -124,7 +124,7 @@ link-citations: true
 |[STAT3](STAT3)|Tier 1 GE[@lohrDiscoveryPrioritizationSomatic2012a], FE[@huNovelMissenseM206K2013b]|[Lohr et al](papers/lohrDiscoveryPrioritizationSomatic2012a)|||
 |[STAT6](STAT6)|Tier 1 GE[@yildizActivatingSTAT6Mutations2015c], FE[@yildizActivatingSTAT6Mutations2015c]|[Yildiz et al](papers/yildizActivatingSTAT6Mutations2015c)|[@ritzRecurrentMutationsSTAT62009a]||
 |[TAF1](TAF1)|Tier 1 GE[@morinMutationalStructuralAnalysis2013]|[Morin et al](papers/morinMutationalStructuralAnalysis2013)|[@spinaGeneticsNodalMarginal2016b]||
-|[TBL1XR1](TBL1XR1)|Tier 1 GE[@lohrDiscoveryPrioritizationSomatic2012a]|[Lohr et al](papers/lohrDiscoveryPrioritizationSomatic2012a)|[@rossiCodingGenomeSplenic2012c]||
+|[TBL1XR1](TBL1XR1)|Tier 1 GE[@lohrDiscoveryPrioritizationSomatic2012a], FE[@venturuttiTBL1XR1MutationsDrive2020b]|[Lohr et al](papers/lohrDiscoveryPrioritizationSomatic2012a)|[@rossiCodingGenomeSplenic2012c]||
 |[TET2](TET2)|Tier 1 GE[@albuquerqueEnhancingKnowledgeDiscovery2017a]|[Albuquerque et al](papers/albuquerqueEnhancingKnowledgeDiscovery2017a)|[@thomasGeneticSubgroupsInform2023]||
 |[TMEM30A](TMEM30A)|Tier 1 GE[@morinFrequentMutationHistonemodifying2011], FE[@ennishiTMEM30ALossoffunctionMutations2020b], CE[@ennishiTMEM30ALossoffunctionMutations2020b]|[Morin et al](papers/morinFrequentMutationHistonemodifying2011)|||
 |[TMSB4X](TMSB4X)|Tier 1 GE[@zhangGeneticHeterogeneityDiffuse2013]|[Zhang et al](papers/zhangGeneticHeterogeneityDiffuse2013)|||
