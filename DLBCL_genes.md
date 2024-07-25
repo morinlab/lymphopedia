@@ -11,7 +11,7 @@ link-citations: true
 
 ## Tier 1 DLBCL genes
 
-### *125 total*
+### *126 total*
 
 |Gene|Summary| First DLBCL study | Other entities | QC result |
 |:-:|:-:|:-:|:-|:-|
@@ -91,6 +91,7 @@ link-citations: true
 |[MEF2B](MEF2B)|Tier 1 GE[@morinFrequentMutationHistonemodifying2011], FE[@yingMEF2BMutationsLead]|[Morin et al](papers/morinFrequentMutationHistonemodifying2011)|[@beaLandscapeSomaticMutations2013]||
 |[MEF2C](MEF2C)|Tier 1 GE[@arthurGenomewideDiscoverySomatic2018], FE[@jingjingNovelMEF2CMutation2020]|[Arthur et al](papers/arthurGenomewideDiscoverySomatic2018)|||
 |[MGA](MGA)|Tier 1 GE[@reddyGeneticFunctionalDrivers2017], CE[@guoSGK1MutationStatus2022b]|[Reddy et al](papers/reddyGeneticFunctionalDrivers2017)|[@jalladesExomeSequencingIdentifies2017]||
+|[MIR142](MIR142)|Tier 1 GE[@kwanhianMicroRNA142Mutated202012b]|[Kwanhian et al](papers/kwanhianMicroRNA142Mutated202012b)|[@grandeGenomewideDiscoverySomatic2019]||
 |[MPEG1](MPEG1)|Tier 1 GE[@morinMutationalStructuralAnalysis2013], CE[@guoSGK1MutationStatus2022b]|[Morin et al](papers/morinMutationalStructuralAnalysis2013)|||
 |[MS4A1](MS4A1)|Tier 1 GE[@rushtonGeneticEvolutionaryPatterns2020], FE[@rushtonGeneticEvolutionaryPatterns2020], CE[@rushtonGeneticEvolutionaryPatterns2020]|[Rushton et al](papers/rushtonGeneticEvolutionaryPatterns2020)|[@mottokIntegrativeGenomicAnalysis2019b]||
 |[MTOR](MTOR)|Tier 1 GE[@zhangGeneticHeterogeneityDiffuse2013]|[Zhang et al](papers/zhangGeneticHeterogeneityDiffuse2013)|[@paneaWholeGenomeLandscape2019]||
@@ -120,7 +121,7 @@ link-citations: true
 |[SGK1](SGK1)|Tier 1 GE[@morinFrequentMutationHistonemodifying2011], FE[@hartmannHighlyRecurrentMutations2016b], CE[@guoSGK1MutationStatus2022b]|[Morin et al](papers/morinFrequentMutationHistonemodifying2011)|[@dunsCharacterizationDLBCLPMBL2021b]||
 |[SIN3A](SIN3A)|Tier 1 GE[@chapuyMolecularSubtypesDiffuse2018b]|[Chapuy et al](papers/chapuyMolecularSubtypesDiffuse2018b)|[@grandeGenomewideDiscoverySomatic2019; @rossiCodingGenomeSplenic2012c]||
 |[SMARCA4](SMARCA4)|Tier 1 GE[@reddyGeneticFunctionalDrivers2017], FE[@dengSMARCA4HaploinsufficientCell2024]|[Reddy et al](papers/reddyGeneticFunctionalDrivers2017)|[@krysiakRecurrentSomaticMutations2017b; @nadeuGenomicEpigenomicInsights2020b; @richterRecurrentMutationID32012a]||
-|[SOCS1](SOCS1)|Tier 1 GE[@morinFrequentMutationHistonemodifying2011]|[Morin et al](papers/morinFrequentMutationHistonemodifying2011)|[@wenigerMutationsTumorSuppressor2006a]||
+|[SOCS1](SOCS1)|Tier 1 GE[@morinFrequentMutationHistonemodifying2011], FE[@melznerBiallelicMutationSOCS12005a]|[Morin et al](papers/morinFrequentMutationHistonemodifying2011)|[@wenigerMutationsTumorSuppressor2006a]||
 |[SPEN](SPEN)|Tier 1 GE[@albuquerqueEnhancingKnowledgeDiscovery2017a], CE[@guoSGK1MutationStatus2022b]|[Albuquerque et al](papers/albuquerqueEnhancingKnowledgeDiscovery2017a)|[@rossiCodingGenomeSplenic2012c; @sarkozyMutationalLandscapeGray2021a]||
 |[STAT3](STAT3)|Tier 1 GE[@lohrDiscoveryPrioritizationSomatic2012a], FE[@huNovelMissenseM206K2013b]|[Lohr et al](papers/lohrDiscoveryPrioritizationSomatic2012a)|||
 |[STAT6](STAT6)|Tier 1 GE[@yildizActivatingSTAT6Mutations2015c], FE[@yildizActivatingSTAT6Mutations2015c]|[Yildiz et al](papers/yildizActivatingSTAT6Mutations2015c)|[@ritzRecurrentMutationsSTAT62009a]||
@@ -143,7 +144,7 @@ link-citations: true
 
 ## Tier 2 DLBCL genes
 
-### *180 total*
+### *179 total*
 
 |Gene|Summary| First DLBCL study | Other entities | QC result |
 |:-:|:-:|:-:|:-|:-|
@@ -235,7 +236,6 @@ link-citations: true
 |[MCL1](MCL1)|Tier 2 GE[@reddyGeneticFunctionalDrivers2017]|[Reddy et al](papers/reddyGeneticFunctionalDrivers2017)|[@dunsCharacterizationDLBCLPMBL2021b; @paneaWholeGenomeLandscape2019]|PASS|
 |[MECOM](MECOM)|Tier 2 GE[@reddyGeneticFunctionalDrivers2017]|[Reddy et al](papers/reddyGeneticFunctionalDrivers2017)||PASS|
 |[MET](MET)|Tier 2 GE[@reddyGeneticFunctionalDrivers2017]|[Reddy et al](papers/reddyGeneticFunctionalDrivers2017)||PASS|
-|[MIR142](MIR142)|Tier 2 GE[@kwanhianMicroRNA142Mutated202012b]|[Kwanhian et al](papers/kwanhianMicroRNA142Mutated202012b)|[@grandeGenomewideDiscoverySomatic2019]||
 |[MIR155HG](MIR155HG)|Tier 2 GE||||
 |[MPDZ](MPDZ)|Tier 2 GE[@morinMutationalStructuralAnalysis2013]|[Morin et al](papers/morinMutationalStructuralAnalysis2013)|[@reichelFlowSortingExome2015a]|PASS|
 |[MSH6](MSH6)|Tier 2 GE[@reddyGeneticFunctionalDrivers2017]|[Reddy et al](papers/reddyGeneticFunctionalDrivers2017)||PASS|
