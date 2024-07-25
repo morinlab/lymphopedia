@@ -128,7 +128,7 @@ link-citations: true
 |[TET2](TET2)|Tier 1 GE[@albuquerqueEnhancingKnowledgeDiscovery2017a]|[Albuquerque et al](papers/albuquerqueEnhancingKnowledgeDiscovery2017a)|[@thomasGeneticSubgroupsInform2023]||
 |[TMEM30A](TMEM30A)|Tier 1 GE[@morinFrequentMutationHistonemodifying2011], FE[@ennishiTMEM30ALossoffunctionMutations2020b], CE[@ennishiTMEM30ALossoffunctionMutations2020b]|[Morin et al](papers/morinFrequentMutationHistonemodifying2011)|||
 |[TMSB4X](TMSB4X)|Tier 1 GE[@zhangGeneticHeterogeneityDiffuse2013]|[Zhang et al](papers/zhangGeneticHeterogeneityDiffuse2013)|||
-|[TNFAIP3](TNFAIP3)|Tier 1 GE[@compagnoMutationsMultipleGenes2009a]|[Compagno et al](papers/compagnoMutationsMultipleGenes2009a)|[@rossiAlterationBIRC3Multiple2011a; @schmitzTNFAIP3A20Tumor2009a]||
+|[TNFAIP3](TNFAIP3)|Tier 1 GE[@compagnoMutationsMultipleGenes2009a], FE[@compagnoMutationsMultipleGenes2009a]|[Compagno et al](papers/compagnoMutationsMultipleGenes2009a)|[@rossiAlterationBIRC3Multiple2011a; @schmitzTNFAIP3A20Tumor2009a]||
 |[TNFRSF14](TNFRSF14)|Tier 1 GE[@morinFrequentMutationHistonemodifying2011], CE[@guoSGK1MutationStatus2022b]|[Morin et al](papers/morinFrequentMutationHistonemodifying2011)|[@cheungAcquiredTNFRSF14Mutations2010a; @spinaGeneticsNodalMarginal2016b]||
 |[TOX](TOX)|Tier 1 GE[@reddyGeneticFunctionalDrivers2017]|[Reddy et al](papers/reddyGeneticFunctionalDrivers2017)|||
 |[TP53](TP53)|Tier 1 GE[@lohrDiscoveryPrioritizationSomatic2012a], FE[@rowhTp53DeletionLineage2011]|[Lohr et al](papers/lohrDiscoveryPrioritizationSomatic2012a)|[@beaLandscapeSomaticMutations2013; @morinFrequentMutationHistonemodifying2011; @rossiCodingGenomeSplenic2012c; @tiacciPervasiveMutationsJAKSTAT2018b; @wildaInactivationARFMDM2p53Pathway2004]||
