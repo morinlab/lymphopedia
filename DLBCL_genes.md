@@ -75,7 +75,7 @@ link-citations: true
 |[IKZF3](IKZF3)|Tier 1 GE[@morinFrequentMutationHistonemodifying2011]|[Morin et al](papers/morinFrequentMutationHistonemodifying2011)|[@paneaWholeGenomeLandscape2019]||
 |[IL4R](IL4R)|Tier 1 GE[@dunsCharacterizationDLBCLPMBL2021b], FE[@viganoSomaticIL4RMutations2018b]|[Duns et al](papers/dunsCharacterizationDLBCLPMBL2021b)|[@viganoSomaticIL4RMutations2018b]||
 |[IRF4](IRF4)|Tier 1 GE[@morinFrequentMutationHistonemodifying2011]|[Morin et al](papers/morinFrequentMutationHistonemodifying2011)|[@mottokIntegrativeGenomicAnalysis2019b]||
-|[IRF8](IRF8)|Tier 1 GE[@morinFrequentMutationHistonemodifying2011]|[Morin et al](papers/morinFrequentMutationHistonemodifying2011)|[@mottokIntegrativeGenomicAnalysis2019b; @paneaWholeGenomeLandscape2019]||
+|[IRF8](IRF8)|Tier 1 GE[@morinFrequentMutationHistonemodifying2011], FE[@qiuIRF8mutantCellLymphoma2024]|[Morin et al](papers/morinFrequentMutationHistonemodifying2011)|[@mottokIntegrativeGenomicAnalysis2019b; @paneaWholeGenomeLandscape2019]||
 |[ITPKB](ITPKB)|Tier 1 GE[@schmitzGeneticsPathogenesisDiffuse2018a]|[Schmitz et al](papers/schmitzGeneticsPathogenesisDiffuse2018a)|[@reichelFlowSortingExome2015a]||
 |[JUNB](JUNB)|Tier 1 GE[@reddyGeneticFunctionalDrivers2017]|[Reddy et al](papers/reddyGeneticFunctionalDrivers2017)|[@mottokIntegrativeGenomicAnalysis2019b]|PASS|
 |[KLF2](KLF2)|Tier 1 GE[@pasqualucciAnalysisCodingGenome2011]|[Pasqualucci et al](papers/pasqualucciAnalysisCodingGenome2011)|[@deschGenotypingCirculatingTumor2020; @jalladesExomeSequencingIdentifies2017]||
