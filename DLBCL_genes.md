@@ -116,7 +116,7 @@ link-citations: true
 |[S1PR2](S1PR2)|Tier 1 GE[@morinFrequentMutationHistonemodifying2011]|[Morin et al](papers/morinFrequentMutationHistonemodifying2011)|[@muppidiLossSignalingGa132014b]||
 |[SETD1B](SETD1B)|Tier 1 GE[@albuquerqueEnhancingKnowledgeDiscovery2017a]|[Albuquerque et al](papers/albuquerqueEnhancingKnowledgeDiscovery2017a)|||
 |[SF3B1](SF3B1)|Tier 1 GE[@reddyGeneticFunctionalDrivers2017]|[Reddy et al](papers/reddyGeneticFunctionalDrivers2017)|[@loveGeneticLandscapeMutations2012]||
-|[SGK1](SGK1)|Tier 1 GE[@morinFrequentMutationHistonemodifying2011], FE[@hartmannHighlyRecurrentMutations2016b]|[Morin et al](papers/morinFrequentMutationHistonemodifying2011)|[@dunsCharacterizationDLBCLPMBL2021b]||
+|[SGK1](SGK1)|Tier 1 GE[@morinFrequentMutationHistonemodifying2011], FE[@hartmannHighlyRecurrentMutations2016b], CE[@guoSGK1MutationStatus2022b]|[Morin et al](papers/morinFrequentMutationHistonemodifying2011)|[@dunsCharacterizationDLBCLPMBL2021b]||
 |[SIN3A](SIN3A)|Tier 1 GE[@chapuyMolecularSubtypesDiffuse2018b]|[Chapuy et al](papers/chapuyMolecularSubtypesDiffuse2018b)|[@grandeGenomewideDiscoverySomatic2019; @rossiCodingGenomeSplenic2012c]||
 |[SMARCA4](SMARCA4)|Tier 1 GE[@reddyGeneticFunctionalDrivers2017], FE[@dengSMARCA4HaploinsufficientCell2024]|[Reddy et al](papers/reddyGeneticFunctionalDrivers2017)|[@krysiakRecurrentSomaticMutations2017b; @nadeuGenomicEpigenomicInsights2020b; @richterRecurrentMutationID32012a]||
 |[SOCS1](SOCS1)|Tier 1 GE[@morinFrequentMutationHistonemodifying2011]|[Morin et al](papers/morinFrequentMutationHistonemodifying2011)|[@wenigerMutationsTumorSuppressor2006a]||
