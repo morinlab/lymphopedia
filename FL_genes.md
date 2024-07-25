@@ -11,7 +11,7 @@ link-citations: true
 
 ## Tier 1, high-confidence FL genes
 
-### *57 total*
+### *54 total*
 
 |Gene|Summary| First FL study | Other entities | QC result |
 |:-:|:--:|:-:|:-|:-|
@@ -46,10 +46,7 @@ link-citations: true
 |[HIST1H2AG](HIST1H2AG)|Tier 1 GE[@krysiakRecurrentSomaticMutations2017b], aSHM|[Krysiak et al](papers/krysiakRecurrentSomaticMutations2017b)|[@morinMutationalStructuralAnalysis2013; @paneaWholeGenomeLandscape2019; @rossiCodingGenomeSplenic2012c]||
 |[HIST1H2AM](HIST1H2AM)|Tier 1 GE[@krysiakRecurrentSomaticMutations2017b], aSHM|[Krysiak et al](papers/krysiakRecurrentSomaticMutations2017b)|[@chapuyMolecularSubtypesDiffuse2018b; @paneaWholeGenomeLandscape2019]||
 |[HIST1H2BC](HIST1H2BC)|Tier 1 GE[@krysiakRecurrentSomaticMutations2017b], aSHM|[Krysiak et al](papers/krysiakRecurrentSomaticMutations2017b)|[@lohrDiscoveryPrioritizationSomatic2012a; @mottokIntegrativeGenomicAnalysis2019b]||
-|[HIST1H2BD](HIST1H2BD)|Tier 1 GE[@krysiakRecurrentSomaticMutations2017b]|[Krysiak et al](papers/krysiakRecurrentSomaticMutations2017b)|||
 |[HIST1H2BG](HIST1H2BG)|Tier 1 GE[@krysiakRecurrentSomaticMutations2017b]|[Krysiak et al](papers/krysiakRecurrentSomaticMutations2017b)|||
-|[HIST1H3G](HIST1H3G)|Tier 1 GE[@krysiakRecurrentSomaticMutations2017b]|[Krysiak et al](papers/krysiakRecurrentSomaticMutations2017b)|||
-|[HIST1H3I](HIST1H3I)|Tier 1 GE[@krysiakRecurrentSomaticMutations2017b]|[Krysiak et al](papers/krysiakRecurrentSomaticMutations2017b)|[@paneaWholeGenomeLandscape2019]||
 |[HVCN1](HVCN1)|Tier 1 GE[@krysiakRecurrentSomaticMutations2017b], aSHM|[Krysiak et al](papers/krysiakRecurrentSomaticMutations2017b)|[@chapuyMolecularSubtypesDiffuse2018b]||
 |[IRF4](IRF4)|Tier 1 GE[@drevalGeneticSubdivisionsFollicular2023], aSHM|[Dreval et al](papers/drevalGeneticSubdivisionsFollicular2023)|[@morinFrequentMutationHistonemodifying2011; @mottokIntegrativeGenomicAnalysis2019b]||
 |[IRF8](IRF8)|Tier 1 GE[@morinFrequentMutationHistonemodifying2011], FE[@qiuIRF8mutantCellLymphoma2024], aSHM|[Morin et al](papers/morinFrequentMutationHistonemodifying2011)|[@mottokIntegrativeGenomicAnalysis2019b; @paneaWholeGenomeLandscape2019]||
@@ -75,7 +72,7 @@ link-citations: true
 
 ## Tier 2, low-confidence FL genes
 
-### *56 total*
+### *59 total*
 
 |Gene|Summary| First FL study | Other entities | QC result |
 |:-:|:--:|:-:|:-|:-|
@@ -100,8 +97,11 @@ link-citations: true
 |[FZR1](FZR1)|Tier 2 GE[@hubschmannMutationalMechanismsShaping2021b]|[Hubschmann et al](papers/hubschmannMutationalMechanismsShaping2021b)|||
 |[GBP7](GBP7)|Tier 2 GE[@russler-germainMutationsAssociatedProgression2023b]|[Russler-germain et al](papers/russler-germainMutationsAssociatedProgression2023b)|||
 |[GRM6](GRM6)|Tier 2 GE[@russler-germainMutationsAssociatedProgression2023b]|[Russler-germain et al](papers/russler-germainMutationsAssociatedProgression2023b)|||
+|[HIST1H2BD](HIST1H2BD)|Tier 2 GE[@krysiakRecurrentSomaticMutations2017b]|[Krysiak et al](papers/krysiakRecurrentSomaticMutations2017b)|||
 |[HIST1H2BM](HIST1H2BM)|Tier 2 GE[@krysiakRecurrentSomaticMutations2017b]|[Krysiak et al](papers/krysiakRecurrentSomaticMutations2017b)|||
 |[HIST1H3B](HIST1H3B)|Tier 2 GE, aSHM||[@lohrDiscoveryPrioritizationSomatic2012a; @reichelFlowSortingExome2015a]||
+|[HIST1H3G](HIST1H3G)|Tier 2 GE[@krysiakRecurrentSomaticMutations2017b]|[Krysiak et al](papers/krysiakRecurrentSomaticMutations2017b)|||
+|[HIST1H3I](HIST1H3I)|Tier 2 GE[@krysiakRecurrentSomaticMutations2017b]|[Krysiak et al](papers/krysiakRecurrentSomaticMutations2017b)|[@paneaWholeGenomeLandscape2019]||
 |[HLA-B](HLA-B)|Tier 2 GE, aSHM||[@lohrDiscoveryPrioritizationSomatic2012a; @wienandGenomicAnalysesFlowsorted2019b]||
 |[IGLL5](IGLL5)|Tier 2 GE[@russler-germainMutationsAssociatedProgression2023b], aSHM|[Russler-germain et al](papers/russler-germainMutationsAssociatedProgression2023b)|[@chapuyMolecularSubtypesDiffuse2018b; @deschGenotypingCirculatingTumor2020; @paneaWholeGenomeLandscape2019]||
 |[ITPKB](ITPKB)|Tier 2 GE[@drevalGeneticSubdivisionsFollicular2023], aSHM|[Dreval et al](papers/drevalGeneticSubdivisionsFollicular2023)|[@reichelFlowSortingExome2015a; @schmitzGeneticsPathogenesisDiffuse2018a]||
