@@ -108,7 +108,7 @@ link-citations: true
 |[PIM1](PIM1)|Tier 1 GE[@pasqualucciHypermutationMultipleProtooncogenes2001a], CE[@guoSGK1MutationStatus2022b]|[Pasqualucci et al](papers/pasqualucciHypermutationMultipleProtooncogenes2001a)|[@burkhardtClinicalRelevanceMolecular2022b; @dunsCharacterizationDLBCLPMBL2021b]||
 |[PIM2](PIM2)|Tier 1 GE[@arthurGenomewideDiscoverySomatic2018]|[Arthur et al](papers/arthurGenomewideDiscoverySomatic2018)|[@reichelFlowSortingExome2015a]||
 |[POU2AF1](POU2AF1)|Tier 1 GE[@chapuyMolecularSubtypesDiffuse2018b]|[Chapuy et al](papers/chapuyMolecularSubtypesDiffuse2018b)|[@krysiakRecurrentSomaticMutations2017b]||
-|[POU2F2](POU2F2)|Tier 1 GE[@lohrDiscoveryPrioritizationSomatic2012a]|[Lohr et al](papers/lohrDiscoveryPrioritizationSomatic2012a)|[@krysiakRecurrentSomaticMutations2017b]||
+|[POU2F2](POU2F2)|Tier 1 GE[@lohrDiscoveryPrioritizationSomatic2012a], FE[@hodsonRegulationNormalBcell2016a]|[Lohr et al](papers/lohrDiscoveryPrioritizationSomatic2012a)|[@krysiakRecurrentSomaticMutations2017b]||
 |[PRDM1](PRDM1)|Tier 1 GE[@pasqualucciInactivationPRDM1BLIMP12006a], FE[@pasqualucciInactivationPRDM1BLIMP12006a]|[Pasqualucci et al](papers/pasqualucciInactivationPRDM1BLIMP12006a)|||
 |[PTEN](PTEN)|Tier 1 GE[@reddyGeneticFunctionalDrivers2017]|[Reddy et al](papers/reddyGeneticFunctionalDrivers2017)|[@loveGeneticLandscapeMutations2012]||
 |[RB1](RB1)|Tier 1 GE[@morinMutationalStructuralAnalysis2013]|[Morin et al](papers/morinMutationalStructuralAnalysis2013)|[@zhangGenomicLandscapeMantle2014]||
