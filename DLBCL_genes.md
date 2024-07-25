@@ -95,7 +95,7 @@ link-citations: true
 |[MTOR](MTOR)|Tier 1 GE[@zhangGeneticHeterogeneityDiffuse2013]|[Zhang et al](papers/zhangGeneticHeterogeneityDiffuse2013)|[@paneaWholeGenomeLandscape2019]||
 |[MYC](MYC)|Tier 1 GE[@pasqualucciHypermutationMultipleProtooncogenes2001a], FE[@giallongoIdentificationCmycOncogene1983], CE[@christieCMYCTranslocation142008]|[Pasqualucci et al](papers/pasqualucciHypermutationMultipleProtooncogenes2001a)|[@dunsCharacterizationDLBCLPMBL2021b; @jalladesExomeSequencingIdentifies2017; @johnstonCmycHypermutationBurkitt1992]||
 |[MYD88](MYD88)|Tier 1 GE[@ngoOncogenicallyActiveMYD882011a], FE[@ngoOncogenicallyActiveMYD882011a], CE[@guoSGK1MutationStatus2022b]|[Ngo et al](papers/ngoOncogenicallyActiveMYD882011a)|[@yanBCRTLRSignaling2012a]||
-|[NFKBIA](NFKBIA)|Tier 1 GE[@lakeMutationsNFKBIAEncoding2009]|[Lake et al](papers/lakeMutationsNFKBIAEncoding2009)|[@russler-germainMutationsAssociatedProgression2023b; @wienandGenomicAnalysesFlowsorted2019b]||
+|[NFKBIA](NFKBIA)|Tier 1 GE[@thomasMutationalAnalysisIkappaBalpha2004]|[Thomas et al](papers/thomasMutationalAnalysisIkappaBalpha2004)|[@russler-germainMutationsAssociatedProgression2023b; @wienandGenomicAnalysesFlowsorted2019b]||
 |[NFKBIE](NFKBIE)|Tier 1 GE[@morinGeneticLandscapesRelapsed2016]|[Morin et al](papers/morinGeneticLandscapesRelapsed2016)|[@mansouriFrequentNFKBIEDeletions2016; @pararajalingamCodingNoncodingDrivers2020]||
 |[NFKBIZ](NFKBIZ)|Tier 1 GE[@morinGeneticLandscapesRelapsed2016], FE[@arthurGenomewideDiscoverySomatic2018]|[Morin et al](papers/morinGeneticLandscapesRelapsed2016)|||
 |[NOL9](NOL9)|Tier 1 GE[@schmitzGeneticsPathogenesisDiffuse2018a]|[Schmitz et al](papers/schmitzGeneticsPathogenesisDiffuse2018a)|[@spinaGeneticsNodalMarginal2016b]||
