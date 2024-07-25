@@ -110,7 +110,7 @@ link-citations: true
 |[PRDM1](PRDM1)|Tier 1 GE[@pasqualucciInactivationPRDM1BLIMP12006a]|[Pasqualucci et al](papers/pasqualucciInactivationPRDM1BLIMP12006a)|||
 |[PTEN](PTEN)|Tier 1 GE[@reddyGeneticFunctionalDrivers2017]|[Reddy et al](papers/reddyGeneticFunctionalDrivers2017)|[@loveGeneticLandscapeMutations2012]||
 |[RB1](RB1)|Tier 1 GE[@morinMutationalStructuralAnalysis2013]|[Morin et al](papers/morinMutationalStructuralAnalysis2013)|[@zhangGenomicLandscapeMantle2014]||
-|[RFX7](RFX7)|Tier 1 GE||[@grandeGenomewideDiscoverySomatic2019]||
+|[RFX7](RFX7)|Tier 1 GE[@arthurGenomewideDiscoverySomatic2018]|[Arthur et al](papers/arthurGenomewideDiscoverySomatic2018)|[@grandeGenomewideDiscoverySomatic2019]||
 |[RHOA](RHOA)|Tier 1 GE[@zhangGeneticHeterogeneityDiffuse2013], FE[@ohayreInactivatingMutationsGNA132016]|[Zhang et al](papers/zhangGeneticHeterogeneityDiffuse2013)|[@richterRecurrentMutationID32012a]||
 |[RRAGC](RRAGC)|Tier 1 GE[@okosunRecurrentMTORC1activatingRRAGC2016a]|[Okosun et al](papers/okosunRecurrentMTORC1activatingRRAGC2016a)|||
 |[S1PR2](S1PR2)|Tier 1 GE[@morinFrequentMutationHistonemodifying2011]|[Morin et al](papers/morinFrequentMutationHistonemodifying2011)|[@muppidiLossSignalingGa132014b]||
