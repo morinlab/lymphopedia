@@ -11,7 +11,7 @@ link-citations: true
 
 ## Tier 1 DLBCL genes
 
-### *124 total*
+### *125 total*
 
 |Gene|Summary| First DLBCL study | Other entities | QC result |
 |:-:|:-:|:-:|:-|:-|
@@ -36,6 +36,7 @@ link-citations: true
 |[CD79B](CD79B)|Tier 1 GE[@morinFrequentMutationHistonemodifying2011], FE[@davisChronicActiveBcellreceptor2010]|[Morin et al](papers/morinFrequentMutationHistonemodifying2011)|[@paneaWholeGenomeLandscape2019]||
 |[CD83](CD83)|Tier 1 GE[@morinMutationalStructuralAnalysis2013]|[Morin et al](papers/morinMutationalStructuralAnalysis2013)|[@dunsCharacterizationDLBCLPMBL2021b; @paneaWholeGenomeLandscape2019; @russler-germainMutationsAssociatedProgression2023b]||
 |[CDKN2A](CDKN2A)|Tier 1 GE[@morinMutationalStructuralAnalysis2013], CE[@jardinDiffuseLargeBcell2010a]|[Morin et al](papers/morinMutationalStructuralAnalysis2013)|[@grandeGenomewideDiscoverySomatic2019; @spinaGeneticsNodalMarginal2016b]||
+|[CIITA](CIITA)|Tier 1 GE[@morinFrequentMutationHistonemodifying2011], CE[@guoSGK1MutationStatus2022b]|[Morin et al](papers/morinFrequentMutationHistonemodifying2011)|[@mottokGenomicAlterationsCIITA2015b]||
 |[CREBBP](CREBBP)|Tier 1 GE[@pasqualucciInactivatingMutationsAcetyltransferase2011a], FE[@pasqualucciInactivatingMutationsAcetyltransferase2011a]|[Pasqualucci et al](papers/pasqualucciInactivatingMutationsAcetyltransferase2011a)|[@dunsCharacterizationDLBCLPMBL2021b; @loveGeneticLandscapeMutations2012; @parryWholeExomeSequencing2013]||
 |[CXCR4](CXCR4)|Tier 1 GE[@khodabakhshiRecurrentTargetsAberrant2012]|[Khodabakhshi et al](papers/khodabakhshiRecurrentTargetsAberrant2012)|[@krysiakRecurrentSomaticMutations2017b; @paneaWholeGenomeLandscape2019]||
 |[CXCR5](CXCR5)|Tier 1 GE[@schmitzGeneticsPathogenesisDiffuse2018a]|[Schmitz et al](papers/schmitzGeneticsPathogenesisDiffuse2018a)|[@mottokIntegrativeGenomicAnalysis2019b]||
@@ -142,7 +143,7 @@ link-citations: true
 
 ## Tier 2 DLBCL genes
 
-### *181 total*
+### *180 total*
 
 |Gene|Summary| First DLBCL study | Other entities | QC result |
 |:-:|:-:|:-:|:-|:-|
@@ -170,7 +171,6 @@ link-citations: true
 |[CD74](CD74)|Tier 2 GE[@arthurGenomewideDiscoverySomatic2018]|[Arthur et al](papers/arthurGenomewideDiscoverySomatic2018)|||
 |[CDH9](CDH9)|Tier 2 GE[@morinMutationalStructuralAnalysis2013]|[Morin et al](papers/morinMutationalStructuralAnalysis2013)||PASS|
 |[CEP164](CEP164)|Tier 2 GE[@albuquerqueEnhancingKnowledgeDiscovery2017a]|[Albuquerque et al](papers/albuquerqueEnhancingKnowledgeDiscovery2017a)|||
-|[CIITA](CIITA)|Tier 2 GE[@morinFrequentMutationHistonemodifying2011], CE[@guoSGK1MutationStatus2022b]|[Morin et al](papers/morinFrequentMutationHistonemodifying2011)|[@mottokGenomicAlterationsCIITA2015b]||
 |[CNOT2](CNOT2)|Tier 2 GE[@hubschmannMutationalMechanismsShaping2021b]|[Hubschmann et al](papers/hubschmannMutationalMechanismsShaping2021b)||PASS|
 |[CNTNAP5](CNTNAP5)|Tier 2 GE[@morinMutationalStructuralAnalysis2013]|[Morin et al](papers/morinMutationalStructuralAnalysis2013)||PASS|
 |[COQ7](COQ7)|Tier 2 GE[@chapuyMolecularSubtypesDiffuse2018b]|[Chapuy et al](papers/chapuyMolecularSubtypesDiffuse2018b)||PASS|
