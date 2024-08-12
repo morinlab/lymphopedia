@@ -3,6 +3,7 @@
 config:
   sankey:
     showValues: true
+    linkColor: target
     width: 600
     nodeAlignment: right
 ---
