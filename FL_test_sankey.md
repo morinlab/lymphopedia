@@ -9,7 +9,7 @@ config:
 sankey-beta
 FL, GC-like, 56
 FL, MEM-like, 50
-GC-like, cFL, 19 
 GC-like, dFL, 37 
-MEM-like, cFL, 33 
+GC-like, cFL, 19 
 MEM-like, dFL, 17 
+MEM-like, cFL, 33 
