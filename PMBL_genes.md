@@ -137,7 +137,7 @@ link-citations: true
 |[OSBPL10](OSBPL10)|Tier 2 GE, aSHM||[@zhangGeneticHeterogeneityDiffuse2013]||
 |[P2RY8](P2RY8)|Tier 2 GE, FE[@muppidiLossSignalingGa132014]||[@drevalGeneticSubdivisionsFollicular2023; @lohrDiscoveryPrioritizationSomatic2012; @muppidiLossSignalingGa132014]||
 |[PCBP1](PCBP1)|Tier 2 GE||[@schmitzBurkittLymphomaPathogenesis2012]||
-|[PCDH7](PCDH7)|Tier 2 GE[@]||[@zhangGeneticHeterogeneityDiffuse2013]||
+|[PCDH7](PCDH7)|Tier 2 GE[@gomezUltraDeepSequencingReveals2023]|[Gomez et al](papers/gomezUltraDeepSequencingReveals2023)|[@zhangGeneticHeterogeneityDiffuse2013]||
 |[PCLO](PCLO)|Tier 2 GE||[@lohrDiscoveryPrioritizationSomatic2012]||
 |[PHIP](PHIP)|Tier 2 GE||||
 |[PRKDC](PRKDC)|Tier 2 GE||[@hubschmannMutationalMechanismsShaping2021; @schmitzGeneticsPathogenesisDiffuse2018]||
@@ -151,7 +151,7 @@ link-citations: true
 |[RGS1](RGS1)|Tier 2 GE[@mottokIntegrativeGenomicAnalysis2019]|[Mottok et al](papers/mottokIntegrativeGenomicAnalysis2019)|[@zhangGeneticHeterogeneityDiffuse2013]||
 |[RHOA](RHOA)|Tier 2 GE, FE[@ohayreInactivatingMutationsGNA132016]||[@richterRecurrentMutationID32012; @zhangGeneticHeterogeneityDiffuse2013]||
 |[S1PR2](S1PR2)|Tier 2 GE, FE[@muppidiLossSignalingGa132014], aSHM||[@drevalGeneticSubdivisionsFollicular2023; @morinFrequentMutationHistonemodifying2011; @muppidiLossSignalingGa132014]||
-|[SCN9A](SCN9A)|Tier 2 GE[@]||||
+|[SCN9A](SCN9A)|Tier 2 GE[@gomezUltraDeepSequencingReveals2023]|[Gomez et al](papers/gomezUltraDeepSequencingReveals2023)|||
 |[SENP7](SENP7)|Tier 2 GE[@reichelFlowSortingExome2015]|[Reichel et al](papers/reichelFlowSortingExome2015)|||
 |[SETD5](SETD5)|Tier 2 GE[@tiacciPervasiveMutationsJAKSTAT2018]|[Tiacci et al](papers/tiacciPervasiveMutationsJAKSTAT2018)|[@reddyGeneticFunctionalDrivers2017]||
 |[SETDB1](SETDB1)|Tier 2 GE[@reichelFlowSortingExome2015]|[Reichel et al](papers/reichelFlowSortingExome2015)|||
@@ -162,7 +162,7 @@ link-citations: true
 |[SMARCA4](SMARCA4)|Tier 2 GE, FE[@fernandoFunctionalCharacterizationSMARCA42020]||[@krysiakRecurrentSomaticMutations2017; @nadeuGenomicEpigenomicInsights2020b; @reddyGeneticFunctionalDrivers2017; @richterRecurrentMutationID32012]||
 |[STAT3](STAT3)|Tier 2 GE, FE[@huNovelMissenseM206K2013]||[@morinFrequentMutationHistonemodifying2011]||
 |[STAT5B](STAT5B)|Tier 2 GE[@tiacciPervasiveMutationsJAKSTAT2018]|[Tiacci et al](papers/tiacciPervasiveMutationsJAKSTAT2018)|[@reddyGeneticFunctionalDrivers2017]||
-|[STRAP](STRAP)|Tier 2 GE[@]||||
+|[STRAP](STRAP)|Tier 2 GE[@gomezUltraDeepSequencingReveals2023]|[Gomez et al](papers/gomezUltraDeepSequencingReveals2023)|||
 |[TAP1](TAP1)|Tier 2 GE||[@schmitzGeneticsPathogenesisDiffuse2018]||
 |[TBC1D15](TBC1D15)|Tier 2 GE[@reichelFlowSortingExome2015]|[Reichel et al](papers/reichelFlowSortingExome2015)|||
 |[TBL1XR1](TBL1XR1)|Tier 2 GE, FE[@venturuttiTBL1XR1MutationsDrive2020]||[@drevalGeneticSubdivisionsFollicular2023; @lohrDiscoveryPrioritizationSomatic2012; @rossiCodingGenomeSplenic2012]||
