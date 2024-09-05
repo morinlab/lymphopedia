@@ -145,7 +145,7 @@ link-citations: true
 |[PTPRD](PTPRD)|Tier 2 GE||[@drevalGeneticSubdivisionsFollicular2023; @spinaGeneticsNodalMarginal2016]||
 |[RANBP2](RANBP2)|Tier 2 GE[@reichelFlowSortingExome2015]|[Reichel et al](papers/reichelFlowSortingExome2015)|||
 |[RBM38](RBM38)|Tier 2 GE[@wienandGenomicAnalysesFlowsorted2019]|[Wienand et al](papers/wienandGenomicAnalysesFlowsorted2019)|||
-|[RDH12](RDH12)|Tier 2 GE[@]||||
+|[RDH12](RDH12)|Tier 2 GE[@gomezUltraDeepSequencingReveals2023]|[Gomez et al](papers/gomezUltraDeepSequencingReveals2023)|||
 |[RELN](RELN)|Tier 2 GE[@sarkozyMutationalLandscapeGray2021]|[Sarkozy et al](papers/sarkozyMutationalLandscapeGray2021)|[@zhangGeneticHeterogeneityDiffuse2013]||
 |[RFTN1](RFTN1)|Tier 2 GE[@dunsCharacterizationDLBCLPMBL2021], aSHM|[Duns et al](papers/dunsCharacterizationDLBCLPMBL2021)|[@arthurGenomewideDiscoverySomatic2018]||
 |[RGS1](RGS1)|Tier 2 GE[@mottokIntegrativeGenomicAnalysis2019]|[Mottok et al](papers/mottokIntegrativeGenomicAnalysis2019)|[@zhangGeneticHeterogeneityDiffuse2013]||
