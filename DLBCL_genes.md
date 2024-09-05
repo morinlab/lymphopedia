@@ -113,7 +113,7 @@ link-citations: true
 |[RB1](RB1)|Tier 1 GE[@morinMutationalStructuralAnalysis2013], FE[@pinyolInactivationRB1Mantlecell2007]|[Morin et al](papers/morinMutationalStructuralAnalysis2013)|[@zhangGenomicLandscapeMantle2014]||
 |[RFX7](RFX7)|Tier 1 GE[@arthurGenomewideDiscoverySomatic2018], FE[@weberPiggyBacTransposonTools2019]|[Arthur et al](papers/arthurGenomewideDiscoverySomatic2018)|[@grandeGenomewideDiscoverySomatic2019]||
 |[RHOA](RHOA)|Tier 1 GE[@zhangGeneticHeterogeneityDiffuse2013], FE[@ohayreInactivatingMutationsGNA132016]|[Zhang et al](papers/zhangGeneticHeterogeneityDiffuse2013)|[@richterRecurrentMutationID32012]||
-|[RRAGC](RRAGC)|Tier 1 GE[@okosunRecurrentMTORC1activatingRRAGC2016], FE[@okosunRecurrentMTORC1activatingRRAGC2016]|[Okosun et al](papers/okosunRecurrentMTORC1activatingRRAGC2016)|[@okosunRecurrentMTORC1activatingRRAGC2016a]||
+|[RRAGC](RRAGC)|Tier 1 GE[@okosunRecurrentMTORC1activatingRRAGC2016], FE[@okosunRecurrentMTORC1activatingRRAGC2016]|[Okosun et al](papers/okosunRecurrentMTORC1activatingRRAGC2016)|||
 |[S1PR2](S1PR2)|Tier 1 GE[@morinFrequentMutationHistonemodifying2011], FE[@muppidiLossSignalingGa132014], aSHM|[Morin et al](papers/morinFrequentMutationHistonemodifying2011)|[@drevalGeneticSubdivisionsFollicular2023; @muppidiLossSignalingGa132014]||
 |[SETD1B](SETD1B)|Tier 1 GE[@albuquerqueEnhancingKnowledgeDiscovery2017], FE[@]|[Albuquerque et al](papers/albuquerqueEnhancingKnowledgeDiscovery2017)|||
 |[SF3B1](SF3B1)|Tier 1 GE[@reddyGeneticFunctionalDrivers2017], FE[@cazzolaBiologicClinicalSignificance2013]|[Reddy et al](papers/reddyGeneticFunctionalDrivers2017)|[@loveGeneticLandscapeMutations2012]||
