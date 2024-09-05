@@ -57,7 +57,7 @@ link-citations: true
 |[ADAMTS5](ADAMTS5)|Tier 2 GE[@burkhardtClinicalRelevanceMolecular2022]|[Burkhardt et al](papers/burkhardtClinicalRelevanceMolecular2022)|||
 |[ADNP](ADNP)|Tier 2 GE[@burkhardtClinicalRelevanceMolecular2022]|[Burkhardt et al](papers/burkhardtClinicalRelevanceMolecular2022)|||
 |[AGO4](AGO4)|Tier 2 GE[@burkhardtClinicalRelevanceMolecular2022]|[Burkhardt et al](papers/burkhardtClinicalRelevanceMolecular2022)|||
-|[ARHGEF1](ARHGEF1)|Tier 2 GE[@muppidiLossSignalingGa132014b]|[Muppidi et al](papers/muppidiLossSignalingGa132014b)|||
+|[ARHGEF1](ARHGEF1)|Tier 2 GE[@muppidiLossSignalingGa132014]|[Muppidi et al](papers/muppidiLossSignalingGa132014)|||
 |[BCL2](BCL2)|Tier 2 GE[@burkhardtClinicalRelevanceMolecular2022], aSHM|[Burkhardt et al](papers/burkhardtClinicalRelevanceMolecular2022)|[@morinFrequentMutationHistonemodifying2011; @sarkozyMutationalLandscapeGray2021; @tanakaFrequentIncidenceSomatic1992]||
 |[BTG1](BTG1)|Tier 2 GE[@burkhardtClinicalRelevanceMolecular2022], FE[@almasmoumFrequentLossBTG12021], aSHM|[Burkhardt et al](papers/burkhardtClinicalRelevanceMolecular2022)|[@drevalGeneticSubdivisionsFollicular2023; @morinFrequentMutationHistonemodifying2011; @sarkozyMutationalLandscapeGray2021]||
 |[C16orf48](C16orf48)|Tier 2 GE[@schmitzBurkittLymphomaPathogenesis2012]|[Schmitz et al](papers/schmitzBurkittLymphomaPathogenesis2012)|||
