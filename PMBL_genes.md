@@ -11,7 +11,7 @@ link-citations: true
 
 ## Tier 1, high-confidence PMBL genes
 
-### *76 total*
+### *74 total*
 
 |Gene|Summary| First PMBL study | Other entities | QC result |
 |:-:|:--:|:-:|:-|:-|
@@ -23,8 +23,6 @@ link-citations: true
 |[BTG1](BTG1)|Tier 1 GE[@sarkozyMutationalLandscapeGray2021], FE[@almasmoumFrequentLossBTG12021], aSHM|[Sarkozy et al](papers/sarkozyMutationalLandscapeGray2021)|[@burkhardtClinicalRelevanceMolecular2022; @drevalGeneticSubdivisionsFollicular2023; @morinFrequentMutationHistonemodifying2011]||
 |[CD58](CD58)|Tier 1 GE[@schneiderAlterationsCD58Gene2015], FE[@challa-malladiCombinedGeneticInactivation2011]|[Schneider et al](papers/schneiderAlterationsCD58Gene2015)|[@morinFrequentMutationHistonemodifying2011]||
 |[CD83](CD83)|Tier 1 GE[@dunsCharacterizationDLBCLPMBL2021], aSHM|[Duns et al](papers/dunsCharacterizationDLBCLPMBL2021)|[@morinMutationalStructuralAnalysis2013; @paneaWholeGenomeLandscape2019; @russler-germainMutationsAssociatedProgression2023]||
-|[CDKN2A](CDKN2A)|Tier 1 GE[@], FE[@kannengiesserFunctionalStructuralGenetic2009]||[@grandeGenomewideDiscoverySomatic2019; @morinMutationalStructuralAnalysis2013; @spinaGeneticsNodalMarginal2016]||
-|[CHD8](CHD8)|Tier 1 GE[@]||[@grandeGenomewideDiscoverySomatic2019]||
 |[CIITA](CIITA)|Tier 1 GE[@mottokGenomicAlterationsCIITA2015], FE[@mottokGenomicAlterationsCIITA2015], aSHM|[Mottok et al](papers/mottokGenomicAlterationsCIITA2015)|[@morinFrequentMutationHistonemodifying2011]||
 |[CISH](CISH)|Tier 1 GE[@mottokIntegrativeGenomicAnalysis2019]|[Mottok et al](papers/mottokIntegrativeGenomicAnalysis2019)|||
 |[CREBBP](CREBBP)|Tier 1 GE[@dunsCharacterizationDLBCLPMBL2021], FE[@pasqualucciInactivatingMutationsAcetyltransferase2011]|[Duns et al](papers/dunsCharacterizationDLBCLPMBL2021)|[@loveGeneticLandscapeMutations2012; @parryWholeExomeSequencing2013; @pasqualucciInactivatingMutationsAcetyltransferase2011]||
@@ -94,7 +92,7 @@ link-citations: true
 
 ## Tier 2, low-confidence PMBL genes
 
-### *82 total*
+### *84 total*
 
 |Gene|Summary| First PMBL study | Other entities | QC result |
 |:-:|:--:|:-:|:-|:-|
@@ -109,6 +107,8 @@ link-citations: true
 |[CCND3](CCND3)|Tier 2 GE[@deschGenotypingCirculatingTumor2020], FE[@schmitzBurkittLymphomaPathogenesis2012]|[Desch et al](papers/deschGenotypingCirculatingTumor2020)|[@jalladesExomeSequencingIdentifies2017; @morinFrequentMutationHistonemodifying2011; @richterRecurrentMutationID32012]||
 |[CDH2](CDH2)|Tier 2 GE[@deschGenotypingCirculatingTumor2020]|[Desch et al](papers/deschGenotypingCirculatingTumor2020)|||
 |[CDH5](CDH5)|Tier 2 GE[@gomezUltraDeepSequencingReveals2023]|[Gomez et al](papers/gomezUltraDeepSequencingReveals2023)|||
+|[CDKN2A](CDKN2A)|Tier 2 GE, FE[@kannengiesserFunctionalStructuralGenetic2009]||[@grandeGenomewideDiscoverySomatic2019; @morinMutationalStructuralAnalysis2013; @spinaGeneticsNodalMarginal2016]||
+|[CHD8](CHD8)|Tier 2 GE||[@grandeGenomewideDiscoverySomatic2019]||
 |[CXCR5](CXCR5)|Tier 2 GE[@mottokIntegrativeGenomicAnalysis2019]|[Mottok et al](papers/mottokIntegrativeGenomicAnalysis2019)|[@schmitzGeneticsPathogenesisDiffuse2018]||
 |[DGKB](DGKB)|Tier 2 GE[@tiacciPervasiveMutationsJAKSTAT2018]|[Tiacci et al](papers/tiacciPervasiveMutationsJAKSTAT2018)|||
 |[DMD](DMD)|Tier 2 GE[@reichelFlowSortingExome2015]|[Reichel et al](papers/reichelFlowSortingExome2015)|||
