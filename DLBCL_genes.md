@@ -122,7 +122,7 @@ link-citations: true
 |[SMARCA4](SMARCA4)|Tier 1 GE[@reddyGeneticFunctionalDrivers2017], FE[@fernandoFunctionalCharacterizationSMARCA42020]|[Reddy et al](papers/reddyGeneticFunctionalDrivers2017)|[@krysiakRecurrentSomaticMutations2017; @nadeuGenomicEpigenomicInsights2020b; @richterRecurrentMutationID32012]||
 |[SOCS1](SOCS1)|Tier 1 GE[@morinFrequentMutationHistonemodifying2011], FE[@melznerBiallelicMutationSOCS12005], aSHM|[Morin et al](papers/morinFrequentMutationHistonemodifying2011)|[@drevalGeneticSubdivisionsFollicular2023; @wenigerMutationsTumorSuppressor2006]||
 |[SPEN](SPEN)|Tier 1 GE[@albuquerqueEnhancingKnowledgeDiscovery2017]|[Albuquerque et al](papers/albuquerqueEnhancingKnowledgeDiscovery2017)|[@rossiCodingGenomeSplenic2012; @sarkozyMutationalLandscapeGray2021]||
-|[STAT3](STAT3)|Tier 1 GE[@morinFrequentMutationHistonemodifying2011], FE[@huNovelMissenseM206K2013a]|[Morin et al](papers/morinFrequentMutationHistonemodifying2011)|||
+|[STAT3](STAT3)|Tier 1 GE[@morinFrequentMutationHistonemodifying2011], FE[@huNovelMissenseM206K2013]|[Morin et al](papers/morinFrequentMutationHistonemodifying2011)|||
 |[STAT6](STAT6)|Tier 1 GE[@yildizActivatingSTAT6Mutations2015c], FE[@mentzPARP14NovelTarget2022]|[Yildiz et al](papers/yildizActivatingSTAT6Mutations2015c)|[@ritzRecurrentMutationsSTAT62009; @yildizActivatingSTAT6Mutations2015]||
 |[TAF1](TAF1)|Tier 1 GE[@morinMutationalStructuralAnalysis2013]|[Morin et al](papers/morinMutationalStructuralAnalysis2013)|[@spinaGeneticsNodalMarginal2016]||
 |[TBL1XR1](TBL1XR1)|Tier 1 GE[@lohrDiscoveryPrioritizationSomatic2012], FE[@venturuttiTBL1XR1MutationsDrive2020]|[Lohr et al](papers/lohrDiscoveryPrioritizationSomatic2012)|[@drevalGeneticSubdivisionsFollicular2023; @rossiCodingGenomeSplenic2012]||
