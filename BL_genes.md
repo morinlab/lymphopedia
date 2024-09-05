@@ -101,7 +101,7 @@ link-citations: true
 |[MYO18A](MYO18A)|Tier 2 GE[@schmitzBurkittLymphomaPathogenesis2012]|[Schmitz et al](papers/schmitzBurkittLymphomaPathogenesis2012)|||
 |[NBEAL1](NBEAL1)|Tier 2 GE[@loveGeneticLandscapeMutations2012]|[Love et al](papers/loveGeneticLandscapeMutations2012)||PASS|
 |[NCOR2](NCOR2)|Tier 2 GE[@schmitzBurkittLymphomaPathogenesis2012]|[Schmitz et al](papers/schmitzBurkittLymphomaPathogenesis2012)|[@sarkozyMutationalLandscapeGray2021; @spinaGeneticsNodalMarginal2016]||
-|[NOA1](NOA1)|Tier 2 GE[@burkhardtClinicalRelevanceMolecular2022b]|[Burkhardt et al](papers/burkhardtClinicalRelevanceMolecular2022b)|||
+|[NOA1](NOA1)|Tier 2 GE[@burkhardtClinicalRelevanceMolecular2022]|[Burkhardt et al](papers/burkhardtClinicalRelevanceMolecular2022)|||
 |[P2RY2](P2RY2)|Tier 2 GE[@loveGeneticLandscapeMutations2012]|[Love et al](papers/loveGeneticLandscapeMutations2012)||PASS|
 |[PDCD11](PDCD11)|Tier 2 GE[@schmitzBurkittLymphomaPathogenesis2012]|[Schmitz et al](papers/schmitzBurkittLymphomaPathogenesis2012)|||
 |[PIM1](PIM1)|Tier 2 GE[@burkhardtClinicalRelevanceMolecular2022], FE[@kuoRolePIM1Ibrutinibresistant2016], aSHM|[Burkhardt et al](papers/burkhardtClinicalRelevanceMolecular2022)|[@drevalGeneticSubdivisionsFollicular2023; @dunsCharacterizationDLBCLPMBL2021; @pasqualucciHypermutationMultipleProtooncogenes2001]||
