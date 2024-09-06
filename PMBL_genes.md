@@ -7,7 +7,7 @@ link-citations: true
 
 ## Origins of PMBL genes
 
-![](PMBL_sankey-1.svg)
+![](PMBL_sankey1-1.svg)
 
 ## Tier 1, high-confidence PMBL genes
 
