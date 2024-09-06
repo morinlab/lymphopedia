@@ -7,7 +7,7 @@ link-citations: true
 
 ## Origins of MCL genes
 
-![](MCL_sankey-1.svg)
+![](MCL_sankey-1-1.svg)
 
 ## Tier 1, high-confidence MCL genes
 
