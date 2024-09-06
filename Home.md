@@ -282,8 +282,8 @@ PMBL panel, Desch 2020, 10
 |[@morinMutationalStructuralAnalysis2013](papers/morinMutationalStructuralAnalysis2013)|WGS|DLBCL|9|7 (24%)|
 |[@reddyGeneticFunctionalDrivers2017](papers/reddyGeneticFunctionalDrivers2017)|Exome|DLBCL|6|29 (55%)|
 |[@paneaWholeGenomeLandscape2019](papers/paneaWholeGenomeLandscape2019)|Exome/RNA-seq|BL|4|22 (55%)|
-|[@chapuyMolecularSubtypesDiffuse2018b](papers/chapuyMolecularSubtypesDiffuse2018b)|Exome|DLBCL|2| 7 (41%) |
-|[@hubschmannMutationalMechanismsShaping2021b](papers/hubschmannMutationalMechanismsShaping2021b)|WGS|DLBCL,FL|4|3 (9%)|
+|[@chapuyMolecularSubtypesDiffuse2018](papers/chapuyMolecularSubtypesDiffuse2018)|Exome|DLBCL|2| 7 (41%) |
+|[@hubschmannMutationalMechanismsShaping2021](papers/hubschmannMutationalMechanismsShaping2021)|WGS|DLBCL,FL|4|3 (9%)|
 
 ## Categorization of genes
 
