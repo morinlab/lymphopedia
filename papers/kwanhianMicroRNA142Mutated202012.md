@@ -3,12 +3,12 @@ title: ''
 bibliography: 'morinlab.bib'
 ---
 
-# @kwanhianMicroRNA142Mutated202012b
+# @kwanhianMicroRNA142Mutated202012
 ## Summary of novel genes
 
-|Entity| Tier 1 genes| Tier 2 genes|
-|:-:|:-:|:-:|
-|DLBCL|0|1|
+|Entity| Tier 1 genes| Tier 2 genes|Tier 3 genes|
+|:-:|:-:|:-:|:-:|
+|DLBCL|1|0|0|
 ```mermaid
 ---
 config:
@@ -22,18 +22,23 @@ config:
         suffix: ' genes)'
 ---
 sankey-beta
-This study, New Tier 1, 0
-New Tier 1, DLBCL Tier 1, 0
-This study, New Tier 2, 1
-New Tier 2, DLBCL Tier 2, 1
-All other DLBCL studies, DLBCL Tier 1, 128
-All other DLBCL studies, DLBCL Tier 2, 197
+This study, New Tier 1, 1
+New Tier 1, DLBCL Tier 1, 1
+This study, New Tier 2, 0
+New Tier 2, DLBCL Tier 2, 0
+This study, New Tier 3, 0
+New Tier 3, DLBCL Tier 3, 0
+All other DLBCL studies, DLBCL Tier 1, 124
+All other DLBCL studies, DLBCL Tier 2, 210
+All other DLBCL studies, DLBCL Tier 3, 387
 ```
 
-### Tier 2
+## Novel genes reported in this study
+
+### Tier 1
 |New gene|DLBCL tier|
 |:-|:-:|
-|[MIR142](../MIR142)|2 |
+|[MIR142](../MIR142)|1 |
 
 
 # Details

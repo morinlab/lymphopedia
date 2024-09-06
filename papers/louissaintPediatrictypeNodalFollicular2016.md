@@ -3,12 +3,12 @@ title: ''
 bibliography: 'morinlab.bib'
 ---
 
-# @louissaintPediatrictypeNodalFollicular2016a
+# @louissaintPediatrictypeNodalFollicular2016
 ## Summary of novel genes
 
-|Entity| Tier 1 genes| Tier 2 genes|
-|:-:|:-:|:-:|
-|FL|1|0|
+|Entity| Tier 1 genes| Tier 2 genes|Tier 3 genes|
+|:-:|:-:|:-:|:-:|
+|FL|1|0|0|
 ```mermaid
 ---
 config:
@@ -26,8 +26,11 @@ This study, New Tier 1, 1
 New Tier 1, FL Tier 1, 1
 This study, New Tier 2, 0
 New Tier 2, FL Tier 2, 0
-All other FL studies, FL Tier 1, 65
-All other FL studies, FL Tier 2, 50
+This study, New Tier 3, 0
+New Tier 3, FL Tier 3, 0
+All other FL studies, FL Tier 1, 53
+All other FL studies, FL Tier 2, 59
+All other FL studies, FL Tier 3, 0
 ```
 
 ## Novel genes reported in this study

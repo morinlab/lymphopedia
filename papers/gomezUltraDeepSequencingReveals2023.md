@@ -6,9 +6,9 @@ bibliography: 'morinlab.bib'
 # @gomezUltraDeepSequencingReveals2023
 ## Summary of novel genes
 
-|Entity| Tier 1 genes| Tier 2 genes|
-|:-:|:-:|:-:|
-|PMBL|2|5|
+|Entity| Tier 1 genes| Tier 2 genes|Tier 3 genes|
+|:-:|:-:|:-:|:-:|
+|PMBL|2|9|0|
 ```mermaid
 ---
 config:
@@ -24,10 +24,13 @@ config:
 sankey-beta
 This study, New Tier 1, 2
 New Tier 1, PMBL Tier 1, 2
-This study, New Tier 2, 5
-New Tier 2, PMBL Tier 2, 5
-All other PMBL studies, PMBL Tier 1, 74
-All other PMBL studies, PMBL Tier 2, 77
+This study, New Tier 2, 9
+New Tier 2, PMBL Tier 2, 9
+This study, New Tier 3, 0
+New Tier 3, PMBL Tier 3, 0
+All other PMBL studies, PMBL Tier 1, 44
+All other PMBL studies, PMBL Tier 2, 103
+All other PMBL studies, PMBL Tier 3, 0
 ```
 
 ## Novel genes reported in this study
@@ -46,6 +49,10 @@ All other PMBL studies, PMBL Tier 2, 77
 |[HLA-C](../HLA-C)|2 |
 |[LIMD2](../LIMD2)|2 |
 |[OR13C2](../OR13C2)|2 |
+|[PCDH7](../PCDH7)|2 |
+|[RDH12](../RDH12)|2 |
+|[SCN9A](../SCN9A)|2 |
+|[STRAP](../STRAP)|2 |
 
 
 # Details

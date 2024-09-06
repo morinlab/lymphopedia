@@ -3,12 +3,12 @@ title: ''
 bibliography: 'morinlab.bib'
 ---
 
-# @spinaGeneticsNodalMarginal2016b
+# @spinaGeneticsNodalMarginal2016
 ## Summary of novel genes
 
-|Entity| Tier 1 genes| Tier 2 genes|
-|:-:|:-:|:-:|
-|MZL|8|23|
+|Entity| Tier 1 genes| Tier 2 genes|Tier 3 genes|
+|:-:|:-:|:-:|:-:|
+|MZL|8|23|0|
 ```mermaid
 ---
 config:
@@ -26,8 +26,11 @@ This study, New Tier 1, 8
 New Tier 1, MZL Tier 1, 8
 This study, New Tier 2, 23
 New Tier 2, MZL Tier 2, 23
+This study, New Tier 3, 0
+New Tier 3, MZL Tier 3, 0
 All other MZL studies, MZL Tier 1, 34
 All other MZL studies, MZL Tier 2, 51
+All other MZL studies, MZL Tier 3, 0
 ```
 
 ## Novel genes reported in this study
@@ -56,6 +59,7 @@ All other MZL studies, MZL Tier 2, 51
 |[CDC42BPB](../CDC42BPB)|2 |
 |[CDKN2A](../CDKN2A)|2 |
 |[CLGN](../CLGN)|2 |
+|[CNBP](../CNBP)|2 |
 |[CNKSR2](../CNKSR2)|2 |
 |[GPR98](../GPR98)|2 |
 |[LRP1B](../LRP1B)|2 |
@@ -69,7 +73,6 @@ All other MZL studies, MZL Tier 2, 51
 |[STXBP5](../STXBP5)|2 |
 |[TAF1](../TAF1)|2 |
 |[TCTN2](../TCTN2)|2 |
-|[ZNF9](../ZNF9)|2 |
 
 
 # Details

@@ -3,12 +3,12 @@ title: ''
 bibliography: 'morinlab.bib'
 ---
 
-# @reichelFlowSortingExome2015a
+# @reichelFlowSortingExome2015
 ## Summary of novel genes
 
-|Entity| Tier 1 genes| Tier 2 genes|
-|:-:|:-:|:-:|
-|PMBL|11|18|
+|Entity| Tier 1 genes| Tier 2 genes|Tier 3 genes|
+|:-:|:-:|:-:|:-:|
+|PMBL|11|18|0|
 ```mermaid
 ---
 config:
@@ -26,8 +26,11 @@ This study, New Tier 1, 11
 New Tier 1, PMBL Tier 1, 11
 This study, New Tier 2, 18
 New Tier 2, PMBL Tier 2, 18
-All other PMBL studies, PMBL Tier 1, 65
-All other PMBL studies, PMBL Tier 2, 64
+This study, New Tier 3, 0
+New Tier 3, PMBL Tier 3, 0
+All other PMBL studies, PMBL Tier 1, 35
+All other PMBL studies, PMBL Tier 2, 94
+All other PMBL studies, PMBL Tier 3, 0
 ```
 
 ## Novel genes reported in this study

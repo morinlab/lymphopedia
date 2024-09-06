@@ -3,12 +3,12 @@ title: ''
 bibliography: 'morinlab.bib'
 ---
 
-# @richterRecurrentMutationID32012a
+# @richterRecurrentMutationID32012
 ## Summary of novel genes
 
-|Entity| Tier 1 genes| Tier 2 genes|
-|:-:|:-:|:-:|
-|BL|5|0|
+|Entity| Tier 1 genes| Tier 2 genes|Tier 3 genes|
+|:-:|:-:|:-:|:-:|
+|BL|5|0|0|
 ```mermaid
 ---
 config:
@@ -26,8 +26,11 @@ This study, New Tier 1, 5
 New Tier 1, BL Tier 1, 5
 This study, New Tier 2, 0
 New Tier 2, BL Tier 2, 0
-All other BL studies, BL Tier 1, 24
-All other BL studies, BL Tier 2, 157
+This study, New Tier 3, 0
+New Tier 3, BL Tier 3, 0
+All other BL studies, BL Tier 1, 27
+All other BL studies, BL Tier 2, 72
+All other BL studies, BL Tier 3, 70
 ```
 
 ## Novel genes reported in this study

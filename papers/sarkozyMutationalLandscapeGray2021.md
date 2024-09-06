@@ -3,12 +3,12 @@ title: ''
 bibliography: 'morinlab.bib'
 ---
 
-# @sarkozyMutationalLandscapeGray2021a
+# @sarkozyMutationalLandscapeGray2021
 ## Summary of novel genes
 
-|Entity| Tier 1 genes| Tier 2 genes|
-|:-:|:-:|:-:|
-|PMBL|5|6|
+|Entity| Tier 1 genes| Tier 2 genes|Tier 3 genes|
+|:-:|:-:|:-:|:-:|
+|PMBL|5|6|0|
 ```mermaid
 ---
 config:
@@ -26,8 +26,11 @@ This study, New Tier 1, 5
 New Tier 1, PMBL Tier 1, 5
 This study, New Tier 2, 6
 New Tier 2, PMBL Tier 2, 6
-All other PMBL studies, PMBL Tier 1, 71
-All other PMBL studies, PMBL Tier 2, 76
+This study, New Tier 3, 0
+New Tier 3, PMBL Tier 3, 0
+All other PMBL studies, PMBL Tier 1, 41
+All other PMBL studies, PMBL Tier 2, 106
+All other PMBL studies, PMBL Tier 3, 0
 ```
 
 ## Novel genes reported in this study

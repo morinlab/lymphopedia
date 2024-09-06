@@ -3,12 +3,12 @@ title: ''
 bibliography: 'morinlab.bib'
 ---
 
-# @wenigerMutationsTumorSuppressor2006a
+# @wenigerMutationsTumorSuppressor2006
 ## Summary of novel genes
 
-|Entity| Tier 1 genes| Tier 2 genes|
-|:-:|:-:|:-:|
-|PMBL|1|1|
+|Entity| Tier 1 genes| Tier 2 genes|Tier 3 genes|
+|:-:|:-:|:-:|:-:|
+|PMBL|1|1|0|
 ```mermaid
 ---
 config:
@@ -26,8 +26,11 @@ This study, New Tier 1, 1
 New Tier 1, PMBL Tier 1, 1
 This study, New Tier 2, 1
 New Tier 2, PMBL Tier 2, 1
-All other PMBL studies, PMBL Tier 1, 75
-All other PMBL studies, PMBL Tier 2, 81
+This study, New Tier 3, 0
+New Tier 3, PMBL Tier 3, 0
+All other PMBL studies, PMBL Tier 1, 45
+All other PMBL studies, PMBL Tier 2, 111
+All other PMBL studies, PMBL Tier 3, 0
 ```
 
 ## Novel genes reported in this study

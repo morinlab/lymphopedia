@@ -8,7 +8,7 @@ bibliography: 'morinlab.bib'
 
 |Entity| Tier 1 genes| Tier 2 genes|Tier 3 genes|
 |:-:|:-:|:-:|:-:|
-|DLBCL|9|21|7|
+|DLBCL|9|23|7|
 ```mermaid
 ---
 config:
@@ -24,13 +24,13 @@ config:
 sankey-beta
 This study, New Tier 1, 9
 New Tier 1, DLBCL Tier 1, 9
-This study, New Tier 2, 21
-New Tier 2, DLBCL Tier 2, 21
+This study, New Tier 2, 23
+New Tier 2, DLBCL Tier 2, 23
 This study, New Tier 3, 7
 New Tier 3, DLBCL Tier 3, 7
-All other DLBCL studies, DLBCL Tier 1, 120
-All other DLBCL studies, DLBCL Tier 2, 157
-All other DLBCL studies, DLBCL Tier 3, 378
+All other DLBCL studies, DLBCL Tier 1, 116
+All other DLBCL studies, DLBCL Tier 2, 187
+All other DLBCL studies, DLBCL Tier 3, 380
 ```
 
 ## Novel genes reported in this study
@@ -52,9 +52,11 @@ All other DLBCL studies, DLBCL Tier 3, 378
 |New gene|DLBCL tier| Average variant quality | QC outcome |
 |:-|:-:|:-:|:-:|
 |[ABI3BP](../ABI3BP)|2 |&starf; &starf; &starf; &star; &star; |PASS |
+|[ARAP2](../ARAP2)|2 || |
 |[CDH9](../CDH9)|2 |&starf; &starf; &starf; &star; &star; |PASS |
 |[CNTNAP5](../CNTNAP5)|2 |&starf; &starf; &starf; &starf; &star; |PASS |
 |[DNAH5](../DNAH5)|2 |&starf; &starf; &starf; &starf; &star; |PASS |
+|[DSEL](../DSEL)|2 || |
 |[DSG4](../DSG4)|2 |&starf; &starf; &starf; &star; &star; |PASS |
 |[FAT4](../FAT4)|2 |&starf; &starf; &starf; &star; &star; |PASS |
 |[HDAC7](../HDAC7)|2 |&starf; &starf; &starf; &star; &star; |PASS |
@@ -62,7 +64,7 @@ All other DLBCL studies, DLBCL Tier 3, 378
 |[IFNGR1](../IFNGR1)|2 |&starf; &starf; &starf; &starf; &star; |PASS |
 |[MPDZ](../MPDZ)|2 |&starf; &starf; &starf; &starf; &star; |PASS |
 |[NLRP5](../NLRP5)|2 |&starf; &starf; &starf; &star; &star; |PASS |
-|[ODZ3](../ODZ3)|2 |&starf; &starf; &starf; &star; &star; |PASS |
+|[ODZ2](../ODZ2)|2 |&starf; &starf; &starf; &star; &star; |PASS |
 |[P2RX5](../P2RX5)|2 |&starf; &starf; &starf; &star; &star; |PASS |
 |[PASK](../PASK)|2 |&starf; &starf; &starf; &starf; &star; |PASS |
 |[PCDHB11](../PCDHB11)|2 |&starf; &starf; &starf; &star; &star; |PASS |

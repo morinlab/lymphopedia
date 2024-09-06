@@ -3,12 +3,12 @@ title: ''
 bibliography: 'morinlab.bib'
 ---
 
-# @wuGeneticHeterogeneityPrimary2016
+# @thomasMutationalAnalysisIkappaBalpha2004
 ## Summary of novel genes
 
 |Entity| Tier 1 genes| Tier 2 genes|Tier 3 genes|
 |:-:|:-:|:-:|:-:|
-|MCL|1|0|0|
+|DLBCL|1|0|0|
 ```mermaid
 ---
 config:
@@ -23,22 +23,22 @@ config:
 ---
 sankey-beta
 This study, New Tier 1, 1
-New Tier 1, MCL Tier 1, 1
+New Tier 1, DLBCL Tier 1, 1
 This study, New Tier 2, 0
-New Tier 2, MCL Tier 2, 0
+New Tier 2, DLBCL Tier 2, 0
 This study, New Tier 3, 0
-New Tier 3, MCL Tier 3, 0
-All other MCL studies, MCL Tier 1, 22
-All other MCL studies, MCL Tier 2, 46
-All other MCL studies, MCL Tier 3, 0
+New Tier 3, DLBCL Tier 3, 0
+All other DLBCL studies, DLBCL Tier 1, 124
+All other DLBCL studies, DLBCL Tier 2, 210
+All other DLBCL studies, DLBCL Tier 3, 387
 ```
 
 ## Novel genes reported in this study
 
 ### Tier 1
-|New gene|MCL tier|
+|New gene|DLBCL tier|
 |:-|:-:|
-|[CARD11](../CARD11)|1 |
+|[NFKBIA](../NFKBIA)|1 |
 
 
 # Details

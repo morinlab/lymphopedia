@@ -3,12 +3,12 @@ title: ''
 bibliography: 'morinlab.bib'
 ---
 
-# @mottokIntegrativeGenomicAnalysis2019b
+# @mottokIntegrativeGenomicAnalysis2019
 ## Summary of novel genes
 
-|Entity| Tier 1 genes| Tier 2 genes|
-|:-:|:-:|:-:|
-|PMBL|6|15|
+|Entity| Tier 1 genes| Tier 2 genes|Tier 3 genes|
+|:-:|:-:|:-:|:-:|
+|PMBL|6|15|0|
 ```mermaid
 ---
 config:
@@ -26,8 +26,11 @@ This study, New Tier 1, 6
 New Tier 1, PMBL Tier 1, 6
 This study, New Tier 2, 15
 New Tier 2, PMBL Tier 2, 15
-All other PMBL studies, PMBL Tier 1, 70
-All other PMBL studies, PMBL Tier 2, 67
+This study, New Tier 3, 0
+New Tier 3, PMBL Tier 3, 0
+All other PMBL studies, PMBL Tier 1, 40
+All other PMBL studies, PMBL Tier 2, 97
+All other PMBL studies, PMBL Tier 3, 0
 ```
 
 ## Novel genes reported in this study

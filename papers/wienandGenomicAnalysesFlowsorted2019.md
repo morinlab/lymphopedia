@@ -3,12 +3,12 @@ title: ''
 bibliography: 'morinlab.bib'
 ---
 
-# @wienandGenomicAnalysesFlowsorted2019b
+# @wienandGenomicAnalysesFlowsorted2019
 ## Summary of novel genes
 
-|Entity| Tier 1 genes| Tier 2 genes|
-|:-:|:-:|:-:|
-|PMBL|4|3|
+|Entity| Tier 1 genes| Tier 2 genes|Tier 3 genes|
+|:-:|:-:|:-:|:-:|
+|PMBL|4|3|0|
 ```mermaid
 ---
 config:
@@ -26,8 +26,11 @@ This study, New Tier 1, 4
 New Tier 1, PMBL Tier 1, 4
 This study, New Tier 2, 3
 New Tier 2, PMBL Tier 2, 3
-All other PMBL studies, PMBL Tier 1, 72
-All other PMBL studies, PMBL Tier 2, 79
+This study, New Tier 3, 0
+New Tier 3, PMBL Tier 3, 0
+All other PMBL studies, PMBL Tier 1, 42
+All other PMBL studies, PMBL Tier 2, 109
+All other PMBL studies, PMBL Tier 3, 0
 ```
 
 ## Novel genes reported in this study

@@ -6,10 +6,9 @@ bibliography: 'morinlab.bib'
 # @loveGeneticLandscapeMutations2012
 ## Summary of novel genes
 
-|Entity| Total| Tier 1| Tier 2| Tier 2 Pass| Tier 2 Fail| Fail rate |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|BL|60|3|57|9|48| 84% |
-
+|Entity| Tier 1 genes| Tier 2 genes|Tier 3 genes|
+|:-:|:-:|:-:|:-:|
+|BL|5|7|48|
 ```mermaid
 ---
 config:
@@ -23,85 +22,91 @@ config:
         suffix: ' genes)'
 ---
 sankey-beta
-New to this study, BL Tier 1, 3
-New to this study, BL Tier 2, 56
-BL Tier 2, Pass QC, 9
-BL Tier 2, Fail QC, 47
+This study, New Tier 1, 5
+New Tier 1, BL Tier 1, 5
+This study, New Tier 2, 7
+New Tier 2, BL Tier 2, 7
+This study, New Tier 3, 48
+New Tier 3, BL Tier 3, 48
+All other BL studies, BL Tier 1, 27
+All other BL studies, BL Tier 2, 65
+All other BL studies, BL Tier 3, 22
 ```
 
 ## Novel genes reported in this study
 
 ### Tier 1
-|New gene|BL tier|
-|:-|:-:|
-|[ARID1A](../ARID1A)|1 |
-|[GNA13](../GNA13)|1 |
-|[PTEN](../PTEN)|1 |
+|New gene|BL tier| Average variant quality | QC outcome |
+|:-|:-:|:-:|:-:|
+|[ARID1A](../ARID1A)|1 || |
+|[BCL6](../BCL6)|1 |&starf; &starf; &starf; &starf; &star; |PASS |
+|[CREBBP](../CREBBP)|1 |&starf; &starf; &starf; &starf; &star; |PASS |
+|[GNA13](../GNA13)|1 || |
+|[PTEN](../PTEN)|1 || |
 
 ### Tier 2
-|Novel gene|DLBCL tier|Average variant quality|QC outcome|
+|New gene|BL tier| Average variant quality | QC outcome |
 |:-|:-:|:-:|:-:|
-|[BCL6](../BCL6)|2 |&starf; &starf; &starf; &starf; &star;|**Pass**|
-|[CARD4](../CARD4)|2 |&starf; &starf; &starf; &starf; &star;|**Pass**|
-|[CDC73](../CDC73)|2 |&starf; &starf; &starf; &star; &star;|**Pass**|
-|[CREBBP](../CREBBP)|2 |&starf; &starf; &starf; &starf; &star;|**Pass**|
-|[EZH2](../EZH2)|2 |&starf; &starf; &starf; &starf; &starf;|**Pass**|
-|[GGTLA4](../GGTLA4)|2 |&starf; &starf; &starf; &starf; &star;|**Pass**|
-|[P2RY2](../P2RY2)|2 |&starf; &starf; &starf; &starf; &star;|**Pass**|
-|[NBEAL1](../NBEAL1)|2 |&starf; &starf; &starf; &starf; &star;|**Pass**|
-|[RANBP6](../RANBP6)|2 |&starf; &starf; &starf; &starf; &starf;|**Pass**|
-|[ACAD9](../ACAD9)|2 |&starf; &star; &star; &star; &star;|**Fail**|
-|[ACE](../ACE)|2 |&starf; &star; &star; &star; &star;|**Fail**|
-|[ATP2C2](../ATP2C2)|2 |&starf; &starf; &star; &star; &star;|**Fail**|
-|[BRAF](../BRAF)|2 |&starf; &star; &star; &star; &star;|**Fail**|
-|[BRD4](../BRD4)|2 |&starf; &star; &star; &star; &star;|**Fail**|
-|[BTG2](../BTG2)|2 |&starf; &star; &star; &star; &star;|**Fail**|
-|[C6orf27](../C6orf27)|2 |*Germline*|**Fail**|
-|[CAD](../CAD)|2 |&starf; &star; &star; &star; &star;|**Fail**|
-|[CCT6B](../CCT6B)|2 |*Germline*|**Fail**|
-|[CDH17](../CDH17)|2 |&starf; &star; &star; &star; &star;|**Fail**|
-|[COL4A2](../COL4A2)|2 |&starf; &star; &star; &star; &star;|**Fail**|
-|[CYB5D1](../CYB5D1)|2 |&starf; &starf; &star; &star; &star;|**Fail**|
-|[CYP4F22](../CYP4F22)|2 |&starf; &star; &star; &star; &star;|**Fail**|
-|[DLGAP1](../DLGAP1)|2 |&starf; &star; &star; &star; &star;|**Fail**|
-|[DTX1](../DTX1)|2|&starf; &star; &star; &star; &star;|**Fail**|
-|[EIF2C4](../EIF2C4)|2 |&starf; &star; &star; &star; &star;|**Fail**|
-|[EML2](../EML2)|2 |&starf; &star; &star; &star; &star;|**Fail**|
-|[ENTPD3](../ENTPD3)|2 |&starf; &starf; &star; &star; &star;|**Fail**|
-|[EPHB2](../EPHB2)|2 |&starf; &starf; &star; &star; &star;|**Fail**|
-|[FAM129B](../FAM129B)|2 |&starf; &starf; &star; &star; &star;|**Fail**|
-|[FGFR3](../FGFR3)|2 |&starf; &star; &star; &star; &star;|**Fail**|
-|[FTCD](../FTCD)|2 |*Germline*|**Fail**|
-|[GRIK5](../GRIK5)|2 |&starf; &star; &star; &star; &star;|**Fail**|
-|[ICK](../ICK)|2 |&starf; &star; &star; &star; &star;|**Fail**|
-|[ITPR3](../ITPR3)|2 |&starf; &star; &star; &star; &star;|**Fail**|
-|[KIFC3](../KIFC3)|2 |&starf; &star; &star; &star; &star;|**Fail**|
-|[MAP3K6](../MAP3K6)|2 |&starf; &star; &star; &star; &star;|**Fail**|
-|[MYH10](../MYH10)|2 |&starf; &star; &star; &star; &star;|**Fail**|
-|[NOTCH1](../NOTCH1)|2 |&starf; &star; &star; &star; &star;|**Fail**|
-|[NRXN2](../NRXN2)|2 |&starf; &star; &star; &star; &star;|**Fail**|
-|[PC](../PC)|2 |&starf; &star; &star; &star; &star;|**Fail**|
-|[POLRMT](../POLRMT)|2 |&starf; &star; &star; &star; &star;|**Fail**|
-|[POR](../POR)|2 |&starf; &star; &star; &star; &star;|**Fail**|
-|[PRSS22](../PRSS22)|2 |&starf; &star; &star; &star; &star;|**Fail**|
-|[PTPRN](../PTPRN)|2 |&starf; &star; &star; &star; &star;|**Fail**|
-|[RBP3](../RBP3)|2 |&starf; &star; &star; &star; &star;|**Fail**|
-|[RET](../RET)|2 |&starf; &star; &star; &star; &star;|**Fail**|
-|[SALL3](../SALL3)|2 |&starf; &starf; &star; &star; &star;|**Fail**|
-|[SAPS2](../SAPS2)|2 |&starf; &star; &star; &star; &star;|**Fail**|
-|[SBF1](../SBF1)|2 |&starf; &starf; &star; &star; &star;|**Fail**|
-|[SF3B1](../SF3B1)|2 |&starf; &starf; &starf; &starf; &star;|**Fail**|
-|[SHANK1](../SHANK1)|2 |&starf; &star; &star; &star; &star;|**Fail**|
-|[SLC29A2](../SLC29A2)|2 |&starf; &star; &star; &star; &star;|**Fail**|
-|[SYNGAP1](../SYNGAP1)|2 |&starf; &star; &star; &star; &star;|**Fail**|
-|[TBC1D9B](../TBC1D9B)|2 |&starf; &star; &star; &star; &star;|**Fail**|
-|[TIGD6](../TIGD6)|2 |&starf; &star; &star; &star; &star;|**Fail**|
-|[TPST2](../TPST2)|2 |&star; &star; &star; &star; &star;|**Fail**|
-|[ZNF229](../ZNF229)|2 |*Germline*|**Fail**|
+|[CARD4](../CARD4)|2 |&starf; &starf; &starf; &starf; &star; |PASS |
+|[CDC73](../CDC73)|2 |&starf; &starf; &starf; &star; &star; |PASS |
+|[EZH2](../EZH2)|2 |&starf; &starf; &starf; &starf; &starf; |PASS |
+|[GGTLA4](../GGTLA4)|2 |&starf; &starf; &starf; &starf; &star; |PASS |
+|[NBEAL1](../NBEAL1)|2 |&starf; &starf; &starf; &starf; &star; |PASS |
+|[P2RY2](../P2RY2)|2 |&starf; &starf; &starf; &starf; &star; |PASS |
+|[RANBP6](../RANBP6)|2 |&starf; &starf; &starf; &starf; &starf; |PASS |
 
-## See Also
+### Tier 3
+|New gene|BL tier| Average variant quality | QC outcome |
+|:-|:-:|:-:|:-:|
+|[ACAD9](../ACAD9)|3 |&starf; &star; &star; &star; &star; |FAIL |
+|[ACE](../ACE)|3 |&starf; &star; &star; &star; &star; |FAIL |
+|[ATP2C2](../ATP2C2)|3 |&starf; &starf; &star; &star; &star; |FAIL |
+|[BRAF](../BRAF)|3 |&starf; &star; &star; &star; &star; |FAIL |
+|[BRD4](../BRD4)|3 |&starf; &star; &star; &star; &star; |FAIL |
+|[BTG2](../BTG2)|3 |&starf; &star; &star; &star; &star; |FAIL |
+|[C6orf27](../C6orf27)|3 |*Germline*|FAIL |
+|[CAD](../CAD)|3 |&starf; &star; &star; &star; &star; |FAIL |
+|[CCT6B](../CCT6B)|3 |*Germline*|FAIL |
+|[CDH17](../CDH17)|3 |&starf; &star; &star; &star; &star; |FAIL |
+|[COL4A2](../COL4A2)|3 |&starf; &star; &star; &star; &star; |FAIL |
+|[CYB5D1](../CYB5D1)|3 |&starf; &starf; &star; &star; &star; |FAIL |
+|[CYP4F22](../CYP4F22)|3 |&starf; &star; &star; &star; &star; |FAIL |
+|[DLGAP1](../DLGAP1)|3 |&starf; &star; &star; &star; &star; |FAIL |
+|[DTX1](../DTX1)|3 |&starf; &star; &star; &star; &star; |FAIL |
+|[EIF2C4](../EIF2C4)|3 |&starf; &star; &star; &star; &star; |FAIL |
+|[EML2](../EML2)|3 |&starf; &star; &star; &star; &star; |FAIL |
+|[ENTPD3](../ENTPD3)|3 |&starf; &starf; &star; &star; &star; |FAIL |
+|[EPHB2](../EPHB2)|3 |&starf; &starf; &star; &star; &star; |FAIL |
+|[FAM129B](../FAM129B)|3 |&starf; &starf; &star; &star; &star; |FAIL |
+|[FGFR3](../FGFR3)|3 |&starf; &star; &star; &star; &star; |FAIL |
+|[FTCD](../FTCD)|3 |*Germline*|FAIL |
+|[GRIK5](../GRIK5)|3 |&starf; &star; &star; &star; &star; |FAIL |
+|[ICK](../ICK)|3 |&starf; &star; &star; &star; &star; |FAIL |
+|[ITPR3](../ITPR3)|3 |&starf; &star; &star; &star; &star; |FAIL |
+|[KIFC3](../KIFC3)|3 |&starf; &star; &star; &star; &star; |FAIL |
+|[MAP3K6](../MAP3K6)|3 |&starf; &star; &star; &star; &star; |FAIL |
+|[MYH10](../MYH10)|3 |&starf; &star; &star; &star; &star; |FAIL |
+|[NOTCH1](../NOTCH1)|3 |&starf; &star; &star; &star; &star; |FAIL |
+|[NRXN2](../NRXN2)|3 |&starf; &star; &star; &star; &star; |FAIL |
+|[PC](../PC)|3 |&starf; &star; &star; &star; &star; |FAIL |
+|[POLRMT](../POLRMT)|3 |&starf; &star; &star; &star; &star; |FAIL |
+|[POR](../POR)|3 |&starf; &star; &star; &star; &star; |FAIL |
+|[PRSS22](../PRSS22)|3 |&starf; &star; &star; &star; &star; |FAIL |
+|[PTPRN](../PTPRN)|3 |&starf; &star; &star; &star; &star; |FAIL |
+|[RBP3](../RBP3)|3 |&starf; &star; &star; &star; &star; |FAIL |
+|[RET](../RET)|3 |&starf; &star; &star; &star; &star; |FAIL |
+|[SALL3](../SALL3)|3 |&starf; &starf; &star; &star; &star; |FAIL |
+|[SAPS2](../SAPS2)|3 |&starf; &star; &star; &star; &star; |FAIL |
+|[SBF1](../SBF1)|3 |&starf; &starf; &star; &star; &star; |FAIL |
+|[SF3B1](../SF3B1)|3 |&starf; &starf; &starf; &starf; &star; |FAIL |
+|[SHANK1](../SHANK1)|3 |&starf; &star; &star; &star; &star; |FAIL |
+|[SLC29A2](../SLC29A2)|3 |&starf; &star; &star; &star; &star; |FAIL |
+|[SYNGAP1](../SYNGAP1)|3 |&starf; &star; &star; &star; &star; |FAIL |
+|[TBC1D9B](../TBC1D9B)|3 |&starf; &star; &star; &star; &star; |FAIL |
+|[TIGD6](../TIGD6)|3 |&starf; &star; &star; &star; &star; |FAIL |
+|[TPST2](../TPST2)|3 |&star; &star; &star; &star; &star; |FAIL |
+|[ZNF229](../ZNF229)|3 |*Germline*|FAIL |
 
-The primary data supporting each of the mutations reported in this study can be viewed in [IGV reports](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/)
 
 # Details
 

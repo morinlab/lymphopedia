@@ -6,10 +6,9 @@ bibliography: 'morinlab.bib'
 # @parryWholeExomeSequencing2013
 ## Summary of novel genes
 
-|Entity| Tier 1 genes| Tier 2 genes|
-|:-:|:-:|:-:|
-|MZL|0|8|
-|DLBCL|3|1|
+|Entity| Tier 1 genes| Tier 2 genes|Tier 3 genes|
+|:-:|:-:|:-:|:-:|
+|MZL|0|7|0|
 ```mermaid
 ---
 config:
@@ -25,29 +24,25 @@ config:
 sankey-beta
 This study, New Tier 1, 0
 New Tier 1, MZL Tier 1, 0
-This study, New Tier 2, 8
-New Tier 2, MZL Tier 2, 8
+This study, New Tier 2, 7
+New Tier 2, MZL Tier 2, 7
+This study, New Tier 3, 0
+New Tier 3, MZL Tier 3, 0
 All other MZL studies, MZL Tier 1, 42
-All other MZL studies, MZL Tier 2, 66
+All other MZL studies, MZL Tier 2, 67
+All other MZL studies, MZL Tier 3, 0
 ```
 
-## Novel genes reported in this study
-
-### Tier 1
-|New gene|MZL tier|DLBCL tier|
-|:-|:-:|:-:|
-|[CREBBP](../CREBBP)|2 |1 |
-|[FBXO11](../FBXO11)|2 |1 |
-|[TRRAP](../TRRAP)|2 |1 |
-
 ### Tier 2
-|New gene|MZL tier|DLBCL tier|
-|:-|:-:|:-:|
-|[AMOTL1](../AMOTL1)|2 | |
-|[CBFA2T3](../CBFA2T3)|2 | |
-|[FAT4](../FAT4)|2 |2 |
-|[PLA2G4D](../PLA2G4D)|2 | |
-|[USH2A](../USH2A)|2 | |
+|New gene|MZL tier|
+|:-|:-:|
+|[AMOTL1](../AMOTL1)|2 |
+|[CBFA2T3](../CBFA2T3)|2 |
+|[CREBBP](../CREBBP)|2 |
+|[FAT4](../FAT4)|2 |
+|[FBXO11](../FBXO11)|2 |
+|[PLA2G4D](../PLA2G4D)|2 |
+|[USH2A](../USH2A)|2 |
 
 
 # Details

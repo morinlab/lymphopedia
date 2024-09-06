@@ -8,7 +8,7 @@ bibliography: 'morinlab.bib'
 
 |Entity| Tier 1 genes| Tier 2 genes|Tier 3 genes|
 |:-:|:-:|:-:|:-:|
-|DLBCL|10|24|26|
+|DLBCL|13|28|26|
 ```mermaid
 ---
 config:
@@ -22,15 +22,15 @@ config:
         suffix: ' genes)'
 ---
 sankey-beta
-This study, New Tier 1, 10
-New Tier 1, DLBCL Tier 1, 10
-This study, New Tier 2, 24
-New Tier 2, DLBCL Tier 2, 24
+This study, New Tier 1, 13
+New Tier 1, DLBCL Tier 1, 13
+This study, New Tier 2, 28
+New Tier 2, DLBCL Tier 2, 28
 This study, New Tier 3, 26
 New Tier 3, DLBCL Tier 3, 26
-All other DLBCL studies, DLBCL Tier 1, 119
-All other DLBCL studies, DLBCL Tier 2, 154
-All other DLBCL studies, DLBCL Tier 3, 359
+All other DLBCL studies, DLBCL Tier 1, 112
+All other DLBCL studies, DLBCL Tier 2, 182
+All other DLBCL studies, DLBCL Tier 3, 361
 ```
 
 ## Novel genes reported in this study
@@ -42,10 +42,13 @@ All other DLBCL studies, DLBCL Tier 3, 359
 |[BIRC6](../BIRC6)|1 || |
 |[DDX3X](../DDX3X)|1 || |
 |[HNRNPU](../HNRNPU)|1 || |
-|[JUNB](../JUNB)|1 |&starf; &starf; &starf; &star; &star; |PASS |
 |[MGA](../MGA)|1 || |
+|[PIM2](../PIM2)|1 || |
 |[PTEN](../PTEN)|1 || |
+|[PTPN6](../PTPN6)|1 |&starf; &starf; &starf; &star; &star; |PASS |
 |[SF3B1](../SF3B1)|1 || |
+|[SMARCA4](../SMARCA4)|1 || |
+|[TMSB4X](../TMSB4X)|1 || |
 |[TOX](../TOX)|1 || |
 |[ZNF292](../ZNF292)|1 || |
 
@@ -63,18 +66,22 @@ All other DLBCL studies, DLBCL Tier 3, 359
 |[HNRNPD](../HNRNPD)|2 || |
 |[IKBKB](../IKBKB)|2 |&starf; &starf; &starf; &star; &star; |PASS |
 |[IL16](../IL16)|2 || |
+|[INO80](../INO80)|2 || |
+|[JAK1](../JAK1)|2 || |
+|[JAK3](../JAK3)|2 || |
 |[KCMF1](../KCMF1)|2 |&starf; &starf; &starf; &star; &star; |PASS |
 |[MAGT1](../MAGT1)|2 |&starf; &starf; &starf; &star; &star; |PASS |
 |[MCL1](../MCL1)|2 |&starf; &starf; &starf; &star; &star; |PASS |
 |[MECOM](../MECOM)|2 |&starf; &starf; &starf; &star; &star; |PASS |
 |[MET](../MET)|2 |&starf; &starf; &starf; &star; &star; |PASS |
 |[MSH6](../MSH6)|2 |&starf; &starf; &starf; &star; &star; |PASS |
-|[PTPN6](../PTPN6)|2 |&starf; &starf; &starf; &star; &star; |PASS |
 |[SETD5](../SETD5)|2 |&starf; &starf; &starf; &star; &star; |PASS |
+|[STAT5B](../STAT5B)|2 || |
 |[TCL1A](../TCL1A)|2 || |
 |[TGFBR2](../TGFBR2)|2 |&starf; &starf; &starf; &star; &star; |PASS |
 |[TIPARP](../TIPARP)|2 |&starf; &starf; &starf; &star; &star; |PASS |
 |[YY1](../YY1)|2 |&starf; &starf; &starf; &star; &star; |PASS |
+|[ZEB2](../ZEB2)|2 || |
 |[ZFX](../ZFX)|2 |&starf; &starf; &starf; &star; &star; |PASS |
 
 ### Tier 3

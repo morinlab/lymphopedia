@@ -3,12 +3,12 @@ title: ''
 bibliography: 'morinlab.bib'
 ---
 
-# @jardinRecurrentMutationsExportin2016a
+# @jardinRecurrentMutationsExportin2016
 ## Summary of novel genes
 
-|Entity| Tier 1 genes| Tier 2 genes|
-|:-:|:-:|:-:|
-|PMBL|1|0|
+|Entity| Tier 1 genes| Tier 2 genes|Tier 3 genes|
+|:-:|:-:|:-:|:-:|
+|PMBL|1|0|0|
 ```mermaid
 ---
 config:
@@ -26,8 +26,11 @@ This study, New Tier 1, 1
 New Tier 1, PMBL Tier 1, 1
 This study, New Tier 2, 0
 New Tier 2, PMBL Tier 2, 0
-All other PMBL studies, PMBL Tier 1, 75
-All other PMBL studies, PMBL Tier 2, 82
+This study, New Tier 3, 0
+New Tier 3, PMBL Tier 3, 0
+All other PMBL studies, PMBL Tier 1, 45
+All other PMBL studies, PMBL Tier 2, 112
+All other PMBL studies, PMBL Tier 3, 0
 ```
 
 ## Novel genes reported in this study

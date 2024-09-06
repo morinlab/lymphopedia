@@ -3,13 +3,12 @@ title: ''
 bibliography: 'morinlab.bib'
 ---
 
-# @cheungAcquiredTNFRSF14Mutations2010a
+# @cheungAcquiredTNFRSF14Mutations2010
 ## Summary of novel genes
 
-|Entity| Tier 1 genes| Tier 2 genes|
-|:-:|:-:|:-:|
-|FL|1|0|
-|DLBCL|1|0|
+|Entity| Tier 1 genes| Tier 2 genes|Tier 3 genes|
+|:-:|:-:|:-:|:-:|
+|FL|1|0|0|
 ```mermaid
 ---
 config:
@@ -24,19 +23,22 @@ config:
 ---
 sankey-beta
 This study, New Tier 1, 1
-New Tier 1, DLBCL Tier 1, 1
+New Tier 1, FL Tier 1, 1
 This study, New Tier 2, 0
-New Tier 2, DLBCL Tier 2, 0
-All other DLBCL studies, DLBCL Tier 1, 127
-All other DLBCL studies, DLBCL Tier 2, 198
+New Tier 2, FL Tier 2, 0
+This study, New Tier 3, 0
+New Tier 3, FL Tier 3, 0
+All other FL studies, FL Tier 1, 53
+All other FL studies, FL Tier 2, 59
+All other FL studies, FL Tier 3, 0
 ```
 
 ## Novel genes reported in this study
 
 ### Tier 1
-|New gene|FL tier|DLBCL tier|
-|:-|:-:|:-:|
-|[TNFRSF14](../TNFRSF14)|1 |1 |
+|New gene|FL tier|
+|:-|:-:|
+|[TNFRSF14](../TNFRSF14)|1 |
 
 
 # Details

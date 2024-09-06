@@ -3,12 +3,12 @@ title: ''
 bibliography: 'morinlab.bib'
 ---
 
-# @burkhardtClinicalRelevanceMolecular2022b
+# @burkhardtClinicalRelevanceMolecular2022
 ## Summary of novel genes
 
-|Entity| Tier 1 genes| Tier 2 genes|
-|:-:|:-:|:-:|
-|BL|0|25|
+|Entity| Tier 1 genes| Tier 2 genes|Tier 3 genes|
+|:-:|:-:|:-:|:-:|
+|BL|0|25|0|
 ```mermaid
 ---
 config:
@@ -26,8 +26,11 @@ This study, New Tier 1, 0
 New Tier 1, BL Tier 1, 0
 This study, New Tier 2, 25
 New Tier 2, BL Tier 2, 25
-All other BL studies, BL Tier 1, 29
-All other BL studies, BL Tier 2, 132
+This study, New Tier 3, 0
+New Tier 3, BL Tier 3, 0
+All other BL studies, BL Tier 1, 32
+All other BL studies, BL Tier 2, 47
+All other BL studies, BL Tier 3, 70
 ```
 
 ### Tier 2

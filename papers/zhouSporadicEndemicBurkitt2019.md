@@ -6,9 +6,9 @@ bibliography: 'morinlab.bib'
 # @zhouSporadicEndemicBurkitt2019
 ## Summary of novel genes
 
-|Entity| Tier 1 genes| Tier 2 genes|
-|:-:|:-:|:-:|
-|BL|0|1|
+|Entity| Tier 1 genes| Tier 2 genes|Tier 3 genes|
+|:-:|:-:|:-:|:-:|
+|BL|0|1|0|
 ```mermaid
 ---
 config:
@@ -26,8 +26,11 @@ This study, New Tier 1, 0
 New Tier 1, BL Tier 1, 0
 This study, New Tier 2, 1
 New Tier 2, BL Tier 2, 1
-All other BL studies, BL Tier 1, 29
-All other BL studies, BL Tier 2, 156
+This study, New Tier 3, 0
+New Tier 3, BL Tier 3, 0
+All other BL studies, BL Tier 1, 32
+All other BL studies, BL Tier 2, 71
+All other BL studies, BL Tier 3, 70
 ```
 
 ### Tier 2

@@ -3,12 +3,12 @@ title: ''
 bibliography: 'morinlab.bib'
 ---
 
-# @fanComprehensiveCharacterizationDriver2020b
+# @fanComprehensiveCharacterizationDriver2020
 ## Summary of novel genes
 
 |Entity| Tier 1 genes| Tier 2 genes|Tier 3 genes|
 |:-:|:-:|:-:|:-:|
-|DLBCL|0|0|72|
+|DLBCL|1|0|73|
 ```mermaid
 ---
 config:
@@ -22,16 +22,23 @@ config:
         suffix: ' genes)'
 ---
 sankey-beta
-This study, New Tier 1, 0
-New Tier 1, DLBCL Tier 1, 0
+This study, New Tier 1, 1
+New Tier 1, DLBCL Tier 1, 1
 This study, New Tier 2, 0
 New Tier 2, DLBCL Tier 2, 0
-This study, New Tier 3, 72
-New Tier 3, DLBCL Tier 3, 72
-All other DLBCL studies, DLBCL Tier 1, 127
-All other DLBCL studies, DLBCL Tier 2, 172
-All other DLBCL studies, DLBCL Tier 3, 309
+This study, New Tier 3, 73
+New Tier 3, DLBCL Tier 3, 73
+All other DLBCL studies, DLBCL Tier 1, 124
+All other DLBCL studies, DLBCL Tier 2, 210
+All other DLBCL studies, DLBCL Tier 3, 314
 ```
+
+## Novel genes reported in this study
+
+### Tier 1
+|New gene|DLBCL tier|
+|:-|:-:|
+|[ACTG1](../ACTG1)|1 |
 
 ### Tier 3
 |New gene|DLBCL tier|
@@ -42,6 +49,7 @@ All other DLBCL studies, DLBCL Tier 3, 309
 |[ATP6V0A1](../ATP6V0A1)|3 |
 |[BRCA1](../BRCA1)|3 |
 |[CBX3](../CBX3)|3 |
+|[CDH1](../CDH1)|3 |
 |[CDKN1A](../CDKN1A)|3 |
 |[CGN](../CGN)|3 |
 |[CHEK2](../CHEK2)|3 |

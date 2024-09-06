@@ -28,9 +28,9 @@ This study, New Tier 2, 0
 New Tier 2, DLBCL Tier 2, 0
 This study, New Tier 3, 0
 New Tier 3, DLBCL Tier 3, 0
-All other DLBCL studies, DLBCL Tier 1, 127
-All other DLBCL studies, DLBCL Tier 2, 178
-All other DLBCL studies, DLBCL Tier 3, 385
+All other DLBCL studies, DLBCL Tier 1, 123
+All other DLBCL studies, DLBCL Tier 2, 210
+All other DLBCL studies, DLBCL Tier 3, 387
 ```
 
 ## Novel genes reported in this study

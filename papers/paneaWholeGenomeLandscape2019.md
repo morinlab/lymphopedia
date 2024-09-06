@@ -8,7 +8,7 @@ bibliography: 'morinlab.bib'
 
 |Entity| Tier 1 genes| Tier 2 genes|Tier 3 genes|
 |:-:|:-:|:-:|:-:|
-|BL|4|13|22|
+|BL|2|15|22|
 ```mermaid
 ---
 config:
@@ -22,14 +22,14 @@ config:
         suffix: ' genes)'
 ---
 sankey-beta
-This study, New Tier 1, 4
-New Tier 1, BL Tier 1, 4
-This study, New Tier 2, 13
-New Tier 2, BL Tier 2, 13
+This study, New Tier 1, 2
+New Tier 1, BL Tier 1, 2
+This study, New Tier 2, 15
+New Tier 2, BL Tier 2, 15
 This study, New Tier 3, 22
 New Tier 3, BL Tier 3, 22
-All other BL studies, BL Tier 1, 25
-All other BL studies, BL Tier 2, 62
+All other BL studies, BL Tier 1, 30
+All other BL studies, BL Tier 2, 57
 All other BL studies, BL Tier 3, 48
 ```
 
@@ -39,8 +39,6 @@ All other BL studies, BL Tier 3, 48
 |New gene|BL tier| Average variant quality | QC outcome |
 |:-|:-:|:-:|:-:|
 |[BMP7](../BMP7)|1 || |
-|[EIF4A1](../EIF4A1)|1 || |
-|[EPPK1](../EPPK1)|1 || |
 |[HNRNPU](../HNRNPU)|1 || |
 
 ### Tier 2
@@ -48,6 +46,8 @@ All other BL studies, BL Tier 3, 48
 |:-|:-:|:-:|:-:|
 |[CD83](../CD83)|2 |&starf; &starf; &starf; &star; &star; |PASS |
 |[CXCR4](../CXCR4)|2 |&starf; &starf; &starf; &starf; &star; |PASS |
+|[EIF4A1](../EIF4A1)|2 || |
+|[EPPK1](../EPPK1)|2 || |
 |[HIST1H3D](../HIST1H3D)|2 |&starf; &starf; &starf; &star; &star; |PASS |
 |[HIST1H3I](../HIST1H3I)|2 |&starf; &starf; &starf; &starf; &star; |PASS |
 |[HIST1H4J](../HIST1H4J)|2 |&starf; &starf; &starf; &star; &star; |PASS |
