@@ -48,7 +48,7 @@ link-citations: true
 |[ABCA3](ABCA3)|Tier 2 GE[@beaLandscapeSomaticMutations2013]|[Bea et al](papers/beaLandscapeSomaticMutations2013)|[@zhangGeneticHeterogeneityDiffuse2013]||
 |[ABCC9](ABCC9)|Tier 2 GE[@beaLandscapeSomaticMutations2013]|[Bea et al](papers/beaLandscapeSomaticMutations2013)|||
 |[ANK2](ANK2)|Tier 2 GE[@zhangGenomicLandscapeMantle2014]|[Zhang et al](papers/zhangGenomicLandscapeMantle2014)|[@zhangGeneticHeterogeneityDiffuse2013]||
-|[ARID1B](ARID1B)|Tier 2 GE[@]||[@reddyGeneticFunctionalDrivers2017]||
+|[ARID1B](ARID1B)|Tier 2 GE||[@reddyGeneticFunctionalDrivers2017]||
 |[ATP11C](ATP11C)|Tier 2 GE[@zhangGenomicLandscapeMantle2014]|[Zhang et al](papers/zhangGenomicLandscapeMantle2014)|||
 |[B2M](B2M)|Tier 2 GE[@pararajalingamCodingNoncodingDrivers2020], FE[@challa-malladiCombinedGeneticInactivation2011]|[Pararajalingam et al](papers/pararajalingamCodingNoncodingDrivers2020)|[@morinFrequentMutationHistonemodifying2011; @reichelFlowSortingExome2015]||
 |[BCOR](BCOR)|Tier 2 GE[@nadeuGenomicEpigenomicInsights2020b]|[Nadeu et al](papers/nadeuGenomicEpigenomicInsights2020b)|[@jalladesExomeSequencingIdentifies2017]||
