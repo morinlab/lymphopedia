@@ -4,6 +4,34 @@ bibliography: 'morinlab.bib'
 ---
 
 # @hubschmannMutationalMechanismsShaping2021
+
+## Study Overview
+In their 2021 study published in *Leukemia*, Hübschmann et al. conducted a comprehensive analysis of 181 germinal center-derived B-cell lymphomas (gcBCLs) using whole-genome and transcriptome sequencing. The research aimed to elucidate the mutational mechanisms influencing both coding and noncoding regions of the genome in these lymphomas.
+
+## Key Findings
+
+### Mutational Signatures
+- The study identified distinct mutational signatures associated with somatic hypermutation (SHM) and class-switch recombination (CSR).
+- Both SHM and CSR were found to contribute to off-target mutations in non-immunoglobulin (non-IG) genes, suggesting a broader impact on genomic integrity.
+
+### Noncoding Regions
+- Mutations were prevalent in noncoding regions, including promoters and enhancers, indicating potential regulatory disruptions.
+- These noncoding mutations may influence gene expression and contribute to lymphomagenesis.
+
+### Pathway Alterations
+- Recurrent mutations were observed in pathways related to B-cell development and function, such as the NF-κB and JAK-STAT signaling pathways.
+- These alterations underscore the role of specific signaling cascades in the pathogenesis of gcBCLs.
+
+## Clinical Implications
+- The findings highlight the significance of both coding and noncoding mutations in the development of gcBCLs.
+- Understanding these mutational mechanisms may inform targeted therapeutic strategies and improve diagnostic precision.
+
+---
+
+## Conclusion
+Hübschmann et al.'s study provides valuable insights into the mutational processes shaping the genomes of germinal center-derived B-cell lymphomas. By revealing the contributions of SHM and CSR to off-target mutations and emphasizing the importance of noncoding regions, this research advances our understanding of lymphoma biology and potential avenues for treatment.
+
+
 ## Summary of novel genes
 
 |Entity| Tier 1 genes| Tier 2 genes|Tier 3 genes|
