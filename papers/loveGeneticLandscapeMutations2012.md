@@ -8,31 +8,31 @@ bibliography: 'morinlab.bib'
 # Summary
 
 The 2012 study provided foundational insights into the genetic landscape of Burkitt lymphoma (BL),
-identifying recurrent mutations in genes such as **MYC**, **ID3**, **ARID1A**, **SMARCA4**, and **TP53**.
+describing recurrent mutations in genes such as *MYC*, *ID3*, *ARID1A*, *SMARCA4*, and *TP53*.
 Subsequent research has both validated and expanded upon these findings. Although this study identified some genes that are commonly mutated in BL. Some of its novel findings are of questionable
 significance in BL.
 
 ## Reproduced Findings
-- **ID3 Mutations**: The initial identification of **ID3** mutations in approximately one-third of BL cases 
+- **ID3 Mutations**: The initial identification of *ID3* mutations in approximately one-third of BL cases 
 has been consistently corroborated. These mutations, particularly affecting the helix-loop-helix domain, 
 are recognized as a hallmark of BL and are rare in other lymphomas.
-- **ARID1A and SMARCA4 Mutations**: Mutations in **ARID1A** and **SMARCA4**, components of the SWI/SNF
+- **ARID1A and SMARCA4 Mutations**: Mutations in *ARID1A* and *SMARCA4*, components of the SWI/SNF
 chromatin-remodeling complex, have been confirmed in BL. These mutations are often mutually exclusive,
 suggesting that alteration in one is sufficient to disrupt the complex's function.
 - **TP53 Mutations**: Alterations in **TP53** have been consistently observed in BL, underscoring its role
 in the disease's pathogenesis.
 
 ## Expanded Insights
-- **GNA13 Mutations**: The initial study noted mutations in **GNA13**. Further research has highlighted its
+- **GNA13 Mutations**: The initial study noted mutations in *GNA13*. Further research has highlighted its
 role in BL, particularly in germinal center B cell–derived lymphomas.
 - **Additional Mutations**: Subsequent studies have identified mutations in genes such as **TCF3**, 
-**CCND3**, and **DDX3X**, which were not prominently featured in the 2012 study. These findings have 
+*CCND3*, and *DDX3X*, which were not prominently featured in the 2012 study. These findings have 
 enriched the understanding of BL's genetic complexity.
 
 ## Less Reproduced Findings
-- **CCT6B, SALL3, FTCD, and PC Mutations**: The study reported mutations in **CCT6B**, **SALL3**, **FTCD**, 
-and **PC**. However, these findings have not been consistently replicated in subsequent research, suggesting
-they may be less central to BL's pathogenesis or represent less common alterations.
+- **CCT6B, SALL3, FTCD, and PC Mutations**: The study reported mutations in a large number of genes including *CCT6B*, *SALL3*, *FTCD*, 
+and *PC*. However, these findings have not been consistently replicated in subsequent research, suggesting
+they may be less central to BL's pathogenesis or represent less common alterations. Most of the genes from this study are now in Tier 3.
 
 ## Summary of novel genes
 
