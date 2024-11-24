@@ -72,18 +72,18 @@ bibliography: 'morinlab.bib'
 |2019|BL|exome|1|0 (0.0)|KMT2C|[@zhouSporadicEndemicBurkitt2019](papers/zhouSporadicEndemicBurkitt2019.md)|
 |2019|BL|RNA-seq/exome|39|4 (10.3)|ALPK2|[@paneaWholeGenomeLandscape2019](papers/paneaWholeGenomeLandscape2019.md)|
 |2019|BL|WGS|13|9 (69.2)|BACH2|[@grandeGenomewideDiscoverySomatic2019](papers/grandeGenomewideDiscoverySomatic2019.md)|
-|2019|PMBL|exome|21|6 (28.6)|CISH|[@mottokIntegrativeGenomicAnalysis2019b](papers/mottokIntegrativeGenomicAnalysis2019b.md)|
-|2020|MCL|WGS|5|3 (60.0)|BCOR|[@nadeuGenomicEpigenomicInsights2020b](papers/nadeuGenomicEpigenomicInsights2020b.md)|
-|2020|FL|panel|1|1 (100.0)|CTSS|[@barariaCathepsinAlterationsInduce2020c](papers/barariaCathepsinAlterationsInduce2020c.md)|
+|2019|PMBL|exome|21|6 (28.6)|CISH|[@mottokIntegrativeGenomicAnalysis2019](papers/mottokIntegrativeGenomicAnalysis2019.md)|
+|2020|MCL|WGS|5|3 (60.0)|BCOR|[@nadeuGenomicEpigenomicInsights2020](papers/nadeuGenomicEpigenomicInsights2020.md)|
+|2020|FL|panel|1|1 (100.0)|CTSS|[@barariaCathepsinAlterationsInduce2020](papers/barariaCathepsinAlterationsInduce2020.md)|
 |2020|DLBCL|exome/panel|1|1 (100.0)|MS4A1|[@rushtonGeneticEvolutionaryPatterns2020](papers/rushtonGeneticEvolutionaryPatterns2020.md)|
 |2020|MCL|WGS/exome|7|6 (85.7)|B2M|[@pararajalingamCodingNoncodingDrivers2020](papers/pararajalingamCodingNoncodingDrivers2020.md)|
 |2020|PMBL|panel|10|1 (10.0)|ACTG1|[@deschGenotypingCirculatingTumor2020](papers/deschGenotypingCirculatingTumor2020.md)|
-|2021|DLBCL|WGS|38|3 (7.9)|ACTG1|[@hubschmannMutationalMechanismsShaping2021b](papers/hubschmannMutationalMechanismsShaping2021b.md)|
-|2021|PMBL|exome|11|5 (45.5)|ABCA13|[@sarkozyMutationalLandscapeGray2021a](papers/sarkozyMutationalLandscapeGray2021a.md)|
-|2021|PMBL|exome|14|6 (42.9)|BIRC3|[@dunsCharacterizationDLBCLPMBL2021b](papers/dunsCharacterizationDLBCLPMBL2021b.md)|
-|2022|BL|panel|25|0 (0.0)|ADAMTS5|[@burkhardtClinicalRelevanceMolecular2022b](papers/burkhardtClinicalRelevanceMolecular2022b.md)|
+|2021|DLBCL|WGS|38|3 (7.9)|ACTG1|[@hubschmannMutationalMechanismsShaping2021](papers/hubschmannMutationalMechanismsShaping2021.md)|
+|2021|PMBL|exome|11|5 (45.5)|ABCA13|[@sarkozyMutationalLandscapeGray2021](papers/sarkozyMutationalLandscapeGray2021.md)|
+|2021|PMBL|exome|14|6 (42.9)|BIRC3|[@dunsCharacterizationDLBCLPMBL2021](papers/dunsCharacterizationDLBCLPMBL2021.md)|
+|2022|BL|panel|25|0 (0.0)|ADAMTS5|[@burkhardtClinicalRelevanceMolecular2022](papers/burkhardtClinicalRelevanceMolecular2022.md)|
 |2023|BL|WGS|6|2 (33.3)|CDKN2C|[@thomasGeneticSubgroupsInform2023](papers/thomasGeneticSubgroupsInform2023.md)|
-|2023|FL|exome|20|1 (5.0)|ABL2|[@russler-germainMutationsAssociatedProgression2023b](papers/russler-germainMutationsAssociatedProgression2023b.md)|
+|2023|FL|exome|20|1 (5.0)|ABL2|[@russler-germainMutationsAssociatedProgression2023](papers/russler-germainMutationsAssociatedProgression2023.md)|
 |2023|PMBL|exome|7|2 (28.6)|ARID5B|[@gomezUltraDeepSequencingReveals2023](papers/gomezUltraDeepSequencingReveals2023.md)|
 
 # References
