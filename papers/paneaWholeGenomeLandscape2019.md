@@ -15,7 +15,7 @@ Subsequent scrutiny raised concerns about data accuracy and analysis methods. In
 In response, the authors acknowledged these issues, attributing some discrepancies to errors in data merging, which led to the same variant being counted twice in certain cases. An erratum was published in September 2023, correcting data presentation and analyses, and providing a more detailed explanation of the methods used. ([Source](https://ashpublications.org/blood/article/142/10/940/497735/Panea-RI-Love-CL-Shingleton-JR-et-al-The-whole))
 
 ## Conclusion
-While the original findings offered valuable insights into BL's genetic landscape, the subsequent corrections highlight the importance of data accuracy and transparency in genomic research. The developments underscore the need for ongoing validation and scrutiny in scientific studies.
+While the original findings offered valuable insights into BL's genetic landscape, the subsequent corrections highlight the importance of data accuracy and transparency in genomic research. The developments underscore the need for ongoing validation and scrutiny in scientific studies. Of the novel genes reported in this study only two are Tier 1 BL genes with the rest in either Tier 2 or Tier 3.
 
 
 
