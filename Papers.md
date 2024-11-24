@@ -60,7 +60,7 @@ bibliography: 'morinlab.bib'
 |2016|DLBCL|exome|2|2 (100.0)|NFKBIE|[@morinGeneticLandscapesRelapsed2016](papers/morinGeneticLandscapesRelapsed2016.md)|
 |2017|MZL|panel|2|0 (0.0)|CD9B|[@vandenbrandRecurrentMutationsGenes2017](papers/vandenbrandRecurrentMutationsGenes2017.md)|
 |2017|MZL|exome|28|2 (7.1)|ARHGAP20|[@jalladesExomeSequencingIdentifies2017](papers/jalladesExomeSequencingIdentifies2017.md)|
-|2017|FL|exome|22|17 (77.3)|ARID1A|[@krysiakRecurrentSomaticMutations2017b](papers/krysiakRecurrentSomaticMutations2017b.md)|
+|2017|FL|exome|22|17 (77.3)|ARID1A|[@krysiakRecurrentSomaticMutations2017](papers/krysiakRecurrentSomaticMutations2017.md)|
 |2017|DLBCL|exome|3|3 (100.0)|BTK|[@albuquerqueEnhancingKnowledgeDiscovery2017](papers/albuquerqueEnhancingKnowledgeDiscovery2017.md)|
 |2017|DLBCL|exome|59|6 (10.2)|ANKRD17|[@reddyGeneticFunctionalDrivers2017](papers/reddyGeneticFunctionalDrivers2017.md)|
 |2018|PMBL|exome|10|1 (10.0)|AKAP6|[@tiacciPervasiveMutationsJAKSTAT2018](papers/tiacciPervasiveMutationsJAKSTAT2018.md)|
