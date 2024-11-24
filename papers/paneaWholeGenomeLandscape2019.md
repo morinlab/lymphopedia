@@ -4,6 +4,21 @@ bibliography: 'morinlab.bib'
 ---
 
 # @paneaWholeGenomeLandscape2019
+
+
+## Summary
+The 2019 study by Panea et al., titled *The Whole-Genome Landscape of Burkitt Lymphoma Subtypes*, provided a comprehensive analysis of the genetic mutations across various subtypes of Burkitt lymphoma (BL). The authors performed whole-genome sequencing on 101 BL tumors, identifying 72 driver genes and highlighting subtype-specific genetic alterations. ([Source](https://ashpublications.org/blood/article/134/19/1598/375002/The-whole-genome-landscape-of-Burkitt-lymphoma))
+
+## Post-Publication Discussion
+Subsequent scrutiny raised concerns about data accuracy and analysis methods. In a 2023 letter to the editor, Rushton et al. pointed out inconsistencies in the data, particularly regarding the overlap of potential driver variants among endemic and HIV-associated BL cases. ([Source](https://ashpublications.org/blood/article/142/10/936/486922/Burkitt-lymphoma-genomic-discovery-studies-drivers))
+
+In response, the authors acknowledged these issues, attributing some discrepancies to errors in data merging, which led to the same variant being counted twice in certain cases. An erratum was published in September 2023, correcting data presentation and analyses, and providing a more detailed explanation of the methods used. ([Source](https://ashpublications.org/blood/article/142/10/940/497735/Panea-RI-Love-CL-Shingleton-JR-et-al-The-whole))
+
+## Conclusion
+While the original findings offered valuable insights into BL's genetic landscape, the subsequent corrections highlight the importance of data accuracy and transparency in genomic research. The developments underscore the need for ongoing validation and scrutiny in scientific studies.
+
+
+
 ## Summary of novel genes
 
 |Entity| Tier 1 genes| Tier 2 genes|Tier 3 genes|
