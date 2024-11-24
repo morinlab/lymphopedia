@@ -6,9 +6,9 @@ bibliography: 'morinlab.bib'
 # @jalladesExomeSequencingIdentifies2017
 ## Summary of novel genes
 
-|Entity| Tier 1 genes| Tier 2 genes|
-|:-:|:-:|:-:|
-|MZL|2|26|
+|Entity| Tier 1 genes| Tier 2 genes|Tier 3 genes|
+|:-:|:-:|:-:|:-:|
+|MZL|2|26|0|
 ```mermaid
 ---
 config:
@@ -26,8 +26,11 @@ This study, New Tier 1, 2
 New Tier 1, MZL Tier 1, 2
 This study, New Tier 2, 26
 New Tier 2, MZL Tier 2, 26
+This study, New Tier 3, 0
+New Tier 3, MZL Tier 3, 0
 All other MZL studies, MZL Tier 1, 40
 All other MZL studies, MZL Tier 2, 48
+All other MZL studies, MZL Tier 3, 0
 ```
 
 ## Novel genes reported in this study

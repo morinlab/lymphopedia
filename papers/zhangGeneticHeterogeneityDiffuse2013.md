@@ -8,7 +8,7 @@ bibliography: 'morinlab.bib'
 
 |Entity| Tier 1 genes| Tier 2 genes|Tier 3 genes|
 |:-:|:-:|:-:|:-:|
-|DLBCL|12|14|271|
+|DLBCL|11|8|272|
 ```mermaid
 ---
 config:
@@ -22,15 +22,15 @@ config:
         suffix: ' genes)'
 ---
 sankey-beta
-This study, New Tier 1, 12
-New Tier 1, DLBCL Tier 1, 12
-This study, New Tier 2, 14
-New Tier 2, DLBCL Tier 2, 14
-This study, New Tier 3, 271
-New Tier 3, DLBCL Tier 3, 271
-All other DLBCL studies, DLBCL Tier 1, 117
-All other DLBCL studies, DLBCL Tier 2, 164
-All other DLBCL studies, DLBCL Tier 3, 114
+This study, New Tier 1, 11
+New Tier 1, DLBCL Tier 1, 11
+This study, New Tier 2, 8
+New Tier 2, DLBCL Tier 2, 8
+This study, New Tier 3, 272
+New Tier 3, DLBCL Tier 3, 272
+All other DLBCL studies, DLBCL Tier 1, 114
+All other DLBCL studies, DLBCL Tier 2, 202
+All other DLBCL studies, DLBCL Tier 3, 115
 ```
 
 ## Novel genes reported in this study
@@ -49,7 +49,6 @@ All other DLBCL studies, DLBCL Tier 3, 114
 |[NOTCH2](../NOTCH2)|1 |
 |[OSBPL10](../OSBPL10)|1 |
 |[RHOA](../RHOA)|1 |
-|[TRRAP](../TRRAP)|1 |
 
 ### Tier 2
 |New gene|DLBCL tier|
@@ -57,17 +56,11 @@ All other DLBCL studies, DLBCL Tier 3, 114
 |[ANKRD17](../ANKRD17)|2 |
 |[BTBD3](../BTBD3)|2 |
 |[DDX10](../DDX10)|2 |
-|[INO80](../INO80)|2 |
-|[JAK1](../JAK1)|2 |
-|[JAK3](../JAK3)|2 |
 |[NF1](../NF1)|2 |
 |[PIK3CD](../PIK3CD)|2 |
 |[PIK3R1](../PIK3R1)|2 |
 |[SETD2](../SETD2)|2 |
 |[SMEK1](../SMEK1)|2 |
-|[STAT5B](../STAT5B)|2 |
-|[UBR5](../UBR5)|2 |
-|[ZEB2](../ZEB2)|2 |
 
 ### Tier 3
 |New gene|DLBCL tier|
@@ -321,6 +314,7 @@ All other DLBCL studies, DLBCL Tier 3, 114
 |[TPRKB](../TPRKB)|3 |
 |[TRIM37](../TRIM37)|3 |
 |[TRIP11](../TRIP11)|3 |
+|[TRRAP](../TRRAP)|3 |
 |[TSC2](../TSC2)|3 |
 |[TSHZ2](../TSHZ2)|3 |
 |[UHRF1BP1L](../UHRF1BP1L)|3 |

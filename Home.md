@@ -18,9 +18,10 @@ To get started, select one of the gene lists from the table below then select th
 
 |Entity|Tier 1 (high-confidence)|Tier 2 (low-confidence)|Tier 3 (retired) |
 |:-:|:-:|:-:|:-:|
-|BL [(tsv)](https://raw.githubusercontent.com/morinlab/LLMPP/main/resources/curated/bl_genes.tsv)|[28 genes](BL_genes#tier-1-bl-genes)|[76 genes](BL_genes#tier-2-bl-genes)|[70 genes](BL_genes#tier-3-bl-genes)|
-|DLBCL [(tsv)](https://raw.githubusercontent.com/morinlab/LLMPP/main/resources/curated/dlbcl_genes.tsv)|[126 genes](DLBCL_genes#tier-1-dlbcl-genes)|[179 genes](DLBCL_genes#tier-2-dlbcl-genes)|[386 genes](DLBCL_genes#tier-3-dlbcl-genes)|
-|FL [(tsv)](https://raw.githubusercontent.com/morinlab/LLMPP/main/resources/curated/fl_genes.tsv)|[57 genes](FL_genes#tier-1-fl-genes)|[56 genes](FL_genes#tier-2-fl-genes)|[0 genes](FL_genes#tier-3-fl-genes)|
+|BL [(tsv)](https://raw.githubusercontent.com/morinlab/LLMPP/main/resources/curated/bl_genes.tsv)|[32 genes](BL_genes#tier-1-bl-genes)|[72 genes](BL_genes#tier-2-bl-genes)|[70 genes](BL_genes#tier-3-bl-genes)|
+|DLBCL [(tsv)](https://raw.githubusercontent.com/morinlab/LLMPP/main/resources/curated/dlbcl_genes.tsv)|[125 genes](DLBCL_genes#tier-1-dlbcl-genes)|[210 genes](DLBCL_genes#tier-2-dlbcl-genes)|[387 genes](DLBCL_genes#tier-3-dlbcl-genes)|
+|FL [(tsv)](https://raw.githubusercontent.com/morinlab/LLMPP/main/resources/curated/fl_genes.tsv)|[54 genes](FL_genes#tier-1-fl-genes)|[59 genes](FL_genes#tier-2-fl-genes)|[0 genes](FL_genes#tier-3-fl-genes)|
+
 
 
 ### History of lymphoma genes in common entities
@@ -281,8 +282,8 @@ PMBL panel, Desch 2020, 10
 |[@morinMutationalStructuralAnalysis2013](papers/morinMutationalStructuralAnalysis2013)|WGS|DLBCL|9|7 (24%)|
 |[@reddyGeneticFunctionalDrivers2017](papers/reddyGeneticFunctionalDrivers2017)|Exome|DLBCL|6|29 (55%)|
 |[@paneaWholeGenomeLandscape2019](papers/paneaWholeGenomeLandscape2019)|Exome/RNA-seq|BL|4|22 (55%)|
-|[@chapuyMolecularSubtypesDiffuse2018b](papers/chapuyMolecularSubtypesDiffuse2018b)|Exome|DLBCL|2| 7 (41%) |
-|[@hubschmannMutationalMechanismsShaping2021b](papers/hubschmannMutationalMechanismsShaping2021b)|WGS|DLBCL,FL|4|3 (9%)|
+|[@chapuyMolecularSubtypesDiffuse2018](papers/chapuyMolecularSubtypesDiffuse2018)|Exome|DLBCL|2| 7 (41%) |
+|[@hubschmannMutationalMechanismsShaping2021](papers/hubschmannMutationalMechanismsShaping2021)|WGS|DLBCL,FL|4|3 (9%)|
 
 ## Categorization of genes
 

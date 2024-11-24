@@ -6,9 +6,9 @@ bibliography: 'morinlab.bib'
 # @arthurGenomewideDiscoverySomatic2018
 ## Summary of novel genes
 
-|Entity| Tier 1 genes| Tier 2 genes|
-|:-:|:-:|:-:|
-|DLBCL|8|12|
+|Entity| Tier 1 genes| Tier 2 genes|Tier 3 genes|
+|:-:|:-:|:-:|:-:|
+|DLBCL|2|14|0|
 ```mermaid
 ---
 config:
@@ -22,12 +22,15 @@ config:
         suffix: ' genes)'
 ---
 sankey-beta
-This study, New Tier 1, 8
-New Tier 1, DLBCL Tier 1, 8
-This study, New Tier 2, 12
-New Tier 2, DLBCL Tier 2, 12
-All other DLBCL studies, DLBCL Tier 1, 120
-All other DLBCL studies, DLBCL Tier 2, 186
+This study, New Tier 1, 2
+New Tier 1, DLBCL Tier 1, 2
+This study, New Tier 2, 14
+New Tier 2, DLBCL Tier 2, 14
+This study, New Tier 3, 0
+New Tier 3, DLBCL Tier 3, 0
+All other DLBCL studies, DLBCL Tier 1, 123
+All other DLBCL studies, DLBCL Tier 2, 196
+All other DLBCL studies, DLBCL Tier 3, 387
 ```
 
 ## Novel genes reported in this study
@@ -35,14 +38,8 @@ All other DLBCL studies, DLBCL Tier 2, 186
 ### Tier 1
 |New gene|DLBCL tier|
 |:-|:-:|
-|[BCL7A](../BCL7A)|1 |
-|[ETV6](../ETV6)|1 |
-|[GRHPR](../GRHPR)|1 |
-|[LCOR](../LCOR)|1 |
-|[MEF2C](../MEF2C)|1 |
-|[OSBPL10](../OSBPL10)|1 |
-|[PIM2](../PIM2)|1 |
-|[ZC3H12A](../ZC3H12A)|1 |
+|[FBXO11](../FBXO11)|1 |
+|[RFX7](../RFX7)|1 |
 
 ### Tier 2
 |New gene|DLBCL tier|
@@ -55,20 +52,12 @@ All other DLBCL studies, DLBCL Tier 2, 186
 |[MALAT1](../MALAT1)|2 |
 |[NEAT1](../NEAT1)|2 |
 |[RFTN1](../RFTN1)|2 |
+|[RHEX](../RHEX)|2 |
 |[SERPINA9](../SERPINA9)|2 |
 |[ST6GAL1](../ST6GAL1)|2 |
 |[TBC1D4](../TBC1D4)|2 |
+|[USP7](../USP7)|2 |
 |[ZCCHC7](../ZCCHC7)|2 |
-
-
-## Data Availability
-
-|**Repository**|**Accession**|
-|-|-|
-|[dbGAP](https://www.ncbi.nlm.nih.gov/gap/)| phs000532.v18.p6 |
-|[EGA](https://ega-archive.org/)|EGAD00001003783|
-|[EGA](https://ega-archive.org/)|EGAD00001004142|
-
 
 
 # Details

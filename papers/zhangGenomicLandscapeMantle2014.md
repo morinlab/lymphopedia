@@ -6,9 +6,9 @@ bibliography: 'morinlab.bib'
 # @zhangGenomicLandscapeMantle2014
 ## Summary of novel genes
 
-|Entity| Tier 1 genes| Tier 2 genes|
-|:-:|:-:|:-:|
-|MCL|2|26|
+|Entity| Tier 1 genes| Tier 2 genes|Tier 3 genes|
+|:-:|:-:|:-:|:-:|
+|MCL|2|26|0|
 ```mermaid
 ---
 config:
@@ -26,8 +26,11 @@ This study, New Tier 1, 2
 New Tier 1, MCL Tier 1, 2
 This study, New Tier 2, 26
 New Tier 2, MCL Tier 2, 26
+This study, New Tier 3, 0
+New Tier 3, MCL Tier 3, 0
 All other MCL studies, MCL Tier 1, 21
 All other MCL studies, MCL Tier 2, 20
+All other MCL studies, MCL Tier 3, 0
 ```
 
 ## Novel genes reported in this study
