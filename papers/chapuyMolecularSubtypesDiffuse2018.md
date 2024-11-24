@@ -4,6 +4,48 @@ bibliography: 'morinlab.bib'
 ---
 
 # @chapuyMolecularSubtypesDiffuse2018
+
+## Study Overview
+In their 2018 study published in *Nature Medicine*, Chapuy et al. conducted a comprehensive genetic analysis of 304 primary diffuse large B-cell lymphoma (DLBCL) samples. Through integrative analysis of somatic mutations, copy number alterations, and structural variants, they identified five distinct molecular subtypes of DLBCL, labeled **C1 through C5**, each characterized by unique genetic alterations and associated clinical outcomes.
+
+## Key Findings
+
+### Molecular Subtypes Identified
+1. **C1 Subtype**:
+   - Characterized by mutations in **NOTCH2** and **BCL6**.
+   - Suggests an extrafollicular/marginal zone origin.
+
+2. **C2 Subtype**:
+   - Defined by biallelic inactivation of **TP53** and **CDKN2A** loss.
+   - Associated with genomic instability.
+
+3. **C3 Subtype**:
+   - Enriched for **BCL2** translocations and mutations in chromatin modifiers such as **EZH2**.
+   - Indicates a germinal center B-cell origin.
+
+4. **C4 Subtype**:
+   - Marked by mutations in **SGK1**, **BRAF**, and **STAT3**.
+   - Associated with a favorable prognosis.
+
+5. **C5 Subtype**:
+   - Characterized by co-mutations in **MYD88** and **CD79B**.
+   - Associated with chronic active B-cell receptor signaling.
+
+### Clinical Implications
+- The study demonstrated that these molecular subtypes correlate with distinct survival outcomes, independent of the traditional International Prognostic Index (IPI).
+- Findings suggest potential for subtype-specific therapeutic strategies, emphasizing the need for personalized treatment approaches in DLBCL.
+
+---
+
+## Post-Publication Discussion
+Subsequent analyses have validated the existence of these molecular subtypes and their clinical relevance. However, some studies have noted challenges in replicating the exact classification due to differences in sequencing techniques and cohort compositions. Additionally, the dynamic nature of DLBCL genetics necessitates continuous refinement of these subtypes to incorporate emerging genetic data.
+
+---
+
+## Conclusion
+Chapuy et al.'s study significantly advanced the understanding of DLBCL heterogeneity by identifying molecular subtypes with distinct genetic and clinical features. These insights have paved the way for more targeted therapeutic interventions, although ongoing research is essential to refine these classifications and translate them into clinical practice effectively.
+
+
 ## Summary of novel genes
 
 |Entity| Tier 1 genes| Tier 2 genes|Tier 3 genes|
