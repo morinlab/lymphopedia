@@ -7,7 +7,7 @@ bibliography: 'morinlab.bib'
 |:-:|:-:|:-:|:-:|:-:|:-:|:-------:|
 |1992|BL|Sanger|1|1 (100.0)|MYC|[@johnstonCmycHypermutationBurkitt1992](papers/johnstonCmycHypermutationBurkitt1992.md)|
 |1992|DLBCL|Sanger|1|1 (100.0)|BCL2|[@tanakaFrequentIncidenceSomatic1992](papers/tanakaFrequentIncidenceSomatic1992.md)|
-|2001|DLBCL|Sanger|4|2 (50.0)|MYC|[@pasqualucciHypermutationMultipleProtooncogenes2001a](papers/pasqualucciHypermutationMultipleProtooncogenes2001.md)|
+|2001|DLBCL|Sanger|4|2 (50.0)|MYC|[@pasqualucciHypermutationMultipleProtooncogenes2001](papers/pasqualucciHypermutationMultipleProtooncogenes2001.md)|
 |2004|BL|Sanger|1|1 (100.0)|TP53|[@wildaInactivationARFMDM2p53Pathway2004](papers/wildaInactivationARFMDM2p53Pathway2004.md)|
 |2006|DLBCL|Sanger|1|1 (100.0)|PRDM1|[@pasqualucciInactivationPRDM1BLIMP12006](papers/pasqualucciInactivationPRDM1BLIMP12006.md)|
 |2006|PMBL|Sanger|2|1 (50.0)|GPR126|[@wenigerMutationsTumorSuppressor2006](papers/wenigerMutationsTumorSuppressor2006.md)|
@@ -30,8 +30,8 @@ bibliography: 'morinlab.bib'
 |2012|DLBCL|Sanger|1|0 (0.0)|MIR142|[@kwanhianMicroRNA142Mutated202012](papers/kwanhianMicroRNA142Mutated202012.md)|
 |2012|DLBCL|WGS|1|1 (100.0)|CXCR4|[@khodabakhshiRecurrentTargetsAberrant2012](papers/khodabakhshiRecurrentTargetsAberrant2012.md)|
 |2012|PMBL|Array/Sanger|2|2 (100.0)|MAP3K14|[@ottoGeneticLesionsTRAF32012](papers/ottoGeneticLesionsTRAF32012.md)|
-|2012|DLBCL|exome|39|18 (46.2)|ACTB|[@lohrDiscoveryPrioritizationSomatic2012a](papers/lohrDiscoveryPrioritizationSomatic2012a.md)|
-|2012|MZL|Panel|2|2 (100.0)|CARD11|[@yanBCRTLRSignaling2012a](papers/yanBCRTLRSignaling2012a.md)|
+|2012|DLBCL|exome|39|18 (46.2)|ACTB|[@lohrDiscoveryPrioritizationSomatic2012](papers/lohrDiscoveryPrioritizationSomatic2012.md)|
+|2012|MZL|Panel|2|2 (100.0)|CARD11|[@yanBCRTLRSignaling2012](papers/yanBCRTLRSignaling2012.md)|
 |2012|BL|exome|60|3 (5.0)|ACAD9|[@loveGeneticLandscapeMutations2012](papers/loveGeneticLandscapeMutations2012.md)|
 |2012|BL|RNA-seq|20|4 (20.0)|C16orf48|[@schmitzBurkittLymphomaPathogenesis2012](papers/schmitzBurkittLymphomaPathogenesis2012.md)|
 |2012|MZL|Array/Sanger|1|1 (100.0)|ATM|[@braggioGenomicAnalysisMarginal2012](papers/braggioGenomicAnalysisMarginal2012.md)|
