@@ -9,7 +9,8 @@ bibliography: 'morinlab.bib'
 
 The 2012 study provided foundational insights into the genetic landscape of Burkitt lymphoma (BL),
 identifying recurrent mutations in genes such as **MYC**, **ID3**, **ARID1A**, **SMARCA4**, and **TP53**.
-Subsequent research has both validated and expanded upon these findings.
+Subsequent research has both validated and expanded upon these findings. Although this study identified some genes that are commonly mutated in BL. Some of its novel findings are of questionable
+significance in BL.
 
 ## Reproduced Findings
 - **ID3 Mutations**: The initial identification of **ID3** mutations in approximately one-third of BL cases 
@@ -32,11 +33,6 @@ enriched the understanding of BL's genetic complexity.
 - **CCT6B, SALL3, FTCD, and PC Mutations**: The study reported mutations in **CCT6B**, **SALL3**, **FTCD**, 
 and **PC**. However, these findings have not been consistently replicated in subsequent research, suggesting
 they may be less central to BL's pathogenesis or represent less common alterations.
-
-## In Summary
-This study identified some genes that are commonly mutated in BL. Some of its novel findings have been 
-validated and expanded upon, while some gene mutations are of questionable
-significance in BL.
 
 ## Summary of novel genes
 
