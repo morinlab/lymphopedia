@@ -4,6 +4,63 @@ bibliography: 'morinlab.bib'
 ---
 
 # @reddyGeneticFunctionalDrivers2017
+
+## Study Overview
+Reddy et al. conducted a comprehensive analysis of Diffuse Large B Cell Lymphoma (DLBCL) using the exomes of 1,001 cases, identifying **150 driver genes**. Their findings provided significant insights into the genetic alterations and functional pathways underlying DLBCL. Key outcomes of the study included:
+
+### Key Findings
+1. **Recurrent Mutations**:
+   - Identified mutations in genes such as **MYD88**, **CD79B**, **EZH2**, and **TP53**, highlighting their importance in DLBCL pathogenesis.
+
+2. **Pathway Analysis**:
+   - Mutations impacted key signaling pathways, including:
+     - **B-cell receptor signaling**
+     - **NF-κB signaling**
+     - **Chromatin modification**
+
+3. **Molecular Subtypes**:
+   - Contributed to the molecular classification of DLBCL into subtypes like **germinal center B-cell-like (GCB)** and **activated B-cell-like (ABC)**, with distinct genetic and clinical features.
+
+4. **Therapeutic Implications**:
+   - Suggested potential targeted therapies focusing on B-cell receptor and NF-κB pathways, among others.
+
+This research represented a foundational step in understanding the genetic drivers of DLBCL, informing therapeutic development.
+
+---
+
+## Post-Publication Critical Analysis
+Subsequent scrutiny of the study revealed significant issues with its findings:
+
+1. **Reanalysis of Data**:
+   - A 2023 preprint by Dreval et al. reanalyzed the original data using open-source pipelines and uncovered **discrepancies** in the findings.
+
+2. **Variant Reproducibility**:
+   - Thousands of mutations reported by Reddy et al. could not be independently reproduced, raising concerns about the reliability of the variant-calling methods.
+
+3. **Mutation Prevalence**:
+   - Clinically important mutations, such as those in **EZH2** and **CD79B**, were underrepresented in the original findings.
+
+4. **Analytical Errors**:
+   - Errors in the original data analysis pipeline were identified, potentially affecting the accuracy of genetic alteration reporting.
+
+---
+
+## Implications and Lessons
+The 2017 study provided valuable insights into DLBCL's genetic landscape and functional pathways. However, subsequent critical analyses underscore the need for:
+
+1. **Rigorous Data Validation**:
+   - Ensuring reproducibility of findings by using standardized, open-source pipelines.
+
+2. **Transparency in Methods**:
+   - Clear documentation of analytical approaches to allow independent verification.
+
+3. **Reevaluation of Findings**:
+   - Revisiting conclusions with improved methodologies to refine our understanding of DLBCL pathogenesis.
+
+While the original study remains influential in the field, its findings must be interpreted with caution in light of these critiques. Ongoing research will continue to refine the genetic and functional drivers of DLBCL, ensuring a more accurate and actionable understanding of this heterogeneous disease.
+
+
+
 ## Summary of novel genes
 
 |Entity| Tier 1 genes| Tier 2 genes|Tier 3 genes|
