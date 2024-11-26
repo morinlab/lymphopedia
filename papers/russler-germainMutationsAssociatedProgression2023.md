@@ -15,7 +15,7 @@ In their 2023 study published in *Blood Advances*, Russler-Germain et al. conduc
 - However, mutation burden was notably higher in relapsed/refractory FL and t-FL compared to newly diagnosed FL.
 
 ### Specific Gene Mutations
-- **CREBBP** mutations were more prevalent in FL than in t-FL and were associated with shorter frontline progression-free survival (PFS) in FL patients.
+- *CREBBP* mutations were more prevalent in FL than in t-FL and were associated with shorter frontline progression-free survival (PFS) in FL patients.
 - Mutations in *STAT6*, *TP53*, *IGLL5*, *B2M*, *SOCS1*, and *MYD88* were more common in relapsed/refractory FL or t-FL than in newly diagnosed FL.
 
 ### Mutations Associated with Progression (MAP) Signature
