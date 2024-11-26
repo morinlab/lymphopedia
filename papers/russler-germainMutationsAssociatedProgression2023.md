@@ -19,7 +19,7 @@ In their 2023 study published in *Blood Advances*, Russler-Germain et al. conduc
 - Mutations in *STAT6*, *TP53*, *IGLL5*, *B2M*, *SOCS1*, and *MYD88* were more common in relapsed/refractory FL or t-FL than in newly diagnosed FL.
 
 ### Mutations Associated with Progression (MAP) Signature
-- The MAP signature was defined as the presence of two or more mutations among the seven genes: *CREBBP*, *STAT6*, *TP53*, *IGLL5*, *B2M*, *SOCS1*, and *MYD8**.
+- The MAP signature was defined as the presence of two or more mutations among the seven genes: *CREBBP*, *STAT6*, *TP53*, *IGLL5*, *B2M*, *SOCS1*, and *MYD88*.
 - Patients with newly diagnosed FL possessing a MAP signature exhibited shorter frontline PFS, indicating a higher risk of disease progression.
 
 ## Clinical Implications
