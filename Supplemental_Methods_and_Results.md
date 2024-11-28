@@ -298,7 +298,7 @@ The FLAGS rank of DLBCL genes in Tier 1, 2 and 3 is compared. The genes in the C
 
 |Methodology|Pairs|Unpaired tumors|Cell lines|Tier 1|Tier 2|Tier 3|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|WGS|101|0|0|2|15|22 (56%)|
+|WGS/exome/RNA-seq|101|0|0|2|15|22 (56%)|
 
 ![CXCR4 (**pass**)  - Average rating: &starf; &starf; &starf; &star; &star;](primary/Panea_CXCR4_1.svg)
 
