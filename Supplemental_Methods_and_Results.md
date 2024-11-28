@@ -334,27 +334,27 @@ The FLAGS rank of DLBCL genes in Tier 1, 2 and 3 is compared. The genes in the C
 
 ![HIST1H3H - Average rating: &star; &star; &star; &star; &star;](primary/Panea_HIST1H3H_1.svg)
 
-![HIST1H3J](primary/Panea_HIST1H3J_1.svg)
+![HIST1H3J - Average rating: &star; &star; &star; &star; &star;](primary/Panea_HIST1H3J_1.svg)
 
-![KCNK10](primary/Panea_KCNK10_1.svg)
+![KCNK10 - Average rating: &starf; &starf; &star; &star; &star;](primary/Panea_KCNK10_1.svg)
 
-![MME](primary/Panea_MME_1.svg)
+![MME - Average rating: &starf; &star; &star; &star; &star;](primary/Panea_MME_1.svg)
 
-![MTOR](primary/Panea_MTOR_1.svg)
+![MTOR - Average rating: &starf; &star; &star; &star; &star;](primary/Panea_MTOR_1.svg)
 
-![PABPC4L](primary/Panea_PABPC4L_1.svg)
+![PABPC4L - Average rating: &starf; &starf; &star; &star; &star;](primary/Panea_PABPC4L_1.svg)
 
-![PCDHA11](primary/Panea_PCDHA11_1.svg)
+![PCDHA11 - Average rating: &starf; &star; &star; &star; &star;](primary/Panea_PCDHA11_1.svg)
 
-![PDZRN3](primary/Panea_PDZRN3_1.svg)
+![PDZRN3 - Average rating: &starf; &star; &star; &star; &star;](primary/Panea_PDZRN3_1.svg)
 
-![PIK3R1](primary/Panea_PIK3R1_1.svg)
+![PIK3R1 - Average rating: &starf; &star; &star; &star; &star;](primary/Panea_PIK3R1_1.svg)
 
-![PXDNL](primary/Panea_PXDNL_1.svg)
+![PXDNL - Average rating: &starf; &star; &star; &star; &star;](primary/Panea_PXDNL_1.svg)
 
-![SNTB2](primary/Panea_SNTB2_1.svg)
+![SNTB2 - Average rating: &starf; &starf; &star; &star; &star;](primary/Panea_SNTB2_1.svg)
 
-![WDR7](primary/Panea_WDR7_3.svg)
+![WDR7 - Average rating: &starf; &starf; &star; &star; &star;](primary/Panea_WDR7_3.svg)
 
 <div style="page-break-after: always;"></div>
 
@@ -367,13 +367,13 @@ The FLAGS rank of DLBCL genes in Tier 1, 2 and 3 is compared. The genes in the C
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |Exome|137|167|0|10|13| 6(21%)|
 
-![DOCK1](primary/Chapuy_DOCK1.svg)
+![DOCK1 (pass) - Average rating: &starf; &starf; &starf; &star; &star;](primary/Chapuy_DOCK1.svg)
 
-![FUT5](primary/Chapuy_FUT5.svg)
+![FUT5 - Average rating: &starf; &star; &star; &star; &star;](primary/Chapuy_FUT5.svg)
 
-![NLRP8](primary/Chapuy_NLRP8.svg)
+![NLRP8 - Average rating: &starf; &starf; &star; &star; &star;](primary/Chapuy_NLRP8.svg)
 
-![PDE4DIP](primary/Chapuy_PDE4DIP.svg)
+![PDE4DIP - Average rating: &starf; &starf; &star; &star; &star;](primary/Chapuy_PDE4DIP.svg)
 
 ### Hübschmann *et al*, 2021 <a name="icgc"></a>
 
