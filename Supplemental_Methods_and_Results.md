@@ -47,11 +47,11 @@ We used another approach to assess the reproducibility of the Zhang study. In th
 
 |Study|Novel genes|Failed review|Mutations reported|Mutations reproduced|
 |:-:|:-:|:-:|:-:|:-:|
-|Chapuy|19|6 (31.5%)|75|58 (77.3%)|
-|Panea|37|22 (59.4%)|365|145 (39.7%)|
-|Reddy|54|26 (48%)|1398|484 (34.6%)|
-|Fan\*|73|NA|217|81 (37.3%)|
-|Zhang\*\*|280|NA|263|128 (48.7%)|
+|Chapuy @chapuyMolecularSubtypesDiffuse2018|19|6 (31.5%)|75|58 (77.3%)|
+|Panea @paneaWholeGenomeLandscape2019|37|22 (59.4%)|365|145 (39.7%)|
+|Reddy @reddyGeneticFunctionalDrivers2017|54|26 (48%)|1398|484 (34.6%)|
+|Fan\* @fanComprehensiveCharacterizationDriver2020|73|NA|217|81 (37.3%)|
+|Zhang\*\* @zhangGeneticHeterogeneityDiffuse2013|280|NA|263|128 (48.7%)|
 \*Mutations from this study were not released. Only gene-level comparisons were performed. 
 
 \*\*Gene-level comparisons were performed on 16 cases overlapping the Reddy cohort.
