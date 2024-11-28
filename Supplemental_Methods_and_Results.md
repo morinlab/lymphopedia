@@ -116,41 +116,13 @@ The FLAGS rank of DLBCL genes in Tier 1, 2 and 3 is compared. The genes in the C
 ![COL4A2 - Average rating: &starf; &star; &star; &star; &star;](primary/Love_COL4A2.svg)
 
 
+![CYP4F22 - Average rating: &starf; &star; &star; &star; &star;](primary/Love_CYP4F22_15523136.png)
 
+![DLGAP1 - Average rating: &starf; &star; &star; &star; &star;](primary/Love_DLGAP_chr18_3869854.png)
 
+![DTX1 - Average rating: &starf; &star; &star; &star; &star;](primary/Love_DTX1_chr12_112017255.png)
 
-### CYP4F22 - fail (insufficient support)
-
-
-![CYP4F22](primary/Love_CYP4F22_15523136.png)
-
-Average rating: &starf; &star; &star; &star; &star;
-
-
-### DLGAP1 - fail (insufficient support)
-
-![DLGAP1](primary/Love_DLGAP_chr18_3869854.png)
-
-Average rating: &starf; &star; &star; &star; &star;
-
-<div style="page-break-after: always;"></div>
-
-### DTX1 - fail (insufficient support)
-
-![DTX1](primary/Love_DTX1_chr12_112017255.png)
-
-Average rating: &starf; &star; &star; &star; &star;
-
-
-### EIF2C4 - fail (insufficient support)
-
-![EIF2C4](primary/Love_EIF2C4.svg)
-
-Average rating: &starf; &star; &star; &star; &star;
-
-<div style="page-break-after: always;"></div>
-
-### EML2 - fail (insufficient support)
+![EIF2C4 - Average rating: &starf; &star; &star; &star; &star;](primary/Love_EIF2C4.svg)
 
 ![EML2](primary/Love_EML2_50816396.png)
 
