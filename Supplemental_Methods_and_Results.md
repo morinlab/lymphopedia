@@ -124,157 +124,100 @@ The FLAGS rank of DLBCL genes in Tier 1, 2 and 3 is compared. The genes in the C
 
 ![EIF2C4 - Average rating: &starf; &star; &star; &star; &star;](primary/Love_EIF2C4.svg)
 
-![EML2](primary/Love_EML2_50816396.png)
+![EML2 - Average rating: &starf; &star; &star; &star; &star;](primary/Love_EML2_50816396.png)
 
-Average rating: &starf; &star; &star; &star; &star;
-
-### ENTPD3 - fail (insufficient support)
 
 ![ENTPD3](primary/Love_ENTPD3.svg)
 
 Average rating: &starf; &starf; &star; &star; &star;
 
-<div style="page-break-after: always;"></div>
-
-### EPHB2 - fail (insufficient support)
 
 ![EPHB2](primary/Love_EPHB2.svg)
 
 Average rating: &starf; &starf; &star; &star; &star;
 
-### FAM129B - fail (insufficient support)
-
 ![FAM129B](primary/Love_FAM129B.svg)
 
 Average rating: &starf; &starf; &star; &star; &star;
 
-<div style="page-break-after: always;"></div>
-
-### FGFR3 - fail (insufficient support)
 
 ![FGFR3](primary/Love_FGFR3.svg)
 
 Average rating: &starf; &star; &star; &star; &star;
 
-### FTCD - fail (germline)
-
 ![FTCD](primary/Love_FTCD.svg)
 
 Average rating: Germline
 
-<div style="page-break-after: always;"></div>
-
-### GRIK5 - fail (insufficient support)
-
 ![GRIK5](primary/Love_GRIK5.svg)
 
 Average rating: &starf; &star; &star; &star; &star;
-
-### ICK - fail (insufficient support)
 
 ![ICK](primary/Love_ICK.svg)
 
 Average rating: &starf; &star; &star; &star; &star;
 
 
-<div style="page-break-after: always;"></div>
-
-### ITPR3 - fail (insufficient support)
 
 ![ITPR3](primary/Love_ITPR3.svg)
 
 Average rating: &starf; &star; &star; &star; &star;
 
 
-### KIFC3 - fail (insufficient support)
-
 ![KIFC3](primary/Love_KIFC3_2_56362071.png)
 
 Average rating: &starf; &star; &star; &star; &star;
 
-
-<div style="page-break-after: always;"></div>
-
-### MAP3K6 - fail (insufficient support)
 
 ![MAP3K6](primary/Love_MAP3K6.svg)
 
 Average rating: &starf; &star; &star; &star; &star;
 
 
-
-### MYH10 - fail (insufficient support)
-
 ![MYH10](primary/Love_MYH10.svg)
 
 Average rating: &starf; &star; &star; &star; &star;
 
-<div style="page-break-after: always;"></div> 
 
-### NOTCH1 - fail (insufficient support)
 
 ![NOTCH1](primary/Love_NOTCH1.svg)
 
 Average rating: &starf; &star; &star; &star; &star;
 
-### NRXN2 - fail (insufficient support)
 
 ![NRXN2](primary/Love_NRXN2.svg)
 
 Average rating: &starf; &star; &star; &star; &star;
 
-<div style="page-break-after: always;"></div>
-
-### PC - fail (insufficient support)
 
 ![PC](primary/Love_PC_chr11_66374870.png)
 
 Average rating: &starf; &star; &star; &star; &star;
 
-### POLRMT - fail (insufficient support)
-
 ![POLRMT](primary/Love_POLRMT.svg)
 
 Average rating: &starf; &star; &star; &star; &star;
 
-<div style="page-break-after: always;"></div>
-
-### POR - fail (insufficient support)
 
 ![POR](primary/Love_POR.svg)
 
 Average rating: &starf; &star; &star; &star; &star;
 
-
-### PRSS22 - fail (insufficient support)
-
 ![PRSS22](primary/Love_PRSS22.svg)
 
 Average rating: &starf; &star; &star; &star; &star;
-
-<div style="page-break-after: always;"></div>
-
-### PTPRN - fail (insufficient support)
 
 ![PTPRN](primary/Love_PTPRN.svg)
 
 Average rating: &starf; &star; &star; &star; &star;
 
-### RBP3 - fail (insufficient support)
-
 ![RBP3](primary/Love_RBP3.svg)
-
-Average rating: &starf; &star; &star; &star; &star;
-
-<div style="page-break-after: always;"></div>
 
 ### RET - fail (insufficient support)
 
 ![RET](primary/Love_RET_42930092.png)
 
 Average rating: &starf; &star; &star; &star; &star;
-
-### SALL3 - fail (insufficient support)
 
 ![SALL3](primary/Love_SALL3.svg)
 
@@ -401,75 +344,37 @@ Average rating: &starf; &starf; &star; &star; &star;
 
 Average rating: &starf; &starf; &star; &star; &star;
 
-<div style="page-break-after: always;"></div>
-
-### CHD1 - fail (insufficient support)
-
 ![CHD1](primary/Reddy_CHD1.svg)
 
 Average rating: &starf; &starf; &star; &star; &star;
-
-<div style="page-break-after: always;"></div>
-
-### CHST2 - fail (insufficient support)
 
 ![CHST2](primary/Reddy_CHST2.svg)
 
 Average rating: &starf; &starf; &star; &star; &star;
 
-
-<div style="page-break-after: always;"></div>
-
-### DCAF6 - fail (insufficient support)
-
 ![DCAF6](primary/Reddy_DCAF6.svg)
 
 Average rating: &starf; &starf; &star; &star; &star;
-
-<div style="page-break-after: always;"></div>
-
-### DICER1 - fail (insufficient support)
 
 ![DICER1](primary/Reddy_DICER1.svg)
 
 Average rating: &starf; &starf; &star; &star; &star;
 
-
-<div style="page-break-after: always;"></div>
-
-### DNMT3A - fail (insufficient support)
-
 ![DNMT3A](primary/Reddy_DNMT3A.svg)
 
 Average rating: &starf; &star; &star; &star; &star;
-
-<div style="page-break-after: always;"></div>
-
-### GNAS - fail (insufficient support)
 
 ![GNAS](primary/Reddy_GNAS.svg)
 
 Average rating: &starf; &starf; &star; &star; &star;
 
-<div style="page-break-after: always;"></div>
-
-### HRAS - fail (insufficient support)
-
 ![HRAS](primary/Reddy_HRAS.svg)
 
 Average rating: &starf; &starf; &star; &star; &star;
 
-<div style="page-break-after: always;"></div>
-
-### LIN54 - fail (insufficient support)
-
 ![LIN54](primary/Reddy_LIN54.svg)
 
 Average rating: &starf; &starf; &star; &star; &star;
-
-<div style="page-break-after: always;"></div>
-
-### MAP4K4 - fail (insufficient support)
 
 ![MAP4K4](primary/Reddy_MAP4K4.svg)
 
@@ -758,17 +663,9 @@ Average rating: &starf; &starf; &starf; &star; &star;
 
 ![PIK3R1](primary/Panea_PIK3R1_1.svg)
 
-### PXDNL - fail (insufficient support)
-
 ![PXDNL](primary/Panea_PXDNL_1.svg)
 
-### SNTB2 - fail (insufficient support)
-
 ![SNTB2](primary/Panea_SNTB2_1.svg)
-
-<div style="page-break-after: always;"></div>
-
-### WDR7 - fail (insufficient support)
 
 ![WDR7](primary/Panea_WDR7_3.svg)
 
@@ -783,30 +680,13 @@ Average rating: &starf; &starf; &starf; &star; &star;
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |Exome|137|167|0|10|13| 6(21%)|
 
-### DOCK1 - pass
-
 ![DOCK1](primary/Chapuy_DOCK1.svg)
-
-
-<div style="page-break-after: always;"></div>
-
-### FUT5 - fail (insufficient support)
 
 ![FUT5](primary/Chapuy_FUT5.svg)
 
-<div style="page-break-after: always;"></div>
-
-### NLRP8 - fail (insufficient support)
-
 ![NLRP8](primary/Chapuy_NLRP8.svg)
 
-<div style="page-break-after: always;"></div>
-
-### PDE4DIP - fail (insufficient support)
-
 ![PDE4DIP](primary/Chapuy_PDE4DIP.svg)
-
-<div style="page-break-after: always;"></div>
 
 ### Hübschmann *et al*, 2021 <a name="icgc"></a>
 
@@ -817,26 +697,11 @@ Average rating: &starf; &starf; &starf; &star; &star;
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |WGS|179|2|0|5|31| 3 (7.7%)|
 
-### IKBKE - pass
-
 ![IKBKE](primary/ICGC_IKBKE.svg)
-
-<div style="page-break-after: always;"></div>
-
-### GAK - fail (insufficient support)
 
 ![GAK](primary/ICGC_GAK.svg)
 
-<div style="page-break-after: always;"></div>
-
-### HLA-DQA1 - fail (insufficient support)
-
 ![HLA-DQA1](primary/ICGC_HLA-DQA1.svg)
-
-
-<div style="page-break-after: always;"></div>
-
-### NR2F2 - fail (insufficient support)
 
 ![NR2F2](primary/ICGC_NR2F2.svg)
 
