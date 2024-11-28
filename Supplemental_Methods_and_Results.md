@@ -226,48 +226,27 @@ The FLAGS rank of DLBCL genes in Tier 1, 2 and 3 is compared. The genes in the C
 
 ![CHST2 - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_CHST2.svg)
 
-![DCAF6](primary/Reddy_DCAF6.svg)
-
-Average rating: &starf; &starf; &star; &star; &star;
-
-![DICER1](primary/Reddy_DICER1.svg)
-
-Average rating: &starf; &starf; &star; &star; &star;
-
-![DNMT3A](primary/Reddy_DNMT3A.svg)
-
-Average rating: &starf; &star; &star; &star; &star;
-
-![GNAS](primary/Reddy_GNAS.svg)
-
-Average rating: &starf; &starf; &star; &star; &star;
-
-![HRAS](primary/Reddy_HRAS.svg)
-
-Average rating: &starf; &starf; &star; &star; &star;
-
-![LIN54](primary/Reddy_LIN54.svg)
-
-Average rating: &starf; &starf; &star; &star; &star;
-
-![MAP4K4](primary/Reddy_MAP4K4.svg)
-
-Average rating: &starf; &starf; &star; &star; &star;
+![DCAF6 - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_DCAF6.svg)
 
 
-![MARK1](primary/Reddy_MARK1.svg)
-
-Average rating: &starf; &star; &star; &star; &star;
+![DICER1 - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_DICER1.svg)
 
 
-![MSH2](primary/Reddy_MSH2.svg)
+![DNMT3A - Average rating: &starf; &star; &star; &star; &star;](primary/Reddy_DNMT3A.svg)
 
-Average rating: &starf; &starf; &star; &star; &star;
+![GNAS - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_GNAS.svg)
 
+![HRAS - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_HRAS.svg)
 
-![MYB](primary/Reddy_MYB.svg)
+![LIN54 - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_LIN54.svg)
 
-Average rating: &starf; &starf; &star; &star; &star;
+![MAP4K4 - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_MAP4K4.svg)
+
+![MARK1 - Average rating: &starf; &star; &star; &star; &star;](primary/Reddy_MARK1.svg)
+
+![MSH2 - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_MSH2.svg)
+
+![MYB - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_MYB.svg)
 
 ![NCOR1 - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_NCOR1.svg)
 
@@ -277,48 +256,21 @@ Average rating: &starf; &starf; &star; &star; &star;
 
 ![PTPRK - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_PTPRK.svg)
 
+![RARA - Average rating: &starf; &star; &star; &star; &star;](primary/Reddy_RARA.svg)
 
-<div style="page-break-after: always;"></div>
+![RUNX1 - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_RUNX1.svg)
 
-### RARA - fail (insufficient support)
-
-![RARA](primary/Reddy_RARA.svg)
-
-Average rating: &starf; &star; &star; &star; &star;
-
-<div style="page-break-after: always;"></div>
-
-### RUNX1 - fail (insufficient support)
-
-![RUNX1](primary/Reddy_RUNX1.svg)
-
-Average rating: &starf; &starf; &star; &star; &star;
-
-<div style="page-break-after: always;"></div>
-
-### SYK - fail (insufficient support)
-
-![SYK](primary/Reddy_SYK.svg)
-
-Average rating: &starf; &starf; &star; &star; &star;
-
-<div style="page-break-after: always;"></div>
-
-### WAC - fail (insufficient support)
-
-![WAC](primary/Reddy_WAC.svg)
-
-Average rating: &starf; &starf; &star; &star; &star;
+![SYK - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_SYK.svg)
 
 
-![ZBTB7A](primary/Reddy_ZBTB7A.svg)
+![WAC - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_WAC.svg)
 
-Average rating: &starf; &star; &star; &star; &star;
+![ZBTB7A - Average rating: &starf; &star; &star; &star; &star;](primary/Reddy_ZBTB7A.svg)
 
 
-![ZFAT](primary/Reddy_ZFAT.svg)
+![ZFAT - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_ZFAT.svg)
 
-Average rating: &starf; &starf; &star; &star; &star;
+
 
 <div style="page-break-after: always;"></div>
 
