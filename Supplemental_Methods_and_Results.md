@@ -126,159 +126,70 @@ The FLAGS rank of DLBCL genes in Tier 1, 2 and 3 is compared. The genes in the C
 
 ![EML2 - Average rating: &starf; &star; &star; &star; &star;](primary/Love_EML2_50816396.png)
 
-
 ![ENTPD3 - Average rating: &starf; &starf; &star; &star; &star;](primary/Love_ENTPD3.svg)
-
-
-
 
 ![EPHB2 - Average rating: &starf; &starf; &star; &star; &star;](primary/Love_EPHB2.svg)
 
-
-
 ![FAM129B - Average rating: &starf; &starf; &star; &star; &star;](primary/Love_FAM129B.svg)
-
-
-
 
 ![FGFR3 - Average rating: &starf; &star; &star; &star; &star;](primary/Love_FGFR3.svg)
 
-
 ![FTCD - Average rating: Germline](primary/Love_FTCD.svg)
-
-
 
 ![GRIK5 - Average rating: &starf; &star; &star; &star; &star;](primary/Love_GRIK5.svg)
 
-
-
 ![ICK - Average rating: &starf; &star; &star; &star; &star;](primary/Love_ICK.svg)
 
+![ITPR3 - Average rating: &starf; &star; &star; &star; &star;](primary/Love_ITPR3.svg)
+
+![KIFC3 - Average rating: &starf; &star; &star; &star; &star;](primary/Love_KIFC3_2_56362071.png)
+
+![MAP3K6 - Average rating: &starf; &star; &star; &star; &star;](primary/Love_MAP3K6.svg)
+
+![MYH10 - Average rating: &starf; &star; &star; &star; &star;](primary/Love_MYH10.svg)
+
+![NOTCH1 - Average rating: &starf; &star; &star; &star; &star;](primary/Love_NOTCH1.svg)
+
+![NRXN2 - Average rating: &starf; &star; &star; &star; &star;](primary/Love_NRXN2.svg)
+
+![PC - Average rating: &starf; &star; &star; &star; &star;](primary/Love_PC_chr11_66374870.png)
+
+![POLRMT - Average rating: &starf; &star; &star; &star; &star;](primary/Love_POLRMT.svg)
 
 
+![POR - Average rating: &starf; &star; &star; &star; &star;](primary/Love_POR.svg)
 
 
-![ITPR3](primary/Love_ITPR3.svg)
+![PRSS22 - Average rating: &starf; &star; &star; &star; &star;](primary/Love_PRSS22.svg)
 
-Average rating: &starf; &star; &star; &star; &star;
-
-
-![KIFC3](primary/Love_KIFC3_2_56362071.png)
-
-Average rating: &starf; &star; &star; &star; &star;
-
-
-![MAP3K6](primary/Love_MAP3K6.svg)
-
-Average rating: &starf; &star; &star; &star; &star;
-
-
-![MYH10](primary/Love_MYH10.svg)
-
-Average rating: &starf; &star; &star; &star; &star;
-
-
-
-![NOTCH1](primary/Love_NOTCH1.svg)
-
-Average rating: &starf; &star; &star; &star; &star;
-
-
-![NRXN2](primary/Love_NRXN2.svg)
-
-Average rating: &starf; &star; &star; &star; &star;
-
-
-![PC](primary/Love_PC_chr11_66374870.png)
-
-Average rating: &starf; &star; &star; &star; &star;
-
-![POLRMT](primary/Love_POLRMT.svg)
-
-Average rating: &starf; &star; &star; &star; &star;
-
-
-![POR](primary/Love_POR.svg)
-
-Average rating: &starf; &star; &star; &star; &star;
-
-![PRSS22](primary/Love_PRSS22.svg)
-
-Average rating: &starf; &star; &star; &star; &star;
-
-![PTPRN](primary/Love_PTPRN.svg)
-
-Average rating: &starf; &star; &star; &star; &star;
+![PTPRN - Average rating: &starf; &star; &star; &star; &star;](primary/Love_PTPRN.svg)
 
 ![RBP3](primary/Love_RBP3.svg)
 
-### RET - fail (insufficient support)
 
-![RET](primary/Love_RET_42930092.png)
-
-Average rating: &starf; &star; &star; &star; &star;
-
-![SALL3](primary/Love_SALL3.svg)
-
-Average rating: &starf; &starf; &star; &star; &star;
-
-<div style="page-break-after: always;"></div>
-
-### SAPS2 - fail (insufficient support)
-
-![SAPS2](primary/Love_SAPS2.svg)
-
-Average rating: &starf; &star; &star; &star; &star;
+![RET - Average rating: &starf; &star; &star; &star; &star;](primary/Love_RET_42930092.png)
 
 
 
-### SBF1 - fail (insufficient support)
-
-![SBF1](primary/Love_SBF1.svg)
-
-Average rating: &starf; &starf; &star; &star; &star;
-
-<div style="page-break-after: always;"></div>
-
-### SF3B1 - fail (insufficient support)
-
-![SF3B1](primary/Love_SF3B1.svg)
-
-Average rating: &starf; &starf; &starf; &starf; &star;
-
-### SLC29A2 - fail (insufficient support)
-
-![SLC29A2](primary/Love_SLC29A2.svg)
-
-Average rating: &starf; &star; &star; &star; &star;
-
-<div style="page-break-after: always;"></div>
-
-
-### SHANK1 - fail (insufficient support)
-
-![SHANK1](primary/Love_SHANK1.svg)
-
-Average rating: &starf; &star; &star; &star; &star;
-
-
-### SYNGAP1 - fail (insufficient support)
-
-![SYNGAP1](primary/Love_SYNGAP1_33518868.png)
-
-Average rating: &starf; &star; &star; &star; &star;
-
-<div style="page-break-after: always;"></div>
-
-### TBC1D9B - fail (insufficient support)
-
-![TBC1D9B](primary/Love_TBC1D9B.svg)
-
-Average rating: &starf; &star; &star; &star; &star;
+![SALL3 - Average rating: &starf; &starf; &star; &star; &star;](primary/Love_SALL3.svg)
 
 
 
-### TIGD6 - fail (insufficient support)
+![SAPS2 - Average rating: &starf; &star; &star; &star; &star;](primary/Love_SAPS2.svg)
+
+
+![SBF1 - Average rating: &starf; &starf; &star; &star; &star;](primary/Love_SBF1.svg)
+
+![SF3B1 - Average rating: &starf; &starf; &starf; &starf; &star;](primary/Love_SF3B1.svg)
+
+![SLC29A2 - Average rating: &starf; &star; &star; &star; &star;](primary/Love_SLC29A2.svg)
+
+![SHANK1 - Average rating: &starf; &star; &star; &star; &star;](primary/Love_SHANK1.svg)
+
+![SYNGAP1 - Average rating: &starf; &star; &star; &star; &star;](primary/Love_SYNGAP1_33518868.png)
+
+
+![TBC1D9B - Average rating: &starf; &star; &star; &star; &star;](primary/Love_TBC1D9B.svg)
 
 ![TIGD6 - Average rating: &starf; &star; &star; &star; &star;](primary/Love_TIGD6.svg)
 
@@ -305,25 +216,15 @@ Average rating: &starf; &star; &star; &star; &star;
 
 ![ARID1B - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_ARID1B_1.svg)
 
-![CBLB](primary/Reddy_CBLB_1.svg)
+![CBLB - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_CBLB_1.svg)
 
-Average rating: &starf; &starf; &star; &star; &star;
+![CDC73 - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_CDC73.svg)
 
-![CDC73](primary/Reddy_CDC73.svg)
+![CHD8 - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_CHD8.svg)
 
-Average rating: &starf; &starf; &star; &star; &star;
+![CHD1 - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_CHD1.svg)
 
-![CHD8](primary/Reddy_CHD8.svg)
-
-Average rating: &starf; &starf; &star; &star; &star;
-
-![CHD1](primary/Reddy_CHD1.svg)
-
-Average rating: &starf; &starf; &star; &star; &star;
-
-![CHST2](primary/Reddy_CHST2.svg)
-
-Average rating: &starf; &starf; &star; &star; &star;
+![CHST2 - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_CHST2.svg)
 
 ![DCAF6](primary/Reddy_DCAF6.svg)
 
