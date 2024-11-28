@@ -310,30 +310,29 @@ The FLAGS rank of DLBCL genes in Tier 1, 2 and 3 is compared. The genes in the C
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |WGS|101|0|0|2|15|22 (56%)|
 
-
 ![CXCR4 - **pass**](primary/Panea_CXCR4_1.svg)
 
-![ALPK2](primary/Panea_ALPK2.svg)
+![ALPK2 - Average rating: &starf; &star; &star; &star; &star;](primary/Panea_ALPK2.svg)
 
 ![CD79B](primary/Panea_CD79B.svg)
 
-![CTCF](primary/Panea_CTCF_1.svg)
+![CTCF - Average rating: &starf; &star; &star; &star; &star;](primary/Panea_CTCF_1.svg)
 
-![DNMT1](primary/Panea_DNMT1_1.svg)
+![DNMT1 - Average rating: &starf; &star; &star; &star; &star;](primary/Panea_DNMT1_1.svg)
 
-![ETS1](primary/Panea_ETS1_1.svg)
+![ETS1 - Average rating: &starf; &star; &star; &star; &star;](primary/Panea_ETS1_1.svg)
 
-![FZD3](primary/Panea_FZD3_1.svg)
+![FZD3 - Average rating: &starf; &star; &star; &star; &star;](primary/Panea_FZD3_1.svg)
 
 ![HIST1H1C](primary/Panea_HIST1H1C_3.svg)
 
 ![HIST1H2AG](primary/Panea_HIST1H2AG_3.svg)
 
-![HIST1H2AM](primary/Panea_HIST1H2AM_1.svg)
+![HIST1H2AM - Average rating: &star; &star; &star; &star; &star;](primary/Panea_HIST1H2AM_1.svg)
 
-![HIST1H2BK](primary/Panea_HIST1H2BK_1.svg)
+![HIST1H2BK - Average rating: &starf; &star; &star; &star; &star;](primary/Panea_HIST1H2BK_1.svg)
 
-![HIST1H3H](primary/Panea_HIST1H3H_1.svg)
+![HIST1H3H - Average rating: &star; &star; &star; &star; &star;](primary/Panea_HIST1H3H_1.svg)
 
 ![HIST1H3J](primary/Panea_HIST1H3J_1.svg)
 
