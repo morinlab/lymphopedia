@@ -127,35 +127,34 @@ The FLAGS rank of DLBCL genes in Tier 1, 2 and 3 is compared. The genes in the C
 ![EML2 - Average rating: &starf; &star; &star; &star; &star;](primary/Love_EML2_50816396.png)
 
 
-![ENTPD3](primary/Love_ENTPD3.svg)
-
-Average rating: &starf; &starf; &star; &star; &star;
+![ENTPD3 - Average rating: &starf; &starf; &star; &star; &star;](primary/Love_ENTPD3.svg)
 
 
-![EPHB2](primary/Love_EPHB2.svg)
-
-Average rating: &starf; &starf; &star; &star; &star;
-
-![FAM129B](primary/Love_FAM129B.svg)
-
-Average rating: &starf; &starf; &star; &star; &star;
 
 
-![FGFR3](primary/Love_FGFR3.svg)
+![EPHB2 - Average rating: &starf; &starf; &star; &star; &star;](primary/Love_EPHB2.svg)
 
-Average rating: &starf; &star; &star; &star; &star;
 
-![FTCD](primary/Love_FTCD.svg)
 
-Average rating: Germline
+![FAM129B - Average rating: &starf; &starf; &star; &star; &star;](primary/Love_FAM129B.svg)
 
-![GRIK5](primary/Love_GRIK5.svg)
 
-Average rating: &starf; &star; &star; &star; &star;
 
-![ICK](primary/Love_ICK.svg)
 
-Average rating: &starf; &star; &star; &star; &star;
+![FGFR3 - Average rating: &starf; &star; &star; &star; &star;](primary/Love_FGFR3.svg)
+
+
+![FTCD - Average rating: Germline](primary/Love_FTCD.svg)
+
+
+
+![GRIK5 - Average rating: &starf; &star; &star; &star; &star;](primary/Love_GRIK5.svg)
+
+
+
+![ICK - Average rating: &starf; &star; &star; &star; &star;](primary/Love_ICK.svg)
+
+
 
 
 
