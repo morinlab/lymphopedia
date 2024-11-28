@@ -281,23 +281,14 @@ Average rating: &starf; &star; &star; &star; &star;
 
 ### TIGD6 - fail (insufficient support)
 
-![TIGD6](primary/Love_TIGD6.svg)
+![TIGD6 - Average rating: &starf; &star; &star; &star; &star;](primary/Love_TIGD6.svg)
 
-Average rating: &starf; &star; &star; &star; &star;
+![TPST2 - Average rating: &starf; &star; &star; &star; &star;](primary/Love_TPST2.svg)
 
-<div style="page-break-after: always;"></div>
 
-### TPST2 - fail (insufficient support)
+![ZNF229 - Average rating: Germline](primary/Love_ZNF229_chr19_49624750_also_in_germline.png)
 
-![TPST2](primary/Love_TPST2.svg)
 
-Average rating: &starf; &star; &star; &star; &star;
-
-### ZNF229 - fail (germline)
-
-![ZNF229](primary/Love_ZNF229_chr19_49624750_also_in_germline.png)
-
-Average rating: Germline
 
 <div style="page-break-after: always;"></div>
 
@@ -310,35 +301,18 @@ Average rating: Germline
 |Exome|400|601|0|13|28|26 (39%)|
 
 
-### ARID5B - pass
 
-![ARID5B](primary/Reddy_ARID5B_1.svg)
+![ARID5B - Average rating: &starf; &starf; &starf; &starf; &star;](primary/Reddy_ARID5B_1.svg)
 
-Average rating: &starf; &starf; &starf; &starf; &star;
-
-### ARID1B - fail (insufficient support)
-
-![ARID1B](primary/Reddy_ARID1B_1.svg)
-
-Average rating: &starf; &starf; &star; &star; &star;
-
-<div style="page-break-after: always;"></div>
-
-### CBLB - fail (insufficient support)
+![ARID1B - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_ARID1B_1.svg)
 
 ![CBLB](primary/Reddy_CBLB_1.svg)
 
 Average rating: &starf; &starf; &star; &star; &star;
 
-<div style="page-break-after: always;"></div>
-
-### CDC73 - fail (insufficient support)
-
 ![CDC73](primary/Reddy_CDC73.svg)
 
 Average rating: &starf; &starf; &star; &star; &star;
-
-### CHD8 - fail (insufficient support)
 
 ![CHD8](primary/Reddy_CHD8.svg)
 
@@ -380,25 +354,16 @@ Average rating: &starf; &starf; &star; &star; &star;
 
 Average rating: &starf; &starf; &star; &star; &star;
 
-<div style="page-break-after: always;"></div>
-
-### MARK1 - fail (insufficient support)
 
 ![MARK1](primary/Reddy_MARK1.svg)
 
 Average rating: &starf; &star; &star; &star; &star;
 
-<div style="page-break-after: always;"></div>
-
-### MSH2 - fail (insufficient support)
 
 ![MSH2](primary/Reddy_MSH2.svg)
 
 Average rating: &starf; &starf; &star; &star; &star;
 
-<div style="page-break-after: always;"></div>
-
-### MYB - fail (insufficient support)
 
 ![MYB](primary/Reddy_MYB.svg)
 
@@ -412,17 +377,11 @@ Average rating: &starf; &starf; &star; &star; &star;
 
 Average rating: &starf; &starf; &star; &star; &star;
 
-<div style="page-break-after: always;"></div>
-
-### NFKB2 - fail (insufficient support)
 
 ![NFKB2](primary/Reddy_NFKB2.svg)
 
 Average rating: &starf; &starf; &star; &star; &star;
 
-<div style="page-break-after: always;"></div>
-
-### PHF6 - fail (insufficient support)
 
 ![PHF6](primary/Reddy_PHF6.svg)
 
@@ -469,17 +428,11 @@ Average rating: &starf; &starf; &star; &star; &star;
 
 Average rating: &starf; &starf; &star; &star; &star;
 
-<div style="page-break-after: always;"></div>
-
-### ZBTB7A - fail (insufficient support)
 
 ![ZBTB7A](primary/Reddy_ZBTB7A.svg)
 
 Average rating: &starf; &star; &star; &star; &star;
 
-<div style="page-break-after: always;"></div>
-
-### ZFAT - fail (insufficient support)
 
 ![ZFAT](primary/Reddy_ZFAT.svg)
 
