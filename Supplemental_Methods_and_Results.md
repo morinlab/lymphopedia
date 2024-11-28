@@ -410,109 +410,43 @@ Average rating: &starf; &starf; &starf; &star; &star;
 
 ### CXCR4 - pass
 
-![CXCR4](primary/Panea_CXCR4_1.svg)
-
-
-### ALPK2 - fail (insufficient support)
+![CXCR4 - pass](primary/Panea_CXCR4_1.svg)
 
 ![ALPK2](primary/Panea_ALPK2.svg)
 
-<div style="page-break-after: always;"></div>
-
-
-### CD79B - fail (insufficient support, RNA-only)
-
 ![CD79B](primary/Panea_CD79B.svg)
-
-
-
-### CTCF - fail (insufficient support)
 
 ![CTCF](primary/Panea_CTCF_1.svg)
 
-<div style="page-break-after: always;"></div>
-
-
-### DNMT1 - fail (insufficient support)
-
 ![DNMT1](primary/Panea_DNMT1_1.svg)
-
-
-
-### ETS1 - fail (insufficient support, RNA-only)
 
 ![ETS1](primary/Panea_ETS1_1.svg)
 
-<div style="page-break-after: always;"></div>
-
-### FZD3 - fail (insufficient support)
-
 ![FZD3](primary/Panea_FZD3_1.svg)
-
-<div style="page-break-after: always;"></div>
-
-### HIST1H1C - fail (insufficient support)
 
 ![HIST1H1C](primary/Panea_HIST1H1C_3.svg)
 
-<div style="page-break-after: always;"></div>
-
-
-### HIST1H2AG - fail (insufficient support)
-
 ![HIST1H2AG](primary/Panea_HIST1H2AG_3.svg)
-
-
-### HIST1H2AM - fail (insufficient support, RNA-only)
 
 ![HIST1H2AM](primary/Panea_HIST1H2AM_1.svg)
 
-<div style="page-break-after: always;"></div>
-
-### HIST1H2BK - fail (insufficient support)
-
 ![HIST1H2BK](primary/Panea_HIST1H2BK_1.svg)
-
-### HIST1H3H - fail (insufficient support)
 
 ![HIST1H3H](primary/Panea_HIST1H3H_1.svg)
 
-<div style="page-break-after: always;"></div>
-
-### HIST1H3J - fail (insufficient support)
-
 ![HIST1H3J](primary/Panea_HIST1H3J_1.svg)
-
-### KCNK10 - fail (insufficient support)
 
 ![KCNK10](primary/Panea_KCNK10_1.svg)
 
-### MME - fail (insufficient support)
-
 ![MME](primary/Panea_MME_1.svg)
-
-<div style="page-break-after: always;"></div>
-
-### MTOR - fail (insufficient support)
 
 ![MTOR](primary/Panea_MTOR_1.svg)
 
-### PABPC4L - fail (insufficient support)
-
 ![PABPC4L](primary/Panea_PABPC4L_1.svg)
-
-
-### PCDHA11 - fail (insufficient support)
 
 ![PCDHA11](primary/Panea_PCDHA11_1.svg)
 
-### PDZRN3 - fail (insufficient support)
-
 ![PDZRN3](primary/Panea_PDZRN3_1.svg)
-
-<div style="page-break-after: always;"></div>
-
-### PIK3R1 - fail (insufficient support)
 
 ![PIK3R1](primary/Panea_PIK3R1_1.svg)
 
