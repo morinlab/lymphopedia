@@ -22,12 +22,12 @@ While establishing the current gene lists, six studies were selected for manual 
 
 |Study|Methodology|Entity|
 |:---:|:--:|:-:|
-|LL[Love *et al*, 2012 @loveGeneticLandscapeMutations2012](#love)|Exome|BL|
-|[Morin *et al*, 2013](#morin)|WGS|DLBCL|
-|[Reddy *et al*, 2017](#reddy)|Exome|DLBCL|
-|[Panea *et al*, 2019](#panea)|Exome/RNA-seq|BL|
-|[Chapuy *et al*, 2018](#chapuy)|Exome|DLBCL|
-|[Hübschmann *et al*, 2021](#icgc)|WGS|DLBCL,FL|
+|[Love *et al*, 2012 @loveGeneticLandscapeMutations2012](#love)|Exome|BL|
+|[Morin *et al*, 2013 @morinMutationalStructuralAnalysis2013](#morin)|WGS|DLBCL|
+|[Reddy *et al*, 2017 @reddyGeneticFunctionalDrivers2017](#reddy)|Exome|DLBCL|
+|[Panea *et al*, 2019 @paneaWholeGenomeLandscape2019](#panea)|Exome/RNA-seq|BL|
+|[Chapuy *et al*, 2018 @chapuyMolecularSubtypesDiffuse2018](#chapuy)|Exome|DLBCL|
+|[Hübschmann *et al*, 2021 @hubschmannMutationalMechanismsShaping2021](#icgc)|WGS|DLBCL,FL|
 
 
 
