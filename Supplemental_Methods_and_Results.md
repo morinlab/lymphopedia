@@ -104,9 +104,9 @@ Average rating: &starf; &star; &star; &star; &star;
 
 ### ACE - fail (insufficient support) 
 
-![ACE - fail (insufficient support)](primary/Love_ACE.svg)
+![ACE - fail (insufficient support) Average rating: &starf; &star; &star; &star; &star;](primary/Love_ACE.svg)
 
-Average rating: &starf; &star; &star; &star; &star;
+
 
 ### ATP2C2 - fail (insufficient support) 
 
