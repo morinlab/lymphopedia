@@ -359,13 +359,13 @@ The FLAGS rank of DLBCL genes in Tier 1, 2 and 3 is compared. The genes in the C
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |Exome|137|167|0|10|13| 6(21%)|
 
-![DOCK1 (pass) - Average rating: &starf; &starf; &starf; &star; &star;](primary/Chapuy_DOCK1.svg)
+![DOCK1 (**pass**) - Average rating: &starf; &starf; &starf; &star; &star;](primary/Chapuy_DOCK1.svg)
 
-![FUT5 - Average rating: &starf; &star; &star; &star; &star;](primary/Chapuy_FUT5.svg)
+![FUT5 (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Chapuy_FUT5.svg)
 
-![NLRP8 - Average rating: &starf; &starf; &star; &star; &star;](primary/Chapuy_NLRP8.svg)
+![NLRP8 (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Chapuy_NLRP8.svg)
 
-![PDE4DIP - Average rating: &starf; &starf; &star; &star; &star;](primary/Chapuy_PDE4DIP.svg)
+![PDE4DIP (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Chapuy_PDE4DIP.svg)
 
 ### Hübschmann *et al*, 2021 <a name="icgc"></a>
 
