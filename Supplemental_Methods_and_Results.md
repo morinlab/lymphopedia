@@ -304,49 +304,49 @@ The FLAGS rank of DLBCL genes in Tier 1, 2 and 3 is compared. The genes in the C
 
 ![CXCR4 (**pass**)  - Average rating: &starf; &starf; &starf; &star; &star;](primary/Panea_CXCR4_1.svg)
 
-![ALPK2 - Average rating: &starf; &star; &star; &star; &star;](primary/Panea_ALPK2.svg)
+![ALPK2 (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Panea_ALPK2.svg)
 
-![CD79B - Average rating: &starf; &starf; &star; &star; &star;](primary/Panea_CD79B.svg)
+![CD79B (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Panea_CD79B.svg)
 
-![CTCF - Average rating: &starf; &star; &star; &star; &star;](primary/Panea_CTCF_1.svg)
+![CTCF (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Panea_CTCF_1.svg)
 
-![DNMT1 - Average rating: &starf; &star; &star; &star; &star;](primary/Panea_DNMT1_1.svg)
+![DNMT1 (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Panea_DNMT1_1.svg)
 
-![ETS1 - Average rating: &starf; &star; &star; &star; &star;](primary/Panea_ETS1_1.svg)
+![ETS1 (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Panea_ETS1_1.svg)
 
-![FZD3 - Average rating: &starf; &star; &star; &star; &star;](primary/Panea_FZD3_1.svg)
+![FZD3 (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Panea_FZD3_1.svg)
 
-![HIST1H1C - Average rating: &starf; &starf; &star; &star; &star;](primary/Panea_HIST1H1C_3.svg)
+![HIST1H1C (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Panea_HIST1H1C_3.svg)
 
-![HIST1H2AG - Average rating: &starf; &starf; &star; &star; &star;](primary/Panea_HIST1H2AG_3.svg)
+![HIST1H2AG (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Panea_HIST1H2AG_3.svg)
 
-![HIST1H2AM - Average rating: &star; &star; &star; &star; &star;](primary/Panea_HIST1H2AM_1.svg)
+![HIST1H2AM (**fail**) - Average rating: &star; &star; &star; &star; &star;](primary/Panea_HIST1H2AM_1.svg)
 
-![HIST1H2BK - Average rating: &starf; &star; &star; &star; &star;](primary/Panea_HIST1H2BK_1.svg)
+![HIST1H2BK (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Panea_HIST1H2BK_1.svg)
 
-![HIST1H3H - Average rating: &star; &star; &star; &star; &star;](primary/Panea_HIST1H3H_1.svg)
+![HIST1H3H (**fail**) - Average rating: &star; &star; &star; &star; &star;](primary/Panea_HIST1H3H_1.svg)
 
-![HIST1H3J - Average rating: &star; &star; &star; &star; &star;](primary/Panea_HIST1H3J_1.svg)
+![HIST1H3J (**fail**) - Average rating: &star; &star; &star; &star; &star;](primary/Panea_HIST1H3J_1.svg)
 
-![KCNK10 - Average rating: &starf; &starf; &star; &star; &star;](primary/Panea_KCNK10_1.svg)
+![KCNK10 (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Panea_KCNK10_1.svg)
 
-![MME - Average rating: &starf; &star; &star; &star; &star;](primary/Panea_MME_1.svg)
+![MME (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Panea_MME_1.svg)
 
-![MTOR - Average rating: &starf; &star; &star; &star; &star;](primary/Panea_MTOR_1.svg)
+![MTOR (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Panea_MTOR_1.svg)
 
-![PABPC4L - Average rating: &starf; &starf; &star; &star; &star;](primary/Panea_PABPC4L_1.svg)
+![PABPC4L (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Panea_PABPC4L_1.svg)
 
-![PCDHA11 - Average rating: &starf; &star; &star; &star; &star;](primary/Panea_PCDHA11_1.svg)
+![PCDHA11 (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Panea_PCDHA11_1.svg)
 
-![PDZRN3 - Average rating: &starf; &star; &star; &star; &star;](primary/Panea_PDZRN3_1.svg)
+![PDZRN3 (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Panea_PDZRN3_1.svg)
 
-![PIK3R1 - Average rating: &starf; &star; &star; &star; &star;](primary/Panea_PIK3R1_1.svg)
+![PIK3R1 (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Panea_PIK3R1_1.svg)
 
-![PXDNL - Average rating: &starf; &star; &star; &star; &star;](primary/Panea_PXDNL_1.svg)
+![PXDNL (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Panea_PXDNL_1.svg)
 
-![SNTB2 - Average rating: &starf; &starf; &star; &star; &star;](primary/Panea_SNTB2_1.svg)
+![SNTB2 (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Panea_SNTB2_1.svg)
 
-![WDR7 - Average rating: &starf; &starf; &star; &star; &star;](primary/Panea_WDR7_3.svg)
+![WDR7 (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Panea_WDR7_3.svg)
 
 <div style="page-break-after: always;"></div>
 
@@ -376,13 +376,13 @@ The FLAGS rank of DLBCL genes in Tier 1, 2 and 3 is compared. The genes in the C
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |WGS|179|2|0|5|31| 3 (7.7%)|
 
-![IKBKE - pass](primary/ICGC_IKBKE.svg)
+![IKBKE (**pass**)](primary/ICGC_IKBKE.svg)
 
-![GAK](primary/ICGC_GAK.svg)
+![GAK (**fail**)](primary/ICGC_GAK.svg)
 
-![HLA-DQA1](primary/ICGC_HLA-DQA1.svg)
+![HLA-DQA1 (**fail**)](primary/ICGC_HLA-DQA1.svg)
 
-![NR2F2](primary/ICGC_NR2F2.svg)
+![NR2F2 (**fail**)](primary/ICGC_NR2F2.svg)
 
 <div style="page-break-after: always;"></div>
 
