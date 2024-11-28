@@ -286,11 +286,11 @@ The FLAGS rank of DLBCL genes in Tier 1, 2 and 3 is compared. The genes in the C
 
 ![HDAC7 - Average rating: &starf; &starf; &starf; &star; &star;](primary/Morin_HDAC7.svg)
 
-![FAM38B](primary/Morin_FAM38B.svg)
+![FAM38B  - Average rating: &starf; &starf; &star; &star; &star;](primary/Morin_FAM38B.svg)
 
-![FNDC1](primary/Morin_FNDC1.svg)
+![FNDC1  - Average rating: &starf; &starf; &star; &star; &star;](primary/Morin_FNDC1.svg)
 
-![IER2](primary/Morin_IER2.svg)
+![IER2  - Average rating: &starf; &star; &star; &star; &star;](primary/Morin_IER2.svg)
 
 ![PKD1](primary/Morin_PKD1.svg)
 
@@ -310,9 +310,8 @@ The FLAGS rank of DLBCL genes in Tier 1, 2 and 3 is compared. The genes in the C
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |WGS|101|0|0|2|15|22 (56%)|
 
-### CXCR4 - pass
 
-![CXCR4 - pass](primary/Panea_CXCR4_1.svg)
+![CXCR4 - **pass**](primary/Panea_CXCR4_1.svg)
 
 ![ALPK2](primary/Panea_ALPK2.svg)
 
