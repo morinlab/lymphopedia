@@ -292,13 +292,13 @@ The FLAGS rank of DLBCL genes in Tier 1, 2 and 3 is compared. The genes in the C
 
 ![IER2  - Average rating: &starf; &star; &star; &star; &star;](primary/Morin_IER2.svg)
 
-![PKD1](primary/Morin_PKD1.svg)
+![PKD1 - Average rating: &starf; &starf; &star; &star; &star;](primary/Morin_PKD1.svg)
 
-![POGZ](primary/Morin_POGZ.svg)
+![POGZ - Average rating: &starf; &starf; &star; &star; &star;](primary/Morin_POGZ.svg)
 
-![PTPN23](primary/Morin_PTPN23.svg)
+![PTPN23 - Average rating: &starf; &starf; &star; &star; &star;](primary/Morin_PTPN23.svg)
 
-![SARM1](primary/Morin_SARM1.svg)
+![SARM1 - Average rating: &starf; &starf; &star; &star; &star;](primary/Morin_SARM1.svg)
 
 <div style="page-break-after: always;"></div>
 
