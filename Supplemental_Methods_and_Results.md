@@ -89,7 +89,6 @@ The FLAGS rank of DLBCL genes in Tier 1, 2 and 3 is compared. The genes in the C
 
 ![CARD4 - Average rating: &starf; &starf; &starf; &starf; &star;](primary/Love_CARD4.svg)
 
-
 ![ACAD9 - Average rating: &starf; &star; &star; &star; &star;](primary/Love_ACAD9.svg)
 
 
@@ -98,73 +97,25 @@ The FLAGS rank of DLBCL genes in Tier 1, 2 and 3 is compared. The genes in the C
 
 ![ATP2C2 - Average rating: &starf; &starf; &star; &star; &star;](primary/Love_ATP2C2.svg)
 
+![BRAF - Average rating: &starf; &star; &star; &star; &star;](primary/Love_BRAF.svg)
 
-<div style="page-break-after: always;"></div>
+![c6orf27 - Average rating: Germline](primary/Love_C6orf27_germline.svg)
 
+![BRD4 - Average rating: &starf; &star; &star; &star; &star;](primary/Love_BRD4.svg)
 
-### BRAF - fail (insufficient support) 
+![CYB5D1 - Average rating: &starf; &star; &star; &star; &star;](primary/Love_CYB5D1.svg)
 
-![BRAF](primary/Love_BRAF.svg)
+![BTG2 - Average rating: &starf; &star; &star; &star; &star;](primary/Love_BTG2.svg)
 
-Average rating: &starf; &star; &star; &star; &star;
+![CAD - Average rating: &starf; &star; &star; &star; &star;](primary/Love_CAD.svg)
 
-### c6orf27 - fail (germline)
+![CCT6B - Average rating: Germline](primary/Love_CCT6B.svg)
 
-![c6orf27](primary/Love_C6orf27_germline.svg)
+![CDH17 - Average rating: &starf; &star; &star; &star; &star;](primary/Love_CDH17.svg)
 
-Average rating: Germline
-
-<div style="page-break-after: always;"></div>
-
-### BRD4 - fail (insufficient support) 
-
-![BRD4](primary/Love_BRD4.svg)
-
-Average rating: &starf; &star; &star; &star; &star;
-
-### CYB5D1 - fail (insufficient support)
-
-![CYB5D1](primary/Love_CYB5D1.svg)
-
-Average rating: &starf; &star; &star; &star; &star;
-
-<div style="page-break-after: always;"></div>
-
-### BTG2 - fail (insufficient support)  
-
-![BTG2](primary/Love_BTG2.svg)
-
-Average rating: &starf; &star; &star; &star; &star;
+![COL4A2 - Average rating: &starf; &star; &star; &star; &star;](primary/Love_COL4A2.svg)
 
 
-
-### CAD - fail (insufficient support)
-
-![CAD](primary/Love_CAD.svg)
-
-Average rating: &starf; &star; &star; &star; &star;
-
-<div style="page-break-after: always;"></div>
-
-### CCT6B - fail (germline)
-
-![CCT6B](primary/Love_CCT6B.svg)
-
-Average rating: Gremline
-
-### CDH17 - fail (insufficient support)
-
-![CDH17](primary/Love_CDH17.svg)
-
-Average rating: &starf; &star; &star; &star; &star;
-
-<div style="page-break-after: always;"></div>
-
-### COL4A2 - fail (insufficient support)
-
-![COL4A2](primary/Love_COL4A2.svg)
-
-Average rating: &starf; &star; &star; &star; &star;
 
 
 
