@@ -1,3 +1,8 @@
+---
+title: ''
+bibliography: 'morinlab.bib'
+---
+
 # Supplemental Methods and Results
 
 ## Procedure for gene retirement (Tier 3) 
@@ -16,7 +21,7 @@ While establishing the current gene lists, six studies were selected for manual 
 
 |Study|Methodology|Entity|
 |:---:|:--:|:-:|:-:|:-----:|
-|[Love *et al*, 2012](#love)|Exome|BL|
+|[@loveGeneticLandscapeMutations2012](#love)|Exome|BL|
 |[Morin *et al*, 2013](#morin)|WGS|DLBCL|
 |[Reddy *et al*, 2017](#reddy)|Exome|DLBCL|
 |[Panea *et al*, 2019](#panea)|Exome/RNA-seq|BL|
