@@ -87,30 +87,17 @@ The FLAGS rank of DLBCL genes in Tier 1, 2 and 3 is compared. The genes in the C
 *See also:* [IGV reports](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/)
 
 
-![CARD4 - pass Average rating: &starf; &starf; &starf; &starf; &star;](primary/Love_CARD4.svg)
+![CARD4 - Average rating: &starf; &starf; &starf; &starf; &star;](primary/Love_CARD4.svg)
 
 
-
-### ACAD9 - fail (insufficient support) 
-
-![](primary/Love_ACAD9.svg)
-
-Average rating: &starf; &star; &star; &star; &star;
-
-<div style="page-break-after: always;"></div>
+![ACAD9 - Average rating: &starf; &star; &star; &star; &star;](primary/Love_ACAD9.svg)
 
 
-### ACE - fail (insufficient support) 
-
-![ACE - fail (insufficient support) Average rating: &starf; &star; &star; &star; &star;](primary/Love_ACE.svg)
+![ACE - Average rating: &starf; &star; &star; &star; &star;](primary/Love_ACE.svg)
 
 
+![ATP2C2 - Average rating: &starf; &starf; &star; &star; &star;](primary/Love_ATP2C2.svg)
 
-### ATP2C2 - fail (insufficient support) 
-
-![ATP2C2](primary/Love_ATP2C2.svg)
-
-Average rating: &starf; &starf; &star; &star; &star;
 
 <div style="page-break-after: always;"></div>
 
