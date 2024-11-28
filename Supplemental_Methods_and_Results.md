@@ -21,7 +21,7 @@ While establishing the current gene lists, six studies were selected for manual 
 <div style="page-break-after: always;"></div>
 
 |Study|Methodology|Entity|
-|:---:|:--:|:-:|:-:|:-----:|
+|:---:|:--:|:-:|
 |[@loveGeneticLandscapeMutations2012](#love)|Exome|BL|
 |[Morin *et al*, 2013](#morin)|WGS|DLBCL|
 |[Reddy *et al*, 2017](#reddy)|Exome|DLBCL|
