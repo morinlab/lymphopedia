@@ -1,6 +1,7 @@
 ---
 title: ''
 bibliography: 'morinlab.bib'
+csl: NLM.csl
 ---
 
 # Supplemental Methods and Results
