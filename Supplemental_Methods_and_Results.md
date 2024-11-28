@@ -175,8 +175,6 @@ The FLAGS rank of DLBCL genes in Tier 1, 2 and 3 is compared. The genes in the C
 
 ![SBF1 (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Love_SBF1.svg)
 
-![SF3B1 (**fail**) - Average rating: &starf; &starf; &starf; &starf; &star;](primary/Love_SF3B1.svg)
-
 ![SLC29A2 (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Love_SLC29A2.svg)
 
 ![SHANK1 (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Love_SHANK1.svg)
