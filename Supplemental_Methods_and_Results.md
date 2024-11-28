@@ -87,116 +87,111 @@ The FLAGS rank of DLBCL genes in Tier 1, 2 and 3 is compared. The genes in the C
 *See also:* [IGV reports](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/)
 
 
-![CARD4 - Average rating: &starf; &starf; &starf; &starf; &star;](primary/Love_CARD4.svg)
+![CARD4 (**pass**) - Average rating: &starf; &starf; &starf; &starf; &star;](primary/Love_CARD4.svg)
 
-![ACAD9 - Average rating: &starf; &star; &star; &star; &star;](primary/Love_ACAD9.svg)
-
-
-![ACE - Average rating: &starf; &star; &star; &star; &star;](primary/Love_ACE.svg)
+![ACAD9 (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Love_ACAD9.svg)
 
 
-![ATP2C2 - Average rating: &starf; &starf; &star; &star; &star;](primary/Love_ATP2C2.svg)
-
-![BRAF - Average rating: &starf; &star; &star; &star; &star;](primary/Love_BRAF.svg)
-
-![c6orf27 - Average rating: Germline](primary/Love_C6orf27_germline.svg)
-
-![BRD4 - Average rating: &starf; &star; &star; &star; &star;](primary/Love_BRD4.svg)
-
-![CYB5D1 - Average rating: &starf; &star; &star; &star; &star;](primary/Love_CYB5D1.svg)
-
-![BTG2 - Average rating: &starf; &star; &star; &star; &star;](primary/Love_BTG2.svg)
-
-![CAD - Average rating: &starf; &star; &star; &star; &star;](primary/Love_CAD.svg)
-
-![CCT6B - Average rating: Germline](primary/Love_CCT6B.svg)
-
-![CDH17 - Average rating: &starf; &star; &star; &star; &star;](primary/Love_CDH17.svg)
-
-![COL4A2 - Average rating: &starf; &star; &star; &star; &star;](primary/Love_COL4A2.svg)
+![ACE (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Love_ACE.svg)
 
 
-![CYP4F22 - Average rating: &starf; &star; &star; &star; &star;](primary/Love_CYP4F22_15523136.png)
+![ATP2C2 (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Love_ATP2C2.svg)
 
-![DLGAP1 - Average rating: &starf; &star; &star; &star; &star;](primary/Love_DLGAP_chr18_3869854.png)
+![BRAF (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Love_BRAF.svg)
 
-![DTX1 - Average rating: &starf; &star; &star; &star; &star;](primary/Love_DTX1_chr12_112017255.png)
+![c6orf27 (**fail**) - Average rating: Germline](primary/Love_C6orf27_germline.svg)
 
-![EIF2C4 - Average rating: &starf; &star; &star; &star; &star;](primary/Love_EIF2C4.svg)
+![BRD4 (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Love_BRD4.svg)
 
-![EML2 - Average rating: &starf; &star; &star; &star; &star;](primary/Love_EML2_50816396.png)
+![CYB5D1 (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Love_CYB5D1.svg)
 
-![ENTPD3 - Average rating: &starf; &starf; &star; &star; &star;](primary/Love_ENTPD3.svg)
+![BTG2 (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Love_BTG2.svg)
 
-![EPHB2 - Average rating: &starf; &starf; &star; &star; &star;](primary/Love_EPHB2.svg)
+![CAD (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Love_CAD.svg)
 
-![FAM129B - Average rating: &starf; &starf; &star; &star; &star;](primary/Love_FAM129B.svg)
+![CCT6B (**fail**) - Average rating: Germline](primary/Love_CCT6B.svg)
 
-![FGFR3 - Average rating: &starf; &star; &star; &star; &star;](primary/Love_FGFR3.svg)
+![CDH17 (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Love_CDH17.svg)
 
-![FTCD - Average rating: Germline](primary/Love_FTCD.svg)
-
-![GRIK5 - Average rating: &starf; &star; &star; &star; &star;](primary/Love_GRIK5.svg)
-
-![ICK - Average rating: &starf; &star; &star; &star; &star;](primary/Love_ICK.svg)
-
-![ITPR3 - Average rating: &starf; &star; &star; &star; &star;](primary/Love_ITPR3.svg)
-
-![KIFC3 - Average rating: &starf; &star; &star; &star; &star;](primary/Love_KIFC3_2_56362071.png)
-
-![MAP3K6 - Average rating: &starf; &star; &star; &star; &star;](primary/Love_MAP3K6.svg)
-
-![MYH10 - Average rating: &starf; &star; &star; &star; &star;](primary/Love_MYH10.svg)
-
-![NOTCH1 - Average rating: &starf; &star; &star; &star; &star;](primary/Love_NOTCH1.svg)
-
-![NRXN2 - Average rating: &starf; &star; &star; &star; &star;](primary/Love_NRXN2.svg)
-
-![PC - Average rating: &starf; &star; &star; &star; &star;](primary/Love_PC_chr11_66374870.png)
-
-![POLRMT - Average rating: &starf; &star; &star; &star; &star;](primary/Love_POLRMT.svg)
+![COL4A2 (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Love_COL4A2.svg)
 
 
-![POR - Average rating: &starf; &star; &star; &star; &star;](primary/Love_POR.svg)
+![CYP4F22 (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Love_CYP4F22_15523136.png)
 
+![DLGAP1 (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Love_DLGAP_chr18_3869854.png)
 
-![PRSS22 - Average rating: &starf; &star; &star; &star; &star;](primary/Love_PRSS22.svg)
+![DTX1 (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Love_DTX1_chr12_112017255.png)
 
-![PTPRN - Average rating: &starf; &star; &star; &star; &star;](primary/Love_PTPRN.svg)
+![EIF2C4 (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Love_EIF2C4.svg)
 
-![RBP3](primary/Love_RBP3.svg)
+![EML2 (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Love_EML2_50816396.png)
 
+![ENTPD3 (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Love_ENTPD3.svg)
 
-![RET - Average rating: &starf; &star; &star; &star; &star;](primary/Love_RET_42930092.png)
+![EPHB2 (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Love_EPHB2.svg)
 
+![FAM129B (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Love_FAM129B.svg)
 
+![FGFR3 (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Love_FGFR3.svg)
 
-![SALL3 - Average rating: &starf; &starf; &star; &star; &star;](primary/Love_SALL3.svg)
+![FTCD (**fail**) - Average rating: Germline](primary/Love_FTCD.svg)
+
+![GRIK5 (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Love_GRIK5.svg)
+
+![ICK (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Love_ICK.svg)
+
+![ITPR3 (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Love_ITPR3.svg)
+
+![KIFC3 (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Love_KIFC3_2_56362071.png)
+
+![MAP3K6 (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Love_MAP3K6.svg)
+
+![MYH10 (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Love_MYH10.svg)
+
+![NOTCH1 (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Love_NOTCH1.svg)
+
+![NRXN2 (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Love_NRXN2.svg)
+
+![PC (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Love_PC_chr11_66374870.png)
+
+![POLRMT (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Love_POLRMT.svg)
+
+![POR (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Love_POR.svg)
+
+![PRSS22 (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Love_PRSS22.svg)
+
+![PTPRN (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Love_PTPRN.svg)
+
+![RBP3 (**fail**)](primary/Love_RBP3.svg)
+
+![RET  (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Love_RET_42930092.png)
+
+![SALL3 (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Love_SALL3.svg)
 
 
 
-![SAPS2 - Average rating: &starf; &star; &star; &star; &star;](primary/Love_SAPS2.svg)
+![SAPS2 (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Love_SAPS2.svg)
 
 
-![SBF1 - Average rating: &starf; &starf; &star; &star; &star;](primary/Love_SBF1.svg)
+![SBF1 (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Love_SBF1.svg)
 
-![SF3B1 - Average rating: &starf; &starf; &starf; &starf; &star;](primary/Love_SF3B1.svg)
+![SF3B1 (**fail**) - Average rating: &starf; &starf; &starf; &starf; &star;](primary/Love_SF3B1.svg)
 
-![SLC29A2 - Average rating: &starf; &star; &star; &star; &star;](primary/Love_SLC29A2.svg)
+![SLC29A2 (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Love_SLC29A2.svg)
 
-![SHANK1 - Average rating: &starf; &star; &star; &star; &star;](primary/Love_SHANK1.svg)
+![SHANK1 (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Love_SHANK1.svg)
 
-![SYNGAP1 - Average rating: &starf; &star; &star; &star; &star;](primary/Love_SYNGAP1_33518868.png)
-
-
-![TBC1D9B - Average rating: &starf; &star; &star; &star; &star;](primary/Love_TBC1D9B.svg)
-
-![TIGD6 - Average rating: &starf; &star; &star; &star; &star;](primary/Love_TIGD6.svg)
-
-![TPST2 - Average rating: &starf; &star; &star; &star; &star;](primary/Love_TPST2.svg)
+![SYNGAP1 (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Love_SYNGAP1_33518868.png)
 
 
-![ZNF229 - Average rating: Germline](primary/Love_ZNF229_chr19_49624750_also_in_germline.png)
+![TBC1D9B (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Love_TBC1D9B.svg)
+
+![TIGD6 (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Love_TIGD6.svg)
+
+![TPST2 (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Love_TPST2.svg)
+
+
+![ZNF229 (**fail**) - Average rating: Germline](primary/Love_ZNF229_chr19_49624750_also_in_germline.png)
 
 
 
