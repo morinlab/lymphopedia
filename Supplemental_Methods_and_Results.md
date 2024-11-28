@@ -207,64 +207,61 @@ The FLAGS rank of DLBCL genes in Tier 1, 2 and 3 is compared. The genes in the C
 
 
 
-![ARID5B - Average rating: &starf; &starf; &starf; &starf; &star;](primary/Reddy_ARID5B_1.svg)
+![ARID5B (**pass**) - Average rating: &starf; &starf; &starf; &starf; &star;](primary/Reddy_ARID5B_1.svg)
 
-![ARID1B - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_ARID1B_1.svg)
+![ARID1B (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_ARID1B_1.svg)
 
-![CBLB - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_CBLB_1.svg)
+![CBLB (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_CBLB_1.svg)
 
-![CDC73 - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_CDC73.svg)
+![CDC73 (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_CDC73.svg)
 
-![CHD8 - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_CHD8.svg)
+![CHD8 (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_CHD8.svg)
 
-![CHD1 - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_CHD1.svg)
+![CHD1 (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_CHD1.svg)
 
-![CHST2 - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_CHST2.svg)
+![CHST2 (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_CHST2.svg)
 
-![DCAF6 - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_DCAF6.svg)
-
-
-![DICER1 - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_DICER1.svg)
+![DCAF6 (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_DCAF6.svg)
 
 
-![DNMT3A - Average rating: &starf; &star; &star; &star; &star;](primary/Reddy_DNMT3A.svg)
-
-![GNAS - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_GNAS.svg)
-
-![HRAS - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_HRAS.svg)
-
-![LIN54 - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_LIN54.svg)
-
-![MAP4K4 - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_MAP4K4.svg)
-
-![MARK1 - Average rating: &starf; &star; &star; &star; &star;](primary/Reddy_MARK1.svg)
-
-![MSH2 - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_MSH2.svg)
-
-![MYB - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_MYB.svg)
-
-![NCOR1 - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_NCOR1.svg)
-
-![NFKB2 - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_NFKB2.svg)
-
-![PHF6 - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_PHF6.svg)
-
-![PTPRK - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_PTPRK.svg)
-
-![RARA - Average rating: &starf; &star; &star; &star; &star;](primary/Reddy_RARA.svg)
-
-![RUNX1 - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_RUNX1.svg)
-
-![SYK - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_SYK.svg)
+![DICER1 (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_DICER1.svg)
 
 
-![WAC - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_WAC.svg)
+![DNMT3A (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Reddy_DNMT3A.svg)
 
-![ZBTB7A - Average rating: &starf; &star; &star; &star; &star;](primary/Reddy_ZBTB7A.svg)
+![GNAS (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_GNAS.svg)
 
+![HRAS (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_HRAS.svg)
 
-![ZFAT - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_ZFAT.svg)
+![LIN54 (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_LIN54.svg)
 
+![MAP4K4 (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_MAP4K4.svg)
+
+![MARK1 (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Reddy_MARK1.svg)
+
+![MSH2 (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_MSH2.svg)
+
+![MYB (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_MYB.svg)
+
+![NCOR1 (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_NCOR1.svg)
+
+![NFKB2 (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_NFKB2.svg)
+
+![PHF6 (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_PHF6.svg)
+
+![PTPRK (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_PTPRK.svg)
+
+![RARA (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Reddy_RARA.svg)
+
+![RUNX1 (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_RUNX1.svg)
+
+![SYK (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_SYK.svg)
+
+![WAC (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_WAC.svg)
+
+![ZBTB7A (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Reddy_ZBTB7A.svg)
+
+![ZFAT (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_ZFAT.svg)
 
 
 <div style="page-break-after: always;"></div>
@@ -279,21 +276,21 @@ The FLAGS rank of DLBCL genes in Tier 1, 2 and 3 is compared. The genes in the C
 
 *See also:* [IGV reports](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/)
 
-![HDAC7 - Average rating: &starf; &starf; &starf; &star; &star;](primary/Morin_HDAC7.svg)
+![HDAC7 (**pass**) - Average rating: &starf; &starf; &starf; &star; &star;](primary/Morin_HDAC7.svg)
 
-![FAM38B  - Average rating: &starf; &starf; &star; &star; &star;](primary/Morin_FAM38B.svg)
+![FAM38B (**fail**)  - Average rating: &starf; &starf; &star; &star; &star;](primary/Morin_FAM38B.svg)
 
-![FNDC1  - Average rating: &starf; &starf; &star; &star; &star;](primary/Morin_FNDC1.svg)
+![FNDC1 (**fail**)  - Average rating: &starf; &starf; &star; &star; &star;](primary/Morin_FNDC1.svg)
 
-![IER2  - Average rating: &starf; &star; &star; &star; &star;](primary/Morin_IER2.svg)
+![IER2 (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Morin_IER2.svg)
 
-![PKD1 - Average rating: &starf; &starf; &star; &star; &star;](primary/Morin_PKD1.svg)
+![PKD1 (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Morin_PKD1.svg)
 
-![POGZ - Average rating: &starf; &starf; &star; &star; &star;](primary/Morin_POGZ.svg)
+![POGZ (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Morin_POGZ.svg)
 
-![PTPN23 - Average rating: &starf; &starf; &star; &star; &star;](primary/Morin_PTPN23.svg)
+![PTPN23 (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Morin_PTPN23.svg)
 
-![SARM1 - Average rating: &starf; &starf; &star; &star; &star;](primary/Morin_SARM1.svg)
+![SARM1 (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Morin_SARM1.svg)
 
 <div style="page-break-after: always;"></div>
 
