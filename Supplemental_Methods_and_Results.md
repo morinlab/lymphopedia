@@ -374,13 +374,13 @@ The FLAGS rank of DLBCL genes in Tier 1, 2 and 3 is compared. The genes in the C
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |WGS|179|2|0|5|31| 3 (7.7%)|
 
-![IKBKE (**pass**)](primary/ICGC_IKBKE.svg)
+![IKBKE (**pass**) - Average rating: &starf; &starf; &starf; &starf; &star;](primary/ICGC_IKBKE.svg)
 
-![GAK (**fail**)](primary/ICGC_GAK.svg)
+![GAK (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/ICGC_GAK.svg)
 
-![HLA-DQA1 (**fail**)](primary/ICGC_HLA-DQA1.svg)
+![HLA-DQA1 (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/ICGC_HLA-DQA1.svg)
 
-![NR2F2 (**fail**)](primary/ICGC_NR2F2.svg)
+![NR2F2 (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/ICGC_NR2F2.svg)
 
 <div style="page-break-after: always;"></div>
 
