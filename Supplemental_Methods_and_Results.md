@@ -269,31 +269,13 @@ Average rating: &starf; &starf; &star; &star; &star;
 
 Average rating: &starf; &starf; &star; &star; &star;
 
-<div style="page-break-after: always;"></div>
+![NCOR1 - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_NCOR1.svg)
 
-### NCOR1 - fail (insufficient support)
+![NFKB2 - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_NFKB2.svg)
 
-![NCOR1](primary/Reddy_NCOR1.svg)
+![PHF6 - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_PHF6.svg)
 
-Average rating: &starf; &starf; &star; &star; &star;
-
-
-![NFKB2](primary/Reddy_NFKB2.svg)
-
-Average rating: &starf; &starf; &star; &star; &star;
-
-
-![PHF6](primary/Reddy_PHF6.svg)
-
-Average rating: &starf; &starf; &star; &star; &star;
-
-<div style="page-break-after: always;"></div>
-
-### PTPRK - fail (insufficient support)
-
-![PTPRK](primary/Reddy_PTPRK.svg)
-
-Average rating: &starf; &starf; &star; &star; &star;
+![PTPRK - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_PTPRK.svg)
 
 
 <div style="page-break-after: always;"></div>
@@ -350,51 +332,19 @@ Average rating: &starf; &starf; &star; &star; &star;
 
 *See also:* [IGV reports](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/)
 
-### HDAC7 - pass
-
-![HDAC7](primary/Morin_HDAC7.svg)
-
-Average rating: &starf; &starf; &starf; &star; &star;
-
-<div style="page-break-after: always;"></div>
-
-### FAM38B - fail (insufficient support)
+![HDAC7 - Average rating: &starf; &starf; &starf; &star; &star;](primary/Morin_HDAC7.svg)
 
 ![FAM38B](primary/Morin_FAM38B.svg)
 
-<div style="page-break-after: always;"></div>
-
-### FNDC1 - fail (insufficient support)
-
 ![FNDC1](primary/Morin_FNDC1.svg)
-
-<div style="page-break-after: always;"></div>
-
-### IER2 - fail (insufficient support)
 
 ![IER2](primary/Morin_IER2.svg)
 
-<div style="page-break-after: always;"></div>
-
-### PKD1 - fail (insufficient support)
-
 ![PKD1](primary/Morin_PKD1.svg)
-
-<div style="page-break-after: always;"></div>
-
-### POGZ - fail (insufficient support)
 
 ![POGZ](primary/Morin_POGZ.svg)
 
-<div style="page-break-after: always;"></div>
-
-### PTPN23 - fail (insufficient support)
-
 ![PTPN23](primary/Morin_PTPN23.svg)
-
-<div style="page-break-after: always;"></div>
-
-### SARM1 - fail (insufficient support)
 
 ![SARM1](primary/Morin_SARM1.svg)
 
@@ -484,7 +434,7 @@ Average rating: &starf; &starf; &starf; &star; &star;
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |WGS|179|2|0|5|31| 3 (7.7%)|
 
-![IKBKE](primary/ICGC_IKBKE.svg)
+![IKBKE - pass](primary/ICGC_IKBKE.svg)
 
 ![GAK](primary/ICGC_GAK.svg)
 
