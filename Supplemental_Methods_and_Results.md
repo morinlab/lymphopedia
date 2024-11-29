@@ -2,6 +2,10 @@
 title: ''
 bibliography: 'morinlab.bib'
 csl: NLM.csl
+mainfont: DejaVuSerif.ttf
+sansfont: DejaVuSans.ttf
+monofont: DejaVuSansMono.ttf 
+mathfont: texgyredejavu-math.otf 
 ---
 
 # Supplemental Methods and Results
@@ -13,7 +17,7 @@ Any study that described at least one gene as recurrently mutated in DLBCL, FL o
 
 ## Procedure for gene retirement (Tier 3) 
 
-The pattern of mutations in Tier 2 genes has, by definition, not been independently reproduced. To counteract the continued growth of Tier 2 over time, genes can be retired to Tier 3 in certain scenarios. Specifically, when a new analysis or scrutiny of the original data draws the validity of a gene  or study into question, Tier 2 genes from a study may be retired idividually or *en masse*, depending on the situation. Ideally, the entire set of mutations that led to the original nomination of each gene will be reviewed individually to reduce the likelihood that a gene is retired unnecessarily. However, when systematic manual review is impossible, genes may be retired when the originating study is deemd to have low reproducibility. In these rare situations, all Tier 2 genes from that study can be moved to Tier 3. 
+The pattern of mutations in Tier 2 genes has, by definition, not been independently reproduced. To counteract the continued growth of Tier 2 over time, genes can be retired to Tier 3 in certain scenarios. Specifically, when a new analysis or scrutiny of the original data draws the validity of a gene  or study into question, Tier 2 genes from a study may be retired individually or *en masse*, depending on the situation. Ideally, the entire set of mutations that led to the original nomination of each gene will be reviewed individually to reduce the likelihood that a gene is retired unnecessarily. However, when systematic manual review is impossible, genes may be retired when the originating study is deemd to have low reproducibility. In these rare situations, all Tier 2 genes from that study can be moved to Tier 3. 
 
 1. Where feasible, all variants reported in the original study are subjected to manual review using the primary data and each mutation is rated on a five-point scale. Following review, any Tier 2 gene with an average quality score less than 3 for all variants is moved to Tier 3 and the other genes remain in their current Tier. The results from applying this procedure to genes from six studies are included in the [subsequent section](#manual), focusing on representative examples of mutations in genes that were retired.
 
