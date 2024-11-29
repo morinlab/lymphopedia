@@ -17,8 +17,7 @@ Any study that described at least one gene as recurrently mutated in DLBCL, FL o
 
 <figure>
 <img src="DLBCL_FL_BL_sankey_all-1.svg" alt="flags1" style="width:500px;"/>
-<figcaption><strong>Supplemental Figure S1. The originating studies for all DLBCL, FL and BL genes.</strong> <br> 
-The FLAGS rank of DLBCL genes in Tier 1, 2 and 3 is compared. The genes in the COSMIC CGC list are included for comparison. Values closer to 1 indicate the gene has a higher number of rare germline variants.  
+<figcaption><strong>Supplemental Figure S1. The originating studies for all DLBCL, FL and BL genes.</strong> <br> Studies are summarized according to the method used to identify mutations. Studies are also separated by the lymphoma type that was sequenced, with those using a combination of FL and DLBCL grouped in the middle section along with FL-centric studies. Additional details for each study are also provided in **Supplemental Table S5**.  
 </figcaption>
 </figure>
 
