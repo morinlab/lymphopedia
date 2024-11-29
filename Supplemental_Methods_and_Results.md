@@ -12,7 +12,7 @@ mathfont: texgyredejavu-math.otf
 
 ## Sources of B-cell lymphoma genes
 
-Any study that described at least one gene as recurrently mutated in DLBCL, FL or BL was eligible to contribute to the gene lists. This included 37 studies for DLBCL,[@albuquerqueEnhancingKnowledgeDiscovery2017; @arthurGenomewideDiscoverySomatic2018; @bohleRoleEarlyBcell2013; @chapuyMolecularSubtypesDiffuse2018; @compagnoMutationsMultipleGenes2009; @davisChronicActiveBcellreceptor2010; @drevalGeneticSubdivisionsFollicular2023; @dunsCharacterizationDLBCLPMBL2021; @fanComprehensiveCharacterizationDriver2020; @hubschmannMutationalMechanismsShaping2021; @khodabakhshiRecurrentTargetsAberrant2012; @kwanhianMicroRNA142Mutated202012; @lenzOncogenicCARD11Mutations2008; @lohrDiscoveryPrioritizationSomatic2012; @mareschalWholeExomeSequencing2016; @morinFrequentMutationHistonemodifying2011; @morinGeneticLandscapesRelapsed2016; @morinMutationalStructuralAnalysis2013; @morinSomaticMutationsAltering2010; @ngoOncogenicallyActiveMYD882011; @novakWholeexomeAnalysisReveals2015; @okosunRecurrentMTORC1activatingRRAGC2016; @pararajalingamCodingNoncodingDrivers2020; @pasqualucciAnalysisCodingGenome2011; @pasqualucciHypermutationMultipleProtooncogenes2001; @pasqualucciInactivatingMutationsAcetyltransferase2011; @pasqualucciInactivationPRDM1BLIMP12006; @reddyGeneticFunctionalDrivers2017; @rushtonGeneticEvolutionaryPatterns2020; @schmitzGeneticsPathogenesisDiffuse2018; @schollMutationsRegionFAS2007; @shinBRAFV600EMAP2K12015; @tanakaFrequentIncidenceSomatic1992; @thomasMutationalAnalysisIkappaBalpha2004; @tiacciBRAFMutationsHairycell2011; @yildizActivatingSTAT6Mutations2015; @zhangGeneticHeterogeneityDiffuse2013]
+Any study that described at least one gene as recurrently mutated in DLBCL, FL or BL was eligible to contribute to the gene lists. The current lists relied on a total of 37 studies for DLBCL,[@albuquerqueEnhancingKnowledgeDiscovery2017; @arthurGenomewideDiscoverySomatic2018; @bohleRoleEarlyBcell2013; @chapuyMolecularSubtypesDiffuse2018; @compagnoMutationsMultipleGenes2009; @davisChronicActiveBcellreceptor2010; @drevalGeneticSubdivisionsFollicular2023; @dunsCharacterizationDLBCLPMBL2021; @fanComprehensiveCharacterizationDriver2020; @hubschmannMutationalMechanismsShaping2021; @khodabakhshiRecurrentTargetsAberrant2012; @kwanhianMicroRNA142Mutated202012; @lenzOncogenicCARD11Mutations2008; @lohrDiscoveryPrioritizationSomatic2012; @mareschalWholeExomeSequencing2016; @morinFrequentMutationHistonemodifying2011; @morinGeneticLandscapesRelapsed2016; @morinMutationalStructuralAnalysis2013; @morinSomaticMutationsAltering2010; @ngoOncogenicallyActiveMYD882011; @novakWholeexomeAnalysisReveals2015; @okosunRecurrentMTORC1activatingRRAGC2016; @pararajalingamCodingNoncodingDrivers2020; @pasqualucciAnalysisCodingGenome2011; @pasqualucciHypermutationMultipleProtooncogenes2001; @pasqualucciInactivatingMutationsAcetyltransferase2011; @pasqualucciInactivationPRDM1BLIMP12006; @reddyGeneticFunctionalDrivers2017; @rushtonGeneticEvolutionaryPatterns2020; @schmitzGeneticsPathogenesisDiffuse2018; @schollMutationsRegionFAS2007; @shinBRAFV600EMAP2K12015; @tanakaFrequentIncidenceSomatic1992; @thomasMutationalAnalysisIkappaBalpha2004; @tiacciBRAFMutationsHairycell2011; @yildizActivatingSTAT6Mutations2015; @zhangGeneticHeterogeneityDiffuse2013]
 15 studies for FL,[@barariaCathepsinAlterationsInduce2020; @cheungAcquiredTNFRSF14Mutations2010; @drevalGeneticSubdivisionsFollicular2023; @hubschmannMutationalMechanismsShaping2021; @krysiakRecurrentSomaticMutations2017; @laurentFollicularLymphomaComprises2024; @louissaintPediatrictypeNodalFollicular2016; @maSubtypespecificCooccurringGenetic2022; @morinFrequentMutationHistonemodifying2011; @morinSomaticMutationsAltering2010; @okosunRecurrentMTORC1activatingRRAGC2016; @pasqualucciInactivatingMutationsAcetyltransferase2011; @rossiAberrantSomaticHypermutation2006; @russler-germainMutationsAssociatedProgression2023; @yildizActivatingSTAT6Mutations2015] and 13 studies for BL.[@abateDistinctViralMutational2015; @burkhardtClinicalRelevanceMolecular2022; @grandeGenomewideDiscoverySomatic2019; @johnstonCmycHypermutationBurkitt1992; @loveGeneticLandscapeMutations2012; @maSubtypespecificCooccurringGenetic2022; @muppidiLossSignalingGa132014; @paneaWholeGenomeLandscape2019; @richterRecurrentMutationID32012; @schmitzBurkittLymphomaPathogenesis2012; @thomasGeneticSubgroupsInform2023; @wildaInactivationARFMDM2p53Pathway2004; @zhouSporadicEndemicBurkitt2019]
 
 ## Procedure for gene retirement (Tier 3) 
@@ -91,366 +91,111 @@ The FLAGS rank of DLBCL genes in Tier 1, 2 and 3 is compared. The genes in the C
 *See also:* [IGV reports](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/)
 
 
-### CARD4 - pass
+![CARD4 (**pass**) - Average rating: &starf; &starf; &starf; &starf; &star;](primary/Love_CARD4.svg)
 
-![CARD4](primary/Love_CARD4.svg)
+![ACAD9 (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Love_ACAD9.svg)
 
-Average rating: &starf; &starf; &starf; &starf; &star;
 
-### ACAD9 - fail (insufficient support) 
+![ACE (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Love_ACE.svg)
 
-![ACAD9](primary/Love_ACAD9.svg)
 
-Average rating: &starf; &star; &star; &star; &star;
+![ATP2C2 (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Love_ATP2C2.svg)
 
-<div style="page-break-after: always;"></div>
+![BRAF (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Love_BRAF.svg)
 
+![c6orf27 (**fail**) - Average rating: Germline](primary/Love_C6orf27_germline.svg)
 
-### ACE - fail (insufficient support) 
+![BRD4 (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Love_BRD4.svg)
 
-![ACE](primary/Love_ACE.svg)
+![CYB5D1 (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Love_CYB5D1.svg)
 
-Average rating: &starf; &star; &star; &star; &star;
+![BTG2 (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Love_BTG2.svg)
 
-### ATP2C2 - fail (insufficient support) 
+![CAD (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Love_CAD.svg)
 
-![ATP2C2](primary/Love_ATP2C2.svg)
+![CCT6B (**fail**) - Average rating: Germline](primary/Love_CCT6B.svg)
 
-Average rating: &starf; &starf; &star; &star; &star;
+![CDH17 (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Love_CDH17.svg)
 
-<div style="page-break-after: always;"></div>
+![COL4A2 (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Love_COL4A2.svg)
 
 
-### BRAF - fail (insufficient support) 
+![CYP4F22 (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Love_CYP4F22_15523136.png)
 
-![BRAF](primary/Love_BRAF.svg)
+![DLGAP1 (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Love_DLGAP_chr18_3869854.png)
 
-Average rating: &starf; &star; &star; &star; &star;
+![DTX1 (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Love_DTX1_chr12_112017255.png)
 
-### c6orf27 - fail (germline)
+![EIF2C4 (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Love_EIF2C4.svg)
 
-![c6orf27](primary/Love_C6orf27_germline.svg)
+![EML2 (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Love_EML2_50816396.png)
 
-Average rating: Germline
+![ENTPD3 (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Love_ENTPD3.svg)
 
-<div style="page-break-after: always;"></div>
+![EPHB2 (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Love_EPHB2.svg)
 
-### BRD4 - fail (insufficient support) 
+![FAM129B (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Love_FAM129B.svg)
 
-![BRD4](primary/Love_BRD4.svg)
+![FGFR3 (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Love_FGFR3.svg)
 
-Average rating: &starf; &star; &star; &star; &star;
+![FTCD (**fail**) - Average rating: Germline](primary/Love_FTCD.svg)
 
-### CYB5D1 - fail (insufficient support)
+![GRIK5 (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Love_GRIK5.svg)
 
-![CYB5D1](primary/Love_CYB5D1.svg)
+![ICK (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Love_ICK.svg)
 
-Average rating: &starf; &star; &star; &star; &star;
+![ITPR3 (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Love_ITPR3.svg)
 
-<div style="page-break-after: always;"></div>
+![KIFC3 (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Love_KIFC3_2_56362071.png)
 
-### BTG2 - fail (insufficient support)  
+![MAP3K6 (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Love_MAP3K6.svg)
 
-![BTG2](primary/Love_BTG2.svg)
+![MYH10 (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Love_MYH10.svg)
 
-Average rating: &starf; &star; &star; &star; &star;
+![NOTCH1 (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Love_NOTCH1.svg)
 
+![NRXN2 (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Love_NRXN2.svg)
 
+![PC (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Love_PC_chr11_66374870.png)
 
-### CAD - fail (insufficient support)
+![POLRMT (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Love_POLRMT.svg)
 
-![CAD](primary/Love_CAD.svg)
+![POR (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Love_POR.svg)
 
-Average rating: &starf; &star; &star; &star; &star;
+![PRSS22 (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Love_PRSS22.svg)
 
-<div style="page-break-after: always;"></div>
+![PTPRN (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Love_PTPRN.svg)
 
-### CCT6B - fail (germline)
+![RBP3 (**fail**)](primary/Love_RBP3.svg)
 
-![CCT6B](primary/Love_CCT6B.svg)
+![RET  (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Love_RET_42930092.png)
 
-Average rating: Gremline
+![SALL3 (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Love_SALL3.svg)
 
-### CDH17 - fail (insufficient support)
 
-![CDH17](primary/Love_CDH17.svg)
 
-Average rating: &starf; &star; &star; &star; &star;
+![SAPS2 (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Love_SAPS2.svg)
 
-<div style="page-break-after: always;"></div>
 
-### COL4A2 - fail (insufficient support)
+![SBF1 (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Love_SBF1.svg)
 
-![COL4A2](primary/Love_COL4A2.svg)
+![SLC29A2 (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Love_SLC29A2.svg)
 
-Average rating: &starf; &star; &star; &star; &star;
+![SHANK1 (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Love_SHANK1.svg)
 
+![SYNGAP1 (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Love_SYNGAP1_33518868.png)
 
 
-### CYP4F22 - fail (insufficient support)
+![TBC1D9B (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Love_TBC1D9B.svg)
 
+![TIGD6 (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Love_TIGD6.svg)
 
-![CYP4F22](primary/Love_CYP4F22_15523136.png)
+![TPST2 (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Love_TPST2.svg)
 
-Average rating: &starf; &star; &star; &star; &star;
 
+![ZNF229 (**fail**) - Average rating: Germline](primary/Love_ZNF229_chr19_49624750_also_in_germline.png)
 
-### DLGAP1 - fail (insufficient support)
 
-![DLGAP1](primary/Love_DLGAP_chr18_3869854.png)
-
-Average rating: &starf; &star; &star; &star; &star;
-
-<div style="page-break-after: always;"></div>
-
-### DTX1 - fail (insufficient support)
-
-![DTX1](primary/Love_DTX1_chr12_112017255.png)
-
-Average rating: &starf; &star; &star; &star; &star;
-
-
-### EIF2C4 - fail (insufficient support)
-
-![EIF2C4](primary/Love_EIF2C4.svg)
-
-Average rating: &starf; &star; &star; &star; &star;
-
-<div style="page-break-after: always;"></div>
-
-### EML2 - fail (insufficient support)
-
-![EML2](primary/Love_EML2_50816396.png)
-
-Average rating: &starf; &star; &star; &star; &star;
-
-### ENTPD3 - fail (insufficient support)
-
-![ENTPD3](primary/Love_ENTPD3.svg)
-
-Average rating: &starf; &starf; &star; &star; &star;
-
-<div style="page-break-after: always;"></div>
-
-### EPHB2 - fail (insufficient support)
-
-![EPHB2](primary/Love_EPHB2.svg)
-
-Average rating: &starf; &starf; &star; &star; &star;
-
-### FAM129B - fail (insufficient support)
-
-![FAM129B](primary/Love_FAM129B.svg)
-
-Average rating: &starf; &starf; &star; &star; &star;
-
-<div style="page-break-after: always;"></div>
-
-### FGFR3 - fail (insufficient support)
-
-![FGFR3](primary/Love_FGFR3.svg)
-
-Average rating: &starf; &star; &star; &star; &star;
-
-### FTCD - fail (germline)
-
-![FTCD](primary/Love_FTCD.svg)
-
-Average rating: Germline
-
-<div style="page-break-after: always;"></div>
-
-### GRIK5 - fail (insufficient support)
-
-![GRIK5](primary/Love_GRIK5.svg)
-
-Average rating: &starf; &star; &star; &star; &star;
-
-### ICK - fail (insufficient support)
-
-![ICK](primary/Love_ICK.svg)
-
-Average rating: &starf; &star; &star; &star; &star;
-
-
-<div style="page-break-after: always;"></div>
-
-### ITPR3 - fail (insufficient support)
-
-![ITPR3](primary/Love_ITPR3.svg)
-
-Average rating: &starf; &star; &star; &star; &star;
-
-
-### KIFC3 - fail (insufficient support)
-
-![KIFC3](primary/Love_KIFC3_2_56362071.png)
-
-Average rating: &starf; &star; &star; &star; &star;
-
-
-<div style="page-break-after: always;"></div>
-
-### MAP3K6 - fail (insufficient support)
-
-![MAP3K6](primary/Love_MAP3K6.svg)
-
-Average rating: &starf; &star; &star; &star; &star;
-
-
-
-### MYH10 - fail (insufficient support)
-
-![MYH10](primary/Love_MYH10.svg)
-
-Average rating: &starf; &star; &star; &star; &star;
-
-<div style="page-break-after: always;"></div> 
-
-### NOTCH1 - fail (insufficient support)
-
-![NOTCH1](primary/Love_NOTCH1.svg)
-
-Average rating: &starf; &star; &star; &star; &star;
-
-### NRXN2 - fail (insufficient support)
-
-![NRXN2](primary/Love_NRXN2.svg)
-
-Average rating: &starf; &star; &star; &star; &star;
-
-<div style="page-break-after: always;"></div>
-
-### PC - fail (insufficient support)
-
-![PC](primary/Love_PC_chr11_66374870.png)
-
-Average rating: &starf; &star; &star; &star; &star;
-
-### POLRMT - fail (insufficient support)
-
-![POLRMT](primary/Love_POLRMT.svg)
-
-Average rating: &starf; &star; &star; &star; &star;
-
-<div style="page-break-after: always;"></div>
-
-### POR - fail (insufficient support)
-
-![POR](primary/Love_POR.svg)
-
-Average rating: &starf; &star; &star; &star; &star;
-
-
-### PRSS22 - fail (insufficient support)
-
-![PRSS22](primary/Love_PRSS22.svg)
-
-Average rating: &starf; &star; &star; &star; &star;
-
-<div style="page-break-after: always;"></div>
-
-### PTPRN - fail (insufficient support)
-
-![PTPRN](primary/Love_PTPRN.svg)
-
-Average rating: &starf; &star; &star; &star; &star;
-
-### RBP3 - fail (insufficient support)
-
-![RBP3](primary/Love_RBP3.svg)
-
-Average rating: &starf; &star; &star; &star; &star;
-
-<div style="page-break-after: always;"></div>
-
-### RET - fail (insufficient support)
-
-![RET](primary/Love_RET_42930092.png)
-
-Average rating: &starf; &star; &star; &star; &star;
-
-### SALL3 - fail (insufficient support)
-
-![SALL3](primary/Love_SALL3.svg)
-
-Average rating: &starf; &starf; &star; &star; &star;
-
-<div style="page-break-after: always;"></div>
-
-### SAPS2 - fail (insufficient support)
-
-![SAPS2](primary/Love_SAPS2.svg)
-
-Average rating: &starf; &star; &star; &star; &star;
-
-
-
-### SBF1 - fail (insufficient support)
-
-![SBF1](primary/Love_SBF1.svg)
-
-Average rating: &starf; &starf; &star; &star; &star;
-
-<div style="page-break-after: always;"></div>
-
-### SF3B1 - fail (insufficient support)
-
-![SF3B1](primary/Love_SF3B1.svg)
-
-Average rating: &starf; &starf; &starf; &starf; &star;
-
-### SLC29A2 - fail (insufficient support)
-
-![SLC29A2](primary/Love_SLC29A2.svg)
-
-Average rating: &starf; &star; &star; &star; &star;
-
-<div style="page-break-after: always;"></div>
-
-
-### SHANK1 - fail (insufficient support)
-
-![SHANK1](primary/Love_SHANK1.svg)
-
-Average rating: &starf; &star; &star; &star; &star;
-
-
-### SYNGAP1 - fail (insufficient support)
-
-![SYNGAP1](primary/Love_SYNGAP1_33518868.png)
-
-Average rating: &starf; &star; &star; &star; &star;
-
-<div style="page-break-after: always;"></div>
-
-### TBC1D9B - fail (insufficient support)
-
-![TBC1D9B](primary/Love_TBC1D9B.svg)
-
-Average rating: &starf; &star; &star; &star; &star;
-
-
-
-### TIGD6 - fail (insufficient support)
-
-![TIGD6](primary/Love_TIGD6.svg)
-
-Average rating: &starf; &star; &star; &star; &star;
-
-<div style="page-break-after: always;"></div>
-
-### TPST2 - fail (insufficient support)
-
-![TPST2](primary/Love_TPST2.svg)
-
-Average rating: &starf; &star; &star; &star; &star;
-
-### ZNF229 - fail (germline)
-
-![ZNF229](primary/Love_ZNF229_chr19_49624750_also_in_germline.png)
-
-Average rating: Germline
 
 <div style="page-break-after: always;"></div>
 
@@ -463,218 +208,63 @@ Average rating: Germline
 |Exome|400|601|0|13|28|26 (39%)|
 
 
-### ARID5B - pass
 
-![ARID5B](primary/Reddy_ARID5B_1.svg)
+![ARID5B (**pass**) - Average rating: &starf; &starf; &starf; &starf; &star;](primary/Reddy_ARID5B_1.svg)
 
-Average rating: &starf; &starf; &starf; &starf; &star;
+![ARID1B (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_ARID1B_1.svg)
 
-### ARID1B - fail (insufficient support)
+![CBLB (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_CBLB_1.svg)
 
-![ARID1B](primary/Reddy_ARID1B_1.svg)
+![CDC73 (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_CDC73.svg)
 
-Average rating: &starf; &starf; &star; &star; &star;
+![CHD8 (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_CHD8.svg)
 
-<div style="page-break-after: always;"></div>
+![CHD1 (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_CHD1.svg)
 
-### CBLB - fail (insufficient support)
+![CHST2 (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_CHST2.svg)
 
-![CBLB](primary/Reddy_CBLB_1.svg)
+![DCAF6 (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_DCAF6.svg)
 
-Average rating: &starf; &starf; &star; &star; &star;
 
-<div style="page-break-after: always;"></div>
+![DICER1 (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_DICER1.svg)
 
-### CDC73 - fail (insufficient support)
 
-![CDC73](primary/Reddy_CDC73.svg)
+![DNMT3A (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Reddy_DNMT3A.svg)
 
-Average rating: &starf; &starf; &star; &star; &star;
+![GNAS (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_GNAS.svg)
 
-### CHD8 - fail (insufficient support)
+![HRAS (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_HRAS.svg)
 
-![CHD8](primary/Reddy_CHD8.svg)
+![LIN54 (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_LIN54.svg)
 
-Average rating: &starf; &starf; &star; &star; &star;
+![MAP4K4 (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_MAP4K4.svg)
 
-<div style="page-break-after: always;"></div>
+![MARK1 (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Reddy_MARK1.svg)
 
-### CHD1 - fail (insufficient support)
+![MSH2 (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_MSH2.svg)
 
-![CHD1](primary/Reddy_CHD1.svg)
+![MYB (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_MYB.svg)
 
-Average rating: &starf; &starf; &star; &star; &star;
+![NCOR1 (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_NCOR1.svg)
 
-<div style="page-break-after: always;"></div>
+![NFKB2 (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_NFKB2.svg)
 
-### CHST2 - fail (insufficient support)
+![PHF6 (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_PHF6.svg)
 
-![CHST2](primary/Reddy_CHST2.svg)
+![PTPRK (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_PTPRK.svg)
 
-Average rating: &starf; &starf; &star; &star; &star;
+![RARA (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Reddy_RARA.svg)
 
+![RUNX1 (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_RUNX1.svg)
 
-<div style="page-break-after: always;"></div>
+![SYK (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_SYK.svg)
 
-### DCAF6 - fail (insufficient support)
+![WAC (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_WAC.svg)
 
-![DCAF6](primary/Reddy_DCAF6.svg)
+![ZBTB7A (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Reddy_ZBTB7A.svg)
 
-Average rating: &starf; &starf; &star; &star; &star;
+![ZFAT (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Reddy_ZFAT.svg)
 
-<div style="page-break-after: always;"></div>
-
-### DICER1 - fail (insufficient support)
-
-![DICER1](primary/Reddy_DICER1.svg)
-
-Average rating: &starf; &starf; &star; &star; &star;
-
-
-<div style="page-break-after: always;"></div>
-
-### DNMT3A - fail (insufficient support)
-
-![DNMT3A](primary/Reddy_DNMT3A.svg)
-
-Average rating: &starf; &star; &star; &star; &star;
-
-<div style="page-break-after: always;"></div>
-
-### GNAS - fail (insufficient support)
-
-![GNAS](primary/Reddy_GNAS.svg)
-
-Average rating: &starf; &starf; &star; &star; &star;
-
-<div style="page-break-after: always;"></div>
-
-### HRAS - fail (insufficient support)
-
-![HRAS](primary/Reddy_HRAS.svg)
-
-Average rating: &starf; &starf; &star; &star; &star;
-
-<div style="page-break-after: always;"></div>
-
-### LIN54 - fail (insufficient support)
-
-![LIN54](primary/Reddy_LIN54.svg)
-
-Average rating: &starf; &starf; &star; &star; &star;
-
-<div style="page-break-after: always;"></div>
-
-### MAP4K4 - fail (insufficient support)
-
-![MAP4K4](primary/Reddy_MAP4K4.svg)
-
-Average rating: &starf; &starf; &star; &star; &star;
-
-<div style="page-break-after: always;"></div>
-
-### MARK1 - fail (insufficient support)
-
-![MARK1](primary/Reddy_MARK1.svg)
-
-Average rating: &starf; &star; &star; &star; &star;
-
-<div style="page-break-after: always;"></div>
-
-### MSH2 - fail (insufficient support)
-
-![MSH2](primary/Reddy_MSH2.svg)
-
-Average rating: &starf; &starf; &star; &star; &star;
-
-<div style="page-break-after: always;"></div>
-
-### MYB - fail (insufficient support)
-
-![MYB](primary/Reddy_MYB.svg)
-
-Average rating: &starf; &starf; &star; &star; &star;
-
-<div style="page-break-after: always;"></div>
-
-### NCOR1 - fail (insufficient support)
-
-![NCOR1](primary/Reddy_NCOR1.svg)
-
-Average rating: &starf; &starf; &star; &star; &star;
-
-<div style="page-break-after: always;"></div>
-
-### NFKB2 - fail (insufficient support)
-
-![NFKB2](primary/Reddy_NFKB2.svg)
-
-Average rating: &starf; &starf; &star; &star; &star;
-
-<div style="page-break-after: always;"></div>
-
-### PHF6 - fail (insufficient support)
-
-![PHF6](primary/Reddy_PHF6.svg)
-
-Average rating: &starf; &starf; &star; &star; &star;
-
-<div style="page-break-after: always;"></div>
-
-### PTPRK - fail (insufficient support)
-
-![PTPRK](primary/Reddy_PTPRK.svg)
-
-Average rating: &starf; &starf; &star; &star; &star;
-
-
-<div style="page-break-after: always;"></div>
-
-### RARA - fail (insufficient support)
-
-![RARA](primary/Reddy_RARA.svg)
-
-Average rating: &starf; &star; &star; &star; &star;
-
-<div style="page-break-after: always;"></div>
-
-### RUNX1 - fail (insufficient support)
-
-![RUNX1](primary/Reddy_RUNX1.svg)
-
-Average rating: &starf; &starf; &star; &star; &star;
-
-<div style="page-break-after: always;"></div>
-
-### SYK - fail (insufficient support)
-
-![SYK](primary/Reddy_SYK.svg)
-
-Average rating: &starf; &starf; &star; &star; &star;
-
-<div style="page-break-after: always;"></div>
-
-### WAC - fail (insufficient support)
-
-![WAC](primary/Reddy_WAC.svg)
-
-Average rating: &starf; &starf; &star; &star; &star;
-
-<div style="page-break-after: always;"></div>
-
-### ZBTB7A - fail (insufficient support)
-
-![ZBTB7A](primary/Reddy_ZBTB7A.svg)
-
-Average rating: &starf; &star; &star; &star; &star;
-
-<div style="page-break-after: always;"></div>
-
-### ZFAT - fail (insufficient support)
-
-![ZFAT](primary/Reddy_ZFAT.svg)
-
-Average rating: &starf; &starf; &star; &star; &star;
 
 <div style="page-break-after: always;"></div>
 
@@ -688,53 +278,21 @@ Average rating: &starf; &starf; &star; &star; &star;
 
 *See also:* [IGV reports](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/)
 
-### HDAC7 - pass
+![HDAC7 (**pass**) - Average rating: &starf; &starf; &starf; &star; &star;](primary/Morin_HDAC7.svg)
 
-![HDAC7](primary/Morin_HDAC7.svg)
+![FAM38B (**fail**)  - Average rating: &starf; &starf; &star; &star; &star;](primary/Morin_FAM38B.svg)
 
-Average rating: &starf; &starf; &starf; &star; &star;
+![FNDC1 (**fail**)  - Average rating: &starf; &starf; &star; &star; &star;](primary/Morin_FNDC1.svg)
 
-<div style="page-break-after: always;"></div>
+![IER2 (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Morin_IER2.svg)
 
-### FAM38B - fail (insufficient support)
+![PKD1 (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Morin_PKD1.svg)
 
-![FAM38B](primary/Morin_FAM38B.svg)
+![POGZ (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Morin_POGZ.svg)
 
-<div style="page-break-after: always;"></div>
+![PTPN23 (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Morin_PTPN23.svg)
 
-### FNDC1 - fail (insufficient support)
-
-![FNDC1](primary/Morin_FNDC1.svg)
-
-<div style="page-break-after: always;"></div>
-
-### IER2 - fail (insufficient support)
-
-![IER2](primary/Morin_IER2.svg)
-
-<div style="page-break-after: always;"></div>
-
-### PKD1 - fail (insufficient support)
-
-![PKD1](primary/Morin_PKD1.svg)
-
-<div style="page-break-after: always;"></div>
-
-### POGZ - fail (insufficient support)
-
-![POGZ](primary/Morin_POGZ.svg)
-
-<div style="page-break-after: always;"></div>
-
-### PTPN23 - fail (insufficient support)
-
-![PTPN23](primary/Morin_PTPN23.svg)
-
-<div style="page-break-after: always;"></div>
-
-### SARM1 - fail (insufficient support)
-
-![SARM1](primary/Morin_SARM1.svg)
+![SARM1 (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Morin_SARM1.svg)
 
 <div style="page-break-after: always;"></div>
 
@@ -744,129 +302,53 @@ Average rating: &starf; &starf; &starf; &star; &star;
 
 |Methodology|Pairs|Unpaired tumors|Cell lines|Tier 1|Tier 2|Tier 3|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|WGS|101|0|0|2|15|22 (56%)|
+|WGS/exome/RNA-seq|101|0|0|2|15|22 (56%)|
 
-### CXCR4 - pass
+![CXCR4 (**pass**)  - Average rating: &starf; &starf; &starf; &star; &star;](primary/Panea_CXCR4_1.svg)
 
-![CXCR4](primary/Panea_CXCR4_1.svg)
+![ALPK2 (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Panea_ALPK2.svg)
 
+![CD79B (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Panea_CD79B.svg)
 
-### ALPK2 - fail (insufficient support)
+![CTCF (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Panea_CTCF_1.svg)
 
-![ALPK2](primary/Panea_ALPK2.svg)
+![DNMT1 (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Panea_DNMT1_1.svg)
 
-<div style="page-break-after: always;"></div>
+![ETS1 (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Panea_ETS1_1.svg)
 
+![FZD3 (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Panea_FZD3_1.svg)
 
-### CD79B - fail (insufficient support, RNA-only)
+![HIST1H1C (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Panea_HIST1H1C_3.svg)
 
-![CD79B](primary/Panea_CD79B.svg)
+![HIST1H2AG (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Panea_HIST1H2AG_3.svg)
 
+![HIST1H2AM (**fail**) - Average rating: &star; &star; &star; &star; &star;](primary/Panea_HIST1H2AM_1.svg)
 
+![HIST1H2BK (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Panea_HIST1H2BK_1.svg)
 
-### CTCF - fail (insufficient support)
+![HIST1H3H (**fail**) - Average rating: &star; &star; &star; &star; &star;](primary/Panea_HIST1H3H_1.svg)
 
-![CTCF](primary/Panea_CTCF_1.svg)
+![HIST1H3J (**fail**) - Average rating: &star; &star; &star; &star; &star;](primary/Panea_HIST1H3J_1.svg)
 
-<div style="page-break-after: always;"></div>
+![KCNK10 (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Panea_KCNK10_1.svg)
 
+![MME (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Panea_MME_1.svg)
 
-### DNMT1 - fail (insufficient support)
+![MTOR (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Panea_MTOR_1.svg)
 
-![DNMT1](primary/Panea_DNMT1_1.svg)
+![PABPC4L (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Panea_PABPC4L_1.svg)
 
+![PCDHA11 (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Panea_PCDHA11_1.svg)
 
+![PDZRN3 (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Panea_PDZRN3_1.svg)
 
-### ETS1 - fail (insufficient support, RNA-only)
+![PIK3R1 (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Panea_PIK3R1_1.svg)
 
-![ETS1](primary/Panea_ETS1_1.svg)
+![PXDNL (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Panea_PXDNL_1.svg)
 
-<div style="page-break-after: always;"></div>
+![SNTB2 (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Panea_SNTB2_1.svg)
 
-### FZD3 - fail (insufficient support)
-
-![FZD3](primary/Panea_FZD3_1.svg)
-
-<div style="page-break-after: always;"></div>
-
-### HIST1H1C - fail (insufficient support)
-
-![HIST1H1C](primary/Panea_HIST1H1C_3.svg)
-
-<div style="page-break-after: always;"></div>
-
-
-### HIST1H2AG - fail (insufficient support)
-
-![HIST1H2AG](primary/Panea_HIST1H2AG_3.svg)
-
-
-### HIST1H2AM - fail (insufficient support, RNA-only)
-
-![HIST1H2AM](primary/Panea_HIST1H2AM_1.svg)
-
-<div style="page-break-after: always;"></div>
-
-### HIST1H2BK - fail (insufficient support)
-
-![HIST1H2BK](primary/Panea_HIST1H2BK_1.svg)
-
-### HIST1H3H - fail (insufficient support)
-
-![HIST1H3H](primary/Panea_HIST1H3H_1.svg)
-
-<div style="page-break-after: always;"></div>
-
-### HIST1H3J - fail (insufficient support)
-
-![HIST1H3J](primary/Panea_HIST1H3J_1.svg)
-
-### KCNK10 - fail (insufficient support)
-
-![KCNK10](primary/Panea_KCNK10_1.svg)
-
-### MME - fail (insufficient support)
-
-![MME](primary/Panea_MME_1.svg)
-
-<div style="page-break-after: always;"></div>
-
-### MTOR - fail (insufficient support)
-
-![MTOR](primary/Panea_MTOR_1.svg)
-
-### PABPC4L - fail (insufficient support)
-
-![PABPC4L](primary/Panea_PABPC4L_1.svg)
-
-
-### PCDHA11 - fail (insufficient support)
-
-![PCDHA11](primary/Panea_PCDHA11_1.svg)
-
-### PDZRN3 - fail (insufficient support)
-
-![PDZRN3](primary/Panea_PDZRN3_1.svg)
-
-<div style="page-break-after: always;"></div>
-
-### PIK3R1 - fail (insufficient support)
-
-![PIK3R1](primary/Panea_PIK3R1_1.svg)
-
-### PXDNL - fail (insufficient support)
-
-![PXDNL](primary/Panea_PXDNL_1.svg)
-
-### SNTB2 - fail (insufficient support)
-
-![SNTB2](primary/Panea_SNTB2_1.svg)
-
-<div style="page-break-after: always;"></div>
-
-### WDR7 - fail (insufficient support)
-
-![WDR7](primary/Panea_WDR7_3.svg)
+![WDR7 (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Panea_WDR7_3.svg)
 
 <div style="page-break-after: always;"></div>
 
@@ -879,30 +361,13 @@ Average rating: &starf; &starf; &starf; &star; &star;
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |Exome|137|167|0|10|13| 6(21%)|
 
-### DOCK1 - pass
+![DOCK1 (**pass**) - Average rating: &starf; &starf; &starf; &star; &star;](primary/Chapuy_DOCK1.svg)
 
-![DOCK1](primary/Chapuy_DOCK1.svg)
+![FUT5 (**fail**) - Average rating: &starf; &star; &star; &star; &star;](primary/Chapuy_FUT5.svg)
 
+![NLRP8 (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Chapuy_NLRP8.svg)
 
-<div style="page-break-after: always;"></div>
-
-### FUT5 - fail (insufficient support)
-
-![FUT5](primary/Chapuy_FUT5.svg)
-
-<div style="page-break-after: always;"></div>
-
-### NLRP8 - fail (insufficient support)
-
-![NLRP8](primary/Chapuy_NLRP8.svg)
-
-<div style="page-break-after: always;"></div>
-
-### PDE4DIP - fail (insufficient support)
-
-![PDE4DIP](primary/Chapuy_PDE4DIP.svg)
-
-<div style="page-break-after: always;"></div>
+![PDE4DIP (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/Chapuy_PDE4DIP.svg)
 
 ### Hübschmann *et al*, 2021 <a name="icgc"></a>
 
@@ -913,28 +378,13 @@ Average rating: &starf; &starf; &starf; &star; &star;
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |WGS|179|2|0|5|31| 3 (7.7%)|
 
-### IKBKE - pass
+![IKBKE (**pass**) - Average rating: &starf; &starf; &starf; &starf; &star;](primary/ICGC_IKBKE.svg)
 
-![IKBKE](primary/ICGC_IKBKE.svg)
+![GAK (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/ICGC_GAK.svg)
 
-<div style="page-break-after: always;"></div>
+![HLA-DQA1 (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/ICGC_HLA-DQA1.svg)
 
-### GAK - fail (insufficient support)
-
-![GAK](primary/ICGC_GAK.svg)
-
-<div style="page-break-after: always;"></div>
-
-### HLA-DQA1 - fail (insufficient support)
-
-![HLA-DQA1](primary/ICGC_HLA-DQA1.svg)
-
-
-<div style="page-break-after: always;"></div>
-
-### NR2F2 - fail (insufficient support)
-
-![NR2F2](primary/ICGC_NR2F2.svg)
+![NR2F2 (**fail**) - Average rating: &starf; &starf; &star; &star; &star;](primary/ICGC_NR2F2.svg)
 
 <div style="page-break-after: always;"></div>
 
