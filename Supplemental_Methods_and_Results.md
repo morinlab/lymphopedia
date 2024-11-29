@@ -16,8 +16,8 @@ Any study that described at least one gene as recurrently mutated in DLBCL, FL o
 15 studies for FL,[@barariaCathepsinAlterationsInduce2020; @cheungAcquiredTNFRSF14Mutations2010; @drevalGeneticSubdivisionsFollicular2023; @hubschmannMutationalMechanismsShaping2021; @krysiakRecurrentSomaticMutations2017; @laurentFollicularLymphomaComprises2024; @louissaintPediatrictypeNodalFollicular2016; @maSubtypespecificCooccurringGenetic2022; @morinFrequentMutationHistonemodifying2011; @morinSomaticMutationsAltering2010; @okosunRecurrentMTORC1activatingRRAGC2016; @pasqualucciInactivatingMutationsAcetyltransferase2011; @rossiAberrantSomaticHypermutation2006; @russler-germainMutationsAssociatedProgression2023; @yildizActivatingSTAT6Mutations2015] and 13 studies for BL.[@abateDistinctViralMutational2015; @burkhardtClinicalRelevanceMolecular2022; @grandeGenomewideDiscoverySomatic2019; @johnstonCmycHypermutationBurkitt1992; @loveGeneticLandscapeMutations2012; @maSubtypespecificCooccurringGenetic2022; @muppidiLossSignalingGa132014; @paneaWholeGenomeLandscape2019; @richterRecurrentMutationID32012; @schmitzBurkittLymphomaPathogenesis2012; @thomasGeneticSubgroupsInform2023; @wildaInactivationARFMDM2p53Pathway2004; @zhouSporadicEndemicBurkitt2019] The number of Tier 1, 2 and 3 genes originating from each of these studies is summarized below. 
 
 <figure>
-<img src="" alt="flags1" style="width:500px;"/>
-<figcaption><strong>Supplemental Figure S1. Comparing FLAGS rank in the DLBCL genes.</strong> <br> 
+<img src="DLBCL_FL_BL_sankey_all-1.svg" alt="flags1" style="width:500px;"/>
+<figcaption><strong>Supplemental Figure S1. The originating studies for all DLBCL, FL and BL genes.</strong> <br> 
 The FLAGS rank of DLBCL genes in Tier 1, 2 and 3 is compared. The genes in the COSMIC CGC list are included for comparison. Values closer to 1 indicate the gene has a higher number of rare germline variants.  
 </figcaption>
 </figure>
