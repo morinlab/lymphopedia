@@ -159,7 +159,7 @@ link-citations: true
 |[SIN3A](SIN3A)|Tier 2 GE||[@chapuyMolecularSubtypesDiffuse2018; @grandeGenomewideDiscoverySomatic2019; @rossiCodingGenomeSplenic2012]||
 |[SMAD3](SMAD3)|Tier 2 GE||||
 |[SMARCA2](SMARCA2)|Tier 2 GE||||
-|[SMARCA4](SMARCA4)|Tier 2 GE, FE[@fernandoFunctionalCharacterizationSMARCA42020]||[@krysiakRecurrentSomaticMutations2017; @nadeuGenomicEpigenomicInsights2020b; @reddyGeneticFunctionalDrivers2017; @richterRecurrentMutationID32012]||
+|[SMARCA4](SMARCA4)|Tier 2 GE, FE[@fernandoFunctionalCharacterizationSMARCA42020]||[@krysiakRecurrentSomaticMutations2017; @nadeuGenomicEpigenomicInsights2020; @reddyGeneticFunctionalDrivers2017; @richterRecurrentMutationID32012]||
 |[STAT3](STAT3)|Tier 2 GE, FE[@huNovelMissenseM206K2013]||[@morinFrequentMutationHistonemodifying2011]||
 |[STAT5B](STAT5B)|Tier 2 GE[@tiacciPervasiveMutationsJAKSTAT2018]|[Tiacci et al](papers/tiacciPervasiveMutationsJAKSTAT2018)|[@reddyGeneticFunctionalDrivers2017]||
 |[STRAP](STRAP)|Tier 2 GE[@gomezUltraDeepSequencingReveals2023]|[Gomez et al](papers/gomezUltraDeepSequencingReveals2023)|||
