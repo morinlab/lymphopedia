@@ -73,7 +73,7 @@ link-citations: true
 |[ARHGAP20](ARHGAP20)|Tier 2 GE[@jalladesExomeSequencingIdentifies2017]|[Jallades et al](papers/jalladesExomeSequencingIdentifies2017)|||
 |[ARHGEF15](ARHGEF15)|Tier 2 GE[@jalladesExomeSequencingIdentifies2017]|[Jallades et al](papers/jalladesExomeSequencingIdentifies2017)|||
 |[ARHGEF17](ARHGEF17)|Tier 2 GE[@jalladesExomeSequencingIdentifies2017]|[Jallades et al](papers/jalladesExomeSequencingIdentifies2017)|||
-|[BCOR](BCOR)|Tier 2 GE[@jalladesExomeSequencingIdentifies2017]|[Jallades et al](papers/jalladesExomeSequencingIdentifies2017)|[@nadeuGenomicEpigenomicInsights2020b]||
+|[BCOR](BCOR)|Tier 2 GE[@jalladesExomeSequencingIdentifies2017]|[Jallades et al](papers/jalladesExomeSequencingIdentifies2017)|[@nadeuGenomicEpigenomicInsights2020]||
 |[C6orf103](C6orf103)|Tier 2 GE[@spinaGeneticsNodalMarginal2016]|[Spina et al](papers/spinaGeneticsNodalMarginal2016)|||
 |[CBFA2T3](CBFA2T3)|Tier 2 GE[@parryWholeExomeSequencing2013]|[Parry et al](papers/parryWholeExomeSequencing2013)|||
 |[CD79A](CD79A)|Tier 2 GE[@rossiCodingGenomeSplenic2012]|[Rossi et al](papers/rossiCodingGenomeSplenic2012)|[@burkhardtClinicalRelevanceMolecular2022]||
