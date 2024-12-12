@@ -6,7 +6,7 @@ link-citations: true
 
 # ACTG1
 
-ACTG1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas. The function of mutations in ACTB and ACTG1 have not yet been determined.[@witjesPrevalenceCytoplasmicActin2020b]
+ACTG1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas. The function of mutations in ACTB and ACTG1 have not yet been determined.[@witjesPrevalenceCytoplasmicActin2020]
 
 ## History
 
@@ -24,9 +24,9 @@ timeline
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
 |![PMBL](images/icons/PMBL_tier2.png)|2|relevance in PMBL/cHL/GZL not firmly established[@deschGenotypingCirculatingTumor2020]|
-|![MZL](images/icons/MZL_tier2.png)|2|relevance in MZL not firmly established[@spinaGeneticsNodalMarginal2016b]|
-|![FL](images/icons/FL_tier2.png)|2|relevance in FL not firmly established[@hubschmannMutationalMechanismsShaping2021b]|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1 | aSHM target and high-confidence DLBCL gene[@hubschmannMutationalMechanismsShaping2021b]            |
+|![MZL](images/icons/MZL_tier2.png)|2|relevance in MZL not firmly established[@spinaGeneticsNodalMarginal2016]|
+|![FL](images/icons/FL_tier2.png)|2|relevance in FL not firmly established[@hubschmannMutationalMechanismsShaping2021]|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1 | aSHM target and high-confidence DLBCL gene[@hubschmannMutationalMechanismsShaping2021]            |
 
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)

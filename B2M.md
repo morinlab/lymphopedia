@@ -12,7 +12,7 @@ The B2M (β2-microglobulin) gene plays a crucial role in the function of the maj
 
 ## Experimental Evidence
 
-B2M mutations in B-cell lymphomas, particularly in DLBCL and PMBCL, lead to reduced MHC class I expression, enabling tumor cells to evade immune detection and destruction by cytotoxic T cells. This is often accompanied by mutations in the β2-Microglobulin gene, which further aids in immune evasion.[@challa-malladiCombinedGeneticInactivationa]
+B2M mutations in B-cell lymphomas, particularly in DLBCL and PMBCL, lead to reduced MHC class I expression, enabling tumor cells to evade immune detection and destruction by cytotoxic T cells. This is often accompanied by mutations in the β2-Microglobulin gene, which further aids in immune evasion.[@challa-malladiCombinedGeneticInactivation2011]
 
 ## History
 
@@ -37,7 +37,7 @@ timeline
 
 |Entity|Tier|Description                            |
 |:------:|:----:|---------------------------------------|
-|![PMBL](images/icons/PMBL_tier1.png)|1-EE |high-confidence PMBL/cHL/GZL gene[@reichelFlowSortingExome2015a]|
+|![PMBL](images/icons/PMBL_tier1.png)|1-EE |high-confidence PMBL/cHL/GZL gene[@reichelFlowSortingExome2015]|
 |![DLBCL](images/icons/DLBCL_tier1.png) |1-EE   |high-confidence DLBCL gene[@morinFrequentMutationHistonemodifying2011]             |
 |![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene[@morinFrequentMutationHistonemodifying2011]                |
 |![MCL](images/icons/MCL_tier2.png)   |2   |relevance in MCL not firmly established[@pararajalingamCodingNoncodingDrivers2020]|
