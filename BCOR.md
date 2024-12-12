@@ -24,7 +24,7 @@ timeline
 |:------:|:----:|--------------------------|
 |![MZL](images/icons/MZL_tier2.png)|2|relevance in MZL not firmly established[@jalladesExomeSequencingIdentifies2017]|
 |![DLBCL](images/icons/DLBCL_tier1.png) |2   |low-confidence DLBCL gene|
-|![MCL](images/icons/MCL_tier1.png)   |1   |high-confidence MCL gene  [@nadeuGenomicEpigenomicInsights2020b]|
+|![MCL](images/icons/MCL_tier1.png)   |1   |high-confidence MCL gene  [@nadeuGenomicEpigenomicInsights2020]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

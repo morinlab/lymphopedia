@@ -33,7 +33,7 @@ timeline
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene[@yanBCRTLRSignaling2012a]|
+|![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene[@yanBCRTLRSignaling2012]|
 |![DLBCL](images/icons/DLBCL_tier1.png) |1-EE   |high-confidence DLBCL gene            [@lenzOncogenicCARD11Mutations2008]|
 |![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene               [@morinFrequentMutationHistonemodifying2011]|
 |![MCL](images/icons/MCL_tier1.png)   |1   |high-confidence MCL gene              [@wuGeneticHeterogeneityPrimary2016]|

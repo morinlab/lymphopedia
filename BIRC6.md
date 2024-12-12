@@ -23,7 +23,7 @@ timeline
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene [@sarkozyMutationalLandscapeGray2021a]|
+|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene [@sarkozyMutationalLandscapeGray2021]|
 |![DLBCL](images/icons/DLBCL_tier1.png)   |1   |high-confidence DLBCL gene          [@reddyGeneticFunctionalDrivers2017; @arthurGenomewideDiscoverySomatic2018]|
 |![FL](images/icons/FL_tier1.png)      |1   |high-confidence FL gene               |
 

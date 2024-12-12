@@ -34,7 +34,7 @@ timeline
 |:------:|:----:|--------------------------|
 |![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene[@jalladesExomeSequencingIdentifies2017]|
 |![PMBL](images/icons/PMBL_tier2.png)|2|relevance in PMBL/cHL/GZL not firmly established[@deschGenotypingCirculatingTumor2020]|
-|![BL](images/icons/BL_tier1.png)    |1-EE   |high-confidence BL gene   [@richterRecurrentMutationID32012a]|
+|![BL](images/icons/BL_tier1.png)    |1-EE   |high-confidence BL gene   [@richterRecurrentMutationID32012]|
 |![DLBCL](images/icons/DLBCL_tier1.png) |1-EE   |high-confidence DLBCL gene[@morinFrequentMutationHistonemodifying2011]|
 |![FL](images/icons/FL_tier1.png)    |1-EE   |high-confidence FL gene   [@morinFrequentMutationHistonemodifying2011]|
 
