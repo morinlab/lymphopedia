@@ -40,7 +40,7 @@ link-citations: true
 |[RFX7](RFX7)|Tier 1 GE[@grandeGenomewideDiscoverySomatic2019], FE[@weberPiggyBacTransposonTools2019]|[Grande et al](papers/grandeGenomewideDiscoverySomatic2019)|[@arthurGenomewideDiscoverySomatic2018]||
 |[RHOA](RHOA)|Tier 1 GE[@richterRecurrentMutationID32012], FE[@ohayreInactivatingMutationsGNA132016]|[Richter et al](papers/richterRecurrentMutationID32012)|[@zhangGeneticHeterogeneityDiffuse2013]||
 |[SIN3A](SIN3A)|Tier 1 GE[@grandeGenomewideDiscoverySomatic2019]|[Grande et al](papers/grandeGenomewideDiscoverySomatic2019)|[@chapuyMolecularSubtypesDiffuse2018; @rossiCodingGenomeSplenic2012]||
-|[SMARCA4](SMARCA4)|Tier 1 GE[@richterRecurrentMutationID32012], FE[@fernandoFunctionalCharacterizationSMARCA42020]|[Richter et al](papers/richterRecurrentMutationID32012)|[@krysiakRecurrentSomaticMutations2017; @nadeuGenomicEpigenomicInsights2020b; @reddyGeneticFunctionalDrivers2017]||
+|[SMARCA4](SMARCA4)|Tier 1 GE[@richterRecurrentMutationID32012], FE[@fernandoFunctionalCharacterizationSMARCA42020]|[Richter et al](papers/richterRecurrentMutationID32012)|[@krysiakRecurrentSomaticMutations2017; @nadeuGenomicEpigenomicInsights2020; @reddyGeneticFunctionalDrivers2017]||
 |[TCF3](TCF3)|Tier 1 GE[@schmitzBurkittLymphomaPathogenesis2012]|[Schmitz et al](papers/schmitzBurkittLymphomaPathogenesis2012)|||
 |[TCL1A](TCL1A)|Tier 1 GE[@grandeGenomewideDiscoverySomatic2019], aSHM|[Grande et al](papers/grandeGenomewideDiscoverySomatic2019)|[@reddyGeneticFunctionalDrivers2017]||
 |[TFAP4](TFAP4)|Tier 1 GE[@grandeGenomewideDiscoverySomatic2019]|[Grande et al](papers/grandeGenomewideDiscoverySomatic2019)|||

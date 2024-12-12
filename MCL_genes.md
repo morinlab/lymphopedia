@@ -31,10 +31,10 @@ link-citations: true
 |[POT1](POT1)|Tier 1 GE[@zhangGenomicLandscapeMantle2014]|[Zhang et al](papers/zhangGenomicLandscapeMantle2014)|||
 |[RB1](RB1)|Tier 1 GE[@zhangGenomicLandscapeMantle2014], FE[@pinyolInactivationRB1Mantlecell2007]|[Zhang et al](papers/zhangGenomicLandscapeMantle2014)|[@morinMutationalStructuralAnalysis2013]||
 |[S1PR1](S1PR1)|Tier 1 GE[@pararajalingamCodingNoncodingDrivers2020]|[Pararajalingam et al](papers/pararajalingamCodingNoncodingDrivers2020)|[@lohrDiscoveryPrioritizationSomatic2012]||
-|[SMARCA4](SMARCA4)|Tier 1 GE[@nadeuGenomicEpigenomicInsights2020b], FE[@fernandoFunctionalCharacterizationSMARCA42020]|[Nadeu et al](papers/nadeuGenomicEpigenomicInsights2020b)|[@krysiakRecurrentSomaticMutations2017; @reddyGeneticFunctionalDrivers2017; @richterRecurrentMutationID32012]||
+|[SMARCA4](SMARCA4)|Tier 1 GE[@nadeuGenomicEpigenomicInsights2020], FE[@fernandoFunctionalCharacterizationSMARCA42020]|[Nadeu et al](papers/nadeuGenomicEpigenomicInsights2020)|[@krysiakRecurrentSomaticMutations2017; @reddyGeneticFunctionalDrivers2017; @richterRecurrentMutationID32012]||
 |[SP140](SP140)|Tier 1 GE[@beaLandscapeSomaticMutations2013]|[Bea et al](papers/beaLandscapeSomaticMutations2013)|||
-|[SYNE1](SYNE1)|Tier 1 GE[@nadeuGenomicEpigenomicInsights2020b]|[Nadeu et al](papers/nadeuGenomicEpigenomicInsights2020b)|||
-|[TERT](TERT)|Tier 1 GE[@nadeuGenomicEpigenomicInsights2020b]|[Nadeu et al](papers/nadeuGenomicEpigenomicInsights2020b)|||
+|[SYNE1](SYNE1)|Tier 1 GE[@nadeuGenomicEpigenomicInsights2020]|[Nadeu et al](papers/nadeuGenomicEpigenomicInsights2020b)|||
+|[TERT](TERT)|Tier 1 GE[@nadeuGenomicEpigenomicInsights2020]|[Nadeu et al](papers/nadeuGenomicEpigenomicInsights2020)|||
 |[TLR2](TLR2)|Tier 1 GE[@beaLandscapeSomaticMutations2013]|[Bea et al](papers/beaLandscapeSomaticMutations2013)|[@chapuyMolecularSubtypesDiffuse2018]||
 |[TP53](TP53)|Tier 1 GE[@beaLandscapeSomaticMutations2013], FE[@katoUnderstandingFunctionstructureFunctionmutation2003]|[Bea et al](papers/beaLandscapeSomaticMutations2013)|[@morinFrequentMutationHistonemodifying2011; @rossiCodingGenomeSplenic2012; @tiacciPervasiveMutationsJAKSTAT2018; @wildaInactivationARFMDM2p53Pathway2004]||
 |[UBR5](UBR5)|Tier 1 GE[@pararajalingamCodingNoncodingDrivers2020]|[Pararajalingam et al](papers/pararajalingamCodingNoncodingDrivers2020)|[@albuquerqueEnhancingKnowledgeDiscovery2017]||
