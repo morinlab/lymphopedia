@@ -33,7 +33,7 @@ link-citations: true
 |[S1PR1](S1PR1)|Tier 1 GE[@pararajalingamCodingNoncodingDrivers2020]|[Pararajalingam et al](papers/pararajalingamCodingNoncodingDrivers2020)|[@lohrDiscoveryPrioritizationSomatic2012]||
 |[SMARCA4](SMARCA4)|Tier 1 GE[@nadeuGenomicEpigenomicInsights2020], FE[@fernandoFunctionalCharacterizationSMARCA42020]|[Nadeu et al](papers/nadeuGenomicEpigenomicInsights2020)|[@krysiakRecurrentSomaticMutations2017; @reddyGeneticFunctionalDrivers2017; @richterRecurrentMutationID32012]||
 |[SP140](SP140)|Tier 1 GE[@beaLandscapeSomaticMutations2013]|[Bea et al](papers/beaLandscapeSomaticMutations2013)|||
-|[SYNE1](SYNE1)|Tier 1 GE[@nadeuGenomicEpigenomicInsights2020]|[Nadeu et al](papers/nadeuGenomicEpigenomicInsights2020b)|||
+|[SYNE1](SYNE1)|Tier 1 GE[@nadeuGenomicEpigenomicInsights2020]|[Nadeu et al](papers/nadeuGenomicEpigenomicInsights2020)|||
 |[TERT](TERT)|Tier 1 GE[@nadeuGenomicEpigenomicInsights2020]|[Nadeu et al](papers/nadeuGenomicEpigenomicInsights2020)|||
 |[TLR2](TLR2)|Tier 1 GE[@beaLandscapeSomaticMutations2013]|[Bea et al](papers/beaLandscapeSomaticMutations2013)|[@chapuyMolecularSubtypesDiffuse2018]||
 |[TP53](TP53)|Tier 1 GE[@beaLandscapeSomaticMutations2013], FE[@katoUnderstandingFunctionstructureFunctionmutation2003]|[Bea et al](papers/beaLandscapeSomaticMutations2013)|[@morinFrequentMutationHistonemodifying2011; @rossiCodingGenomeSplenic2012; @tiacciPervasiveMutationsJAKSTAT2018; @wildaInactivationARFMDM2p53Pathway2004]||
@@ -51,7 +51,7 @@ link-citations: true
 |[ARID1B](ARID1B)|Tier 2 GE||[@reddyGeneticFunctionalDrivers2017]||
 |[ATP11C](ATP11C)|Tier 2 GE[@zhangGenomicLandscapeMantle2014]|[Zhang et al](papers/zhangGenomicLandscapeMantle2014)|||
 |[B2M](B2M)|Tier 2 GE[@pararajalingamCodingNoncodingDrivers2020], FE[@challa-malladiCombinedGeneticInactivation2011]|[Pararajalingam et al](papers/pararajalingamCodingNoncodingDrivers2020)|[@morinFrequentMutationHistonemodifying2011; @reichelFlowSortingExome2015]||
-|[BCOR](BCOR)|Tier 2 GE[@nadeuGenomicEpigenomicInsights2020b]|[Nadeu et al](papers/nadeuGenomicEpigenomicInsights2020b)|[@jalladesExomeSequencingIdentifies2017]||
+|[BCOR](BCOR)|Tier 2 GE[@nadeuGenomicEpigenomicInsights2020]|[Nadeu et al](papers/nadeuGenomicEpigenomicInsights2020)|[@jalladesExomeSequencingIdentifies2017]||
 |[CDH8](CDH8)|Tier 2 GE[@zhangGenomicLandscapeMantle2014]|[Zhang et al](papers/zhangGenomicLandscapeMantle2014)|[@reddyGeneticFunctionalDrivers2017]||
 |[CHMP4C](CHMP4C)|Tier 2 GE[@beaLandscapeSomaticMutations2013]|[Bea et al](papers/beaLandscapeSomaticMutations2013)|||
 |[COL11A1](COL11A1)|Tier 2 GE[@zhangGenomicLandscapeMantle2014]|[Zhang et al](papers/zhangGenomicLandscapeMantle2014)|||
@@ -84,7 +84,7 @@ link-citations: true
 |[SALL3](SALL3)|Tier 2 GE[@zhangGenomicLandscapeMantle2014]|[Zhang et al](papers/zhangGenomicLandscapeMantle2014)|[@loveGeneticLandscapeMutations2012]||
 |[SI](SI)|Tier 2 GE[@zhangGenomicLandscapeMantle2014]|[Zhang et al](papers/zhangGenomicLandscapeMantle2014)|||
 |[SLC17A6](SLC17A6)|Tier 2 GE[@beaLandscapeSomaticMutations2013]|[Bea et al](papers/beaLandscapeSomaticMutations2013)|||
-|[SMARCB1](SMARCB1)|Tier 2 GE[@nadeuGenomicEpigenomicInsights2020b]|[Nadeu et al](papers/nadeuGenomicEpigenomicInsights2020b)|||
+|[SMARCB1](SMARCB1)|Tier 2 GE[@nadeuGenomicEpigenomicInsights2020]|[Nadeu et al](papers/nadeuGenomicEpigenomicInsights2020)|||
 |[SMC1A](SMC1A)|Tier 2 GE[@zhangGenomicLandscapeMantle2014]|[Zhang et al](papers/zhangGenomicLandscapeMantle2014)|||
 |[TBC1D26](TBC1D26)|Tier 2 GE[@zhangGenomicLandscapeMantle2014]|[Zhang et al](papers/zhangGenomicLandscapeMantle2014)|||
 |[TNRC6B](TNRC6B)|Tier 2 GE[@beaLandscapeSomaticMutations2013]|[Bea et al](papers/beaLandscapeSomaticMutations2013)|||
