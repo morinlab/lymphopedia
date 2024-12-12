@@ -6,7 +6,7 @@ link-citations: true
 # SMARCA4
 
 SMARCA4 is a member of the SWI/SNF family of proteins. The encoded protein is part of the large ATP-dependent chromatin remodeling complex SNF/SWI, which can allow expression of genes repressed by chromatin. 
-Overall, components of SWI/SNF have been identified as an emerging theme in germinal centre-derived B-cell lymphomas. [@lunningMutationChromatinModifiers2015b]
+Overall, components of SWI/SNF have been identified as an emerging theme in germinal centre-derived B-cell lymphomas. [@lunningMutationChromatinModifiers2015]
 
 ## History
 
@@ -25,10 +25,10 @@ timeline
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
 |![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene|
-|![BL](images/icons/BL_tier1.png)    |1-EE[@dengSMARCA4HaploinsufficientCell2024]   |high-confidence BL gene   [@richterRecurrentMutationID32012a]|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1-EE[@dengSMARCA4HaploinsufficientCell2024]   |high-confidence DLBCL gene[@lohrDiscoveryPrioritizationSomatic2012a]|
-|![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene   [@krysiakRecurrentSomaticMutations2017b]|
-|![MCL](images/icons/MCL_tier1.png)   |1   |high-confidence MCL gene  [@nadeuGenomicEpigenomicInsights2020b]|
+|![BL](images/icons/BL_tier1.png)    |1-EE[@dengSMARCA4HaploinsufficientCell2024]   |high-confidence BL gene   [@richterRecurrentMutationID32012]|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1-EE[@dengSMARCA4HaploinsufficientCell2024]   |high-confidence DLBCL gene[@lohrDiscoveryPrioritizationSomatic2012]|
+|![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene   [@krysiakRecurrentSomaticMutations2017]|
+|![MCL](images/icons/MCL_tier1.png)   |1   |high-confidence MCL gene  [@nadeuGenomicEpigenomicInsights2020]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
