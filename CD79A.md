@@ -19,8 +19,8 @@ timeline
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|![MZL](images/icons/MZL_tier2.png)|2|relevance in MZL not firmly established[@rossiCodingGenomeSplenic2012c]|
-|![BL](images/icons/BL_tier2.png)    |2   |relevance in BL not firmly established[@burkhardtClinicalRelevanceMolecular2022b]|
+|![MZL](images/icons/MZL_tier2.png)|2|relevance in MZL not firmly established[@rossiCodingGenomeSplenic2012]|
+|![BL](images/icons/BL_tier2.png)    |2   |relevance in BL not firmly established[@burkhardtClinicalRelevanceMolecular2022]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

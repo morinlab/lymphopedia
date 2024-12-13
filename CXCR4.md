@@ -10,7 +10,7 @@ link-citations: true
 CXCR4 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus. No notable hot spots have been described in this gene in the context of the cancers listed below. The mutation pattern in DLBCL implies the preferential accumulation of *inactivating mutations*.
 
 ## History
-Mutations in this gene were first described in DLBCL in 2012 by Khodabakhshi et al,<sup>1</sup> in FL in 2021 by Hübschmann et al<sup>2</sup> and in BL in 2019 by Panea et al.<sup>3</sup>
+Mutations in this gene were first described in DLBCL in 2012 [@khodabakhshiRecurrentTargetsAberrant2012] in FL in 2021 [@hubschmannMutationalMechanismsShaping2021] and in BL in 2019.[@paneaWholeGenomeLandscape2019]
 
 
 ```mermaid
@@ -31,7 +31,7 @@ timeline
 |:------:|:----:|--------------------------------------|
 |![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene|
 |![DLBCL](images/icons/DLBCL_tier1.png) |1 | aSHM target and high-confidence DLBCL gene            [@khodabakhshiRecurrentTargetsAberrant2012]|
-|![FL](images/icons/FL_tier2.png)    |2 | aSHM target; Although recurrent, the relevance of mutations in FL is tenuous [@krysiakRecurrentSomaticMutations2017b]|
+|![FL](images/icons/FL_tier2.png)    |2 | aSHM target; Although recurrent, the relevance of mutations in FL is tenuous [@krysiakRecurrentSomaticMutations2017]|
 |![BL](images/icons/BL_tier2.png)    |2 | aSHM target; Although recurrent, the relevance of mutations in BL is tenuous [@paneaWholeGenomeLandscape2019]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)

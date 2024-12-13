@@ -20,7 +20,7 @@ timeline
 
 |Entity|Tier|Description|
 |:------:|:----:|--------------------------------------|
-|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene[@reichelFlowSortingExome2015a]|
+|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene[@reichelFlowSortingExome2015]|
 
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
