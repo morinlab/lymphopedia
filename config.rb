@@ -193,7 +193,7 @@
     # production/staging.
 
     # Equivalent to --static
-    #static: true,
+    static: true,
 
     # Equivalent to --no-static
     #static: false,
