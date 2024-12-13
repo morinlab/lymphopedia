@@ -13,7 +13,7 @@ This gene has some recurrent sites of mutations (hotspots), mostly in the HAT do
 ## Experimental Evidence
 CREBBP missense mutations often affect the histone acetyltransferase (HAT) domain, crucial for regulating gene expression through chromatin modification, or generate a truncated protein.[@pasqualucciInactivatingMutationsAcetyltransferase2011] 
 In a transgenic mouse model, CREBBP loss cooperated with BCL2 overexpression to promote B-cell lymphomagenesis.[@garcia-ramirezCrebbpLossCooperates2017]
-Mutations in CREBBP and EP300 affect a common pathway and have been described as mutually exclusive due to some functional redundancy.[@pasqualucciInactivatingMutationsAcetyltransferase2011a; @veazeyCARM1InhibitionReduces2020] Studies using genome-wide CRISPR-Cas9 screens have identified synthetic lethal interactions between CREBBP and EP300, suggesting that targeting one may affect the viability of cells with mutations in the other.[@nieGenomewideCRISPRScreens2021]
+Mutations in CREBBP and EP300 affect a common pathway and have been described as mutually exclusive due to some functional redundancy.[@pasqualucciInactivatingMutationsAcetyltransferase2011; @veazeyCARM1InhibitionReduces2020] Studies using genome-wide CRISPR-Cas9 screens have identified synthetic lethal interactions between CREBBP and EP300, suggesting that targeting one may affect the viability of cells with mutations in the other.[@nieGenomewideCRISPRScreens2021]
 
 ## History
 
