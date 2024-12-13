@@ -17,7 +17,7 @@ timeline
 
 |Entity|Tier|Description             |
 |:------:|:----:|------------------------|
-|![MCL](images/icons/MCL_tier1.png)   |1   |high-confidence MCL gene[@nadeuGenomicEpigenomicInsights2020b]|
+|![MCL](images/icons/MCL_tier1.png)   |1   |high-confidence MCL gene[@nadeuGenomicEpigenomicInsights2020]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

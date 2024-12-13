@@ -45,8 +45,8 @@
 |[FOXP1_TSS-2](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr3%3A71350633%2D71357665)|chr3:71350633-71357665|3.77|0.65|0.94|3.47|
 |[FOXP1_TSS-3](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr3%3A71176427%2D71180960)|chr3:71176427-71180960|10.98|2.38|4.69|2.7|
 |[FOXP1_TSS-4](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr3%3A71104986%2D71119518)|chr3:71104986-71119518|14.43|1.94|0|6.95|
-|[FOXP1_intron-1a](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr3%3A71550753%2D71551478)|chr3:71550753-71551478|5.9|3.46|0.47|6.56|
-|[FOXP1_intron-1b](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr3%3A71503103%2D71504870)|chr3:71503103-71504870|2.46|3.24|0.94|1.93|
+|[FOXP1_intron-1A](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr3%3A71550753%2D71551478)|chr3:71550753-71551478|5.9|3.46|0.47|6.56|
+|[FOXP1_intron-1B](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr3%3A71503103%2D71504870)|chr3:71503103-71504870|2.46|3.24|0.94|1.93|
 |[GRHPR_TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr9%3A37423010%2D37425279)|chr9:37423010-37425279|14.1|1.3|0|0.77|
 |[HNRNPU_TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr1%3A245023502%2D245029083)|chr1:245023502-245029083|3.77|3.67|0.47|8.88|
 |[ID3_TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr1%3A23885584%2D23885835)|chr1:23885584-23885835|1.48|0.65|0|46.33|
