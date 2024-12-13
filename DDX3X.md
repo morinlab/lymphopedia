@@ -25,9 +25,9 @@ timeline
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene[@mottokIntegrativeGenomicAnalysis2019b]|
+|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene[@mottokIntegrativeGenomicAnalysis2019]|
 |![BL](images/icons/BL_tier1.png)    |1 | high-confidence BL gene               [@schmitzBurkittLymphomaPathogenesis2012]|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1 | high-confidence DLBCL gene            [@reddyGeneticFunctionalDrivers2017; @schmitzGeneticsPathogenesisDiffuse2018a; @arthurGenomewideDiscoverySomatic2018]|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1 | high-confidence DLBCL gene            [@reddyGeneticFunctionalDrivers2017; @schmitzGeneticsPathogenesisDiffuse2018; @arthurGenomewideDiscoverySomatic2018]|
 |![FL](images/icons/FL_tier2.png)    |2 | Although recurrent, the relevance of mutations in FL is tenuous |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)

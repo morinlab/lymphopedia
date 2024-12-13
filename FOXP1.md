@@ -44,8 +44,8 @@ timeline
 |chr3    |71104986  |71119518|[TSS-4](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr3%3A71104986%2D71119518)    |active_promoter   |
 |chr3    |71176427  |71180960|[TSS-3](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr3%3A71176427%2D71180960)    |active_promoter   |
 |chr3    |71350633  |71357665|[TSS-2](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr3%3A71350633%2D71357665)    |active_promoter   |
-|chr3    |71503103  |71504870|[intron-1b](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr3%3A71503103%2D71504870)|intron            |
-|chr3    |71550753  |71551478|[intron-1a](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr3%3A71550753%2D71551478)|intron            |
+|chr3    |71503103  |71504870|[intron-1B](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr3%3A71503103%2D71504870)|intron            |
+|chr3    |71550753  |71551478|[intron-1A](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr3%3A71550753%2D71551478)|intron            |
 |chr3    |71626341  |71635648|[TSS-1](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr3%3A71626341%2D71635648)    |active_promoter   |
 
 
