@@ -19,7 +19,7 @@ timeline
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
 |![BL](images/icons/BL_tier2.png)    |2   |relevance in BL not firmly established[@schmitzBurkittLymphomaPathogenesis2012]|
-|![FL](images/icons/FL_tier2.png)    |2   |relevance in FL not firmly established[@russler-germainMutationsAssociatedProgression2023b]|
+|![FL](images/icons/FL_tier2.png)    |2   |relevance in FL not firmly established[@russler-germainMutationsAssociatedProgression2023]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
