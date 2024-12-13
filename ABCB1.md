@@ -12,7 +12,7 @@ link-citations: true
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
 timeline
     title Publication timing
-       :  : DLBCL
+       2020-07-01 : Fan : DLBCL
 ```
 
 
