@@ -128,7 +128,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/D
 **Rating**
 &starf; &star; &star; &star; &star;
 
-## DLBCL[@schmitzGeneticsPathogenesisDiffuse2018a]
+## DLBCL[@schmitzGeneticsPathogenesisDiffuse2018]
 
 ![](primary/Schmitz_113058428--DTX1--T_C--DLBCL11460T.pad100.png)
 **Rating**

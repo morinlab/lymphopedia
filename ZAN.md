@@ -17,7 +17,7 @@ timeline
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|![BL](images/icons/BL_tier2.png)    |2   |relevance in BL not firmly established[@burkhardtClinicalRelevanceMolecular2022b]|
+|![BL](images/icons/BL_tier2.png)    |2   |relevance in BL not firmly established[@burkhardtClinicalRelevanceMolecular2022]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

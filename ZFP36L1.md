@@ -28,7 +28,7 @@ timeline
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
 |![MCL](images/icons/MCL_tier2.png)|2|relevance in MCL not firmly established|
-|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene[@reichelFlowSortingExome2015a]|
+|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene[@reichelFlowSortingExome2015]|
 |![BL](images/icons/BL_tier2.png)    |2-a | aSHM target; Although recurrent, the relevance of mutations in BL is tenuous [@paneaWholeGenomeLandscape2019]|
 |![DLBCL](images/icons/DLBCL_tier1.png) |1-a | aSHM target and high-confidence DLBCL gene            [@morinFrequentMutationHistonemodifying2011]|
 

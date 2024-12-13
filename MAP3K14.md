@@ -21,8 +21,8 @@ timeline
 
 |Entity|Tier|Description|
 |:------:|:----:|--------------------------------------|
-|![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene[@rossiAlterationBIRC3Multiple2011a]|
-|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene[@ottoGeneticLesionsTRAF32012a]|
+|![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene[@rossiAlterationBIRC3Multiple2011]|
+|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene[@ottoGeneticLesionsTRAF32012]|
 
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)

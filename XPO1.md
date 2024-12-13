@@ -22,7 +22,7 @@ timeline
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
-|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene[@jardinRecurrentMutationsExportin2016a]|
+|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene[@jardinRecurrentMutationsExportin2016]|
 |![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene[@mareschalWholeExomeSequencing2016; @reddyGeneticFunctionalDrivers2017]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
