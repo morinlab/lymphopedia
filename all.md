@@ -1,3 +1,10 @@
+---
+bibliography: 'morinlab.bib'
+csl: 'NLM.csl'
+link-citations: true
+---
+# All genes
+
 |Gene|
 |:-:|
 |[ABCA13](ABCA13.md)|
