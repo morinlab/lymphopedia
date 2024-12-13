@@ -31,7 +31,7 @@ timeline
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
 |![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene|
-|![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene[@spinaGeneticsNodalMarginal2016b]|
+|![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene[@spinaGeneticsNodalMarginal2016]|
 |![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            [@schollMutationsRegionFAS2007]|
 |![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene               |
 

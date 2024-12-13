@@ -22,8 +22,8 @@ The existence of mutations in DLBCL were described in 2012 by Schmitz et al[@sch
 
 |Entity|Tier|Description                              |
 |:------:|:----:|-----------------------------------------|
-|![BL](images/icons/BL_tier1.png)    |1 | high-confidence BL gene [@richterRecurrentMutationID32012a]|
-|![MZL](images/icons/MZL_tier1.png) |1 | high-confidence MZL gene [@spinaGeneticsNodalMarginal2016b]|
+|![BL](images/icons/BL_tier1.png)    |1 | high-confidence BL gene [@richterRecurrentMutationID32012]|
+|![MZL](images/icons/MZL_tier1.png) |1 | high-confidence MZL gene [@spinaGeneticsNodalMarginal2016]|
 |![DLBCL](images/icons/DLBCL_tier2.png) |2 | Although recurrent, the relevance of mutations in DLBCL is tenuous[@schmitzBurkittLymphomaPathogenesis2012]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)

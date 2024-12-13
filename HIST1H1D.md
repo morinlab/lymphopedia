@@ -6,7 +6,7 @@ link-citations: true
 # HIST1H1D
 
 ## Overview
-This is one of several genes that encode linker histone proteins that are recurrently mutated in DLBCL and FL.[@morinMutationalStructuralAnalysis2013; @krysiakRecurrentSomaticMutations2017b]
+This is one of several genes that encode linker histone proteins that are recurrently mutated in DLBCL and FL.[@morinMutationalStructuralAnalysis2013; @krysiakRecurrentSomaticMutations2017]
 Mutations are often found in the globular domain of the protein, which is critical for its interaction with DNA and other histone proteins. 
 
 ## History

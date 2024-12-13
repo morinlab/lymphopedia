@@ -21,7 +21,7 @@ timeline
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene[@morinMutationalStructuralAnalysis2013; @chapuyMolecularSubtypesDiffuse2018b; @hubschmannMutationalMechanismsShaping2021b]|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene[@morinMutationalStructuralAnalysis2013; @chapuyMolecularSubtypesDiffuse2018; @hubschmannMutationalMechanismsShaping2021]|
 |![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene   [@krysiakRecurrentSomaticMutations2017]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
