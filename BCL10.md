@@ -36,9 +36,9 @@ timeline
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene[@spinaGeneticsNodalMarginal2016b]|
+|![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene[@spinaGeneticsNodalMarginal2016]|
 |![DLBCL](images/icons/DLBCL_tier1.png)  |1-EE[@xiaBCL10MutationsDefine2022]   |high-confidence DLBCL gene[@morinFrequentMutationHistonemodifying2011;@morinMutationalStructuralAnalysis2013]            |
-|![FL](images/icons/FL_tier2.png)     |2   |relevance in FL not firmly established[@russler-germainMutationsAssociatedProgression2023b]|
+|![FL](images/icons/FL_tier2.png)     |2   |relevance in FL not firmly established[@russler-germainMutationsAssociatedProgression2023]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
