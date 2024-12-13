@@ -4,7 +4,7 @@ csl: 'NLM.csl'
 link-citations: true
 ---
 
-# ZWILCH
+# VAX1
 
 ## History
 
@@ -12,7 +12,7 @@ link-citations: true
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
 timeline
     title Publication timing
-      2011-07-31 : Pasqualucci : DLBCL
+      2012-03-06 : Lohr : DLBCL
 ```
 
 
@@ -20,7 +20,8 @@ timeline
 
 |Entity|Tier|Description|
 |:------:|:----:|--------------------------------------|
-|![DLBCL](images/icons/DLBCL_tier2.png)|2|relevance in DLBCL not firmly established[@pasqualucciAnalysisCodingGenome2011]|
+|![DLBCL](images/icons/DLBCL_tier2.png)|2|relevance in DLBCL not firmly established[@lohrDiscoveryPrioritizationSomatic2012]|
+
 
 
 
