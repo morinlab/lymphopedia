@@ -28,9 +28,9 @@ timeline
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
 |![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene|
-|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene[@ritzRecurrentMutationsSTAT62009a]|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            [@yildizActivatingSTAT6Mutations2015c]|
-|![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene               [@yildizActivatingSTAT6Mutations2015c]|
+|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene[@ritzRecurrentMutationsSTAT62009]|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            [@yildizActivatingSTAT6Mutations2015]|
+|![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene               [@yildizActivatingSTAT6Mutations2015]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

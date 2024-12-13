@@ -20,7 +20,7 @@ timeline
 
 |Entity|Tier|Description                              |
 |:------:|:----:|-----------------------------------------|
-|![PMBL](images/icons/PMBL_tier2.png)|2|relevance in PMBL/cHL/GZL not firmly established[@mottokIntegrativeGenomicAnalysis2019b]|
+|![PMBL](images/icons/PMBL_tier2.png)|2|relevance in PMBL/cHL/GZL not firmly established[@mottokIntegrativeGenomicAnalysis2019]|
 |![DLBCL](images/icons/DLBCL_tier2.png) |3  |Retired, Failed QC[@reddyGeneticFunctionalDrivers2017]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
