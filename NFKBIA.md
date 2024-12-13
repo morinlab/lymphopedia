@@ -22,9 +22,9 @@ timeline
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene[@wienandGenomicAnalysesFlowsorted2019b]|
+|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene[@wienandGenomicAnalysesFlowsorted2019]|
 |![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            [@lakeMutationsNFKBIAEncoding2009]|
-|![FL](images/icons/FL_tier2.png)    |2   |relevance in FL not firmly established[@russler-germainMutationsAssociatedProgression2023b]|
+|![FL](images/icons/FL_tier2.png)    |2   |relevance in FL not firmly established[@russler-germainMutationsAssociatedProgression2023]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
