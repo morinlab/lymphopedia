@@ -50,7 +50,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/A
 ![](images/gene_expression/ANKRD12_by_pathology.svg)
 <!-- ORIGIN: hubschmannMutationalMechanismsShaping2021b -->
 
-## All Mutations[@hubschmannMutationalMechanismsShaping2021b]
+## All Mutations[@hubschmannMutationalMechanismsShaping2021]
 
 [SP193744](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP193744.html)
 [SP116697](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP116697.html)
