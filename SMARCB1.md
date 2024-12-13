@@ -17,7 +17,7 @@ timeline
 
 |Entity|Tier|Description                            |
 |:------:|:----:|---------------------------------------|
-|![MCL](images/icons/MCL_tier2.png)   |2   |relevance in MCL not firmly established[@nadeuGenomicEpigenomicInsights2020b]|
+|![MCL](images/icons/MCL_tier2.png)   |2   |relevance in MCL not firmly established[@nadeuGenomicEpigenomicInsights2020]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

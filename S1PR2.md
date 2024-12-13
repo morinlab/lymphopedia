@@ -28,7 +28,7 @@ timeline
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
 |![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene|
-|![BL](images/icons/BL_tier2.png)    |2 | aSHM target; Although recurrent, the relevance of mutations in BL is tenuous [@muppidiLossSignalingGa132014b]|
+|![BL](images/icons/BL_tier2.png)    |2 | aSHM target; Although recurrent, the relevance of mutations in BL is tenuous [@muppidiLossSignalingGa132014]|
 |![DLBCL](images/icons/DLBCL_tier1.png) |1 | aSHM target and high-confidence DLBCL gene            [@morinFrequentMutationHistonemodifying2011; @lohrDiscoveryPrioritizationSomatic2012a; @morinMutationalStructuralAnalysis2013]|
 |![FL](images/icons/FL_tier1.png)    |1 | aSHM target and high-confidence FL gene               |
 

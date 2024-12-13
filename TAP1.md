@@ -18,7 +18,7 @@ timeline
 |Entity|Tier|Description                              |
 |:------:|:----:|-----------------------------------------|
 |![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene|
-|![DLBCL](images/icons/DLBCL_tier2.png) |2   |relevance in DLBCL not firmly established[@schmitzGeneticsPathogenesisDiffuse2018a]|
+|![DLBCL](images/icons/DLBCL_tier2.png) |2   |relevance in DLBCL not firmly established[@schmitzGeneticsPathogenesisDiffuse2018]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

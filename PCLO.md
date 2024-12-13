@@ -19,7 +19,7 @@ timeline
 |:------:|:----:|-----------------------------------------|
 |![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene|
 |![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene|
-|![DLBCL](images/icons/DLBCL_tier2.png) |2   |relevance in DLBCL not firmly established[@lohrDiscoveryPrioritizationSomatic2012a]|
+|![DLBCL](images/icons/DLBCL_tier2.png) |2   |relevance in DLBCL not firmly established[@lohrDiscoveryPrioritizationSomatic2012]|
 |![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene                  |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)

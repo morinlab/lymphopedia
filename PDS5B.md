@@ -21,7 +21,7 @@ timeline
 |Entity|Tier|Description                              |
 |:------:|:----:|-----------------------------------------|
 |![DLBCL](images/icons/DLBCL_tier2.png) |2   |relevance in DLBCL not firmly established[@morinMutationalStructuralAnalysis2013]|
-|![FL](images/icons/FL_tier2.png)    |2   |relevance in FL not firmly established   [@hubschmannMutationalMechanismsShaping2021b]|
+|![FL](images/icons/FL_tier2.png)    |2   |relevance in FL not firmly established   [@hubschmannMutationalMechanismsShaping2021]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -54,7 +54,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/P
 
 ## All Mutations
 
-### FL[@hubschmannMutationalMechanismsShaping2021b]
+### FL[@hubschmannMutationalMechanismsShaping2021]
 
 [SP116618](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP116618.html)
 [SP116686](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP116686.html)
