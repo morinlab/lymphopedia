@@ -17,7 +17,7 @@ timeline
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|![FL](images/icons/FL_tier2.png)    |2   |relevance in FL not firmly established[@krysiakRecurrentSomaticMutations2017b]|
+|![FL](images/icons/FL_tier2.png)    |2   |relevance in FL not firmly established[@krysiakRecurrentSomaticMutations2017]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

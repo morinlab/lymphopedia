@@ -17,7 +17,7 @@ timeline
 
 |Entity|Tier|Description            |
 |:------:|:----:|-----------------------|
-|![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene[@krysiakRecurrentSomaticMutations2017b]|
+|![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene[@krysiakRecurrentSomaticMutations2017]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

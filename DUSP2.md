@@ -8,7 +8,7 @@ link-citations: true
 ## Overview
 
 DUSP2 functions as a negative regulator of MAPK signaling, particularly affecting the ERK1/2 pathway. 
-DUSP2 mutations have been reported in nodular lymphocyte predominant Hodgkin lymphoma (NLPHL), T-cell/histiocyte-rich large B-cell lymphoma (T/HRLBCL)[@schuhmacherJUNBDUSP2SGK12019b; @hartmannHighlyRecurrentMutations2016b] and they are relatively frequent in DLBCL.  
+DUSP2 mutations have been reported in nodular lymphocyte predominant Hodgkin lymphoma (NLPHL), T-cell/histiocyte-rich large B-cell lymphoma (T/HRLBCL)[@schuhmacherJUNBDUSP2SGK12019; @hartmannHighlyRecurrentMutations2016] and they are relatively frequent in DLBCL.  
 DUSP2 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus. 
 These mutations are associated with the ST2 genetic subgroup of DLBCL. 
 This gene has some recurrent sites of mutations (hot spots). 
@@ -29,8 +29,8 @@ timeline
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene[@dunsCharacterizationDLBCLPMBL2021b]|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1 | aSHM target and high-confidence DLBCL gene            [@morinMutationalStructuralAnalysis2013; @lohrDiscoveryPrioritizationSomatic2012a]|
+|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene[@dunsCharacterizationDLBCLPMBL2021]|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1 | aSHM target and high-confidence DLBCL gene            [@morinMutationalStructuralAnalysis2013; @lohrDiscoveryPrioritizationSomatic2012]|
 |![FL](images/icons/FL_tier2.png)    |2 | aSHM target; Although recurrent, the relevance of mutations in FL is tenuous |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)

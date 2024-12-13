@@ -22,9 +22,9 @@ timeline
 
 |Entity|Tier|Description|
 |:------:|:----:|--------------------------------------|
-|![FL](images/icons/FL_tier2.png)|2|relevance in FL not firmly established[@krysiakRecurrentSomaticMutations2017b]|
-|![MZL](images/icons/MZL_tier2.png)|2|relevance in MZL not firmly established[@rossiCodingGenomeSplenic2012c]|
-|![PMBL](images/icons/PMBL_tier2.png)|2|relevance in PMBL/cHL/GZL not firmly established[@reichelFlowSortingExome2015a]|
+|![FL](images/icons/FL_tier2.png)|2|relevance in FL not firmly established[@krysiakRecurrentSomaticMutations2017]|
+|![MZL](images/icons/MZL_tier2.png)|2|relevance in MZL not firmly established[@rossiCodingGenomeSplenic2012]|
+|![PMBL](images/icons/PMBL_tier2.png)|2|relevance in PMBL/cHL/GZL not firmly established[@reichelFlowSortingExome2015]|
 
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)

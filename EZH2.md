@@ -7,16 +7,16 @@ link-citations: true
 
 ## Overview
 EZH2 encodes a histone methyltransferase that is a component of the polycomb repressive complex 2 (PRC2). 
-This gene is recurrently mutated in both FL and DLBCL and has a common mutation hot spot (Y646) that affects the SET domain.[@morinSomaticMutationsAltering2010a]
+This gene is recurrently mutated in both FL and DLBCL and has a common mutation hot spot (Y646) that affects the SET domain.[@morinSomaticMutationsAltering2010]
 EZH2 mutations are one of the defining features of the EZB genetic subgroup of DLBCL.[@wrightProbabilisticClassificationTool2020] 
 Although mutations in EZH2 have been described in some BL patients, they are extremely rare in most BL cohorts that have been sequenced.[@loveGeneticLandscapeMutations2012; @thomasGeneticSubgroupsInform2023] 
 
 
 ## Experimental Evidence
 
-Mutations at the main hotspot and some less common hotspots lead to enhanced methylation by PRC2.[@yapSomaticMutationsEZH22011b]
+Mutations at the main hotspot and some less common hotspots lead to enhanced methylation by PRC2.[@yapSomaticMutationsEZH22011]
 A number of small molecule/pharmacologic inhibitors of EZH2 activity have been described.[@garapaty-raoIdentificationEZH2EZH12013; @knutsonSelectiveInhibitionEZH22014] At least one of these, tazemetostat, has shown benefit in FL.[@morinTreatingLymphomaNow2021] 
-Combination therapies including EZH2 inhibitors are also under exploration for DLBCL patients with mutant EZH2.[@scholzeCombinedEZH2Bcl22020b]
+Combination therapies including EZH2 inhibitors are also under exploration for DLBCL patients with mutant EZH2.[@scholzeCombinedEZH2Bcl22020]
 
 ## History
 ```mermaid
@@ -36,9 +36,9 @@ timeline
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
 |![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene|
-|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene[@mottokIntegrativeGenomicAnalysis2019b]|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1-EE   |high-confidence DLBCL gene supported by functional data            [@morinSomaticMutationsAltering2010a]|
-|![FL](images/icons/FL_tier1.png)    |1-EE   |high-confidence FL gene supported by functional data               [@morinSomaticMutationsAltering2010a]|
+|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene[@mottokIntegrativeGenomicAnalysis2019]|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1-EE   |high-confidence DLBCL gene supported by functional data            [@morinSomaticMutationsAltering2010]|
+|![FL](images/icons/FL_tier1.png)    |1-EE   |high-confidence FL gene supported by functional data               [@morinSomaticMutationsAltering2010]|
 |![BL](images/icons/BL_tier2.png)    |2   |relevance in BL not firmly established[@loveGeneticLandscapeMutations2012]|
 
 

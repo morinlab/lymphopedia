@@ -6,7 +6,7 @@ link-citations: true
 # FBXO11
 
 ## Overview
-Somatic mutations in FBXO11 are common in BL[@richterRecurrentMutationID32012a] and appear in a small number of DLBCLs.[@hubschmannMutationalMechanismsShaping2021b]
+Somatic mutations in FBXO11 are common in BL[@richterRecurrentMutationID32012] and appear in a small number of DLBCLs.[@hubschmannMutationalMechanismsShaping2021]
 This gene has some recurrent sites of mutations (hot spots). Mutations lead to stabilization of BCL6, an important transcriptional repressor involved in lymphomagenesis.
 These mutations present a potential novel target for therapeutic intervention, particularly through strategies aimed at degrading BCL6 or inhibiting its function.
 
@@ -25,8 +25,8 @@ timeline
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
 |![MZL](images/icons/MZL_tier2.png)|2|relevance in MZL not firmly established[@parryWholeExomeSequencing2013]|
-|![BL](images/icons/BL_tier1.png)    |1   |high-confidence BL gene   [@richterRecurrentMutationID32012a]|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene[@hubschmannMutationalMechanismsShaping2021b; @arthurGenomewideDiscoverySomatic2018]|
+|![BL](images/icons/BL_tier1.png)    |1   |high-confidence BL gene   [@richterRecurrentMutationID32012]|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene[@hubschmannMutationalMechanismsShaping2021; @arthurGenomewideDiscoverySomatic2018]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
