@@ -20,7 +20,7 @@ timeline
 
 |Entity|Tier|Description|
 |:------:|:----:|--------------------------------------|
-|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene[@mottokIntegrativeGenomicAnalysis2019b]|
+|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene[@mottokIntegrativeGenomicAnalysis2019]|
 
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
