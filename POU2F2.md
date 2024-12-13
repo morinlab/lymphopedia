@@ -23,7 +23,7 @@ timeline
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene[@lohrDiscoveryPrioritizationSomatic2012a; @zhangGeneticHeterogeneityDiffuse2013; @reddyGeneticFunctionalDrivers2017]|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene[@lohrDiscoveryPrioritizationSomatic2012; @zhangGeneticHeterogeneityDiffuse2013; @reddyGeneticFunctionalDrivers2017]|
 |![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene   [@krysiakRecurrentSomaticMutations2017]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)

@@ -22,7 +22,7 @@ timeline
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            [@pasqualucciInactivationPRDM1BLIMP12006a; @zhangGeneticHeterogeneityDiffuse2013; @morinMutationalStructuralAnalysis2013; @reddyGeneticFunctionalDrivers2017]|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            [@pasqualucciInactivationPRDM1BLIMP12006; @zhangGeneticHeterogeneityDiffuse2013; @morinMutationalStructuralAnalysis2013; @reddyGeneticFunctionalDrivers2017]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

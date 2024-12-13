@@ -19,7 +19,7 @@ timeline
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
 |![MCL](images/icons/MCL_tier2.png)|2|relevance in MCL not firmly established|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            [@chapuyMolecularSubtypesDiffuse2018b; @arthurGenomewideDiscoverySomatic2018]|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            [@chapuyMolecularSubtypesDiffuse2018; @arthurGenomewideDiscoverySomatic2018]|
 |![FL](images/icons/FL_tier2.png)    |2   |relevance in FL not firmly established|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
