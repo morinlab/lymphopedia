@@ -19,7 +19,7 @@ timeline
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
-|![DLBCL](images/icons/DLBCL_tier1.png) |2   |low-confidence DLBCL gene[@chapuyMolecularSubtypesDiffuse2018b]|
+|![DLBCL](images/icons/DLBCL_tier1.png) |2   |low-confidence DLBCL gene[@chapuyMolecularSubtypesDiffuse2018]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

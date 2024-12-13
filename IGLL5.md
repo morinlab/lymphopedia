@@ -22,7 +22,7 @@ timeline
 |![PMBL](images/icons/PMBL_tier2.png)|2|relevance in PMBL/cHL/GZL not firmly established[@deschGenotypingCirculatingTumor2020]|
 |![BL](images/icons/BL_tier2.png)    |2-a | aSHM target; Although recurrent, the relevance of mutations in BL is tenuous    [@paneaWholeGenomeLandscape2019]|
 |![DLBCL](images/icons/DLBCL_tier2.png) |2-a | aSHM target; Although recurrent, the relevance of mutations in DLBCL is tenuous |
-|![FL](images/icons/FL_tier2.png)    |2-a | aSHM target; Although recurrent, the relevance of mutations in FL is tenuous    [@russler-germainMutationsAssociatedProgression2023b]|
+|![FL](images/icons/FL_tier2.png)    |2-a | aSHM target; Although recurrent, the relevance of mutations in FL is tenuous    [@russler-germainMutationsAssociatedProgression2023]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

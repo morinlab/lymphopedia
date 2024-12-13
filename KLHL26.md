@@ -17,7 +17,7 @@ timeline
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|![BL](images/icons/BL_tier2.png)    |2   |relevance in BL not firmly established[@burkhardtClinicalRelevanceMolecular2022b]|
+|![BL](images/icons/BL_tier2.png)    |2   |relevance in BL not firmly established[@burkhardtClinicalRelevanceMolecular2022]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -48,7 +48,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/K
 
 ## KLHL26 Expression
 ![](images/gene_expression/KLHL26_by_pathology.svg)
-<!-- ORIGIN: burkhardtClinicalRelevanceMolecular2022b -->
-<!-- BL: burkhardtClinicalRelevanceMolecular2022b -->
+<!-- ORIGIN: burkhardtClinicalRelevanceMolecular2022 -->
+<!-- BL: burkhardtClinicalRelevanceMolecular2022 -->
 
 ## References

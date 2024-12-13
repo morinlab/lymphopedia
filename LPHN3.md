@@ -20,7 +20,7 @@ timeline
 
 |Entity|Tier|Description|
 |:------:|:----:|--------------------------------------|
-|![PMBL](images/icons/PMBL_tier2.png)|2|relevance in PMBL/cHL/GZL not firmly established[@dunsCharacterizationDLBCLPMBL2021b]|
+|![PMBL](images/icons/PMBL_tier2.png)|2|relevance in PMBL/cHL/GZL not firmly established[@dunsCharacterizationDLBCLPMBL2021]|
 
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
