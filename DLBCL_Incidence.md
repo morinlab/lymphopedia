@@ -4,7 +4,7 @@ csl: 'NLM.csl'
 link-citations: true
 ---
 
-|Hugo_Symbol | GAMBL - Reddy| GAMBL + Reddy|     BC| Dana-Farber[@chapuyMolecularSubtypesDiffuse2018] |    NCI[@schmitzGeneticsPathogenesisDiffuse2018] | Reddy[@reddyGeneticFunctionalDrivers2017]| ICGC[@hubschmannMutationalMechanismsShaping2021]|
+|Hugo_Symbol | GAMBL -Reddy| GAMBL +Reddy|     BC| Dana-Farber[@chapuyMolecularSubtypesDiffuse2018] |    NCI[@schmitzGeneticsPathogenesisDiffuse2018] | Reddy[@reddyGeneticFunctionalDrivers2017]| ICGC[@hubschmannMutationalMechanismsShaping2021]|
  |:-----------|-------------------:|----------------:|------:|-----------:|------:|------:|----------:|
  |ACTB        |              0.0925|           0.0896| 0.0583|      0.1188| 0.0979| 0.0843|     0.1412|
  |ACTG1       |              0.0485|           0.0517| 0.0493|      0.0297| 0.0745| 0.0599|     0.0588|
