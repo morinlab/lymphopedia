@@ -27,7 +27,7 @@ timeline
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
 |Entity |Samples/Cohort                                         |Mutation incidence (95% CI) |
-|:------|:------------------------------------------------------|:---------------------------|
+|:------|:-------------------|:---------------------------|
 |DLBCL  |GAMBL without Reddy                                    |0.0985 [0.0808,0.1163]      |
 |DLBCL  |GAMBL with Reddy                                       |0.0112 [0.0062,0.0162]      |
 |DLBCL  |BC                                                     |0.0987 [0.0595,0.1378]      |
