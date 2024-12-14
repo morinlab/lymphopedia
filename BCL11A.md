@@ -69,4 +69,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/B
 
 ## References
 
-1. *Satterwhite E, Sonoki T, Willis TG, Harder L, Nowak R, Arriola EL, Liu H, Price HP, Gesk S, Steinemann D, Schlegelberger B, Oscier DG, Siebert R, Tucker PW, Dyer MJ. The BCL11 gene family: involvement of BCL11A in lymphoid malignancies. Blood. 2001 Dec 1;98(12):3413-20. doi: 10.1182/blood.v98.12.3413. PMID: 11719382.*
+
