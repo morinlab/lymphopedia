@@ -1,3 +1,9 @@
+---
+bibliography: 'morinlab.bib'
+csl: 'NLM.csl'
+link-citations: true
+---
+
 |Hugo_Symbol | GAMBL - Reddy| GAMBL + Reddy|     BC| Dana-Farber[@chapuyMolecularSubtypesDiffuse2018] |    NCI[@schmitzGeneticsPathogenesisDiffuse2018] | Reddy[@reddyGeneticFunctionalDrivers2017]| ICGC[@hubschmannMutationalMechanismsShaping2021]|
  |:-----------|-------------------:|----------------:|------:|-----------:|------:|------:|----------:|
  |ACTB        |              0.0925|           0.0896| 0.0583|      0.1188| 0.0979| 0.0843|     0.1412|
