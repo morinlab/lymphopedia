@@ -30,6 +30,7 @@ timeline
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
 [[include:DLBCL_BIRC6.md]]
+[[include:FL_BIRC6.md]]
 
 ## Mutation pattern and selective pressure estimates
 
