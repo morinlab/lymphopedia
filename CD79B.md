@@ -36,22 +36,14 @@ timeline
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1-EE   |high-confidence DLBCL gene with functional evidence[@davisChronicActiveBcellreceptor2010]            [@morinFrequentMutationHistonemodifying2011]|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene with functional evidence[@davisChronicActiveBcellreceptor2010]            [@morinFrequentMutationHistonemodifying2011]|
 |![FL](images/icons/FL_tier2.png)    |2   |relevance in FL not firmly established|
 |![BL](images/icons/BL_tier2.png)    |3   |Retired, Failed QC[@paneaWholeGenomeLandscape2019]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-|Entity|source               |frequency (%)|
-|:------:|:---------------------:|:-------------:|
-|BL    |GAMBL genomes+capture| 1.39        |
-|BL    |Thomas cohort        | 0.00        |
-|BL    |Panea cohort         | 4.00        |
-|DLBCL |GAMBL genomes        | 9.94        |
-|DLBCL |Schmitz cohort       |14.89        |
-|DLBCL |Reddy cohort         | 8.31        |
-|DLBCL |Chapuy cohort        |15.38        |
-|FL    |GAMBL genomes        | 2.77        |
+[[include:DLBCL_CD79B.md]]
+[[include:FL_CD79B.md]]
 
 ## Mutation pattern and selective pressure estimates
 
