@@ -34,22 +34,14 @@ timeline
 |:------:|:----:|--------------------------|
 |![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene[@jalladesExomeSequencingIdentifies2017]|
 |![PMBL](images/icons/PMBL_tier2.png)|2|relevance in PMBL/cHL/GZL not firmly established[@deschGenotypingCirculatingTumor2020]|
-|![BL](images/icons/BL_tier1.png)    |1-EE   |high-confidence BL gene   [@richterRecurrentMutationID32012]|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1-EE   |high-confidence DLBCL gene[@morinFrequentMutationHistonemodifying2011]|
-|![FL](images/icons/FL_tier1.png)    |1-EE   |high-confidence FL gene   [@morinFrequentMutationHistonemodifying2011]|
+|![BL](images/icons/BL_tier1.png)    |1   |high-confidence BL gene   [@richterRecurrentMutationID32012]|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene[@morinFrequentMutationHistonemodifying2011]|
+|![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene   [@morinFrequentMutationHistonemodifying2011]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-|Entity|source               |frequency (%)|
-|:------:|:---------------------:|:-------------:|
-|BL    |GAMBL genomes+capture|27.48        |
-|BL    |Thomas cohort        |28.00        |
-|BL    |Panea cohort         |17.80        |
-|DLBCL |GAMBL genomes        | 7.46        |
-|DLBCL |Schmitz cohort       | 9.79        |
-|DLBCL |Reddy cohort         | 3.80        |
-|DLBCL |Chapuy cohort        | 4.70        |
-|FL    |GAMBL genomes        | 3.23        |
+[[include:DLBCL_CCND3.md]]
+[[include:FL_CCND3.md]]
 
 ## Mutation pattern and selective pressure estimates
 
