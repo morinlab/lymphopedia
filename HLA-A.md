@@ -28,16 +28,6 @@ timeline
 
 [[include:DLBCL_HLA-A.md]]
 
-|pathology |Samples             |Incidence estimate     |
- |:---------|:-------------------|:----------------------|
- |DLBCL     |GAMBL without Reddy |0.0985 [0.0808,0.1163] |
- |DLBCL     |GAMBL with Reddy    |0.0112 [0.0062,0.0162] |
- |DLBCL     |BC                  |0.0987 [0.0595,0.1378] |
- |DLBCL     |Dana-Farber[@chapuyMolecularSubtypesDiffuse2018]|0.0924 [0.0598,0.125]  |
- |DLBCL     |NCI[@schmitzGeneticsPathogenesisDiffuse2018]|0.1106 [0.0823,0.139]  |
- |DLBCL     |Reddy[@reddyGeneticFunctionalDrivers2017]|0.0037 [0,0.0089]      |
- |DLBCL     |ICGC[@hubschmannMutationalMechanismsShaping2021]|0.0706 [0.0161,0.125]  |
-
 ## Mutation pattern and selective pressure estimates
 
 |Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
