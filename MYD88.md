@@ -24,15 +24,7 @@ timeline
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-|Entity |Samples/Cohort      |Incidence estimate (95% CI) |
-|:------|:-------------------|:---------------------------|
-|DLBCL  |GAMBL without Reddy |0.1975 [0.174,0.221]        |
-|DLBCL  |GAMBL best Reddy    |0.1914 [0.1724,0.2105]      |
-|DLBCL  |BC                  |0.1614 [0.1131,0.2097]      |
-|DLBCL  |Dana-Farber         |0.1881 [0.1441,0.2321]      |
-|DLBCL  |NCI                 |0.2638 [0.224,0.3037]       |
-|DLBCL  |Reddy               |0.1798 [0.1472,0.2123]      |
-|DLBCL  |DLBCL_ICGC          |0.1059 [0.0405,0.1713]      |
+[[include:DLBCL_MYD88.md]]
 
 ## Mutation pattern and selective pressure estimates
 
