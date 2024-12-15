@@ -33,18 +33,10 @@ timeline
 |![BL](images/icons/BL_tier1.png)    |1   |high-confidence BL gene   [@loveGeneticLandscapeMutations2012]|
 |![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene[@zhangGeneticHeterogeneityDiffuse2013; @reddyGeneticFunctionalDrivers2017; @hubschmannMutationalMechanismsShaping2021]|
 |![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene   [@krysiakRecurrentSomaticMutations2017]|
+
 ## Mutation incidence in large cohorts
 
-|Entity|source               |frequency (%)|
-|:------:|:---------------------:|:-------------:|
-|BL    |GAMBL genomes+capture|28.64        |
-|BL    |Thomas cohort        |36.00        |
-|BL    |Panea cohort         |19.80        |
-|DLBCL |GAMBL genomes        | 8.80        |
-|DLBCL |Schmitz cohort       | 8.94        |
-|DLBCL |Reddy cohort         | 4.40        |
-|DLBCL |Chapuy cohort        | 4.27        |
-|FL    |GAMBL genomes        |12.47        |
+[[include:DLBCL_ARID1A.md]]
 
 ## Mutation pattern and selective pressure estimates
 

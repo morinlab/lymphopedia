@@ -29,7 +29,6 @@ timeline
 |BL    |Thomas cohort        |0.40         |
 |BL    |Panea cohort         |5.00         |
 
-[[include:DLBCL_BACH2.md]]
 
 ## Mutation pattern and selective pressure estimates
 

@@ -29,13 +29,7 @@ Mutations in this gene were first described in MZL by Braggio et al,<sup>1</sup>
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-|Entity|source        |frequency (%)|
-|:------:|:--------------:|:-------------:|
-|DLBCL |GAMBL genomes | 6.88        |
-|DLBCL |Schmitz cohort| 5.53        |
-|DLBCL |Reddy cohort  | 5.91        |
-|DLBCL |Chapuy cohort | 4.70        |
-|MCL   |GAMBL genomes |45.02        |
+[[include:DLBCL_ATM.md]]
 
 ## Mutation pattern and selective pressure estimates
 
