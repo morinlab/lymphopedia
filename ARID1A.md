@@ -37,6 +37,8 @@ timeline
 ## Mutation incidence in large cohorts
 
 [[include:DLBCL_ARID1A.md]]
+[[include:FL_ARID1A.md]]
+
 
 ## Mutation pattern and selective pressure estimates
 
