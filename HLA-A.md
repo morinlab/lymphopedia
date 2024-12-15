@@ -26,6 +26,8 @@ timeline
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
+[[include:DLBCL_HLA-A.md]]
+
 |pathology |Samples             |Incidence estimate     |
  |:---------|:-------------------|:----------------------|
  |DLBCL     |GAMBL without Reddy |0.0985 [0.0808,0.1163] |
