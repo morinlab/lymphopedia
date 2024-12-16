@@ -25,14 +25,7 @@ timeline
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   | 5.989          |0               |
-|DLBCL |No  |No                   | 1.297          |0               |
-|FL    |No  |Yes                  |72.658          |0               |
-
-
-
+[[include:dnds_ATP6V1B2.md]]
 
 ## ATP6V1B2 Hotspots
 

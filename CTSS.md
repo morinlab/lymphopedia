@@ -27,14 +27,7 @@ timeline
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   | 0.000          | 0.000          |
-|DLBCL |No  |No                   | 2.851          | 0.000          |
-|FL    |No  |Yes                  |71.282          |54.511          |
-
-
-
+[[include:dnds_CTSS.md]]
 
 ## CTSS Hotspots
 

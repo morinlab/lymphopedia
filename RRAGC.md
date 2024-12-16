@@ -29,14 +29,7 @@ timeline
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   |  0.000         |0               |
-|DLBCL |No  |No                   |  2.679         |0               |
-|FL    |No  |Yes                  |163.715         |0               |
-
-
-
+[[include:dnds_RRAGC.md]]
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/RRAGC_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/RRAGC_protein_hg38.html)
 

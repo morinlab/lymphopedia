@@ -28,13 +28,7 @@ timeline
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   | 4.318          |0               |
-|DLBCL |No  |No                   |11.932          |0               |
-|FL    |No  |No                   | 5.696          |0               |
-
-
+[[include:dnds_MAP2K1.md]]
 
 ## MAP2K1 Hotspots
 
