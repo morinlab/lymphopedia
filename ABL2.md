@@ -3,8 +3,8 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# ABL2
 
+[[_TOC_]]
 
 ## Relevance tier by entity
 
@@ -30,6 +30,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/A
 
 ## ABL2 Expression
 ![](images/gene_expression/ABL2_by_pathology.svg)
+
+## History
 
 [[include:mermaid_ABL2.md]]
 
