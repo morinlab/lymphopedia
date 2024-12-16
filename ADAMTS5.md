@@ -20,11 +20,7 @@ link-citations: true
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   |1.451           |5.235           |
-|DLBCL |No  |No                   |3.276           |0.000           |
-|FL    |No  |No                   |2.666           |0.000           |
+[[include:dnds_ADAMTS5.md]]
 
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ADAMTS5_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ADAMTS5_protein_hg38.html)

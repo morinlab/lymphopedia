@@ -25,11 +25,7 @@ In relapsed DLBCLs, MS4A1 is sometimes mutated and these mutations have been sho
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |Yes |No                   |2.434           |29.43           |
-|DLBCL |Yes |No                   |0.000           | 0.00           |
-|FL    |Yes |No                   |0.000           | 0.00           |
+[[include:dnds_MS4A1.md]]
 
 ## aSHM regions
 

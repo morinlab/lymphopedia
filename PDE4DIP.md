@@ -23,11 +23,7 @@ link-citations: true
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   |1.344           |1.032           |
-|DLBCL |No  |No                   |1.467           |5.897           |
-|FL    |No  |No                   |2.010           |7.866           |
+[[include:dnds_PDE4DIP.md]]
 
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PDE4DIP_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PDE4DIP_protein_hg38.html)

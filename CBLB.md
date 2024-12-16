@@ -28,11 +28,7 @@ Mutations in this gene were first described in DLBCL in 2017 by Reddy et al.<sup
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   |0.956           |0               |
-|DLBCL |No  |No                   |2.519           |0               |
-|FL    |No  |No                   |0.000           |0               |
+[[include:dnds_CBLB.md]]
 
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CBLB_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CBLB_protein_hg38.html)

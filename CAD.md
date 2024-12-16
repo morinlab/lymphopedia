@@ -28,11 +28,7 @@ Due to [minimal support](CAD#representative-mutation) in the original primary da
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   |0.965           |0               |
-|DLBCL |No  |No                   |1.949           |0               |
-|FL    |No  |No                   |0.000           |0               |
+[[include:dnds_CAD.md]]
 
 
 

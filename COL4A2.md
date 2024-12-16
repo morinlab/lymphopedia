@@ -29,11 +29,7 @@ Due to [minimal support](COL4A2#representative-mutations) in the original primar
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   |0.564           |0               |
-|DLBCL |No  |No                   |1.209           |0               |
-|FL    |No  |No                   |1.043           |0               |
+[[include:dnds_COL4A2.md]]
 
 
 

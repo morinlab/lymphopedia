@@ -23,11 +23,7 @@ link-citations: true
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   |0.000           | 0.000          |
-|DLBCL |No  |No                   |1.970           |61.299          |
-|FL    |No  |No                   |9.831           | 0.000          |
+[[include:dnds_TRAF6.md]]
 
 
 ## TRAF6 Hotspots

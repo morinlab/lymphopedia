@@ -27,11 +27,7 @@ Due to [minimal support](EML2#representative-mutation) in the original primary d
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   |0.000           |0               |
-|DLBCL |No  |No                   |0.000           |0               |
-|FL    |No  |No                   |3.717           |0               |
+[[include:dnds_EML2.md]]
 
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/EML2_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/EML2_protein_hg38.html)

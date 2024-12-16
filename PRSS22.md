@@ -28,11 +28,7 @@ Due to [minimal support](PRSS22#representative-mutation) in the original primary
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   |2.023           |0               |
-|DLBCL |No  |No                   |2.370           |0               |
-|FL    |No  |No                   |0.000           |0               |
+[[include:dnds_PRSS22.md]]
 
 
 

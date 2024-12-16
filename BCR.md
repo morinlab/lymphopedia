@@ -28,11 +28,7 @@ BCR (Breakpoint Cluster Region Protein) is one of [a number of genes](https://gi
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |Yes |No                   |2.733           |2.641           |
-|DLBCL |Yes |No                   |1.249           |3.642           |
-|FL    |Yes |No                   |7.439           |0.000           |
+[[include:dnds_BCR.md]]
 
 ## aSHM regions
 

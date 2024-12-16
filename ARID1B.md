@@ -29,11 +29,7 @@ link-citations: true
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   |0.659           | 4.236          |
-|DLBCL |No  |No                   |0.969           |13.782          |
-|FL    |No  |No                   |0.747           |11.009          |
+[[include:dnds_ARID1B.md]]
 
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ARID1B_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ARID1B_protein_hg38.html)

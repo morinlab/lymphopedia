@@ -22,11 +22,7 @@ Mutations in this gene were first described in DLBCL and FL in 2021 by Hübschma
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   | 1.365          |0               |
-|DLBCL |No  |No                   | 4.444          |0               |
-|FL    |No  |No                   |12.412          |0               |
+[[include:dnds_FZR1.md]]
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/FZR1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/FZR1_protein_hg38.html)
 

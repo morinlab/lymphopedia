@@ -25,11 +25,7 @@ LYN mutations have been reported in DLBCL but the rate is relatively rare in mos
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   | 1.641          | 0.000          |
-|DLBCL |No  |No                   |10.031          |17.456          |
-|FL    |No  |No                   | 0.000          | 0.000          |
+[[include:dnds_LYN.md]]
 
 
 

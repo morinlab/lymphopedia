@@ -28,11 +28,7 @@ This gene has some recurrent sites of mutations (hot spots). The mutation patter
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   |0               | 0.000          |
-|DLBCL |No  |No                   |0               |35.642          |
-|FL    |No  |No                   |0               |53.351          |
+[[include:dnds_DAZAP1.md]]
 
 
 ## DAZAP1 Hotspots

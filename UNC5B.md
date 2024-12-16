@@ -23,11 +23,7 @@ link-citations: true
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   |0.517           |0               |
-|DLBCL |No  |No                   |2.632           |0               |
-|FL    |No  |No                   |4.218           |0               |
+[[include:dnds_UNC5B.md]]
 
  
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/UNC5B_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/UNC5B_protein_hg38.html)

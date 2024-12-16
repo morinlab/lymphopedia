@@ -32,11 +32,7 @@ Mutations in this gene are relatively rare in DLBCL overall but show a pattern o
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   |0.551           |0.000           |
-|DLBCL |No  |No                   |1.376           |4.613           |
-|FL    |No  |No                   |0.985           |0.000           |
+[[include:dnds_NCOR2.md]]
 
 
 

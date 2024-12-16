@@ -23,11 +23,7 @@ link-citations: true
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   |2.047           |8.897           |
-|DLBCL |No  |No                   |1.492           |4.437           |
-|FL    |No  |No                   |0.000           |0.000           |
+[[include:dnds_ANKRD17.md]]
 
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ANKRD17_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ANKRD17_protein_hg38.html)

@@ -25,11 +25,7 @@ Mutations in this gene were first described in DLBCL in 2021 by Hübschmann et a
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   |1.053           | 0.000          |
-|DLBCL |No  |No                   |5.016           |12.509          |
-|FL    |No  |No                   |0.000           |23.991          |
+[[include:dnds_CNOT2.md]]
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CNOT2_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CNOT2_protein_hg38.html)
 

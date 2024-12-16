@@ -25,11 +25,7 @@ Mutations in this gene were first described in DLBCL in 2021 by Hübschmann et a
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   |3.849           |0.000           |
-|DLBCL |No  |No                   |0.798           |9.151           |
-|FL    |No  |No                   |0.000           |0.000           |
+[[include:dnds_GAK.md]]
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/GAK_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/GAK_protein_hg38.html)
 

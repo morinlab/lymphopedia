@@ -22,11 +22,7 @@ Mutations in this gene were first described in FL in 2021 by Hübschmann et al.<
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   |1.441           |8.462           |
-|DLBCL |No  |No                   |4.770           |0.000           |
-|FL    |No  |No                   |8.023           |0.000           |
+[[include:dnds_JUP.md]]
 
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/JUP_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/JUP_protein_hg38.html)

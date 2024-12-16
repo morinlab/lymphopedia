@@ -22,11 +22,7 @@ link-citations: true
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   |0.800           | 0.000          |
-|DLBCL |No  |No                   |2.213           |14.094          |
-|FL    |No  |No                   |1.491           | 0.000          |
+[[include:dnds_PLCG2.md]]
 
 
 

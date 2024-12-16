@@ -26,11 +26,7 @@ Due to [minimal support](RET#representative-mutation) in the original primary da
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   |1.901           |0               |
-|DLBCL |No  |No                   |2.518           |0               |
-|FL    |No  |No                   |0.000           |0               |
+[[include:dnds_RET.md]]
 
 
 

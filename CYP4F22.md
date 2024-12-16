@@ -29,11 +29,7 @@ Due to [minimal support](CYP4F22#representative-mutation) in the original primar
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   |1.467           |9.614           |
-|DLBCL |No  |No                   |1.320           |0.000           |
-|FL    |No  |No                   |0.000           |0.000           |
+[[include:dnds_CYP4F22.md]]
 
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CYP4F22_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CYP4F22_protein_hg38.html)

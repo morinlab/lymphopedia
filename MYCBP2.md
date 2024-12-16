@@ -22,11 +22,7 @@ Mutations in this gene were first described in FL in 2021 by Hübschmann et al.<
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   |0.120           |1.153           |
-|DLBCL |No  |No                   |0.941           |0.000           |
-|FL    |No  |No                   |0.850           |7.277           |
+[[include:dnds_MYCBP2.md]]
 
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/MYCBP2_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/MYCBP2_protein_hg38.html)

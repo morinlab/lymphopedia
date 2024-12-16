@@ -29,11 +29,7 @@ Mutations in this gene were first described in DLBCL in 2013[@zhangGeneticHetero
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   |0.678           |1.875           |
-|DLBCL |No  |No                   |1.342           |5.285           |
-|FL    |No  |No                   |0.918           |6.988           |
+[[include:dnds_UBR5.md]]
 
 
 

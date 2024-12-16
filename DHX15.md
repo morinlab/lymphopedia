@@ -22,11 +22,7 @@ Mutations in this gene were first described in FL in 2021 by Hübschmann et al.<
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   |0.721           | 0.000          |
-|DLBCL |No  |No                   |0.742           | 0.000          |
-|FL    |No  |No                   |2.763           |23.133          |
+[[include:dnds_DHX15.md]]
 
 
 

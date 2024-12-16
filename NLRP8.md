@@ -24,11 +24,7 @@ link-citations: true
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   |2.456           |7.316           |
-|DLBCL |No  |No                   |2.731           |0.000           |
-|FL    |No  |No                   |0.000           |0.000           |
+[[include:dnds_NLRP8.md]]
 
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/NLRP8_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/NLRP8_protein_hg38.html)

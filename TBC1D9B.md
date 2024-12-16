@@ -24,11 +24,7 @@ link-citations: true
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   |2.926           |0.000           |
-|DLBCL |No  |No                   |0.871           |9.918           |
-|FL    |No  |No                   |0.000           |0.000           |
+[[include:dnds_TBC1D9B.md]]
 
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/TBC1D9B_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/TBC1D9B_protein_hg38.html)

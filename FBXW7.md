@@ -24,11 +24,7 @@ In leukemias, FBXW7 mutations enhance the activity of leukemia-initiating cells 
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   |3.846           | 0.000          |
-|DLBCL |No  |No                   |2.734           |10.734          |
-|FL    |No  |No                   |2.987           |22.593          |
+[[include:dnds_FBXW7.md]]
 
 
 

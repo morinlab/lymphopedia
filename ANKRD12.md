@@ -25,11 +25,7 @@ Mutations in this gene were first described in DLBCL in 2021 by Hübschmann et a
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   |1.649           |0.000           |
-|DLBCL |No  |No                   |0.885           |4.832           |
-|FL    |No  |No                   |0.000           |0.000           |
+[[include:dnds_ANKRD12.md]]
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ANKRD12_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ANKRD12_protein_hg38.html)
 

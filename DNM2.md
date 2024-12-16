@@ -25,11 +25,7 @@ Mutations in this gene were first described in DLBCL and FL in 2021 by Hübschma
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   | 1.878          |7.821           |
-|DLBCL |No  |No                   | 4.605          |0.000           |
-|FL    |No  |No                   |10.522          |0.000           |
+[[include:dnds_DNM2.md]]
 
 
 ## DNM2 Hotspots

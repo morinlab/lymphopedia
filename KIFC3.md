@@ -26,11 +26,7 @@ Due to [minimal support](KIFC3#representative-mutations) in the original primary
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   |1.012           |5.98            |
-|DLBCL |No  |No                   |0.000           |0.00            |
-|FL    |No  |No                   |2.064           |0.00            |
+[[include:dnds_KIFC3.md]]
 
 
 

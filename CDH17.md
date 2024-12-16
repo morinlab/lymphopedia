@@ -28,11 +28,7 @@ Due to [minimal support](CDH17#representative-mutations) in the original primary
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   |0.000           |0.000           |
-|DLBCL |No  |No                   |0.635           |6.343           |
-|FL    |No  |No                   |0.000           |0.000           |
+[[include:dnds_CDH17.md]]
 
 
 

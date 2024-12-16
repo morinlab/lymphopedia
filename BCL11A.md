@@ -28,11 +28,7 @@ BCL11A (B-cell lymphoma/leukemia 11A) is a transcription factor involved in the 
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |Yes |No                   |4.455           | 0.000          |
-|DLBCL |Yes |Yes                  |5.279           |69.578          |
-|FL    |Yes |No                   |1.180           | 0.000          |
+[[include:dnds_BCL11A.md]]
 
 ## aSHM regions
 

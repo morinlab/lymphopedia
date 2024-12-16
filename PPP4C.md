@@ -20,11 +20,7 @@ link-citations: true
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   | 2.143          |25.647          |
-|DLBCL |No  |No                   | 6.715          | 0.000          |
-|FL    |No  |No                   |43.394          | 0.000          |
+[[include:dnds_PPP4C.md]]
 
 
 ## PPP4C Hotspots

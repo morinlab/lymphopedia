@@ -26,11 +26,7 @@ link-citations: true
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   |0.000           |0               |
-|DLBCL |No  |No                   |0.000           |0               |
-|FL    |No  |No                   |3.904           |0               |
+[[include:dnds_SNTB2.md]]
 
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/SNTB2_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/SNTB2_protein_hg38.html)

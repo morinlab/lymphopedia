@@ -23,11 +23,7 @@ link-citations: true
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   |3.011           |0               |
-|DLBCL |No  |No                   |1.526           |0               |
-|FL    |No  |No                   |1.687           |0               |
+[[include:dnds_SLC34A2.md]]
 
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/SLC34A2_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/SLC34A2_protein_hg38.html)

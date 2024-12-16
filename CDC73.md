@@ -31,11 +31,7 @@ Mutations in this gene were first described in BL in 2012 by Love et al<sup>1</s
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   |3.951           |0               |
-|DLBCL |No  |No                   |1.702           |0               |
-|FL    |No  |No                   |3.603           |0               |
+[[include:dnds_CDC73.md]]
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CDC73_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CDC73_protein_hg38.html)
 

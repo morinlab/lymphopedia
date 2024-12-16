@@ -27,11 +27,7 @@ Mutations in this gene were first described in DLBCL in 2017 by Reddy et al.<sup
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   |0.786           |0               |
-|DLBCL |No  |No                   |0.000           |0               |
-|FL    |No  |No                   |0.000           |0               |
+[[include:dnds_CHST2.md]]
 
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CHST2_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CHST2_protein_hg38.html)

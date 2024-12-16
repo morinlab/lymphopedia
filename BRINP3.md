@@ -28,11 +28,7 @@ Mutations in this gene were first described in DLBCL in 2017 by Reddy et al.<sup
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   |4.218           |0.00            |
-|DLBCL |No  |No                   |1.138           |0.00            |
-|FL    |No  |No                   |1.586           |6.33            |
+[[include:dnds_BRINP3.md]]
 
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/BRINP3_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/BRINP3_protein_hg38.html)

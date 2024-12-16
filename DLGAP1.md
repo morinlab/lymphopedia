@@ -29,11 +29,7 @@ Due to [minimal support](DLGAP1#representative-mutation) in the original primary
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   |1.501           |0               |
-|DLBCL |No  |No                   |1.143           |0               |
-|FL    |No  |No                   |0.682           |0               |
+[[include:dnds_DLGAP1.md]]
 
 
 

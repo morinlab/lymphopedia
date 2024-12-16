@@ -33,11 +33,7 @@ MCL1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) 
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |Yes |No                   |5.101           |0.000           |
-|DLBCL |Yes |No                   |0.427           |2.401           |
-|FL    |Yes |No                   |0.000           |0.000           |
+[[include:dnds_MCL1.md]]
 
 ## aSHM regions
 

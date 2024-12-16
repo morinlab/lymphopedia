@@ -25,11 +25,7 @@ Mutations in this gene were first described in DLBCL in 2021 by Hübschmann et a
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   |0.311           |2.676           |
-|DLBCL |No  |No                   |1.217           |1.199           |
-|FL    |No  |No                   |0.921           |0.000           |
+[[include:dnds_CADPS2.md]]
 
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CADPS2_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CADPS2_protein_hg38.html)

@@ -24,11 +24,7 @@ link-citations: true
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   |9.926           |0               |
-|DLBCL |No  |No                   |6.256           |0               |
-|FL    |No  |No                   |0.000           |0               |
+[[include:dnds_RAC2.md]]
 
 ## RAC2 Hotspots
 

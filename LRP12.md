@@ -25,11 +25,7 @@ Mutations in this gene were first described in DLBCL in 2021 by Hübschmann et a
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   |1.217           |7.902           |
-|DLBCL |No  |No                   |2.242           |0.000           |
-|FL    |No  |No                   |1.384           |0.000           |
+[[include:dnds_LRP12.md]]
 
 
 

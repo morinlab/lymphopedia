@@ -25,11 +25,7 @@ Mutations in this gene were first described in DLBCL in 2013 by Morin et al.<sup
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   |1.357           |0.000           |
-|DLBCL |No  |No                   |1.375           |2.662           |
-|FL    |No  |No                   |2.893           |0.000           |
+[[include:dnds_CNTNAP5.md]]
 
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CNTNAP5_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CNTNAP5_protein_hg38.html)

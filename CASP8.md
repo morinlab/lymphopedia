@@ -28,11 +28,7 @@ Mutations in this gene were first described in DLBCL in 2017 by Reddy et al.<sup
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   |12.972          |0               |
-|DLBCL |No  |No                   | 6.371          |0               |
-|FL    |No  |No                   | 8.788          |0               |
+[[include:dnds_CASP8.md]]
 
 
 
