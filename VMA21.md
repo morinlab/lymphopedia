@@ -5,13 +5,6 @@ link-citations: true
 ---
 # VMA21
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2021-05-05 : Hübschmann : FL
-```
 
 ## Relevance tier by entity
 
@@ -43,5 +36,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/V
 ![](images/gene_expression/VMA21_by_pathology.svg)
 <!-- ORIGIN: hubschmannMutationalMechanismsShaping2021b -->
 <!-- FL: hubschmannMutationalMechanismsShaping2021b -->
+
+[[include:mermaid_VMA21.md]]
 
 ## References
