@@ -45,12 +45,7 @@ timeline
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   | 5.307          | 0.000          |
-|DLBCL |No  |Yes                  |16.898          | 0.000          |
-|FL    |No  |Yes                  |28.329          |27.096          |
-
+[[include:dnds_CARD11.md]]
 
 ## CARD11 Hotspots
 
