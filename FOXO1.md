@@ -32,6 +32,7 @@ timeline
 
 [[include:DLBCL_FOXO1.md]]
 [[include:FL_FOXO1.md]]
+[[include:BL_FOXO1.md]]
 
 ## Mutation pattern and selective pressure estimates
 
