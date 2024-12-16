@@ -30,7 +30,7 @@ This is one of several genes that encode linker histone proteins that are recurr
 
 ## Mutation pattern and selective pressure estimates
 
-
+[[include:dnds_HIST1H1B.md]]
 
 [[include:browser_HIST1H1B.md]]
 
