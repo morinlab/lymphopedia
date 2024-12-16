@@ -36,14 +36,13 @@ link-citations: true
 
 [[include:Template_aSHM.md]]
 
-[[include:Template_History.md]]
-
 [[include:Template_Hotspots.md]]
 
 [[include:Template_Browser.md]]
 
 [[include:Template_Expression.md]]
 
+[[include:Template_History.md]]
 
 
 <!-- ORIGIN: 1339299 -->
