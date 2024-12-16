@@ -40,13 +40,11 @@ link-citations: true
 
 [[include:Template_Hotspots.md]]
 
-
 [[include:Template_Browser.md]]
 
+[[include:Template_Expression.md]]
 
 
-## Expression
-![](images/gene_expression/BCL2_by_pathology.svg)
 
 <!-- ORIGIN: 1339299 -->
 <!-- FL: morinFrequentMutationHistonemodifying2011 -->
