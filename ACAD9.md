@@ -3,20 +3,13 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# ACAD9
+[[_TOC_]]
 
 ## Overview
 Due to [minimal support](ACAD9#representative-mutation) in the original primary data and very few mutations reported in subsequent studies, this gene is very unlikely to be relevant in BL. 
 
 <<Warn("The variants reported in this gene in BL failed QC")>>
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2012-12-01 : Love : BL
-```
 
 ## Relevance tier by entity
 
@@ -65,6 +58,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/A
 [516](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/516_reports.html)
 [851](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/851_reports.html)
 
+
+[[include:mermaid_ACAD9.md]]
 
 ## References
 
