@@ -41,6 +41,7 @@ timeline
 
 [[include:DLBCL_CREBBP.md]]
 [[include:FL_CREBBP.md]]
+[[include:BL_CREBBP.md]]
 
 ## Mutation pattern and selective pressure estimates
 
