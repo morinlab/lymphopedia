@@ -31,12 +31,7 @@ timeline
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|DLBCL |No  |Yes                  |33.029          |168.982         |
-|FL    |No  |No                   | 8.575          |  0.000         |
-
-
+[[include:dnds_GRB2.md]]
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/GRB2_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/GRB2_protein_hg38.html)
 

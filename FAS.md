@@ -42,12 +42,7 @@ timeline
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   | 6.699          |  0.000         |
-|DLBCL |No  |Yes                  |16.878          |179.289         |
-|FL    |No  |Yes                  | 0.000          |176.866         |
-
+[[include:dnds_FAS.md]]
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/FAS_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/FAS_protein_hg38.html)
 

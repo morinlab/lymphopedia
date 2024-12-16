@@ -50,14 +50,7 @@ timeline
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   |  4.992         |0               |
-|DLBCL |No  |Yes                  | 19.753         |0               |
-|FL    |No  |Yes                  |117.987         |0               |
-
-
-
+[[include:dnds_EZH2.md]]
 
 ## EZH2 Hotspots
 
