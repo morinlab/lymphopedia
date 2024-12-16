@@ -31,7 +31,6 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/A
 ## ABL2 Expression
 ![](images/gene_expression/ABL2_by_pathology.svg)
 
-## History
 
 [[include:mermaid_ABL2.md]]
 
