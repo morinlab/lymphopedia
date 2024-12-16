@@ -20,8 +20,8 @@ timeline
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
-|![BL](images/icons/BL_tier1.png)    |1-a | aSHM target and high-confidence BL gene[@paneaWholeGenomeLandscape2019]   |
-|![DLBCL](images/icons/DLBCL_tier1.png) |1-a | aSHM target and high-confidence DLBCL gene[@reddyGeneticFunctionalDrivers2017]|
+|![BL](images/icons/BL_tier1.png)    |1 | aSHM target and high-confidence BL gene[@paneaWholeGenomeLandscape2019]   |
+|![DLBCL](images/icons/DLBCL_tier1.png) |1| aSHM target and high-confidence DLBCL gene[@reddyGeneticFunctionalDrivers2017]|
 
 ## Mutation incidence
 
