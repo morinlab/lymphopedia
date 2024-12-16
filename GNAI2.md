@@ -39,12 +39,7 @@ timeline
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |Yes                  |18.304          | 0.000          |
-|DLBCL |No  |Yes                  |32.161          |57.623          |
-|FL    |No  |Yes                  |55.205          | 0.000          |
-
+[[include:dnds_GNAI2.md]]
 
 ## GNAI2 Hotspots
 

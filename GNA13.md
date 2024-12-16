@@ -36,13 +36,7 @@ timeline
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |Yes                  |51.517          |966.741         |
-|DLBCL |No  |Yes                  |38.484          |284.077         |
-|FL    |No  |Yes                  |48.688          |215.216         |
-
-
+[[include:dnds_GNA13.md]]
 
 ## GNA13 Hotspots
 

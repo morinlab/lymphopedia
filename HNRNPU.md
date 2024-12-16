@@ -30,11 +30,7 @@ timeline
 
 ## Mutation pattern
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |Yes |Yes                  |1.081           |27.052          |
-|DLBCL |Yes |No                   |1.712           | 0.000          |
-|FL    |Yes |No                   |4.865           |31.056          |
+[[include:dnds_HNRNPU.md]]
 
 ## aSHM regions
 

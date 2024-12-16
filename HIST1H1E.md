@@ -38,12 +38,7 @@ timeline
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |Yes                  |14.203          |0.000           |
-|DLBCL |No  |Yes                  | 4.446          |6.437           |
-|FL    |No  |Yes                  |10.043          |0.000           |
-
+[[include:dnds_HIST1H1E.md]]
 
 ## HIST1H1E Hotspots
 
