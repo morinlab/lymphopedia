@@ -42,6 +42,7 @@ timeline
 
 [[include:DLBCL_CCND3.md]]
 [[include:FL_CCND3.md]]
+[[include:BL_CCND3.md]]
 
 ## Mutation pattern and selective pressure estimates
 
