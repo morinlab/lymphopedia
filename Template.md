@@ -45,7 +45,7 @@ link-citations: true
 
 
 
-## BCL2 Hotspots
+## Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |
@@ -69,7 +69,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/B
 ![](images/proteinpaint/BCL2.svg)
 
 
-## BCL2 Expression
+## Expression
 ![](images/gene_expression/BCL2_by_pathology.svg)
 
 <!-- ORIGIN: 1339299 -->
