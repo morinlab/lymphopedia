@@ -3,7 +3,7 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# BRAF
+[[_TOC_]]
 
 ## Overview
 BRAF mutations, particularly the BRAF V600E hot spot mutation, are primarily associated with hairy cell leukemia and are rare in other B-cell lymphomas. These mutations play a crucial role in the pathogenesis of HCL and have important diagnostic and therapeutic implications. Although they are rare, mutations in BRAF are reproducibly observed in some DLBCLs. Another hot spot, D594A, occurs in DLBCL. The role of these in lymphomagenesis remains poorly understood but functional evidence suggests they may contribute to aneuploidy.[@tiacciBRAFMutationsHairycell2011] 
@@ -11,16 +11,6 @@ Although mutations have also been reported in BL, due to [minimal support](BRAF#
 
 <<Warn("The variants reported in this gene in BL failed QC")>>
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2011-06-16 : Tiacci : DLBCL
-      2012-12-01 : Love : BL
-      2018-05-01 : Chapuy : DLBCL
-2021-05-05 : Hubschmann : DLBCL
-```
 
 ## Relevance tier by entity
 
@@ -79,6 +69,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/B
 
 [1102](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/1102_reports.html)
 [673](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/673_reports.html)
+
+[[include:mermaid_BRAF.md]]
 
 ## References
 

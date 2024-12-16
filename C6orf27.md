@@ -3,7 +3,7 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# C6orf27
+[[_TOC_]]
 
 ## Overview
 
@@ -11,13 +11,6 @@ Due to [minimal support](C6orf27#representative-mutation) in the original primar
 
 <<Warn("The variants reported in this gene failed QC")>>
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2012-12-01 : Love : BL
-```
 
 ## Relevance tier by entity
 
@@ -65,5 +58,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/C
 [322](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/322_reports.html)
 
 
+
+[[include:mermaid_C6orf27.md]]
 
 ## References

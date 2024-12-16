@@ -4,18 +4,10 @@ csl: 'NLM.csl'
 link-citations: true
 ---
 
-# ARID5B
+[[_TOC_]]
 
 <<Warn("In a subsequent reanalysis, the mutation rate in this gene was found to be inflated in the original results")>>
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2017-10-10 : Reddy : DLBCL
-      2018-10-01 : Arthur : DLBCL
-      2023-11-15 : Gomez : PMBL
-```
 
 ## Relevance tier by entity
 
@@ -119,6 +111,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/A
 [Reddy_800T](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Reddy/igv_reports/Reddy_800T.html)
 [Reddy_813T](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Reddy/igv_reports/Reddy_813T.html)
 [Reddy_830T](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Reddy/igv_reports/Reddy_830T.html)
+
+[[include:mermaid_ARID5B.md]]
 
 ## References
 

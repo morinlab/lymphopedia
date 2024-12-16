@@ -3,15 +3,8 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# ATP6V1B2
+[[_TOC_]]
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2016-02-02 : Okosun : FL
-```
 
 ## Relevance tier by entity
 
@@ -45,5 +38,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/A
 ![](images/gene_expression/ATP6V1B2_by_pathology.svg)
 <!-- ORIGIN: okosunRecurrentMTORC1activatingRRAGC2016a -->
 <!-- FL: okosunRecurrentMTORC1activatingRRAGC2016a -->
+
+[[include:mermaid_ATP6V1B2.md]]
 
 ## References

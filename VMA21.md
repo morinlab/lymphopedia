@@ -3,8 +3,7 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# VMA21
-
+[[_TOC_]]
 
 ## Relevance tier by entity
 

@@ -4,20 +4,11 @@ csl: 'NLM.csl'
 link-citations: true
 ---
 
-# ACTG1
+[[_TOC_]]
 
 ACTG1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas. The function of mutations in ACTB and ACTG1 have not yet been determined.[@witjesPrevalenceCytoplasmicActin2020]
 
-## History
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2016-09-08 : Spina : MZL
-      2019-08-20 : Desch : PMBL
-      2021-05-05 : Hübschmann : DLBCL
-```
 
 ## Relevance tier by entity
 
@@ -56,6 +47,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/A
 
 ## ACTG1 Expression
 ![](images/gene_expression/ACTG1_by_pathology.svg)
+
+[[include:mermaid_ACTG1.md]]
 
 ## References
 

@@ -3,18 +3,8 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# BIRC3
+[[_TOC_]]
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2011-11-03 : Rossi : MZL
-      2013-11-05 : Be : MCL
-      2018-10-01 : Arthur : DLBCL
-      2021-07-15 : Duns : PMBL
-```
 
 ## Relevance tier by entity
 
@@ -66,5 +56,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/B
 <!-- MZL: rossiAlterationBIRC3Multiple2011a -->
 <!-- MCL: beaLandscapeSomaticMutations2013 -->
 <!-- DLBCL: arthurGenomewideDiscoverySomatic2018 -->
+
+[[include:mermaid_BIRC3.md]]
 
 ## References

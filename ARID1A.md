@@ -4,26 +4,13 @@ csl: 'NLM.csl'
 link-citations: true
 ---
 
-# ARID1A
+[[_TOC_]]
 
 ## Overview
 
 ARID1A (AT-rich interactive domain-containing protein 1A) is a gene that encodes a subunit of the SWI/SNF chromatin remodeling complex, which is involved in regulating DNA accessibility. Mutations in ARID1A are implicated in various cancers, including B-cell lymphomas. They are the most abundant in Burkitt lymphoma but also occur in FL and, to a lesser extent, DLBCL. 
 Overall, components of SWI/SNF have been identified as an emerging theme in germinal centre-derived B-cell lymphomas but their role has not been thoroughly elucidated.[@lunningMutationChromatinModifiers2015]
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2012-08-27 : Rossi : MZL
-      2012-12-01 : Love : BL
-      2013-01-01 : Zhang : DLBCL
-      2017-05-01 : Albuquerque : DLBCL
-      2017-01-26 : Krysiak : FL
-      2018-04-12 : Schmitz : DLBCL
-      2018-10-01 : Arthur : DLBCL
-      2019-12-10 : Wienand : PMBL
-```
 
 ## Relevance tier by entity
 |Entity|Tier|Description               |
@@ -61,6 +48,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/A
 <!-- BL: loveGeneticLandscapeMutations2012 -->
 <!-- FL: krysiakRecurrentSomaticMutations2017b -->
 <!-- BL: loveGeneticLandscapeMutations2012 -->
+
+[[include:mermaid_ARID1A.md]]
 
 ## References
 

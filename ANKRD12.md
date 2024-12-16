@@ -3,17 +3,10 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# ANKRD12
+[[_TOC_]]
 
-## History
 Mutations in this gene were first described in DLBCL in 2021 by Hübschmann et al.<sup>1</sup>
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2021-05-05 : Hübschmann : DLBCL
-```
 
 ## Relevance tier by entity
 
@@ -59,6 +52,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/A
 [SP193681](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP193681.html)
 [SP194035](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP194035.html)
 [SP193375](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP193375.html)
+
+[[include:mermaid_ANKRD12.md]]
 
 ## References
 

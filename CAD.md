@@ -3,7 +3,7 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# CAD
+[[_TOC_]]
 
 ## Overview
 
@@ -11,14 +11,6 @@ Due to [minimal support](CAD#representative-mutation) in the original primary da
 
 <<Warn("The variants reported in this gene failed QC")>>
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2012-12-01 : Love : BL
-      2013-01-01 : Zhang : DLBCL
-```
 
 ## Relevance tier by entity
 
@@ -75,5 +67,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/C
 [1102](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/1102_reports.html)
 [479](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/479_reports.html)
 [479](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/479_reports.html)
+
+[[include:mermaid_CAD.md]]
 
 ## References

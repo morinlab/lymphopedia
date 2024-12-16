@@ -3,17 +3,10 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# CADPS2
+[[_TOC_]]
 
-## History
 Mutations in this gene were first described in DLBCL in 2021 by Hübschmann et al.<sup>1</sup>
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2021-05-05 : Hübschmann : DLBCL
-```
 
 ## Relevance tier by entity
 
@@ -60,6 +53,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/C
 [SP192997](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP192997.html)
 [SP124971](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP124971.html)
 [SP192970](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP192970.html)
+
+[[include:mermaid_CADPS2.md]]
 
 ## References
 

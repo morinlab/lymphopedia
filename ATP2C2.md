@@ -3,7 +3,7 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# ATP2C2
+[[_TOC_]]
 
 
 ## Overview
@@ -11,13 +11,6 @@ Due to [minimal support](ATP2C2#representative-mutation) in the original primary
 
 <<Warn("The variants reported in this gene in BL failed QC")>>
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2012-12-01 : Love : BL
-```
 
 ## Relevance tier by entity
 
@@ -69,5 +62,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/A
 [1102](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/1102_reports.html)
 [667](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/667_reports.html)
 [677](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/677_reports.html)
+
+[[include:mermaid_ATP2C2.md]]
 
 ## References

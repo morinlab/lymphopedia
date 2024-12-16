@@ -3,7 +3,7 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# BRD4
+[[_TOC_]]
 
 ## Overview
 
@@ -11,13 +11,6 @@ Due to [minimal support](BRD4#representative-mutation) in the original primary d
 
 <<Warn("The variants reported in this gene in BL failed QC")>>
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2012-12-01 : Love : BL
-```
 
 ## Relevance tier by entity
 
@@ -69,5 +62,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/B
 [676](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/676_reports.html)
 [698](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/698_reports.html)
 [747](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/747_reports.html)
+
+[[include:mermaid_BRD4.md]]
 
 ## References

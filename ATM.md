@@ -3,21 +3,11 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# ATM
+[[_TOC_]]
 
-## History
 Mutations in this gene were first described in MZL by Braggio et al,<sup>1</sup> then in MCL by Bea et al.<sup>2</sup> ATM mutations were later described in DLBCL by Reddy et al.<sup>3</sup>
 
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-    timeline
-        title Publication timing
-          2012 : Braggio : MZL
-          2013 : Beà : MCL
-2017-10-10 : Reddy : DLBCL
-2018-10-01 : Arthur : DLBCL
-```
 
 ## Relevance tier by entity
 
@@ -46,6 +36,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/A
 
 ## ATM Expression
 ![](images/gene_expression/ATM_by_pathology.svg)
+
+[[include:mermaid_ATM.md]]
 
 ## References
 
