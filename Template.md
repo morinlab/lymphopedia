@@ -5,7 +5,7 @@ link-citations: true
 ---
 # BCL2
 
-[TOC]
+[[_TOC_]]
 
 [[include:Overview.md]]
 
