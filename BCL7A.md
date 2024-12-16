@@ -39,6 +39,7 @@ timeline
 
 [[include:DLBCL_BCL7A.md]]
 [[include:FL_BCL7A.md]]
+[[include:BL_BCL7A.md]]
 
 ## Mutation pattern and selective pressure estimates
 

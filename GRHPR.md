@@ -20,16 +20,11 @@ timeline
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1-a | aSHM target and high-confidence DLBCL gene[@arthurGenomewideDiscoverySomatic2018]|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1 | aSHM target and high-confidence DLBCL gene[@arthurGenomewideDiscoverySomatic2018]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-|Entity|source        |frequency (%)|
-|:------:|:--------------:|:-------------:|
-|DLBCL |GAMBL genomes |2.68         |
-|DLBCL |Schmitz cohort|4.47         |
-|DLBCL |Reddy cohort  |3.60         |
-|DLBCL |Chapuy cohort |4.70         |
+[[include:DLBCL_GRHPR.md]]
 
 ## Mutation pattern and selective pressure estimates
 

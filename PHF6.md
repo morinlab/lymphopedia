@@ -5,7 +5,6 @@ link-citations: true
 ---
 # PHF6
 
-<<Warn("The variants reported in this gene in DLBCL failed QC")>>
 
 ## History
 ```mermaid
@@ -25,15 +24,8 @@ timeline
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-|Entity|source               |frequency (%)|
-|:------:|:---------------------:|:-------------:|
-|BL    |GAMBL genomes+capture|7.16         |
-|BL    |Thomas cohort        |5.50         |
-|BL    |Panea cohort         |5.90         |
-|DLBCL |GAMBL genomes        |2.49         |
-|DLBCL |Schmitz cohort       |1.49         |
-|DLBCL |Reddy cohort         |1.40         |
-|DLBCL |Chapuy cohort        |0.85         |
+[[include:DLBCL_PHF6.md]]
+[[include:BL_PHF6.md]]
 
 ## Mutation pattern and selective pressure estimates
 

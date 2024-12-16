@@ -25,6 +25,7 @@ timeline
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
 [[include:DLBCL_MYD88.md]]
+[[include:FL_MYD88.md]]
 
 ## Mutation pattern and selective pressure estimates
 

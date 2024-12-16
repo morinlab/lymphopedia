@@ -25,13 +25,9 @@ timeline
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-|Entity|source        |frequency (%)|
-|:------:|:--------------:|:-------------:|
-|DLBCL |GAMBL genomes |3.44         |
-|DLBCL |Schmitz cohort|1.91         |
-|DLBCL |Reddy cohort  |1.70         |
-|DLBCL |Chapuy cohort |2.99         |
-|FL    |GAMBL genomes |6.24         |
+[[include:DLBCL_MEF2C.md]]
+[[include:DLBCL_MEF2C.md]]
+
 
 ## Mutation pattern and selective pressure estimates
 

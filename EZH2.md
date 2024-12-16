@@ -37,23 +37,16 @@ timeline
 |:------:|:----:|--------------------------------------|
 |![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene|
 |![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene[@mottokIntegrativeGenomicAnalysis2019]|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1-EE   |high-confidence DLBCL gene supported by functional data            [@morinSomaticMutationsAltering2010]|
-|![FL](images/icons/FL_tier1.png)    |1-EE   |high-confidence FL gene supported by functional data               [@morinSomaticMutationsAltering2010]|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene supported by functional data            [@morinSomaticMutationsAltering2010]|
+|![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene supported by functional data               [@morinSomaticMutationsAltering2010]|
 |![BL](images/icons/BL_tier2.png)    |2   |relevance in BL not firmly established[@loveGeneticLandscapeMutations2012]|
 
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-|Entity|source               |frequency (%)|
-|:------:|:---------------------:|:-------------:|
-|BL    |GAMBL genomes+capture| 3.46        |
-|BL    |Thomas cohort        | 1.30        |
-|BL    |Panea cohort         |10.90        |
-|DLBCL |GAMBL genomes        |13.77        |
-|DLBCL |Schmitz cohort       | 9.15        |
-|DLBCL |Reddy cohort         | 8.91        |
-|DLBCL |Chapuy cohort        | 5.56        |
-|FL    |GAMBL genomes        |24.94        |
+
+[[include:DLBCL_EZH2.md]]
+[[include:FL_EZH2.md]]
 
 ## Mutation pattern and selective pressure estimates
 

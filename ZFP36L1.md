@@ -29,20 +29,13 @@ timeline
 |:------:|:----:|--------------------------------------|
 |![MCL](images/icons/MCL_tier2.png)|2|relevance in MCL not firmly established|
 |![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene[@reichelFlowSortingExome2015]|
-|![BL](images/icons/BL_tier2.png)    |2-a | aSHM target; Although recurrent, the relevance of mutations in BL is tenuous [@paneaWholeGenomeLandscape2019]|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1-a | aSHM target and high-confidence DLBCL gene            [@morinFrequentMutationHistonemodifying2011]|
+|![BL](images/icons/BL_tier2.png)    |2 | aSHM target; Although recurrent, the relevance of mutations in BL is tenuous [@paneaWholeGenomeLandscape2019]|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1 | aSHM target and high-confidence DLBCL gene            [@morinFrequentMutationHistonemodifying2011]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-|Entity|source               |frequency (%)|
-|:------:|:---------------------:|:-------------:|
-|BL    |GAMBL genomes+capture|2.08         |
-|BL    |Thomas cohort        |2.10         |
-|BL    |Panea cohort         |3.00         |
-|DLBCL |GAMBL genomes        |6.69         |
-|DLBCL |Schmitz cohort       |8.51         |
-|DLBCL |Reddy cohort         |5.61         |
-|DLBCL |Chapuy cohort        |8.12         |
+[[include:DLBCL_ZFP36L1.md]]
+[[include:BL_ZFP36L1.md]]
 
 ## Mutation pattern and selective pressure estimates
 

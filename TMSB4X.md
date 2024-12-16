@@ -26,18 +26,13 @@ timeline
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
 |![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1-a | aSHM target and high-confidence DLBCL gene            [@zhangGeneticHeterogeneityDiffuse2013; @albuquerqueEnhancingKnowledgeDiscovery2017a]|
-|![FL](images/icons/FL_tier1.png)    |1-a | aSHM target and high-confidence FL gene               |
+|![DLBCL](images/icons/DLBCL_tier1.png) |1 | aSHM target and high-confidence DLBCL gene            [@zhangGeneticHeterogeneityDiffuse2013; @albuquerqueEnhancingKnowledgeDiscovery2017]|
+|![FL](images/icons/FL_tier1.png)    |1| aSHM target and high-confidence FL gene               |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-|Entity|source               |frequency (%)|
-|:------:|:---------------------:|:-------------:|
-|DLBCL |GAMBL genomes        |12.43        |
-|DLBCL |Schmitz cohort       |20.85        |
-|DLBCL |Reddy cohort         |13.11        |
-|DLBCL |Chapuy cohort        |18.38        |
-|FL    |GAMBL genomes        | 4.39        |
+[[include:DLBCL_TMSB4X.md]]
+[[include:FL_TMSB4X.md]]
 
 ## Mutation pattern and selective pressure estimates
 

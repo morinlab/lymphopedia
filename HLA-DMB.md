@@ -16,15 +16,7 @@ HLA-DMB, along with HLA-DMA, plays a critical role in the proper functioning of 
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-|Entity|source               |frequency (%)|
-|:------:|:---------------------:|:-------------:|
-|BL    |GAMBL genomes+capture|  NA         |
-|BL    |Thomas cohort        |0.00         |
-|BL    |Panea cohort         |  NA         |
-|DLBCL |GAMBL genomes        |3.82         |
-|DLBCL |Schmitz cohort       |5.11         |
-|DLBCL |Reddy cohort         |  NA         |
-|DLBCL |Chapuy cohort        |1.71         |
+[[include:DLBCL_HLA-DMB.md]]
 
 ## Mutation pattern and selective pressure estimates
 

@@ -22,19 +22,12 @@ timeline
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
 |![BL](images/icons/BL_tier2.png)    |3   |Retired, Failed QC[@loveGeneticLandscapeMutations2012]|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene           [@reddyGeneticFunctionalDrivers2017; @chapuyMolecularSubtypesDiffuse2018b] |
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene           [@reddyGeneticFunctionalDrivers2017; @chapuyMolecularSubtypesDiffuse2018] |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-|Entity|source               |frequency (%)|
-|:------:|:---------------------:|:-------------:|
-|BL    |GAMBL genomes+capture|3.00         |
-|BL    |Thomas cohort        |  NA         |
-|BL    |Panea cohort         |  NA         |
-|DLBCL |GAMBL genomes        |2.87         |
-|DLBCL |Schmitz cohort       |2.13         |
-|DLBCL |Reddy cohort         |2.00         |
-|DLBCL |Chapuy cohort        |2.99         |
+[[include:DLBCL_SF3B1.md]]
+[[include:BL_SF3B1.md]]
 
 ## Mutation pattern and selective pressure estimates
 

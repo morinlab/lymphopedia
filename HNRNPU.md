@@ -20,20 +20,13 @@ timeline
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
-|![BL](images/icons/BL_tier1.png)    |1-a | aSHM target and high-confidence BL gene[@paneaWholeGenomeLandscape2019]   |
-|![DLBCL](images/icons/DLBCL_tier1.png) |1-a | aSHM target and high-confidence DLBCL gene[@reddyGeneticFunctionalDrivers2017]|
+|![BL](images/icons/BL_tier1.png)    |1 | aSHM target and high-confidence BL gene[@paneaWholeGenomeLandscape2019]   |
+|![DLBCL](images/icons/DLBCL_tier1.png) |1| aSHM target and high-confidence DLBCL gene[@reddyGeneticFunctionalDrivers2017]|
 
 ## Mutation incidence
 
-|Entity|source               |frequency (%)|
-|:------:|:---------------------:|:-------------:|
-|BL    |GAMBL genomes+capture|5.77         |
-|BL    |Thomas cohort        |6.40         |
-|BL    |Panea cohort         |8.90         |
-|DLBCL |GAMBL genomes        |2.49         |
-|DLBCL |Schmitz cohort       |3.40         |
-|DLBCL |Reddy cohort         |2.40         |
-|DLBCL |Chapuy cohort        |3.42         |
+[[include:DLBCL_HNRNPU.md]]
+[[include:BL_HNRNPU.md]]
 
 ## Mutation pattern
 
