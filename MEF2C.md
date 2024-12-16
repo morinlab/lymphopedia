@@ -13,8 +13,8 @@ MEF2C is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm)
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1-a | aSHM target and high-confidence DLBCL gene[@arthurGenomewideDiscoverySomatic2018]|
-|![FL](images/icons/FL_tier1.png)    |1-a | aSHM target and high-confidence FL gene   |
+|![DLBCL](images/icons/DLBCL_tier1.png) |1 | aSHM target and high-confidence DLBCL gene[@arthurGenomewideDiscoverySomatic2018]|
+|![FL](images/icons/FL_tier1.png)    |1 | aSHM target and high-confidence FL gene   |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
