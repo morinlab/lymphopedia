@@ -28,14 +28,7 @@ timeline
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   |2.141           |0               |
-|DLBCL |No  |No                   |2.591           |0               |
-|FL    |No  |No                   |0.000           |0               |
-
-
-
+[[include:dnds_LRRN3.md]]
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/LRRN3_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/LRRN3_protein_hg38.html)
 

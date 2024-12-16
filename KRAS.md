@@ -28,14 +28,7 @@ timeline
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   |27.314          |0               |
-|DLBCL |No  |No                   | 5.336          |0               |
-|FL    |No  |No                   | 9.959          |0               |
-
-
-
+[[include:dnds_KRAS.md]]
 
 ## KRAS Hotspots
 

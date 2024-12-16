@@ -32,11 +32,7 @@ timeline
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |Yes |No                   |0.587           | 0.000          |
-|DLBCL |Yes |Yes                  |4.294           |15.744          |
-|FL    |Yes |No                   |6.541           | 0.000          |
+[[include:dnds_ITPKB.md]]
 
 ## aSHM regions
 

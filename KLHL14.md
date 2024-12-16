@@ -30,14 +30,7 @@ timeline
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   | 0.000          | 0.000          |
-|DLBCL |No  |No                   | 3.154          | 2.846          |
-|FL    |No  |No                   |12.248          |24.944          |
-
-
-
+[[include:dnds_KLHL14.md]]
 
 ## KLHL14 Hotspots
 

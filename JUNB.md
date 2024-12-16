@@ -33,13 +33,7 @@ timeline
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   |1.009           |0.00            |
-|DLBCL |No  |No                   |1.285           |8.88            |
-|FL    |No  |No                   |0.000           |0.00            |
-
-
+[[include:dnds_JUNB.md]]
 
 > [!WARNING]
 > Mutations in this gene were reported to be inflated in the original results according to [Dreval K](https://www.biorxiv.org/content/10.1101/2023.11.21.567983v1)
