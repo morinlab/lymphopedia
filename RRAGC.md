@@ -3,17 +3,8 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# RRAGC
+[[_TOC_]]
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2016-02-02 : Okosun : FL
-      2017-10-10 : Reddy : DLBCL
-2021-05-05 : Hubschmann : DLBCL
-```
 
 ## Relevance tier by entity
 
@@ -43,6 +34,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/R
 ![](images/gene_expression/RRAGC_by_pathology.svg)
 <!-- ORIGIN: okosunRecurrentMTORC1activatingRRAGC2016a -->
 <!-- DLBCL: okosunRecurrentMTORC1activatingRRAGC2016a -->
+
+[[include:mermaid_RRAGC.md]]
 
 ## References
 

@@ -69,7 +69,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/E
 
 ## Representative Mutations
 
-### BL<sup>5</sup>
+### BL
 
 ![](primary/Love_EZH2.svg)
 **Rating**
@@ -78,6 +78,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/E
 ## All Mutations
 
 ### BL
+
+[@loveGeneticLandscapeMutations2012]
 
 [1092](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/1092_reports.html)
 [671](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/671_reports.html)
