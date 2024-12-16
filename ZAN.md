@@ -22,8 +22,7 @@ link-citations: true
 
 ## Mutation pattern and selective pressure estimates
 
-|
-
+[[include:dnds_ZAN.md]]
 
 
 
