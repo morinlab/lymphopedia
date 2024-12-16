@@ -8,7 +8,7 @@ link-citations: true
 [[_TOC_]]
 
 
-## Relevance tier by entity
+## Gene lists
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
