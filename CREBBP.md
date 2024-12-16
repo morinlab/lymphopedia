@@ -45,12 +45,7 @@ timeline
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   | 1.357          |  3.999         |
-|DLBCL |No  |Yes                  |13.231          | 65.302         |
-|FL    |No  |Yes                  |43.869          |112.938         |
-
+[[include:dnds_CREBBP.md]]
 
 ## CREBBP Hotspots
 
