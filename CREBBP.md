@@ -86,7 +86,10 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/C
 
 ## Representative Mutations
 
-### BL[@loveGeneticLandscapeMutations2012]
+### BL
+
+Source[@loveGeneticLandscapeMutations2012]
+
 ![](primary/Love_CREBBP.svg)
 **Rating**
 &starf; &starf; &starf; &starf; &star;
