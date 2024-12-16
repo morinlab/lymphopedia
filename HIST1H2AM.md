@@ -23,24 +23,19 @@ This gene encodes the H2A protein, one of the core proteins comprising nucleosom
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-|Entity|source               |frequency (%)|
-|:------:|:---------------------:|:-------------:|
-|DLBCL |GAMBL genomes        |5.93         |
-|DLBCL |Schmitz cohort       |5.74         |
-|DLBCL |Reddy cohort         |4.80         |
-|DLBCL |Chapuy cohort        |5.98         |
-|FL    |GAMBL genomes        |3.70         |
-|BL    |GAMBL genomes+capture|1.85         |
-|BL    |Thomas cohort        |1.70         |
-|BL    |Panea cohort         |3.00         |
+### DLBCL
+[[include:DLBCL_HIST1H2AM.md]]
+
+### BL
+[[include:BL_HIST1H2AM.md]]
+
+### FL
+[[include:FL_HIST1H2AM.md]]
+
 
 ## Mutation pattern and selective pressure estimates
+[[include:dnds_HIST1H2AM.md]]
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|DLBCL |No  |No                   |1.844           |0               |
-|FL    |No  |No                   |1.845           |0               |
-|BL    |No  |No                   |2.149           |0               |
 
 ## HIST1H2AM Hotspots
 
