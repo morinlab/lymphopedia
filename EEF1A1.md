@@ -35,11 +35,7 @@ timeline
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   | 6.692          | 0.000          |
-|DLBCL |No  |No                   | 3.556          |24.091          |
-|FL    |No  |Yes                  |47.451          | 0.000          |
+[[include:dnds_EEF1A1.md]]
 
 ## EEF1A1 Hotspots
 
