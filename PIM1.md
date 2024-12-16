@@ -23,22 +23,15 @@ timeline
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
 |![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene[@dunsCharacterizationDLBCLPMBL2021]|
-|![BL](images/icons/BL_tier2.png)    |2-a | aSHM target; Although recurrent, the relevance of mutations in BL is tenuous [@burkhardtClinicalRelevanceMolecular2022]|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1-a | aSHM target and high-confidence DLBCL gene            [@pasqualucciHypermutationMultipleProtooncogenes2001]|
-|![FL](images/icons/FL_tier1.png)    |1-a | aSHM target and high-confidence FL gene               |
+|![BL](images/icons/BL_tier2.png)    |2 | aSHM target; Although recurrent, the relevance of mutations in BL is tenuous [@burkhardtClinicalRelevanceMolecular2022]|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1 | aSHM target and high-confidence DLBCL gene            [@pasqualucciHypermutationMultipleProtooncogenes2001]|
+|![FL](images/icons/FL_tier1.png)    |1 | aSHM target and high-confidence FL gene               |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-|Entity|source               |frequency (%)|
-|:------:|:---------------------:|:-------------:|
-|BL    |GAMBL genomes+capture| 2.31        |
-|BL    |Thomas cohort        |   NA        |
-|BL    |Panea cohort         |   NA        |
-|DLBCL |GAMBL genomes        |20.27        |
-|DLBCL |Schmitz cohort       |27.66        |
-|DLBCL |Reddy cohort         |19.12        |
-|DLBCL |Chapuy cohort        |23.93        |
-|FL    |GAMBL genomes        | 9.24        |
+[[include:DLBCL_PIM1.md]]
+[[include:FL_PIM1.md]]
+[[include:BL_PIM1.md]]
 
 ## Mutation pattern and selective pressure estimates
 
