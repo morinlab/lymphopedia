@@ -46,13 +46,7 @@ timeline
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |Yes                  |97.799          |360.774         |
-|DLBCL |No  |Yes                  |19.557          | 60.833         |
-|FL    |No  |No                   |24.611          |  0.000         |
-
-
+[[include:dnds_BCL2.md]]
 
 
 ## CCND3 Hotspots
