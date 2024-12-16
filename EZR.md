@@ -3,16 +3,9 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# EZR
+[[_TOC_]]
 
-## History
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2019-08-20 : Desch : PMBL
-```
 
 ## Relevance tier by entity
 
@@ -57,5 +50,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/E
 ![](images/gene_expression/EZR_by_pathology.svg)
 <!-- ORIGIN: deschGenotypingCirculatingTumor2020 -->
 <!-- PMBL: deschGenotypingCirculatingTumor2020 -->
+
+[[include:mermaid_EZR.md]]
 
 ## References

@@ -3,7 +3,7 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# DUSP2
+[[_TOC_]]
 
 ## Overview
 
@@ -14,16 +14,6 @@ These mutations are associated with the ST2 genetic subgroup of DLBCL.
 This gene has some recurrent sites of mutations (hot spots). 
 The mutation pattern in DLBCL implies the preferential accumulation of *inactivating mutations*.
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-2012-03-06 : Lohr : DLBCL
-2013-08-15 : Morin : DLBCL
-2017-10-10 : Reddy : DLBCL
-2018-04-12 : Schmitz : DLBCL
-```
 
 ## Relevance tier by entity
 
@@ -78,6 +68,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/D
 <!-- ORIGIN: morinMutationalStructuralAnalysis2013 -->
 <!-- PMBL: dunsCharacterizationDLBCLPMBL2021b -->
 <!-- DLBCL: morinMutationalStructuralAnalysis2013 -->
+
+[[include:mermaid_DUSP2.md]]
 
 ## References
 

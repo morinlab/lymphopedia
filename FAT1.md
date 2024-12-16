@@ -4,16 +4,9 @@ csl: 'NLM.csl'
 link-citations: true
 ---
 
-# FAT1
+[[_TOC_]]
 
-## History
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2016-09-08 : Spina : MZL
-```
 
 
 ## Relevance tier by entity
@@ -35,6 +28,8 @@ timeline
 |FL|GAMBL Exome |6.59 |
 |MCL|GAMBL Genome |2.339 |
 
+
+[[include:mermaid_FAT1.md]]
 
 ## References
 

@@ -3,15 +3,8 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# CDKN2C
+[[_TOC_]]
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2023-02-03 : Thomas : BL
-```
 
 ## Relevance tier by entity
 
@@ -50,5 +43,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/C
 ![](images/gene_expression/CDKN2C_by_pathology.svg)
 <!-- ORIGIN: thomasGeneticSubgroupsInform2023 -->
 <!-- BL: thomasGeneticSubgroupsInform2023 -->
+
+[[include:mermaid_CDKN2C.md]]
 
 ## References

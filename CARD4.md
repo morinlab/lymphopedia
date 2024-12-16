@@ -3,19 +3,12 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# CARD4
+[[_TOC_]]
 
 ## Overview
 *CARD4 is now known as NOD1.*
 
-## History
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2012-12-01 : Love : BL
-```
 
 ## Relevance tier by entity
 
@@ -53,5 +46,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/C
 [1092](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/1092_reports.html)
 [674](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/674_reports.html)
 [747](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/747_reports.html)
+
+[[include:mermaid_CARD4.md]]
 
 ## References

@@ -3,7 +3,7 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# CD79B
+[[_TOC_]]
 
 ## Overview
 CD79B mutations significantly contribute to the pathogenesis of DLBCL by enhancing BCR signaling and promoting tumor survival. 
@@ -15,22 +15,6 @@ The most common hotspot mutation in CD79B is at the tyrosine residue 196 (Y196).
 This and other common mutations primarily occur in the immunoreceptor tyrosine-based activation motif (ITAM) domain and prevent the negative regulatory feedback provided by Lyn kinase thereby enhancing BCR signaling.[@kimCD79BMYD88Mutations2014; @davisChronicActiveBcellreceptor2010]
 
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-2011-07-27 : Morin : DLBCL
-2012-03-06 : Lohr : DLBCL
-2013-01-01 : Zhang : DLBCL
-2013-08-15 : Morin : DLBCL
-2017-05-01 : Albuquerque : DLBCL
-2017-10-10 : Reddy : DLBCL
-2018-04-12 : Schmitz : DLBCL
-2018-05-01 : Chapuy : DLBCL
-2018-10-01 : Arthur : DLBCL
-      2019-09-26 : Panea : BL
-```
 
 ## Relevance tier by entity
 
@@ -95,6 +79,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/C
 **Rating**
 &starf; &starf; &starf; &star; &star;
 
+
+[[include:mermaid_CD79B.md]]
 
 ## References
 <!-- ORIGIN: morinFrequentMutationHistonemodifying2011 -->

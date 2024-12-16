@@ -3,7 +3,7 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# ETS1
+[[_TOC_]]
 
 ## Overview
 
@@ -14,19 +14,6 @@ The mutation pattern in DLBCL implies the preferential accumulation of *inactiva
 <<Warn("The variants reported in this gene in BL failed QC")>>
 
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-2011-07-27 : Morin : DLBCL
-2013-08-15 : Morin : DLBCL
-2017-10-10 : Reddy : DLBCL
-2018-04-12 : Schmitz : DLBCL
-2018-05-01 : Chapuy : DLBCL
-2018-10-01 : Arthur : DLBCL
-      2019-09-26 : Panea : BL
-```
 
 ## Relevance tier by entity
 
@@ -99,6 +86,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/E
 **Rating**
 &starf; &star; &star; &star; &star;
 
+
+[[include:mermaid_ETS1.md]]
 
 ## References
 

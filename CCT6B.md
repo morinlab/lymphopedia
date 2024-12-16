@@ -3,7 +3,7 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# CCT6B
+[[_TOC_]]
 
 ## Overview
 
@@ -11,14 +11,7 @@ Due to [minimal support](CCT6B#representative-mutations) in the original primary
 
 <<Warn("The variants reported in this gene failed QC")>>
 
-## History
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2012-12-01 : Love : BL
-```
 
 ## Relevance tier by entity
 
@@ -69,5 +62,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/C
 [508](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/508_reports.html)
 [515](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/515_reports.html)
 [670](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/670_reports.html)
+
+[[include:mermaid_CCT6B.md]]
 
 ## References

@@ -3,20 +3,13 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# EML2
+[[_TOC_]]
 
 Due to [minimal support](EML2#representative-mutation) in the original primary data and very few mutations reported in subsequent studies, this gene is very unlikely to be relevant in BL. 
 
 <<Warn("The variants reported in this gene in BL failed QC")>>
 
-## History
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2012-12-01 : Love : BL
-```
 
 ## Relevance tier by entity
 
@@ -64,5 +57,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/E
 
 [1060](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/1060_reports.html)
 [1096](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/1096_reports.html)
+
+[[include:mermaid_EML2.md]]
 
 ## References

@@ -4,18 +4,9 @@ csl: 'NLM.csl'
 link-citations: true
 ---
 
-# EGR1
+[[_TOC_]]
 
-## History
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2012-08-27 : Rossi : MZL
-      2015-02-12 : Reichel : PMBL
-      2017-01-26 : Krysiak : FL
-```
 
 
 ## Relevance tier by entity
@@ -37,6 +28,8 @@ timeline
 |DLBCL|GAMBL Genome |3.571 |
 |FL|GAMBL Exome |3.152 |
 
+
+[[include:mermaid_EGR1.md]]
 
 ## References
 

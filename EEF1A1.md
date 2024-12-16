@@ -3,22 +3,13 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# EEF1A1
+[[_TOC_]]
 
 ## Overview
 Mutations in the EEF1A1 gene, which encodes the eukaryotic translation elongation factor 1A1, have been reported in DLBCL and FL.<sup>1</sup> This gene has some recurrent sites of mutations (hot spots). The mutation pattern in DLBCL and FL implies the preferential accumulation of *inactivating mutations*. Paradoxically, one study showed that EEF1A1 knock down reduced proliferation in vitro and in xenograft experiments.<sup>2</sup>
 
-## History
 Mutations in this gene were first described in DLBCL and FL in 2021 by Hübschmann et al.<sup>1</sup>
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2015-02-12 : Reichel : PMBL
-2018-05-01 : Chapuy : DLBCL
-2021-05-05 : Hubschmann : DLBCL
-```
 
 ## Relevance tier by entity
 
@@ -69,4 +60,6 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/E
 <!-- DLBCL: hubschmannMutationalMechanismsShaping2021b -->
 <!-- FL: hubschmannMutationalMechanismsShaping2021b -->
 <!-- PMBL: reichelFlowSortingExome2015a -->
+[[include:mermaid_EEF1A1.md]]
+
 ## References

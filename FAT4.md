@@ -3,17 +3,8 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# FAT4
+[[_TOC_]]
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2013-08-15 : Morin : DLBCL
-      2013-12-13 : Parry : MZL
-      2014-05-08 : Zhang : MCL
-```
 
 ## Relevance tier by entity
 
@@ -71,5 +62,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/F
 [RG077](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG077.html)
 [RG081](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG081.html)
 [RG111](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG111.html)
+
+[[include:mermaid_FAT4.md]]
 
 ## References

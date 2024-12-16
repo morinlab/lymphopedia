@@ -3,17 +3,10 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# CNOT2
+[[_TOC_]]
 
-## History
 Mutations in this gene were first described in DLBCL in 2021 by Hübschmann et al.<sup>1</sup>
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2021-05-05 : Hübschmann : DLBCL
-```
 
 ## Relevance tier by entity
 
@@ -56,6 +49,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/C
 [SP124984](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP124984.html)
 [SP116663](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP116663.html)
 [SP192997](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP192997.html)
+
+[[include:mermaid_CNOT2.md]]
 
 ## References
 

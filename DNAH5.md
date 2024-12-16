@@ -3,16 +3,8 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# DNAH5
+[[_TOC_]]
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2013-08-15 : Morin : DLBCL
-      2017-07-27 : Jallades : MZL
-```
 
 ## Relevance tier by entity
 
@@ -63,5 +55,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/D
 [RG027](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG027.html)
 [RG036](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG036.html)
 [RG130](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG130.html)
+
+[[include:mermaid_DNAH5.md]]
 
 ## References

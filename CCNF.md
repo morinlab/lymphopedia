@@ -3,16 +3,8 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# CCNF
+[[_TOC_]]
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2013-01-01 : Zhang : DLBCL
-      2015-10-15 : Abate : BL
-```
 
 ## Relevance tier by entity
 
@@ -49,5 +41,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/C
 ![](images/gene_expression/CCNF_by_pathology.svg)
 <!-- ORIGIN: abateDistinctViralMutational2015a -->
 <!-- BL: abateDistinctViralMutational2015a -->
+
+[[include:mermaid_CCNF.md]]
 
 ## References

@@ -3,20 +3,13 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# CASP8
+[[_TOC_]]
 
 ## Overview
 
 Caspase-8 mutations are relatively rare but have been documented in various non-Hodgkin lymphomas (NHLs). One study found no CASP8 mutations in gastrointestinal lymphomas, suggesting that these mutations may not be prevalent in all lymphoma types. Due to the rarity of these mutations, their role remains poorly understood. Loss of caspase-8 may promote lymphomagenesis by impairing cytokinesis and increasing chromosomal aberrations.
-## History
 Mutations in this gene were first described in DLBCL in 2017 by Reddy et al.<sup>1</sup>
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2017-10-10 : Reddy : DLBCL
-```
 
 ## Relevance tier by entity
 
@@ -54,6 +47,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/C
 
 ## CASP8 Expression
 ![](images/gene_expression/CASP8_by_pathology.svg)
+
+[[include:mermaid_CASP8.md]]
 
 ## References
 

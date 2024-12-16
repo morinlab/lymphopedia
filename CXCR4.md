@@ -3,27 +3,15 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# CXCR4
+[[_TOC_]]
 
 ## Overview
 
 CXCR4 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus. No notable hot spots have been described in this gene in the context of the cancers listed below. The mutation pattern in DLBCL implies the preferential accumulation of *inactivating mutations*.
 
-## History
 Mutations in this gene were first described in DLBCL in 2012 [@khodabakhshiRecurrentTargetsAberrant2012] in FL in 2021 [@hubschmannMutationalMechanismsShaping2021] and in BL in 2019.[@paneaWholeGenomeLandscape2019]
 
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2012-11-12 : Khodabakhshi : DLBCL
-2017-01-26 : Krysiak : FL
-2017-10-10 : Reddy : DLBCL
-2018-05-01 : Chapuy : DLBCL
-      2019-09-26 : Panea : BL
-2021-05-05 : Hubschmann : DLBCL
-```
 
 ## Relevance tier by entity
 
@@ -71,6 +59,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/C
 **Rating**
 &starf; &starf; &starf; &starf; &starf;
 
+
+[[include:mermaid_CXCR4.md]]
 
 ## References
 

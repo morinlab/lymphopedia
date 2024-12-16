@@ -3,14 +3,8 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# EWSR1
+[[_TOC_]]
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2020-07-30 : Pararajalingam : MCL
-```
 
 ## Relevance tier by entity
 
@@ -48,5 +42,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/E
 ![](images/gene_expression/EWSR1_by_pathology.svg)
 <!-- ORIGIN: pararajalingamCodingNoncodingDrivers2020 -->
 <!-- MCL: pararajalingamCodingNoncodingDrivers2020 -->
+
+[[include:mermaid_EWSR1.md]]
 
 ## References

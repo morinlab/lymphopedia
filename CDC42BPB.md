@@ -3,17 +3,10 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# CDC42BPB
+[[_TOC_]]
 
-## History
 Mutations in this gene were first described in FL in 2021 by Hübschmann et al.<sup>1</sup>
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2021-05-05 : Hübschmann : FL
-```
 
 ## Relevance tier by entity
 
@@ -34,6 +27,8 @@ timeline
 [SP193375](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP193375.html)
 [SP194134](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP194134.html)
 
+
+[[include:mermaid_CDC42BPB.md]]
 
 ## References
 

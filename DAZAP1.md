@@ -3,18 +3,11 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# DAZAP1
+[[_TOC_]]
 
 ## Overview
 This gene has some recurrent sites of mutations (hot spots). The mutation pattern in DLBCL and FL implies the preferential accumulation of *inactivating mutations* however the pattern is notable. These mutations often result in truncations affecting the DAZAP1 C-terminus, which are predicted to alter protein sub-cellular localization and disrupt protein-protein interactions.<sup>1</sup>
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2020-07-30 : Pararajalingam : MCL
-```
 
 ## Relevance tier by entity
 
@@ -62,6 +55,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/D
 
 ## DAZAP1 Expression
 ![](images/gene_expression/DAZAP1_by_pathology.svg)
+
+[[include:mermaid_DAZAP1.md]]
 
 ## References
 

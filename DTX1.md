@@ -3,24 +3,12 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# DTX1
+[[_TOC_]]
 
 ## Overview
 Mutations in the DTX1 gene, which encodes the E3 ubiquitin ligase Deltex 1, have been identified in various B-cell lymphomas, including diffuse large B-cell lymphoma (DLBCL). DTX1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus. These mutations are associated with the BN2 genetic subgroup of DLBCL. There are numerous mutation hotspots in this gene with some leading to a truncated protein. DTX1 functions as a negative regulator of the Notch signaling pathway. Some DTX1 mutations impair its function, thereby dysregulating Notch signaling, which is crucial for normal B-cell development and function.  *Due to [minimal support](DLGAP1#representative-mutation) in the original primary data and very few mutations reported in subsequent BL studies, this gene is very unlikely to be relevant in BL.* 
 
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2012-08-27 : Rossi : MZL
-      2012-12-01 : Love : BL
-      2013-01-01 : Zhang : DLBCL
-      2018-04-12 : Schmitz : DLBCL
-      2018-05-01 : Chapuy : DLBCL
-      2023-11-15 : Gomez : PMBL
-```
 
 ## Relevance tier by entity
 
@@ -129,6 +117,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/D
 [1059](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/1059_reports.html)
 [323](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/323_reports.html)
 [742](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/742_reports.html)
+
+[[include:mermaid_DTX1.md]]
 
 ## References
 

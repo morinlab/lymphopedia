@@ -4,16 +4,9 @@ csl: 'NLM.csl'
 link-citations: true
 ---
 
-# CD9B
+[[_TOC_]]
 
-## History
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2016-06-14 : van : MZL
-```
 
 
 ## Relevance tier by entity
@@ -28,6 +21,8 @@ timeline
 |Entity|source |frequency (%)|
 |:------:|:----:|:----:|
 
+
+[[include:mermaid_CD9B.md]]
 
 ## References
 

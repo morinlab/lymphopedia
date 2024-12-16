@@ -3,16 +3,9 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# CTSS
+[[_TOC_]]
 
-## History
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2020-05-05 : Bararia : FL
-```
 
 ## Relevance tier by entity
 
@@ -48,5 +41,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/C
 ![](images/gene_expression/CTSS_by_pathology.svg)
 <!-- ORIGIN: barariaCathepsinAlterationsInduce2020c -->
 <!-- FL: barariaCathepsinAlterationsInduce2020c -->
+
+[[include:mermaid_CTSS.md]]
 
 ## References

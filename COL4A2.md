@@ -3,7 +3,7 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# COL4A2
+[[_TOC_]]
 
 ## Overview
 
@@ -11,14 +11,7 @@ Due to [minimal support](COL4A2#representative-mutations) in the original primar
 
 <<Warn("The variants reported in this gene failed QC")>>
 
-## History
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2012-12-01 : Love : BL
-```
 
 ## Relevance tier by entity
 
@@ -69,5 +62,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/C
 [672](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/672_reports.html)
 [747](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/747_reports.html)
 
+
+[[include:mermaid_COL4A2.md]]
 
 ## References

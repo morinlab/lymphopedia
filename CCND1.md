@@ -3,15 +3,8 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# CCND1
+[[_TOC_]]
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2013-11-05 : Bea : MCL
-```
 
 ## Relevance tier by entity
 
@@ -48,5 +41,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/C
 ![](images/gene_expression/CCND1_by_pathology.svg)
 <!-- ORIGIN: beaLandscapeSomaticMutations2013 -->
 <!-- MCL: beaLandscapeSomaticMutations2013 -->
+
+[[include:mermaid_CCND1.md]]
 
 ## References

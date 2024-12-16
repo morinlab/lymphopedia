@@ -3,18 +3,11 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# EIF2C4
+[[_TOC_]]
 
 <<Warn("The variants reported in this gene in BL failed QC")>>
 
-## History
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2012-12-01 : Love : BL
-```
 
 ## Relevance tier by entity
 
@@ -51,5 +44,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/E
 [1063](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/1063_reports.html)
 [1091](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/1091_reports.html)
 [698](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/698_reports.html)
+
+[[include:mermaid_EIF2C4.md]]
 
 ## References

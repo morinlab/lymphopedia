@@ -3,16 +3,9 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# CCL4
+[[_TOC_]]
 
-## History
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2018-05-01 : Chapuy : DLBCL
-```
 
 ## Relevance tier by entity
 
@@ -52,5 +45,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/C
 ![](images/gene_expression/CCL4_by_pathology.svg)
 <!-- ORIGIN: chapuyMolecularSubtypesDiffuse2018b -->
 <!-- DLBCL: chapuyMolecularSubtypesDiffuse2018b -->
+
+[[include:mermaid_CCL4.md]]
 
 ## References

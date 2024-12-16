@@ -3,7 +3,7 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# CYP4F22
+[[_TOC_]]
 
 ## Overview
 
@@ -11,14 +11,7 @@ Due to [minimal support](CYP4F22#representative-mutation) in the original primar
 
 <<Warn("The variants reported in this gene failed QC")>>
 
-## History
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2012-12-01 : Love : BL
-```
 
 ## Relevance tier by entity
 
@@ -70,6 +63,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/C
 [699](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/699_reports.html)
 [747](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/747_reports.html)
 
+
+[[include:mermaid_CYP4F22.md]]
 
 ## References
 

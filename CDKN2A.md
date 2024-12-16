@@ -3,22 +3,11 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# CDKN2A
+[[_TOC_]]
 
 ## Overview
 Although CDKN2A aberrations are common in DLBCL, this gene is predominantly affected by copy number alterations. One study found that deletions of the CDKN2A locus occur in about one-third of DLBCL patients.<sup>1</sup> The mutation pattern in DLBCL and FL implies the preferential accumulation of *inactivating mutations*. This gene has some recurrent sites of mutations (hotspots) with the most common mutation causing a truncation at codon 80 (R80*). 
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-2013-08-15 : Morin : DLBCL
-2016-09-08 : Spina : MZL
-2017-10-10 : Reddy : DLBCL
-2018-04-12 : Schmitz : DLBCL
-2019-03-21 : Grande : BL
-2021-05-05 : Hubschmann : DLBCL
-```
 
 ## Relevance tier by entity
 
@@ -61,6 +50,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/C
 ## CDKN2A Expression
 
 ![](images/gene_expression/CDKN2A_by_pathology.svg)
+
+[[include:mermaid_CDKN2A.md]]
 
 ## References
 

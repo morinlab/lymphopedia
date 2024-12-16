@@ -3,20 +3,12 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# CDC73
+[[_TOC_]]
 
 <<Warn("The variants reported in this gene in DLBCL failed QC")>>
 
-## History
 Mutations in this gene were first described in BL in 2012 by Love et al<sup>1</sup> and subsequently in DLBCL by Reddy et al.<sup>2</sup> Subsequent exome and genome-wide studies of DLBCL and BL did not reproduce these observations. 
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2012-12-01 : Love : BL
-      2017-10-10 : Reddy : DLBCL
-```
 
 ## Relevance tier by entity
 
@@ -77,6 +69,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/C
 [1065](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/1065_reports.html)
 [1065](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/1065_reports.html)
 [847](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/847_reports.html)
+
+[[include:mermaid_CDC73.md]]
 
 ## References
 

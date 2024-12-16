@@ -3,23 +3,12 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# DDX3X
+[[_TOC_]]
 
 ## Overview
 Mutations in the DDX3X gene, which encodes an RNA helicase involved in various aspects of RNA metabolism, have significant implications in B-cell lymphomas, including BL, DLBCL, and other related malignancies and are particularly enriched within MYC-translocated tumors and those expressing the dark zone signature (DZsig).[@ennishiDoubleHitGeneExpression2019] 
 These mutations are predominantly loss-of-function (LOF) mutations, affecting the helicase domain of the protein. Missense mutations are predominantly found in male patients and rarely in females, hence showing a sex-specific pattern.[@gongSequentialInverseDysregulation2021]
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-2012-10-04 : Schmitz : BL 
-2017-10-10 : Reddy : DLBCL
-2018-04-12 : Schmitz : DLBCL
-2018-10-01 : Arthur : DLBCL
-2019-09-05 : Mottok : PMBL
-```
 
 ## Relevance tier by entity
 
@@ -63,6 +52,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/D
 <!-- BL: schmitzBurkittLymphomaPathogenesis2012 -->
 <!-- BL: schmitzBurkittLymphomaPathogenesis2012 -->
 <!-- PMBL: mottokIntegrativeGenomicAnalysis2019b -->
+
+[[include:mermaid_DDX3X.md]]
 
 ## References
 

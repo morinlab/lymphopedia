@@ -3,7 +3,7 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# CDH17
+[[_TOC_]]
 
 ## Overview
 
@@ -11,13 +11,6 @@ Due to [minimal support](CDH17#representative-mutations) in the original primary
 
 <<Warn("The variants reported in this gene failed QC")>>
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2012-12-01 : Love : BL
-```
 
 ## Relevance tier by entity
 
@@ -67,5 +60,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/C
 
 [1102](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/1102_reports.html)
 [322](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/322_reports.html)
+
+[[include:mermaid_CDH17.md]]
 
 ## References
