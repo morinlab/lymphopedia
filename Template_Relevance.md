@@ -1,8 +1,3 @@
----
-bibliography: 'morinlab.bib'
-csl: 'NLM.csl'
-link-citations: true
----
 
 ## Relevance tier by entity
 
