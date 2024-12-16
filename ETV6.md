@@ -44,15 +44,9 @@ Coding and non-coding mutations in this gene are associated with the MCD genetic
 | chr12 | 11803087 | G>A | S9N |
 | chr12 | 11803094 | G>A | K11= |
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ETV6_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ETV6_protein_hg38.html)
+[[include:browser_ETV6.md]]
 
-![](images/proteinpaint/ETV6_NM_001987.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ETV6.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ETV6_hg38.html)
-
-![](images/proteinpaint/ETV6.svg)
-
-## ETV6 Expression
+## Expression
 ![](images/gene_expression/ETV6_by_pathology.svg)
 <!-- ORIGIN: arthurGenomewideDiscoverySomatic2018 -->
 <!-- DLBCL: arthurGenomewideDiscoverySomatic2018 -->

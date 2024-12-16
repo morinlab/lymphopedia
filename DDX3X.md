@@ -37,15 +37,9 @@ These mutations are predominantly loss-of-function (LOF) mutations, affecting th
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/DDX3X_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/DDX3X_protein_hg38.html)
+[[include:browser_DDX3X.md]]
 
-![](images/proteinpaint/DDX3X_NM_001356.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/DDX3X.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/DDX3X_hg38.html)
-
-![](images/proteinpaint/DDX3X.svg)
-
-## DDX3X Expression
+## Expression
 ![](images/gene_expression/DDX3X_by_pathology.svg)
 <!-- ORIGIN: schmitzBurkittLymphomaPathogenesis2012 -->
 <!-- DLBCL: schmitzGeneticsPathogenesisDiffuse2018a -->

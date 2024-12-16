@@ -31,15 +31,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/HRAS_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/HRAS_protein_hg38.html)
+[[include:browser_HRAS.md]]
 
-![](images/proteinpaint/HRAS_NM_005343.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/HRAS.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/HRAS_hg38.html)
-
-![](images/proteinpaint/HRAS.svg)
-
-## HRAS Expression
+## Expression
 ![](images/gene_expression/HRAS_by_pathology.svg)
 <!-- ORIGIN: reddyGeneticFunctionalDrivers2017 -->
 <!-- MZL: jalladesExomeSequencingIdentifies2017 -->

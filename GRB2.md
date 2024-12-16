@@ -26,15 +26,9 @@ Further research is needed to elucidate its specific role in DLBCL.
 
 [[include:dnds_GRB2.md]]
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/GRB2_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/GRB2_protein_hg38.html)
+[[include:browser_GRB2.md]]
 
-![](images/proteinpaint/GRB2_NM_002086.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/GRB2.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/GRB2_hg38.html)
-
-![](images/proteinpaint/GRB2.svg)
-
-## GRB2 Expression
+## Expression
 ![](images/gene_expression/GRB2_by_pathology.svg)
 <!-- ORIGIN: pasqualucciAnalysisCodingGenome2011 -->
 <!-- DLBCL: pasqualucciAnalysisCodingGenome2011 -->

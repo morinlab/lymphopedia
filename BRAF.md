@@ -44,15 +44,9 @@ Although mutations have also been reported in BL, due to [minimal support](BRAF#
 | chr7 | 140453136 | A>T | V600E |
 | chr7 | 140453132 | T>G | K601N |
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/BRAF_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/BRAF_protein_hg38.html)
+[[include:browser_BRAF.md]]
 
-![](images/proteinpaint/BRAF_NM_004333.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/BRAF.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/BRAF_hg38.html)
-
-![](images/proteinpaint/BRAF.svg)
-
-## BRAF Expression
+## Expression
 ![](images/gene_expression/BRAF_by_pathology.svg)
 
 ## Representative Mutations

@@ -31,15 +31,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/MME_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/MME_protein_hg38.html)
+[[include:browser_MME.md]]
 
-![](images/proteinpaint/MME_NM_000902.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/MME.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/MME_hg38.html)
-
-![](images/proteinpaint/MME.svg)
-
-## MME Expression
+## Expression
 ![](images/gene_expression/MME_by_pathology.svg)
 <!-- ORIGIN: paneaWholeGenomeLandscape2019 -->
 <!-- BL: paneaWholeGenomeLandscape2019 -->

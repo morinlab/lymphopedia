@@ -30,15 +30,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/MAP4K4_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/MAP4K4_protein_hg38.html)
+[[include:browser_MAP4K4.md]]
 
-![](images/proteinpaint/MAP4K4_NM_004834.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/MAP4K4.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/MAP4K4_hg38.html)
-
-![](images/proteinpaint/MAP4K4.svg)
-
-## MAP4K4 Expression
+## Expression
 ![](images/gene_expression/MAP4K4_by_pathology.svg)
 <!-- ORIGIN: reddyGeneticFunctionalDrivers2017 -->
 <!-- DLBCL: reddyGeneticFunctionalDrivers2017 -->

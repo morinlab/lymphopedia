@@ -33,15 +33,9 @@ LCOR (Ligand Dependent Nuclear Receptor Corepressor) is involved in the regulati
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/LCOR_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/LCOR_protein_hg38.html)
+[[include:browser_LCOR.md]]
 
-![](images/proteinpaint/LCOR_NM_001346516.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/LCOR.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/LCOR_hg38.html)
-
-![](images/proteinpaint/LCOR_hg38.svg)
-
-## LCOR Expression
+## Expression
 ![](images/gene_expression/LCOR_by_pathology.svg)
 <!-- ORIGIN: 30275490 -->
 <!-- BL: 2 -->

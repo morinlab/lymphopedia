@@ -26,15 +26,9 @@ link-citations: true
 [[include:dnds_PCDHB11.md]]
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PCDHB11_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PCDHB11_protein_hg38.html)
+[[include:browser_PCDHB11.md]]
 
-![](images/proteinpaint/PCDHB11_NM_018931.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PCDHB11.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PCDHB11_hg38.html)
-
-![](images/proteinpaint/PCDHB11.svg)
-
-## PCDHB11 Expression
+## Expression
 ![](images/gene_expression/PCDHB11_by_pathology.svg)
 <!-- ORIGIN: morinMutationalStructuralAnalysis2013 -->
 <!-- DLBCL: morinMutationalStructuralAnalysis2013 -->

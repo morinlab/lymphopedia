@@ -29,15 +29,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/GRIN2A_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/GRIN2A_protein_hg38.html)
+[[include:browser_GRIN2A.md]]
 
-![](images/proteinpaint/GRIN2A_NM_001134407.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/GRIN2A.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/GRIN2A_hg38.html)
-
-![](images/proteinpaint/GRIN2A.svg)
-
-## GRIN2A Expression
+## Expression
 ![](images/gene_expression/GRIN2A_by_pathology.svg)
 <!-- ORIGIN: zhangGenomicLandscapeMantle2014 -->
 <!-- MCL: zhangGenomicLandscapeMantle2014 -->

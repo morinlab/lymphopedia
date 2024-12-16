@@ -28,15 +28,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/MSH6_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/MSH6_protein_hg38.html)
+[[include:browser_MSH6.md]]
 
-![](images/proteinpaint/MSH6_NM_000179.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/MSH6.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/MSH6_hg38.html)
-
-![](images/proteinpaint/MSH6.svg)
-
-## MSH6 Expression
+## Expression
 ![](images/gene_expression/MSH6_by_pathology.svg)
 <!-- ORIGIN: reddyGeneticFunctionalDrivers2017 -->
 <!-- DLBCL: reddyGeneticFunctionalDrivers2017 -->

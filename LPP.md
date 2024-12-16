@@ -42,15 +42,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/LPP_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/LPP_protein_hg38.html)
+[[include:browser_LPP.md]]
 
-![](images/proteinpaint/LPP_NM_005578.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/LPP.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/LPP_hg38.html)
-
-![](images/proteinpaint/LPP.svg)
-
-## LPP Expression
+## Expression
 ![](images/gene_expression/LPP_by_pathology.svg)
 <!-- ORIGIN: arthurGenomewideDiscoverySomatic2018 -->
 <!-- DLBCL: arthurGenomewideDiscoverySomatic2018 -->

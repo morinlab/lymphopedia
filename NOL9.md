@@ -28,15 +28,9 @@ link-citations: true
 | chr1 | 6614187 | G>C | L126V |
 | chr1 | 6614167 | C>A | Q132H |
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/NOL9_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/NOL9_protein_hg38.html)
+[[include:browser_NOL9.md]]
 
-![](images/proteinpaint/NOL9_NM_024654.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/NOL9.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/NOL9_hg38.html)
-
-![](images/proteinpaint/NOL9.svg)
-
-## NOL9 Expression
+## Expression
 ![](images/gene_expression/NOL9_by_pathology.svg)
 <!-- ORIGIN: spinaGeneticsNodalMarginal2016b -->
 <!-- DLBCL: schmitzGeneticsPathogenesisDiffuse2018a -->

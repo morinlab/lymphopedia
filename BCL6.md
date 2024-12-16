@@ -55,15 +55,9 @@ Although common, particularly in DLBCL, the function of many of these mutations 
 | chr3 | 187443345 | C>T | R594Q |
 | chr3 | 187443342 | A>T | I595N |
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/BCL6_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/BCL6_protein_hg38.html)
+[[include:browser_BCL6.md]]
 
-![](images/proteinpaint/BCL6_NM_001706.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/BCL6.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/BCL6_hg38.html)
-
-![](images/proteinpaint/BCL6.svg)
-
-## BCL6 Expression
+## Expression
 ![](images/gene_expression/BCL6_by_pathology.svg)
 <!-- ORIGIN: 21796119 -->
 <!-- BL: loveGeneticLandscapeMutations2012 -->

@@ -35,15 +35,9 @@ link-citations: true
 | chr3 | 49412898 | T>G | Y42S |
 | chr3 | 49412898 | T>C | Y42C |
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/RHOA_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/RHOA_protein_hg38.html)
+[[include:browser_RHOA.md]]
 
-![](images/proteinpaint/RHOA_NM_001664.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/RHOA.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/RHOA_hg38.html)
-
-![](images/proteinpaint/RHOA.svg)
-
-## RHOA Expression
+## Expression
 ![](images/gene_expression/RHOA_by_pathology.svg)
 <!-- ORIGIN: pasqualucciHypermutationMultipleProtooncogenes2001a -->
 <!-- DLBCL: pasqualucciHypermutationMultipleProtooncogenes2001a -->

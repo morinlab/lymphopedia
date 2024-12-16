@@ -29,15 +29,9 @@ link-citations: true
  | :---:| :---: | :--: | :---: |
 | chr3 | 38182641 | T>C | L265P |
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/MYD88_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/MYD88_protein_hg38.html)
+[[include:browser_MYD88.md]]
 
-![](images/proteinpaint/MYD88_NM_002468.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/MYD88.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/MYD88_hg38.html)
-
-![](images/proteinpaint/MYD88.svg)
-
-## MYD88 Expression
+## Expression
 ![](images/gene_expression/MYD88_by_pathology.svg)
 <!-- ORIGIN: yanBCRTLRSignaling2012a -->
 <!-- DLBCL: ngoOncogenicallyActiveMYD882011a -->

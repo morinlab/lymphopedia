@@ -34,15 +34,9 @@ link-citations: true
 | chrX | 140994066 | G>C | Q292H |
 | chrX | 140994280 | A>G | T364A |
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/MAGEC1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/MAGEC1_protein_hg38.html)
+[[include:browser_MAGEC1.md]]
 
-![](images/proteinpaint/MAGEC1_NM_005462.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/MAGEC1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/MAGEC1_hg38.html)
-
-![](images/proteinpaint/MAGEC1.svg)
-
-## MAGEC1 Expression
+## Expression
 ![](images/gene_expression/MAGEC1_by_pathology.svg)
 <!-- ORIGIN: russler-germainMutationsAssociatedProgression2023a -->
 <!-- FL: russler-germainMutationsAssociatedProgression2023b -->

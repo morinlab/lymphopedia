@@ -35,15 +35,9 @@ link-citations: true
 | chr11 | 36511893 | C>T | W355* |
 | chr11 | 36511892 | C>T | W355* |
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/TRAF6_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/TRAF6_protein_hg38.html)
+[[include:browser_TRAF6.md]]
 
-![](images/proteinpaint/TRAF6_NM_145803.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/TRAF6.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/TRAF6_hg38.html)
-
-![](images/proteinpaint/TRAF6.svg)
-
-## TRAF6 Expression
+## Expression
 ![](images/gene_expression/TRAF6_by_pathology.svg)
 <!-- ORIGIN: hubschmannMutationalMechanismsShaping2021b -->
 <!-- DLBCL: hubschmannMutationalMechanismsShaping2021b -->

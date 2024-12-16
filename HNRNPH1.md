@@ -39,15 +39,9 @@ The common HNRNPH1 mutations cause deregulated splicing and increased expression
  | :---:| :---: | :--: | :---: |
 | chr5 | 179046407 | C>A | G133= |
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/HNRNPH1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/HNRNPH1_protein_hg38.html)
+[[include:browser_HNRNPH1.md]]
 
-![](images/proteinpaint/HNRNPH1_NM_005520.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/HNRNPH1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/HNRNPH1_hg38.html)
-
-![](images/proteinpaint/HNRNPH1.svg)
-
-## HNRNPH1 Expression
+## Expression
 ![](images/gene_expression/HNRNPH1_by_pathology.svg)
 
 

@@ -30,15 +30,9 @@ Mutations in this gene were first described in DLBCL in 2013[@zhangGeneticHetero
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/SETD2_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/SETD2_protein_hg38.html)
+[[include:browser_SETD2.md]]
 
-![](images/proteinpaint/SETD2_NM_014159.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/SETD2.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/SETD2_hg38.html)
-
-![](images/proteinpaint/SETD2.svg)
-
-## SETD2 Expression
+## Expression
 ![](images/gene_expression/SETD2_by_pathology.svg)
 <!-- ORIGIN: zhangGeneticHeterogeneityDiffuse2013 -->
 <!-- DLBCL: zhangGeneticHeterogeneityDiffuse2013 -->

@@ -26,15 +26,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/NSD2_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/NSD2_protein_hg38.html)
+[[include:browser_NSD2.md]]
 
-![](images/proteinpaint/NSD2_NM_133330.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/NSD2.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/NSD2_hg38.html)
-
-![](images/proteinpaint/NSD2.svg)
-
-## NSD2 Expression
+## Expression
 ![](images/gene_expression/NSD2_by_pathology.svg)
 <!-- ORIGIN: beaLandscapeSomaticMutations2013 -->
 <!-- MCL: beaLandscapeSomaticMutations2013 -->

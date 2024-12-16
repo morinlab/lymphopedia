@@ -27,15 +27,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/HLA-DQB1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/HLA-DQB1_protein_hg38.html)
+[[include:browser_HLA-DQB1.md]]
 
-![](images/proteinpaint/HLA-DQB1_NM_002123.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/HLA-DQB1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/HLA-DQB1_hg38.html)
-
-![](images/proteinpaint/HLA-DQB1.svg)
-
-## HLA-DQB1 Expression
+## Expression
 ![](images/gene_expression/HLA-DQB1_by_pathology.svg)
 <!-- ORIGIN: burkhardtClinicalRelevanceMolecular2022b -->
 <!-- BL: burkhardtClinicalRelevanceMolecular2022b -->

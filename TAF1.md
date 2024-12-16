@@ -22,15 +22,9 @@ link-citations: true
 [[include:dnds_TAF1.md]]
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/TAF1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/TAF1_protein_hg38.html)
+[[include:browser_TAF1.md]]
 
-![](images/proteinpaint/TAF1_NM_004606.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/TAF1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/TAF1_hg38.html)
-
-![](images/proteinpaint/TAF1.svg)
-
-## TAF1 Expression
+## Expression
 ![](images/gene_expression/TAF1_by_pathology.svg)
 <!-- ORIGIN: morinMutationalStructuralAnalysis2013 -->
 <!-- MZL: spinaGeneticsNodalMarginal2016b -->

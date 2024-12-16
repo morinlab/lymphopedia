@@ -56,15 +56,9 @@ Combination therapies including EZH2 inhibitors are also under exploration for D
 |chr7|148506437|GC>AA|A692L|
 |chr7|148506437|G>A|A692V|
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/EZH2_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/EZH2_protein_hg38.html)
+[[include:browser_EZH2.md]]
 
-![](images/proteinpaint/EZH2_NM_001203247.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/EZH2.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/EZH2_hg38.html)
-
-![](images/proteinpaint/EZH2.svg)
-
-## EZH2 Expression
+## Expression
 ![](images/gene_expression/EZH2_by_pathology.svg)
 
 ## Representative Mutations

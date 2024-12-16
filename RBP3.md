@@ -28,15 +28,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/RBP3_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/RBP3_protein_hg38.html)
+[[include:browser_RBP3.md]]
 
-![](images/proteinpaint/RBP3_NM_002900.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/RBP3.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/RBP3_hg38.html)
-
-![](images/proteinpaint/RBP3.svg)
-
-## RBP3 Expression
+## Expression
 ![](images/gene_expression/RBP3_by_pathology.svg)
 <!-- ORIGIN: loveGeneticLandscapeMutations2012 -->
 <!-- BL: loveGeneticLandscapeMutations2012 -->

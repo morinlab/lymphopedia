@@ -29,15 +29,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/SRRM2_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/SRRM2_protein_hg38.html)
+[[include:browser_SRRM2.md]]
 
-![](images/proteinpaint/SRRM2_NM_016333.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/SRRM2.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/SRRM2_hg38.html)
-
-![](images/proteinpaint/SRRM2.svg)
-
-## SRRM2 Expression
+## Expression
 ![](images/gene_expression/SRRM2_by_pathology.svg)
 <!-- ORIGIN: morinMutationalStructuralAnalysis2013 -->
 <!-- DLBCL: morinMutationalStructuralAnalysis2013 -->

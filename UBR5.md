@@ -34,15 +34,9 @@ Mutations in this gene were first described in DLBCL in 2013[@zhangGeneticHetero
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/UBR5_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/UBR5_protein_hg38.html)
+[[include:browser_UBR5.md]]
 
-![](images/proteinpaint/UBR5_NM_015902.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/UBR5.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/UBR5_hg38.html)
-
-![](images/proteinpaint/UBR5.svg)
-
-## UBR5 Expression
+## Expression
 ![](images/gene_expression/UBR5_by_pathology.svg)
 <!-- ORIGIN: zhangGeneticHeterogeneityDiffuse2013 -->
 <!-- DLBCL: zhangGeneticHeterogeneityDiffuse2013 -->

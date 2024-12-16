@@ -46,15 +46,9 @@ There are a few mutation hotspots in this gene. The functional role of mutations
 | chr6 | 393360 | C>G | L70V |
 | chr6 | 393360 | C>T | L70F |
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/IRF4_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/IRF4_protein_hg38.html)
+[[include:browser_IRF4.md]]
 
-![](images/proteinpaint/IRF4_NM_002460.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/IRF4.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/IRF4_hg38.html)
-
-![](images/proteinpaint/IRF4.svg)
-
-# IRF4 Expression
+## Expression
 ![](images/gene_expression/IRF4_by_pathology.svg)
 
 [[include:mermaid_IRF4.md]]

@@ -25,15 +25,9 @@ link-citations: true
 [[include:dnds_CCNF.md]]
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CCNF_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CCNF_protein_hg38.html)
+[[include:browser_CCNF.md]]
 
-![](images/proteinpaint/CCNF_NM_001761.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CCNF.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CCNF_hg38.html)
-
-![](images/proteinpaint/CCNF.svg)
-
-## CCNF Expression
+## Expression
 ![](images/gene_expression/CCNF_by_pathology.svg)
 <!-- ORIGIN: abateDistinctViralMutational2015a -->
 <!-- BL: abateDistinctViralMutational2015a -->

@@ -27,15 +27,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/GTSE1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/GTSE1_protein_hg38.html)
+[[include:browser_GTSE1.md]]
 
-![](images/proteinpaint/GTSE1_NM_016426.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/GTSE1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/GTSE1_hg38.html)
-
-![](images/proteinpaint/GTSE1.svg)
-
-## GTSE1 Expression
+## Expression
 ![](images/gene_expression/GTSE1_by_pathology.svg)
 <!-- ORIGIN: schmitzBurkittLymphomaPathogenesis2012 -->
 <!-- BL: schmitzBurkittLymphomaPathogenesis2012 -->

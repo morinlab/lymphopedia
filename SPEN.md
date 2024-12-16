@@ -30,15 +30,9 @@ link-citations: true
 | chr1 | 16256846 | C>T | R1371* |
 | chr1 | 16261814 | C>T | R3027* |
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/SPEN_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/SPEN_protein_hg38.html)
+[[include:browser_SPEN.md]]
 
-![](images/proteinpaint/SPEN_NM_015001.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/SPEN.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/SPEN_hg38.html)
-
-![](images/proteinpaint/SPEN.svg)
-
-## SPEN Expression
+## Expression
 ![](images/gene_expression/SPEN_by_pathology.svg)
 <!-- ORIGIN: rossiCodingGenomeSplenic2012c -->
 <!-- DLBCL: rossiCodingGenomeSplenic2012c -->

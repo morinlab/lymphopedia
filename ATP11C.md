@@ -29,15 +29,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ATP11C_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ATP11C_protein_hg38.html)
+[[include:browser_ATP11C.md]]
 
-![](images/proteinpaint/ATP11C_NM_173694.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ATP11C.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ATP11C_hg38.html)
-
-![](images/proteinpaint/ATP11C.svg)
-
-## ATP11C Expression
+## Expression
 ![](images/gene_expression/ATP11C_by_pathology.svg)
 <!-- ORIGIN: zhangGenomicLandscapeMantle2014 -->
 <!-- MCL: zhangGenomicLandscapeMantle2014 -->

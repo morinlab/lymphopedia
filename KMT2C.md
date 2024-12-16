@@ -28,15 +28,9 @@ This gene has been reported to be recurrently mutated in DLBCL. The rate of muta
 
 [[include:dnds_KMT2C.md]]
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/KMT2C_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/KMT2C_protein_hg38.html)
+[[include:browser_KMT2C.md]]
 
-![](images/proteinpaint/KMT2C_NM_170606.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/KMT2C.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/KMT2C_hg38.html)
-
-![](images/proteinpaint/KMT2C.svg)
-
-## KMT2C Expression
+## Expression
 ![](images/gene_expression/KMT2C_by_pathology.svg)
 <!-- ORIGIN: zhangGeneticHeterogeneityDiffuse2013 -->
 <!-- BL: zhouSporadicEndemicBurkitt2019 -->

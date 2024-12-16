@@ -22,15 +22,9 @@ link-citations: true
 
 [[include:dnds_PTEN.md]]
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PTEN_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PTEN_protein_hg38.html)
+[[include:browser_PTEN.md]]
 
-![](images/proteinpaint/PTEN_NM_000314.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PTEN.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PTEN_hg38.html)
-
-![](images/proteinpaint/PTEN.svg)
-
-## PTEN Expression
+## Expression
 ![](images/gene_expression/PTEN_by_pathology.svg)
 <!-- ORIGIN: loveGeneticLandscapeMutations2012 -->
 <!-- BL: loveGeneticLandscapeMutations2012 -->

@@ -30,19 +30,5 @@ link-citations: true
 |:--------:|:----------:|:---------:|:-------------------------------------------------------------------------------------------:|:------------------:|
 |chr1    |245023502 |245029083|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr1%3A245023502%2D245029083)|NA                |
 
-View coding variants in ProteinPaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/HNRNPU_protein.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/HNRNPU_protein_hg38.html)
+[[include:browser_HNRNPU.md]]
 
-![](images/proteinpaint/HNRNPU_NM_031844.svg)
-
-View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/HNRNPU.html)  or [hg38](https://www.bcgsc.ca/downloads/morinlab/GAMBL/test/genes/HNRNPU_hg38.html)
-
-![](images/proteinpaint/HNRNPU.svg)
-
-
-[[include:mermaid_HNRNPU.md]]
-
-## References
-
-<!-- ORIGIN: reddyGeneticFunctionalDrivers2017 -->
-<!-- DLBCL: reddyGeneticFunctionalDrivers2017 -->
-<!-- BL: paneaWholeGenomeLandscape2019 -->

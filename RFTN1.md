@@ -35,15 +35,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/RFTN1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/RFTN1_protein_hg38.html)
+[[include:browser_RFTN1.md]]
 
-![](images/proteinpaint/RFTN1_NM_015150.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/RFTN1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/RFTN1_hg38.html)
-
-![](images/proteinpaint/RFTN1.svg)
-
-## RFTN1 Expression
+## Expression
 ![](images/gene_expression/RFTN1_by_pathology.svg)
 <!-- ORIGIN: arthurGenomewideDiscoverySomatic2018 -->
 <!-- PMBL: dunsCharacterizationDLBCLPMBL2021b -->

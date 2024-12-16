@@ -28,15 +28,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/OGDHL_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/OGDHL_protein_hg38.html)
+[[include:browser_OGDHL.md]]
 
-![](images/proteinpaint/OGDHL_NM_018245.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/OGDHL.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/OGDHL_hg38.html)
-
-![](images/proteinpaint/OGDHL.svg)
-
-## OGDHL Expression
+## Expression
 ![](images/gene_expression/OGDHL_by_pathology.svg)
 <!-- ORIGIN: zhangGenomicLandscapeMantle2014 -->
 <!-- MCL: zhangGenomicLandscapeMantle2014 -->

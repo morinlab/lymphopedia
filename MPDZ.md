@@ -29,15 +29,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/MPDZ_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/MPDZ_protein_hg38.html)
+[[include:browser_MPDZ.md]]
 
-![](images/proteinpaint/MPDZ_NM_003829.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/MPDZ.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/MPDZ_hg38.html)
-
-![](images/proteinpaint/MPDZ.svg)
-
-## MPDZ Expression
+## Expression
 ![](images/gene_expression/MPDZ_by_pathology.svg)
 <!-- ORIGIN: morinMutationalStructuralAnalysis2013 -->
 <!-- DLBCL: morinMutationalStructuralAnalysis2013 -->

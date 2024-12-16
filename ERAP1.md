@@ -28,15 +28,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ERAP1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ERAP1_protein_hg38.html)
+[[include:browser_ERAP1.md]]
 
-![](images/proteinpaint/ERAP1_NM_016442.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ERAP1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ERAP1_hg38.html)
-
-![](images/proteinpaint/ERAP1.svg)
-
-## ERAP1 Expression
+## Expression
 ![](images/gene_expression/ERAP1_by_pathology.svg)
 <!-- ORIGIN: burkhardtClinicalRelevanceMolecular2022b -->
 <!-- BL: burkhardtClinicalRelevanceMolecular2022b -->

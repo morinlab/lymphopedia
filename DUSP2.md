@@ -55,15 +55,9 @@ The mutation pattern in DLBCL implies the preferential accumulation of *inactiva
 | chr2 | 96810582 | C>T | C143Y |
 | chr2 | 96810574 | C>T | A146T |
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/DUSP2_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/DUSP2_protein_hg38.html)
+[[include:browser_DUSP2.md]]
 
-![](images/proteinpaint/DUSP2_NM_004418.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/DUSP2.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/DUSP2_hg38.html)
-
-![](images/proteinpaint/DUSP2.svg)
-
-## DUSP2 Expression
+## Expression
 ![](images/gene_expression/DUSP2_by_pathology.svg)
 <!-- ORIGIN: morinMutationalStructuralAnalysis2013 -->
 <!-- PMBL: dunsCharacterizationDLBCLPMBL2021b -->

@@ -38,15 +38,9 @@ Mutations in this gene were first described in DLBCL in 2013[@zhangGeneticHetero
  | :---:| :---: | :--: | :---: |
 | chr1 | 65301158 | C>A | G1097V |
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/JAK1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/JAK1_protein_hg38.html)
+[[include:browser_JAK1.md]]
 
-![](images/proteinpaint/JAK1_NM_002227.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/JAK1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/JAK1_hg38.html)
-
-![](images/proteinpaint/JAK1.svg)
-
-## JAK1 Expression
+## Expression
 ![](images/gene_expression/JAK1_by_pathology.svg)
 <!-- ORIGIN: zhangGeneticHeterogeneityDiffuse2013 -->
 <!-- DLBCL: zhangGeneticHeterogeneityDiffuse2013 -->

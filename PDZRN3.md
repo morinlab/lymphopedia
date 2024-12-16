@@ -31,15 +31,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PDZRN3_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PDZRN3_protein_hg38.html)
+[[include:browser_PDZRN3.md]]
 
-![](images/proteinpaint/PDZRN3_NM_015009.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PDZRN3.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PDZRN3_hg38.html)
-
-![](images/proteinpaint/PDZRN3.svg)
-
-## PDZRN3 Expression
+## Expression
 ![](images/gene_expression/PDZRN3_by_pathology.svg)
 <!-- ORIGIN: paneaWholeGenomeLandscape2019 -->
 <!-- BL: paneaWholeGenomeLandscape2019 -->

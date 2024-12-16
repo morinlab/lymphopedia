@@ -26,15 +26,9 @@ NFKBIA encodes IκBα, an inhibitor of NF-κB, which regulates the NF-κB signal
 
 [[include:dnds_NFKBIA.md]]
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/NFKBIA_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/NFKBIA_protein_hg38.html)
+[[include:browser_NFKBIA.md]]
 
-![](images/proteinpaint/NFKBIA_NM_020529.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/NFKBIA.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/NFKBIA_hg38.html)
-
-![](images/proteinpaint/NFKBIA.svg)
-
-## NFKBIA Expression
+## Expression
 ![](images/gene_expression/NFKBIA_by_pathology.svg)
 
 

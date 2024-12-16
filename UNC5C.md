@@ -28,15 +28,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/UNC5C_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/UNC5C_protein_hg38.html)
+[[include:browser_UNC5C.md]]
 
-![](images/proteinpaint/UNC5C_NM_003728.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/UNC5C.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/UNC5C_hg38.html)
-
-![](images/proteinpaint/UNC5C.svg)
-
-## UNC5C Expression
+## Expression
 ![](images/gene_expression/UNC5C_by_pathology.svg)
 <!-- ORIGIN: Unknown -->
 

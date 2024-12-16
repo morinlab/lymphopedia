@@ -29,15 +29,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CCL4_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CCL4_protein_hg38.html)
+[[include:browser_CCL4.md]]
 
-![](images/proteinpaint/CCL4_NM_002984.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CCL4.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CCL4_hg38.html)
-
-![](images/proteinpaint/CCL4.svg)
-
-## CCL4 Expression
+## Expression
 ![](images/gene_expression/CCL4_by_pathology.svg)
 <!-- ORIGIN: chapuyMolecularSubtypesDiffuse2018b -->
 <!-- DLBCL: chapuyMolecularSubtypesDiffuse2018b -->

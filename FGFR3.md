@@ -33,15 +33,9 @@ Due to [minimal support](FGFR3#representative-mutation) in the original primary 
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/FGFR3_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/FGFR3_protein_hg38.html)
+[[include:browser_FGFR3.md]]
 
-![](images/proteinpaint/FGFR3_NM_000142.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/FGFR3.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/FGFR3_hg38.html)
-
-![](images/proteinpaint/FGFR3.svg)
-
-## FGFR3 Expression
+## Expression
 ![](images/gene_expression/FGFR3_by_pathology.svg)
 <!-- ORIGIN: loveGeneticLandscapeMutations2012 -->
 <!-- BL: loveGeneticLandscapeMutations2012 -->

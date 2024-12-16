@@ -25,15 +25,9 @@ Mutations in this gene were first described in FL in 2021 by Hübschmann et al.<
 [[include:dnds_JUP.md]]
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/JUP_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/JUP_protein_hg38.html)
+[[include:browser_JUP.md]]
 
-![](images/proteinpaint/JUP_NM_002230.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/JUP.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/JUP_hg38.html)
-
-![](images/proteinpaint/JUP.svg)
-
-## JUP Expression
+## Expression
 ![](images/gene_expression/JUP_by_pathology.svg)
 
 ## All Mutations

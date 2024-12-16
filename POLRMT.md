@@ -27,15 +27,9 @@ link-citations: true
 [[include:dnds_POLRMT.md]]
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/POLRMT_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/POLRMT_protein_hg38.html)
+[[include:browser_POLRMT.md]]
 
-![](images/proteinpaint/POLRMT_NM_005035.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/POLRMT.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/POLRMT_hg38.html)
-
-![](images/proteinpaint/POLRMT.svg)
-
-## POLRMT Expression
+## Expression
 ![](images/gene_expression/POLRMT_by_pathology.svg)
 <!-- ORIGIN: loveGeneticLandscapeMutations2012 -->
 <!-- BL: loveGeneticLandscapeMutations2012 -->

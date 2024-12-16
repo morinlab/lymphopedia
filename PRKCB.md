@@ -27,15 +27,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PRKCB_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PRKCB_protein_hg38.html)
+[[include:browser_PRKCB.md]]
 
-![](images/proteinpaint/PRKCB_NM_212535.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PRKCB.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PRKCB_hg38.html)
-
-![](images/proteinpaint/PRKCB.svg)
-
-## PRKCB Expression
+## Expression
 ![](images/gene_expression/PRKCB_by_pathology.svg)
 <!-- ORIGIN: morinMutationalStructuralAnalysis2013 -->
 <!-- DLBCL: morinMutationalStructuralAnalysis2013 -->

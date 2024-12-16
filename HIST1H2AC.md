@@ -59,13 +59,9 @@ This gene encodes the H2A protein, one of the core proteins comprising nucleosom
 | chr6 | 26124819 | A>G | K120R |
 | chr6 | 26124832 | CC>TT | H125Y |
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/HIST1H2AC_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/HIST1H2AC_protein_hg38.html)
+[[include:browser_HIST1H2AC.md]]
 
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/HIST1H2AC.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/HIST1H2AC_hg38.html)
-
-![](images/proteinpaint/HIST1H2AC.svg)
-
-## HIST1H2AC Expression
+## Expression
 ![](images/gene_expression/HIST1H2AC_by_pathology.svg)
 <!-- ORIGIN: morinMutationalStructuralAnalysis2013 -->
 <!-- FL: krysiakRecurrentSomaticMutations2017b -->

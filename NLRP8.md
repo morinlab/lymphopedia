@@ -27,15 +27,9 @@ link-citations: true
 [[include:dnds_NLRP8.md]]
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/NLRP8_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/NLRP8_protein_hg38.html)
+[[include:browser_NLRP8.md]]
 
-![](images/proteinpaint/NLRP8_NM_176811.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/NLRP8.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/NLRP8_hg38.html)
-
-![](images/proteinpaint/NLRP8.svg)
-
-## NLRP8 Expression
+## Expression
 ![](images/gene_expression/NLRP8_by_pathology.svg)
 <!-- ORIGIN: chapuyMolecularSubtypesDiffuse2018b -->
 <!-- DLBCL: chapuyMolecularSubtypesDiffuse2018b -->

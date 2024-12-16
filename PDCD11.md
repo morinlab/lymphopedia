@@ -26,15 +26,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PDCD11_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PDCD11_protein_hg38.html)
+[[include:browser_PDCD11.md]]
 
-![](images/proteinpaint/PDCD11_NM_014976.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PDCD11.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PDCD11_hg38.html)
-
-![](images/proteinpaint/PDCD11.svg)
-
-## PDCD11 Expression
+## Expression
 ![](images/gene_expression/PDCD11_by_pathology.svg)
 <!-- ORIGIN: schmitzBurkittLymphomaPathogenesis2012 -->
 <!-- BL: schmitzBurkittLymphomaPathogenesis2012 -->

@@ -32,15 +32,9 @@ PIM2 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) 
 |chrX    |48774756  |48776255|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chrX%3A48774756%2D48776255)|active_promoter   |
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PIM2_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PIM2_protein_hg38.html)
+[[include:browser_PIM2.md]]
 
-![](images/proteinpaint/PIM2_NM_006875.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PIM2.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PIM2_hg38.html)
-
-![](images/proteinpaint/PIM2.svg)
-
-## PIM2 Expression
+## Expression
 ![](images/gene_expression/PIM2_by_pathology.svg)
 <!-- ORIGIN: reichelFlowSortingExome2015a -->
 <!-- DLBCL: arthurGenomewideDiscoverySomatic2018 -->

@@ -24,14 +24,9 @@
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/RPL22_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/RPL22_protein_hg38.html)
+[[include:browser_RPL22.md]]
 
-![image](images/proteinpaint/RPL22_NM_000983.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/RPL22.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/RPL22_hg38.html)
-
-![image](images/proteinpaint/RPL22.svg)
-## RPL22 Expression
+## Expression
 ![image](images/gene_expression/RPL22_by_pathology.svg)
 <!-- ORIGIN:  -->
 <!-- BL: 2 -->

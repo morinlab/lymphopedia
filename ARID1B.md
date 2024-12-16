@@ -32,15 +32,9 @@ link-citations: true
 [[include:dnds_ARID1B.md]]
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ARID1B_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ARID1B_protein_hg38.html)
+[[include:browser_ARID1B.md]]
 
-![](images/proteinpaint/ARID1B_NM_017519.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ARID1B.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ARID1B_hg38.html)
-
-![](images/proteinpaint/ARID1B.svg)
-
-## ARID1B Expression
+## Expression
 ![](images/gene_expression/ARID1B_by_pathology.svg)
 
 ## All Mutations

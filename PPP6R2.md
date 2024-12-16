@@ -27,15 +27,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PPP6R2_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PPP6R2_protein_hg38.html)
+[[include:browser_PPP6R2.md]]
 
-![](images/proteinpaint/PPP6R2_NM_014678.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PPP6R2.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PPP6R2_hg38.html)
-
-![](images/proteinpaint/PPP6R2.svg)
-
-## PPP6R2 Expression
+## Expression
 ![](images/gene_expression/PPP6R2_by_pathology.svg)
 <!-- ORIGIN: burkhardtClinicalRelevanceMolecular2022b -->
 <!-- BL: burkhardtClinicalRelevanceMolecular2022b -->

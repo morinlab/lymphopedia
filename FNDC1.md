@@ -28,15 +28,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/FNDC1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/FNDC1_protein_hg38.html)
+[[include:browser_FNDC1.md]]
 
-![](images/proteinpaint/FNDC1_NM_032532.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/FNDC1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/FNDC1_hg38.html)
-
-![](images/proteinpaint/FNDC1.svg)
-
-## FNDC1 Expression
+## Expression
 ![](images/gene_expression/FNDC1_by_pathology.svg)
 <!-- ORIGIN: morinMutationalStructuralAnalysis2013 -->
 <!-- DLBCL: morinMutationalStructuralAnalysis2013 -->

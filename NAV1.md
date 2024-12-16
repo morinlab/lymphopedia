@@ -27,15 +27,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/NAV1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/NAV1_protein_hg38.html)
+[[include:browser_NAV1.md]]
 
-![](images/proteinpaint/NAV1_NM_020443.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/NAV1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/NAV1_hg38.html)
-
-![](images/proteinpaint/NAV1.svg)
-
-## NAV1 Expression
+## Expression
 ![](images/gene_expression/NAV1_by_pathology.svg)
 <!-- ORIGIN: chapuyMolecularSubtypesDiffuse2018b -->
 <!-- DLBCL: chapuyMolecularSubtypesDiffuse2018b -->

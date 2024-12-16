@@ -29,15 +29,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/MRGPRF_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/MRGPRF_protein_hg38.html)
+[[include:browser_MRGPRF.md]]
 
-![](images/proteinpaint/MRGPRF_NM_001098515.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/MRGPRF.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/MRGPRF_hg38.html)
-
-![](images/proteinpaint/MRGPRF.svg)
-
-## MRGPRF Expression
+## Expression
 ![](images/gene_expression/MRGPRF_by_pathology.svg)
 <!-- ORIGIN: zhangGenomicLandscapeMantle2014 -->
 <!-- MCL: zhangGenomicLandscapeMantle2014 -->

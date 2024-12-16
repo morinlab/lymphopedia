@@ -33,15 +33,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/KLHL21_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/KLHL21_protein_hg38.html)
+[[include:browser_KLHL21.md]]
 
-![](images/proteinpaint/KLHL21_NM_014851.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/KLHL21.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/KLHL21_hg38.html)
-
-![](images/proteinpaint/KLHL21.svg)
-
-## KLHL21 Expression
+## Expression
 ![](images/gene_expression/KLHL21_by_pathology.svg)
 <!-- ORIGIN: schmitzGeneticsPathogenesisDiffuse2018 -->
 <!-- DLBCL: schmitzGeneticsPathogenesisDiffuse2018 -->

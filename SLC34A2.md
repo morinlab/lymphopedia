@@ -26,15 +26,9 @@ link-citations: true
 [[include:dnds_SLC34A2.md]]
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/SLC34A2_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/SLC34A2_protein_hg38.html)
+[[include:browser_SLC34A2.md]]
 
-![](images/proteinpaint/SLC34A2_NM_006424.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/SLC34A2.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/SLC34A2_hg38.html)
-
-![](images/proteinpaint/SLC34A2.svg)
-
-## SLC34A2 Expression
+## Expression
 ![](images/gene_expression/SLC34A2_by_pathology.svg)
 <!-- ORIGIN: hubschmannMutationalMechanismsShaping2021b -->
 <!-- DLBCL: hubschmannMutationalMechanismsShaping2021b -->

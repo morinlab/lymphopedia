@@ -29,15 +29,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/COQ7_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/COQ7_protein_hg38.html)
+[[include:browser_COQ7.md]]
 
-![](images/proteinpaint/COQ7_NM_016138.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/COQ7.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/COQ7_hg38.html)
-
-![](images/proteinpaint/COQ7.svg)
-
-## COQ7 Expression
+## Expression
 ![](images/gene_expression/COQ7_by_pathology.svg)
 <!-- ORIGIN: chapuyMolecularSubtypesDiffuse2018b -->
 <!-- DLBCL: chapuyMolecularSubtypesDiffuse2018b -->

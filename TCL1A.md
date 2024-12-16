@@ -31,15 +31,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/TCL1A_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/TCL1A_protein_hg38.html)
+[[include:browser_TCL1A.md]]
 
-![](images/proteinpaint/TCL1A_NM_021966.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/TCL1A.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/TCL1A_hg38.html)
-
-![](images/proteinpaint/TCL1A.svg)
-
-## TCL1A Expression
+## Expression
 ![](images/gene_expression/TCL1A_by_pathology.svg)
 
 [[include:mermaid_TCL1A.md]]

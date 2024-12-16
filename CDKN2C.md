@@ -27,15 +27,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CDKN2C_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CDKN2C_protein_hg38.html)
+[[include:browser_CDKN2C.md]]
 
-![](images/proteinpaint/CDKN2C_NM_001262.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CDKN2C.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CDKN2C_hg38.html)
-
-![](images/proteinpaint/CDKN2C.svg)
-
-## CDKN2C Expression
+## Expression
 ![](images/gene_expression/CDKN2C_by_pathology.svg)
 <!-- ORIGIN: thomasGeneticSubgroupsInform2023 -->
 <!-- BL: thomasGeneticSubgroupsInform2023 -->

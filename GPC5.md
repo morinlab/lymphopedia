@@ -28,15 +28,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/GPC5_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/GPC5_protein_hg38.html)
+[[include:browser_GPC5.md]]
 
-![](images/proteinpaint/GPC5_NM_004466.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/GPC5.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/GPC5_hg38.html)
-
-![](images/proteinpaint/GPC5.svg)
-
-## GPC5 Expression
+## Expression
 ![](images/gene_expression/GPC5_by_pathology.svg)
 <!-- ORIGIN: schmitzGeneticsPathogenesisDiffuse2018a -->
 <!-- DLBCL: schmitzGeneticsPathogenesisDiffuse2018a -->

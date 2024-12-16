@@ -55,15 +55,9 @@ Mutations in the FOXO1 gene, which encodes a member of the forkhead family of tr
 | chr13 | 41240273 | G>A | P26L |
 | chr13 | 41240271 | G>C | L27V |
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/FOXO1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/FOXO1_protein_hg38.html)
+[[include:browser_FOXO1.md]]
 
-![](images/proteinpaint/FOXO1_NM_002015.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/FOXO1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/FOXO1_hg38.html)
-
-![](images/proteinpaint/FOXO1.svg)
-
-## FOXO1 Expression
+## Expression
 ![](images/gene_expression/FOXO1_by_pathology.svg)
 
 [[include:mermaid_FOXO1.md]]

@@ -33,15 +33,9 @@ Due to [minimal support](BRD4#representative-mutation) in the original primary d
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/BRD4_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/BRD4_protein_hg38.html)
+[[include:browser_BRD4.md]]
 
-![](images/proteinpaint/BRD4_NM_058243.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/BRD4.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/BRD4_hg38.html)
-
-![](images/proteinpaint/BRD4.svg)
-
-## BRD4 Expression
+## Expression
 ![](images/gene_expression/BRD4_by_pathology.svg)
 <!-- ORIGIN: loveGeneticLandscapeMutations2012 -->
 <!-- BL: loveGeneticLandscapeMutations2012 -->

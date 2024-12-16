@@ -31,15 +31,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PABPC4L_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PABPC4L_protein_hg38.html)
+[[include:browser_PABPC4L.md]]
 
-![](images/proteinpaint/PABPC4L_NM_001114734.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PABPC4L.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PABPC4L_hg38.html)
-
-![](images/proteinpaint/PABPC4L.svg)
-
-## PABPC4L Expression
+## Expression
 ![](images/gene_expression/PABPC4L_by_pathology.svg)
 <!-- ORIGIN: paneaWholeGenomeLandscape2019 -->
 <!-- BL: paneaWholeGenomeLandscape2019 -->

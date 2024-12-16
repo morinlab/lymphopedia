@@ -37,15 +37,9 @@ link-citations: true
 |chr20   |49120482  |49140477|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr20%3A49120482%2D49140477)|active_promoter   |
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PTPN1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PTPN1_protein_hg38.html)
+[[include:browser_PTPN1.md]]
 
-![](images/proteinpaint/PTPN1_NM_002827.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PTPN1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PTPN1_hg38.html)
-
-![](images/proteinpaint/PTPN1.svg)
-
-## PTPN1 Expression
+## Expression
 ![](images/gene_expression/PTPN1_by_pathology.svg)
 <!-- ORIGIN: gunawardanaRecurrentSomaticMutations2014c -->
 <!-- PMBL: gunawardanaRecurrentSomaticMutations2014c -->

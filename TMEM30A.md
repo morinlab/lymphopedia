@@ -31,16 +31,9 @@ link-citations: true
 | chr6 | 75965985 | G>A | R307* |
 | chr6 | 75965975 | A>T | M310K |
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/TMEM30A_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/TMEM30A_protein_hg38.html)
+[[include:browser_TMEM30A.md]]
 
-![](images/proteinpaint/TMEM30A_NM_018247.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/TMEM30A.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/TMEM30A_hg38.html)
-
-![](images/proteinpaint/TMEM30A.svg)
-
-
-## TMEM30A Expression
+## Expression
 ![](images/gene_expression/TMEM30A_by_pathology.svg)
 <!-- ORIGIN: morinFrequentMutationHistonemodifying2011 -->
 <!-- DLBCL: morinFrequentMutationHistonemodifying2011 -->

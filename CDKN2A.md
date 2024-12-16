@@ -39,15 +39,9 @@ Although CDKN2A aberrations are common in DLBCL, this gene is predominantly affe
  | :---:| :---: | :--: | :---: |
 | chr9 | 21971120 | G>A | R80* |
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CDKN2A_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CDKN2A_protein_hg38.html)
+[[include:browser_CDKN2A.md]]
 
-![](images/proteinpaint/CDKN2A_NM_000077.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CDKN2A.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CDKN2A_hg38.html)
-
-![](images/proteinpaint/CDKN2A.svg)
-
-## CDKN2A Expression
+## Expression
 
 ![](images/gene_expression/CDKN2A_by_pathology.svg)
 

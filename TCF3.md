@@ -36,15 +36,9 @@ link-citations: true
 | chr19 | 1612336 | A>C | D561E |
 | chr19 | 1612329 | C>T | E564K |
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/TCF3_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/TCF3_protein_hg38.html)
+[[include:browser_TCF3.md]]
 
-![](images/proteinpaint/TCF3_NM_003200.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/TCF3.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/TCF3_hg38.html)
-
-![](images/proteinpaint/TCF3.svg)
-
-## TCF3 Expression
+## Expression
 ![](images/gene_expression/TCF3_by_pathology.svg)
 <!-- ORIGIN: schmitzBurkittLymphomaPathogenesis2012 -->
 <!-- BL: schmitzBurkittLymphomaPathogenesis2012 -->

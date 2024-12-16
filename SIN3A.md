@@ -25,15 +25,9 @@ link-citations: true
 
 [[include:dnds_SIN3A.md]]
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/SIN3A_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/SIN3A_protein_hg38.html)
+[[include:browser_SIN3A.md]]
 
-![](images/proteinpaint/SIN3A_NM_001145358.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/SIN3A.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/SIN3A_hg38.html)
-
-![](images/proteinpaint/SIN3A.svg)
-
-## SIN3A Expression
+## Expression
 ![](images/gene_expression/SIN3A_by_pathology.svg)
 
 [[include:mermaid_SIN3A.md]]

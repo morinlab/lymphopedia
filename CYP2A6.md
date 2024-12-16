@@ -26,15 +26,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CYP2A6_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CYP2A6_protein_hg38.html)
+[[include:browser_CYP2A6.md]]
 
-![](images/proteinpaint/CYP2A6_NM_000762.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CYP2A6.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CYP2A6_hg38.html)
-
-![](images/proteinpaint/CYP2A6.svg)
-
-## CYP2A6 Expression
+## Expression
 ![](images/gene_expression/CYP2A6_by_pathology.svg)
 <!-- ORIGIN: russler-germainMutationsAssociatedProgression2023a -->
 <!-- FL: russler-germainMutationsAssociatedProgression2023b -->

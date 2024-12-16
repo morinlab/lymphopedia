@@ -22,15 +22,9 @@ HLA-DMB, along with HLA-DMA, plays a critical role in the proper functioning of 
 
 [[include:dnds_HLA-DMB.md]]
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/HLA-DMB_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/HLA-DMB_protein_hg38.html)
+[[include:browser_HLA-DMB.md]]
 
-![](images/proteinpaint/HLA-DMB_NM_002118.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/HLA-DMB.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/HLA-DMB_hg38.html)
-
-![](images/proteinpaint/HLA-DMB.svg)
-
-## HLA-DMB Expression
+## Expression
 ![](images/gene_expression/HLA-DMB_by_pathology.svg)
 <!-- ORIGIN: Unknown -->
 

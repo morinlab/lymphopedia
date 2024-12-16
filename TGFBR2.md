@@ -28,15 +28,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/TGFBR2_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/TGFBR2_protein_hg38.html)
+[[include:browser_TGFBR2.md]]
 
-![](images/proteinpaint/TGFBR2_NM_001024847.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/TGFBR2.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/TGFBR2_hg38.html)
-
-![](images/proteinpaint/TGFBR2.svg)
-
-## TGFBR2 Expression
+## Expression
 ![](images/gene_expression/TGFBR2_by_pathology.svg)
 <!-- ORIGIN: reddyGeneticFunctionalDrivers2017 -->
 <!-- DLBCL: reddyGeneticFunctionalDrivers2017 -->

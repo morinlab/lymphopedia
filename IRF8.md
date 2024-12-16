@@ -52,15 +52,9 @@ These are crucial for processing and presentation of self antigens.
 | chr16 | 85942671 | T>C | C84R |
 | chr16 | 85942692 | G>A | D91N |
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/IRF8_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/IRF8_protein_hg38.html)
+[[include:browser_IRF8.md]]
 
-![](images/proteinpaint/IRF8_NM_002163.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/IRF8.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/IRF8_hg38.html)
-
-![](images/proteinpaint/IRF8.svg)
-
-## IRF8 Expression
+## Expression
 ![](images/gene_expression/IRF8_by_pathology.svg)
 
 [[include:mermaid_IRF8.md]]

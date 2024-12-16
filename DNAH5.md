@@ -29,15 +29,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/DNAH5_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/DNAH5_protein_hg38.html)
+[[include:browser_DNAH5.md]]
 
-![](images/proteinpaint/DNAH5_NM_001369.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/DNAH5.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/DNAH5_hg38.html)
-
-![](images/proteinpaint/DNAH5.svg)
-
-## DNAH5 Expression
+## Expression
 ![](images/gene_expression/DNAH5_by_pathology.svg)
 <!-- ORIGIN: morinMutationalStructuralAnalysis2013 -->
 <!-- DLBCL: morinMutationalStructuralAnalysis2013 -->

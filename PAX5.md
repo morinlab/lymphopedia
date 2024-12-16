@@ -37,15 +37,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PAX5_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PAX5_protein_hg38.html)
+[[include:browser_PAX5.md]]
 
-![](images/proteinpaint/PAX5_NM_016734.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PAX5.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PAX5_hg38.html)
-
-![](images/proteinpaint/PAX5.svg)
-
-## PAX5 Expression
+## Expression
 ![](images/gene_expression/PAX5_by_pathology.svg)
 <!-- ORIGIN: pasqualucciHypermutationMultipleProtooncogenes2001a -->
 <!-- DLBCL: pasqualucciHypermutationMultipleProtooncogenes2001a -->

@@ -31,15 +31,9 @@ link-citations: true
 |chr21   |26934372  |26937651|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr21%3A26934372%2D26937651)|active_promoter   |
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/MIR155HG_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/MIR155HG_protein_hg38.html)
+[[include:browser_MIR155HG.md]]
 
-![](images/proteinpaint/MIR155HG_NR_001458.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/MIR155HG.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/MIR155HG_hg38.html)
-
-![](images/proteinpaint/MIR155HG.svg)
-
-## MIR155HG Expression
+## Expression
 ![](images/gene_expression/MIR155HG_by_pathology.svg)
 <!-- ORIGIN: Unknown -->
 

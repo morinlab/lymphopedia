@@ -31,15 +31,9 @@ Due to [minimal support](RET#representative-mutation) in the original primary da
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/RET_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/RET_protein_hg38.html)
+[[include:browser_RET.md]]
 
-![](images/proteinpaint/RET_NM_020630.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/RET.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/RET_hg38.html)
-
-![](images/proteinpaint/RET.svg)
-
-## RET Expression
+## Expression
 ![](images/gene_expression/RET_by_pathology.svg)
 <!-- ORIGIN: loveGeneticLandscapeMutations2012 -->
 <!-- BL: loveGeneticLandscapeMutations2012 -->

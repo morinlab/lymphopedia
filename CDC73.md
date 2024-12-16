@@ -33,15 +33,9 @@ Mutations in this gene were first described in BL in 2012 by Love et al<sup>1</s
 
 [[include:dnds_CDC73.md]]
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CDC73_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CDC73_protein_hg38.html)
+[[include:browser_CDC73.md]]
 
-![](images/proteinpaint/CDC73_NM_024529.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CDC73.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CDC73_hg38.html)
-
-![](images/proteinpaint/CDC73.svg)
-
-## CDC73 Expression
+## Expression
 ![](images/gene_expression/CDC73_by_pathology.svg)
 
 ## Representative Mutations

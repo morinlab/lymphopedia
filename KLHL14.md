@@ -32,20 +32,9 @@ KLHL14 (Kelch-like family member 14) is a gene that has been identified as playi
 | chr18 | 30349902 | A>C | F218C |
 | chr18 | 30349882 | G>C | L225V |
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/KLHL14_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/KLHL14_protein_hg38.html)
+[[include:browser_KLHL14.md]]
 
-![](images/proteinpaint/KLHL14_NM_020805.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/KLHL14.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/KLHL14_hg38.html)
-
-![](images/proteinpaint/KLHL14.svg)
-
-[[include:mermaid_KLHL14.md]]
-
-## References
-
-
-## KLHL14 Expression
+## Expression
 ![](images/gene_expression/KLHL14_by_pathology.svg)
 <!-- ORIGIN: zhangGeneticHeterogeneityDiffuse2013 -->
 <!-- DLBCL: zhangGeneticHeterogeneityDiffuse2013 -->

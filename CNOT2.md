@@ -27,15 +27,9 @@ Mutations in this gene were first described in DLBCL in 2021 by Hübschmann et a
 
 [[include:dnds_CNOT2.md]]
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CNOT2_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CNOT2_protein_hg38.html)
+[[include:browser_CNOT2.md]]
 
-![](images/proteinpaint/CNOT2_NM_014515.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CNOT2.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CNOT2_hg38.html)
-
-![](images/proteinpaint/CNOT2.svg)
-
-## CNOT2 Expression
+## Expression
 ![](images/gene_expression/CNOT2_by_pathology.svg)
 
 ## All Mutations

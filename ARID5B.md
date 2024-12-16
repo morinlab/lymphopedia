@@ -29,15 +29,9 @@ link-citations: true
 
 [[include:dnds_ARID5B.md]]
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ARID5B_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ARID5B_protein_hg38.html)
+[[include:browser_ARID5B.md]]
 
-![](images/proteinpaint/ARID5B_NM_032199.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ARID5B.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ARID5B_hg38.html)
-
-![](images/proteinpaint/ARID5B.svg)
-
-## ARID5B Expression
+## Expression
 ![](images/gene_expression/ARID5B_by_pathology.svg)
 
 ## Representative Mutations

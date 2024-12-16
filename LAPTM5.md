@@ -36,15 +36,9 @@ Mutations in this gene were first described in DLBCL and FL in 2021 by Hübschma
 |chr1    |31229012  |31232011|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr1%3A31229012%2D31232011)|NA                |
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/LAPTM5_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/LAPTM5_protein_hg38.html)
+[[include:browser_LAPTM5.md]]
 
-![](images/proteinpaint/LAPTM5_NM_006762.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/LAPTM5.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/LAPTM5_hg38.html)
-
-![](images/proteinpaint/LAPTM5.svg)
-
-## LAPTM5 Expression
+## Expression
 ![](images/gene_expression/LAPTM5_by_pathology.svg)
 
 ## All Mutations

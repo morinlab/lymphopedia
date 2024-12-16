@@ -31,20 +31,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/SGK1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/SGK1_protein_hg38.html)
+[[include:browser_SGK1.md]]
 
-![](images/proteinpaint/SGK1_NM_005627.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/SGK1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/SGK1_hg38.html)
-
-![](images/proteinpaint/SGK1.svg)
-
-[[include:mermaid_SGK1.md]]
-
-## References
-
-
-## SGK1 Expression
+## Expression
 ![](images/gene_expression/SGK1_by_pathology.svg)
 <!-- ORIGIN: morinFrequentMutationHistonemodifying2011 -->
 <!-- FL: morinFrequentMutationHistonemodifying2011 -->

@@ -27,15 +27,9 @@ Mutations in this gene were first described in DLBCL in 2021 by Hübschmann et a
 
 [[include:dnds_GAK.md]]
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/GAK_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/GAK_protein_hg38.html)
+[[include:browser_GAK.md]]
 
-![](images/proteinpaint/GAK_NM_005255.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/GAK.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/GAK_hg38.html)
-
-![](images/proteinpaint/GAK.svg)
-
-## GAK Expression
+## Expression
 ![](images/gene_expression/GAK_by_pathology.svg)
 
 ## All Mutations

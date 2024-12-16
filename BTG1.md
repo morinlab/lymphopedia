@@ -70,15 +70,9 @@ Another study demonstrated that specific BTG1 mutations afford germinal center (
 | chr12 | 92538217 | T>C | Y52C |
 | chr12 | 92538215 | T>C | K53E |
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/BTG1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/BTG1_protein_hg38.html)
+[[include:browser_BTG1.md]]
 
-![](images/proteinpaint/BTG1_NM_001731.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/BTG1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/BTG1_hg38.html)
-
-![](images/proteinpaint/BTG1.svg)
-
-## BTG1 Expression
+## Expression
 ![](images/gene_expression/BTG1_by_pathology.svg)
 
 

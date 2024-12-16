@@ -36,15 +36,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ZCCHC7_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ZCCHC7_protein_hg38.html)
+[[include:browser_ZCCHC7.md]]
 
-![](images/proteinpaint/ZCCHC7_NM_032226.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ZCCHC7.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ZCCHC7_hg38.html)
-
-![](images/proteinpaint/ZCCHC7.svg)
-
-## ZCCHC7 Expression
+## Expression
 ![](images/gene_expression/ZCCHC7_by_pathology.svg)
 <!-- ORIGIN: arthurGenomewideDiscoverySomatic2018 -->
 <!-- DLBCL: arthurGenomewideDiscoverySomatic2018 -->

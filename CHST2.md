@@ -30,15 +30,9 @@ Mutations in this gene were first described in DLBCL in 2017 by Reddy et al.<sup
 [[include:dnds_CHST2.md]]
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CHST2_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CHST2_protein_hg38.html)
+[[include:browser_CHST2.md]]
 
-![](images/proteinpaint/CHST2_NM_004267.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CHST2.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CHST2_hg38.html)
-
-![](images/proteinpaint/CHST2.svg)
-
-## CHST2 Expression
+## Expression
 ![](images/gene_expression/CHST2_by_pathology.svg)
 
 ## All Mutations

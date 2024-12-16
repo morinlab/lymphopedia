@@ -42,15 +42,9 @@ MCL1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) 
 |chr1    |150550814 |150552135|[intron](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr1%3A150550814%2D150552135)|NA                |
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/MCL1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/MCL1_protein_hg38.html)
+[[include:browser_MCL1.md]]
 
-![](images/proteinpaint/MCL1_NM_021960.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/MCL1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/MCL1_hg38.html)
-
-![](images/proteinpaint/MCL1.svg)
-
-## MCL1 Expression
+## Expression
 ![](images/gene_expression/MCL1_by_pathology.svg)
 
 ## Representative Mutations

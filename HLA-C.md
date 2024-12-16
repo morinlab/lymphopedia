@@ -26,15 +26,9 @@ The mutation pattern in DLBCL implies the preferential accumulation of *inactiva
 
 [[include:dnds_HLA-C.md]]
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/HLA-C_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/HLA-C_protein_hg38.html)
+[[include:browser_HLA-C.md]]
 
-![](images/proteinpaint/HLA-C_NM_002117.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/HLA-C.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/HLA-C_hg38.html)
-
-![](images/proteinpaint/HLA-C.svg)
-
-## HLA-C Expression
+## Expression
 ![](images/gene_expression/HLA-C_by_pathology.svg)
 <!-- ORIGIN: gomezUltraDeepSequencingReveals2023 -->
 <!-- PMBL: gomezUltraDeepSequencingReveals2023 -->

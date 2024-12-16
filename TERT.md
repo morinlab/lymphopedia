@@ -29,15 +29,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/TERT_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/TERT_protein_hg38.html)
+[[include:browser_TERT.md]]
 
-![](images/proteinpaint/TERT_NM_198253.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/TERT.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/TERT_hg38.html)
-
-![](images/proteinpaint/TERT.svg)
-
-## TERT Expression
+## Expression
 ![](images/gene_expression/TERT_by_pathology.svg)
 <!-- ORIGIN: nadeuGenomicEpigenomicInsights2020a -->
 <!-- MCL: nadeuGenomicEpigenomicInsights2020b -->

@@ -23,15 +23,9 @@ Mutations in BL were first described by Grande et al.<sup>1</sup>
 
 [[include:dnds_TFAP4.md]]
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/TFAP4_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/TFAP4_protein_hg38.html)
+[[include:browser_TFAP4.md]]
 
-![](images/proteinpaint/TFAP4_NM_003223.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/TFAP4.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/TFAP4_hg38.html)
-
-![](images/proteinpaint/TFAP4.svg)
-
-## TFAP4 Expression
+## Expression
 ![](images/gene_expression/TFAP4_by_pathology.svg)
 
 [[include:mermaid_TFAP4.md]]

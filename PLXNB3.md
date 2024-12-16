@@ -29,15 +29,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PLXNB3_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PLXNB3_protein_hg38.html)
+[[include:browser_PLXNB3.md]]
 
-![](images/proteinpaint/PLXNB3_NM_005393.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PLXNB3.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PLXNB3_hg38.html)
-
-![](images/proteinpaint/PLXNB3.svg)
-
-## PLXNB3 Expression
+## Expression
 ![](images/gene_expression/PLXNB3_by_pathology.svg)
 <!-- ORIGIN: zhangGenomicLandscapeMantle2014 -->
 <!-- MCL: zhangGenomicLandscapeMantle2014 -->

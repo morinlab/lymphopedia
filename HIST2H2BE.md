@@ -29,13 +29,9 @@ This gene encodes the H2A protein, one of the core proteins comprising nucleosom
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/HIST2H2BE_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/HIST2H2BE_protein_hg38.html)
+[[include:browser_HIST2H2BE.md]]
 
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/HIST2H2BE.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/HIST2H2BE_hg38.html)
-
-![](images/proteinpaint/HIST2H2BE.svg)
-
-## HIST2H2BE Expression
+## Expression
 ![](images/gene_expression/HIST2H2BE_by_pathology.svg)
 <!-- ORIGIN: schmitzGeneticsPathogenesisDiffuse2018a -->
 <!-- DLBCL: schmitzGeneticsPathogenesisDiffuse2018a -->

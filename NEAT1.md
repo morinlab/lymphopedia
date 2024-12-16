@@ -32,15 +32,9 @@ link-citations: true
 |chr11   |65190369  |65192380|[ncRNA](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr11%3A65190369%2D65192380)|enhancer          |
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/NEAT1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/NEAT1_protein_hg38.html)
+[[include:browser_NEAT1.md]]
 
-![](images/proteinpaint/NEAT1_NR_028272.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/NEAT1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/NEAT1_hg38.html)
-
-![](images/proteinpaint/NEAT1.svg)
-
-## NEAT1 Expression
+## Expression
 ![](images/gene_expression/NEAT1_by_pathology.svg)
 <!-- ORIGIN: arthurGenomewideDiscoverySomatic2018 -->
 <!-- DLBCL: arthurGenomewideDiscoverySomatic2018 -->

@@ -33,15 +33,9 @@ CIITA encodes the major histocompatibility complex (MHC) class II transactivator
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CIITA_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CIITA_protein_hg38.html)
+[[include:browser_CIITA.md]]
 
-![](images/proteinpaint/CIITA_NM_000246.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CIITA.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CIITA_hg38.html)
-
-![](images/proteinpaint/CIITA.svg)
-
-## CIITA Expression
+## Expression
 ![](images/gene_expression/CIITA_by_pathology.svg)
 
 [[include:mermaid_CIITA.md]]

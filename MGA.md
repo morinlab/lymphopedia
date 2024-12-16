@@ -24,15 +24,9 @@ MGA acts as a transcriptional repressor and interacts with MYC, a well-known onc
 
 [[include:dnds_MGA.md]]
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/MGA_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/MGA_protein_hg38.html)
+[[include:browser_MGA.md]]
 
-![](images/proteinpaint/MGA_NM_001164273.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/MGA.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/MGA_hg38.html)
-
-![](images/proteinpaint/MGA.svg)
-
-## MGA Expression
+## Expression
 ![](images/gene_expression/MGA_by_pathology.svg)
 
 [[include:mermaid_MGA.md]]

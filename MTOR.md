@@ -38,15 +38,9 @@ Although mutations in MTOR have been reported in DLBCL and some BL, their role i
  | :---:| :---: | :--: | :---: |
 | chr1 | 11169376 | A>T | I2500N |
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/MTOR_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/MTOR_protein_hg38.html)
+[[include:browser_MTOR.md]]
 
-![](images/proteinpaint/MTOR_NM_004958.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/MTOR.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/MTOR_hg38.html)
-
-![](images/proteinpaint/MTOR.svg)
-
-## MTOR Expression
+## Expression
 ![](images/gene_expression/MTOR_by_pathology.svg)
 
 ## Representative Mutations

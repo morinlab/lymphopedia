@@ -32,15 +32,9 @@ link-citations: true
 > Mutations in this gene were reported to be inflated in the original results according to [Dreval K](https://www.biorxiv.org/content/10.1101/2023.11.21.567983v1)
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/SETD5_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/SETD5_protein_hg38.html)
+[[include:browser_SETD5.md]]
 
-![](images/proteinpaint/SETD5_NM_001080517.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/SETD5.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/SETD5_hg38.html)
-
-![](images/proteinpaint/SETD5.svg)
-
-## SETD5 Expression
+## Expression
 ![](images/gene_expression/SETD5_by_pathology.svg)
 <!-- ORIGIN: reddyGeneticFunctionalDrivers2017 -->
 <!-- DLBCL: reddyGeneticFunctionalDrivers2017 -->

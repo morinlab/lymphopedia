@@ -28,15 +28,9 @@ Mutations in this gene were first described in DLBCL in 2021 by Hübschmann et a
 [[include:dnds_CADPS2.md]]
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CADPS2_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CADPS2_protein_hg38.html)
+[[include:browser_CADPS2.md]]
 
-![](images/proteinpaint/CADPS2_NM_017954.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CADPS2.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CADPS2_hg38.html)
-
-![](images/proteinpaint/CADPS2.svg)
-
-## CADPS2 Expression
+## Expression
 ![](images/gene_expression/CADPS2_by_pathology.svg)
 
 ## All Mutations

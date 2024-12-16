@@ -34,15 +34,9 @@ link-citations: true
 | chr4 | 154625039 | A>T | D327V |
 | chr4 | 154625042 | T>G | L328R |
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/TLR2_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/TLR2_protein_hg38.html)
+[[include:browser_TLR2.md]]
 
-![](images/proteinpaint/TLR2_NM_003264.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/TLR2.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/TLR2_hg38.html)
-
-![](images/proteinpaint/TLR2.svg)
-
-## TLR2 Expression
+## Expression
 ![](images/gene_expression/TLR2_by_pathology.svg)
 <!-- ORIGIN: beaLandscapeSomaticMutations2013 -->
 <!-- DLBCL: chapuyMolecularSubtypesDiffuse2018b -->

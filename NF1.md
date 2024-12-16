@@ -28,15 +28,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/NF1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/NF1_protein_hg38.html)
+[[include:browser_NF1.md]]
 
-![](images/proteinpaint/NF1_NM_000267.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/NF1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/NF1_hg38.html)
-
-![](images/proteinpaint/NF1.svg)
-
-## NF1 Expression
+## Expression
 ![](images/gene_expression/NF1_by_pathology.svg)
 <!-- ORIGIN: reddyGeneticFunctionalDrivers2017 -->
 <!-- DLBCL: reddyGeneticFunctionalDrivers2017 -->

@@ -75,15 +75,9 @@ The dysregulation of CCND3 due to these mutations contributes to the oncogenic p
 | chr6 | 41903682 | A>T | L292Q |
 | chr6 | 41903682 | A>C | L292R |
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CCND3_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CCND3_protein_hg38.html)
+[[include:browser_CCND3.md]]
 
-![](images/proteinpaint/CCND3_NM_001760.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CCND3.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CCND3_hg38.html)
-
-![](images/proteinpaint/CCND3.svg)
-
-## CCND3 Expression
+## Expression
 ![](images/gene_expression/CCND3_by_pathology.svg)
 <!-- ORIGIN: morinFrequentMutationHistonemodifying2011 -->
 <!-- FL: morinFrequentMutationHistonemodifying2011 -->

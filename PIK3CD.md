@@ -36,15 +36,9 @@ link-citations: true
 | chr1 | 9787040 | G>A | R1024H |
 | chr1 | 9787043 | A>G | E1025G |
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PIK3CD_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PIK3CD_protein_hg38.html)
+[[include:browser_PIK3CD.md]]
 
-![](images/proteinpaint/PIK3CD_NM_005026.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PIK3CD.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PIK3CD_hg38.html)
-
-![](images/proteinpaint/PIK3CD.svg)
-
-## PIK3CD Expression
+## Expression
 ![](images/gene_expression/PIK3CD_by_pathology.svg)
 <!-- ORIGIN: reddyGeneticFunctionalDrivers2017 -->
 <!-- DLBCL: reddyGeneticFunctionalDrivers2017 -->

@@ -27,15 +27,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/TOP2A_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/TOP2A_protein_hg38.html)
+[[include:browser_TOP2A.md]]
 
-![](images/proteinpaint/TOP2A_NM_001067.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/TOP2A.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/TOP2A_hg38.html)
-
-![](images/proteinpaint/TOP2A.svg)
-
-## TOP2A Expression
+## Expression
 ![](images/gene_expression/TOP2A_by_pathology.svg)
 <!-- ORIGIN: schmitzBurkittLymphomaPathogenesis2012 -->
 <!-- BL: schmitzBurkittLymphomaPathogenesis2012 -->

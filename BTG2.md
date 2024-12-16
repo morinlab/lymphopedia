@@ -37,15 +37,9 @@ BTG2 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) 
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/BTG2_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/BTG2_protein_hg38.html)
+[[include:browser_BTG2.md]]
 
-![](images/proteinpaint/BTG2_NM_006763.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/BTG2.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/BTG2_hg38.html)
-
-![](images/proteinpaint/BTG2.svg)
-
-## BTG2 Expression
+## Expression
 ![](images/gene_expression/BTG2_by_pathology.svg)
 
 ## Representative Mutations

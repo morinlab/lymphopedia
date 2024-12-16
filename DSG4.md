@@ -29,15 +29,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/DSG4_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/DSG4_protein_hg38.html)
+[[include:browser_DSG4.md]]
 
-![](images/proteinpaint/DSG4_NM_001134453.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/DSG4.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/DSG4_hg38.html)
-
-![](images/proteinpaint/DSG4.svg)
-
-## DSG4 Expression
+## Expression
 ![](images/gene_expression/DSG4_by_pathology.svg)
 <!-- ORIGIN: morinMutationalStructuralAnalysis2013 -->
 <!-- DLBCL: morinMutationalStructuralAnalysis2013 -->

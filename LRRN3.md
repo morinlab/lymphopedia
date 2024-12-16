@@ -21,15 +21,9 @@ link-citations: true
 
 [[include:dnds_LRRN3.md]]
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/LRRN3_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/LRRN3_protein_hg38.html)
+[[include:browser_LRRN3.md]]
 
-![](images/proteinpaint/LRRN3_NM_001099660.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/LRRN3.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/LRRN3_hg38.html)
-
-![](images/proteinpaint/LRRN3.svg)
-
-## LRRN3 Expression
+## Expression
 ![](images/gene_expression/LRRN3_by_pathology.svg)
 <!-- ORIGIN: morinMutationalStructuralAnalysis2013 -->
 <!-- DLBCL: morinMutationalStructuralAnalysis2013 -->

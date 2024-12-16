@@ -31,15 +31,9 @@ In mouse models, Fas mutations led to a significantly shorter lymphoma-specific 
 
 [[include:dnds_FAS.md]]
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/FAS_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/FAS_protein_hg38.html)
+[[include:browser_FAS.md]]
 
-![](images/proteinpaint/FAS_NM_000043.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/FAS.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/FAS_hg38.html)
-
-![](images/proteinpaint/FAS.svg)
-
-## FAS Expression
+## Expression
 ![](images/gene_expression/FAS_by_pathology.svg)
 
 [[include:mermaid_FAS.md]]

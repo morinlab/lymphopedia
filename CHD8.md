@@ -25,15 +25,9 @@ link-citations: true
 
 [[include:dnds_CHD8.md]]
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CHD8_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CHD8_protein_hg38.html)
+[[include:browser_CHD8.md]]
 
-![](images/proteinpaint/CHD8_NM_001170629.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CHD8.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CHD8_hg38.html)
-
-![](images/proteinpaint/CHD8.svg)
-
-## CHD8 Expression
+## Expression
 ![](images/gene_expression/CHD8_by_pathology.svg)
 
 ## All Mutations

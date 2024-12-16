@@ -33,15 +33,9 @@ link-citations: true
 | chr6 | 106536324 | G>A | E97= |
 | chr6 | 106536324 | G>C | E97D |
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PRDM1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PRDM1_protein_hg38.html)
+[[include:browser_PRDM1.md]]
 
-![](images/proteinpaint/PRDM1_NM_001198.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PRDM1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PRDM1_hg38.html)
-
-![](images/proteinpaint/PRDM1.svg)
-
-## PRDM1 Expression
+## Expression
 ![](images/gene_expression/PRDM1_by_pathology.svg)
 <!-- ORIGIN: pasqualucciInactivationPRDM1BLIMP12006 -->
 <!-- DLBCL: pasqualucciInactivationPRDM1BLIMP12006a -->

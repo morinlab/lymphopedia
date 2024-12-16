@@ -35,15 +35,9 @@ link-citations: true
 |chr9    |130740362 |130744800|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr9%3A130740362%2D130744800)|NA                |
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/FAM102A_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/FAM102A_protein_hg38.html)
+[[include:browser_FAM102A.md]]
 
-![](images/proteinpaint/FAM102A_NM_001035254.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/FAM102A.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/FAM102A_hg38.html)
-
-![](images/proteinpaint/FAM102A.svg)
-
-## FAM102A Expression
+## Expression
 ![](images/gene_expression/FAM102A_by_pathology.svg)
 <!-- ORIGIN: Unknown -->
 

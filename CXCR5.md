@@ -38,15 +38,9 @@ CXCR5 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm)
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CXCR5_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CXCR5_protein_hg38.html)
+[[include:browser_CXCR5.md]]
 
-![](images/proteinpaint/CXCR5_NM_001716.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CXCR5.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CXCR5_hg38.html)
-
-![](images/proteinpaint/CXCR5.svg)
-
-## CXCR5 Expression
+## Expression
 ![](images/gene_expression/CXCR5_by_pathology.svg)
 <!-- ORIGIN: schmitzGeneticsPathogenesisDiffuse2018a -->
 <!-- PMBL: mottokIntegrativeGenomicAnalysis2019b -->

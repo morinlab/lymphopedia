@@ -36,15 +36,9 @@ Mutations in this gene are relatively rare in DLBCL overall but show a pattern o
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/NCOR2_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/NCOR2_protein_hg38.html)
+[[include:browser_NCOR2.md]]
 
-![](images/proteinpaint/NCOR2_NM_006312.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/NCOR2.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/NCOR2_hg38.html)
-
-![](images/proteinpaint/NCOR2.svg)
-
-## NCOR2 Expression
+## Expression
 ![](images/gene_expression/NCOR2_by_pathology.svg)
 
 <!-- FLAGGED FOR TIER 2 -->

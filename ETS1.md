@@ -63,15 +63,9 @@ The mutation pattern in DLBCL implies the preferential accumulation of *inactiva
 | chr11 | 128391824 | C>G | E22D |
 | chr11 | 128391823 | G>A | L23F |
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ETS1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ETS1_protein_hg38.html)
+[[include:browser_ETS1.md]]
 
-![](images/proteinpaint/ETS1_NM_001143820.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ETS1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ETS1_hg38.html)
-
-![](images/proteinpaint/ETS1.svg)
-
-## ETS1 Expression
+## Expression
 ![](images/gene_expression/ETS1_by_pathology.svg)
 
 ## Representative Mutations

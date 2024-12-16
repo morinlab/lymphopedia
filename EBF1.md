@@ -53,15 +53,9 @@ EBF1 is a critical transcription factor in early B-cell development, regulating 
 | chr5 | 158500468 | A>G | C164R |
 | chr5 | 158500467 | C>G | C164S |
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/EBF1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/EBF1_protein_hg38.html)
+[[include:browser_EBF1.md]]
 
-![](images/proteinpaint/EBF1_NM_024007.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/EBF1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/EBF1_hg38.html)
-
-![](images/proteinpaint/EBF1.svg)
-
-## EBF1 Expression
+## Expression
 ![](images/gene_expression/EBF1_by_pathology.svg)
 <!-- ORIGIN: bohleRoleEarlyBcell2013 -->
 <!-- BL: thomasGeneticSubgroupsInform2023 -->

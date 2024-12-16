@@ -31,15 +31,9 @@ GRHPR is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm)
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/GRHPR_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/GRHPR_protein_hg38.html)
+[[include:browser_GRHPR.md]]
 
-![](images/proteinpaint/GRHPR_NM_012203.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/GRHPR.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/GRHPR_hg38.html)
-
-![](images/proteinpaint/GRHPR.svg)
-
-## GRHPR Expression
+## Expression
 ![](images/gene_expression/GRHPR_by_pathology.svg)
 
 [[include:mermaid_GRHPR.md]]

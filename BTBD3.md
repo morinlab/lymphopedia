@@ -27,15 +27,9 @@ Mutations in this gene were first described in DLBCL in 2013[@zhangGeneticHetero
 
 [[include:dnds_BTBD3.md]]
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/BTBD3_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/BTBD3_protein_hg38.html)
+[[include:browser_BTBD3.md]]
 
-![](images/proteinpaint/BTBD3_NM_014962.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/BTBD3.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/BTBD3_hg38.html)
-
-![](images/proteinpaint/BTBD3.svg)
-
-## BTBD3 Expression
+## Expression
 ![](images/gene_expression/BTBD3_by_pathology.svg)
 
 ## Representative Mutations

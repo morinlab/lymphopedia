@@ -34,15 +34,9 @@ Due to [minimal support](DLGAP1#representative-mutation) in the original primary
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/DLGAP1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/DLGAP1_protein_hg38.html)
+[[include:browser_DLGAP1.md]]
 
-![](images/proteinpaint/DLGAP1_NM_004746.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/DLGAP1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/DLGAP1_hg38.html)
-
-![](images/proteinpaint/DLGAP1.svg)
-
-## DLGAP1 Expression
+## Expression
 ![](images/gene_expression/DLGAP1_by_pathology.svg)
 <!-- ORIGIN: loveGeneticLandscapeMutations2012 -->
 <!-- BL: loveGeneticLandscapeMutations2012 -->

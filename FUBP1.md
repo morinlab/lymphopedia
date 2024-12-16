@@ -34,15 +34,9 @@ link-citations: true
  | :---:| :---: | :--: | :---: |
 | chr1 | 78444687 | A>C | M1? |
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/FUBP1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/FUBP1_protein_hg38.html)
+[[include:browser_FUBP1.md]]
 
-![](images/proteinpaint/FUBP1_NM_003902.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/FUBP1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/FUBP1_hg38.html)
-
-![](images/proteinpaint/FUBP1.svg)
-
-## FUBP1 Expression
+## Expression
 ![](images/gene_expression/FUBP1_by_pathology.svg)
 <!-- ORIGIN: reddyGeneticFunctionalDrivers2017 -->
 <!-- DLBCL: reddyGeneticFunctionalDrivers2017 -->

@@ -27,15 +27,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ZNF85_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ZNF85_protein_hg38.html)
+[[include:browser_ZNF85.md]]
 
-![](images/proteinpaint/ZNF85_NM_003429.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ZNF85.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ZNF85_hg38.html)
-
-![](images/proteinpaint/ZNF85.svg)
-
-## ZNF85 Expression
+## Expression
 ![](images/gene_expression/ZNF85_by_pathology.svg)
 <!-- ORIGIN: burkhardtClinicalRelevanceMolecular2022b -->
 <!-- BL: burkhardtClinicalRelevanceMolecular2022b -->

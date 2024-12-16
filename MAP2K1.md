@@ -29,15 +29,9 @@ link-citations: true
 | chr15 | 66727441 | T>C | F53L |
 | chr15 | 66727454 | A>C | K57T |
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/MAP2K1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/MAP2K1_protein_hg38.html)
+[[include:browser_MAP2K1.md]]
 
-![](images/proteinpaint/MAP2K1_NM_002755.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/MAP2K1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/MAP2K1_hg38.html)
-
-![](images/proteinpaint/MAP2K1.svg)
-
-## MAP2K1 Expression
+## Expression
 ![](images/gene_expression/MAP2K1_by_pathology.svg)
 <!-- ORIGIN: shinBRAFV600EMAP2K12015 -->
 <!-- DLBCL: shinBRAFV600EMAP2K12015 -->

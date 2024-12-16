@@ -29,15 +29,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/TBC1D26_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/TBC1D26_protein_hg38.html)
+[[include:browser_TBC1D26.md]]
 
-![](images/proteinpaint/TBC1D26_NM_178571.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/TBC1D26.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/TBC1D26_hg38.html)
-
-![](images/proteinpaint/TBC1D26.svg)
-
-## TBC1D26 Expression
+## Expression
 ![](images/gene_expression/TBC1D26_by_pathology.svg)
 <!-- ORIGIN: zhangGenomicLandscapeMantle2014 -->
 <!-- MCL: zhangGenomicLandscapeMantle2014 -->

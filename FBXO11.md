@@ -48,15 +48,9 @@ These mutations present a potential novel target for therapeutic intervention, p
 |chr2|48040511|C>G|G697R| 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/FBXO11_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/FBXO11_protein_hg38.html)
+[[include:browser_FBXO11.md]]
 
-![](images/proteinpaint/FBXO11_NM_025133.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/FBXO11.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/FBXO11_hg38.html)
-
-![](images/proteinpaint/FBXO11.svg)
-
-## FBXO11 Expression
+## Expression
 ![](images/gene_expression/FBXO11_by_pathology.svg)
 
 [[include:mermaid_FBXO11.md]]

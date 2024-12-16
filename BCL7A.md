@@ -41,15 +41,9 @@ The rate of DLBCLs with biallelic loss of this locus remains unclear.
 |chr12   |122456912 |122464036|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr12%3A122456912%2D122464036)|poised_promoter   |
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/BCL7A_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/BCL7A_protein_hg38.html)
+[[include:browser_BCL7A.md]]
 
-![](images/proteinpaint/BCL7A_NM_020993.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/BCL7A.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/BCL7A_hg38.html)
-
-![](images/proteinpaint/BCL7A.svg)
-
-## BCL7A Expression
+## Expression
 ![](images/gene_expression/BCL7A_by_pathology.svg)
 
 

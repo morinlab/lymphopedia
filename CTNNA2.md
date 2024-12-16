@@ -30,15 +30,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CTNNA2_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CTNNA2_protein_hg38.html)
+[[include:browser_CTNNA2.md]]
 
-![](images/proteinpaint/CTNNA2_NM_004389.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CTNNA2.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CTNNA2_hg38.html)
-
-![](images/proteinpaint/CTNNA2.svg)
-
-## CTNNA2 Expression
+## Expression
 ![](images/gene_expression/CTNNA2_by_pathology.svg)
 <!-- ORIGIN: zhangGenomicLandscapeMantle2014 -->
 <!-- MCL: zhangGenomicLandscapeMantle2014 -->

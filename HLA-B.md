@@ -39,15 +39,9 @@ The mutation pattern in DLBCL implies the preferential accumulation of *inactiva
 | chr6 | 31324583 | C>G | W75C |
 | chr6 | 31324576 | G>A | Q78* |
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/HLA-B_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/HLA-B_protein_hg38.html)
+[[include:browser_HLA-B.md]]
 
-![](images/proteinpaint/HLA-B_NM_005514.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/HLA-B.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/HLA-B_hg38.html)
-
-![](images/proteinpaint/HLA-B.svg)
-
-## HLA-B Expression
+## Expression
 ![](images/gene_expression/HLA-B_by_pathology.svg)
 
 [[include:mermaid_HLA-B.md]]

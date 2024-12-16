@@ -21,15 +21,9 @@ link-citations: true
 
 [[include:dnds_UBE2A.md]]
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/UBE2A_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/UBE2A_protein_hg38.html)
+[[include:browser_UBE2A.md]]
 
-![](images/proteinpaint/UBE2A_NM_003336.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/UBE2A.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/UBE2A_hg38.html)
-
-![](images/proteinpaint/UBE2A.svg)
-
-## UBE2A Expression
+## Expression
 ![](images/gene_expression/UBE2A_by_pathology.svg)
 <!-- ORIGIN: reichelFlowSortingExome2015a -->
 <!-- DLBCL: reddyGeneticFunctionalDrivers2017 -->

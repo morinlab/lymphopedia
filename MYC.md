@@ -70,15 +70,9 @@ MYC is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) a
 | chr8 | 128750695 | C>T | P78S |
 | chr8 | 128750696 | C>G | P78R |
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/MYC_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/MYC_protein_hg38.html)
+[[include:browser_MYC.md]]
 
-![](images/proteinpaint/MYC_NM_002467.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/MYC.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/MYC_hg38.html)
-
-![](images/proteinpaint/MYC.svg)
-
-## MYC Expression
+## Expression
 
 ![](images/gene_expression/MYC_by_pathology.svg)
 

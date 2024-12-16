@@ -28,15 +28,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/TIPARP_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/TIPARP_protein_hg38.html)
+[[include:browser_TIPARP.md]]
 
-![](images/proteinpaint/TIPARP_NM_015508.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/TIPARP.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/TIPARP_hg38.html)
-
-![](images/proteinpaint/TIPARP.svg)
-
-## TIPARP Expression
+## Expression
 ![](images/gene_expression/TIPARP_by_pathology.svg)
 <!-- ORIGIN: reddyGeneticFunctionalDrivers2017 -->
 <!-- DLBCL: reddyGeneticFunctionalDrivers2017 -->

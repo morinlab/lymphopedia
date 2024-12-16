@@ -38,15 +38,9 @@ Mutations in IL4R have been identified in various types of B-cell lymphomas, par
  | :---:| :---: | :--: | :---: |
 | chr16 | 27367183 | T>A | I242N |
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/IL4R_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/IL4R_protein_hg38.html)
+[[include:browser_IL4R.md]]
 
-![](images/proteinpaint/IL4R_NM_000418.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/IL4R.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/IL4R_hg38.html)
-
-![](images/proteinpaint/IL4R.svg)
-
-## IL4R Expression
+## Expression
 ![](images/gene_expression/IL4R_by_pathology.svg)
 <!-- ORIGIN: viganoSomaticIL4RMutations2018b -->
 <!-- DLBCL: dunsCharacterizationDLBCLPMBL2021b -->

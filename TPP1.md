@@ -25,15 +25,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/TPP1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/TPP1_protein_hg38.html)
+[[include:browser_TPP1.md]]
 
-![](images/proteinpaint/TPP1_NM_000391.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/TPP1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/TPP1_hg38.html)
-
-![](images/proteinpaint/TPP1.svg)
-
-## TPP1 Expression
+## Expression
 ![](images/gene_expression/TPP1_by_pathology.svg)
 <!-- ORIGIN: hubschmannMutationalMechanismsShaping2021b -->
 <!-- FL: hubschmannMutationalMechanismsShaping2021b -->

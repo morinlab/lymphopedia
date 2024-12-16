@@ -32,15 +32,9 @@ link-citations: true
 | chr17 | 40475318 | C>T | D570N |
 | chr17 | 40475317 | T>C | D570G |
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/STAT3_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/STAT3_protein_hg38.html)
+[[include:browser_STAT3.md]]
 
-![](images/proteinpaint/STAT3_NM_139276.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/STAT3.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/STAT3_hg38.html)
-
-![](images/proteinpaint/STAT3.svg)
-
-## STAT3 Expression
+## Expression
 ![](images/gene_expression/STAT3_by_pathology.svg)
 <!-- ORIGIN: ohgamiSTAT3MutationsAre2014 -->
 <!-- DLBCL: ohgamiSTAT3MutationsAre2014 -->

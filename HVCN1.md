@@ -34,17 +34,9 @@ HVCN1, a voltage-gated proton channel, has been identified as recurrently mutate
 | chr12 | 111099150 | T>C | Y42C |
 | chr12 | 111099142 | A>T | W45R |
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/HVCN1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/HVCN1_protein_hg38.html)
+[[include:browser_HVCN1.md]]
 
-![](images/proteinpaint/HVCN1_NM_001040107.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/HVCN1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/HVCN1_hg38.html)
-
-![](images/proteinpaint/HVCN1.svg)
-
-
-
-## HVCN1 Expression
+## Expression
 ![](images/gene_expression/HVCN1_by_pathology.svg)
 <!-- ORIGIN: krysiakRecurrentSomaticMutations2017b -->
 <!-- FL: krysiakRecurrentSomaticMutations2017b -->

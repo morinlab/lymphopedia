@@ -28,15 +28,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/SMC1A_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/SMC1A_protein_hg38.html)
+[[include:browser_SMC1A.md]]
 
-![](images/proteinpaint/SMC1A_NM_006306.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/SMC1A.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/SMC1A_hg38.html)
-
-![](images/proteinpaint/SMC1A.svg)
-
-## SMC1A Expression
+## Expression
 ![](images/gene_expression/SMC1A_by_pathology.svg)
 <!-- ORIGIN: zhangGenomicLandscapeMantle2014 -->
 <!-- MCL: zhangGenomicLandscapeMantle2014 -->

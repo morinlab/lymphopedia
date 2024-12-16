@@ -33,15 +33,9 @@ Mutations in this gene were first described in DLBCL in 2017 by Reddy et al.<sup
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CASP8_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CASP8_protein_hg38.html)
+[[include:browser_CASP8.md]]
 
-![](images/proteinpaint/CASP8_NM_001228.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CASP8.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CASP8_hg38.html)
-
-![](images/proteinpaint/CASP8.svg)
-
-## CASP8 Expression
+## Expression
 ![](images/gene_expression/CASP8_by_pathology.svg)
 
 [[include:mermaid_CASP8.md]]

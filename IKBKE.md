@@ -29,15 +29,9 @@ Mutations in this gene were first described in DLBCL and FL in 2021 by Hübschma
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/IKBKE_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/IKBKE_protein_hg38.html)
+[[include:browser_IKBKE.md]]
 
-![](images/proteinpaint/IKBKE_NM_014002.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/IKBKE.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/IKBKE_hg38.html)
-
-![](images/proteinpaint/IKBKE.svg)
-
-## IKBKE Expression
+## Expression
 ![](images/gene_expression/IKBKE_by_pathology.svg)
 
 

@@ -41,15 +41,9 @@ This gene has some recurrent sites of mutations (hot spots). The mutation patter
 | chr19 | 1434903 | C>T | R406* |
 | chr19 | 1434906 | C>T | R407C |
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/DAZAP1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/DAZAP1_protein_hg38.html)
+[[include:browser_DAZAP1.md]]
 
-![](images/proteinpaint/DAZAP1_ENST00000233078.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/DAZAP1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/DAZAP1_hg38.html)
-
-![](images/proteinpaint/DAZAP1.svg)
-
-## DAZAP1 Expression
+## Expression
 ![](images/gene_expression/DAZAP1_by_pathology.svg)
 
 [[include:mermaid_DAZAP1.md]]

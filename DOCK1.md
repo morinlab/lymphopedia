@@ -29,15 +29,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/DOCK1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/DOCK1_protein_hg38.html)
+[[include:browser_DOCK1.md]]
 
-![](images/proteinpaint/DOCK1_NM_001380.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/DOCK1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/DOCK1_hg38.html)
-
-![](images/proteinpaint/DOCK1.svg)
-
-## DOCK1 Expression
+## Expression
 ![](images/gene_expression/DOCK1_by_pathology.svg)
 <!-- ORIGIN: chapuyMolecularSubtypesDiffuse2018b -->
 <!-- DLBCL: chapuyMolecularSubtypesDiffuse2018b -->

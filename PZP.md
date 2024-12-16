@@ -24,15 +24,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PZP_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PZP_protein_hg38.html)
+[[include:browser_PZP.md]]
 
-![](images/proteinpaint/PZP_NM_002864.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PZP.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PZP_hg38.html)
-
-![](images/proteinpaint/PZP.svg)
-
-## PZP Expression
+## Expression
 ![](images/gene_expression/PZP_by_pathology.svg)
 <!-- ORIGIN: russler-germainMutationsAssociatedProgression2023a -->
 <!-- FL: russler-germainMutationsAssociatedProgression2023b -->

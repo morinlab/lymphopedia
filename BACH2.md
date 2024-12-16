@@ -29,15 +29,9 @@ Mutations in this gene were first described in BL in 2019 by Grande et al.<sup>1
 |chr6    |90981034  |91016134|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr6%3A90981034%2D91016134)|NA                |
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/BACH2_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/BACH2_protein_hg38.html)
+[[include:browser_BACH2.md]]
 
-![](images/proteinpaint/BACH2_NM_021813.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/BACH2.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/BACH2_hg38.html)
-
-![](images/proteinpaint/BACH2.svg)
-
-## BACH2 Expression
+## Expression
 ![](images/gene_expression/BACH2_by_pathology.svg)
 
 [[include:mermaid_BACH2.md]]

@@ -24,15 +24,9 @@ link-citations: true
 [[include:dnds_PHF6.md]]
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PHF6_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PHF6_protein_hg38.html)
+[[include:browser_PHF6.md]]
 
-![](images/proteinpaint/PHF6_NM_001015877.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PHF6.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PHF6_hg38.html)
-
-![](images/proteinpaint/PHF6.svg)
-
-## PHF6 Expression
+## Expression
 ![](images/gene_expression/PHF6_by_pathology.svg)
 <!-- ORIGIN: reddyGeneticFunctionalDrivers2017 -->
 <!-- BL: thomasGeneticSubgroupsInform2023 -->

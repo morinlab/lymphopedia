@@ -33,15 +33,9 @@ link-citations: true
  | :---:| :---: | :--: | :---: |
 | chr9 | 96031211 | G>A | A1375T |
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/WNK2_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/WNK2_protein_hg38.html)
+[[include:browser_WNK2.md]]
 
-![](images/proteinpaint/WNK2_NM_006648.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/WNK2.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/WNK2_hg38.html)
-
-![](images/proteinpaint/WNK2.svg)
-
-## WNK2 Expression
+## Expression
 ![](images/gene_expression/WNK2_by_pathology.svg)
 <!-- ORIGIN: paneaWholeGenomeLandscape2019 -->
 <!-- BL: paneaWholeGenomeLandscape2019 -->

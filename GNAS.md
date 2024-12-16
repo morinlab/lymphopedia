@@ -30,15 +30,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/GNAS_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/GNAS_protein_hg38.html)
+[[include:browser_GNAS.md]]
 
-![](images/proteinpaint/GNAS_NM_000516.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/GNAS.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/GNAS_hg38.html)
-
-![](images/proteinpaint/GNAS.svg)
-
-## GNAS Expression
+## Expression
 ![](images/gene_expression/GNAS_by_pathology.svg)
 <!-- ORIGIN: reddyGeneticFunctionalDrivers2017 -->
 <!-- DLBCL: reddyGeneticFunctionalDrivers2017 -->

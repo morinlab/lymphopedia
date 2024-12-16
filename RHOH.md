@@ -31,15 +31,9 @@ link-citations: true
 |chr4    |40193105  |40204231|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr4%3A40193105%2D40204231)|active_promoter   |
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/RHOH_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/RHOH_protein_hg38.html)
+[[include:browser_RHOH.md]]
 
-![](images/proteinpaint/RHOH_NM_004310.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/RHOH.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/RHOH_hg38.html)
-
-![](images/proteinpaint/RHOH.svg)
-
-## RHOH Expression
+## Expression
 ![](images/gene_expression/RHOH_by_pathology.svg)
 <!-- ORIGIN: pasqualucciHypermutationMultipleProtooncogenes2001a -->
 <!-- DLBCL: pasqualucciHypermutationMultipleProtooncogenes2001a -->

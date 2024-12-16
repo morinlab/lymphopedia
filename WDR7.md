@@ -31,15 +31,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/WDR7_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/WDR7_protein_hg38.html)
+[[include:browser_WDR7.md]]
 
-![](images/proteinpaint/WDR7_NM_015285.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/WDR7.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/WDR7_hg38.html)
-
-![](images/proteinpaint/WDR7.svg)
-
-## WDR7 Expression
+## Expression
 ![](images/gene_expression/WDR7_by_pathology.svg)
 <!-- ORIGIN: paneaWholeGenomeLandscape2019 -->
 <!-- BL: paneaWholeGenomeLandscape2019 -->

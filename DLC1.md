@@ -29,15 +29,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/DLC1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/DLC1_protein_hg38.html)
+[[include:browser_DLC1.md]]
 
-![](images/proteinpaint/DLC1_NM_182643.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/DLC1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/DLC1_hg38.html)
-
-![](images/proteinpaint/DLC1.svg)
-
-## DLC1 Expression
+## Expression
 ![](images/gene_expression/DLC1_by_pathology.svg)
 <!-- ORIGIN: zhangGenomicLandscapeMantle2014 -->
 <!-- MCL: zhangGenomicLandscapeMantle2014 -->

@@ -25,15 +25,9 @@ Mutations in this gene were first described in FL in 2021 by Hübschmann et al.<
 [[include:dnds_MYCBP2.md]]
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/MYCBP2_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/MYCBP2_protein_hg38.html)
+[[include:browser_MYCBP2.md]]
 
-![](images/proteinpaint/MYCBP2_NM_015057.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/MYCBP2.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/MYCBP2_hg38.html)
-
-![](images/proteinpaint/MYCBP2.svg)
-
-## MYCBP2 Expression
+## Expression
 ![](images/gene_expression/MYCBP2_by_pathology.svg)
 
 

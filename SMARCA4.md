@@ -30,15 +30,9 @@ Overall, components of SWI/SNF have been identified as an emerging theme in germ
 
 [[include:dnds_SMARCA4.md]]
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/SMARCA4_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/SMARCA4_protein_hg38.html)
+[[include:browser_SMARCA4.md]]
 
-![](images/proteinpaint/SMARCA4_NM_001128849.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/SMARCA4.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/SMARCA4_hg38.html)
-
-![](images/proteinpaint/SMARCA4.svg)
-
-## SMARCA4 Expression
+## Expression
 ![](images/gene_expression/SMARCA4_by_pathology.svg)
 <!-- ORIGIN: zhangGeneticHeterogeneityDiffuse2013 -->
 <!-- MCL: nadeuGenomicEpigenomicInsights2020b -->

@@ -37,15 +37,9 @@ The relevance of NOTCH1 mutations in various malignancies has been well establis
 | chr9 | 139401207 | C>T | V1288I |
 | chr9 | 139401199 | G>C | D1290E |
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/NOTCH1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/NOTCH1_protein_hg38.html)
+[[include:browser_NOTCH1.md]]
 
-![](images/proteinpaint/NOTCH1_NM_017617.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/NOTCH1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/NOTCH1_hg38.html)
-
-![](images/proteinpaint/NOTCH1.svg)
-
-## NOTCH1 Expression
+## Expression
 ![](images/gene_expression/NOTCH1_by_pathology.svg)
 <!-- ORIGIN: pasqualucciAnalysisCodingGenome2011 -->
 <!-- BL: loveGeneticLandscapeMutations2012 -->

@@ -26,15 +26,9 @@ link-citations: true
 [[include:dnds_ANKRD17.md]]
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ANKRD17_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ANKRD17_protein_hg38.html)
+[[include:browser_ANKRD17.md]]
 
-![](images/proteinpaint/ANKRD17_NM_032217.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ANKRD17.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ANKRD17_hg38.html)
-
-![](images/proteinpaint/ANKRD17.svg)
-
-## ANKRD17 Expression
+## Expression
 ![](images/gene_expression/ANKRD17_by_pathology.svg)
 
 ## Representative Mutations[@reddyGeneticFunctionalDrivers2017]

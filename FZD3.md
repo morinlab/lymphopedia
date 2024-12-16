@@ -31,15 +31,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/FZD3_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/FZD3_protein_hg38.html)
+[[include:browser_FZD3.md]]
 
-![](images/proteinpaint/FZD3_NM_017412.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/FZD3.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/FZD3_hg38.html)
-
-![](images/proteinpaint/FZD3.svg)
-
-## FZD3 Expression
+## Expression
 ![](images/gene_expression/FZD3_by_pathology.svg)
 <!-- ORIGIN: paneaWholeGenomeLandscape2019 -->
 <!-- BL: paneaWholeGenomeLandscape2019 -->

@@ -24,15 +24,9 @@ link-citations: true
 
 [[include:dnds_ZC3H12A.md]]
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ZC3H12A_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ZC3H12A_protein_hg38.html)
+[[include:browser_ZC3H12A.md]]
 
-![](images/proteinpaint/ZC3H12A_NM_025079.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ZC3H12A.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ZC3H12A_hg38.html)
-
-![](images/proteinpaint/ZC3H12A.svg)
-
-## ZC3H12A Expression
+## Expression
 ![](images/gene_expression/ZC3H12A_by_pathology.svg)
 <!-- ORIGIN: arthurGenomewideDiscoverySomatic2018 -->
 <!-- DLBCL: arthurGenomewideDiscoverySomatic2018 -->

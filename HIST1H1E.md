@@ -53,15 +53,9 @@ Mutations in this gene were first described in DLBCL in 2013 by Morin et al.<sup
 | chr6 | 26157121 | A>T | K168I |
 | chr6 | 26157139 | A>G | K174R |
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/HIST1H1E_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/HIST1H1E_protein_hg38.html)
+[[include:browser_HIST1H1E.md]]
 
-![](images/proteinpaint/HIST1H1E_NM_005321.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/HIST1H1E.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/HIST1H1E_hg38.html)
-
-![](images/proteinpaint/HIST1H1E.svg)
-
-## HIST1H1E Expression
+## Expression
 ![](images/gene_expression/HIST1H1E_by_pathology.svg)
 
 [[include:mermaid_HIST1H1E.md]]

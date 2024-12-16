@@ -28,15 +28,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/POR_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/POR_protein_hg38.html)
+[[include:browser_POR.md]]
 
-![](images/proteinpaint/POR_NM_001382657.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/POR.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/POR_hg38.html)
-
-![](images/proteinpaint/POR.svg)
-
-## POR Expression
+## Expression
 ![](images/gene_expression/POR_by_pathology.svg)
 <!-- ORIGIN: loveGeneticLandscapeMutations2012 -->
 <!-- BL: loveGeneticLandscapeMutations2012 -->

@@ -55,15 +55,9 @@ IKZF3 (IKAROS family zinc finger 3, also known as AIOLOS) is a transcription fac
 |chr17|37944556|C>T|E222K| 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/IKZF3_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/IKZF3_protein_hg38.html)
+[[include:browser_IKZF3.md]]
 
-![](images/proteinpaint/IKZF3_NM_012481.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/IKZF3.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/IKZF3_hg38.html)
-
-![](images/proteinpaint/IKZF3.svg)
-
-## IKZF3 Expression
+## Expression
 ![](images/gene_expression/IKZF3_by_pathology.svg)
 
 [[include:mermaid_IKZF3.md]]

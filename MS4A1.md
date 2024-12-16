@@ -34,13 +34,9 @@ In relapsed DLBCLs, MS4A1 is sometimes mutated and these mutations have been sho
 |chr11   |60223385  |60225310|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr11%3A60223385%2D60225310)|active_promoter   |
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/MS4A1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/MS4A1_protein_hg38.html)
+[[include:browser_MS4A1.md]]
 
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/MS4A1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/MS4A1_hg38.html)
-
-![](images/proteinpaint/MS4A1.svg)
-
-## MS4A1 Expression
+## Expression
 ![](images/gene_expression/MS4A1_by_pathology.svg)
 
 [[include:mermaid_MS4A1.md]]

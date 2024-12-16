@@ -48,17 +48,9 @@ Recurrent mutations at the D419 amino acid residue are a common feature in DLBCL
 | chr12 | 57496656 | T>C | N421D |
 | chr12 | 57496654 | A>C | N421K |
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/STAT6_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/STAT6_protein_hg38.html)
+[[include:browser_STAT6.md]]
 
-![](images/proteinpaint/STAT6_NM_003153.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/STAT6.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/STAT6_hg38.html)
-
-![](images/proteinpaint/STAT6.svg)
-
-
-
-## STAT6 Expression
+## Expression
 ![](images/gene_expression/STAT6_by_pathology.svg)
 <!-- ORIGIN: yildizActivatingSTAT6Mutations2015c -->
 <!-- PMBL: ritzRecurrentMutationsSTAT62009a -->

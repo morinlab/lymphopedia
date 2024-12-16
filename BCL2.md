@@ -58,16 +58,9 @@ Although missense mutations may not be under positive selective pressure in the 
 | chr18 | 60985835 | T>C | K22R |
 | chr18 | 60985834 | CT>TC | K22R |
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/BCL2_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/BCL2_protein_hg38.html)
+[[include:browser_BCL2.md]]
 
-![](images/proteinpaint/BCL2_NM_000633.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/BCL2.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/BCL2_hg38.html)
-
-![](images/proteinpaint/BCL2.svg)
-
-
-## BCL2 Expression
+## Expression
 ![](images/gene_expression/BCL2_by_pathology.svg)
 
 <!-- ORIGIN: 1339299 -->

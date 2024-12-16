@@ -30,15 +30,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ESX1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ESX1_protein_hg38.html)
+[[include:browser_ESX1.md]]
 
-![](images/proteinpaint/ESX1_NM_153448.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ESX1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ESX1_hg38.html)
-
-![](images/proteinpaint/ESX1.svg)
-
-## ESX1 Expression
+## Expression
 ![](images/gene_expression/ESX1_by_pathology.svg)
 <!-- ORIGIN: zhangGenomicLandscapeMantle2014 -->
 <!-- MCL: zhangGenomicLandscapeMantle2014 -->

@@ -26,15 +26,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ZAN_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ZAN_protein_hg38.html)
+[[include:browser_ZAN.md]]
 
-![](images/proteinpaint/ZAN_NM_003386.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ZAN.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ZAN_hg38.html)
-
-![](images/proteinpaint/ZAN.svg)
-
-## ZAN Expression
+## Expression
 ![](images/gene_expression/ZAN_by_pathology.svg)
 <!-- ORIGIN: burkhardtClinicalRelevanceMolecular2022b -->
 <!-- BL: burkhardtClinicalRelevanceMolecular2022b -->

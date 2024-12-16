@@ -29,15 +29,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/TPST2_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/TPST2_protein_hg38.html)
+[[include:browser_TPST2.md]]
 
-![](images/proteinpaint/TPST2_NM_001008566.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/TPST2.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/TPST2_hg38.html)
-
-![](images/proteinpaint/TPST2.svg)
-
-## TPST2 Expression
+## Expression
 ![](images/gene_expression/TPST2_by_pathology.svg)
 <!-- ORIGIN: loveGeneticLandscapeMutations2012 -->
 <!-- BL: loveGeneticLandscapeMutations2012 -->

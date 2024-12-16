@@ -34,15 +34,9 @@ Mutations in this gene were first described in DLBCL and FL in 2021 by Hübschma
  | :---:| :---: | :--: | :---: |
 | chr19 | 10934492 | G>A | E604K |
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/DNM2_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/DNM2_protein_hg38.html)
+[[include:browser_DNM2.md]]
 
-![](images/proteinpaint/DNM2_NM_001005360.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/DNM2.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/DNM2_hg38.html)
-
-![](images/proteinpaint/DNM2.svg)
-
-## DNM2 Expression
+## Expression
 ![](images/gene_expression/DNM2_by_pathology.svg)
 
 ## All Mutations

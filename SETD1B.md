@@ -31,13 +31,9 @@ link-citations: true
 | chr12 | 122265950 | G>A | A1858T |
 | chr12 | 122265953 | C>T | R1859C |
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/SETD1B_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/SETD1B_protein_hg38.html)
+[[include:browser_SETD1B.md]]
 
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/SETD1B.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/SETD1B_hg38.html)
-
-![](images/proteinpaint/SETD1B.svg)
-
-## SETD1B Expression
+## Expression
 ![](images/gene_expression/SETD1B_by_pathology.svg)
 <!-- ORIGIN: reddyGeneticFunctionalDrivers2017 -->
 <!-- DLBCL: reddyGeneticFunctionalDrivers2017 -->

@@ -27,15 +27,9 @@ Mutations in this gene were first described in FL in 2021 by Hübschmann et al.<
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CPNE8_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CPNE8_protein_hg38.html)
+[[include:browser_CPNE8.md]]
 
-![](images/proteinpaint/CPNE8_NM_153634.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CPNE8.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CPNE8_hg38.html)
-
-![](images/proteinpaint/CPNE8.svg)
-
-## CPNE8 Expression
+## Expression
 ![](images/gene_expression/CPNE8_by_pathology.svg)
 
 ## All Mutations

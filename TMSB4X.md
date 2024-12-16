@@ -35,15 +35,9 @@ TMSB4X is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/TMSB4X_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/TMSB4X_protein_hg38.html)
+[[include:browser_TMSB4X.md]]
 
-![](images/proteinpaint/TMSB4X_NM_021109.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/TMSB4X.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/TMSB4X_hg38.html)
-
-![](images/proteinpaint/TMSB4X.svg)
-
-## TMSB4X Expression
+## Expression
 ![](images/gene_expression/TMSB4X_by_pathology.svg)
 <!-- ORIGIN: albuquerqueEnhancingKnowledgeDiscovery2017a -->
 <!-- DLBCL: albuquerqueEnhancingKnowledgeDiscovery2017a -->

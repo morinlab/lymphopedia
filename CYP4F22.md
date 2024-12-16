@@ -32,15 +32,9 @@ Due to [minimal support](CYP4F22#representative-mutation) in the original primar
 [[include:dnds_CYP4F22.md]]
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CYP4F22_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CYP4F22_protein_hg38.html)
+[[include:browser_CYP4F22.md]]
 
-![](images/proteinpaint/CYP4F22_NM_173483.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CYP4F22.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CYP4F22_hg38.html)
-
-![](images/proteinpaint/CYP4F22.svg)
-
-## CYP4F22 Expression
+## Expression
 ![](images/gene_expression/CYP4F22_by_pathology.svg)
 <!-- ORIGIN: loveGeneticLandscapeMutations2012 -->
 <!-- BL: loveGeneticLandscapeMutations2012 -->

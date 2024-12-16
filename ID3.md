@@ -32,15 +32,9 @@ The existence of mutations in DLBCL were described in 2012 by Schmitz et al[@sch
 |:--------:|:----------:|:--------:|:-----------------------------------------------------------------------------------------:|:------------------:|
 |chr1    |23885584  |23885835|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr1%3A23885584%2D23885835)|NA                |
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ID3_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ID3_protein_hg38.html)
+[[include:browser_ID3.md]]
 
-![](images/proteinpaint/ID3_NM_002167.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ID3.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ID3_hg38.html)
-
-![](images/proteinpaint/ID3.svg)
-
-## ID3 Expression
+## Expression
 ![](images/gene_expression/ID3_by_pathology.svg)
 
 [[include:mermaid_ID3.md]]

@@ -29,15 +29,9 @@ Due to [minimal support](SYNGAP1#representative-mutation) in the original primar
 [[include:dnds_SYNGAP1.md]]
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/SYNGAP1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/SYNGAP1_protein_hg38.html)
+[[include:browser_SYNGAP1.md]]
 
-![](images/proteinpaint/SYNGAP1_NM_006772.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/SYNGAP1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/SYNGAP1_hg38.html)
-
-![](images/proteinpaint/SYNGAP1.svg)
-
-## SYNGAP1 Expression
+## Expression
 ![](images/gene_expression/SYNGAP1_by_pathology.svg)
 <!-- ORIGIN: loveGeneticLandscapeMutations2012 -->
 <!-- BL: loveGeneticLandscapeMutations2012 -->

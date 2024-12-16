@@ -85,15 +85,9 @@ Mutations in the DTX1 gene, which encodes the E3 ubiquitin ligase Deltex 1, have
 | chr12 | 113496212 | A>G | Y72C |
 | chr12 | 113496213 | C>A | Y72* |
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/DTX1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/DTX1_protein_hg38.html)
+[[include:browser_DTX1.md]]
 
-![](images/proteinpaint/DTX1_NM_004416.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/DTX1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/DTX1_hg38.html)
-
-![](images/proteinpaint/DTX1.svg)
-
-## DTX1 Expression
+## Expression
 ![](images/gene_expression/DTX1_by_pathology.svg)
 
 ## Representative Mutations

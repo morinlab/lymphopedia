@@ -33,15 +33,9 @@ KRAS mutations are rare but occur in some cases of DLBCL.<sup>1</sup> These ofte
 | chr12 | 25398282 | C>A | G13C |
 | chr12 | 25398281 | C>T | G13D |
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/KRAS_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/KRAS_protein_hg38.html)
+[[include:browser_KRAS.md]]
 
-![](images/proteinpaint/KRAS_NM_033360.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/KRAS.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/KRAS_hg38.html)
-
-![](images/proteinpaint/KRAS.svg)
-
-## KRAS Expression
+## Expression
 ![](images/gene_expression/KRAS_by_pathology.svg)
 
 [[include:mermaid_KRAS.md]]

@@ -28,15 +28,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CPXM2_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CPXM2_protein_hg38.html)
+[[include:browser_CPXM2.md]]
 
-![](images/proteinpaint/CPXM2_NM_198148.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CPXM2.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CPXM2_hg38.html)
-
-![](images/proteinpaint/CPXM2.svg)
-
-## CPXM2 Expression
+## Expression
 ![](images/gene_expression/CPXM2_by_pathology.svg)
 <!-- ORIGIN: burkhardtClinicalRelevanceMolecular2022b -->
 <!-- BL: burkhardtClinicalRelevanceMolecular2022b -->

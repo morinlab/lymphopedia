@@ -29,15 +29,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/SIAH2_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/SIAH2_protein_hg38.html)
+[[include:browser_SIAH2.md]]
 
-![](images/proteinpaint/SIAH2_NM_005067.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/SIAH2.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/SIAH2_hg38.html)
-
-![](images/proteinpaint/SIAH2.svg)
-
-## SIAH2 Expression
+## Expression
 ![](images/gene_expression/SIAH2_by_pathology.svg)
 <!-- ORIGIN: reichelFlowSortingExome2015a -->
 <!-- DLBCL: hubschmannMutationalMechanismsShaping2021b -->

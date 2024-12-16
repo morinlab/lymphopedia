@@ -28,15 +28,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PASK_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PASK_protein_hg38.html)
+[[include:browser_PASK.md]]
 
-![](images/proteinpaint/PASK_NM_015148.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PASK.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PASK_hg38.html)
-
-![](images/proteinpaint/PASK.svg)
-
-## PASK Expression
+## Expression
 ![](images/gene_expression/PASK_by_pathology.svg)
 <!-- ORIGIN: morinMutationalStructuralAnalysis2013 -->
 <!-- DLBCL: morinMutationalStructuralAnalysis2013 -->

@@ -28,15 +28,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/HIST1H3G_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/HIST1H3G_protein_hg38.html)
+[[include:browser_HIST1H3G.md]]
 
-![](images/proteinpaint/HIST1H3G_NM_003534.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/HIST1H3G.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/HIST1H3G_hg38.html)
-
-![](images/proteinpaint/HIST1H3G.svg)
-
-## HIST1H3G Expression
+## Expression
 ![](images/gene_expression/HIST1H3G_by_pathology.svg)
 <!-- ORIGIN: krysiakRecurrentSomaticMutations2017b -->
 <!-- FL: krysiakRecurrentSomaticMutations2017b -->

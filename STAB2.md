@@ -24,15 +24,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/STAB2_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/STAB2_protein_hg38.html)
+[[include:browser_STAB2.md]]
 
-![](images/proteinpaint/STAB2_NM_017564.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/STAB2.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/STAB2_hg38.html)
-
-![](images/proteinpaint/STAB2.svg)
-
-## STAB2 Expression
+## Expression
 ![](images/gene_expression/STAB2_by_pathology.svg)
 <!-- ORIGIN: russler-germainMutationsAssociatedProgression2023a -->
 <!-- FL: russler-germainMutationsAssociatedProgression2023b -->

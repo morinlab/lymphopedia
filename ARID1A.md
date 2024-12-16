@@ -32,15 +32,9 @@ Overall, components of SWI/SNF have been identified as an emerging theme in germ
 
 [[include:dnds_ARID1A.md]]
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ARID1A_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ARID1A_protein_hg38.html)
+[[include:browser_ARID1A.md]]
 
-![](images/proteinpaint/ARID1A_NM_006015.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ARID1A.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ARID1A_hg38.html)
-
-![](images/proteinpaint/ARID1A.svg)
-
-## ARID1A Expression
+## Expression
 ![](images/gene_expression/ARID1A_by_pathology.svg)
 <!-- ORIGIN: loveGeneticLandscapeMutations2012 -->
 <!-- MZL: rossiCodingGenomeSplenic2012c -->

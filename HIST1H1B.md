@@ -32,15 +32,9 @@ This is one of several genes that encode linker histone proteins that are recurr
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/HIST1H1B_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/HIST1H1B_protein_hg38.html)
+[[include:browser_HIST1H1B.md]]
 
-![](images/proteinpaint/HIST1H1B_NM_005322.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/HIST1H1B.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/HIST1H1B_hg38.html)
-
-![](images/proteinpaint/HIST1H1B.svg)
-
-## HIST1H1B Expression
+## Expression
 ![](images/gene_expression/HIST1H1B_by_pathology.svg)
 <!-- ORIGIN: krysiakRecurrentSomaticMutations2017b -->
 <!-- PMBL: sarkozyMutationalLandscapeGray2021a -->

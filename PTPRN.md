@@ -28,15 +28,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PTPRN_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PTPRN_protein_hg38.html)
+[[include:browser_PTPRN.md]]
 
-![](images/proteinpaint/PTPRN_NM_002846.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PTPRN.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PTPRN_hg38.html)
-
-![](images/proteinpaint/PTPRN.svg)
-
-## PTPRN Expression
+## Expression
 ![](images/gene_expression/PTPRN_by_pathology.svg)
 <!-- ORIGIN: loveGeneticLandscapeMutations2012 -->
 <!-- BL: loveGeneticLandscapeMutations2012 -->

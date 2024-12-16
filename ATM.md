@@ -26,15 +26,9 @@ Mutations in this gene were first described in MZL by Braggio et al,<sup>1</sup>
 [[include:dnds_ATM.md]]
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ATM_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ATM_protein_hg38.html)
+[[include:browser_ATM.md]]
 
-![](images/proteinpaint/ATM_NM_000051.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ATM.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ATM_hg38.html)
-
-![](images/proteinpaint/ATM.svg)
-
-## ATM Expression
+## Expression
 ![](images/gene_expression/ATM_by_pathology.svg)
 
 [[include:mermaid_ATM.md]]

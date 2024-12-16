@@ -33,19 +33,9 @@ Mutations in the HLA-B gene have been associated with a loss of cell surface exp
 | chr6 | 29910596 | T>A | F46I |
 | chr6 | 29910609 | G>A | G50D |
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/HLA-A_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/HLA-A_protein_hg38.html)
+[[include:browser_HLA-A.md]]
 
-![](images/proteinpaint/HLA-A_NM_002116.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/HLA-A.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/HLA-A_hg38.html)
-
-![](images/proteinpaint/HLA-A.svg)
-
-[[include:mermaid_HLA-A.md]]
-
-## References
-
-## HLA-A Expression
+## Expression
 ![](images/gene_expression/HLA-A_by_pathology.svg)
 <!-- ORIGIN: deschGenotypingCirculatingTumor2020 -->
 <!-- BL: 2 -->

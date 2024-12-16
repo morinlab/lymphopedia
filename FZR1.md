@@ -24,15 +24,9 @@ Mutations in this gene were first described in DLBCL and FL in 2021 by Hübschma
 
 [[include:dnds_FZR1.md]]
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/FZR1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/FZR1_protein_hg38.html)
+[[include:browser_FZR1.md]]
 
-![](images/proteinpaint/FZR1_NM_001136198.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/FZR1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/FZR1_hg38.html)
-
-![](images/proteinpaint/FZR1.svg)
-
-## FZR1 Expression
+## Expression
 ![](images/gene_expression/FZR1_by_pathology.svg)
 
 ## All Mutations

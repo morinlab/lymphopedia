@@ -31,15 +31,9 @@ link-citations: true
 > Mutations in this gene were reported to be inflated in the original results according to [Dreval K](https://www.biorxiv.org/content/10.1101/2023.11.21.567983v1)
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ZFX_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ZFX_protein_hg38.html)
+[[include:browser_ZFX.md]]
 
-![](images/proteinpaint/ZFX_NM_003410.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ZFX.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ZFX_hg38.html)
-
-![](images/proteinpaint/ZFX.svg)
-
-## ZFX Expression
+## Expression
 ![](images/gene_expression/ZFX_by_pathology.svg)
 <!-- ORIGIN: reddyGeneticFunctionalDrivers2017 -->
 <!-- DLBCL: reddyGeneticFunctionalDrivers2017 -->

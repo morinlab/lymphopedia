@@ -29,15 +29,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/SYNE1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/SYNE1_protein_hg38.html)
+[[include:browser_SYNE1.md]]
 
-![](images/proteinpaint/SYNE1_NM_182961.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/SYNE1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/SYNE1_hg38.html)
-
-![](images/proteinpaint/SYNE1.svg)
-
-## SYNE1 Expression
+## Expression
 ![](images/gene_expression/SYNE1_by_pathology.svg)
 <!-- ORIGIN: nadeuGenomicEpigenomicInsights2020a -->
 <!-- MCL: nadeuGenomicEpigenomicInsights2020b -->

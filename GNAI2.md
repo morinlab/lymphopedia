@@ -45,15 +45,9 @@ Mutations were first described in DLBCL in 2013 by Morin et al<sup>1</sup> and i
 | chr3 | 50293698 | T>A | V180E |
 | chr3 | 50293703 | A>G | T182A |
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/GNAI2_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/GNAI2_protein_hg38.html)
+[[include:browser_GNAI2.md]]
 
-![](images/proteinpaint/GNAI2_NM_002070.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/GNAI2.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/GNAI2_hg38.html)
-
-![](images/proteinpaint/GNAI2.svg)
-
-## GNAI2 Expression
+## Expression
 ![](images/gene_expression/GNAI2_by_pathology.svg)
 
 [[include:mermaid_GNAI2.md]]

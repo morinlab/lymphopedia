@@ -52,15 +52,9 @@ The functional effect of CARD11 mutations in DLBCL was explored in the original 
 | chr7 | 2977602 | T>G | Y361S |
 | chr7 | 2977602 | T>C | Y361C |
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CARD11_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CARD11_protein_hg38.html)
+[[include:browser_CARD11.md]]
 
-![](images/proteinpaint/CARD11_NM_032415.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CARD11.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CARD11_hg38.html)
-
-![](images/proteinpaint/CARD11.svg)
-
-## CARD11 Expression
+## Expression
 ![](images/gene_expression/CARD11_by_pathology.svg)
 
 

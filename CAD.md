@@ -39,15 +39,9 @@ Due to [minimal support](CAD#representative-mutation) in the original primary da
  | :---:| :---: | :--: | :---: |
 | chr2 | 27455966 | T>A | Y983* |
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CAD_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CAD_protein_hg38.html)
+[[include:browser_CAD.md]]
 
-![](images/proteinpaint/CAD_NM_004341.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CAD.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CAD_hg38.html)
-
-![](images/proteinpaint/CAD.svg)
-
-## CAD Expression
+## Expression
 ![](images/gene_expression/CAD_by_pathology.svg)
 <!-- ORIGIN: loveGeneticLandscapeMutations2012 -->
 <!-- BL: loveGeneticLandscapeMutations2012 -->

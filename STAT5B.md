@@ -31,15 +31,9 @@ Mutations in this gene were first described in DLBCL in 2013[@zhangGeneticHetero
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/STAT5B_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/STAT5B_protein_hg38.html)
+[[include:browser_STAT5B.md]]
 
-![](images/proteinpaint/STAT5B_NM_012448.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/STAT5B.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/STAT5B_hg38.html)
-
-![](images/proteinpaint/STAT5B.svg)
-
-## STAT5B Expression
+## Expression
 ![](images/gene_expression/STAT5B_by_pathology.svg)
 <!-- ORIGIN: zhangGeneticHeterogeneityDiffuse2013 -->
 <!-- PMBL: tiacciPervasiveMutationsJAKSTAT2018b -->

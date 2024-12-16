@@ -42,17 +42,9 @@ The ITPKB gene encodes inositol-trisphosphate 3-kinase B, an enzyme involved in 
 | chr1 | 226925148 | G>C | Y4* |
 | chr1 | 226925148 | G>T | Y4* |
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ITPKB_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ITPKB_protein_hg38.html)
+[[include:browser_ITPKB.md]]
 
-![](images/proteinpaint/ITPKB_NM_002221.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ITPKB.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ITPKB_hg38.html)
-
-![](images/proteinpaint/ITPKB.svg)
-
-
-
-## ITPKB Expression
+## Expression
 ![](images/gene_expression/ITPKB_by_pathology.svg)
 <!-- ORIGIN: reichelFlowSortingExome2015a -->
 <!-- PMBL: reichelFlowSortingExome2015a -->

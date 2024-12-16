@@ -35,15 +35,9 @@ MEF2C is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm)
 |chr5    |88182244  |88206620|[TSS-1](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr5%3A88182244%2D88206620)|active_promoter   |
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/MEF2C_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/MEF2C_protein_hg38.html)
+[[include:browser_MEF2C.md]]
 
-![](images/proteinpaint/MEF2C_NM_002397.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/MEF2C.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/MEF2C_hg38.html)
-
-![](images/proteinpaint/MEF2C.svg)
-
-## MEF2C Expression
+## Expression
 ![](images/gene_expression/MEF2C_by_pathology.svg)
 
 [[include:mermaid_MEF2C.md]]

@@ -27,15 +27,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/EXOSC6_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/EXOSC6_protein_hg38.html)
+[[include:browser_EXOSC6.md]]
 
-![](images/proteinpaint/EXOSC6_NM_058219.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/EXOSC6.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/EXOSC6_hg38.html)
-
-![](images/proteinpaint/EXOSC6.svg)
-
-## EXOSC6 Expression
+## Expression
 ![](images/gene_expression/EXOSC6_by_pathology.svg)
 <!-- ORIGIN: schmitzBurkittLymphomaPathogenesis2012 -->
 <!-- BL: schmitzBurkittLymphomaPathogenesis2012 -->

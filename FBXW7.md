@@ -28,15 +28,9 @@ In leukemias, FBXW7 mutations enhance the activity of leukemia-initiating cells 
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/FBXW7_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/FBXW7_protein_hg38.html)
+[[include:browser_FBXW7.md]]
 
-![](images/proteinpaint/FBXW7_NM_033632.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/FBXW7.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/FBXW7_hg38.html)
-
-![](images/proteinpaint/FBXW7.svg)
-
-## FBXW7 Expression
+## Expression
 ![](images/gene_expression/FBXW7_by_pathology.svg)
 
 [[include:mermaid_FBXW7.md]]

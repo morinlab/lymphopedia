@@ -28,15 +28,9 @@ link-citations: true
 |FL    |No  |No                   |0.000           |0               |
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/EIF2AK4_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/EIF2AK4_protein_hg38.html)
+[[include:browser_EIF2AK4.md]]
 
-![](images/proteinpaint/EIF2AK4_NM_001013703.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/EIF2AK4.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/EIF2AK4_hg38.html)
-
-![](images/proteinpaint/EIF2AK4.svg)
-
-## EIF2AK4 Expression
+## Expression
 ![](images/gene_expression/EIF2AK4_by_pathology.svg)
 <!-- ORIGIN: zhangGenomicLandscapeMantle2014 -->
 <!-- MCL: zhangGenomicLandscapeMantle2014 -->

@@ -27,15 +27,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/MYO18A_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/MYO18A_protein_hg38.html)
+[[include:browser_MYO18A.md]]
 
-![](images/proteinpaint/MYO18A_NM_078471.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/MYO18A.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/MYO18A_hg38.html)
-
-![](images/proteinpaint/MYO18A.svg)
-
-## MYO18A Expression
+## Expression
 ![](images/gene_expression/MYO18A_by_pathology.svg)
 
 [[include:mermaid_MYO18A.md]]

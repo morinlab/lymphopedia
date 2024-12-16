@@ -35,15 +35,9 @@ S1PR2 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm)
 |chr19   |10340142  |10341764|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr19%3A10340142%2D10341764)|active_promoter   |
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/S1PR2_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/S1PR2_protein_hg38.html)
+[[include:browser_S1PR2.md]]
 
-![](images/proteinpaint/S1PR2_NM_004230.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/S1PR2.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/S1PR2_hg38.html)
-
-![](images/proteinpaint/S1PR2.svg)
-
-## S1PR2 Expression
+## Expression
 ![](images/gene_expression/S1PR2_by_pathology.svg)
 <!-- ORIGIN: 21796119 -->
 <!-- BL: muppidiLossSignalingGa132014b -->

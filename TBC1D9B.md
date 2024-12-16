@@ -27,15 +27,9 @@ link-citations: true
 [[include:dnds_TBC1D9B.md]]
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/TBC1D9B_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/TBC1D9B_protein_hg38.html)
+[[include:browser_TBC1D9B.md]]
 
-![](images/proteinpaint/TBC1D9B_NM_198868.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/TBC1D9B.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/TBC1D9B_hg38.html)
-
-![](images/proteinpaint/TBC1D9B.svg)
-
-## TBC1D9B Expression
+## Expression
 ![](images/gene_expression/TBC1D9B_by_pathology.svg)
 <!-- ORIGIN: loveGeneticLandscapeMutations2012 -->
 <!-- BL: loveGeneticLandscapeMutations2012 -->

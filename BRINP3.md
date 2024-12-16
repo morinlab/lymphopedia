@@ -31,15 +31,9 @@ Mutations in this gene were first described in DLBCL in 2017 by Reddy et al.<sup
 [[include:dnds_BRINP3.md]]
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/BRINP3_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/BRINP3_protein_hg38.html)
+[[include:browser_BRINP3.md]]
 
-![](images/proteinpaint/BRINP3_NM_199051.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/BRINP3.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/BRINP3_hg38.html)
-
-![](images/proteinpaint/BRINP3.svg)
-
-## BRINP3 Expression
+## Expression
 ![](images/gene_expression/BRINP3_by_pathology.svg)
 
 ## Representative Mutations

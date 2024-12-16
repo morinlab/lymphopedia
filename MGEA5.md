@@ -29,15 +29,9 @@ Mutations in this gene were first described in DLBCL and FL in 2021 by Hübschma
 |FL    |No  |No                   |3.398           |0               |
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/MGEA5_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/MGEA5_protein_hg38.html)
+[[include:browser_MGEA5.md]]
 
-![](images/proteinpaint/MGEA5_NM_012215.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/MGEA5.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/MGEA5_hg38.html)
-
-![](images/proteinpaint/MGEA5.svg)
-
-## MGEA5 Expression
+## Expression
 ![](images/gene_expression/MGEA5_by_pathology.svg)
 
 ## All Mutations

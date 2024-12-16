@@ -28,15 +28,9 @@ Mutations in this gene were first described in DLBCL in 2017 by Reddy et al.<sup
 [[include:dnds_ATR.md]]
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ATR_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ATR_protein_hg38.html)
+[[include:browser_ATR.md]]
 
-![](images/proteinpaint/ATR_NM_001184.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ATR.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ATR_hg38.html)
-
-![](images/proteinpaint/ATR.svg)
-
-## ATR Expression
+## Expression
 ![](images/gene_expression/ATR_by_pathology.svg)
 
 ## Representative Mutations

@@ -32,15 +32,9 @@ link-citations: true
  | :---:| :---: | :--: | :---: |
 | chr8 | 144946005 | G>A | R473W |
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/EPPK1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/EPPK1_protein_hg38.html)
+[[include:browser_EPPK1.md]]
 
-![](images/proteinpaint/EPPK1_NM_031308.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/EPPK1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/EPPK1_hg38.html)
-
-![](images/proteinpaint/EPPK1.svg)
-
-## EPPK1 Expression
+## Expression
 ![](images/gene_expression/EPPK1_by_pathology.svg)
 <!-- ORIGIN: paneaWholeGenomeLandscape2019 -->
 <!-- BL: paneaWholeGenomeLandscape2019 -->

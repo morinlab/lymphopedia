@@ -25,15 +25,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/KIR3DL1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/KIR3DL1_protein_hg38.html)
+[[include:browser_KIR3DL1.md]]
 
-![](images/proteinpaint/KIR3DL1_NM_013289.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/KIR3DL1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/KIR3DL1_hg38.html)
-
-![](images/proteinpaint/KIR3DL1.svg)
-
-## KIR3DL1 Expression
+## Expression
 ![](images/gene_expression/KIR3DL1_by_pathology.svg)
 <!-- ORIGIN: russler-germainMutationsAssociatedProgression2023a -->
 <!-- FL: russler-germainMutationsAssociatedProgression2023b -->

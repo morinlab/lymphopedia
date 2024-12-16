@@ -30,15 +30,9 @@ link-citations: true
  | :---:| :---: | :--: | :---: |
 | chr1 | 120458147 | G>A | R2400* |
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/NOTCH2_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/NOTCH2_protein_hg38.html)
+[[include:browser_NOTCH2.md]]
 
-![](images/proteinpaint/NOTCH2_NM_024408.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/NOTCH2.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/NOTCH2_hg38.html)
-
-![](images/proteinpaint/NOTCH2.svg)
-
-## NOTCH2 Expression
+## Expression
 ![](images/gene_expression/NOTCH2_by_pathology.svg)
 <!-- ORIGIN: 18508802 -->
 <!-- DLBCL: troenNOTCH2MutationsMarginal2008 -->

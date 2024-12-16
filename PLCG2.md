@@ -33,15 +33,9 @@ link-citations: true
  | :---:| :---: | :--: | :---: |
 | chr16 | 81819719 | C>A | T42N |
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PLCG2_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PLCG2_protein_hg38.html)
+[[include:browser_PLCG2.md]]
 
-![](images/proteinpaint/PLCG2_NM_002661.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PLCG2.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PLCG2_hg38.html)
-
-![](images/proteinpaint/PLCG2.svg)
-
-## PLCG2 Expression
+## Expression
 ![](images/gene_expression/PLCG2_by_pathology.svg)
 <!-- ORIGIN: paneaWholeGenomeLandscape2019 -->
 <!-- BL: paneaWholeGenomeLandscape2019 -->

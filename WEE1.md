@@ -41,15 +41,9 @@ WEE1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) 
 | chr11 | 9595888 | C>G | S136R |
 | chr11 | 9595889 | T>G | S137A |
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/WEE1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/WEE1_protein_hg38.html)
+[[include:browser_WEE1.md]]
 
-![](images/proteinpaint/WEE1_NM_003390.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/WEE1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/WEE1_hg38.html)
-
-![](images/proteinpaint/WEE1.svg)
-
-## WEE1 Expression
+## Expression
 ![](images/gene_expression/WEE1_by_pathology.svg)
 <!-- ORIGIN: reichelFlowSortingExome2015a -->
 <!-- PMBL: reichelFlowSortingExome2015a -->

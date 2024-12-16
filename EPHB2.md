@@ -31,15 +31,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/EPHB2_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/EPHB2_protein_hg38.html)
+[[include:browser_EPHB2.md]]
 
-![](images/proteinpaint/EPHB2_NM_017449.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/EPHB2.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/EPHB2_hg38.html)
-
-![](images/proteinpaint/EPHB2.svg)
-
-## EPHB2 Expression
+## Expression
 ![](images/gene_expression/EPHB2_by_pathology.svg)
 <!-- ORIGIN: loveGeneticLandscapeMutations2012 -->
 <!-- BL: loveGeneticLandscapeMutations2012 -->

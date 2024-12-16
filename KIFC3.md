@@ -31,15 +31,9 @@ Due to [minimal support](KIFC3#representative-mutations) in the original primary
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/KIFC3_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/KIFC3_protein_hg38.html)
+[[include:browser_KIFC3.md]]
 
-![](images/proteinpaint/KIFC3_NM_005550.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/KIFC3.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/KIFC3_hg38.html)
-
-![](images/proteinpaint/KIFC3.svg)
-
-## KIFC3 Expression
+## Expression
 ![](images/gene_expression/KIFC3_by_pathology.svg)
 <!-- ORIGIN: loveGeneticLandscapeMutations2012 -->
 <!-- BL: loveGeneticLandscapeMutations2012 -->

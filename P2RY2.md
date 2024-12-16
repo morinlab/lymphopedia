@@ -27,15 +27,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/P2RY2_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/P2RY2_protein_hg38.html)
+[[include:browser_P2RY2.md]]
 
-![](images/proteinpaint/P2RY2_NM_176072.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/P2RY2.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/P2RY2_hg38.html)
-
-![](images/proteinpaint/P2RY2.svg)
-
-## P2RY2 Expression
+## Expression
 ![](images/gene_expression/P2RY2_by_pathology.svg)
 <!-- ORIGIN: loveGeneticLandscapeMutations2012 -->
 <!-- BL: loveGeneticLandscapeMutations2012 -->

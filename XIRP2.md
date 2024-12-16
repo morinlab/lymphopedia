@@ -31,15 +31,9 @@ link-citations: true
  | :---:| :---: | :--: | :---: |
 | chr2 | 168107297 | G>A | R3132Q |
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/XIRP2_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/XIRP2_protein_hg38.html)
+[[include:browser_XIRP2.md]]
 
-![](images/proteinpaint/XIRP2_NM_152381.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/XIRP2.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/XIRP2_hg38.html)
-
-![](images/proteinpaint/XIRP2.svg)
-
-## XIRP2 Expression
+## Expression
 ![](images/gene_expression/XIRP2_by_pathology.svg)
 <!-- ORIGIN: russler-germainMutationsAssociatedProgression2023a -->
 <!-- FL: russler-germainMutationsAssociatedProgression2023b -->

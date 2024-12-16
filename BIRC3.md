@@ -37,15 +37,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/BIRC3_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/BIRC3_protein_hg38.html)
+[[include:browser_BIRC3.md]]
 
-![](images/proteinpaint/BIRC3_NM_001165.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/BIRC3.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/BIRC3_hg38.html)
-
-![](images/proteinpaint/BIRC3.svg)
-
-## BIRC3 Expression
+## Expression
 ![](images/gene_expression/BIRC3_by_pathology.svg)
 <!-- ORIGIN: rossiAlterationBIRC3Multiple2011a -->
 <!-- PMBL: dunsCharacterizationDLBCLPMBL2021b -->

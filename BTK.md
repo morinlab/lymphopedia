@@ -23,16 +23,9 @@ One study reported BTK mutations in approximately 7% of FL and 11% of transforme
 
 [[include:dnds_BTK.md]]
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/BTK_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/BTK_protein_hg38.html)
+[[include:browser_BTK.md]]
 
-![](images/proteinpaint/BTK_NM_000061.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/BTK.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/BTK_hg38.html)
-
-![](images/proteinpaint/BTK.svg)
-
-
-## BTK Expression
+## Expression
 ![](images/gene_expression/BTK_by_pathology.svg)
 <!-- ORIGIN: albuquerqueEnhancingKnowledgeDiscovery2017a -->
 <!-- FL: krysiakRecurrentSomaticMutations2017b -->

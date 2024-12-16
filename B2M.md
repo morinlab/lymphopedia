@@ -60,15 +60,9 @@ B2M mutations in B-cell lymphomas, particularly in DLBCL and PMBCL, lead to redu
 | chr15 | 45003781 | C>T | L13F |
 | chr15 | 45003782 | T>C | L13P |
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/B2M_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/B2M_protein_hg38.html)
+[[include:browser_B2M.md]]
 
-![](images/proteinpaint/B2M_NM_004048.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/B2M.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/B2M_hg38.html)
-
-![](images/proteinpaint/B2M.svg)
-
-## B2M Expression
+## Expression
 ![](images/gene_expression/B2M_by_pathology.svg)
 
 <!-- ORIGIN: morinFrequentMutationHistonemodifying2011 -->

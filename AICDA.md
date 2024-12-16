@@ -33,15 +33,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/AICDA_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/AICDA_protein_hg38.html)
+[[include:browser_AICDA.md]]
 
-![](images/proteinpaint/AICDA_NM_020661.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/AICDA.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/AICDA_hg38.html)
-
-![](images/proteinpaint/AICDA.svg)
-
-## AICDA Expression
+## Expression
 ![](images/gene_expression/AICDA_by_pathology.svg)
 <!-- ORIGIN: arthurGenomewideDiscoverySomatic2018 -->
 <!-- DLBCL: arthurGenomewideDiscoverySomatic2018 -->

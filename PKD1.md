@@ -27,15 +27,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PKD1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PKD1_protein_hg38.html)
+[[include:browser_PKD1.md]]
 
-![](images/proteinpaint/PKD1_NM_001009944.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PKD1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PKD1_hg38.html)
-
-![](images/proteinpaint/PKD1.svg)
-
-## PKD1 Expression
+## Expression
 ![](images/gene_expression/PKD1_by_pathology.svg)
 <!-- ORIGIN: morinMutationalStructuralAnalysis2013 -->
 <!-- DLBCL: morinMutationalStructuralAnalysis2013 -->

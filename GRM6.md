@@ -25,15 +25,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/GRM6_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/GRM6_protein_hg38.html)
+[[include:browser_GRM6.md]]
 
-![](images/proteinpaint/GRM6_NM_000843.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/GRM6.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/GRM6_hg38.html)
-
-![](images/proteinpaint/GRM6.svg)
-
-## GRM6 Expression
+## Expression
 ![](images/gene_expression/GRM6_by_pathology.svg)
 <!-- ORIGIN: russler-germainMutationsAssociatedProgression2023a -->
 <!-- FL: russler-germainMutationsAssociatedProgression2023b -->

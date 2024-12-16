@@ -38,15 +38,9 @@ link-citations: true
  | :---:| :---: | :--: | :---: |
 | chr9 | 8376670 | T>G | Q1481H |
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PTPRD_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PTPRD_protein_hg38.html)
+[[include:browser_PTPRD.md]]
 
-![](images/proteinpaint/PTPRD_NM_002839.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PTPRD.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PTPRD_hg38.html)
-
-![](images/proteinpaint/PTPRD.svg)
-
-## PTPRD Expression
+## Expression
 ![](images/gene_expression/PTPRD_by_pathology.svg)
 <!-- ORIGIN: spinaGeneticsNodalMarginal2016b -->
 <!-- MZL: spinaGeneticsNodalMarginal2016b -->

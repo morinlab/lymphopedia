@@ -32,15 +32,9 @@ Mutations in this gene were first described in DLBCL in 2017 by Reddy et al.<sup
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/DCAF6_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/DCAF6_protein_hg38.html)
+[[include:browser_DCAF6.md]]
 
-![](images/proteinpaint/DCAF6_NM_018442.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/DCAF6.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/DCAF6_hg38.html)
-
-![](images/proteinpaint/DCAF6.svg)
-
-## DCAF6 Expression
+## Expression
 ![](images/gene_expression/DCAF6_by_pathology.svg)
 
 ## All Mutations

@@ -30,15 +30,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/COL11A1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/COL11A1_protein_hg38.html)
+[[include:browser_COL11A1.md]]
 
-![](images/proteinpaint/COL11A1_NM_001854.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/COL11A1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/COL11A1_hg38.html)
-
-![](images/proteinpaint/COL11A1.svg)
-
-## COL11A1 Expression
+## Expression
 ![](images/gene_expression/COL11A1_by_pathology.svg)
 <!-- ORIGIN: zhangGenomicLandscapeMantle2014 -->
 <!-- MCL: zhangGenomicLandscapeMantle2014 -->

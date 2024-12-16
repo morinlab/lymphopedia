@@ -28,13 +28,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/HIST1H2BD_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/HIST1H2BD_protein_hg38.html)
+[[include:browser_HIST1H2BD.md]]
 
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/HIST1H2BD.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/HIST1H2BD_hg38.html)
-
-![](images/proteinpaint/HIST1H2BD.svg)
-
-## HIST1H2BD Expression
+## Expression
 ![](images/gene_expression/HIST1H2BD_by_pathology.svg)
 <!-- ORIGIN: krysiakRecurrentSomaticMutations2017b -->
 <!-- FL: krysiakRecurrentSomaticMutations2017b -->

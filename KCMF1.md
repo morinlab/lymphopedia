@@ -28,15 +28,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/KCMF1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/KCMF1_protein_hg38.html)
+[[include:browser_KCMF1.md]]
 
-![](images/proteinpaint/KCMF1_NM_020122.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/KCMF1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/KCMF1_hg38.html)
-
-![](images/proteinpaint/KCMF1.svg)
-
-## KCMF1 Expression
+## Expression
 ![](images/gene_expression/KCMF1_by_pathology.svg)
 <!-- ORIGIN: reddyGeneticFunctionalDrivers2017 -->
 <!-- DLBCL: reddyGeneticFunctionalDrivers2017 -->

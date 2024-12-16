@@ -22,15 +22,9 @@ link-citations: true
 
 [[include:dnds_USP7.md]]
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/USP7_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/USP7_protein_hg38.html)
+[[include:browser_USP7.md]]
 
-![](images/proteinpaint/USP7_NM_003470.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/USP7.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/USP7_hg38.html)
-
-![](images/proteinpaint/USP7.svg)
-
-## USP7 Expression
+## Expression
 ![](images/gene_expression/USP7_by_pathology.svg)
 
 [[include:mermaid_USP7.md]]

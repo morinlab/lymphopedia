@@ -28,15 +28,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/MET_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/MET_protein_hg38.html)
+[[include:browser_MET.md]]
 
-![](images/proteinpaint/MET_NM_001127500.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/MET.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/MET_hg38.html)
-
-![](images/proteinpaint/MET.svg)
-
-## MET Expression
+## Expression
 ![](images/gene_expression/MET_by_pathology.svg)
 <!-- ORIGIN: reddyGeneticFunctionalDrivers2017 -->
 <!-- DLBCL: reddyGeneticFunctionalDrivers2017 -->

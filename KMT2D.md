@@ -36,15 +36,9 @@ Mutations were later described in MCL in 2013 by Bea et al.<sup>4</sup> KMT2D mu
 
 [[include:dnds_KMT2D.md]]
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/KMT2D_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/KMT2D_protein_hg38.html)
+[[include:browser_KMT2D.md]]
 
-![](images/proteinpaint/KMT2D_NM_003482.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/KMT2D.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/KMT2D_hg38.html)
-
-![](images/proteinpaint/KMT2D.svg)
-
-## KMT2D Expression
+## Expression
 ![](images/gene_expression/KMT2D_by_pathology.svg)
 
 

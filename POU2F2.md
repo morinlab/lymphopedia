@@ -31,15 +31,9 @@ link-citations: true
 | chr19 | 42600030 | T>C | T239A |
 | chr19 | 42600030 | T>A | T239S |
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/POU2F2_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/POU2F2_protein_hg38.html)
+[[include:browser_POU2F2.md]]
 
-![](images/proteinpaint/POU2F2_NM_002698.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/POU2F2.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/POU2F2_hg38.html)
-
-![](images/proteinpaint/POU2F2.svg)
-
-## POU2F2 Expression
+## Expression
 ![](images/gene_expression/POU2F2_by_pathology.svg)
 <!-- ORIGIN: zhangGeneticHeterogeneityDiffuse2013 -->
 <!-- DLBCL: zhangGeneticHeterogeneityDiffuse2013 -->

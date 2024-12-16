@@ -31,13 +31,9 @@ The prevalence of MYOM2 mutations in DLBCL varies across studies. The role of th
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/MYOM2_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/MYOM2_protein_hg38.html)
+[[include:browser_MYOM2.md]]
 
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/MYOM2.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/MYOM2_hg38.html)
-
-![](images/proteinpaint/MYOM2.svg)
-
-## MYOM2 Expression
+## Expression
 ![](images/gene_expression/MYOM2_by_pathology.svg)
 <!-- ORIGIN: pasqualucciAnalysisCodingGenome2011 -->
 <!-- DLBCL: pasqualucciAnalysisCodingGenome2011 -->

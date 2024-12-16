@@ -38,15 +38,9 @@ link-citations: true
 |chr6    |159237903 |159240216|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr6%3A159237903%2D159240216)|NA                |
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/EZR_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/EZR_protein_hg38.html)
+[[include:browser_EZR.md]]
 
-![](images/proteinpaint/EZR_NM_003379.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/EZR.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/EZR_hg38.html)
-
-![](images/proteinpaint/EZR.svg)
-
-## EZR Expression
+## Expression
 ![](images/gene_expression/EZR_by_pathology.svg)
 <!-- ORIGIN: deschGenotypingCirculatingTumor2020 -->
 <!-- PMBL: deschGenotypingCirculatingTumor2020 -->

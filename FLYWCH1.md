@@ -27,15 +27,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/FLYWCH1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/FLYWCH1_protein_hg38.html)
+[[include:browser_FLYWCH1.md]]
 
-![](images/proteinpaint/FLYWCH1_NM_032296.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/FLYWCH1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/FLYWCH1_hg38.html)
-
-![](images/proteinpaint/FLYWCH1.svg)
-
-## FLYWCH1 Expression
+## Expression
 ![](images/gene_expression/FLYWCH1_by_pathology.svg)
 <!-- ORIGIN: schmitzBurkittLymphomaPathogenesis2012 -->
 <!-- BL: schmitzBurkittLymphomaPathogenesis2012 -->

@@ -25,15 +25,9 @@ First described as mutated in BL in 2009 by Grande et al.<sup>1</sup>
 [[include:dnds_RFX7.md]]
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/RFX7_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/RFX7_protein_hg38.html)
+[[include:browser_RFX7.md]]
 
-![](images/proteinpaint/RFX7_NM_022841.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/RFX7.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/RFX7_hg38.html)
-
-![](images/proteinpaint/RFX7.svg)
-
-## RFX7 Expression
+## Expression
 ![](images/gene_expression/RFX7_by_pathology.svg)
 
 [[include:mermaid_RFX7.md]]

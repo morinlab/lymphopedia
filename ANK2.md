@@ -25,15 +25,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ANK2_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ANK2_protein_hg38.html)
+[[include:browser_ANK2.md]]
 
-![](images/proteinpaint/ANK2_NM_001148.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ANK2.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ANK2_hg38.html)
-
-![](images/proteinpaint/ANK2.svg)
-
-## ANK2 Expression
+## Expression
 ![](images/gene_expression/ANK2_by_pathology.svg)
 <!-- ORIGIN: zhangGenomicLandscapeMantle2014 -->
 <!-- MCL: zhangGenomicLandscapeMantle2014 -->

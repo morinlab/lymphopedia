@@ -28,15 +28,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PCDHB2_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PCDHB2_protein_hg38.html)
+[[include:browser_PCDHB2.md]]
 
-![](images/proteinpaint/PCDHB2_NM_018936.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PCDHB2.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PCDHB2_hg38.html)
-
-![](images/proteinpaint/PCDHB2.svg)
-
-## PCDHB2 Expression
+## Expression
 ![](images/gene_expression/PCDHB2_by_pathology.svg)
 <!-- ORIGIN: zhangGenomicLandscapeMantle2014 -->
 <!-- MCL: zhangGenomicLandscapeMantle2014 -->

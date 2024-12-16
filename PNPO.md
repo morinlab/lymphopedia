@@ -28,15 +28,9 @@ Mutations in this gene were first described in DLBCL and FL in 2021 by Hübschma
 [[include:dnds_PNPO.md]]
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PNPO_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PNPO_protein_hg38.html)
+[[include:browser_PNPO.md]]
 
-![](images/proteinpaint/PNPO_NM_018129.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PNPO.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PNPO_hg38.html)
-
-![](images/proteinpaint/PNPO.svg)
-
-## PNPO Expression
+## Expression
 ![](images/gene_expression/PNPO_by_pathology.svg)
 
 ## All Mutations

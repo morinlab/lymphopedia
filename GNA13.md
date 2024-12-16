@@ -39,16 +39,9 @@ Mutations in GNA13, which encodes a G protein alpha subunit involved in multiple
 | chr17 | 63052613 | C>G | E33D |
 | chr17 | 63052609 | C>G | D35H |
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/GNA13_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/GNA13_protein_hg38.html)
+[[include:browser_GNA13.md]]
 
-![](images/proteinpaint/GNA13_NM_006572.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/GNA13.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/GNA13_hg38.html)
-
-![](images/proteinpaint/GNA13.svg)
-
-
-## GNA13 Expression
+## Expression
 ![](images/gene_expression/GNA13_by_pathology.svg)
 
 

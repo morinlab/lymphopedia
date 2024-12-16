@@ -33,15 +33,9 @@ link-citations: true
 | chr2 | 70315439 | ->AGCT | S190* |
 | chr2 | 70315457 | C>A | C194* |
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PCBP1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PCBP1_protein_hg38.html)
+[[include:browser_PCBP1.md]]
 
-![](images/proteinpaint/PCBP1_NM_006196.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PCBP1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PCBP1_hg38.html)
-
-![](images/proteinpaint/PCBP1.svg)
-
-## PCBP1 Expression
+## Expression
 ![](images/gene_expression/PCBP1_by_pathology.svg)
 <!-- ORIGIN: schmitzBurkittLymphomaPathogenesis2012 -->
 <!-- BL: schmitzBurkittLymphomaPathogenesis2012 -->

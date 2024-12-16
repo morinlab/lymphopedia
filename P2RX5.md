@@ -33,15 +33,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/P2RX5_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/P2RX5_protein_hg38.html)
+[[include:browser_P2RX5.md]]
 
-![](images/proteinpaint/P2RX5_NM_002561.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/P2RX5.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/P2RX5_hg38.html)
-
-![](images/proteinpaint/P2RX5.svg)
-
-## P2RX5 Expression
+## Expression
 ![](images/gene_expression/P2RX5_by_pathology.svg)
 <!-- ORIGIN: morinMutationalStructuralAnalysis2013 -->
 <!-- DLBCL: morinMutationalStructuralAnalysis2013 -->

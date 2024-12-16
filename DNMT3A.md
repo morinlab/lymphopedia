@@ -31,15 +31,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/DNMT3A_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/DNMT3A_protein_hg38.html)
+[[include:browser_DNMT3A.md]]
 
-![](images/proteinpaint/DNMT3A_NM_175629.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/DNMT3A.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/DNMT3A_hg38.html)
-
-![](images/proteinpaint/DNMT3A.svg)
-
-## DNMT3A Expression
+## Expression
 ![](images/gene_expression/DNMT3A_by_pathology.svg)
 <!-- ORIGIN: reddyGeneticFunctionalDrivers2017 -->
 <!-- DLBCL: reddyGeneticFunctionalDrivers2017 -->

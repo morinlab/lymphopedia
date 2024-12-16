@@ -31,15 +31,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PCDHA11_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PCDHA11_protein_hg38.html)
+[[include:browser_PCDHA11.md]]
 
-![](images/proteinpaint/PCDHA11_NM_018902.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PCDHA11.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PCDHA11_hg38.html)
-
-![](images/proteinpaint/PCDHA11.svg)
-
-## PCDHA11 Expression
+## Expression
 ![](images/gene_expression/PCDHA11_by_pathology.svg)
 <!-- ORIGIN: paneaWholeGenomeLandscape2019 -->
 <!-- BL: paneaWholeGenomeLandscape2019 -->

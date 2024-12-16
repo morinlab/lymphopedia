@@ -30,15 +30,9 @@ Mutations in this gene were first described in DLBCL in 2021 by Hübschmann et a
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/LRP12_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/LRP12_protein_hg38.html)
+[[include:browser_LRP12.md]]
 
-![](images/proteinpaint/LRP12_NM_013437.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/LRP12.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/LRP12_hg38.html)
-
-![](images/proteinpaint/LRP12.svg)
-
-## LRP12 Expression
+## Expression
 ![](images/gene_expression/LRP12_by_pathology.svg)
 
 ## All Mutations

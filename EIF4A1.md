@@ -26,15 +26,9 @@ link-citations: true
 [[include:dnds_EIF4A1.md]]
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/EIF4A1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/EIF4A1_protein_hg38.html)
+[[include:browser_EIF4A1.md]]
 
-![](images/proteinpaint/EIF4A1_NM_001416.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/EIF4A1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/EIF4A1_hg38.html)
-
-![](images/proteinpaint/EIF4A1.svg)
-
-## EIF4A1 Expression
+## Expression
 ![](images/gene_expression/EIF4A1_by_pathology.svg)
 <!-- ORIGIN: paneaWholeGenomeLandscape2019 -->
 <!-- BL: paneaWholeGenomeLandscape2019 -->

@@ -29,15 +29,9 @@ JUNB has been reported to be frequently mutated in T-cell/histiocyte-rich large 
 > Mutations in this gene were reported to be inflated in the original results according to [Dreval K](https://www.biorxiv.org/content/10.1101/2023.11.21.567983v1)
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/JUNB_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/JUNB_protein_hg38.html)
+[[include:browser_JUNB.md]]
 
-![](images/proteinpaint/JUNB_NM_002229.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/JUNB.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/JUNB_hg38.html)
-
-![](images/proteinpaint/JUNB.svg)
-
-## JUNB Expression
+## Expression
 ![](images/gene_expression/JUNB_by_pathology.svg)
 <!-- ORIGIN: reddyGeneticFunctionalDrivers2017 -->
 <!-- DLBCL: reddyGeneticFunctionalDrivers2017 -->

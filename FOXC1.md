@@ -29,16 +29,9 @@ FOXC1 is a transcription factor that regulates genes involved in cell growth, di
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/FOXC1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/FOXC1_protein_hg38.html)
+[[include:browser_FOXC1.md]]
 
-![](images/proteinpaint/FOXC1_NM_001453.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/FOXC1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/FOXC1_hg38.html)
-
-![](images/proteinpaint/FOXC1.svg)
-
-
-## FOXC1 Expression
+## Expression
 ![](images/gene_expression/FOXC1_by_pathology.svg)
 
 [[include:mermaid_FOXC1.md]]

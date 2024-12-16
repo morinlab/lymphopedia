@@ -28,15 +28,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/EDNRB_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/EDNRB_protein_hg38.html)
+[[include:browser_EDNRB.md]]
 
-![](images/proteinpaint/EDNRB_NM_000115.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/EDNRB.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/EDNRB_hg38.html)
-
-![](images/proteinpaint/EDNRB.svg)
-
-## EDNRB Expression
+## Expression
 ![](images/gene_expression/EDNRB_by_pathology.svg)
 <!-- ORIGIN: burkhardtClinicalRelevanceMolecular2022b -->
 <!-- BL: burkhardtClinicalRelevanceMolecular2022b -->

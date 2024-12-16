@@ -34,15 +34,9 @@ Due to [minimal support](CCT6B#representative-mutations) in the original primary
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CCT6B_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CCT6B_protein_hg38.html)
+[[include:browser_CCT6B.md]]
 
-![](images/proteinpaint/CCT6B_NM_006584.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CCT6B.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CCT6B_hg38.html)
-
-![](images/proteinpaint/CCT6B.svg)
-
-## CCT6B Expression
+## Expression
 ![](images/gene_expression/CCT6B_by_pathology.svg)
 <!-- ORIGIN: loveGeneticLandscapeMutations2012 -->
 <!-- BL: loveGeneticLandscapeMutations2012 -->

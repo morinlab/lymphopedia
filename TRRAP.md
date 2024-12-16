@@ -35,15 +35,9 @@ link-citations: true
  | :---:| :---: | :--: | :---: |
 | chr7 | 98509802 | C>T | S722F |
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/TRRAP_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/TRRAP_protein_hg38.html)
+[[include:browser_TRRAP.md]]
 
-![](images/proteinpaint/TRRAP_NM_003496.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/TRRAP.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/TRRAP_hg38.html)
-
-![](images/proteinpaint/TRRAP.svg)
-
-## TRRAP Expression
+## Expression
 ![](images/gene_expression/TRRAP_by_pathology.svg)
 <!-- ORIGIN: rossiCodingGenomeSplenic2012c -->
 <!-- DLBCL: parryWholeExomeSequencing2013 -->

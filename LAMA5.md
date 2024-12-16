@@ -28,15 +28,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/LAMA5_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/LAMA5_protein_hg38.html)
+[[include:browser_LAMA5.md]]
 
-![](images/proteinpaint/LAMA5_NM_005560.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/LAMA5.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/LAMA5_hg38.html)
-
-![](images/proteinpaint/LAMA5.svg)
-
-## LAMA5 Expression
+## Expression
 ![](images/gene_expression/LAMA5_by_pathology.svg)
 <!-- ORIGIN: schmitzGeneticsPathogenesisDiffuse2018a -->
 <!-- DLBCL: schmitzGeneticsPathogenesisDiffuse2018a -->

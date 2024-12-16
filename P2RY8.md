@@ -25,15 +25,9 @@ P2RY8 encodes a G protein–coupled receptor that is expressed on germinal cente
 
 [[include:dnds_P2RY8.md]]
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/P2RY8_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/P2RY8_protein_hg38.html)
+[[include:browser_P2RY8.md]]
 
-![](images/proteinpaint/P2RY8_NM_178129.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/P2RY8.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/P2RY8_hg38.html)
-
-![](images/proteinpaint/P2RY8.svg)
-
-## P2RY8 Expression
+## Expression
 ![](images/gene_expression/P2RY8_by_pathology.svg)
 
 [[include:mermaid_P2RY8.md]]

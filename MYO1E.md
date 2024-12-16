@@ -35,15 +35,9 @@ link-citations: true
 |chr15   |59658991  |59671152|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr15%3A59658991%2D59671152)|NA                |
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/MYO1E_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/MYO1E_protein_hg38.html)
+[[include:browser_MYO1E.md]]
 
-![](images/proteinpaint/MYO1E_NM_004998.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/MYO1E.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/MYO1E_hg38.html)
-
-![](images/proteinpaint/MYO1E.svg)
-
-## MYO1E Expression
+## Expression
 ![](images/gene_expression/MYO1E_by_pathology.svg)
 <!-- ORIGIN: Unknown -->
 

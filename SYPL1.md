@@ -27,15 +27,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/SYPL1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/SYPL1_protein_hg38.html)
+[[include:browser_SYPL1.md]]
 
-![](images/proteinpaint/SYPL1_NM_006754.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/SYPL1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/SYPL1_hg38.html)
-
-![](images/proteinpaint/SYPL1.svg)
-
-## SYPL1 Expression
+## Expression
 ![](images/gene_expression/SYPL1_by_pathology.svg)
 <!-- ORIGIN: morinMutationalStructuralAnalysis2013 -->
 <!-- DLBCL: morinMutationalStructuralAnalysis2013 -->

@@ -36,15 +36,9 @@ Due to [minimal support](FTCD#representative-mutation) in the original primary d
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/FTCD_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/FTCD_protein_hg38.html)
+[[include:browser_FTCD.md]]
 
-![](images/proteinpaint/FTCD_NM_206965.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/FTCD.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/FTCD_hg38.html)
-
-![](images/proteinpaint/FTCD.svg)
-
-## FTCD Expression
+## Expression
 ![](images/gene_expression/FTCD_by_pathology.svg)
 <!-- ORIGIN: loveGeneticLandscapeMutations2012 -->
 <!-- BL: loveGeneticLandscapeMutations2012 -->

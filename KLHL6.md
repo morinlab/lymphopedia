@@ -60,15 +60,9 @@ KLHL6 is considered a tumor suppressor gene in DLBCL with mutations tending to d
 | chr3 | 183273155 | T>A | Y96F |
 | chr3 | 183273153 | A>G | F97L |
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/KLHL6_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/KLHL6_protein_hg38.html)
+[[include:browser_KLHL6.md]]
 
-![](images/proteinpaint/KLHL6_NM_130446.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/KLHL6.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/KLHL6_hg38.html)
-
-![](images/proteinpaint/KLHL6.svg)
-
-## KLHL6 Expression
+## Expression
 ![](images/gene_expression/KLHL6_by_pathology.svg)
 <!-- ORIGIN: morinFrequentMutationHistonemodifying2011 -->
 

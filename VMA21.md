@@ -23,15 +23,9 @@ link-citations: true
 
 [[include:dnds_VMA21.md]]
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/VMA21_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/VMA21_protein_hg38.html)
+[[include:browser_VMA21.md]]
 
-![](images/proteinpaint/VMA21_NM_001017980.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/VMA21.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/VMA21_hg38.html)
-
-![](images/proteinpaint/VMA21.svg)
-
-## VMA21 Expression
+## Expression
 ![](images/gene_expression/VMA21_by_pathology.svg)
 <!-- ORIGIN: hubschmannMutationalMechanismsShaping2021b -->
 <!-- FL: hubschmannMutationalMechanismsShaping2021b -->

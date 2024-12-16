@@ -28,15 +28,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/GOLGA5_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/GOLGA5_protein_hg38.html)
+[[include:browser_GOLGA5.md]]
 
-![](images/proteinpaint/GOLGA5_NM_005113.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/GOLGA5.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/GOLGA5_hg38.html)
-
-![](images/proteinpaint/GOLGA5.svg)
-
-## GOLGA5 Expression
+## Expression
 ![](images/gene_expression/GOLGA5_by_pathology.svg)
 <!-- ORIGIN: reddyGeneticFunctionalDrivers2017 -->
 <!-- DLBCL: reddyGeneticFunctionalDrivers2017 -->

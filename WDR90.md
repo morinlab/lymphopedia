@@ -27,15 +27,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/WDR90_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/WDR90_protein_hg38.html)
+[[include:browser_WDR90.md]]
 
-![](images/proteinpaint/WDR90_NM_145294.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/WDR90.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/WDR90_hg38.html)
-
-![](images/proteinpaint/WDR90.svg)
-
-## WDR90 Expression
+## Expression
 ![](images/gene_expression/WDR90_by_pathology.svg)
 <!-- ORIGIN: schmitzBurkittLymphomaPathogenesis2012 -->
 <!-- BL: schmitzBurkittLymphomaPathogenesis2012 -->

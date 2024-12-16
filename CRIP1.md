@@ -29,15 +29,9 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CRIP1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CRIP1_protein_hg38.html)
+[[include:browser_CRIP1.md]]
 
-![](images/proteinpaint/CRIP1_NM_001311.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CRIP1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CRIP1_hg38.html)
-
-![](images/proteinpaint/CRIP1.svg)
-
-## CRIP1 Expression
+## Expression
 ![](images/gene_expression/CRIP1_by_pathology.svg)
 <!-- ORIGIN: chapuyMolecularSubtypesDiffuse2018b -->
 <!-- DLBCL: chapuyMolecularSubtypesDiffuse2018b -->
