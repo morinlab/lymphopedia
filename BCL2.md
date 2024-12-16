@@ -11,15 +11,6 @@ BCL2 mutations are frequently found in DLBCL, particularly in the germinal cente
 These mutations are caused by the somatic hypermutation process. The presence of these mutations are strongly correlated with the presence of a translocation between BCL2 and one of the immunoglobulin loci.
 Although missense mutations may not be under positive selective pressure in the context of lymphomagenesis, some of these mutations may interfere with the function of BCL2 antagonists.
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      1992-01-01 : Tanaka : DLBCL
-      2011-07-27 : Morin : FL
-      2021-04-01 : Sarkozy : PMBL
-      2022-07-06 : Burkhardt : BL
-```
 
 ## Relevance tier by entity
 
@@ -83,3 +74,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/B
 <!-- BL: burkhardtClinicalRelevanceMolecular2022b -->
 <!-- BL: burkhardtClinicalRelevanceMolecular2022b -->
 <!-- DLBCL: tanakaFrequentIncidenceSomatic1992 -->
+[[include:mermaid_BCL2.md]]
+
+## References
+
