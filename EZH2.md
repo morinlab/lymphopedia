@@ -3,7 +3,7 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# EZH2
+[[_TOC_]]
 
 ## Overview
 EZH2 encodes a histone methyltransferase that is a component of the polycomb repressive complex 2 (PRC2). 
@@ -18,18 +18,6 @@ Mutations at the main hotspot and some less common hotspots lead to enhanced met
 A number of small molecule/pharmacologic inhibitors of EZH2 activity have been described.[@garapaty-raoIdentificationEZH2EZH12013; @knutsonSelectiveInhibitionEZH22014] At least one of these, tazemetostat, has shown benefit in FL.[@morinTreatingLymphomaNow2021] 
 Combination therapies including EZH2 inhibitors are also under exploration for DLBCL patients with mutant EZH2.[@scholzeCombinedEZH2Bcl22020]
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2010-02-02 : Morin : DLBCL
-      2012-03-06 : Lohr : DLBCL
-      2012-12-01 : Love : BL
-2013-01-01 : Zhang : DLBCL
-2013-08-15 : Morin : DLBCL
-      2019-09-05 : Mottok : PMBL
-```
 
 ## Relevance tier by entity
 
@@ -103,6 +91,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/E
 <!-- DLBCL: morinSomaticMutationsAltering2010 -->
 <!-- PMBL: mottokIntegrativeGenomicAnalysis2019b -->
 
+
+[[include:mermaid_EZH2.md]]
 
 ## References
 
