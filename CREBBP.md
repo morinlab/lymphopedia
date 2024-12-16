@@ -23,8 +23,8 @@ Mutations in CREBBP and EP300 affect a common pathway and have been described as
 |:------:|:----:|--------------------------------------|
 |![MZL](images/icons/MZL_tier2.png)|2|relevance in MZL not firmly established[@parryWholeExomeSequencing2013] |
 |![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene[@dunsCharacterizationDLBCLPMBL2021] |
-|![DLBCL](images/icons/DLBCL_tier1.png) |1-EE   |high-confidence DLBCL gene supported by functional data[@pasqualucciInactivatingMutationsAcetyltransferase2011]            |
-|![FL](images/icons/FL_tier1.png)    |1-EE   |high-confidence FL gene supported by functional data[@pasqualucciInactivatingMutationsAcetyltransferase2011]               |
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene supported by functional data[@pasqualucciInactivatingMutationsAcetyltransferase2011]            |
+|![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene supported by functional data[@pasqualucciInactivatingMutationsAcetyltransferase2011]               |
 |![BL](images/icons/BL_tier2.png)    |2   |association with BL is tenuous[@loveGeneticLandscapeMutations2012]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
