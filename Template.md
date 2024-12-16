@@ -9,6 +9,8 @@ link-citations: true
 
 [[include:Overview.md]]
 
+## History
+
 [[include:History.md]]
 
 ## Relevance tier by entity
@@ -27,14 +29,9 @@ link-citations: true
 [[include:FL_BCL2.md]]
 [[include:BL_BCL2.md]]
 
-
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |Yes |No                   |0.000           |0               |
-|DLBCL |Yes |Yes                  |2.645           |0               |
-|FL    |Yes |No                   |1.197           |0               |
+[[include:Pattern.md]]
 
 ## aSHM regions
 
