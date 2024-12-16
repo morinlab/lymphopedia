@@ -38,6 +38,7 @@ timeline
 
 [[include:DLBCL_ARID1A.md]]
 [[include:FL_ARID1A.md]]
+[[include:BL_ARID1A.md]]
 
 
 ## Mutation pattern and selective pressure estimates

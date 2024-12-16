@@ -36,6 +36,7 @@ timeline
 
 [[include:DLBCL_BCL6.md]]
 [[include:FL_BCL6.md]]
+[[include:BL_BCL6.md]]
 
 ## Mutation pattern and selective pressure estimates
 
