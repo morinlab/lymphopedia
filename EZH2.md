@@ -91,7 +91,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/E
 <!-- DLBCL: morinSomaticMutationsAltering2010 -->
 <!-- PMBL: mottokIntegrativeGenomicAnalysis2019b -->
 
-
+## History
 [[include:mermaid_EZH2.md]]
 
 ## References
