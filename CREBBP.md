@@ -67,15 +67,9 @@ Mutations in CREBBP and EP300 affect a common pathway and have been described as
 | chr16 | 3786703 | T>A | Y1503F |
 | chr16 | 3786691 | A>G | L1507P |
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CREBBP_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CREBBP_protein_hg38.html)
+[[include:browser_CREBBP.md]]
 
-![](images/proteinpaint/CREBBP_NM_004380.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/CREBBP.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/CREBBP_hg38.html)
-
-![](images/proteinpaint/CREBBP.svg)
-
-## CREBBP Expression
+## Expression
 ![](images/gene_expression/CREBBP_by_pathology.svg)
 <!-- ORIGIN: pasqualucciInactivatingMutationsAcetyltransferase2011a -->
 <!-- FL: pasqualucciInactivatingMutationsAcetyltransferase2011a -->
