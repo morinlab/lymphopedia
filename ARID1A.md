@@ -43,13 +43,7 @@ timeline
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |Yes                  |3.218           |130.201         |
-|DLBCL |No  |Yes                  |2.364           | 38.689         |
-|FL    |No  |Yes                  |3.794           |248.722         |
-
-
+[[include:dnds_ARID1A.md]]
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ARID1A_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ARID1A_protein_hg38.html)
 
