@@ -36,13 +36,7 @@ timeline
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   |4.754           |0               |
-|DLBCL |No  |No                   |5.565           |0               |
-|FL    |No  |No                   |4.680           |0               |
-
-
+[[include:dnds_BRAF.md]]
 
 
 ## BRAF Hotspots

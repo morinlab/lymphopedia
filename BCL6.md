@@ -40,7 +40,7 @@ timeline
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_BACH2.md]]
+[[include:dnds_BCL6.md]]
 
 ## aSHM regions
 

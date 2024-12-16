@@ -34,11 +34,7 @@ timeline
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   |0.862           |1.339           |
-|DLBCL |No  |No                   |1.795           |5.011           |
-|FL    |No  |No                   |2.997           |7.132           |
+[[include:dnds_BIRC6.md]]
 
 ## BIRC6 Hotspots
 

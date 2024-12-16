@@ -49,12 +49,7 @@ timeline
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   | 9.379          | 56.571         |
-|DLBCL |No  |Yes                  |60.843          |340.788         |
-|FL    |No  |Yes                  |54.190          |326.834         |
-
+[[include:dnds_B2M.md]]
 
 ## B2M Hotspots
 

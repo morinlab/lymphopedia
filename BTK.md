@@ -30,13 +30,7 @@ timeline
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   | 0.964          | 8.202          |
-|DLBCL |No  |Yes                  |18.082          |28.027          |
-|FL    |No  |Yes                  |39.808          |35.548          |
-
-
+[[include:dnds_BTK.md]]
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/BTK_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/BTK_protein_hg38.html)
 

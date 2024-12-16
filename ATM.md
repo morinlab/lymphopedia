@@ -33,11 +33,7 @@ Mutations in this gene were first described in MZL by Braggio et al,<sup>1</sup>
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   |2.461           |0.000           |
-|DLBCL |No  |No                   |3.529           |5.446           |
-|FL    |No  |No                   |1.679           |6.201           |
+[[include:dnds_ATM.md]]
 
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ATM_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ATM_protein_hg38.html)
