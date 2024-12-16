@@ -47,12 +47,7 @@ timeline
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   | 0.000          | 0.000          |
-|DLBCL |No  |Yes                  |16.616          |41.932          |
-|FL    |No  |No                   |10.310          | 0.000          |
-
+[[include:dnds_CD79B.md]]
 
 ## CD79B Hotspots
 
