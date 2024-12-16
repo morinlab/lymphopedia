@@ -31,12 +31,7 @@ timeline
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |Yes                  |58.153          |189.145         |
-|DLBCL |No  |Yes                  |31.041          |  0.000         |
-|FL    |No  |No                   |23.117          |  0.000         |
-
+[[include:dnds_P2RY8.md]]
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/P2RY8_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/P2RY8_protein_hg38.html)
 
