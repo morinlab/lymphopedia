@@ -1,4 +1,4 @@
-<table class="table" style="margin-left: auto; margin-right: auto;">
+<table class="table" style="margin-left: 0; margin-right: auto;">
  <thead>
   <tr>
    <th style="text-align:left;"> Entity </th>
