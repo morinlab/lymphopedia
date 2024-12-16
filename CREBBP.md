@@ -15,17 +15,7 @@ CREBBP missense mutations often affect the histone acetyltransferase (HAT) domai
 In a transgenic mouse model, CREBBP loss cooperated with BCL2 overexpression to promote B-cell lymphomagenesis.[@garcia-ramirezCrebbpLossCooperates2017]
 Mutations in CREBBP and EP300 affect a common pathway and have been described as mutually exclusive due to some functional redundancy.[@pasqualucciInactivatingMutationsAcetyltransferase2011; @veazeyCARM1InhibitionReduces2020] Studies using genome-wide CRISPR-Cas9 screens have identified synthetic lethal interactions between CREBBP and EP300, suggesting that targeting one may affect the viability of cells with mutations in the other.[@nieGenomewideCRISPRScreens2021]
 
-## History
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2011-03-10 : Pasqualucci : DLBCL
-      2012-12-01 : Love : BL
-      2013-12-13 : Parry : MZL
-      2021-07-15 : Duns : PMBL
-```
 
 ## Relevance tier by entity
 
@@ -112,6 +102,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/C
 [677](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/677_reports.html)
 [745](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/745_reports.html)
 [851](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/851_reports.html)
+
+[[include:mermaid_CREBBP.md]]
 
 # References
 
