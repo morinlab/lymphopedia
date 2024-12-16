@@ -24,20 +24,12 @@ timeline
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-|Entity|source        |frequency (%)|
-|:------:|:--------------:|:-------------:|
-|DLBCL |GAMBL genomes |3.44         |
-|DLBCL |Schmitz cohort|2.34         |
-|DLBCL |Reddy cohort  |1.80         |
-|DLBCL |Chapuy cohort |2.99         |
+[[include:DLBCL_ABI3BP.md]]
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   |2.366           |2.365           |
-|DLBCL |No  |No                   |1.625           |0.000           |
-|FL    |No  |No                   |2.009           |0.000           |
+[[include:dnds_ABI3BP.md]]
+
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ABI3BP_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ABI3BP_protein_hg38.html)
 
