@@ -28,12 +28,7 @@ timeline
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |Yes                  |16.997          |47.948          |
-|DLBCL |No  |No                   | 5.215          | 0.000          |
-|FL    |No  |No                   | 0.000          | 0.000          |
-
+[[include:dnds_TFAP4.md]]
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/TFAP4_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/TFAP4_protein_hg38.html)
 

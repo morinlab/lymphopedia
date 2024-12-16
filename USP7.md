@@ -28,13 +28,7 @@ timeline
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |Yes                  |3.462           |21.705          |
-|DLBCL |No  |No                   |0.938           | 0.000          |
-|FL    |No  |No                   |0.000           |15.446          |
-
-
+[[include:dnds_USP7.md]]
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/USP7_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/USP7_protein_hg38.html)
 

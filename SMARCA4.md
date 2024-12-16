@@ -38,14 +38,7 @@ timeline
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |Yes                  |13.014          |7.632           |
-|DLBCL |No  |No                   | 3.876          |0.000           |
-|FL    |No  |No                   |11.081          |0.000           |
-
-
-
+[[include:dnds_SMARCA4.md]]
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/SMARCA4_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/SMARCA4_protein_hg38.html)
 
