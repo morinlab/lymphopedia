@@ -3,15 +3,8 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# FUT5
+[[_TOC_]]
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2018-05-01 : Chapuy : DLBCL
-```
 
 ## Relevance tier by entity
 
@@ -55,6 +48,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/F
 ## All Mutations
 
 [DLBCL-RICOVER_173-Tumor](https://bcgsc.ca/downloads/morinlab/GAMBL/Chapuy_2018/DLBCL-RICOVER_173-Tumor.html)
+
+[[include:mermaid_FUT5.md]]
 
 ## References
 

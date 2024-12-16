@@ -3,24 +3,8 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# TBL1XR1
+[[_TOC_]]
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-2012-03-06 : Lohr : DLBCL
-      2012-08-27 : Rossi : MZL
-
-2013-08-15 : Morin : DLBCL
-      2016-03-01 : Mareschal : DLBCL
-
-2017-10-10 : Reddy : DLBCL
-2018-04-12 : Schmitz : DLBCL
-2018-05-01 : Chapuy : DLBCL
-2018-10-01 : Arthur : DLBCL
-```
 
 ## Relevance tier by entity
 
@@ -66,6 +50,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/T
 <!-- ORIGIN: rossiCodingGenomeSplenic2012c -->
 <!-- MZL: rossiCodingGenomeSplenic2012c -->
 <!-- DLBCL: mareschalWholeExomeSequencing2016 -->
+
+[[include:mermaid_TBL1XR1.md]]
 
 ## References
 

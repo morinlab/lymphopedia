@@ -4,15 +4,9 @@ csl: 'NLM.csl'
 link-citations: true
 ---
 
-# TPTE
+[[_TOC_]]
 
-## History
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-```
 
 
 ## Relevance tier by entity
@@ -24,6 +18,8 @@ timeline
 
 
 
+
+[[include:mermaid_TPTE.md]]
 
 ## References
 

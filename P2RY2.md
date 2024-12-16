@@ -3,15 +3,8 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# P2RY2
+[[_TOC_]]
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2012-12-01 : Love : BL
-```
 
 ## Relevance tier by entity
 
@@ -61,6 +54,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/P
 
 [1093](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/1093_reports.html)
 [668](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/668_reports.html)
+
+[[include:mermaid_P2RY2.md]]
 
 ## References
 

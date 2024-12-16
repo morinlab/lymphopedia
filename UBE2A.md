@@ -3,22 +3,8 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# UBE2A
+[[_TOC_]]
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-2012-03-06 : Lohr : DLBCL
-      2015-02-12 : Reichel : PMBL
-
-2017-05-01 : Albuquerque : DLBCL
-2017-10-10 : Reddy : DLBCL
-2018-04-12 : Schmitz : DLBCL
-2018-05-01 : Chapuy : DLBCL
-2021-05-05 : Hubschmann : DLBCL
-```
 
 ## Relevance tier by entity
 
@@ -48,6 +34,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/U
 <!-- ORIGIN: reichelFlowSortingExome2015a -->
 <!-- DLBCL: reddyGeneticFunctionalDrivers2017 -->
 <!-- PMBL: reichelFlowSortingExome2015a -->
+
+[[include:mermaid_UBE2A.md]]
 
 ## References
  

@@ -4,16 +4,9 @@ csl: 'NLM.csl'
 link-citations: true
 ---
 
-# PCDHB6
+[[_TOC_]]
 
-## History
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2012-03-06 : Lohr : DLBCL
-```
 
 
 ## Relevance tier by entity
@@ -34,6 +27,8 @@ timeline
 |FL|GAMBL Exome |0.573 |
 |MCL|GAMBL Genome |0.585 |
 
+
+[[include:mermaid_PCDHB6.md]]
 
 ## References
 

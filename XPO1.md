@@ -4,19 +4,8 @@ csl: 'NLM.csl'
 link-citations: true
 ---
 
-# XPO1
+[[_TOC_]]
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-2017-10-10 : Reddy : DLBCL
-      2016-03-01 : Mareschal : DLBCL
-      2016-06-01 : Jardin : PMBL
-2018-05-01 : Chapuy : DLBCL
-2021-05-05 : Hubschmann : DLBCL
-```
 
 ## Relevance tier by entity
 
@@ -53,5 +42,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/X
 <!-- ORIGIN: mareschalWholeExomeSequencing2016 -->
 <!-- DLBCL: mareschalWholeExomeSequencing2016 -->
 <!-- PMBL: jardinRecurrentMutationsExportin2016a -->
+
+[[include:mermaid_XPO1.md]]
 
 ## References

@@ -3,15 +3,8 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# SARM1
+[[_TOC_]]
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2013-08-15 : Morin : DLBCL
-```
 
 ## Relevance tier by entity
 
@@ -55,6 +48,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/S
 ## All Mutations
 
 [RG043](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG043.html)
+
+[[include:mermaid_SARM1.md]]
 
 ## References
 

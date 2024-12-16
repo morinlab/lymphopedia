@@ -3,7 +3,7 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# FTCD
+[[_TOC_]]
 
 <<Warn("The variants reported in this gene in BL failed QC")>>
 
@@ -14,13 +14,6 @@ Due to [minimal support](FTCD#representative-mutation) in the original primary d
 
 
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2012-12-01 : Love : BL
-```
 
 ## Relevance tier by entity
 
@@ -71,6 +64,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/F
 [1093](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/1093_reports.html)
 [512](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/512_reports.html)
 [672](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/672_reports.html)
+
+[[include:mermaid_FTCD.md]]
 
 ## References
 

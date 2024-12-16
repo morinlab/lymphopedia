@@ -3,15 +3,8 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# MAGEC1
+[[_TOC_]]
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2023-07-26 : Russler : FL
-```
 
 ## Relevance tier by entity
 
@@ -57,6 +50,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/M
 ![](images/gene_expression/MAGEC1_by_pathology.svg)
 <!-- ORIGIN: russler-germainMutationsAssociatedProgression2023a -->
 <!-- FL: russler-germainMutationsAssociatedProgression2023b -->
+
+[[include:mermaid_MAGEC1.md]]
 
 ## References
 

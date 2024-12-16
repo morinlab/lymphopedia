@@ -3,18 +3,11 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# HLA-DQA1
+[[_TOC_]]
 
-## History
 Mutations in this gene were first described in DLBCL and FL in 2021 by Hübschmann et al.<sup>1</sup>
 
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2021-05-05 : Hübschmann : DLBCL
-```
 
 ## Relevance tier by entity
 
@@ -53,6 +46,8 @@ timeline
 [SP193072](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP193072.html)
 [SP193150](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP193150.html)
 [SP59424](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP59424.html)
+
+[[include:mermaid_HLA-DQA1.md]]
 
 ## References
 

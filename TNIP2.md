@@ -4,16 +4,9 @@ csl: 'NLM.csl'
 link-citations: true
 ---
 
-# TNIP2
+[[_TOC_]]
 
-## History
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2016-06-14 : van : MZL
-```
 
 
 ## Relevance tier by entity
@@ -30,6 +23,8 @@ timeline
 |BL|GAMBL Genome |0.386 |
 |DLBCL|GAMBL Exome |0.593 |
 
+
+[[include:mermaid_TNIP2.md]]
 
 ## References
 

@@ -4,21 +4,9 @@ csl: 'NLM.csl'
 link-citations: true
 ---
 
-# TNFRSF14
+[[_TOC_]]
 
-## History
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2010-11-15 : Cheung : FL
-      2011-07-27 : Morin : DLBCL
-2012-03-06 : Lohr : DLBCL
-2013-01-01 : Zhang : DLBCL
-2013-08-15 : Morin : DLBCL
-      2016-09-08 : Spina : MZL
-```
 
 ## Relevance tier by entity
 
@@ -70,6 +58,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/T
 <!-- FL: cheungAcquiredTNFRSF14Mutations2010a -->
 <!-- MZL: spinaGeneticsNodalMarginal2016b @spinaGeneticsNodalMarginal2016b -->
 <!-- DLBCL: morinFrequentMutationHistonemodifying2011 -->
+
+[[include:mermaid_TNFRSF14.md]]
 
 # References
 

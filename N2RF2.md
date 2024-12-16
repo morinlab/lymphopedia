@@ -4,16 +4,9 @@ csl: 'NLM.csl'
 link-citations: true
 ---
 
-# N2RF2
+[[_TOC_]]
 
-## History
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2021-05-05 : H : DLBCL
-```
 
 
 ## Relevance tier by entity
@@ -28,6 +21,8 @@ timeline
 |Entity|source |frequency (%)|
 |:------:|:----:|:----:|
 
+
+[[include:mermaid_N2RF2.md]]
 
 ## References
 

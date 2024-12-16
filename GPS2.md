@@ -4,16 +4,9 @@ csl: 'NLM.csl'
 link-citations: true
 ---
 
-# GPS2
+[[_TOC_]]
 
-## History
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2012-08-27 : Rossi : MZL
-```
 
 
 ## Relevance tier by entity
@@ -33,6 +26,8 @@ timeline
 |DLBCL|GAMBL Genome |2.256 |
 |FL|GAMBL Exome |0.573 |
 
+
+[[include:mermaid_GPS2.md]]
 
 ## References
 

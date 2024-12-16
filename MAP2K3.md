@@ -4,16 +4,9 @@ csl: 'NLM.csl'
 link-citations: true
 ---
 
-# MAP2K3
+[[_TOC_]]
 
-## History
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-       :  : DLBCL
-```
 
 
 ## Relevance tier by entity
@@ -25,6 +18,8 @@ timeline
 
 
 
+
+[[include:mermaid_MAP2K3.md]]
 
 ## References
 

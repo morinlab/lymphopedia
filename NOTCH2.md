@@ -3,22 +3,9 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# NOTCH2
+[[_TOC_]]
 
-## History
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-2012-08-27 : Rossi : MZL
-2013-01-01 : Zhang : DLBCL
-2013-11-05 : Bea : MCL
-2017-10-10 : Reddy : DLBCL
-2018-04-12 : Schmitz : DLBCL
-2018-05-01 : Chapuy : DLBCL
-2021-05-05 : Hubschmann : DLBCL
-```
 
 ## Relevance tier by entity
 
@@ -58,5 +45,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/N
 <!-- MCL: beaLandscapeSomaticMutations2013 -->
 <!-- MZL: rossiCodingGenomeSplenic2012c -->
 
+
+[[include:mermaid_NOTCH2.md]]
 
 ## References

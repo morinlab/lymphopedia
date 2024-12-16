@@ -3,19 +3,12 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# SYNGAP1
+[[_TOC_]]
 
 Due to [minimal support](SYNGAP1#representative-mutation) in the original primary data and very few mutations reported in subsequent studies, this gene is very unlikely to be relevant in BL. 
 
 <<Warn("The variants reported in this gene failed QC")>>
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2012-12-01 : Love : BL
-```
 
 ## Relevance tier by entity
 
@@ -59,6 +52,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/S
 **Rating**
 &starf; &star; &star; &star; &star;
 
+
+[[include:mermaid_SYNGAP1.md]]
 
 ## References
 

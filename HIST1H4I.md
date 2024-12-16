@@ -4,16 +4,9 @@ csl: 'NLM.csl'
 link-citations: true
 ---
 
-# HIST1H4I
+[[_TOC_]]
 
-## History
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2013-01-01 : Zhang : DLBCL
-```
 
 
 ## Relevance tier by entity
@@ -25,6 +18,8 @@ timeline
 
 
 
+
+[[include:mermaid_HIST1H4I.md]]
 
 ## References
 

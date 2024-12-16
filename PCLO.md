@@ -3,15 +3,8 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# PCLO
+[[_TOC_]]
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2012-03-06 : Lohr : DLBCL
-```
 
 ## Relevance tier by entity
 
@@ -59,6 +52,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/P
 
 ## PCLO Expression
 ![](images/gene_expression/PCLO_by_pathology.svg)
+
+[[include:mermaid_PCLO.md]]
 
 ## References
 

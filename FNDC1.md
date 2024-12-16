@@ -3,15 +3,8 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# FNDC1
+[[_TOC_]]
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2013-08-15 : Morin : DLBCL
-```
 
 ## Relevance tier by entity
 
@@ -56,6 +49,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/F
 
 [RG049](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG049.html)
 [RG081](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG081.html)
+
+[[include:mermaid_FNDC1.md]]
 
 ## References
 

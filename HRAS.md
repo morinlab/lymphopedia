@@ -3,18 +3,10 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# HRAS
+[[_TOC_]]
 
 <<Warn("The variants reported in this gene in DLBCL failed QC")>>
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2017-07-27 : Jallades : MZL
-      2017-10-10 : Reddy : DLBCL
-```
 
 ## Relevance tier by entity
 
@@ -78,6 +70,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/H
 [Reddy_3811T](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Reddy/igv_reports/Reddy_3811T.html)
 [Reddy_3845T](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Reddy/igv_reports/Reddy_3845T.html)
 [Reddy_3851T](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Reddy/igv_reports/Reddy_3851T.html)
+
+[[include:mermaid_HRAS.md]]
 
 ## References
 

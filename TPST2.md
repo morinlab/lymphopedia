@@ -3,17 +3,10 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# TPST2
+[[_TOC_]]
 
 <<Warn("The variants reported in this gene failed QC")>>
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2012-12-01 : Love : BL
-```
 
 ## Relevance tier by entity
 
@@ -60,6 +53,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/T
 **Rating**
 &star; &star; &star; &star; &star;
 
+
+[[include:mermaid_TPST2.md]]
 
 ## References
 

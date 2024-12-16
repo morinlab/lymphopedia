@@ -3,21 +3,12 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# GNA13
+[[_TOC_]]
 
 ## Overview
 Mutations in GNA13, which encodes a G protein alpha subunit involved in multiple signaling pathways, have been identified as significant contributors to the pathogenesis of germinal centre-derived B-cell lymphomas, including diffuse large B-cell lymphoma (DLBCL) and Burkitt lymphoma (BL).<sup>1</sup> This gene has some recurrent sites of mutations (hot spots). Overall, mutations are often loss-of-function in nature, disrupting the normal activity of GNA13. GNA13 regulates B-cell homing and growth suppression within the germinal center niche and its loss of function promotes lymphoma development.<sup>2</sup>
 
-## History
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2011-07-27 : Morin : FL
-      2012-12-01 : Love : BL
-      2015-02-12 : Reichel : PMBL
-```
 
 ## Relevance tier by entity
 
@@ -66,5 +57,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/G
 <!-- FL: morinFrequentMutationHistonemodifying2011 -->
 <!-- BL: loveGeneticLandscapeMutations2012 -->
 <!-- DLBCL: morinFrequentMutationHistonemodifying2011 -->
+
+[[include:mermaid_GNA13.md]]
 
 ## References

@@ -3,20 +3,13 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# HLA-C
+[[_TOC_]]
 
 ## Overview
 Mutations in the HLA-C gene have been associated with a loss of cell surface expression of HLA class I molecules, which are essential for presenting tumor antigens to cytotoxic T cells. This is a common mechanism of immune escape in DLBCL. Deletions of this gene are more commonly reported than HLA-C mutations.
 The mutation pattern in DLBCL implies the preferential accumulation of *inactivating mutations*. Different analytical strategies relating to the mapping of sequencing data and subtracting common germline variants can complicate the detection of mutations in this and other HLA genes. Likely owing to this, the rate of mutations is highly variable across studies and the true mutation rate has not been firmly established. 
 
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2023-11-15 : Gomez : PMBL
-```
 
 ## Relevance tier by entity
 
@@ -45,6 +38,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/H
 ![](images/gene_expression/HLA-C_by_pathology.svg)
 <!-- ORIGIN: gomezUltraDeepSequencingReveals2023 -->
 <!-- PMBL: gomezUltraDeepSequencingReveals2023 -->
+
+[[include:mermaid_HLA-C.md]]
 
 ## References
 

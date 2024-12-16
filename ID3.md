@@ -3,20 +3,11 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# ID3
+[[_TOC_]]
 
-## History
 ID3 was first reported as mutated in BL in 2012 by Richter et al.[@richterRecurrentMutationID32012] 
 The existence of mutations in DLBCL were described in 2012 by Schmitz et al[@schmitzBurkittLymphomaPathogenesis2012] and later in MZL by Spina et al.[@spinaGeneticsNodalMarginal2016]
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-    timeline
-        title Publication timing
-          2012-10-04 : Schmitz : DLBCL
-          2012-11-11 : Richter : BL
-          2016 : Spina : MZL
-```
 
 ## Relevance tier by entity
 
@@ -51,6 +42,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/I
 
 ## ID3 Expression
 ![](images/gene_expression/ID3_by_pathology.svg)
+
+[[include:mermaid_ID3.md]]
 
 ## References
 

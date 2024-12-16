@@ -4,15 +4,9 @@ csl: 'NLM.csl'
 link-citations: true
 ---
 
-# NEB
+[[_TOC_]]
 
-## History
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-```
 
 
 ## Relevance tier by entity
@@ -24,6 +18,8 @@ timeline
 
 
 
+
+[[include:mermaid_NEB.md]]
 
 ## References
 

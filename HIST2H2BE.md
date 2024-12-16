@@ -3,18 +3,11 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# HIST2H2BE
+[[_TOC_]]
 
 ## Overview
 This gene encodes the H2A protein, one of the core proteins comprising nucleosomes. Although relatively common in DLBCL, little is known about the function of these mutations. 
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2018-04-12 : Schmitz : DLBCL
-```
 
 ## Relevance tier by entity
 
@@ -46,5 +39,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/H
 ![](images/gene_expression/HIST2H2BE_by_pathology.svg)
 <!-- ORIGIN: schmitzGeneticsPathogenesisDiffuse2018a -->
 <!-- DLBCL: schmitzGeneticsPathogenesisDiffuse2018a -->
+
+[[include:mermaid_HIST2H2BE.md]]
 
 ## References

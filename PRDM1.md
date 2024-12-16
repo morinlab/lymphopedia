@@ -3,20 +3,8 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# PRDM1
+[[_TOC_]]
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2006-02-02 : Pasqualucci : DLBCL
-      2013-01-01 : Zhang : DLBCL
-2013-08-15 : Morin : DLBCL
-2017-10-10 : Reddy : DLBCL
-2018-04-12 : Schmitz : DLBCL
-2018-05-01 : Chapuy : DLBCL
-```
 
 ## Relevance tier by entity
 
@@ -58,6 +46,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/P
 <!-- ORIGIN: pasqualucciInactivationPRDM1BLIMP12006 -->
 <!-- DLBCL: pasqualucciInactivationPRDM1BLIMP12006a -->
 <!-- BL: 2 -->
+
+[[include:mermaid_PRDM1.md]]
 
 ## References
 

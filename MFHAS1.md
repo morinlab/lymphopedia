@@ -4,16 +4,9 @@ csl: 'NLM.csl'
 link-citations: true
 ---
 
-# MFHAS1
+[[_TOC_]]
 
-## History
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2021-04-01 : Sarkozy : PMBL
-```
 
 
 ## Relevance tier by entity
@@ -34,6 +27,8 @@ timeline
 |FL|GAMBL Exome |4.298 |
 |MCL|GAMBL Genome |0.585 |
 
+
+[[include:mermaid_MFHAS1.md]]
 
 ## References
 

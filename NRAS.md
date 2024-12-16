@@ -4,16 +4,9 @@ csl: 'NLM.csl'
 link-citations: true
 ---
 
-# NRAS
+[[_TOC_]]
 
-## History
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2017-07-27 : Jallades : MZL
-```
 
 
 ## Relevance tier by entity
@@ -33,6 +26,8 @@ timeline
 |DLBCL|GAMBL Genome |1.504 |
 |MCL|GAMBL Genome |1.754 |
 
+
+[[include:mermaid_NRAS.md]]
 
 ## References
 

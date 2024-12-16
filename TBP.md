@@ -4,16 +4,9 @@ csl: 'NLM.csl'
 link-citations: true
 ---
 
-# TBP
+[[_TOC_]]
 
-## History
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2012-03-06 : Lohr : DLBCL
-```
 
 
 ## Relevance tier by entity
@@ -25,6 +18,8 @@ timeline
 
 
 
+
+[[include:mermaid_TBP.md]]
 
 ## References
 

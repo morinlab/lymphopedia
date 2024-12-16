@@ -3,20 +3,11 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# FOXO1
+[[_TOC_]]
 
 ## Overview
 Mutations in the FOXO1 gene, which encodes a member of the forkhead family of transcription factors, play a significant role in diffuse large B-cell lymphoma (DLBCL). Mutations primarily occur in the first exon, with significant portions affecting the N-terminal region and the Forkhead DNA binding domain.<sup>1</sup> These mutations are common in DLBCL, BL and, to a lesser extent, FL.<sup>2,3</sup> FOXO1 mutations can contribute to resistance to certain therapies, such as anti-CD20-based immunotherapies, by repressing MS4A1 (CD20) expression.<sup>4</sup> 
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2011-07-27 : Morin : DLBCL
-      2012-10-04 : Schmitz : BL
-      2021-07-15 : Duns : PMBL
-```
 
 ## Relevance tier by entity
 
@@ -74,6 +65,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/F
 
 ## FOXO1 Expression
 ![](images/gene_expression/FOXO1_by_pathology.svg)
+
+[[include:mermaid_FOXO1.md]]
 
 ## References
 

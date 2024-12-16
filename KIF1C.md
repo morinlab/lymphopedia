@@ -4,16 +4,9 @@ csl: 'NLM.csl'
 link-citations: true
 ---
 
-# KIF1C
+[[_TOC_]]
 
-## History
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-       :  : DLBCL
-```
 
 
 ## Relevance tier by entity
@@ -25,6 +18,8 @@ timeline
 
 
 
+
+[[include:mermaid_KIF1C.md]]
 
 ## References
 

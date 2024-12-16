@@ -3,21 +3,8 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# POU2F2
+[[_TOC_]]
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      
-      2012-03-06 : Lohr : DLBCL
-2013-01-01 : Zhang : DLBCL
-2017-01-26 : Krysiak : FL
-2017-10-10 : Reddy : DLBCL
-2018-05-01 : Chapuy : DLBCL
-2018-10-01 : Arthur : DLBCL
-```
 
 ## Relevance tier by entity
 
@@ -57,6 +44,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/P
 <!-- ORIGIN: zhangGeneticHeterogeneityDiffuse2013 -->
 <!-- DLBCL: zhangGeneticHeterogeneityDiffuse2013 -->
 <!-- FL: krysiakRecurrentSomaticMutations2017b -->
+
+[[include:mermaid_POU2F2.md]]
 
 ## References
 

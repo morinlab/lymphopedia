@@ -3,15 +3,8 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# PAX5
+[[_TOC_]]
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2001-07-19 : Pasqualucci : DLBCL
-```
 
 ## Relevance tier by entity
 
@@ -60,6 +53,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/P
 ![](images/gene_expression/PAX5_by_pathology.svg)
 <!-- ORIGIN: pasqualucciHypermutationMultipleProtooncogenes2001a -->
 <!-- DLBCL: pasqualucciHypermutationMultipleProtooncogenes2001a -->
+
+[[include:mermaid_PAX5.md]]
 
 ## References
 

@@ -3,15 +3,8 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# NLRP5
+[[_TOC_]]
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2013-08-15 : Morin : DLBCL
-```
 
 ## Relevance tier by entity
 
@@ -57,6 +50,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/N
 [RG061](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG061.html)
 [RG064](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG064.html)
 [RG067](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG067.html)
+
+[[include:mermaid_NLRP5.md]]
 
 ## References
 

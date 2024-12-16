@@ -3,16 +3,8 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# MAP2K1
+[[_TOC_]]
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2015-03-01 : Shin : DLBCL
-      2016-08-25 : Louissaint : FL
-```
 
 ## Relevance tier by entity
 
@@ -50,6 +42,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/M
 <!-- ORIGIN: shinBRAFV600EMAP2K12015 -->
 <!-- DLBCL: shinBRAFV600EMAP2K12015 -->
 <!-- FL: louissaintPediatrictypeNodalFollicular2016a -->
+
+[[include:mermaid_MAP2K1.md]]
 
 ## References
 

@@ -3,16 +3,8 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# SRRM2
+[[_TOC_]]
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2013-08-15 : Morin : DLBCL
-      2023-07-26 : Russler-Germain : FL
-```
 
 ## Relevance tier by entity
 
@@ -58,6 +50,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/S
 ## All Mutations
 
 [RG043](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG043.html)
+
+[[include:mermaid_SRRM2.md]]
 
 ## References
 

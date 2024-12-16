@@ -4,15 +4,8 @@ csl: 'NLM.csl'
 link-citations: true
 ---
 
-# PCBP1
+[[_TOC_]]
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2012-10-04 : Schmitz : BL
-```
 
 ## Relevance tier by entity
 
@@ -52,5 +45,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/P
 ![](images/gene_expression/PCBP1_by_pathology.svg)
 <!-- ORIGIN: schmitzBurkittLymphomaPathogenesis2012 -->
 <!-- BL: schmitzBurkittLymphomaPathogenesis2012 -->
+
+[[include:mermaid_PCBP1.md]]
 
 # References

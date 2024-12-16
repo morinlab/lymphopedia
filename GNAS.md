@@ -3,17 +3,10 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# GNAS
+[[_TOC_]]
 
 <<Warn("The variants reported in this gene in DLBCL failed QC")>>
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2017-10-10 : Reddy : DLBCL
-```
 
 ## Relevance tier by entity
 
@@ -101,6 +94,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/G
 [Reddy_3945T](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Reddy/igv_reports/Reddy_3945T.html)
 [Reddy_3977T](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Reddy/igv_reports/Reddy_3977T.html)
 [Reddy_816T](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Reddy/igv_reports/Reddy_816T.html)
+
+[[include:mermaid_GNAS.md]]
 
 ## References
 

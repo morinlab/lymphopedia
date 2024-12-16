@@ -3,16 +3,8 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# USP7
+[[_TOC_]]
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-2018-10-01 : Arthur : DLBCL
-      2019-03-21 : Grande : BL
-```
 
 ## Relevance tier by entity
 
@@ -40,6 +32,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/U
 
 ## USP7 Expression
 ![](images/gene_expression/USP7_by_pathology.svg)
+
+[[include:mermaid_USP7.md]]
 
 ## References
 

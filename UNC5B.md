@@ -3,15 +3,8 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# UNC5B
+[[_TOC_]]
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2021-05-05 : Hübschmann : DLBCL
-```
 
 ## Relevance tier by entity
 
@@ -56,6 +49,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/U
 [SP194143](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP194143.html)
 [SP59400](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP59400.html)
 [SP59448](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP59448.html)
+
+[[include:mermaid_UNC5B.md]]
 
 ## References
 

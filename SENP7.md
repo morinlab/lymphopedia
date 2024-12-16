@@ -4,16 +4,9 @@ csl: 'NLM.csl'
 link-citations: true
 ---
 
-# SENP7
+[[_TOC_]]
 
-## History
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2015-02-12 : Reichel : PMBL
-```
 
 
 ## Relevance tier by entity
@@ -32,6 +25,8 @@ timeline
 |DLBCL|GAMBL Exome |1.509 |
 |DLBCL|GAMBL Genome |0.564 |
 
+
+[[include:mermaid_SENP7.md]]
 
 ## References
 

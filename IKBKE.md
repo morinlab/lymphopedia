@@ -3,17 +3,10 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# IKBKE
+[[_TOC_]]
 
-## History
 Mutations in this gene were first described in DLBCL and FL in 2021 by Hübschmann et al.<sup>1</sup>
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2021-05-05 : Hübschmann : DLBCL
-```
 
 ## Relevance tier by entity
 
@@ -57,6 +50,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/I
 [SP193347](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP193347.html)
 [SP124977](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP124977.html)
 [SP116668](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP116668.html)
+
+[[include:mermaid_IKBKE.md]]
 
 ## References
 

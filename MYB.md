@@ -3,18 +3,10 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# MYB
+[[_TOC_]]
 
 <<Warn("The variants reported in this gene in DLBCL failed QC")>>
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2017-10-10 : Reddy : DLBCL
-      2019-08-20 : Desch : PMBL
-```
 
 ## Relevance tier by entity
 
@@ -79,5 +71,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/M
 [Reddy_3961T](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Reddy/igv_reports/Reddy_3961T.html)
 [Reddy_3978T](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Reddy/igv_reports/Reddy_3978T.html)
 [Reddy_3990T](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Reddy/igv_reports/Reddy_3990T.html)
+
+[[include:mermaid_MYB.md]]
 
 ## References

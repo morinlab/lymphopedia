@@ -3,18 +3,11 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# MYOM2
+[[_TOC_]]
 
 ## Overview
 The prevalence of MYOM2 mutations in DLBCL varies across studies. The role of these mutations in lymphomagenesis has not been thoroughly explored. 
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2011-07-31 : Pasqualucci : DLBCL
-```
 
 ## Relevance tier by entity
 
@@ -52,5 +45,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/M
 ![](images/gene_expression/MYOM2_by_pathology.svg)
 <!-- ORIGIN: pasqualucciAnalysisCodingGenome2011 -->
 <!-- DLBCL: pasqualucciAnalysisCodingGenome2011 -->
+
+[[include:mermaid_MYOM2.md]]
 
 ## References

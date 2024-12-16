@@ -3,23 +3,13 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# HIST1H2AG
+[[_TOC_]]
 
 <<Warn("The variants reported in BL in this gene failed QC")>>
 
 **[See below ](#representative-mutations) or [the study page ](papers/paneaWholeGenomeLandscape2019.md#tier-2) for more information**
 
-## History
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2012-08-27 : Rossi : MZL
-      2013-08-15 : Morin : DLBCL
-      2017-01-26 : Krysiak : FL
-      2019-09-26 : Panea : BL
-```
 
 ## Relevance tier by entity
 
@@ -98,5 +88,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/H
 [RG130](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG130.html)
 [RG142](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG142.html)
 
+
+[[include:mermaid_HIST1H2AG.md]]
 
 ## References

@@ -3,23 +3,8 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# SPEN
+[[_TOC_]]
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2012-08-27 : Rossi : MZL
-2017-05-01 : Albuquerque : DLBCL
-2017-10-10 : Reddy : DLBCL
-2018-04-12 : Schmitz : DLBCL
-2018-05-01 : Chapuy : DLBCL
-2018-10-01 : Arthur : DLBCL
-      2021-04-01 : Sarkozy : PMBL
-
-2021-05-05 : Hubschmann : DLBCL
-```
 
 ## Relevance tier by entity
 
@@ -59,6 +44,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/S
 <!-- DLBCL: rossiCodingGenomeSplenic2012c -->
 <!-- MZL: rossiCodingGenomeSplenic2012c -->
 <!-- PMBL: sarkozyMutationalLandscapeGray2021a -->
+
+[[include:mermaid_SPEN.md]]
 
 ## References
 

@@ -3,15 +3,8 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# IER2
+[[_TOC_]]
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2013-08-15 : Morin : DLBCL
-```
 
 ## Relevance tier by entity
 
@@ -46,6 +39,8 @@ timeline
 
 [RG115](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG115.html)
 [RG136](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG136.html)
+
+[[include:mermaid_IER2.md]]
 
 ## References
 

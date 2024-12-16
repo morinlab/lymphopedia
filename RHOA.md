@@ -3,20 +3,8 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# RHOA
+[[_TOC_]]
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-    2012-11-11 : Richter : BL
-      2013-01-01 : Zhang : DLBCL
-2017-10-10 : Reddy : DLBCL
-2018-05-01 : Chapuy : DLBCL
-2018-10-01 : Arthur : DLBCL
-      
-```
 
 ## Relevance tier by entity
 
@@ -60,6 +48,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/R
 <!-- ORIGIN: pasqualucciHypermutationMultipleProtooncogenes2001a -->
 <!-- DLBCL: pasqualucciHypermutationMultipleProtooncogenes2001a -->
 <!-- BL: richterRecurrentMutationID32012a -->
+
+[[include:mermaid_RHOA.md]]
 
 ## References
 

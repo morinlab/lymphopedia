@@ -4,16 +4,9 @@ csl: 'NLM.csl'
 link-citations: true
 ---
 
-# LPHN3
+[[_TOC_]]
 
-## History
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2021-07-15 : Duns : PMBL
-```
 
 
 ## Relevance tier by entity
@@ -34,6 +27,8 @@ timeline
 |FL|GAMBL Exome |3.152 |
 |MCL|GAMBL Genome |2.339 |
 
+
+[[include:mermaid_LPHN3.md]]
 
 ## References
 

@@ -3,17 +3,8 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# WNK1
+[[_TOC_]]
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2017-07-27 : Jallades : MZL
-      2021-05-05 : Hübschmann : DLBCL
-      2023-02-03 : Thomas : BL
-```
 
 ## Relevance tier by entity
 
@@ -64,5 +55,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/W
 [SP194228](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP194228.html)
 [SP59344](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP59344.html)
 [SP59452](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP59452.html)
+
+[[include:mermaid_WNK1.md]]
 
 ## References

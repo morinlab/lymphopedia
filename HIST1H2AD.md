@@ -4,16 +4,9 @@ csl: 'NLM.csl'
 link-citations: true
 ---
 
-# HIST1H2AD
+[[_TOC_]]
 
-## History
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2017-07-27 : Jallades : MZL
-```
 
 
 ## Relevance tier by entity
@@ -33,6 +26,8 @@ timeline
 |DLBCL|GAMBL Genome |2.068 |
 |FL|GAMBL Exome |0.573 |
 
+
+[[include:mermaid_HIST1H2AD.md]]
 
 ## References
 

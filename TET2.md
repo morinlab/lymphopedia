@@ -3,19 +3,9 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# TET2
+[[_TOC_]]
 
-## History
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-2017-05-01 : Albuquerque : DLBCL
-2017-10-10 : Reddy : DLBCL
-2018-04-12 : Schmitz : DLBCL
-2021-05-05 : Hubschmann : DLBCL
-```
 
 ## Relevance tier by entity
 
@@ -43,6 +33,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/T
 ![](images/gene_expression/TET2_by_pathology.svg)
 <!-- ORIGIN: 28327945 -->
 <!-- DLBCL: albuquerqueEnhancingKnowledgeDiscovery2017a -->
+
+[[include:mermaid_TET2.md]]
 
 ## References
 

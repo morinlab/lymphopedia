@@ -4,16 +4,9 @@ csl: 'NLM.csl'
 link-citations: true
 ---
 
-# TNRC6B
+[[_TOC_]]
 
-## History
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2013-11-05 : Be : MCL
-```
 
 
 ## Relevance tier by entity
@@ -34,6 +27,8 @@ timeline
 |FL|GAMBL Exome |0.86 |
 |MCL|GAMBL Genome |0.585 |
 
+
+[[include:mermaid_TNRC6B.md]]
 
 ## References
 

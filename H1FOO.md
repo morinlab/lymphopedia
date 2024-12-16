@@ -4,16 +4,9 @@ csl: 'NLM.csl'
 link-citations: true
 ---
 
-# H1FOO
+[[_TOC_]]
 
-## History
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2012-03-06 : Lohr : DLBCL
-```
 
 
 ## Relevance tier by entity
@@ -31,6 +24,8 @@ timeline
 |BL|GAMBL Genome |1.158 |
 |DLBCL|GAMBL Exome |0.701 |
 
+
+[[include:mermaid_H1FOO.md]]
 
 ## References
 

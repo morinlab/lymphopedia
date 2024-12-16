@@ -4,16 +4,9 @@ csl: 'NLM.csl'
 link-citations: true
 ---
 
-# PDGFC
+[[_TOC_]]
 
-## History
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2012-03-06 : Lohr : DLBCL
-```
 
 
 ## Relevance tier by entity
@@ -32,6 +25,8 @@ timeline
 |DLBCL|GAMBL Exome |2.049 |
 |DLBCL|GAMBL Genome |1.316 |
 
+
+[[include:mermaid_PDGFC.md]]
 
 ## References
 

@@ -3,17 +3,10 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# TFAP4
+[[_TOC_]]
 
-## History
 Mutations in BL were first described by Grande et al.<sup>1</sup>
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2019-03-21 : Grande : BL
-```
 
 ## Relevance tier by entity
 
@@ -40,6 +33,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/T
 
 ## TFAP4 Expression
 ![](images/gene_expression/TFAP4_by_pathology.svg)
+
+[[include:mermaid_TFAP4.md]]
 
 ## References
 

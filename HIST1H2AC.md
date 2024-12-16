@@ -3,19 +3,9 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# HIST1H2AC
+[[_TOC_]]
 This gene encodes the H2A protein, one of the core proteins comprising nucleosomes. Although relatively common in DLBCL, little is known about the function of these mutations. 
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2013-08-15 : Morin : DLBCL
-      2017-01-26 : Krysiak : FL
-      2018-05-01 : Chapuy : DLBCL
-      2021-05-05 : Hubschmann : DLBCL
-```
 
 ## Relevance tier by entity
 
@@ -80,5 +70,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/H
 <!-- ORIGIN: morinMutationalStructuralAnalysis2013 -->
 <!-- FL: krysiakRecurrentSomaticMutations2017b -->
 <!-- DLBCL: morinMutationalStructuralAnalysis2013 -->
+
+[[include:mermaid_HIST1H2AC.md]]
 
 ## References

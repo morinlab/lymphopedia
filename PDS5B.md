@@ -3,18 +3,10 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# PDS5B
-
-## History
+[[_TOC_]]
 
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2013-08-15 : Morin : DLBCL
-      2021-05-05 : Hübschmann : FL
-```
+
 
 ## Relevance tier by entity
 
@@ -68,6 +60,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/P
 
 [RG024](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG024.html)
 [RG065](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG065.html)
+
+[[include:mermaid_PDS5B.md]]
 
 ## References
 

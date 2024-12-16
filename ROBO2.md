@@ -3,15 +3,8 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# ROBO2
+[[_TOC_]]
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2014-05-08 : Zhang : MCL
-```
 
 ## Relevance tier by entity
 
@@ -38,6 +31,8 @@ timeline
 ![](images/gene_expression/ROBO2_by_pathology.svg)
 <!-- ORIGIN: zhangGenomicLandscapeMantle2014 -->
 <!-- MCL: zhangGenomicLandscapeMantle2014 -->
+
+[[include:mermaid_ROBO2.md]]
 
 ## References
 

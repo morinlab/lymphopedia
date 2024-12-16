@@ -3,17 +3,10 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# PTPRK
+[[_TOC_]]
 
 <<Warn("The variants reported in this gene in DLBCL failed QC")>>
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2017-10-10 : Reddy : DLBCL
-```
 
 ## Relevance tier by entity
 
@@ -87,6 +80,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/P
 [Reddy_3911T](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Reddy/igv_reports/Reddy_3911T.html)
 [Reddy_3937T](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Reddy/igv_reports/Reddy_3937T.html)
 [Reddy_823T](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Reddy/igv_reports/Reddy_823T.html)
+
+[[include:mermaid_PTPRK.md]]
 
 ## References
  

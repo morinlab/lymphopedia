@@ -3,16 +3,8 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# HIST1H3I
+[[_TOC_]]
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2017-01-26 : Krysiak : FL
-      2019-09-26 : Panea : BL
-```
 
 ## Relevance tier by entity
 
@@ -56,5 +48,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/H
 ![](primary/Panea_HIST1H3I.svg)
 **Rating**
 &starf; &starf; &starf; &starf; &star;
+
+[[include:mermaid_HIST1H3I.md]]
 
 ## References

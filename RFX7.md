@@ -3,18 +3,10 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# RFX7
+[[_TOC_]]
 
-## History
 First described as mutated in BL in 2009 by Grande et al.<sup>1</sup>
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2019-03-21 : Grande : BL
-      2018-10-01 : Arthur : DLBCL
-```
 
 ## Relevance tier by entity
 
@@ -43,6 +35,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/R
 
 ## RFX7 Expression
 ![](images/gene_expression/RFX7_by_pathology.svg)
+
+[[include:mermaid_RFX7.md]]
 
 ## References
 

@@ -4,16 +4,9 @@ csl: 'NLM.csl'
 link-citations: true
 ---
 
-# NEK1
+[[_TOC_]]
 
-## History
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2015-02-12 : Reichel : PMBL
-```
 
 
 ## Relevance tier by entity
@@ -34,6 +27,8 @@ timeline
 |FL|GAMBL Exome |0.573 |
 |MCL|GAMBL Genome |1.754 |
 
+
+[[include:mermaid_NEK1.md]]
 
 ## References
 

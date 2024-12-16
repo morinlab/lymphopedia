@@ -4,16 +4,9 @@ csl: 'NLM.csl'
 link-citations: true
 ---
 
-# TMSL3
+[[_TOC_]]
 
-## History
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2012-03-06 : Lohr : DLBCL
-```
 
 
 ## Relevance tier by entity
@@ -28,6 +21,8 @@ timeline
 |Entity|source |frequency (%)|
 |:------:|:----:|:----:|
 
+
+[[include:mermaid_TMSL3.md]]
 
 ## References
 

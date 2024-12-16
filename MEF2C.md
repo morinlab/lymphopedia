@@ -3,18 +3,11 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# MEF2C
+[[_TOC_]]
 
 ## Overview
 MEF2C is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus.
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2018-10-01 : Arthur : DLBCL
-```
 
 ## Relevance tier by entity
 
@@ -52,6 +45,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/M
 
 ## MEF2C Expression
 ![](images/gene_expression/MEF2C_by_pathology.svg)
+
+[[include:mermaid_MEF2C.md]]
 
 ## References
 

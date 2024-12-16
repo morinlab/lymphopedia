@@ -3,19 +3,12 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# PDZRN3
+[[_TOC_]]
 
 <<Warn("The variants reported in this gene failed QC")>>
 
 **[See below ](#representative-mutations) or [the study page ](papers/paneaWholeGenomeLandscape2019.md#tier-2) for more information**
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2019-09-26 : Panea : BL
-```
 
 ## Relevance tier by entity
 
@@ -60,6 +53,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/P
 ![](primary/Panea_PDZRN3_1.svg)
 **Rating**
 &starf; &starf; &star; &star; &star; 
+
+[[include:mermaid_PDZRN3.md]]
 
 ## References
 

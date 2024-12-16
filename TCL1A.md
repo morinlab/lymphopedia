@@ -3,15 +3,8 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# TCL1A
+[[_TOC_]]
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2019-03-21 : Grande : BL
-```
 
 ## Relevance tier by entity
 
@@ -48,6 +41,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/T
 
 ## TCL1A Expression
 ![](images/gene_expression/TCL1A_by_pathology.svg)
+
+[[include:mermaid_TCL1A.md]]
 
 ## References
 

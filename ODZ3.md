@@ -3,15 +3,8 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# ODZ3
+[[_TOC_]]
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2013-08-15 : Morin : DLBCL
-```
 
 ## Relevance tier by entity
 
@@ -42,6 +35,8 @@ timeline
 
 [RG034](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG034.html)
 [RG086](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG086.html)
+
+[[include:mermaid_ODZ3.md]]
 
 ## References
 

@@ -3,16 +3,8 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# MYD88
+[[_TOC_]]
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2011-02-03 : Ngo : DLBCL
-      2012-04-01 : Yan : MZL
-```
 
 ## Relevance tier by entity
 
@@ -50,5 +42,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/M
 <!-- ORIGIN: yanBCRTLRSignaling2012a -->
 <!-- DLBCL: ngoOncogenicallyActiveMYD882011a -->
 <!-- MZL: yanBCRTLRSignaling2012a -->
+
+[[include:mermaid_MYD88.md]]
 
 ## References

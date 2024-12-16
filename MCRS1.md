@@ -4,16 +4,9 @@ csl: 'NLM.csl'
 link-citations: true
 ---
 
-# MCRS1
+[[_TOC_]]
 
-## History
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2012-08-27 : Rossi : MZL
-```
 
 
 ## Relevance tier by entity
@@ -32,6 +25,8 @@ timeline
 |DLBCL|GAMBL Exome |0.539 |
 |DLBCL|GAMBL Genome |0.376 |
 
+
+[[include:mermaid_MCRS1.md]]
 
 ## References
 

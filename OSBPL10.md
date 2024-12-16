@@ -3,20 +3,11 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# OSBPL10
+[[_TOC_]]
 
 ## Overview
 OSBPL10 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus.
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2013-01-01 : Zhang : DLBCL
-      2018-04-12 : Schmitz : DLBCL
-
-```
 
 ## Relevance tier by entity
 
@@ -51,6 +42,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/O
 ![](images/gene_expression/OSBPL10_by_pathology.svg)
 <!-- ORIGIN: arthurGenomewideDiscoverySomatic2018 -->
 <!-- DLBCL: arthurGenomewideDiscoverySomatic2018 -->
+
+[[include:mermaid_OSBPL10.md]]
 
 ## References
 

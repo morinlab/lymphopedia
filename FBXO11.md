@@ -3,22 +3,13 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# FBXO11
+[[_TOC_]]
 
 ## Overview
 Somatic mutations in FBXO11 are common in BL[@richterRecurrentMutationID32012] and appear in a small number of DLBCLs.[@hubschmannMutationalMechanismsShaping2021]
 This gene has some recurrent sites of mutations (hot spots). Mutations lead to stabilization of BCL6, an important transcriptional repressor involved in lymphomagenesis.
 These mutations present a potential novel target for therapeutic intervention, particularly through strategies aimed at degrading BCL6 or inhibiting its function.
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2012-11-11 : Richter : BL
-      2013-12-13 : Parry : MZL
-      2018-10-01 : Arthur : DLBCL
-      2021-05-05 : Hübschmann : DLBCL
-```
 
 ## Relevance tier by entity
 
@@ -67,6 +58,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/F
 
 ## FBXO11 Expression
 ![](images/gene_expression/FBXO11_by_pathology.svg)
+
+[[include:mermaid_FBXO11.md]]
 
 ## References
 <!-- ORIGIN: parryWholeExomeSequencing2013 -->

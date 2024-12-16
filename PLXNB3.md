@@ -3,16 +3,8 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# PLXNB3
+[[_TOC_]]
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2014-05-08 : Zhang : MCL
-      2016-09-08 : Spina : MZL
-```
 
 ## Relevance tier by entity
 
@@ -50,6 +42,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/P
 <!-- ORIGIN: zhangGenomicLandscapeMantle2014 -->
 <!-- MCL: zhangGenomicLandscapeMantle2014 -->
 <!-- MZL: spinaGeneticsNodalMarginal2016b -->
+
+[[include:mermaid_PLXNB3.md]]
 
 ## References
 

@@ -3,15 +3,8 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# PDE4DIP
+[[_TOC_]]
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2018-05-01 : Chapuy : DLBCL
-```
 
 ## Relevance tier by entity
 
@@ -56,6 +49,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/P
 [DLBCL-RICOVER_288-Tumor](https://bcgsc.ca/downloads/morinlab/GAMBL/Chapuy_2018/DLBCL-RICOVER_288-Tumor.html)
 [DLBCL-RICOVER_384-Tumor](https://bcgsc.ca/downloads/morinlab/GAMBL/Chapuy_2018/DLBCL-RICOVER_384-Tumor.html)
 [DLBCL-RICOVER_496-Tumor](https://bcgsc.ca/downloads/morinlab/GAMBL/Chapuy_2018/DLBCL-RICOVER_496-Tumor.html)
+
+[[include:mermaid_PDE4DIP.md]]
 
 ## References
 

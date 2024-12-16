@@ -3,20 +3,8 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# TNFAIP3
+[[_TOC_]]
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2009-05-11 : Schmitz : PMBL
-      2009-06-04 : Compagno : DLBCL
-      2011-11-03 : Rossi : MZL
-2013-01-01 : Zhang : DLBCL
-2017-05-01 : Albuquerque : DLBCL
-2017-10-10 : Reddy : DLBCL
-```
 
 ## Relevance tier by entity
 
@@ -55,6 +43,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/T
 ## TNFAIP3 Expression
 
 ![](images/gene_expression/TNFAIP3_by_pathology.svg)
+
+[[include:mermaid_TNFAIP3.md]]
 
 ## References
 <!-- ORIGIN: rossiAlterationBIRC3Multiple2011a -->

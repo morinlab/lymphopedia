@@ -3,18 +3,8 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# TAF1
+[[_TOC_]]
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark'} }%%
-timeline
-    title Publication timing
-      2013-08-15 : Morin : DLBCL
-      2016-09-08 : Spina : MZL
-2017-10-10 : Reddy : DLBCL
-2021-05-05 : Hubschmann : DLBCL
-```
 
 ## Relevance tier by entity
 
@@ -45,5 +35,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/T
 <!-- ORIGIN: morinMutationalStructuralAnalysis2013 -->
 <!-- MZL: spinaGeneticsNodalMarginal2016b -->
 <!-- DLBCL: morinMutationalStructuralAnalysis2013 -->
+
+[[include:mermaid_TAF1.md]]
 
 ## References

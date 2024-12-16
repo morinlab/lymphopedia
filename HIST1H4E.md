@@ -4,16 +4,9 @@ csl: 'NLM.csl'
 link-citations: true
 ---
 
-# HIST1H4E
+[[_TOC_]]
 
-## History
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2019-09-05 : Mottok : PMBL
-```
 
 
 ## Relevance tier by entity
@@ -33,6 +26,8 @@ timeline
 |DLBCL|GAMBL Genome |2.632 |
 |FL|GAMBL Exome |0.573 |
 
+
+[[include:mermaid_HIST1H4E.md]]
 
 ## References
 

@@ -3,17 +3,10 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# MSH2
+[[_TOC_]]
 
 <<Warn("The variants reported in this gene in DLBCL failed QC")>>
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2017-10-10 : Reddy : DLBCL
-```
 
 ## Relevance tier by entity
 
@@ -92,6 +85,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/M
 [Reddy_3963T](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Reddy/igv_reports/Reddy_3963T.html)
 [Reddy_658T](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Reddy/igv_reports/Reddy_658T.html)
 [Reddy_799T](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Reddy/igv_reports/Reddy_799T.html)
+
+[[include:mermaid_MSH2.md]]
 
 ## References
 

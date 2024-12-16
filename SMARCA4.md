@@ -3,22 +3,12 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# SMARCA4
+[[_TOC_]]
 
 SMARCA4 is a member of the SWI/SNF family of proteins. The encoded protein is part of the large ATP-dependent chromatin remodeling complex SNF/SWI, which can allow expression of genes repressed by chromatin. 
 Overall, components of SWI/SNF have been identified as an emerging theme in germinal centre-derived B-cell lymphomas. [@lunningMutationChromatinModifiers2015]
 
-## History
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2012-11-11 : Richter : BL
-      2013-01-01 : Zhang : DLBCL
-      2017-01-26 : Krysiak : FL
-      2020-09-17 : Nadeu : MCL
-```
 
 ## Relevance tier by entity
 
@@ -55,5 +45,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/S
 <!-- DLBCL: zhangGeneticHeterogeneityDiffuse2013 -->
 <!-- FL: krysiakRecurrentSomaticMutations2017b -->
 <!-- BL: richterRecurrentMutationID32012a -->
+
+[[include:mermaid_SMARCA4.md]]
 
 ## References

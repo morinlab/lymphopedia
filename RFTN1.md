@@ -3,16 +3,8 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# RFTN1
+[[_TOC_]]
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2018-10-01 : Arthur : DLBCL
-      2021-07-15 : Duns : PMBL
-```
 
 ## Relevance tier by entity
 
@@ -60,6 +52,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/R
 <!-- ORIGIN: arthurGenomewideDiscoverySomatic2018 -->
 <!-- PMBL: dunsCharacterizationDLBCLPMBL2021b -->
 <!-- DLBCL: arthurGenomewideDiscoverySomatic2018 -->
+
+[[include:mermaid_RFTN1.md]]
 
 ## References
 

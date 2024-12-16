@@ -4,17 +4,9 @@ csl: 'NLM.csl'
 link-citations: true
 ---
 
-# HNRNPU
+[[_TOC_]]
 
-## History
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2017-10-10 : Reddy : DLBCL
-      2019-09-26 : Panea : BL
-```
 
 ## Relevance tier by entity
 
@@ -46,6 +38,8 @@ View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/
 
 ![](images/proteinpaint/HNRNPU.svg)
 
+
+[[include:mermaid_HNRNPU.md]]
 
 ## References
 

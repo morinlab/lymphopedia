@@ -3,21 +3,11 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# JUNB
+[[_TOC_]]
 
 ## Overview
 JUNB has been reported to be frequently mutated in T-cell/histiocyte-rich large B-cell lymphoma (THRLBCL).<sup>[@schuhmacherJUNBDUSP2SGK12019]</sup> Mutations have also been reported in DLBCL but the mutation rate in the earliest study<sup>[@reddyGeneticFunctionalDrivers2017]</sup> was likely an over-estimate.<sup>[@drevalRevisitingReddyDLBCL2023]</sup> According to one study, mutations are often enriched at somatic hypermutation hotspot sites, indicating the involvement of aberrant somatic hypermutation in the pathogenesis of these lymphomas.<sup>[@schuhmacherJUNBDUSP2SGK12019]</sup>
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2017-10-10 : Reddy : DLBCL
-2018-04-12 : Schmitz : DLBCL
-2021-05-05 : Hubschmann : DLBCL
-      2019-09-05 : Mottok : PMBL
-```
 
 ## Relevance tier by entity
 
@@ -53,6 +43,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/J
 <!-- DLBCL: reddyGeneticFunctionalDrivers2017 -->
 <!-- PMBL: mottokIntegrativeGenomicAnalysis2019b -->
 
+
+[[include:mermaid_JUNB.md]]
 
 ## References
 

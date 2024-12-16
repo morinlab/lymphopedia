@@ -3,15 +3,8 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# SLC34A2
+[[_TOC_]]
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2021-05-05 : Hübschmann : DLBCL
-```
 
 ## Relevance tier by entity
 
@@ -56,6 +49,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/S
 [SP192997](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP192997.html)
 [SP193312](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP193312.html)
 [SP194108](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP194108.html)
+
+[[include:mermaid_SLC34A2.md]]
 
 ## References
 

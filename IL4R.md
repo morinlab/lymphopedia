@@ -3,19 +3,11 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# IL4R
+[[_TOC_]]
 
 ## Overview
 Mutations in IL4R have been identified in various types of B-cell lymphomas, particularly primary mediastinal large B-cell lymphoma (PMBCL) and DLBCL. IL4R is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus. IL4R mutations are found in approximately 24.2% of primary PMBCL cases. These mutations are commonly single nucleotide variants in exon 8, resulting in the I242N amino acid change. This leads to constitutive activation of the JAK-STAT signaling pathway and upregulation of downstream cytokine expression profiles and B cell-specific antigens.<sup>1,2</sup> In DLBCL, IL4R mutations are more rare and tend to occur within the GCB subgroup.<sup>2</sup> 
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2018-05-03 : Vigan : PMBL
-      2021-07-15 : Duns : DLBCL
-```
 
 ## Relevance tier by entity
 
@@ -59,5 +51,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/I
 <!-- ORIGIN: viganoSomaticIL4RMutations2018b -->
 <!-- DLBCL: dunsCharacterizationDLBCLPMBL2021b -->
 <!-- PMBL: viganoSomaticIL4RMutations2018b -->
+
+[[include:mermaid_IL4R.md]]
 
 ## References

@@ -4,16 +4,9 @@ csl: 'NLM.csl'
 link-citations: true
 ---
 
-# KRTAP5-5
+[[_TOC_]]
 
-## History
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2012-03-06 : Lohr : DLBCL
-```
 
 
 ## Relevance tier by entity
@@ -29,6 +22,8 @@ timeline
 |:------:|:----:|:----:|
 |DLBCL|GAMBL Exome |0.216 |
 
+
+[[include:mermaid_KRTAP5-5.md]]
 
 ## References
 

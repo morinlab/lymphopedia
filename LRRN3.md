@@ -3,17 +3,8 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# LRRN3
+[[_TOC_]]
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2013-01-01 : Zhang : DLBCL
-      2013-08-15 : Morin : DLBCL
-      2021-04-01 : Sarkozy : PMBL
-```
 
 ## Relevance tier by entity
 
@@ -49,6 +40,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/L
 [RG051](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG051.html)
 [RG075](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG075.html)
 [RG111](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG111.html)
+
+[[include:mermaid_LRRN3.md]]
 
 ## References
 

@@ -4,16 +4,9 @@ csl: 'NLM.csl'
 link-citations: true
 ---
 
-# SYN2
+[[_TOC_]]
 
-## History
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2012-03-06 : Lohr : DLBCL
-```
 
 
 ## Relevance tier by entity
@@ -30,6 +23,8 @@ timeline
 |DLBCL|GAMBL Exome |0.162 |
 |FL|GAMBL Exome |0.287 |
 
+
+[[include:mermaid_SYN2.md]]
 
 ## References
 

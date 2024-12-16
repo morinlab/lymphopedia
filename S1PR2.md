@@ -3,25 +3,11 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# S1PR2
+[[_TOC_]]
 
 ## Overview
 S1PR2 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus.
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-2011-07-27 : Morin : DLBCL
-2012-03-06 : Lohr : DLBCL
-2013-08-15 : Morin : DLBCL
-2014-12-11 : Muppidi : BL
-2017-10-10 : Reddy : DLBCL
-2018-04-12 : Schmitz : DLBCL
-2018-10-01 : Arthur : DLBCL
-      
-```
 
 ## Relevance tier by entity
 
@@ -62,6 +48,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/S
 <!-- ORIGIN: 21796119 -->
 <!-- BL: muppidiLossSignalingGa132014b -->
 <!-- DLBCL: morinFrequentMutationHistonemodifying2011 -->
+
+[[include:mermaid_S1PR2.md]]
 
 ## References
 

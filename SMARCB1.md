@@ -3,15 +3,8 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# SMARCB1
+[[_TOC_]]
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2020-09-17 : Nadeu : MCL
-```
 
 ## Relevance tier by entity
 
@@ -48,6 +41,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/S
 ![](images/gene_expression/SMARCB1_by_pathology.svg)
 <!-- ORIGIN: nadeuGenomicEpigenomicInsights2020a -->
 <!-- MCL: nadeuGenomicEpigenomicInsights2020b -->
+
+[[include:mermaid_SMARCB1.md]]
 
 ## References
 

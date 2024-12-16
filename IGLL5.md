@@ -3,17 +3,8 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# IGLL5
+[[_TOC_]]
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2019-08-20 : Desch : PMBL
-      2019-09-26 : Panea : BL
-      2023-07-26 : Russler : FL
-```
 
 ## Relevance tier by entity
 
@@ -63,6 +54,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/I
 
 ## IGLL5 Expression
 ![](images/gene_expression/IGLL5_by_pathology.svg)
+
+[[include:mermaid_IGLL5.md]]
 
 ## References
 <!-- PMBL: deschGenotypingCirculatingTumor2020 -->

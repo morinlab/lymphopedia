@@ -3,17 +3,10 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# FZR1
+[[_TOC_]]
 
-## History
 Mutations in this gene were first described in DLBCL and FL in 2021 by Hübschmann et al.<sup>1</sup>
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2021-05-05 : Hübschmann : FL
-```
 
 ## Relevance tier by entity
 
@@ -50,6 +43,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/F
 
 [SP194077](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP194077.html)
 [SP193650](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP193650.html)
+
+[[include:mermaid_FZR1.md]]
 
 ## References
 

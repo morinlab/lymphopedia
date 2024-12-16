@@ -3,7 +3,7 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# MTOR
+[[_TOC_]]
 
 ## Overview
 
@@ -12,15 +12,6 @@ Although mutations in MTOR have been reported in DLBCL and some BL, their role i
 <<Warn("The variants reported in this gene in BL failed QC")>>
 
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2013-01-01 : Zhang : DLBCL
-      2017-10-10 : Reddy : DLBCL
-      2019-09-26 : Panea : BL
-```
 
 ## Relevance tier by entity
 
@@ -70,6 +61,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/M
 **Rating**
 &starf; &star; &star; &star; &star; 
 
+
+[[include:mermaid_MTOR.md]]
 
 ## References
 

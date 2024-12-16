@@ -3,17 +3,10 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# GAK
+[[_TOC_]]
 
-## History
 Mutations in this gene were first described in DLBCL in 2021 by Hübschmann et al.<sup>1</sup>
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2021-05-05 : Hübschmann : DLBCL
-```
 
 ## Relevance tier by entity
 
@@ -54,6 +47,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/G
 [SP116697](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP116697.html)
 [SP192765](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP192765.html)
 [SP192870](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP192870.html)
+
+[[include:mermaid_GAK.md]]
 
 ## References
 

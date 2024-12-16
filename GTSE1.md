@@ -3,15 +3,8 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# GTSE1
+[[_TOC_]]
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2012-10-04 : Schmitz : BL
-```
 
 ## Relevance tier by entity
 
@@ -50,6 +43,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/G
 ![](images/gene_expression/GTSE1_by_pathology.svg)
 <!-- ORIGIN: schmitzBurkittLymphomaPathogenesis2012 -->
 <!-- BL: schmitzBurkittLymphomaPathogenesis2012 -->
+
+[[include:mermaid_GTSE1.md]]
 
 ## References
 

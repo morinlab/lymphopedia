@@ -3,16 +3,8 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# HIST1H3B
+[[_TOC_]]
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2013-01-01 : Zhang : DLBCL
-      2015-02-12 : Reichel : PMBL
-```
 
 ## Relevance tier by entity
 
@@ -65,5 +57,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/H
 <!-- DLBCL: zhangGeneticHeterogeneityDiffuse2013 -->
 <!-- PMBL: reichelFlowSortingExome2015a -->
 
+
+[[include:mermaid_HIST1H3B.md]]
 
 ## References

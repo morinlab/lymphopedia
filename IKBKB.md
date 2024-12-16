@@ -3,17 +3,8 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# IKBKB
+[[_TOC_]]
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2011-11-03 : Rossi : MZL
-      2017-10-10 : Reddy : DLBCL
-      2019-12-10 : Wienand : PMBL
-```
 
 ## Relevance tier by entity
 
@@ -57,5 +48,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/I
 <!-- MZL: rossiAlterationBIRC3Multiple2011a -->
 <!-- DLBCL: reddyGeneticFunctionalDrivers2017 -->
 <!-- PMBL: wienandGenomicAnalysesFlowsorted2019b -->
+
+[[include:mermaid_IKBKB.md]]
 
 ## References

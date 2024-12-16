@@ -3,7 +3,7 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# FGFR3
+[[_TOC_]]
 
 ## Overview
 
@@ -11,13 +11,6 @@ Due to [minimal support](FGFR3#representative-mutation) in the original primary 
 
 <<Warn("The variants reported in this gene in BL failed QC")>>
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2012-12-01 : Love : BL
-```
 
 ## Relevance tier by entity
 
@@ -68,6 +61,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/F
 [1064](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/1064_reports.html)
 [479](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/479_reports.html)
 [515](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/515_reports.html)
+
+[[include:mermaid_FGFR3.md]]
 
 ## References
 

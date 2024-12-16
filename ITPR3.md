@@ -3,18 +3,10 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# ITPR3
+[[_TOC_]]
 
 <<Warn("The variants reported in this gene failed QC")>>
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2012-12-01 : Love : BL
-      2018-05-31 : Tiacci : PMBL
-```
 
 ## Relevance tier by entity
 
@@ -63,6 +55,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/I
 [1061](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/1061_reports.html)
 [1065](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/1065_reports.html)
 [742](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/742_reports.html)
+
+[[include:mermaid_ITPR3.md]]
 
 ## References
 

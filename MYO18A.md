@@ -3,15 +3,8 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# MYO18A
+[[_TOC_]]
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2012-10-04 : Schmitz : BL
-```
 
 ## Relevance tier by entity
 
@@ -48,6 +41,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/M
 
 ## MYO18A Expression
 ![](images/gene_expression/MYO18A_by_pathology.svg)
+
+[[include:mermaid_MYO18A.md]]
 
 ## References
 

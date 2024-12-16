@@ -3,14 +3,8 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# TBC1D26
+[[_TOC_]]
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2014-05-08 : Zhang : MCL
-```
 
 ## Relevance tier by entity
 
@@ -47,6 +41,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/T
 ![](images/gene_expression/TBC1D26_by_pathology.svg)
 <!-- ORIGIN: zhangGenomicLandscapeMantle2014 -->
 <!-- MCL: zhangGenomicLandscapeMantle2014 -->
+
+[[include:mermaid_TBC1D26.md]]
 
 ## References
 

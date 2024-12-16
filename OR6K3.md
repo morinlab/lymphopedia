@@ -4,16 +4,9 @@ csl: 'NLM.csl'
 link-citations: true
 ---
 
-# OR6K3
+[[_TOC_]]
 
-## History
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2012-03-06 : Lohr : DLBCL
-```
 
 
 ## Relevance tier by entity
@@ -31,6 +24,8 @@ timeline
 |DLBCL|GAMBL Exome |0.809 |
 |DLBCL|GAMBL Genome |0.188 |
 
+
+[[include:mermaid_OR6K3.md]]
 
 ## References
 

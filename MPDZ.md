@@ -3,16 +3,8 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# MPDZ
+[[_TOC_]]
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2013-08-15 : Morin : DLBCL
-      2015-02-12 : Reichel : PMBL
-```
 
 ## Relevance tier by entity
 
@@ -65,5 +57,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/M
 [RG081](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG081.html)
 [RG115](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG115.html)
 [RG130](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG130.html)
+
+[[include:mermaid_MPDZ.md]]
 
 ## References

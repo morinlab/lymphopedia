@@ -3,17 +3,10 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# LRP12
+[[_TOC_]]
 
-## History
 Mutations in this gene were first described in DLBCL in 2021 by Hübschmann et al.<sup>1</sup>
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2021-05-05 : Hübschmann : DLBCL
-```
 
 ## Relevance tier by entity
 
@@ -57,6 +50,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/L
 [SP194077](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP194077.html)
 [SP59460](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP59460.html)
 [SP193258](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP193258.html)
+
+[[include:mermaid_LRP12.md]]
 
 ## References
 

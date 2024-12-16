@@ -4,17 +4,9 @@ csl: 'NLM.csl'
 link-citations: true
 ---
 
-# LRP1B
+[[_TOC_]]
 
-## History
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2013-01-01 : Zhang : DLBCL
-      2016-09-08 : Spina : MZL
-```
 
 
 ## Relevance tier by entity
@@ -35,6 +27,8 @@ timeline
 |FL|GAMBL Exome |6.017 |
 |MCL|GAMBL Genome |5.848 |
 
+
+[[include:mermaid_LRP1B.md]]
 
 ## References
 

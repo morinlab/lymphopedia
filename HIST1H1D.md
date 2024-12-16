@@ -3,22 +3,12 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# HIST1H1D
+[[_TOC_]]
 
 ## Overview
 This is one of several genes that encode linker histone proteins that are recurrently mutated in DLBCL and FL.[@morinMutationalStructuralAnalysis2013; @krysiakRecurrentSomaticMutations2017]
 Mutations are often found in the globular domain of the protein, which is critical for its interaction with DNA and other histone proteins. 
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2013-08-15 : Morin : DLBCL
-      2017-01-26 : Krysiak : FL
-      2017-07-27 : Jallades : MZL
-2018-05-01 : Chapuy : DLBCL
-```
 
 ## Relevance tier by entity
 
@@ -65,5 +55,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/H
 <!-- FL: krysiakRecurrentSomaticMutations2017b -->
 <!-- DLBCL: morinMutationalStructuralAnalysis2013 -->
 <!-- MZL: jalladesExomeSequencingIdentifies2017 -->
+
+[[include:mermaid_HIST1H1D.md]]
 
 ## References

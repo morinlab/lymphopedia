@@ -3,15 +3,8 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# UNC5C
+[[_TOC_]]
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-2012-03-06 : Lohr : DLBCL
-```
 
 ## Relevance tier by entity
 
@@ -50,5 +43,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/U
 ## UNC5C Expression
 ![](images/gene_expression/UNC5C_by_pathology.svg)
 <!-- ORIGIN: Unknown -->
+
+[[include:mermaid_UNC5C.md]]
 
 ## References

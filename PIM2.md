@@ -3,23 +3,12 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# PIM2
+[[_TOC_]]
 
 ## Overview
 PIM2 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus.
 
-## History
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2015-02-12 : Reichel : PMBL
-      2017-10-10 : Reddy : DLBCL
-2018-04-12 : Schmitz : DLBCL
-2018-10-01 : Arthur : DLBCL
-     
-```
 
 ## Relevance tier by entity
 
@@ -56,5 +45,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/P
 <!-- ORIGIN: reichelFlowSortingExome2015a -->
 <!-- DLBCL: arthurGenomewideDiscoverySomatic2018 -->
 <!-- PMBL: reichelFlowSortingExome2015a -->
+
+[[include:mermaid_PIM2.md]]
 
 ## References

@@ -3,18 +3,11 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# NFKBIZ
+[[_TOC_]]
 
 ## Overview
 The NFKBIZ gene is a significant player in NF-κB signaling, with mutations leading to its deregulation. This pathway is critical in the pathogenesis of ABC DLBCL. NFKBIZ is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus. The predominant cluster of mutations in NFKBIZ is in the 3' UTR and not a consequence of aSHM. NFKBIZ 3' UTR mutations confer a selective growth advantage in DLBCL cells by stabilizing NFKBIZ mRNA, resulting in increased protein levels.[@arthurGenomewideDiscoverySomatic2018] 
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2016-05-01 : Morin : DLBCL
-```
 
 ## Relevance tier by entity
 
@@ -48,6 +41,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/N
 
 ## NFKBIZ Expression
 ![](images/gene_expression/NFKBIZ_by_pathology.svg)
+
+[[include:mermaid_NFKBIZ.md]]
 
 ## References
 

@@ -3,16 +3,9 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# LPP
+[[_TOC_]]
 
-## History
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2018-10-01 : Arthur : DLBCL
-```
 
 ## Relevance tier by entity
 
@@ -65,5 +58,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/L
 ![](images/gene_expression/LPP_by_pathology.svg)
 <!-- ORIGIN: arthurGenomewideDiscoverySomatic2018 -->
 <!-- DLBCL: arthurGenomewideDiscoverySomatic2018 -->
+
+[[include:mermaid_LPP.md]]
 
 ## References

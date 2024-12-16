@@ -4,17 +4,9 @@ csl: 'NLM.csl'
 link-citations: true
 ---
 
-# MAP3K14
+[[_TOC_]]
 
-## History
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2011-11-03 : Rossi : MZL
-      2012-06-01 : Otto : PMBL
-```
 
 
 ## Relevance tier by entity
@@ -31,6 +23,8 @@ timeline
 |:------:|:----:|:----:|
 |DLBCL|GAMBL Exome |0.162 |
 
+
+[[include:mermaid_MAP3K14.md]]
 
 ## References
 

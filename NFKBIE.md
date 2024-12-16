@@ -3,21 +3,12 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# NFKBIE
+[[_TOC_]]
 
 ## Overview
 NFKBIE encodes IκBε, a negative regulator of NF-κB. Mutations in NFKBIE can disrupt this regulatory function, leading to constitutive activation of NF-κB signaling.<sup>1</sup> Mutations are relatively common in DLBCL and MCL.<sup>2</sup> 
 
-## History
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2016-05-01 : Morin : DLBCL
-      2016-12-08 : Mansouri : PMBL
-      2020-07-30 : Pararajalingam : MCL
-```
 
 ## Relevance tier by entity
 
@@ -46,6 +37,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/N
 
 ## NFKBIE Expression
 ![](images/gene_expression/NFKBIE_by_pathology.svg)
+
+[[include:mermaid_NFKBIE.md]]
 
 ## References
 <!-- ORIGIN: morinGeneticLandscapesRelapsed2016 -->

@@ -3,17 +3,10 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# NRXN2
+[[_TOC_]]
 
 <<Warn("The variants reported in this gene failed QC")>>
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2012-12-01 : Love : BL
-```
 
 ## Relevance tier by entity
 
@@ -64,6 +57,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/N
 [515](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/515_reports.html)
 [698](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/698_reports.html)
 
+
+[[include:mermaid_NRXN2.md]]
 
 ## References
 

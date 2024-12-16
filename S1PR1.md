@@ -3,16 +3,9 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# S1PR1
+[[_TOC_]]
 
-## History
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2020-07-30 : Pararajalingam : MCL
-```
 
 ## Relevance tier by entity
 
@@ -51,6 +44,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/S
 <!-- ORIGIN: lohrDiscoveryPrioritizationSomatic2012a -->
 <!-- MCL: pararajalingamCodingNoncodingDrivers2020 -->
 <!-- DLBCL: lohrDiscoveryPrioritizationSomatic2012a -->
+
+[[include:mermaid_S1PR1.md]]
 
 ## References
 

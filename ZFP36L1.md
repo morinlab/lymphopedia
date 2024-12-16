@@ -3,25 +3,11 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# ZFP36L1
+[[_TOC_]]
 
 ## Overview
 ZFP36L1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus.
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-2011-07-27 : Morin : DLBCL
-2015-02-12 : Reichel : PMBL
-2017-05-01 : Albuquerque : DLBCL
-2018-04-12 : Schmitz : DLBCL
-2018-05-01 : Chapuy : DLBCL
-2018-10-01 : Arthur : DLBCL
-      2019-09-26 : Panea : BL
-2021-05-05 : Hubschmann : DLBCL
-```
 
 ## Relevance tier by entity
 
@@ -58,6 +44,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/Z
 
 ## ZFP36L1 Expression
 ![](images/gene_expression/ZFP36L1_by_pathology.svg)
+
+[[include:mermaid_ZFP36L1.md]]
 
 ## References
 

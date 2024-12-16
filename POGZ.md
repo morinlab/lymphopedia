@@ -3,15 +3,8 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# POGZ
+[[_TOC_]]
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2013-08-15 : Morin : DLBCL
-```
 
 ## Relevance tier by entity
 
@@ -54,6 +47,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/P
 ## All Mutations
 
 [RG116](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG116.html)
+
+[[include:mermaid_POGZ.md]]
 
 ## References
 

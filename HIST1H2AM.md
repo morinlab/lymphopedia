@@ -3,7 +3,7 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# HIST1H2AM
+[[_TOC_]]
 
 <<Warn("The variants reported in this gene in BL failed QC")>>
 
@@ -12,14 +12,6 @@ link-citations: true
 ## Overview
 This gene encodes the H2A protein, one of the core proteins comprising nucleosomes. Although relatively common in DLBCL, little is known about the function of these mutations. 
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2017-01-26 : Krysiak : FL
-      2019-09-26 : Panea : BL
-```
 
 ## Relevance tier by entity
 
@@ -106,5 +98,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/H
 ![](primary/Panea_HIST1H2AM_2.svg)
 &star; &star; &star; &star; &star;
 
+
+[[include:mermaid_HIST1H2AM.md]]
 
 ## References

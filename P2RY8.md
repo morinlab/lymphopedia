@@ -3,17 +3,9 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# P2RY8
+[[_TOC_]]
 P2RY8 encodes a G protein–coupled receptor that is expressed on germinal center B cells. Signals through this receptor promote confinement of B cells to the GC niche.<sup>1</sup> Downstream signaling through Galpha13 (encoded by GNA13) and S1PR2 is distrupted by mutations of one of these genes in GC lymphomas including the GCB subgroup of DLBCL<sup>2</sup> and BL.<sup>1</sup> 
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2012-03-06 : Lohr : DLBCL
-      2014-12-11 : Muppidi : BL
-```
 
 ## Relevance tier by entity
 
@@ -43,6 +35,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/P
 
 ## P2RY8 Expression
 ![](images/gene_expression/P2RY8_by_pathology.svg)
+
+[[include:mermaid_P2RY8.md]]
 
 ## References
 

@@ -3,19 +3,11 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# JAK1
+[[_TOC_]]
 
 Mutations in this gene were first described in DLBCL in 2013[@zhangGeneticHeterogeneityDiffuse2013] and by the same group in a subsequent study.[@reddyGeneticFunctionalDrivers2017] It remains in Tier 2 because other exome and genome-wide studies of DLBCL did not reproduce this observation. 
 
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2013-01-01 : Zhang : DLBCL
-      2019-09-05 : Mottok : PMBL
-```
 
 ## Relevance tier by entity
 
@@ -63,5 +55,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/J
 <!-- ORIGIN: zhangGeneticHeterogeneityDiffuse2013 -->
 <!-- DLBCL: zhangGeneticHeterogeneityDiffuse2013 -->
 <!-- PMBL: mottokIntegrativeGenomicAnalysis2019b -->
+
+[[include:mermaid_JAK1.md]]
 
 ## References

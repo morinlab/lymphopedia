@@ -3,15 +3,8 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# FUBP1
+[[_TOC_]]
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2017-10-10 : Reddy : DLBCL
-```
 
 ## Relevance tier by entity
 
@@ -57,5 +50,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/F
 ![](images/gene_expression/FUBP1_by_pathology.svg)
 <!-- ORIGIN: reddyGeneticFunctionalDrivers2017 -->
 <!-- DLBCL: reddyGeneticFunctionalDrivers2017 -->
+
+[[include:mermaid_FUBP1.md]]
 
 ## References

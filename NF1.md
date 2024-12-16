@@ -3,16 +3,8 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# NF1
+[[_TOC_]]
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-	2013-01-01 : Zhang : DLBCL
-2017-10-10 : Reddy : DLBCL
-```
 
 ## Relevance tier by entity
 
@@ -52,6 +44,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/N
 ![](images/gene_expression/NF1_by_pathology.svg)
 <!-- ORIGIN: reddyGeneticFunctionalDrivers2017 -->
 <!-- DLBCL: reddyGeneticFunctionalDrivers2017 -->
+
+[[include:mermaid_NF1.md]]
 
 ## References
 

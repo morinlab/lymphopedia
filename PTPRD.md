@@ -3,15 +3,8 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# PTPRD
+[[_TOC_]]
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2016-09-08 : Spina : MZL
-```
 
 ## Relevance tier by entity
 
@@ -61,6 +54,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/P
 ![](images/gene_expression/PTPRD_by_pathology.svg)
 <!-- ORIGIN: spinaGeneticsNodalMarginal2016b -->
 <!-- MZL: spinaGeneticsNodalMarginal2016b -->
+
+[[include:mermaid_PTPRD.md]]
 
 ## References
 

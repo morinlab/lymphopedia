@@ -3,17 +3,10 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# LAPTM5
+[[_TOC_]]
 
-## History
 Mutations in this gene were first described in DLBCL and FL in 2021 by Hübschmann et al.<sup>1</sup>
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2021-05-05 : Hübschmann : FL
-```
 
 ## Relevance tier by entity
 
@@ -66,6 +59,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/L
 [SP193040](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP193040.html)
 [SP193656](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP193656.html)
 [SP116709](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP116709.html)
+
+[[include:mermaid_LAPTM5.md]]
 
 ## References
 

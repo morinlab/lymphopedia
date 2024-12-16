@@ -3,18 +3,10 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# SALL3
+[[_TOC_]]
 
 <<Warn("The variants reported in this gene in BL failed QC")>>
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2012-12-01 : Love : BL
-      2014-05-08 : Zhang : MCL
-```
 
 ## Relevance tier by entity
 
@@ -69,6 +61,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/S
 [475](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/475_reports.html)
 [513](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/513_reports.html)
 [515](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/515_reports.html)
+
+[[include:mermaid_SALL3.md]]
 
 ## References
 

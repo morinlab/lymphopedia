@@ -3,15 +3,8 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# WDR90
+[[_TOC_]]
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2012-10-04 : Schmitz : BL
-```
 
 ## Relevance tier by entity
 
@@ -50,5 +43,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/W
 ![](images/gene_expression/WDR90_by_pathology.svg)
 <!-- ORIGIN: schmitzBurkittLymphomaPathogenesis2012 -->
 <!-- BL: schmitzBurkittLymphomaPathogenesis2012 -->
+
+[[include:mermaid_WDR90.md]]
 
 ## References

@@ -3,16 +3,8 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# PRKDC
+[[_TOC_]]
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2018-04-12 : Schmitz : DLBCL
-      2021-05-05 : Hübschmann : FL
-```
 
 ## Relevance tier by entity
 
@@ -65,5 +57,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/P
 [SP192765](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP192765.html)
 [SP194065](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP194065.html)
 [SP116720](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP116720.html)
+
+[[include:mermaid_PRKDC.md]]
 
 ## References

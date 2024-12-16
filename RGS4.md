@@ -4,16 +4,9 @@ csl: 'NLM.csl'
 link-citations: true
 ---
 
-# RGS4
+[[_TOC_]]
 
-## History
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2013-11-05 : Be : MCL
-```
 
 
 ## Relevance tier by entity
@@ -33,6 +26,8 @@ timeline
 |FL|GAMBL Exome |0.287 |
 |MCL|GAMBL Genome |1.17 |
 
+
+[[include:mermaid_RGS4.md]]
 
 ## References
 

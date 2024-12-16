@@ -4,16 +4,9 @@ csl: 'NLM.csl'
 link-citations: true
 ---
 
-# LIMD2
+[[_TOC_]]
 
-## History
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2023-11-15 : Gomez : PMBL
-```
 
 
 ## Relevance tier by entity
@@ -32,6 +25,8 @@ timeline
 |DLBCL|GAMBL Exome |1.24 |
 |DLBCL|GAMBL Genome |1.316 |
 
+
+[[include:mermaid_LIMD2.md]]
 
 ## References
 

@@ -3,7 +3,7 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# IRF8 
+[[_TOC_]]
 
 ## Overview
 IRF8 (Interferon Regulatory Factor 8) is a transcription factor critical for the development and function of B lymphocytes. Mutations in IRF8 have been implicated in various lymphoid malignancies, most predominantly in FL and DLBCL. 
@@ -12,15 +12,6 @@ Coding and non-coding mutations in IRF8 are associated with the EZB subgroup of 
 There is preliminary evidence that IRF8 mutations contribute to immune evasion by downregulating CD74 and HLA-DM in DLBCL.
 These are crucial for processing and presentation of self antigens.
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2011-07-27 : Morin : DLBCL
-      2019-09-05 : Mottok : PMBL
-      2019-09-26 : Panea : BL
-```
 
 ## Relevance tier by entity
 
@@ -71,6 +62,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/I
 
 ## IRF8 Expression
 ![](images/gene_expression/IRF8_by_pathology.svg)
+
+[[include:mermaid_IRF8.md]]
 
 ## References
 1. *Wright GW, Huang DW, Phelan JD, Coulibaly ZA, Roulland S, Young RM, Wang JQ, Schmitz R, Morin RD, Tang J, Jiang A, Bagaev A, Plotnikova O, Kotlov N, Johnson CA, Wilson WH, Scott DW, Staudt LM. A Probabilistic Classification Tool for Genetic Subtypes of Diffuse Large B Cell Lymphoma with Therapeutic Implications. Cancer Cell. 2020 Apr 13;37(4):551-568.e14. doi: 10.1016/j.ccell.2020.03.015. PMID: 32289277; PMCID: PMC8459709.*

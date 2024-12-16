@@ -3,7 +3,7 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# KMT2D
+[[_TOC_]]
 
 ## Overview
 KMT2D (also known as MLL2) encodes a histone H3K4 methyltransferase, playing a crucial role in germinal center B cell development and function. 
@@ -11,20 +11,9 @@ Mutations in KMT2D are among the most common mutations in FL and are also common
  KMT2D mutations are recurrent but less common in BL and MCL and many other B-cell neoplasms. Mutations typically cause loss of KMT2D function, leading to diminished H3K4 methylation, impacting gene expression that favours lymphomagenesis. 
  KMT2D mutations are associated with poor prognosis in DLBCL.<sup>2,3</sup>
 
-## History
 First identified as mutated in DLBCL and FL in 2011 by Morin et al.<sup>1</sup>
 Mutations were later described in MCL in 2013 by Bea et al.<sup>4</sup> KMT2D mutations were later reported in BL by Grande et al.<sup>5</sup>
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2011-07-27 : Morin : FL
-      2012-08-27 : Rossi : MZL
-      2013-11-05 : Bea : MCL
-      2019-03-21 : Grande : BL
-      2019-08-20 : Desch : PMBL
-```
 
 ## Relevance tier by entity
 
@@ -61,6 +50,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/K
 
 
 
+
+[[include:mermaid_KMT2D.md]]
 
 ## References
 

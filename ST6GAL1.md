@@ -3,15 +3,8 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# ST6GAL1
+[[_TOC_]]
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2018-10-01 : Arthur : DLBCL
-```
 
 ## Relevance tier by entity
 
@@ -58,6 +51,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/S
 ![](images/gene_expression/ST6GAL1_by_pathology.svg)
 <!-- ORIGIN: arthurGenomewideDiscoverySomatic2018 -->
 <!-- DLBCL: arthurGenomewideDiscoverySomatic2018 -->
+
+[[include:mermaid_ST6GAL1.md]]
 
 ## References
 

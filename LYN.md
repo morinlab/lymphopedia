@@ -3,17 +3,10 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# LYN
+[[_TOC_]]
 
 ## Overview
 LYN mutations have been reported in DLBCL but the rate is relatively rare in most cohorts. The mutation pattern in DLBCL and FL implies the preferential accumulation of *inactivating mutations*. *Without further support, this gene may be migrated to Tier 2.*
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2018-05-01 : Chapuy : DLBCL
-```
 
 ## Relevance tier by entity
 
@@ -60,6 +53,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/L
 [DLBCL-RICOVER_1081-Tumor](https://bcgsc.ca/downloads/morinlab/GAMBL/Chapuy_2018/DLBCL-RICOVER_1081-Tumor.html)
 [DLBCL-RICOVER_181-Tumor](https://bcgsc.ca/downloads/morinlab/GAMBL/Chapuy_2018/DLBCL-RICOVER_181-Tumor.html)
 [DLBCL-RICOVER_773-Tumor](https://bcgsc.ca/downloads/morinlab/GAMBL/Chapuy_2018/DLBCL-RICOVER_773-Tumor.html)
+
+[[include:mermaid_LYN.md]]
 
 ## References
 

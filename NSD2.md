@@ -3,15 +3,8 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# NSD2
+[[_TOC_]]
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2013-11-05 : Bea : MCL
-```
 
 ## Relevance tier by entity
 
@@ -45,6 +38,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/N
 ![](images/gene_expression/NSD2_by_pathology.svg)
 <!-- ORIGIN: beaLandscapeSomaticMutations2013 -->
 <!-- MCL: beaLandscapeSomaticMutations2013 -->
+
+[[include:mermaid_NSD2.md]]
 
 ## References
 

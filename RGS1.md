@@ -4,16 +4,9 @@ csl: 'NLM.csl'
 link-citations: true
 ---
 
-# RGS1
+[[_TOC_]]
 
-## History
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2019-09-05 : Mottok : PMBL
-```
 
 
 ## Relevance tier by entity
@@ -31,6 +24,8 @@ timeline
 |DLBCL|GAMBL Exome |0.97 |
 |DLBCL|GAMBL Genome |1.316 |
 
+
+[[include:mermaid_RGS1.md]]
 
 ## References
 

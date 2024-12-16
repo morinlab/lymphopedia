@@ -3,15 +3,8 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# HIST1H3G
+[[_TOC_]]
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2017-01-26 : Krysiak : FL
-```
 
 ## Relevance tier by entity
 
@@ -47,5 +40,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/H
 ![](images/gene_expression/HIST1H3G_by_pathology.svg)
 <!-- ORIGIN: krysiakRecurrentSomaticMutations2017b -->
 <!-- FL: krysiakRecurrentSomaticMutations2017b -->
+
+[[include:mermaid_HIST1H3G.md]]
 
 ## References

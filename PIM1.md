@@ -3,20 +3,11 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# PIM1
+[[_TOC_]]
 
 ## Overview
 PIM1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus.
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2001-07-19 : Pasqualucci : DLBCL
-      2021-07-15 : Duns : PMBL
-      2022-07-06 : Burkhardt : BL
-```
 
 ## Relevance tier by entity
 
@@ -84,6 +75,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/P
 <!-- BL: burkhardtClinicalRelevanceMolecular2022b -->
 <!-- BL: burkhardtClinicalRelevanceMolecular2022b -->
 <!-- DLBCL: pasqualucciHypermutationMultipleProtooncogenes2001a -->
+
+[[include:mermaid_PIM1.md]]
 
 ## References
 4

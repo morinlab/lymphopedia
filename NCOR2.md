@@ -3,20 +3,11 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# NCOR2
+[[_TOC_]]
 
 ## Overview
 Mutations in this gene are relatively rare in DLBCL overall but show a pattern of inactivation. 
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2012-10-04 : Schmitz : BL
-      2016-09-08 : Spina : MZL
-      2021-04-01 : Sarkozy : PMBL
-```
 
 ## Relevance tier by entity
 
@@ -65,6 +56,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/N
 <!-- MZL: spinaGeneticsNodalMarginal2016b -->
 <!-- BL: schmitzBurkittLymphomaPathogenesis2012 -->
 <!-- BL: schmitzBurkittLymphomaPathogenesis2012 -->
+
+[[include:mermaid_NCOR2.md]]
 
 ## References
 <!-- PMBL: sarkozyMutationalLandscapeGray2021a -->

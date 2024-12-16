@@ -3,17 +3,8 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# TRAF3
+[[_TOC_]]
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2011-07-31 : Pasqualucci : DLBCL
-      2011-11-03 : Rossi : MZL
-      2012-06-01 : Otto : PMBL
-```
 
 ## Relevance tier by entity
 
@@ -56,5 +47,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/T
 <!-- MZL: rossiAlterationBIRC3Multiple2011a -->
 <!-- DLBCL: pasqualucciAnalysisCodingGenome2011 -->
 <!-- PMBL: ottoGeneticLesionsTRAF32012a -->
+
+[[include:mermaid_TRAF3.md]]
 
 ## References

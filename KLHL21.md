@@ -3,15 +3,8 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# KLHL21
+[[_TOC_]]
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2018-04-12 : Schmitz : DLBCL
-```
 
 ## Relevance tier by entity
 
@@ -56,6 +49,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/K
 ![](images/gene_expression/KLHL21_by_pathology.svg)
 <!-- ORIGIN: schmitzGeneticsPathogenesisDiffuse2018 -->
 <!-- DLBCL: schmitzGeneticsPathogenesisDiffuse2018 -->
+
+[[include:mermaid_KLHL21.md]]
 
 ## References
 

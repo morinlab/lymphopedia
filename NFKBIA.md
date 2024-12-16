@@ -3,20 +3,11 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# NFKBIA
+[[_TOC_]]
 
 ## Overview
 NFKBIA encodes IκBα, an inhibitor of NF-κB, which regulates the NF-κB signaling pathway by preventing the translocation of NF-κB to the nucleus. Mutations in NFKBIA can disrupt this regulation, leading to constitutive activation of NF-κB signaling, which has an important role in a subset of DLBCLs. Mutations and deletions in NFKBIA are observed in DLBCL and are associated with constitutive activation of the NF-κB pathway. These mutations often occur in the ABC subtype and are associated with the **ST2** genetic subgroup of DLBCL.<sup>1</sup>
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2009-09-15 : Lake : DLBCL
-      2019-12-10 : Wienand : PMBL
-      2023-07-26 : Russler-Germain : FL
-```
 
 ## Relevance tier by entity
 
@@ -51,5 +42,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/N
 <!-- DLBCL: lakeMutationsNFKBIAEncoding2009 -->
 <!-- FL: russler-germainMutationsAssociatedProgression2023b -->
 <!-- PMBL: wienandGenomicAnalysesFlowsorted2019b -->
+
+[[include:mermaid_NFKBIA.md]]
 
 ## References

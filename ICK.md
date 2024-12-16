@@ -3,17 +3,10 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# ICK
+[[_TOC_]]
 
 <<Warn("The variants reported in this gene failed QC")>>
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2012-12-01 : Love : BL
-```
 
 ## Relevance tier by entity
 
@@ -60,5 +53,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/I
 
 [1092](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/1092_reports.html)
 [516](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/516_reports.html)
+
+[[include:mermaid_ICK.md]]
 
 ## References

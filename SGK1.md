@@ -3,24 +3,8 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# SGK1
+[[_TOC_]]
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2011-07-27 : Morin : FL
-      2011-07-27 : Morin : DLBCL
-2013-01-01 : Zhang : DLBCL
-2013-08-15 : Morin : DLBCL
-2017-10-10 : Reddy : DLBCL
-2018-04-12 : Schmitz : DLBCL
-2018-05-01 : Chapuy : DLBCL
-2018-10-01 : Arthur : DLBCL
-2021-05-05 : Hubschmann : DLBCL
-      2021-07-15 : Duns : PMBL
-```
 
 ## Relevance tier by entity
 
@@ -54,6 +38,8 @@ View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAM
 View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/SGK1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/SGK1_hg38.html)
 
 ![](images/proteinpaint/SGK1.svg)
+
+[[include:mermaid_SGK1.md]]
 
 ## References
 

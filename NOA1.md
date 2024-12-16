@@ -3,15 +3,8 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# NOA1
+[[_TOC_]]
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2022-07-06 : Burkhardt : BL
-```
 
 ## Relevance tier by entity
 
@@ -48,6 +41,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/N
 ![](images/gene_expression/NOA1_by_pathology.svg)
 <!-- ORIGIN: burkhardtClinicalRelevanceMolecular2022b -->
 <!-- BL: burkhardtClinicalRelevanceMolecular2022b -->
+
+[[include:mermaid_NOA1.md]]
 
 ## References
 

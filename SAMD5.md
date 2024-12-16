@@ -4,16 +4,9 @@ csl: 'NLM.csl'
 link-citations: true
 ---
 
-# SAMD5
+[[_TOC_]]
 
-## History
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2016-09-08 : Spina : MZL
-```
 
 
 ## Relevance tier by entity
@@ -31,6 +24,8 @@ timeline
 |DLBCL|GAMBL Genome |0.376 |
 |FL|GAMBL Exome |0.287 |
 
+
+[[include:mermaid_SAMD5.md]]
 
 ## References
 

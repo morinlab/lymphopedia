@@ -3,17 +3,10 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# MAP3K6
+[[_TOC_]]
 
 <<Warn("The variants reported in this gene in BL failed QC")>>
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2012-12-01 : Love : BL
-```
 
 ## Relevance tier by entity
 
@@ -64,6 +57,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/M
 [1093](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/1093_reports.html)
 [323](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/323_reports.html)
 [515](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/515_reports.html)
+
+[[include:mermaid_MAP3K6.md]]
 
 ## References
 

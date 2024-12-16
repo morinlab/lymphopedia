@@ -3,15 +3,8 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# PZP
+[[_TOC_]]
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2023-07-26 : Russler : FL
-```
 
 ## Relevance tier by entity
 
@@ -47,6 +40,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/P
 ![](images/gene_expression/PZP_by_pathology.svg)
 <!-- ORIGIN: russler-germainMutationsAssociatedProgression2023a -->
 <!-- FL: russler-germainMutationsAssociatedProgression2023b -->
+
+[[include:mermaid_PZP.md]]
 
 ## References
 

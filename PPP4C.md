@@ -3,15 +3,8 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# PPP4C
+[[_TOC_]]
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2021-05-05 : Hübschmann : FL
-```
 
 ## Relevance tier by entity
 
@@ -59,5 +52,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/P
 [SP116720](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP116720.html)
 [SP192997](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP192997.html)
 [SP59320](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP59320.html)
+
+[[include:mermaid_PPP4C.md]]
 
 ## References

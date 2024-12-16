@@ -3,7 +3,7 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# PIK3R1
+[[_TOC_]]
 
 Mutations in this gene were first described in DLBCL in 2013[@zhangGeneticHeterogeneityDiffuse2013] and by the same group in a subsequent study.[@reddyGeneticFunctionalDrivers2017] It remains in Tier 2 because other exome and genome-wide studies of DLBCL did not reproduce this observation. 
 
@@ -12,14 +12,6 @@ Mutations in this gene were first described in DLBCL in 2013[@zhangGeneticHetero
 
 **[See below ](#representative-mutations) or [the study page ](papers/paneaWholeGenomeLandscape2019.md#tier-2) for more information**
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2013-01-01 : Zhang : DLBCL
-      2019-09-26 : Panea : BL
-```
 
 ## Relevance tier by entity
 
@@ -82,6 +74,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/P
 ![](primary/Panea_PIK3R1_2.svg)
 **Rating**
 &starf; &star; &star; &star; &star;
+
+[[include:mermaid_PIK3R1.md]]
 
 ## References
 

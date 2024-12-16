@@ -3,16 +3,8 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# NOL9
+[[_TOC_]]
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2016-09-08 : Spina : MZL
-      2018-04-12 : Schmitz : DLBCL
-```
 
 ## Relevance tier by entity
 
@@ -49,6 +41,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/N
 <!-- ORIGIN: spinaGeneticsNodalMarginal2016b -->
 <!-- DLBCL: schmitzGeneticsPathogenesisDiffuse2018a -->
 <!-- MZL: spinaGeneticsNodalMarginal2016b -->
+
+[[include:mermaid_NOL9.md]]
 
 ## References
 

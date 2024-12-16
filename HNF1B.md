@@ -3,15 +3,8 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# HNF1B
+[[_TOC_]]
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2011-07-31 : Pasqualucci : DLBCL
-```
 
 ## Relevance tier by entity
 
@@ -51,6 +44,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/H
 ![](images/gene_expression/HNF1B_by_pathology.svg)
 <!-- ORIGIN: pasqualucciAnalysisCodingGenome2011 -->
 <!-- DLBCL: pasqualucciAnalysisCodingGenome2011 -->
+
+[[include:mermaid_HNF1B.md]]
 
 ## References
 

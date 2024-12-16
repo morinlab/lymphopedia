@@ -3,15 +3,8 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# NBEAL1
+[[_TOC_]]
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2012-12-01 : Love : BL
-```
 
 ## Relevance tier by entity
 
@@ -60,5 +53,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/N
 
 [1092](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/1092_reports.html)
 [849](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/849_reports.html)
+
+[[include:mermaid_NBEAL1.md]]
 
 ## References

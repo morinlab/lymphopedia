@@ -3,7 +3,7 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# PRSS22
+[[_TOC_]]
 
 ## Overview
 
@@ -11,13 +11,6 @@ Due to [minimal support](PRSS22#representative-mutation) in the original primary
 
 <<Warn("The variants reported in this gene in BL failed QC")>>
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2012-12-01 : Love : BL
-```
 
 ## Relevance tier by entity
 
@@ -61,6 +54,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/P
 ![](primary/Love_PRSS22.svg)
 **Rating**
 &starf; &star; &star; &star; &star;
+
+[[include:mermaid_PRSS22.md]]
 
 ## References
 

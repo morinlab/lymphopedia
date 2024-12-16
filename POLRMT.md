@@ -3,17 +3,10 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# POLRMT
+[[_TOC_]]
 
 <<Warn("The variants reported in this gene failed QC")>>
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2012-12-01 : Love : BL
-```
 
 ## Relevance tier by entity
 
@@ -60,6 +53,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/P
 
 [1101](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/1101_reports.html)
 [670](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/670_reports.html)
+
+[[include:mermaid_POLRMT.md]]
 
 ## References
 

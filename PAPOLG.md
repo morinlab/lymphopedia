@@ -3,15 +3,8 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# PAPOLG
+[[_TOC_]]
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2018-04-12 : Schmitz : DLBCL
-```
 
 ## Relevance tier by entity
 
@@ -51,6 +44,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/P
 ![](images/gene_expression/PAPOLG_by_pathology.svg)
 <!-- ORIGIN: schmitzGeneticsPathogenesisDiffuse2018a -->
 <!-- DLBCL: schmitzGeneticsPathogenesisDiffuse2018a -->
+
+[[include:mermaid_PAPOLG.md]]
 
 ## References
 

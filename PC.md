@@ -3,18 +3,11 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# PC
+[[_TOC_]]
 
 Due to [minimal support](PC#representative-mutations) in the original primary data, [low expression in BL](PC#pc-expression) and very few mutations reported in subsequent studies, this gene is very unlikely to be relevant in BL. 
 <<Warn("The variants reported in this gene in BL failed QC")>>
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2012-12-01 : Love : BL
-```
 
 ## Relevance tier by entity
 
@@ -69,6 +62,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/P
 [321](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/321_reports.html)
 [512](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/512_reports.html)
 [742](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/742_reports.html)
+
+[[include:mermaid_PC.md]]
 
 ## References
 

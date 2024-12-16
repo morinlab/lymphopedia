@@ -3,19 +3,11 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# POU2AF1
+[[_TOC_]]
 
 ## Overview
 POU2AF1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus.
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2017-01-26 : Krysiak : FL
-      2018-05-01 : Chapuy : DLBCL
-```
 
 ## Relevance tier by entity
 
@@ -64,6 +56,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/P
 ![](images/gene_expression/POU2AF1_by_pathology.svg)
 <!-- ORIGIN: krysiakRecurrentSomaticMutations2017b -->
 <!-- FL: krysiakRecurrentSomaticMutations2017b -->
+
+[[include:mermaid_POU2AF1.md]]
 
 ## References
 

@@ -3,19 +3,11 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# MGA
+[[_TOC_]]
 
 ## Overview
 MGA acts as a transcriptional repressor and interacts with MYC, a well-known oncogene. Mutations in MGA have been described in DLBCL.<sup>1</sup> One study suggested MGA mutations were more common in DLBCLs in patients of African ancestry.<sup>2</sup> The mutation pattern in MGA is consistent with a role as a tumour suppressor gene. 
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2017-07-27 : Jallades : MZL
-      2017-10-10 : Reddy : DLBCL
-```
 
 ## Relevance tier by entity
 
@@ -42,6 +34,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/M
 
 ## MGA Expression
 ![](images/gene_expression/MGA_by_pathology.svg)
+
+[[include:mermaid_MGA.md]]
 
 ## References
 

@@ -3,15 +3,8 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# RPL10
+[[_TOC_]]
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2022-07-06 : Burkhardt : BL
-```
 
 ## Relevance tier by entity
 
@@ -50,6 +43,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/R
 ![](images/gene_expression/RPL10_by_pathology.svg)
 <!-- ORIGIN: burkhardtClinicalRelevanceMolecular2022b -->
 <!-- BL: burkhardtClinicalRelevanceMolecular2022b -->
+
+[[include:mermaid_RPL10.md]]
 
 ## References
 

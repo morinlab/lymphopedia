@@ -3,15 +3,8 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# PCDHB11
+[[_TOC_]]
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2013-08-15 : Morin : DLBCL
-```
 
 ## Relevance tier by entity
 
@@ -55,5 +48,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/P
 [RG036](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG036.html)
 [RG043](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG043.html)
 [RG051](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG051.html)
+
+[[include:mermaid_PCDHB11.md]]
 
 ## References

@@ -3,7 +3,7 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# HIST1H2BK
+[[_TOC_]]
 
 ## Overview
 
@@ -11,16 +11,6 @@ This gene encodes the H2A protein, one of the core proteins comprising nucleosom
 
 <<Warn("The variants reported in this gene in BL failed QC")>>
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-2012-08-27 : Rossi : MZL
-      2013-01-01 : Zhang : DLBCL
-      2018-05-01 : Chapuy : DLBCL
-      2019-09-26 : Panea : BL
-```
 
 ## Relevance tier by entity
 
@@ -77,5 +67,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/H
 **Rating**
 &starf; &star; &star; &star; &star;
 
+
+[[include:mermaid_HIST1H2BK.md]]
 
 ## References

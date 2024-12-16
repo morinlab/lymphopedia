@@ -3,15 +3,8 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# PTPN1
+[[_TOC_]]
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2014-02-16 : Gunawardana : PMBL
-```
 
 ## Relevance tier by entity
 
@@ -56,6 +49,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/P
 ![](images/gene_expression/PTPN1_by_pathology.svg)
 <!-- ORIGIN: gunawardanaRecurrentSomaticMutations2014c -->
 <!-- PMBL: gunawardanaRecurrentSomaticMutations2014c -->
+
+[[include:mermaid_PTPN1.md]]
 
 ## References
 

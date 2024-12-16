@@ -3,23 +3,13 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 ---
-# NOTCH1
+[[_TOC_]]
 
 ## Overview
 The relevance of NOTCH1 mutations in various malignancies has been well established. However, *due to [minimal support](NOTCH1#representative-mutations) in the original primary data and very few mutations reported in subsequent BL studies, this gene is very unlikely to be relevant in BL.* 
 <<Warn("The variants reported in this gene in BL failed QC")>>
 
-## History
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2011-07-31 : Pasqualucci : DLBCL
-      2012-08-27 : Rossi : MZL
-      2012-12-01 : Love : BL
-      2013-11-05 : Bea : MCL
-```
 
 ## Relevance tier by entity
 
@@ -80,6 +70,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/N
 [324](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/324_reports.html)
 [508](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/508_reports.html)
 [513](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/513_reports.html)
+
+[[include:mermaid_NOTCH1.md]]
 
 ## References
 
