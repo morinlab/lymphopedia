@@ -29,13 +29,7 @@ timeline
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   | 1.809          |0               |
-|DLBCL |No  |Yes                  |56.390          |0               |
-|FL    |No  |No                   |17.159          |0               |
-
-
+[[include:dnds_MYD88.md]]
 
 ## MYD88 Hotspots
 

@@ -33,14 +33,7 @@ timeline
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   |3.358           |17.442          |
-|DLBCL |No  |Yes                  |9.385           |40.878          |
-|FL    |No  |No                   |0.000           |28.519          |
-
-
-
+[[include:dnds_NFKBIA.md]]
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/NFKBIA_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/NFKBIA_protein_hg38.html)
 

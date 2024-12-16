@@ -31,12 +31,7 @@ timeline
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   |1.434           |0.000           |
-|DLBCL |No  |No                   |1.449           |1.685           |
-|FL    |No  |No                   |4.371           |0.000           |
-
+[[include:dnds_MPEG1.md]]
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/MPEG1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/MPEG1_protein_hg38.html)
 

@@ -30,11 +30,7 @@ timeline
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|DLBCL |No  |No                   |1.432           |12.504          |
-|BL    |No  |No                   |2.443           | 3.733          |
-|FL    |No  |No                   |0.000           | 0.000          |
+[[include:dnds_MGA.md]]
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/MGA_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/MGA_protein_hg38.html)
 
