@@ -45,11 +45,7 @@ timeline
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |Yes                  | 0.689          |  13.459        |
-|DLBCL |No  |Yes                  | 3.731          | 104.190        |
-|FL    |No  |Yes                  |20.755          |1353.812        |
+[[include:dnds_KMT2D.md]]
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/KMT2D_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/KMT2D_protein_hg38.html)
 

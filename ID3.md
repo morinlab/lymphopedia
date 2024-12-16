@@ -33,11 +33,7 @@ The existence of mutations in DLBCL were described in 2012 by Schmitz et al[@sch
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |Yes |Yes                  |42.419          |439.808         |
-|DLBCL |Yes |Yes                  | 0.000          | 30.520         |
-|FL    |Yes |No                   | 3.497          |  0.000         |
+[[include:dnds_ID3.md]]
 
 ## aSHM regions
 
