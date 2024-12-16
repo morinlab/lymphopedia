@@ -39,11 +39,7 @@ This is one of several genes that encode linker histone proteins that are recurr
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   |10.205          |0               |
-|DLBCL |No  |Yes                  | 9.354          |0               |
-|FL    |No  |No                   | 4.446          |0               |
+[[include:dnds_HIST1H1C.md]]
 
 
 [[include:browser_HIST1H1C.md]]
