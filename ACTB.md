@@ -53,16 +53,9 @@ ACTB is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) 
 | chr7 | 5568923 | T>C | N78D |
 | chr7 | 5568920 | A>C | W79G |
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ACTB_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ACTB_protein_hg38.html)
+[[include:browser_ACTB.md]]
 
-![](images/proteinpaint/ACTB_NM_001101.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ACTB.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ACTB_hg38.html)
-
-![](images/proteinpaint/ACTB.svg)
-
-
-## ACTB Expression
+## Expression
 ![](images/gene_expression/ACTB_by_pathology.svg)
 
 [[include:mermaid_ACTB.md]]

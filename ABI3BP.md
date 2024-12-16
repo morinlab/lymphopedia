@@ -24,15 +24,9 @@ Mutations were first described in DLBCL in 2013 by Morin et al.<sup>1</sup> Subs
 [[include:dnds_ABI3BP.md]]
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ABI3BP_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ABI3BP_protein_hg38.html)
+[[include:browser_ABI3BP.md]]
 
-![](images/proteinpaint/ABI3BP_NM_015429.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ABI3BP.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ABI3BP_hg38.html)
-
-![](images/proteinpaint/ABI3BP.svg)
-
-## ABI3BP Expression
+## Expression
 ![](images/gene_expression/ABI3BP_by_pathology.svg)
 
 ## All Mutations

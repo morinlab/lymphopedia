@@ -30,15 +30,9 @@ Mutations in this gene were first described in DLBCL in 2021 by Hübschmann et a
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ADAMTS1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ADAMTS1_protein_hg38.html)
+[[include:browser_ADAMTS1.md]]
 
-![](images/proteinpaint/ADAMTS1_NM_006988.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ADAMTS1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ADAMTS1_hg38.html)
-
-![](images/proteinpaint/ADAMTS1.svg)
-
-## ADAMTS1 Expression
+## Expression
 ![](images/gene_expression/ADAMTS1_by_pathology.svg)
 
 ## All Mutations

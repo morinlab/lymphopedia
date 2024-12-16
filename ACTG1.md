@@ -37,15 +37,9 @@ ACTG1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm)
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ACTG1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ACTG1_protein_hg38.html)
+[[include:browser_ACTG1.md]]
 
-![](images/proteinpaint/ACTG1_NM_001614.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ACTG1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ACTG1_hg38.html)
-
-![](images/proteinpaint/ACTG1.svg)
-
-## ACTG1 Expression
+## Expression
 ![](images/gene_expression/ACTG1_by_pathology.svg)
 
 [[include:mermaid_ACTG1.md]]
