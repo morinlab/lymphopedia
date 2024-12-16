@@ -7,7 +7,7 @@ link-citations: true
 
 [[_TOC_]]
 
-[[include:Template_Relevance.md]]
+
 ## Relevance tier by entity
 
 |Entity|Tier|Description                           |
@@ -20,7 +20,7 @@ link-citations: true
 [[include:Template_Overview.md]]
 
 
-## Mutation incidence in large patient cohorts (GAMBL reanalysis)
+## Mutation incidence from meta-analysis
 
 ### DLBCL
 [[include:DLBCL_BCL2.md]]
