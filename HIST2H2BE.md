@@ -20,13 +20,7 @@ This gene encodes the H2A protein, one of the core proteins comprising nucleosom
 [[include:DLBCL_HIST2H2BE.md]]
 
 ## Mutation pattern and selective pressure estimates
-
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   |3.780           |40.980          |
-|DLBCL |No  |No                   |0.601           | 3.291          |
-|FL    |No  |No                   |3.156           | 0.000          |
-
+[[include:dnds_HIST2H2BE.md]]
 
 
 [[include:browser_HIST2H2BE.md]]
