@@ -36,6 +36,8 @@ link-citations: true
 
 [[include:Template_aSHM.md]]
 
+[[include:Template_nonexistant.md]]
+
 [[include:Template_Hotspots.md]]
 
 [[include:Template_Browser.md]]
