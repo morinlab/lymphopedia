@@ -39,7 +39,6 @@ timeline
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_HIST1H1B.md]]
 
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/HIST1H1B_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/HIST1H1B_protein_hg38.html)
