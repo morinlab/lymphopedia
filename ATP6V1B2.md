@@ -21,9 +21,7 @@ timeline
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-|Entity|source       |frequency (%)|
-|:------:|:-------------:|:-------------:|
-|FL    |GAMBL genomes|7.39         |
+[[include:FL_ATP6V1B2.md]]
 
 ## Mutation pattern and selective pressure estimates
 
