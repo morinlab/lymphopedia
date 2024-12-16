@@ -6,6 +6,7 @@ link-citations: true
 # NOTCH2
 
 ## History
+
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
 timeline
@@ -34,13 +35,7 @@ timeline
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   |0.000           | 0.000          |
-|DLBCL |No  |Yes                  |0.527           |60.245          |
-|FL    |No  |No                   |0.000           | 0.000          |
-
-
+[[include:dnds_NOTCH2.md]]
 
 ## NOTCH2 Hotspots
 

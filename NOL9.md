@@ -27,14 +27,7 @@ timeline
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   |1.514           |0               |
-|DLBCL |No  |No                   |4.012           |0               |
-|FL    |No  |No                   |2.619           |0               |
-
-
-
+[[include:dnds_NOL9.md]]
 
 ## NOL9 Hotspots
 

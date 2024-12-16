@@ -22,7 +22,7 @@ timeline
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1-a | aSHM target and high-confidence DLBCL gene            [@zhangGeneticHeterogeneityDiffuse2013; @arthurGenomewideDiscoverySomatic2018; @schmitzGeneticsPathogenesisDiffuse2018a]|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1 | aSHM target and high-confidence DLBCL gene            [@zhangGeneticHeterogeneityDiffuse2013; @arthurGenomewideDiscoverySomatic2018; @schmitzGeneticsPathogenesisDiffuse2018a]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -30,11 +30,7 @@ timeline
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |Yes |No                   | 4.102          |11.721          |
-|DLBCL |Yes |Yes                  |12.983          | 0.000          |
-|FL    |Yes |Yes                  | 5.877          | 8.779          |
+[[include:dnds_OSBPL10.md]]
 
 ## aSHM regions
 
