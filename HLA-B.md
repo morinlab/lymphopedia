@@ -32,14 +32,7 @@ timeline
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |Yes                  | 6.598          | 94.947         |
-|DLBCL |No  |Yes                  |27.361          |222.398         |
-|FL    |No  |No                   | 0.000          | 88.288         |
-
-
-
+[[include:dnds_HLA-B.md]]
 
 ## HLA-B Hotspots
 

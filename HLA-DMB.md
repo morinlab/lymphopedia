@@ -20,13 +20,7 @@ HLA-DMB, along with HLA-DMA, plays a critical role in the proper functioning of 
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   | 0.000          |  0.000         |
-|DLBCL |No  |Yes                  |16.721          | 26.750         |
-|FL    |No  |Yes                  |39.781          |282.532         |
-
-
+[[include:dnds_HLA-DMB.md]]
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/HLA-DMB_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/HLA-DMB_protein_hg38.html)
 

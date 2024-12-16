@@ -31,13 +31,7 @@ timeline
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   |1.687           | 0.000          |
-|DLBCL |No  |Yes                  |6.500           |33.396          |
-|FL    |No  |No                   |0.000           | 0.000          |
-
-
+[[include:dnds_HLA-C.md]]
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/HLA-C_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/HLA-C_protein_hg38.html)
 

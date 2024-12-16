@@ -30,7 +30,8 @@ timeline
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:DLBCL_HLA-A.md]]
+[[include:dnds_HLA-A.md]]
+
 
 ## HLA-A Hotspots
 
