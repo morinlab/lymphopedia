@@ -4,8 +4,6 @@ csl: 'NLM.csl'
 link-citations: true
 ---
 
-# CREBBP
-
 [[_TOC_]]
 
 ## Overview
