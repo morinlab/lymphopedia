@@ -30,13 +30,7 @@ timeline
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   |0.000           | 0.000          |
-|DLBCL |No  |No                   |2.488           |18.944          |
-|FL    |No  |No                   |0.000           | 0.000          |
-
-
+[[include:dnds_ZC3H12A.md]]
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/ZC3H12A_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/ZC3H12A_protein_hg38.html)
 

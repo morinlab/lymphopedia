@@ -29,14 +29,7 @@ timeline
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |Yes                  |1.516           |25.932          |
-|DLBCL |No  |Yes                  |0.663           |12.181          |
-|FL    |No  |No                   |0.892           |10.949          |
-
-
-
+[[include:dnds_TET2.md]]
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/TET2_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/TET2_protein_hg38.html)
 

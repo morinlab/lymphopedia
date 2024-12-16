@@ -33,14 +33,7 @@ timeline
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   | 3.431          | 0.000          |
-|DLBCL |No  |Yes                  |12.445          |51.943          |
-|FL    |No  |No                   |17.646          | 0.000          |
-
-
-
+[[include:dnds_POU2F2.md]]
 
 ## POU2F2 Hotspots
 

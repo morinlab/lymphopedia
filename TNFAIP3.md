@@ -34,13 +34,7 @@ timeline
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   |1.168           |16.846          |
-|DLBCL |No  |Yes                  |1.550           |30.319          |
-|FL    |No  |No                   |5.686           |75.953          |
-
-
+[[include:dnds_TNFAIP3.md]]
 
 ## TNFAIP3 Hotspots
 

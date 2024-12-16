@@ -27,12 +27,7 @@ timeline
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   |0.000           |  0.000         |
-|DLBCL |No  |No                   |2.645           | 24.278         |
-|FL    |No  |Yes                  |4.979           |128.132         |
-
+[[include:dnds_SETD1B.md]]
 
 ## SETD1B Hotspots
 

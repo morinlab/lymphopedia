@@ -34,13 +34,7 @@ timeline
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   | 0.000          | 0.000          |
-|DLBCL |No  |Yes                  |27.471          |12.427          |
-|FL    |No  |No                   |34.737          | 0.000          |
-
-
+[[include:dnds_STAT3.md]]
 
 ## STAT3 Hotspots
 

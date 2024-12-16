@@ -32,12 +32,7 @@ timeline
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   |4.270           | 46.360         |
-|DLBCL |No  |Yes                  |0.000           |221.848         |
-|FL    |No  |No                   |5.098           |  0.000         |
-
+[[include:dnds_TMEM30A.md]]
 
 
 ## TMEM30A Hotspots

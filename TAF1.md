@@ -29,13 +29,7 @@ timeline
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   |0.410           |0               |
-|DLBCL |No  |No                   |5.884           |0               |
-|FL    |No  |No                   |8.661           |0               |
-
-
+[[include:dnds_TAF1.md]]
 
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/TAF1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/TAF1_protein_hg38.html)

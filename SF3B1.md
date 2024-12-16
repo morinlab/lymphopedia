@@ -31,14 +31,7 @@ timeline
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   |2.277           |0.000           |
-|DLBCL |No  |No                   |3.245           |7.004           |
-|FL    |No  |No                   |2.408           |0.000           |
-
-
-
+[[include:dnds_SF3B1.md]]
 
 ## SF3B1 Hotspots
 

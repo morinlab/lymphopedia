@@ -28,14 +28,7 @@ timeline
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   |1.503           |17.955          |
-|DLBCL |No  |No                   |3.481           |12.292          |
-|FL    |No  |No                   |1.975           |21.081          |
-
-
-
+[[include:dnds_TOX.md]]
 
 ## TOX Hotspots
 

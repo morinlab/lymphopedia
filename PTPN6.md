@@ -25,13 +25,7 @@ timeline
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   |0.000           | 0.000          |
-|DLBCL |No  |No                   |5.433           |14.931          |
-|FL    |No  |No                   |0.000           | 0.000          |
-
-
+[[include:dnds_PTPN6.md]]
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PTPN6_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PTPN6_protein_hg38.html)
 

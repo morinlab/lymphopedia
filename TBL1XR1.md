@@ -38,12 +38,7 @@ timeline
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |Yes                  |17.892          |29.577          |
-|DLBCL |No  |Yes                  |24.811          |24.179          |
-|FL    |No  |No                   |12.400          |18.940          |
-
+[[include:dnds_TBL1XR1.md]]
 
 ## TBL1XR1 Hotspots
 

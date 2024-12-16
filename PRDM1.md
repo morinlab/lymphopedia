@@ -31,14 +31,7 @@ timeline
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   |0.746           | 0.000          |
-|DLBCL |No  |Yes                  |4.912           |23.497          |
-|FL    |No  |No                   |0.000           | 0.000          |
-
-
-
+[[include:dnds_PRDM1.md]]
 
 ## PRDM1 Hotspots
 
