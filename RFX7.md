@@ -30,12 +30,7 @@ timeline
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |Yes                  |2.347           |98.419          |
-|DLBCL |No  |No                   |1.219           |17.441          |
-|FL    |No  |No                   |0.000           | 0.000          |
-
+[[include:dnds_RFX7.md]]
 
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/RFX7_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/RFX7_protein_hg38.html)

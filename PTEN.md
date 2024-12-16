@@ -29,13 +29,7 @@ timeline
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |Yes                  |22.104          |81.225          |
-|DLBCL |No  |No                   | 4.548          |76.677          |
-|FL    |No  |No                   | 4.634          | 0.000          |
-
-
+[[include:dnds_PTEN.md]]
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/PTEN_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/PTEN_protein_hg38.html)
 

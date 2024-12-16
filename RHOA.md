@@ -33,13 +33,7 @@ timeline
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |Yes                  |88.993          |0               |
-|DLBCL |No  |Yes                  |52.294          |0               |
-|FL    |No  |No                   |31.528          |0               |
-
-
+[[include:dnds_RHOA.md]]
 
 ## RHOA Hotspots
 

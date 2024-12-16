@@ -34,12 +34,7 @@ timeline
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |Yes                  |3.871           |55.210          |
-|DLBCL |No  |No                   |2.483           |15.818          |
-|FL    |No  |No                   |0.000           |20.676          |
-
+[[include:dnds_SIN3A.md]]
 
 View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/SIN3A_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/SIN3A_protein_hg38.html)
 
