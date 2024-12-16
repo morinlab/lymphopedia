@@ -25,14 +25,7 @@ timeline
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |Yes                  |5.863           |16.044          |
-|DLBCL |No  |No                   |6.236           |10.787          |
-|FL    |No  |No                   |1.371           | 0.000          |
-
-
-
+[[include:dnds_BMP7.md]]
 
 ## BMP7 Hotspots
 
