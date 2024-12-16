@@ -55,9 +55,6 @@ Mutations in this gene were first described in DLBCL in 2013 by Morin et al.<sup
 
 [[include:browser_HIST1H1E.md]]
 
-## Expression
-![](images/gene_expression/HIST1H1E_by_pathology.svg)
-
 [[include:mermaid_HIST1H1E.md]]
 
 ## References
