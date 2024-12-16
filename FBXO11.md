@@ -35,13 +35,7 @@ timeline
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |Yes                  |14.801          |114.063         |
-|DLBCL |No  |Yes                  | 2.464          | 39.449         |
-|FL    |No  |No                   | 8.837          |  0.000         |
-
-
+[[include:dnds_FBXO11.md]]
 
 ## FBXO11 hot spots
 |Chromosome|Coordinate|Mutation|HGVSp|

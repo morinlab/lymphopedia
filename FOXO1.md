@@ -36,14 +36,7 @@ timeline
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |Yes                  |14.841          |  5.170         |
-|DLBCL |No  |No                   | 6.936          |  0.000         |
-|FL    |No  |Yes                  |18.992          |103.028         |
-
-
-
+[[include:dnds_FOXO1.md]]
 
 ## FOXO1 Hotspots
 
