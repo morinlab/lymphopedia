@@ -28,16 +28,8 @@ The existence of mutations in DLBCL were described in 2012 by Schmitz et al[@sch
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-|Entity|source               |frequency (%)|
-|:------:|:---------------------:|:-------------:|
-|BL    |GAMBL genomes+capture|45.50        |
-|BL    |Thomas cohort        |47.00        |
-|BL    |Panea cohort         |31.70        |
-|DLBCL |GAMBL genomes        | 1.53        |
-|DLBCL |Schmitz cohort       | 4.68        |
-|DLBCL |Reddy cohort         | 3.50        |
-|DLBCL |Chapuy cohort        | 0.85        |
-|FL    |GAMBL genomes        | 0.92        |
+[[include:DLBCL_ID3.md]]
+[[include:BL_ID3.md]]
 
 ## Mutation pattern and selective pressure estimates
 
