@@ -28,15 +28,7 @@ link-citations: true
 
 
 
-View coding variants in ProteinPaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/TAP1_protein.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/TAP1_protein_hg38.html)
-
-![](images/proteinpaint/TAP1_NM_000593.svg)
-
-View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/TAP1.html)  or [hg38](https://morinlab.github.io/LLMPP/GAMBL/TAP1_hg38.html)
-
-![](images/proteinpaint/TAP1.svg)
-
-## TAP1 Expression
+## Expression
 ![](images/gene_expression/TAP1_by_pathology.svg)
 <!-- ORIGIN: schmitzGeneticsPathogenesisDiffuse2018a -->
 <!-- DLBCL: schmitzGeneticsPathogenesisDiffuse2018a -->
