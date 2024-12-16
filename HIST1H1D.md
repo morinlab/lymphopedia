@@ -21,24 +21,18 @@ Mutations are often found in the globular domain of the protein, which is critic
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-|Entity|source               |frequency (%)|
-|:------:|:---------------------:|:-------------:|
-|BL    |GAMBL genomes+capture|3.23         |
-|BL    |Thomas cohort        |4.70         |
-|BL    |Panea cohort         |4.00         |
-|DLBCL |GAMBL genomes        |6.12         |
-|DLBCL |Schmitz cohort       |5.74         |
-|DLBCL |Reddy cohort         |6.11         |
-|DLBCL |Chapuy cohort        |7.69         |
-|FL    |GAMBL genomes        |3.23         |
+### DLBCL
+[[include:DLBCL_HIST1H1D.md]]
+
+### BL
+[[include:BL_HIST1H1D.md]]
+
+### FL
+[[include:FL_HIST1H1D.md]]
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   |8.064           |0               |
-|DLBCL |No  |No                   |2.458           |0               |
-|FL    |No  |No                   |0.857           |0               |
+[[include:dnds_HIST1H1D.md]]
 
 
 
