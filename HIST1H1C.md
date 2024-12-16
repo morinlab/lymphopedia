@@ -26,16 +26,16 @@ This is one of several genes that encode linker histone proteins that are recurr
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-|Entity|source               |frequency (%)|
-|:------:|:---------------------:|:-------------:|
-|BL    |GAMBL genomes+capture| 4.85        |
-|BL    |Thomas cohort        | 3.80        |
-|BL    |Panea cohort         | 9.90        |
-|DLBCL |GAMBL genomes        | 9.94        |
-|DLBCL |Schmitz cohort       | 9.79        |
-|DLBCL |Reddy cohort         | 9.41        |
-|DLBCL |Chapuy cohort        |12.39        |
-|FL    |GAMBL genomes        | 5.08        |
+### DLBCL
+[[include:DLBCL_HIST1H1C.md]]
+
+### BL
+
+[[include:BL_HIST1H1C.md]]
+
+### FL
+
+[[include:FL_HIST1H1C.md]]
 
 ## Mutation pattern and selective pressure estimates
 
