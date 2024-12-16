@@ -18,13 +18,9 @@ link-citations: true
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-|Entity|source |frequency (%)|
-|:------:|:----:|:----:|
-|BL|GAMBL Exome |2.299 |
-|BL|GAMBL Genome |0.772 |
-|DLBCL|GAMBL Exome |0.809 |
-|DLBCL|GAMBL Genome |0.94 |
-
+[[include:BL_TNF.md]]
+[[include:DLBCL_TNF.md]]
+[[include:FL_TNF.md]]
 
 [[include:mermaid_TNF.md]]
 
