@@ -30,13 +30,7 @@ timeline
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|DLBCL |No  |Yes                  | 7.172          | 47.127         |
-|FL    |No  |Yes                  |16.103          |259.368         |
-|BL    |No  |No                   | 2.588          |  0.000         |
-
-
+[[include:dnds_HVCN1.md]]
 
 
 ## HVCN1 Hotspots
