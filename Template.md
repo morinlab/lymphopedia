@@ -33,7 +33,7 @@ link-citations: true
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:Pattern.md]]
+[[include:dnds_BCL2.md]]
 
 [[include:Template_aSHM.md]]
 
