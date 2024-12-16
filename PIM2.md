@@ -30,15 +30,11 @@ timeline
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-[[include:DLBCL_POU2AF1.md]]
+[[include:DLBCL_PIM2.md]]
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |Yes |No                   |0.000           | 0.000          |
-|DLBCL |Yes |No                   |1.908           |14.378          |
-|FL    |Yes |No                   |0.000           |62.405          |
+[[include:dnds_PIM2.md]]
 
 ## aSHM regions
 
