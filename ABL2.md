@@ -5,13 +5,6 @@ link-citations: true
 ---
 # ABL2
 
-## History
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2023-07-26 : Russler : FL
-```
 
 ## Relevance tier by entity
 
@@ -37,6 +30,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/A
 
 ## ABL2 Expression
 ![](images/gene_expression/ABL2_by_pathology.svg)
+
+[[include:mermaid_ABL2.md]]
 
 ## References
 
