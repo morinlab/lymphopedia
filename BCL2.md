@@ -75,6 +75,8 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/B
 <!-- BL: burkhardtClinicalRelevanceMolecular2022b -->
 <!-- BL: burkhardtClinicalRelevanceMolecular2022b -->
 <!-- DLBCL: tanakaFrequentIncidenceSomatic1992 -->
+
+## History
 [[include:mermaid_BCL2.md]]
 
 ## References
