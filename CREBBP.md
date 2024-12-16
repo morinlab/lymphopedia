@@ -6,6 +6,8 @@ link-citations: true
 
 # CREBBP
 
+[[_TOC_]]
+
 ## Overview
 CREBBP mutations are highly prevalent in both DLBCL and FL.[@pasqualucciInactivatingMutationsAcetyltransferase2011] 
 This gene has some recurrent sites of mutations (hotspots), mostly in the HAT domain. The pattern of mutations in DLBCL is distinct from FL with the latter having more HAT domain mutations relative to truncating mutations.[@drevalGeneticSubdivisionsFollicular2023]  
