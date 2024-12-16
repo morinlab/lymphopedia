@@ -4,17 +4,9 @@ csl: 'NLM.csl'
 link-citations: true
 ---
 
-# ABCA13
+[[_TOC_]]
 
-## History
 
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-    title Publication timing
-      2016-09-08 : Spina : MZL
-      2021-04-01 : Sarkozy : PMBL
-```
 
 
 ## Relevance tier by entity
@@ -36,6 +28,8 @@ timeline
 |FL|GAMBL Exome |2.006 |
 |MCL|GAMBL Genome |3.509 |
 
+
+[[include:mermaid_ABCA13.md]]
 
 ## References
 
