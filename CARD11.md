@@ -5,6 +5,8 @@ link-citations: true
 ---
 [[_TOC_]]
 
+## History
+
 Mutations in CARD11 were initially described as enriched in the ABC subgroup of DLBCL.[@lenzOncogenicCARD11Mutations2008]
 More recent data contradicts this association and has implicated CARD11 in FL and additional B-cell lymphomas including FL and MCL.[@morinFrequentMutationHistonemodifying2011; @wuGeneticHeterogeneityPrimary2016]
 
@@ -19,7 +21,7 @@ The functional effect of CARD11 mutations in DLBCL was explored in the original 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
 |![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene[@yanBCRTLRSignaling2012]|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1-EE   |high-confidence DLBCL gene            [@lenzOncogenicCARD11Mutations2008]|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            [@lenzOncogenicCARD11Mutations2008]|
 |![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene               [@morinFrequentMutationHistonemodifying2011]|
 |![MCL](images/icons/MCL_tier1.png)   |1   |high-confidence MCL gene              [@wuGeneticHeterogeneityPrimary2016]|
 
