@@ -33,4 +33,6 @@ link-citations: true
 ![](images/gene_expression/RHEX_by_pathology.svg)
 <!-- ORIGIN: Unknown -->
 
+[[include:mermaid_RHEX.md]]
+
 ## References
