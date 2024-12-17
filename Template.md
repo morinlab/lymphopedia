@@ -39,6 +39,7 @@ link-citations: true
 [[include:dnds_BCL2.md]]
 
 ## aSHM regions
+
 *section will only exist for certain genes*
 
 |chr_name|hg19_start|hg19_end|region|regulatory_comment|
@@ -46,6 +47,7 @@ link-citations: true
 |chr6    |90981034  |91016134|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr6%3A90981034%2D91016134)|NA                |
 
 ## Hotspots
+
 *section will only exist for certain genes*
 
 [[include:Template_Browser.md]]
