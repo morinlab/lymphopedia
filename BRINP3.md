@@ -7,7 +7,7 @@ link-citations: true
 
 <<Warn("In a subsequent reanalysis, the mutation rate in this gene was found to be inflated in the original results")>>
 
-Mutations in this gene were first described in DLBCL in 2017 by Reddy et al.<sup>1</sup> Subsequent exome and genome-wide studies of DLBCL did not reproduce this observation. 
+Mutations in this gene were first described in DLBCL in 2017 by Reddy et al.<sup>[@reddyGeneticFunctionalDrivers2017]</sup> Subsequent exome and genome-wide studies of DLBCL did not reproduce this observation. 
 
 
 
