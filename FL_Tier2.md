@@ -1,4 +1,4 @@
-|Gene|Status| First FL study | Other lists | 
+|Gene|Status| First FL study | Other lists |
 |:-:|:-:|:--:|:---|
 |[ABL2](ABL2)|FL Tier 2|[Russler-germain et al](papers/russler-germainMutationsAssociatedProgression2023)||
 |[ACTG1](ACTG1)|FL Tier 2|[Hubschmann et al](papers/hubschmannMutationalMechanismsShaping2021)|[DLBCL](DLBCL_genes#tier-1-dlbcl-genes), [PMBL](PMBL_genes#tier-2-pmbl-genes), [MZL](MZL_genes#tier-2-mzl-genes)|

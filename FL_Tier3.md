@@ -1,4 +1,4 @@
-|Gene|Status| First FL study | Other lists | 
-|:-:|:-:|:-:|:----|
+|Gene|Status| First FL study | Other lists |
+|:-:|:-:|:--:|:---|
 
 # References
