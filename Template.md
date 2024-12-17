@@ -15,7 +15,7 @@ nocite: |
 
 *test*
 
-[[include:Template_relevance.md]]
+[[include:Template_Relevance.md]]
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
