@@ -15,9 +15,9 @@ MYC is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) a
 |:------:|:----:|--------------------------------------|
 |![PMBL](images/icons/PMBL_tier2.png)|2|relevance in PMBL/cHL/GZL not firmly established[@dunsCharacterizationDLBCLPMBL2021]|
 |![MZL](images/icons/MZL_tier2.png)|2|relevance in MZL not firmly established[@jalladesExomeSequencingIdentifies2017]|
-|![BL](images/icons/BL_tier1.png)    |1-a | aSHM target and high-confidence BL gene               [@johnstonCmycHypermutationBurkitt1992]|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1-a | aSHM target and high-confidence DLBCL gene            [@pasqualucciHypermutationMultipleProtooncogenes2001]|
-|![FL](images/icons/FL_tier2.png)    |2-a | aSHM target; Although recurrent, the relevance of mutations in FL is tenuous |
+|![BL](images/icons/BL_tier1.png)    |1 | aSHM target and high-confidence BL gene               [@johnstonCmycHypermutationBurkitt1992]|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1 | aSHM target and high-confidence DLBCL gene            [@pasqualucciHypermutationMultipleProtooncogenes2001]|
+|![FL](images/icons/FL_tier2.png)    |2 | aSHM target; Although recurrent, the relevance of mutations in FL is tenuous |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
