@@ -29,13 +29,14 @@ link-citations: true
 |:--------:|:----------:|:---------:|:---------------------------------------------------------------------------------------------:|:------------------:|
 |chr6    |134487960 |134499859|[TSS-1](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr6%3A134487960%2D134499859)|active_promoter   |
 
-
-
-[[include:browser_SGK1.md]]
-
 ## Expression
 ![](images/gene_expression/SGK1_by_pathology.svg)
 <!-- ORIGIN: morinFrequentMutationHistonemodifying2011 -->
 <!-- FL: morinFrequentMutationHistonemodifying2011 -->
 <!-- PMBL: dunsCharacterizationDLBCLPMBL2021b -->
 <!-- DLBCL: morinFrequentMutationHistonemodifying2011 -->
+
+
+[[include:browser_SGK1.md]]
+
+## References
