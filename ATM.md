@@ -5,7 +5,7 @@ link-citations: true
 ---
 [[_TOC_]]
 
-Mutations in this gene were first described in MZL by Braggio et al,<sup>1</sup> then in MCL by Bea et al.<sup>2</sup> ATM mutations were later described in DLBCL by Reddy et al.<sup>3</sup>
+Mutations in this gene were first described in MZL by Braggio et al,<sup>[@braggioGenomicAnalysisMarginal2012]</sup> then in MCL by Bea et al.<sup>[@beaLandscapeSomaticMutations2013]</sup> ATM mutations were later described in DLBCL by Reddy et al.<sup>[@reddyGeneticFunctionalDrivers2017]</sup>
 
 
 
