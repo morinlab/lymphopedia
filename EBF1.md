@@ -6,7 +6,7 @@ link-citations: true
 [[_TOC_]]
 
 ## Overview
-EBF1 is a critical transcription factor in early B-cell development, regulating the expression of key genes involved in B-cell differentiation, survival, and function. EBF1 is essential for proper B-cell receptor (BCR) signaling.<sup>1</sup> Mutations in EBF1 can impair BCR signaling pathways, affecting B-cell survival and proliferation.<sup>1</sup> EBF1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus. This gene has some recurrent sites of mutations (hot spots) but the mutation pattern in DLBCL and FL implies the preferential accumulation of *inactivating mutations*.
+EBF1 is a critical transcription factor in early B-cell development, regulating the expression of key genes involved in B-cell differentiation, survival, and function. EBF1 is essential for proper B-cell receptor (BCR) signaling.<sup>[@gyoryTranscriptionFactorEbf12012]</sup> Mutations in EBF1 can impair BCR signaling pathways, affecting B-cell survival and proliferation.<sup>1</sup> EBF1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus. This gene has some recurrent sites of mutations (hot spots) but the mutation pattern in DLBCL and FL implies the preferential accumulation of *inactivating mutations*.
 
 
 
@@ -16,9 +16,9 @@ EBF1 is a critical transcription factor in early B-cell development, regulating 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
 |![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene[@reichelFlowSortingExome2015]|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1-a | aSHM target and high-confidence DLBCL gene            [@bohleRoleEarlyBcell2013; @albuquerqueEnhancingKnowledgeDiscovery2017; @morinMutationalStructuralAnalysis2013]|
-|![FL](images/icons/FL_tier1.png)    |1-a | aSHM target and high-confidence FL gene               |
-|![BL](images/icons/BL_tier2.png)    |2-a | aSHM target; Although recurrent, the relevance of mutations in BL is tenuous [@thomasGeneticSubgroupsInform2023]|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1 | aSHM target and high-confidence DLBCL gene            [@bohleRoleEarlyBcell2013; @albuquerqueEnhancingKnowledgeDiscovery2017; @morinMutationalStructuralAnalysis2013]|
+|![FL](images/icons/FL_tier1.png)    |1 | aSHM target and high-confidence FL gene               |
+|![BL](images/icons/BL_tier2.png)    |2 | aSHM target; Although recurrent, the relevance of mutations in BL is tenuous [@thomasGeneticSubgroupsInform2023]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -65,5 +65,4 @@ EBF1 is a critical transcription factor in early B-cell development, regulating 
 [[include:mermaid_EBF1.md]]
 
 ## References
-1. *Györy I, Boller S, Nechanitzky R, Mandel E, Pott S, Liu E, Grosschedl R. Transcription factor Ebf1 regulates differentiation stage-specific signaling, proliferation, and survival of B cells. Genes Dev. 2012 Apr 1;26(7):668-82. doi: 10.1101/gad.18$
 
