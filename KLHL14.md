@@ -23,6 +23,9 @@ KLHL14 (Kelch-like family member 14) is a gene that has been identified as playi
 
 [[include:dnds_KLHL14.md]]
 
+## Expression
+![](images/gene_expression/KLHL14_by_pathology.svg)
+
 ## KLHL14 Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
@@ -34,7 +37,6 @@ KLHL14 (Kelch-like family member 14) is a gene that has been identified as playi
 
 [[include:browser_KLHL14.md]]
 
-## Expression
-![](images/gene_expression/KLHL14_by_pathology.svg)
+
 <!-- ORIGIN: zhangGeneticHeterogeneityDiffuse2013 -->
 <!-- DLBCL: zhangGeneticHeterogeneityDiffuse2013 -->
