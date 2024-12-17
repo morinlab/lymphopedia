@@ -44,7 +44,7 @@ link-citations: true
 
 |chr_name|hg19_start|hg19_end|region|regulatory_comment|
 |:--------:|:----------:|:--------:|::--------:|:------------------:|
-|chr6    |90981034  |91016134|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr6%3A90981034%2D91016134)|NA                |
+|chr6    |90981034  |91016134|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr6%3A90981034%2D91016134)|NA|
 
 ## Hotspots
 
