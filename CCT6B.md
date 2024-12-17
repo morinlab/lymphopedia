@@ -5,12 +5,11 @@ link-citations: true
 ---
 [[_TOC_]]
 
+<<Warn("The variants reported in this gene failed QC")>>
+
 ## Overview
 
 Due to [minimal support](CCT6B#representative-mutations) in the original primary data and very few mutations reported in subsequent studies, this gene is very unlikely to be relevant in BL. 
-
-<<Warn("The variants reported in this gene failed QC")>>
-
 
 
 ## Relevance tier by entity
