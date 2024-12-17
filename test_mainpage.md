@@ -3,7 +3,7 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 nocite: |
-  @fanComprehensiveCharacterizationDriver2020
+  @fanComprehensiveCharacterizationDriver2020, @grandeGenomewideDiscoverySomatic2019
 ---
 
 # Main page
