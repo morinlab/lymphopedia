@@ -5,10 +5,10 @@ link-citations: true
 ---
 [[_TOC_]]
 
-<<Warn("In a subsequent reanalysis, the mutation rate in this gene was found to be inflated in the original results")>>
+
+## Overview
 
 Mutations in this gene were first described in DLBCL in 2017 by Reddy et al.<sup>[@reddyGeneticFunctionalDrivers2017]</sup> Subsequent exome and genome-wide studies of DLBCL did not reproduce this observation. 
-
 
 
 ## Relevance tier by entity
@@ -16,6 +16,10 @@ Mutations in this gene were first described in DLBCL in 2017 by Reddy et al.<sup
 |Entity|Tier|Description                              |
 |:------:|:----:|-----------------------------------------|
 |![DLBCL](images/icons/DLBCL_tier2.png) |2   |relevance in DLBCL not firmly established[@reddyGeneticFunctionalDrivers2017]|
+
+## Warnings
+
+<<Warn("In a subsequent reanalysis, the mutation rate in this gene was found to be inflated in the original results")>>
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
