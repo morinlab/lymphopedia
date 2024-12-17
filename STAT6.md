@@ -31,7 +31,7 @@ The STAT6 gene, which encodes a transcription factor involved in the JAK-STAT si
 
 ## STAT6 Hotspots
 
-Recurrent mutations at the D419 amino acid residue are a common feature in DLBCL, specifically affecting the germinal center B (GCB) cell subtype. These mutations lead to the activation of the JAK/STAT signaling pathway, contributing to lymphomagenesis (Morin et al., 2015).
+Recurrent mutations at the D419 amino acid residue are a common feature in DLBCL, specifically affecting the germinal center B (GCB) cell subtype. These mutations lead to the activation of the JAK/STAT signaling pathway, contributing to lymphomagenesis <sup>[@morinGeneticLandscapesRelapsed2016]</sup>.
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |
