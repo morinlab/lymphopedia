@@ -16,8 +16,8 @@ The common HNRNPH1 mutations cause deregulated splicing and increased expression
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
-|![DLBCL](images/icons/DLBCL_tier1.png) |2-EE   |high-confidence DLBCL gene[@pararajalingamCodingNoncodingDrivers2020]|
-|![MCL](images/icons/MCL_tier1.png)   |1-EE   |high-confidence MCL gene  [@pararajalingamCodingNoncodingDrivers2020]|
+|![DLBCL](images/icons/DLBCL_tier1.png) |2   |high-confidence DLBCL gene[@pararajalingamCodingNoncodingDrivers2020]|
+|![MCL](images/icons/MCL_tier1.png)   |1   |high-confidence MCL gene  [@pararajalingamCodingNoncodingDrivers2020]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
