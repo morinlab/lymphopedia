@@ -1,7 +1,7 @@
 ---
 bibliography: 'morinlab.bib'
-csl: 'NLM.csl'
+csl: 'chicago.csl'
 link-citations: true
 ---
 
-[@fanComprehensiveCharacterizationDriver2020]
+The child page cites this other article.[@fanComprehensiveCharacterizationDriver2020]
