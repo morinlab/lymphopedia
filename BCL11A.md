@@ -12,7 +12,7 @@ BCL11A (B-cell lymphoma/leukemia 11A) is a transcription factor involved in the 
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1-a | aSHM target and high-confidence DLBCL gene            |
+|![DLBCL](images/icons/DLBCL_tier1.png) |1 | aSHM target and high-confidence DLBCL gene            |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -33,7 +33,7 @@ BCL11A (B-cell lymphoma/leukemia 11A) is a transcription factor involved in the 
 ## aSHM regions
 
 |chr_name|hg19_start|hg19_end|region                                                                                   |regulatory_comment|
-|:--------:|:----------:|:--------:|:-----------------------------------------------------------------------------------------:|:------------------:|
+|:--------:|:----------:|:--------:|:--------:|:------------------:|
 |chr2    |60773789  |60783486|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr2%3A60773789%2D60783486)|active_promoter   |
 
 
