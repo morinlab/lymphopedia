@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'chicago.csl'
 link-citations: false
+nocite: |
+  @fanComprehensiveCharacterizationDriver2020
 ---
 
 # Main page
