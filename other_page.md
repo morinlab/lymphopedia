@@ -1,6 +1,6 @@
 ---
 bibliography: 'morinlab.bib'
-csl: 'NLM.csl'
+csl: 'chicago.csl'
 link-citations: false
 
 ---
