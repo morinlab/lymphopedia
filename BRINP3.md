@@ -19,7 +19,8 @@ Mutations in this gene were first described in DLBCL in 2017 by Reddy et al.<sup
 
 ## Warnings
 
-<<Warn("In a subsequent reanalysis, the mutation rate in this gene was found to be inflated in the original results")>>[@drevalRevisitingReddyDLBCL2023]
+[!WARNING]
+In a subsequent reanalysis, the mutation rate in this gene was found to be inflated in the original results[@drevalRevisitingReddyDLBCL2023]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
