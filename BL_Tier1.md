@@ -2,9 +2,9 @@
 
 |Gene|Summary| First BL study | Other entities | QC result |
 |:-:|:--:|:-:|:-|:-|
-|[ARID1A](ARID1A)|Tier 1 GE[@loveGeneticLandscapeMutations2012], FE[@barisicARID1AOrchestratesSWI2024]|[Love et al](papers/loveGeneticLandscapeMutations2012)|[@krysiakRecurrentSomaticMutations2017; @rossiCodingGenomeSplenic2012; @wienandGenomicAnalysesFlowsorted2019; @zhangGeneticHeterogeneityDiffuse2013]||
-|[BACH2](BACH2)|Tier 1 GE[@grandeGenomewideDiscoverySomatic2019]|[Grande et al](papers/grandeGenomewideDiscoverySomatic2019)|||
-|[BCL6](BCL6)|Tier 1 GE[@loveGeneticLandscapeMutations2012], FE[@masclePointMutationsBCL62003], aSHM|[Love et al](papers/loveGeneticLandscapeMutations2012)|[@drevalGeneticSubdivisionsFollicular2023; @morinFrequentMutationHistonemodifying2011]|PASS|
+|[ARID1A](ARID1A)|Tier 1 |[Love et al](papers/loveGeneticLandscapeMutations2012)|[@krysiakRecurrentSomaticMutations2017; @rossiCodingGenomeSplenic2012; @wienandGenomicAnalysesFlowsorted2019; @zhangGeneticHeterogeneityDiffuse2013]||
+|[BACH2](BACH2)|Tier 1 |[Grande et al](papers/grandeGenomewideDiscoverySomatic2019)|||
+|[BCL6](BCL6)|Tier 1 |[Love et al](papers/loveGeneticLandscapeMutations2012)|[@drevalGeneticSubdivisionsFollicular2023; @morinFrequentMutationHistonemodifying2011]|PASS|
 |[BCL7A](BCL7A)|Tier 1 GE[@grandeGenomewideDiscoverySomatic2019], FE[@balinas-gaviraFrequentMutationsAminoterminal2020], aSHM|[Grande et al](papers/grandeGenomewideDiscoverySomatic2019)|[@krysiakRecurrentSomaticMutations2017; @morinFrequentMutationHistonemodifying2011; @reichelFlowSortingExome2015]||
 |[BMP7](BMP7)|Tier 1 GE[@paneaWholeGenomeLandscape2019]|[Panea et al](papers/paneaWholeGenomeLandscape2019)|||
 |[CCND3](CCND3)|Tier 1 GE[@richterRecurrentMutationID32012], FE[@schmitzBurkittLymphomaPathogenesis2012]|[Richter et al](papers/richterRecurrentMutationID32012)|[@deschGenotypingCirculatingTumor2020; @jalladesExomeSequencingIdentifies2017; @morinFrequentMutationHistonemodifying2011]||
