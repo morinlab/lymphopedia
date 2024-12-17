@@ -7,8 +7,9 @@ link-citations: true
 
 [[_TOC_]]
 
+## Overview
 
-## Gene lists
+## Relevance tier by entity
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
@@ -17,10 +18,12 @@ link-citations: true
 |![PMBL](images/icons/PMBL_tier2.png)|2|relevance in PMBL/cHL/GZL not firmly established[@sarkozyMutationalLandscapeGray2021]|
 |![BL](images/icons/BL_tier2.png)    |2   |relevance in BL not firmly established[@burkhardtClinicalRelevanceMolecular2022]|
 
-[[include:Template_Overview.md]]
+## Warnings
 
+*may not exist*
 
 ## Mutation incidence from meta-analysis
+*sub headings per file here unless there is just one*
 
 ### DLBCL
 [[include:DLBCL_BCL2.md]]
@@ -35,20 +38,26 @@ link-citations: true
 
 [[include:dnds_BCL2.md]]
 
-[[include:Template_aSHM.md]]
+## aSHM regions
 
+*section will only exist for certain genes*
 
-[[include:Template_Hotspots.md]]
+|chr_name|hg19_start|hg19_end|region|regulatory_comment|
+|:--------:|:----------:|:--------:|:--------:|:------------------:|
+|chr6    |90981034  |91016134|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr6%3A90981034%2D91016134)|NA|
+
+## Hotspots
+
+*section will only exist for certain genes*
 
 [[include:Template_Browser.md]]
 
-[[include:Template_Expression.md]]
+## Expression
+
+![](images/gene_expression/ZNF296_by_pathology.svg)
 
 [[include:Template_History.md]]
 
+## References
 
-<!-- ORIGIN: 1339299 -->
-<!-- FL: morinFrequentMutationHistonemodifying2011 -->
-<!-- BL: burkhardtClinicalRelevanceMolecular2022b -->
-<!-- BL: burkhardtClinicalRelevanceMolecular2022b -->
-<!-- DLBCL: tanakaFrequentIncidenceSomatic1992 -->
+

@@ -5,10 +5,10 @@ link-citations: true
 ---
 [[_TOC_]]
 
-<<Warn("In a subsequent reanalysis, the mutation rate in this gene was found to be inflated in the original results")>>
+
+## Overview
 
 Mutations in this gene were first described in DLBCL in 2017 by Reddy et al.<sup>[@reddyGeneticFunctionalDrivers2017]</sup> Subsequent exome and genome-wide studies of DLBCL did not reproduce this observation. 
-
 
 
 ## Relevance tier by entity
@@ -17,14 +17,18 @@ Mutations in this gene were first described in DLBCL in 2017 by Reddy et al.<sup
 |:------:|:----:|-----------------------------------------|
 |![DLBCL](images/icons/DLBCL_tier2.png) |2   |relevance in DLBCL not firmly established[@reddyGeneticFunctionalDrivers2017]|
 
+## Warnings
+
+<<Warn("In a subsequent reanalysis, the mutation rate in this gene was found to be inflated in the original results")>> 
+Details[@drevalRevisitingReddyDLBCL2023]
+
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-|Entity|source        |frequency (%)|
-|:------:|:--------------:|:-------------:|
-|DLBCL |GAMBL genomes |2.68         |
-|DLBCL |Schmitz cohort|3.40         |
-|DLBCL |Reddy cohort  |3.30         |
-|DLBCL |Chapuy cohort |2.99         |
+### DLBCL
+[[include:DLBCL_BRINP3.md]]
+
+### BL
+[[include:BL_BRINP3.md]]
 
 ## Mutation pattern and selective pressure estimates
 
@@ -101,6 +105,9 @@ Mutations in this gene were first described in DLBCL in 2017 by Reddy et al.<sup
 [Reddy_3988T](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Reddy/igv_reports/Reddy_3988T.html)
 [Reddy_3989T](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Reddy/igv_reports/Reddy_3989T.html)
 [Reddy_695T](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Reddy/igv_reports/Reddy_695T.html)
+
+Source[@reddyGeneticFunctionalDrivers2017]
+
 
 [[include:mermaid_BRINP3.md]]
 
