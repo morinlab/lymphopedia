@@ -1,7 +1,7 @@
 ---
 bibliography: 'morinlab.bib'
 csl: 'chicago.csl'
-link-citations: true
+link-citations: false
 ---
 
 # Main page
