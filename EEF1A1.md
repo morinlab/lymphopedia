@@ -6,9 +6,9 @@ link-citations: true
 [[_TOC_]]
 
 ## Overview
-Mutations in the EEF1A1 gene, which encodes the eukaryotic translation elongation factor 1A1, have been reported in DLBCL and FL.<sup>1</sup> This gene has some recurrent sites of mutations (hot spots). The mutation pattern in DLBCL and FL implies the preferential accumulation of *inactivating mutations*. Paradoxically, one study showed that EEF1A1 knock down reduced proliferation in vitro and in xenograft experiments.<sup>2</sup>
+Mutations in the EEF1A1 gene, which encodes the eukaryotic translation elongation factor 1A1, have been reported in DLBCL and FL.<sup>2</sup> This gene has some recurrent sites of mutations (hot spots). The mutation pattern in DLBCL and FL implies the preferential accumulation of *inactivating mutations*. Paradoxically, one study showed that EEF1A1 knock down reduced proliferation in vitro and in xenograft experiments.<sup>1</sup>
 
-Mutations in this gene were first described in DLBCL and FL in 2021 by Hübschmann et al.<sup>1</sup>
+Mutations in this gene were first described in DLBCL and FL in 2021 by Hübschmann et al.<sup>2</sup>
 
 
 ## Relevance tier by entity
