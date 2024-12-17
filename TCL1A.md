@@ -10,8 +10,8 @@ link-citations: true
 
 |Entity|Tier|Description                              |
 |:------:|:----:|-----------------------------------------|
-|![BL](images/icons/BL_tier1.png)    |1-a | aSHM target and high-confidence BL gene   [@grandeGenomewideDiscoverySomatic2019]|
-|![DLBCL](images/icons/DLBCL_tier2.png) |1-a | aSHM target and high-confidence DLBCL gene|
+|![BL](images/icons/BL_tier1.png)    |1 | aSHM target and high-confidence BL gene   [@grandeGenomewideDiscoverySomatic2019]|
+|![DLBCL](images/icons/DLBCL_tier2.png) |1 | aSHM target and high-confidence DLBCL gene|
 
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
