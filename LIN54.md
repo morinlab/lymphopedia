@@ -57,3 +57,4 @@ link-citations: true
 [[include:mermaid_LIN54.md]]
 
 ## References
+[@reddyGeneticFunctionalDrivers2017]
