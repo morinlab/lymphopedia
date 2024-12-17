@@ -4,6 +4,9 @@ csl: 'NLM.csl'
 link-citations: true
 ---
 [[_TOC_]]
+
+## Overview
+
 P2RY8 encodes a G protein–coupled receptor that is expressed on germinal center B cells. Signals through this receptor promote confinement of B cells to the GC niche.<sup>1</sup> Downstream signaling through Galpha13 (encoded by GNA13) and S1PR2 is distrupted by mutations of one of these genes in GC lymphomas including the GCB subgroup of DLBCL and BL.[muppidiLossSignalingGa132014] 
 
 
