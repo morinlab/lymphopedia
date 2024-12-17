@@ -7,6 +7,7 @@ link-citations: true
 
 <<Warn("The variants reported in this gene in DLBCL failed QC")>>
 
+Mutations in this gene were reported to be inflated in the original results according to [Dreval K](https://www.biorxiv.org/content/10.1101/2023.11.21.567983v1)
 
 
 ## Relevance tier by entity
@@ -30,8 +31,6 @@ link-citations: true
 
 
 
-> [!WARNING]
-> Mutations in this gene were reported to be inflated in the original results according to [Dreval K](https://www.biorxiv.org/content/10.1101/2023.11.21.567983v1)
 
 
 [[include:browser_DICER1.md]]
