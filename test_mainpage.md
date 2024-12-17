@@ -1,7 +1,7 @@
 ---
 bibliography: 'morinlab.bib'
-csl: 'chicago.csl'
-link-citations: false
+csl: 'NLM.csl'
+link-citations: true
 nocite: |
   @fanComprehensiveCharacterizationDriver2020
 ---
