@@ -19,17 +19,16 @@ Mutations in this gene were first described in DLBCL in 2017 by Reddy et al.<sup
 
 ## Warnings
 
-<<Warn("In a subsequent reanalysis, the mutation rate in this gene was found to be inflated in the original results")>>
+<<Warn("In a subsequent reanalysis, the mutation rate in this gene was found to be inflated in the original results")>> 
 Details[@drevalRevisitingReddyDLBCL2023]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-|Entity|source        |frequency (%)|
-|:------:|:--------------:|:-------------:|
-|DLBCL |GAMBL genomes |2.68         |
-|DLBCL |Schmitz cohort|3.40         |
-|DLBCL |Reddy cohort  |3.30         |
-|DLBCL |Chapuy cohort |2.99         |
+### DLBCL
+[[include:DLBCL_BRINP3.md]]
+
+### BL
+[[include:BL_BRINP3.md]]
 
 ## Mutation pattern and selective pressure estimates
 
