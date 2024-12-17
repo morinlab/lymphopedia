@@ -12,7 +12,7 @@ link-citations: true
 
 |Entity|Tier|Description                              |
 |:------:|:----:|-----------------------------------------|
-|![DLBCL](images/icons/DLBCL_tier2.png) |3   |Retired, Failed QC|
+|![DLBCL](images/icons/DLBCL_tier2.png) |3   |Retired, Failed QC[@reddyGeneticFunctionalDrivers2017]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -39,4 +39,4 @@ link-citations: true
 [[include:mermaid_RARA.md]]
 
 ## References
-[@reddyGeneticFunctionalDrivers2017]
+
