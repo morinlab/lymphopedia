@@ -12,8 +12,8 @@ link-citations: true
 |:------:|:----:|-----------------------------------------|
 |![PMBL](images/icons/PMBL_tier2.png)|2|relevance in PMBL/cHL/GZL not firmly established[@dunsCharacterizationDLBCLPMBL2021]|
 |![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene[@rossiAlterationBIRC3Multiple2011]|
-|![DLBCL](images/icons/DLBCL_tier2.png) |2-a | aSHM target; Although recurrent, the relevance of mutations in DLBCL is tenuous [@arthurGenomewideDiscoverySomatic2018]|
-|![MCL](images/icons/MCL_tier1.png)   |1-a | aSHM target and high-confidence MCL gene                 [@beaLandscapeSomaticMutations2013]|
+|![DLBCL](images/icons/DLBCL_tier2.png) |2 | aSHM target; Although recurrent, the relevance of mutations in DLBCL is tenuous [@arthurGenomewideDiscoverySomatic2018]|
+|![MCL](images/icons/MCL_tier1.png)   |1 | aSHM target and high-confidence MCL gene                 [@beaLandscapeSomaticMutations2013]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -32,7 +32,7 @@ link-citations: true
 ## aSHM regions
 
 |chr_name|hg19_start|hg19_end |region                                                                                      |regulatory_comment|
-|:--------:|:----------:|:---------:|:--------------------------------------------------------------------------------------------:|:------------------:|
+|:--------:|:----------:|:---------:|:---------:|:------------------:|
 |chr11   |102188170 |102190077|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr11%3A102188170%2D102190077)|active_promoter   |
 
 
