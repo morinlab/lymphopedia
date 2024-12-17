@@ -6,7 +6,9 @@ link-citations: true
 
 [[_TOC_]]
 
-BCOR acts as a co-repressor of BCL6, and mutations in BCOR could impair its binding affinity to BCL6 and other partners. Overall, protein-altering mutations in BCOR seem to be rare in DLBCL and MCL.<sup>1,2</sup> One study reported a much higher prevalence of a hot spot mutation in BCOR but this result has not been reproduced.<sup>1</sup> 
+## Overview
+
+BCOR acts as a co-repressor of BCL6, and mutations in BCOR could impair its binding affinity to BCL6 and other partners. Overall, protein-altering mutations in BCOR seem to be rare in DLBCL and MCL.<sup>[@jalladesExomeSequencingIdentifies2017],[@nadeuGenomicEpigenomicInsights2020]</sup> One study reported a much higher prevalence of a hot spot mutation in BCOR but this result has not been reproduced.<sup>[@jalladesExomeSequencingIdentifies2017]</sup> 
 
 
 
