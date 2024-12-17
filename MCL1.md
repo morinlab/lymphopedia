@@ -16,8 +16,8 @@ MCL1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
 |![PMBL](images/icons/PMBL_tier2.png)|2|relevance in PMBL/cHL/GZL not firmly established[@dunsCharacterizationDLBCLPMBL2021]|
-|![BL](images/icons/BL_tier2.png)    |2-a | aSHM target; Although recurrent, the relevance of mutations in BL is tenuous [@paneaWholeGenomeLandscape2019]|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1-a | aSHM target and high-confidence DLBCL gene            [@reddyGeneticFunctionalDrivers2017]|
+|![BL](images/icons/BL_tier2.png)    |2 | aSHM target; Although recurrent, the relevance of mutations in BL is tenuous [@paneaWholeGenomeLandscape2019]|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1 | aSHM target and high-confidence DLBCL gene            [@reddyGeneticFunctionalDrivers2017]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -119,7 +119,7 @@ MCL1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) 
 [[include:mermaid_MCL1.md]]
 
 ## References
-38(2):136–148. PMID: 33684939*
+
 <!-- ORIGIN: reddyGeneticFunctionalDrivers2017 -->
 <!-- BL: paneaWholeGenomeLandscape2019 -->
 <!-- BL: paneaWholeGenomeLandscape2019 -->
