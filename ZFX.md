@@ -5,7 +5,6 @@ link-citations: true
 ---
 [[_TOC_]]
 
-<<Warn("Mutations in this gene were reported to be inflated in the original results according to [Dreval K](https://www.biorxiv.org/content/10.1101/2023.11.21.567983v1)")>>
 
 ## Relevance tier by entity
 
@@ -21,6 +20,9 @@ link-citations: true
 |DLBCL |Schmitz cohort|1.70         |
 |DLBCL |Reddy cohort  |1.40         |
 |DLBCL |Chapuy cohort |0.43         |
+
+<<Warn("Mutations in this gene were reported to be inflated in the original results according to [Dreval K](https://www.biorxiv.org/content/10.1101/2023.11.21.567983v1)")>>
+
 
 ## Mutation pattern and selective pressure estimates
 
