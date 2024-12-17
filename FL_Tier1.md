@@ -1,5 +1,5 @@
 |Gene|Status| First FL study | Other lists | 
-|:-:|:-:|:-:|:----|
+|:-:|:-:|:--:|:---|
 |[ACTB](ACTB)|FL Tier 1|[Dreval et al](papers/drevalGeneticSubdivisionsFollicular2023)|[DLBCL](DLBCL_genes#tier-1-dlbcl-genes), [PMBL](PMBL_genes#tier-1-pmbl-genes), [MZL](MZL_genes#tier-1-mzl-genes)|
 |[ARID1A](ARID1A)|FL Tier 1|[Krysiak et al](papers/krysiakRecurrentSomaticMutations2017)|[BL](BL_genes#tier-1-bl-genes), [DLBCL](DLBCL_genes#tier-1-dlbcl-genes), [PMBL](PMBL_genes#tier-1-pmbl-genes), [MZL](MZL_genes#tier-1-mzl-genes)|
 |[ATP6AP1](ATP6AP1)|FL Tier 1|[Green et al](papers/greenMutationsEarlyFollicular2015)||
