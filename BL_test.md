@@ -3,6 +3,8 @@ title: 'BL genes'
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @loveGeneticLandscapeMutations2012
 ---
 
 ## Origins of BL genes
