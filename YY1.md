@@ -5,8 +5,7 @@ link-citations: true
 ---
 [[_TOC_]]
 
-[!WARNING]
-Mutations in this gene were reported to be inflated in the original results according to [Dreval K](https://www.biorxiv.org/content/10.1101/2023.11.21.567983v1)
+<<Warn("Mutations in this gene were reported to be inflated in the original results according to [Dreval K](https://www.biorxiv.org/content/10.1101/2023.11.21.567983v1)")>>
 
 ## Relevance tier by entity
 
