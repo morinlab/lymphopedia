@@ -34,7 +34,7 @@ ACTB is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) 
 ## aSHM regions
 
 |chr_name|hg19_start|hg19_end|region                                                                                 |regulatory_comment|
-|:--------:|:----------:|:--------:|:---------------------------------------------------------------------------------------:|:------------------:|
+|:--------:|:----------:|:--------:|:-------------------------------------------:|:------------------:|
 |chr7    |5568297   |5570856 |[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr7%3A5568297%2D5570856)|active_promoter   |
 
 ## ACTB Hotspots
