@@ -37,4 +37,6 @@ link-citations: true
 ![](images/gene_expression/SEL1L3_by_pathology.svg)
 <!-- ORIGIN: Unknown -->
 
+[[include:mermaid_SEL1L3.md]]
+
 ## References
