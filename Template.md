@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @balSuperenhancerHypermutationAlters2022, @tanakaFrequentIncidenceSomatic1992, @sarkozyMutationalLandscapeGray2021, @burkhardtClinicalRelevanceMolecular2022
 ---
 
 
@@ -10,6 +12,10 @@ link-citations: true
 ## Overview
 
 ## Relevance tier by entity
+
+*test*
+
+[[include:Template_relevance.md]]
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
