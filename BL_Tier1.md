@@ -1,5 +1,5 @@
 |Gene|Status| First BL study | Other lists |
-|:-:|:-:|:-:|:--|
+|:-:|:-:|:-:|:---|
 |[ARID1A](ARID1A)|Tier 1|[Love et al](papers/loveGeneticLandscapeMutations2012)|DLBCL Tier 1, FL Tier 1, PMBL Tier 1, MZL Tier 1, |
 |[BACH2](BACH2)|Tier 1|[Grande et al](papers/grandeGenomewideDiscoverySomatic2019)||
 |[BCL6](BCL6)|Tier 1|[Love et al](papers/loveGeneticLandscapeMutations2012)|DLBCL Tier 1, FL Tier 1, |
