@@ -5,7 +5,7 @@ link-citations: true
 ---
 [[_TOC_]]
 
-Mutations in this gene were first described in FL in 2021 by Hübschmann et al.<sup>1</sup>
+Mutations in this gene were first described in FL in 2021 by Hübschmann et al.<sup>[@hubschmannMutationalMechanismsShaping2021]</sup>
 
 
 ## Relevance tier by entity
