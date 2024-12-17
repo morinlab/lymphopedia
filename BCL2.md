@@ -21,7 +21,6 @@ Although missense mutations may not be under positive selective pressure in the 
 |![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene| 
 |![PMBL](images/icons/PMBL_tier2.png)|2|relevance in PMBL/cHL/GZL not firmly established[@sarkozyMutationalLandscapeGray2021]|
 |![BL](images/icons/BL_tier2.png)    |2   |relevance in BL not firmly established[@burkhardtClinicalRelevanceMolecular2022]|
-              |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
