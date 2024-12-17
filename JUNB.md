@@ -5,6 +5,8 @@ link-citations: true
 ---
 [[_TOC_]]
 
+<<Warn("Mutations in this gene were reported to be inflated in the original results according to [Dreval K](https://www.biorxiv.org/content/10.1101/2023.11.21.567983v1)")>>
+
 ## Overview
 JUNB has been reported to be frequently mutated in T-cell/histiocyte-rich large B-cell lymphoma (THRLBCL).<sup>[@schuhmacherJUNBDUSP2SGK12019]</sup> Mutations have also been reported in DLBCL but the mutation rate in the earliest study<sup>[@reddyGeneticFunctionalDrivers2017]</sup> was likely an over-estimate.<sup>[@drevalRevisitingReddyDLBCL2023]</sup> According to one study, mutations are often enriched at somatic hypermutation hotspot sites, indicating the involvement of aberrant somatic hypermutation in the pathogenesis of these lymphomas.<sup>[@schuhmacherJUNBDUSP2SGK12019]</sup>
 
@@ -25,8 +27,7 @@ JUNB has been reported to be frequently mutated in T-cell/histiocyte-rich large 
 
 [[include:dnds_JUNB.md]]
 
-> [!WARNING]
-> Mutations in this gene were reported to be inflated in the original results according to [Dreval K](https://www.biorxiv.org/content/10.1101/2023.11.21.567983v1)
+
 
 
 [[include:browser_JUNB.md]]
