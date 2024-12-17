@@ -11,7 +11,7 @@ link-citations: true
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
 |![MZL](images/icons/MZL_tier2.png)|2|relevance in MZL not firmly established[@spinaGeneticsNodalMarginal2016]|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene[@morinMutationalStructuralAnalysis2013; @reddyGeneticFunctionalDrivers2017; @hubschmannMutationalMechanismsShaping2021b]|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene[@morinMutationalStructuralAnalysis2013; @reddyGeneticFunctionalDrivers2017; @hubschmannMutationalMechanismsShaping2021]|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
