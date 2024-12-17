@@ -20,7 +20,7 @@ This and other common mutations primarily occur in the immunoreceptor tyrosine-b
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene with functional evidence[@davisChronicActiveBcellreceptor2010]            [@morinFrequentMutationHistonemodifying2011]|
+|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene with functional evidence[@davisChronicActiveBcellreceptor2010;@morinFrequentMutationHistonemodifying2011]|
 |![FL](images/icons/FL_tier2.png)    |2   |relevance in FL not firmly established|
 |![BL](images/icons/BL_tier2.png)    |3   |Retired, Failed QC[@paneaWholeGenomeLandscape2019]|
 
@@ -35,7 +35,7 @@ This and other common mutations primarily occur in the immunoreceptor tyrosine-b
 
 ## CD79B Hotspots
 
-Mutations at Y196 enhance B-cell receptor (BCR) signaling by preventing the negative regulatory feedback provided by Lyn kinase, a feedback inhibitor of BCR signaling. This results in continuous activation of the NF-κB pathway, promoting tumor cell survival and proliferation.<sup>4</sup>
+Mutations at Y196 enhance B-cell receptor (BCR) signaling by preventing the negative regulatory feedback provided by Lyn kinase, a feedback inhibitor of BCR signaling. This results in continuous activation of the NF-κB pathway, promoting tumor cell survival and proliferation.<sup>[@kimCD79BMYD88Mutations2014]</sup>
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |
