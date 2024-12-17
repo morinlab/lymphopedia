@@ -39,4 +39,4 @@ link-citations: true
 [[include:mermaid_RARA.md]]
 
 ## References
-
+[@reddyGeneticFunctionalDrivers2017]
