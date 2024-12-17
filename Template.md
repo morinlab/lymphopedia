@@ -54,6 +54,8 @@ link-citations: true
 
 ## Expression
 
+![](images/gene_expression/ZNF296_by_pathology.svg)
+
 [[include:Template_History.md]]
 
 ## References
