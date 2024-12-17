@@ -1,5 +1,5 @@
 |Gene|Status| First DLBCL study | Other lists | 
-|:-:|:-:|:-:|:----|
+|:-|:-|:---|:---|
 |[ABI3BP](ABI3BP)|DLBCL Tier 2|[Morin et al](papers/morinMutationalStructuralAnalysis2013)||
 |[ADAMTS1](ADAMTS1)|DLBCL Tier 2|[Hubschmann et al](papers/hubschmannMutationalMechanismsShaping2021)||
 |[ADAMTSL3](ADAMTSL3)|DLBCL Tier 2|[Pasqualucci et al](papers/pasqualucciAnalysisCodingGenome2011)||

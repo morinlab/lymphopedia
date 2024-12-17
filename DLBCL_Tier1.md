@@ -1,5 +1,5 @@
 |Gene|Status| First DLBCL study | Other lists | 
-|:-:|:-:|:-:|:----|
+|:-|:-|:---|:---|
 |[ACTB](ACTB)|DLBCL Tier 1|[Lohr et al](papers/lohrDiscoveryPrioritizationSomatic2012)|[FL](FL_genes#tier-1-fl-genes), [PMBL](PMBL_genes#tier-1-pmbl-genes), [MZL](MZL_genes#tier-1-mzl-genes)|
 |[ACTG1](ACTG1)|DLBCL Tier 1|[Fan et al](papers/fanComprehensiveCharacterizationDriver2020)|[FL](FL_genes#tier-2-fl-genes), [PMBL](PMBL_genes#tier-2-pmbl-genes), [MZL](MZL_genes#tier-2-mzl-genes)|
 |[ARID1A](ARID1A)|DLBCL Tier 1|[Zhang et al](papers/zhangGeneticHeterogeneityDiffuse2013)|[BL](BL_genes#tier-1-bl-genes), [FL](FL_genes#tier-1-fl-genes), [PMBL](PMBL_genes#tier-1-pmbl-genes), [MZL](MZL_genes#tier-1-mzl-genes)|

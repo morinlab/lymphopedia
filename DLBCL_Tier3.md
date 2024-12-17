@@ -1,5 +1,5 @@
 |Gene|Status| First DLBCL study | Other lists | 
-|:-:|:-:|:-:|:----|
+|:-|:-|:---|:---|
 |[ABCA3](ABCA3)|DLBCL Tier 3|[Zhang et al](papers/zhangGeneticHeterogeneityDiffuse2013)|[MCL](MCL_genes#tier-2-mcl-genes)|
 |[ABCA4](ABCA4)|DLBCL Tier 3|[Zhang et al](papers/zhangGeneticHeterogeneityDiffuse2013)||
 |[ABCB1](ABCB1)|DLBCL Tier 3|[Fan et al](papers/fanComprehensiveCharacterizationDriver2020)||
