@@ -23,7 +23,7 @@ link-citations: true
 *may not exist*
 
 ## Mutation incidence from meta-analysis
-**sub headings per file here unless there is just one**
+*sub headings per file here unless there is just one*
 
 ### DLBCL
 [[include:DLBCL_BCL2.md]]
