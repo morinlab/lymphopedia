@@ -6,7 +6,7 @@ link-citations: true
 [[_TOC_]]
 
 ## Overview
-IKZF3 (IKAROS family zinc finger 3, also known as AIOLOS) is a transcription factor involved in regulating B-cell development and function. Mutations in IKZF3 can lead to transcriptional dysregulation and contribute to the pathogenesis of B-cell neoplasms. IKZF3 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus. IKZF3 has multiple hot spot mutations in DLBCL. The most common, L162R, has been identified as a driver in CLL. In that context, it alters DNA binding specificity and causes hyperactivation of B-cell receptor (BCR) signaling and overexpression of NF-κB target genes.<sup>1</sup> While primarily studied in CLL, the functional effects of IKZF3 mutations could have implications for other B-cell malignancies, including DLBCL 
+IKZF3 (IKAROS family zinc finger 3, also known as AIOLOS) is a transcription factor involved in regulating B-cell development and function. Mutations in IKZF3 can lead to transcriptional dysregulation and contribute to the pathogenesis of B-cell neoplasms. IKZF3 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus. IKZF3 has multiple hot spot mutations in DLBCL. The most common, L162R, has been identified as a driver in CLL. In that context, it alters DNA binding specificity and causes hyperactivation of B-cell receptor (BCR) signaling and overexpression of NF-κB target genes.<sup>[@lazarianHotspotMutationTranscription2021]</sup> While primarily studied in CLL, the functional effects of IKZF3 mutations could have implications for other B-cell malignancies, including DLBCL 
 
 
 ## Relevance tier by entity
@@ -63,7 +63,7 @@ IKZF3 (IKAROS family zinc finger 3, also known as AIOLOS) is a transcription fac
 [[include:mermaid_IKZF3.md]]
 
 ## References
-1. *Lazarian, G., Yin, S., Hacken, E., Sewastianik, T., Uduman, M., Font-Tello, A., Gohil, S., Li, S., Kim, E., Joyal, H., Billington, L., Witten, E., Zheng, M., Huang, T., Severgnini, M., Lefebvre, V., Rassenti, L., Gutierrez, C., Georgopoulos, K., Ott, C., Wang, L., Kipps, T., Burger, J., Livak, K., Neuberg, D., Baran-Marszak, F., Cymbalista, F., Carrasco, R., & Wu, C. (2021). A hotspot mutation in transcription factor IKZF3 drives B cell neoplasia via transcriptional dysregulation.. Cancer cell, 39 3, 380-393.e8 . https://doi.org/10.1016/j.ccell.2021.02.003.*
+
 
 <!-- ORIGIN: morinMutationalStructuralAnalysis2013 -->
 <!-- DLBCL: morinMutationalStructuralAnalysis2013 -->
