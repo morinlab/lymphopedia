@@ -106,6 +106,9 @@ Details[@drevalRevisitingReddyDLBCL2023]
 [Reddy_3989T](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Reddy/igv_reports/Reddy_3989T.html)
 [Reddy_695T](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Reddy/igv_reports/Reddy_695T.html)
 
+Source[@reddyGeneticFunctionalDrivers2017]
+
+
 [[include:mermaid_BRINP3.md]]
 
 ## References
