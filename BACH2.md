@@ -24,7 +24,7 @@ Mutations in this gene were first described in BL in 2019 by Grande et al.<sup>[
 
 ## aSHM regions
 
-|chr_name|hg19_start|hg19_end|region                                                                                   |regulatory_comment|
+|chr_name|hg19_start|hg19_end|region|regulatory_comment|
 |:--------:|:----------:|:--------:|::--------:|:------------------:|
 |chr6    |90981034  |91016134|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr6%3A90981034%2D91016134)|NA                |
 
