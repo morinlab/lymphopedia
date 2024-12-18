@@ -6,7 +6,9 @@ link-citations: true
 [[_TOC_]]
 
 
-Mutations were first described in DLBCL in 2013 by Morin et al.<sup>1</sup> Subsequent exome and genome-wide studies of DLBCL did not reproduce this observation. 
+## Overview
+
+Mutations were first described in DLBCL in 2013 by Morin et al.[@morinMutationalStructuralAnalysis2013] Subsequent exome and genome-wide studies of DLBCL did not reproduce this observation. 
 
 
 ## Relevance tier by entity

@@ -46,7 +46,7 @@ Mutations in this gene were first described in DLBCL in 2012 [@khodabakhshiRecur
 
 ## Representative Mutations
 
-### BL<sup></sup>
+### BL
 
 ![](primary/Panea_CXCR4_2.svg)
 

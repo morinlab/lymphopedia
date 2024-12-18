@@ -7,7 +7,7 @@ link-citations: true
 
 ## Overview
 
-Mutations in this gene were first described in DLBCL in 2017 by Reddy et al.<sup>1</sup> Subsequent exome and genome-wide studies of DLBCL did not reproduce this observation. 
+Mutations in this gene were first described in DLBCL in 2017 by Reddy et al.[@reddyGeneticFunctionalDrivers2017] Subsequent exome and genome-wide studies of DLBCL did not reproduce this observation. 
 
 
 ## Relevance tier by entity

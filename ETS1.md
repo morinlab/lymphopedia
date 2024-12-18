@@ -73,7 +73,7 @@ The mutation pattern in DLBCL implies the preferential accumulation of *inactiva
 
 ## Representative Mutations
 
-### BL<sup>2</sup>
+### BL[@paneaWholeGenomeLandscape2019]
 ![](primary/Panea_ETS1_1.svg)
 
 **Rating**
