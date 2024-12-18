@@ -7,9 +7,9 @@ link-citations: true
 [[_TOC_]]
 
 
-
-
 ## Relevance tier by entity
+
+[[include:table1_ABCA13.md]]
 
 |Entity|Tier|Description|
 |:------:|:----:|--------------------------------------|
