@@ -1,9 +1,16 @@
+---
+bibliography: 'morinlab.bib'
+csl: 'NLM.csl'
+link-citations: true
+---
+[[_TOC_]]
+
 # NR2F2
 
 
 ## Overview
 
-Mutations in this gene were first described in DLBCL in 2021 by Hübschmann et al <sup>[@hubschmannMutationalMechanismsShaping2021]</sup>.
+Mutations in this gene were first described in DLBCL in 2021 by Hübschmann et al[@hubschmannMutationalMechanismsShaping2021].
 
 
 ## Relevance tier by entity
