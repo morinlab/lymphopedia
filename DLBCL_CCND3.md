@@ -4,7 +4,7 @@
    <th style="text-align:left;"> pathology </th>
    <th style="text-align:left;"> Samples </th>
    <th style="text-align:right;"> Incidence </th>
-   <th style="text-align:left;"> CI </th>
+   <th style="text-align:left;"> 95% CI </th>
    <th style="text-align:right;"> mutated </th>
    <th style="text-align:right;"> n_patients </th>
   </tr>
