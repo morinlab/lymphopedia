@@ -30,11 +30,7 @@ PIM1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) 
 
 ## aSHM regions
 
-|chr_name|hg19_start|hg19_end|region                                                                                   |regulatory_comment|
-|:--------:|:----------:|:--------:|:-----------------------------------------------------------------------------------------:|:------------------:|
-|chr6    |37138104  |37139804|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr6%3A37138104%2D37139804)|active_promoter   |
-
-
+[[include:ashm_PIM1.md]]
 
 ## PIM1 Hotspots
 
