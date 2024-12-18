@@ -2,20 +2,16 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @spinaGeneticsNodalMarginal2016, @sarkozyMutationalLandscapeGray2021
 ---
 
 [[_TOC_]]
 
 
-
-
 ## Relevance tier by entity
 
-|Entity|Tier|Description|
-|:------:|:----:|--------------------------------------|
-|![MZL](images/icons/MZL_tier2.png)|2|relevance in MZL not firmly established[@spinaGeneticsNodalMarginal2016]|
-|![PMBL](images/icons/PMBL_tier2.png)|2|relevance in PMBL/cHL/GZL not firmly established[@sarkozyMutationalLandscapeGray2021]|
-
+[[include:table1_ABCA13.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
