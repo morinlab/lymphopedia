@@ -9,7 +9,7 @@ link-citations: true
 
 This gene encodes the H2A protein, one of the core proteins comprising nucleosomes. Although relatively common in DLBCL, little is known about the function of these mutations. 
 
-<<Warn("The variants reported in this gene in BL failed QC")>>
+
 
 
 ## Relevance tier by entity
@@ -19,6 +19,10 @@ This gene encodes the H2A protein, one of the core proteins comprising nucleosom
 |![MZL](images/icons/MZL_tier2.png)|2|relevance in MZL not firmly established[@rossiCodingGenomeSplenic2012]|
 |![BL](images/icons/BL_tier2.png)    |3   |Retired, Failed QC[@paneaWholeGenomeLandscape2019]|
 |![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            [@zhangGeneticHeterogeneityDiffuse2013; @chapuyMolecularSubtypesDiffuse2018]|
+
+## Warnings
+
+<<Warn("The variants reported in this gene in BL failed QC")>>
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

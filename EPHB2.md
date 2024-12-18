@@ -5,7 +5,7 @@ link-citations: true
 ---
 [[_TOC_]]
 
-<<Warn("The variants reported in this gene failed QC")>>
+
 
 
 
@@ -15,6 +15,10 @@ link-citations: true
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
 |![BL](images/icons/BL_tier2.png)    |3   |Retired, Failed QC[@loveGeneticLandscapeMutations2012]|
+
+## Warnings
+
+<<Warn("The variants reported in this gene failed QC")>>
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

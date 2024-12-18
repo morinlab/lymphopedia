@@ -11,7 +11,6 @@ ETS1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) 
 This gene has some recurrent sites of mutations (hot spots). 
 The mutation pattern in DLBCL implies the preferential accumulation of *inactivating mutations*.
 
-<<Warn("The variants reported in this gene in BL failed QC")>>
 
 
 
@@ -22,6 +21,10 @@ The mutation pattern in DLBCL implies the preferential accumulation of *inactiva
 |![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene|
 |![DLBCL](images/icons/DLBCL_tier1.png) |1 | aSHM target and high-confidence DLBCL gene            [@morinFrequentMutationHistonemodifying2011]|
 |![BL](images/icons/BL_tier2.png)    |3 | Retired, Failed QC[@paneaWholeGenomeLandscape2019]|
+
+## Warnings
+
+<<Warn("The variants reported in this gene in BL failed QC")>>
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

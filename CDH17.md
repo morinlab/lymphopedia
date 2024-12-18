@@ -5,7 +5,6 @@ link-citations: true
 ---
 [[_TOC_]]
 
-<<Warn("The variants reported in this gene failed QC")>>
 
 ## Overview
 
@@ -17,6 +16,10 @@ Due to [minimal support](CDH17#representative-mutations) in the original primary
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
 |![BL](images/icons/BL_tier2.png)    |3   |Retired, Failed QC[@loveGeneticLandscapeMutations2012]|
+
+## Warnings
+
+<<Warn("The variants reported in this gene failed QC")>>
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

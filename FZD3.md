@@ -5,9 +5,7 @@ link-citations: true
 ---
 [[_TOC_]]
 
-<<Warn("The variants reported in BL in this gene failed QC")>>
 
-**[See below ](#representative-mutations) or [the study page ](papers/paneaWholeGenomeLandscape2019.md#tier-2) for more information**
 
 
 ## Relevance tier by entity
@@ -16,6 +14,11 @@ link-citations: true
 |:------:|:----:|--------------------------------------|
 |![BL](images/icons/BL_tier2.png)    |3   |Retired, Failed QC[@paneaWholeGenomeLandscape2019]|
 
+## Warnings
+
+<<Warn("The variants reported in BL in this gene failed QC")>>
+
+**[See below ](#representative-mutations) or [the study page ](papers/paneaWholeGenomeLandscape2019.md#tier-2) for more information**
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
 |Entity|source               |frequency (%)|

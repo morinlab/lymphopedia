@@ -15,6 +15,8 @@ Due to [minimal support](ACAD9#representative-mutation) in the original primary 
 |:------:|:----:|--------------------------------------|
 |![BL](images/icons/BL_tier2.png)    |3   |Retired, Failed QC[@loveGeneticLandscapeMutations2012]|
 
+## Warnings
+
 <<Warn("The variants reported in this gene in BL failed QC")>>
 
 

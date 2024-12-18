@@ -6,8 +6,6 @@ link-citations: true
 
 [[_TOC_]]
 
-<<Warn("In a subsequent reanalysis, the mutation rate in this gene was found to be inflated in the original results")>>
-
 
 ## Relevance tier by entity
 
@@ -15,6 +13,11 @@ link-citations: true
 |:------:|:----:|-----------------------------------------|
 |![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene[@gomezUltraDeepSequencingReveals2023]|
 |![DLBCL](images/icons/DLBCL_tier2.png) |2   |relevance in DLBCL not firmly established[@reddyGeneticFunctionalDrivers2017;@drevalRevisitingReddyDLBCL2023; @arthurGenomewideDiscoverySomatic2018]|
+
+## Warnings
+
+<<Warn("In a subsequent reanalysis, the mutation rate in this gene was found to be inflated in the original results")>>
+
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

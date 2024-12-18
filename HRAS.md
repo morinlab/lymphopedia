@@ -5,7 +5,6 @@ link-citations: true
 ---
 [[_TOC_]]
 
-<<Warn("The variants reported in this gene in DLBCL failed QC")>>
 
 
 ## Relevance tier by entity
@@ -14,6 +13,10 @@ link-citations: true
 |:------:|:----:|-----------------------------------------|
 |![MZL](images/icons/MZL_tier2.png)|2|relevance in MZL not firmly established[@jalladesExomeSequencingIdentifies2017]|
 |![DLBCL](images/icons/DLBCL_tier2.png) |3   |Retired, Failed QC[@reddyGeneticFunctionalDrivers2017]|
+
+## Warnings
+
+<<Warn("The variants reported in this gene in DLBCL failed QC")>>
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

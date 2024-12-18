@@ -5,9 +5,11 @@ link-citations: true
 ---
 [[_TOC_]]
 
+## Overview
+
 Due to [minimal support](EML2#representative-mutation) in the original primary data and very few mutations reported in subsequent studies, this gene is very unlikely to be relevant in BL. 
 
-<<Warn("The variants reported in this gene in BL failed QC")>>
+
 
 
 
@@ -16,6 +18,10 @@ Due to [minimal support](EML2#representative-mutation) in the original primary d
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
 |![BL](images/icons/BL_tier2.png)    |3   |Retired, Failed QC[@loveGeneticLandscapeMutations2012]|
+
+## Warnings
+
+<<Warn("The variants reported in this gene in BL failed QC")>>
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

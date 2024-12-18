@@ -9,15 +9,16 @@ link-citations: true
 
 Due to [minimal support](DLGAP1#representative-mutation) in the original primary data, [low expression in BL](DLGAP1#dlgap1-expression) and very few mutations reported in subsequent studies, this gene is very unlikely to be relevant in BL. 
 
-<<Warn("The variants reported in this gene in BL failed QC")>>
-
-
 
 ## Relevance tier by entity
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
 |![BL](images/icons/BL_tier2.png)    |3   |Retired, Failed QC[@loveGeneticLandscapeMutations2012]|
+
+## Warnings
+
+<<Warn("The variants reported in this gene in BL failed QC")>>
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
