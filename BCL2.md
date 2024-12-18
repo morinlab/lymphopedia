@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @balSuperenhancerHypermutationAlters2022, @tanakaFrequentIncidenceSomatic1992, @sarkozyMutationalLandscapeGray2021, @burkhardtClinicalRelevanceMolecular2022
 ---
 
 [[_TOC_]]
@@ -14,6 +16,8 @@ Although missense mutations may not be under positive selective pressure in the 
 
 
 ## Relevance tier by entity
+
+[[include:table1_BCL2.md]]
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
