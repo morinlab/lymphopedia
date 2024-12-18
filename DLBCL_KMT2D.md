@@ -2,7 +2,7 @@
  <thead>
   <tr>
    <th style="text-align:left;"> Entity </th>
-   <th style="text-align:left;"> Samples </th>
+   <th style="text-align:left;"> Collection </th>
    <th style="text-align:right;"> N </th>
    <th style="text-align:right;"> mutated </th>
    <th style="text-align:right;"> Incidence </th>
