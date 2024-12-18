@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @parryWholeExomeSequencing2013, @dunsCharacterizationDLBCLPMBL2021, @pasqualucciInactivatingMutationsAcetyltransferase2011, @loveGeneticLandscapeMutations2012
 ---
 
 [[_TOC_]]
@@ -19,13 +21,7 @@ Mutations in CREBBP and EP300 affect a common pathway and have been described as
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description                           |
-|:------:|:----:|--------------------------------------|
-|![MZL](images/icons/MZL_tier2.png)|2|relevance in MZL not firmly established[@parryWholeExomeSequencing2013] |
-|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene[@dunsCharacterizationDLBCLPMBL2021] |
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene supported by functional data[@pasqualucciInactivatingMutationsAcetyltransferase2011]            |
-|![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene supported by functional data[@pasqualucciInactivatingMutationsAcetyltransferase2011]               |
-|![BL](images/icons/BL_tier2.png)    |2   |association with BL is tenuous[@loveGeneticLandscapeMutations2012]|
+[[include:table1_CREBBP.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
