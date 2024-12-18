@@ -3,7 +3,7 @@
 
 ## Overview
 
-Mutations in this gene were first described in DLBCL in 2021 by Hübschmann et al [@hubschmannMutationalMechanismsShaping2021].
+Mutations in this gene were first described in DLBCL in 2021 by Hübschmann et al <sup>[@hubschmannMutationalMechanismsShaping2021]</sup>.
 
 
 ## Relevance tier by entity
