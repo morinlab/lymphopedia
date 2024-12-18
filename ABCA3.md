@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @beaLandscapeSomaticMutations2013, @zhangGeneticHeterogeneityDiffuse2013
 ---
 
 [[_TOC_]]
@@ -12,10 +14,6 @@ link-citations: true
 ## Relevance tier by entity
 
 [[include:table1_ABCA3.md]]
-
-|Entity|Tier|Description|
-|:------:|:----:|--------------------------------------|
-|![MCL](images/icons/MCL_tier2.png)|2|relevance in MCL not firmly established[@beaLandscapeSomaticMutations2013]|
 
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
