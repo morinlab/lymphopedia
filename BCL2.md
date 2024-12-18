@@ -19,19 +19,11 @@ Although missense mutations may not be under positive selective pressure in the 
 
 [[include:table1_BCL2.md]]
 
-|Entity|Tier|Description                           |
-|:------:|:----:|--------------------------------------|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1[@balSuperenhancerHypermutationAlters2022]   |high-confidence DLBCL gene            [@tanakaFrequentIncidenceSomatic1992]|
-|![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene| 
-|![PMBL](images/icons/PMBL_tier2.png)|2|relevance in PMBL/cHL/GZL not firmly established[@sarkozyMutationalLandscapeGray2021]|
-|![BL](images/icons/BL_tier2.png)    |2   |relevance in BL not firmly established[@burkhardtClinicalRelevanceMolecular2022]|
-
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
 [[include:DLBCL_BCL2.md]]
 [[include:FL_BCL2.md]]
 [[include:BL_BCL2.md]]
-
 
 ## Mutation pattern and selective pressure estimates
 
@@ -43,7 +35,6 @@ Although missense mutations may not be under positive selective pressure in the 
 |:--------:|:----------:|:--------:|:---------------------------------------------------------------------------------------------:|:------------------:|
 |chr18   |60796984  |60814103|[intron](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr18%3A60796984%2D60814103)|strong_enhancer   |
 |chr18   |60982728  |60988342|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr18%3A60982728%2D60988342)   |active_promoter   |
-
 
 
 ## BCL2 Hotspots
