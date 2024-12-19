@@ -35,7 +35,7 @@ This and other common mutations primarily occur in the immunoreceptor tyrosine-b
 
 ## CD79B Hotspots
 
-Mutations at Y196 enhance B-cell receptor (BCR) signaling by preventing the negative regulatory feedback provided by Lyn kinase, a feedback inhibitor of BCR signaling. This results in continuous activation of the NF-κB pathway, promoting tumor cell survival and proliferation.<sup>[@kimCD79BMYD88Mutations2014]</sup>
+Mutations at Y196 enhance B-cell receptor (BCR) signaling by preventing the negative regulatory feedback provided by Lyn kinase, a feedback inhibitor of BCR signaling. This results in continuous activation of the NF-κB pathway, promoting tumor cell survival and proliferation.[@kimCD79BMYD88Mutations2014]
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |

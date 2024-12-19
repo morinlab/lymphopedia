@@ -9,8 +9,6 @@ link-citations: true
 
 Due to [minimal support](CYP4F22#representative-mutation) in the original primary data, [low expression in BL](CYP4F22#cyp4f22-expression) and no mutations reported in subsequent studies, this gene is very unlikely to be relevant in BL. 
 
-<<Warn("The variants reported in this gene failed QC")>>
-
 
 
 ## Relevance tier by entity
@@ -18,6 +16,10 @@ Due to [minimal support](CYP4F22#representative-mutation) in the original primar
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
 |![BL](images/icons/BL_tier2.png)    |3   |Retired, Failed QC[@loveGeneticLandscapeMutations2012]|
+
+## Warnings
+
+<<Warn("The variants reported in this gene failed QC")>>
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

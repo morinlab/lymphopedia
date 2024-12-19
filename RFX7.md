@@ -5,7 +5,9 @@ link-citations: true
 ---
 [[_TOC_]]
 
-First described as mutated in BL in 2009 by Grande et al.<sup>1</sup>
+## Overview
+
+First described as mutated in BL in 2009 by Grande et al.[@grandeGenomewideDiscoverySomatic2019]
 
 
 ## Relevance tier by entity

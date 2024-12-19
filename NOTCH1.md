@@ -6,8 +6,8 @@ link-citations: true
 [[_TOC_]]
 
 ## Overview
+
 The relevance of NOTCH1 mutations in various malignancies has been well established. However, *due to [minimal support](NOTCH1#representative-mutations) in the original primary data and very few mutations reported in subsequent BL studies, this gene is very unlikely to be relevant in BL.* 
-<<Warn("The variants reported in this gene in BL failed QC")>>
 
 
 
@@ -19,6 +19,10 @@ The relevance of NOTCH1 mutations in various malignancies has been well establis
 |![BL](images/icons/BL_tier2.png)    |3  |Retired, Failed QC[@loveGeneticLandscapeMutations2012]|
 |![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            |
 |![MCL](images/icons/MCL_tier1.png)   |1   |high-confidence MCL gene              |
+
+## Warnings
+
+<<Warn("The variants reported in this gene in BL failed QC")>>
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
@@ -49,7 +53,7 @@ The relevance of NOTCH1 mutations in various malignancies has been well establis
 
 ## Representative Mutations
 
-### BL<sup>3</sup>
+### BL
 
 ![](primary/Love_NOTCH1.svg)
 **Rating**
@@ -57,7 +61,7 @@ The relevance of NOTCH1 mutations in various malignancies has been well establis
 
 ## All Mutations
 
-### BL<sup>3</sup>
+### BL
 
 [1061](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/1061_reports.html)
 [1096](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/1096_reports.html)

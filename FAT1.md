@@ -11,10 +11,7 @@ link-citations: true
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description|
-|:------:|:----:|--------------------------------------|
-|![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene[@spinaGeneticsNodalMarginal2016]|
-|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene[@]|
+[[include:table1_FAT1.md]]
 
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)

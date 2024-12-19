@@ -5,8 +5,6 @@ link-citations: true
 ---
 [[_TOC_]]
 
-<<Warn("The variants reported in this gene in DLBCL failed QC")>>
-
 
 ## Relevance tier by entity
 
@@ -15,6 +13,10 @@ link-citations: true
 |![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene|
 |![DLBCL](images/icons/DLBCL_tier2.png) |3   |Retired, Failed QC [@reddyGeneticFunctionalDrivers2017]|
 |![BL](images/icons/BL_tier1.png)    |1   |high-confidence BL gene                  [@grandeGenomewideDiscoverySomatic2019]|
+
+## Warnings
+
+<<Warn("The variants reported in this gene in DLBCL failed QC")>>
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

@@ -6,7 +6,7 @@ link-citations: true
 [[_TOC_]]
 
 ## Overview
-This gene has some recurrent sites of mutations (hot spots). The mutation pattern in DLBCL and FL implies the preferential accumulation of *inactivating mutations* however the pattern is notable. These mutations often result in truncations affecting the DAZAP1 C-terminus, which are predicted to alter protein sub-cellular localization and disrupt protein-protein interactions.<sup>1</sup>
+This gene has some recurrent sites of mutations (hot spots). The mutation pattern in DLBCL and FL implies the preferential accumulation of *inactivating mutations* however the pattern is notable. These mutations often result in truncations affecting the DAZAP1 C-terminus, which are predicted to alter protein sub-cellular localization and disrupt protein-protein interactions.[@pararajalingamCodingNoncodingDrivers2020]
 
 
 ## Relevance tier by entity

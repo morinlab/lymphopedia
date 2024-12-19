@@ -5,7 +5,9 @@ link-citations: true
 ---
 [[_TOC_]]
 
-Mutations in this gene were first described in DLBCL in 2013 by Morin et al.<sup>1</sup>
+## Overview
+
+Mutations in this gene were first described in DLBCL in 2013 by Morin et al.[@morinMutationalStructuralAnalysis2013]
 
 
 ## Relevance tier by entity

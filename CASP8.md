@@ -8,7 +8,7 @@ link-citations: true
 ## Overview
 
 Caspase-8 mutations are relatively rare but have been documented in various non-Hodgkin lymphomas (NHLs). One study found no CASP8 mutations in gastrointestinal lymphomas, suggesting that these mutations may not be prevalent in all lymphoma types. Due to the rarity of these mutations, their role remains poorly understood. Loss of caspase-8 may promote lymphomagenesis by impairing cytokinesis and increasing chromosomal aberrations.
-Mutations in this gene were first described in DLBCL in 2017 by Reddy et al.<sup>1</sup>
+Mutations in this gene were first described in DLBCL in 2017 by Reddy et al.[@reddyGeneticFunctionalDrivers2017]
 
 
 ## Relevance tier by entity

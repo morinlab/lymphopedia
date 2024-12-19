@@ -6,7 +6,7 @@ link-citations: true
 [[_TOC_]]
 
 ## Overview
-EBF1 is a critical transcription factor in early B-cell development, regulating the expression of key genes involved in B-cell differentiation, survival, and function. EBF1 is essential for proper B-cell receptor (BCR) signaling.<sup>[@gyoryTranscriptionFactorEbf12012]</sup> Mutations in EBF1 can impair BCR signaling pathways, affecting B-cell survival and proliferation.<sup>1</sup> EBF1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus. This gene has some recurrent sites of mutations (hot spots) but the mutation pattern in DLBCL and FL implies the preferential accumulation of *inactivating mutations*.
+EBF1 is a critical transcription factor in early B-cell development, regulating the expression of key genes involved in B-cell differentiation, survival, and function. EBF1 is essential for proper B-cell receptor (BCR) signaling.[@gyoryTranscriptionFactorEbf12012] Mutations in EBF1 can impair BCR signaling pathways, affecting B-cell survival and proliferation.[@gyoryTranscriptionFactorEbf12012] EBF1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus. This gene has some recurrent sites of mutations (hot spots) but the mutation pattern in DLBCL and FL implies the preferential accumulation of *inactivating mutations*.
 
 
 

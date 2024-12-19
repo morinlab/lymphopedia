@@ -44,9 +44,9 @@ Another study demonstrated that specific BTG1 mutations afford germinal center (
 
 ## BTG1 Hotspots
 
-*Q36H* Conditional knock-in mouse models expressing the BTG1 Q36H mutation in B cells have shown that these mutations lead to earlier onset of lymphoma, shorter survival, and dysplastic B cell infiltration into non-lymphoid organs. These findings reinforce the role of BTG1 mutations in enhancing lymphoma aggressiveness.<sup>3</sup>
+*Q36H* Conditional knock-in mouse models expressing the BTG1 Q36H mutation in B cells have shown that these mutations lead to earlier onset of lymphoma, shorter survival, and dysplastic B cell infiltration into non-lymphoid organs. These findings reinforce the role of BTG1 mutations in enhancing lymphoma aggressiveness.[@sarkozyMutationalLandscapeGray2021]
 
-*L26P, G66D, and I115V* Have each been shown to be unable to rescue wild-type BTG1 activity in a xenotransplantation model, suggesting that they impair BTG1 function.<sup>2</sup>
+*L26P, G66D, and I115V* Have each been shown to be unable to rescue wild-type BTG1 activity in a xenotransplantation model, suggesting that they impair BTG1 function.[@mlynarczykBTG1MutationYields2023]
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
  | :---:| :---: | :--: | :---: |

@@ -6,7 +6,7 @@ link-citations: true
 [[_TOC_]]
 
 ## Overview
-KRAS mutations are rare but occur in some cases of DLBCL.<sup>1</sup> These often affect the most common KRAS hotspot sites that are mutated in other solid cancers (G12 and G13).
+KRAS mutations are rare but occur in some cases of DLBCL.[@lohrDiscoveryPrioritizationSomatic2012] These often affect the most common KRAS hotspot sites that are mutated in other solid cancers (G12 and G13).
 
 
 ## Relevance tier by entity

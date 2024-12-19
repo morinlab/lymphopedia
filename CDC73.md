@@ -5,9 +5,9 @@ link-citations: true
 ---
 [[_TOC_]]
 
-<<Warn("The variants reported in this gene in DLBCL failed QC")>>
+## Overview
 
-Mutations in this gene were first described in BL in 2012 by Love et al<sup>1</sup> and subsequently in DLBCL by Reddy et al.<sup>2</sup> Subsequent exome and genome-wide studies of DLBCL and BL did not reproduce these observations. 
+Mutations in this gene were first described in BL in 2012 by Love et al[@loveGeneticLandscapeMutations2012] and subsequently in DLBCL by Reddy et al.[@reddyGeneticFunctionalDrivers2017] Subsequent exome and genome-wide studies of DLBCL and BL did not reproduce these observations. 
 
 
 ## Relevance tier by entity
@@ -16,6 +16,10 @@ Mutations in this gene were first described in BL in 2012 by Love et al<sup>1</s
 |:------:|:----:|-----------------------------------------|
 |![BL](images/icons/BL_tier2.png)    |2   |relevance in BL not firmly established   [@loveGeneticLandscapeMutations2012]|
 |![DLBCL](images/icons/DLBCL_tier2.png) |2   |relevance in DLBCL not firmly established[@reddyGeneticFunctionalDrivers2017]|
+
+## Warnings
+
+<<Warn("The variants reported in this gene in DLBCL failed QC")>>
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

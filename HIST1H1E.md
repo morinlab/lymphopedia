@@ -6,9 +6,9 @@ link-citations: true
 [[_TOC_]]
 
 ## Overview
-This is one of several genes that encode linker histone proteins that are recurrently mutated in DLBCL and FL.<sup>1,2</sup> Mutations are often found in the globular domain of the protein, which is critical for its interaction with DNA and other histone proteins. 
+This is one of several genes that encode linker histone proteins that are recurrently mutated in DLBCL and FL.[@lohrDiscoveryPrioritizationSomatic2012; @krysiakRecurrentSomaticMutations2017] Mutations are often found in the globular domain of the protein, which is critical for its interaction with DNA and other histone proteins. 
 
-Mutations in this gene were first described in DLBCL in 2013 by Morin et al.<sup>3</sup> Mutations were subsequently reported in FL in 2017 by Krysiak et al<sup>4</sup> and in BL by Grande et al.<sup>5</sup> 
+Mutations in this gene were first described in DLBCL in 2013 by Morin et al.[@morinMutationalStructuralAnalysis2013] Mutations were subsequently reported in FL in 2017 by Krysiak et al[@krysiakRecurrentSomaticMutations2017] and in BL by Grande et al.[@grandeGenomewideDiscoverySomatic2019]
 
 
 ## Relevance tier by entity
