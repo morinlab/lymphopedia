@@ -6,7 +6,7 @@ link-citations: true
 [[_TOC_]]
 
 ## Overview
-Although CDKN2A aberrations are common in DLBCL, this gene is predominantly affected by copy number alterations. One study found that deletions of the CDKN2A locus occur in about one-third of DLBCL patients.<sup>1</sup> The mutation pattern in DLBCL and FL implies the preferential accumulation of *inactivating mutations*. This gene has some recurrent sites of mutations (hotspots) with the most common mutation causing a truncation at codon 80 (R80*). 
+Although CDKN2A aberrations are common in DLBCL, this gene is predominantly affected by copy number alterations. One study found that deletions of the CDKN2A locus occur in about one-third of DLBCL patients.[@spinaGeneticsNodalMarginal2016] The mutation pattern in DLBCL and FL implies the preferential accumulation of *inactivating mutations*. This gene has some recurrent sites of mutations (hotspots) with the most common mutation causing a truncation at codon 80 (R80*). 
 
 
 ## Relevance tier by entity
