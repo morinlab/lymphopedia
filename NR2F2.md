@@ -5,8 +5,6 @@ link-citations: true
 ---
 [[_TOC_]]
 
-# NR2F2
-
 
 ## Overview
 

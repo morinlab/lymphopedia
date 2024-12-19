@@ -6,9 +6,9 @@ link-citations: true
 [[_TOC_]]
 
 ## Overview
-Mutations in the GNAI2 gene, which encodes the G protein alpha subunit involved in signal transduction, have been identified as significant contributors to the pathogenesis of B-cell lymphomas, including BL, DLBCL and, to a lesser extent, FL.<sup>1</sup> Mutations in GNAI2, along with GNA13 and other small GTPases, affect the signaling pathways that regulate B-cell homing. These mutations are thought to cause aberrant localization and function of B-cells within lymphoid tissues.<sup>1</sup> The functional role of these mutations has not been studied as extensively as those in GNA13 and further work is needed to elucidate the specific role of these mutations in lymphomagenesis. 
+Mutations in the GNAI2 gene, which encodes the G protein alpha subunit involved in signal transduction, have been identified as significant contributors to the pathogenesis of B-cell lymphomas, including BL, DLBCL and, to a lesser extent, FL.[@grandeGenomewideDiscoverySomatic2019] Mutations in GNAI2, along with GNA13 and other small GTPases, affect the signaling pathways that regulate B-cell homing. These mutations are thought to cause aberrant localization and function of B-cells within lymphoid tissues.[@grandeGenomewideDiscoverySomatic2019] The functional role of these mutations has not been studied as extensively as those in GNA13 and further work is needed to elucidate the specific role of these mutations in lymphomagenesis. 
 
-Mutations were first described in DLBCL in 2013 by Morin et al<sup>1</sup> and in BL in 2019 by Grande et al.<sup>2</sup>
+Mutations were first described in DLBCL in 2013 by Morin et al[@morinMutationalStructuralAnalysis2013] and in BL in 2019 by Grande et al.[@grandeGenomewideDiscoverySomatic2019]
 
 
 ## Relevance tier by entity
