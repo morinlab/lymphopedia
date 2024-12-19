@@ -41,7 +41,7 @@ link-citations: true
 
 ## All Mutations
 
-### DLBCL<sup>2</sup>
+### DLBCL[@hubschmannMutationalMechanismsShaping2021]
 
 [SP192988](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP192988.html)
 [SP193025](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP193025.html)

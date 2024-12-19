@@ -53,7 +53,7 @@ The relevance of NOTCH1 mutations in various malignancies has been well establis
 
 ## Representative Mutations
 
-### BL<sup>3</sup>
+### BL
 
 ![](primary/Love_NOTCH1.svg)
 **Rating**
@@ -61,7 +61,7 @@ The relevance of NOTCH1 mutations in various malignancies has been well establis
 
 ## All Mutations
 
-### BL<sup>3</sup>
+### BL
 
 [1061](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/1061_reports.html)
 [1096](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/1096_reports.html)

@@ -52,13 +52,13 @@ Mutations in this gene were first described in DLBCL in 2013[@zhangGeneticHetero
 
 ## Representative Mutations
 
-### DLBCL<sup>1</sup>
+### DLBCL[@zhangGeneticHeterogeneityDiffuse2013]
 
 ![](primary/Reddy_PIK3R1_1.svg)
 **Rating**
 &starf; &starf; &starf; &star; &star;
 
-### BL<sup>2</sup>
+### BL[@paneaWholeGenomeLandscape2019]
 
 ![](primary/Panea_PIK3R1_1.svg)
 **Rating**

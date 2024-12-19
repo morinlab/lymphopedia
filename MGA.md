@@ -6,7 +6,7 @@ link-citations: true
 [[_TOC_]]
 
 ## Overview
-MGA acts as a transcriptional repressor and interacts with MYC, a well-known oncogene. Mutations in MGA have been described in DLBCL.<sup>1</sup> One study suggested MGA mutations were more common in DLBCLs in patients of African ancestry.<sup>2</sup> The mutation pattern in MGA is consistent with a role as a tumour suppressor gene. 
+MGA acts as a transcriptional repressor and interacts with MYC, a well-known oncogene. Mutations in MGA have been described in DLBCL.[@jalladesExomeSequencingIdentifies2017] One study suggested MGA mutations were more common in DLBCLs in patients of African ancestry.[@reddyGeneticFunctionalDrivers2017] The mutation pattern in MGA is consistent with a role as a tumour suppressor gene. 
 
 
 ## Relevance tier by entity

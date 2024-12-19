@@ -6,7 +6,7 @@ link-citations: true
 [[_TOC_]]
 
 ## Overview
-NFKBIE encodes IκBε, a negative regulator of NF-κB. Mutations in NFKBIE can disrupt this regulatory function, leading to constitutive activation of NF-κB signaling.<sup>1</sup> Mutations are relatively common in DLBCL and MCL.<sup>2</sup> 
+NFKBIE encodes IκBε, a negative regulator of NF-κB. Mutations in NFKBIE can disrupt this regulatory function, leading to constitutive activation of NF-κB signaling.<sup>1</sup> Mutations are relatively common in DLBCL and MCL.[@morinGeneticLandscapesRelapsed2016]
 
 
 

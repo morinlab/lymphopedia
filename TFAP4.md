@@ -5,7 +5,7 @@ link-citations: true
 ---
 [[_TOC_]]
 
-Mutations in BL were first described by Grande et al.<sup>1</sup>
+Mutations in BL were first described by Grande et al.[@grandeGenomewideDiscoverySomatic2019]
 
 
 ## Relevance tier by entity

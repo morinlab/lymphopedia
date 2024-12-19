@@ -43,7 +43,7 @@ link-citations: true
 
 ## Representative Mutations
 
-### BL<sup>1</sup>
+### BL[@paneaWholeGenomeLandscape2019]
 ![](primary/Panea_FZD3_1.svg)
 
 **Rating**
