@@ -6,7 +6,7 @@ link-citations: true
 [[_TOC_]]
 
 ## Overview
-Mutations in the FOXO1 gene, which encodes a member of the forkhead family of transcription factors, play a significant role in diffuse large B-cell lymphoma (DLBCL). Mutations primarily occur in the first exon, with significant portions affecting the N-terminal region and the Forkhead DNA binding domain.[@trinhAnalysisFOXO1Mutations]  These mutations are common in DLBCL, BL and, to a lesser extent, FL.[@schmitzBurkittLymphomaPathogenesis2012; @morinFrequentMutationHistonemodifying2011] FOXO1 mutations can contribute to resistance to certain therapies, such as anti-CD20-based immunotherapies, by repressing MS4A1 (CD20) expression.<sup>4</sup> 
+Mutations in the FOXO1 gene, which encodes a member of the forkhead family of transcription factors, play a significant role in diffuse large B-cell lymphoma (DLBCL). Mutations primarily occur in the first exon, with significant portions affecting the N-terminal region and the Forkhead DNA binding domain.[@trinhAnalysisFOXO1Mutations]  These mutations are common in DLBCL, BL and, to a lesser extent, FL.[@schmitzBurkittLymphomaPathogenesis2012; @morinFrequentMutationHistonemodifying2011] FOXO1 mutations can contribute to resistance to certain therapies, such as anti-CD20-based immunotherapies, by repressing MS4A1 (CD20) expression.[@pyrzynskaFOXO1PromotesResistance2018] 
 
 
 ## Relevance tier by entity
