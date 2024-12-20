@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @dunsCharacterizationDLBCLPMBL2021, @burkhardtClinicalRelevanceMolecular2022, @pasqualucciHypermutationMultipleProtooncogenes2001
 ---
 [[_TOC_]]
 
@@ -11,12 +13,7 @@ PIM1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) 
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description                           |
-|:------:|:----:|--------------------------------------|
-|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene[@dunsCharacterizationDLBCLPMBL2021]|
-|![BL](images/icons/BL_tier2.png)    |2 | aSHM target; Although recurrent, the relevance of mutations in BL is tenuous [@burkhardtClinicalRelevanceMolecular2022]|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1 | aSHM target and high-confidence DLBCL gene            [@pasqualucciHypermutationMultipleProtooncogenes2001]|
-|![FL](images/icons/FL_tier1.png)    |1 | aSHM target and high-confidence FL gene               |
+[[include:table1_PIM1.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
