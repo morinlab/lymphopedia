@@ -13,6 +13,8 @@ Mutations in the FOXO1 gene, which encodes a member of the forkhead family of tr
 
 ## Relevance tier by entity
 
+[[include:table1_FOXO1.md]]
+
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
 |![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene|
