@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @dunsCharacterizationDLBCLPMBL2021, @schmitzBurkittLymphomaPathogenesis2012, @morinFrequentMutationHistonemodifying2011
 ---
 [[_TOC_]]
 
