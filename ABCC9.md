@@ -15,9 +15,6 @@ nocite: |
 
 [[include:table1_ABCC9]]
 
-## Mutation incidence in large patient cohorts (GAMBL reanalysis)
-
-[[include:BL_ABCC9]]
 
 [[include:mermaid_ABCC9.md]]
 
