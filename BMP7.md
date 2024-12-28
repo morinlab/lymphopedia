@@ -12,10 +12,6 @@ nocite: |
 
 [[include:table1_BMP7]]
 
-|Entity|Tier|Description            |
-|:------:|:----:|-----------------------|
-|![BL](images/icons/BL_tier1.png)    |1   |high-confidence BL gene[@paneaWholeGenomeLandscape2019]|
-
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
 [[include:BL_BMP7.md]]
