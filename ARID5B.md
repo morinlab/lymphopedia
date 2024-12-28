@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @reddyGeneticFunctionalDrivers2017, @gomezUltraDeepSequencingReveals2023, @arthurGenomewideDiscoverySomatic2018, @drevalRevisitingReddyDLBCL2023, 
 ---
 
 [[_TOC_]]
