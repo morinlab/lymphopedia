@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @paneaWholeGenomeLandscape2019, @reddyGeneticFunctionalDrivers2017
 ---
 
 [[_TOC_]]
@@ -10,10 +12,7 @@ link-citations: true
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description               |
-|:------:|:----:|--------------------------|
-|![BL](images/icons/BL_tier1.png)    |1 | aSHM target and high-confidence BL gene[@paneaWholeGenomeLandscape2019]   |
-|![DLBCL](images/icons/DLBCL_tier1.png) |1| aSHM target and high-confidence DLBCL gene[@reddyGeneticFunctionalDrivers2017]|
+[[include:table1_HNRNPU]]
 
 ## Mutation incidence
 
