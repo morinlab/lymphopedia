@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @mottokIntegrativeGenomicAnalysis2019, @morinSomaticMutationsAltering2010, @loveGeneticLandscapeMutations2012
 ---
 [[_TOC_]]
 
@@ -21,14 +23,7 @@ Combination therapies including EZH2 inhibitors are also under exploration for D
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description                           |
-|:------:|:----:|--------------------------------------|
-|![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene|
-|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene[@mottokIntegrativeGenomicAnalysis2019]|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene supported by functional data            [@morinSomaticMutationsAltering2010]|
-|![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene supported by functional data               [@morinSomaticMutationsAltering2010]|
-|![BL](images/icons/BL_tier2.png)    |2   |relevance in BL not firmly established[@loveGeneticLandscapeMutations2012]|
-
+[[include:table1_EZH2]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
