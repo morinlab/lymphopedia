@@ -23,11 +23,7 @@ nocite: |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-|Entity|source               |frequency (%)|
-|:------:|:---------------------:|:-------------:|
-|BL    |GAMBL genomes+capture|1.85         |
-|BL    |Thomas cohort        |  NA         |
-|BL    |Panea cohort         |  NA         |
+[[include:BL_EPHB2.md]]
 
 ## Mutation pattern and selective pressure estimates
 
