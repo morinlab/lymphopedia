@@ -13,9 +13,7 @@ KLHL14 (Kelch-like family member 14) is a gene that has been identified as playi
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description               |
-|:------:|:----:|--------------------------|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene[@zhangGeneticHeterogeneityDiffuse2013; @reddyGeneticFunctionalDrivers2017; @schmitzGeneticsPathogenesisDiffuse2018]|
+[[include:table1_KLHL14.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

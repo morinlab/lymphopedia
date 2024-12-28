@@ -13,9 +13,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description|
-|:------:|:----:|--------------------------------------|
-|![MZL](images/icons/MZL_tier2.png)|2|relevance in MZL not firmly established[@spinaGeneticsNodalMarginal2016]|
+[[include:table1_LRP1B.md]]
 
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)

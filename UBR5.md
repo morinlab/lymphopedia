@@ -15,11 +15,7 @@ Mutations in this gene were first described in DLBCL in 2013[@zhangGeneticHetero
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description                              |
-|:------:|:----:|-----------------------------------------|
-|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene|
-|![DLBCL](images/icons/DLBCL_tier2.png) |2   |relevance in DLBCL not firmly established[@zhangGeneticHeterogeneityDiffuse2013]|
-|![MCL](images/icons/MCL_tier1.png)   |1   |high-confidence MCL gene                 [@pararajalingamCodingNoncodingDrivers2020]|
+[[include:table1_UBR5.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

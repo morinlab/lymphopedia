@@ -17,12 +17,7 @@ In mouse models, Fas mutations led to a significantly shorter lymphoma-specific 
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description                           |
-|:------:|:----:|--------------------------------------|
-|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene|
-|![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene[@spinaGeneticsNodalMarginal2016]|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            [@schollMutationsRegionFAS2007]|
-|![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene               |
+[[include:table1_FAS.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

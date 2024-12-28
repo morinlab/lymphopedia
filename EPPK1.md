@@ -11,9 +11,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description            |
-|:------:|:----:|-----------------------|
-|![BL](images/icons/BL_tier1.png)    |2   |low-confidence BL gene[@paneaWholeGenomeLandscape2019]|
+[[include:table1_EPPK1.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

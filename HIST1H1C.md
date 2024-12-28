@@ -15,12 +15,7 @@ This is one of several genes that encode linker histone proteins that are recurr
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description                           |
-|:------:|:----:|--------------------------------------|
-|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            [@morinFrequentMutationHistonemodifying2011]|
-|![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene               [@morinFrequentMutationHistonemodifying2011]|
-|![BL](images/icons/BL_tier2.png)    |3   |Retired, Failed QC[@paneaWholeGenomeLandscape2019]]|
+[[include:table1_HIST1H1C.md]]
 
 ## Warnings
 

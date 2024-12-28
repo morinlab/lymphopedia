@@ -13,12 +13,7 @@ LTB (Lymphotoxin Beta) is a member of the tumor necrosis factor (TNF) superfamil
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description                           |
-|:------:|:----:|--------------------------------------|
-|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene[@deschGenotypingCirculatingTumor2020]|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1 | aSHM target and high-confidence DLBCL gene            [@chapuyMolecularSubtypesDiffuse2018]|
-|![FL](images/icons/FL_tier1.png)    |1 | aSHM target and high-confidence FL gene               |
-|![BL](images/icons/BL_tier2.png)    |2 | aSHM target; Although recurrent, the relevance of mutations in BL is tenuous [@paneaWholeGenomeLandscape2019]|
+[[include:table1_LTB.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

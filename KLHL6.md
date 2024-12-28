@@ -14,11 +14,7 @@ KLHL6 is considered a tumor suppressor gene in DLBCL with mutations tending to d
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description                           |
-|:------:|:----:|--------------------------------------|
-|![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene[@ganapathiGeneticLandscapeDural2016]|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1 | aSHM target and high-confidence DLBCL gene            [@morinFrequentMutationHistonemodifying2011]|
-|![FL](images/icons/FL_tier1.png)    |1 | aSHM target and high-confidence FL gene               [@morinFrequentMutationHistonemodifying2011]|
+[[include:table1_KLHL6.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

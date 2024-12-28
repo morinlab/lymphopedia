@@ -10,11 +10,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description                              |
-|:------:|:----:|-----------------------------------------|
-|![PMBL](images/icons/PMBL_tier2.png)|2|relevance in PMBL/cHL/GZL not firmly established[@dunsCharacterizationDLBCLPMBL2021]|
-|![MZL](images/icons/MZL_tier2.png)|2|relevance in MZL not firmly established|
-|![DLBCL](images/icons/DLBCL_tier2.png) |2 | aSHM target; Although recurrent, the relevance of mutations in DLBCL is tenuous [@arthurGenomewideDiscoverySomatic2018]|
+[[include:table1_RFTN1.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

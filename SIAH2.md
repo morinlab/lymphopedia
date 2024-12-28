@@ -10,10 +10,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description                              |
-|:------:|:----:|-----------------------------------------|
-|![PMBL](images/icons/PMBL_tier2.png)|2|relevance in PMBL/cHL/GZL not firmly established[@reichelFlowSortingExome2015]|
-|![DLBCL](images/icons/DLBCL_tier2.png) |2   |relevance in DLBCL not firmly established[@hubschmannMutationalMechanismsShaping2021]|
+[[include:table1_SIAH2.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

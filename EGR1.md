@@ -13,11 +13,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description|
-|:------:|:----:|--------------------------------------|
-|![FL](images/icons/FL_tier2.png)|2|relevance in FL not firmly established[@krysiakRecurrentSomaticMutations2017]|
-|![MZL](images/icons/MZL_tier2.png)|2|relevance in MZL not firmly established[@rossiCodingGenomeSplenic2012]|
-|![PMBL](images/icons/PMBL_tier2.png)|2|relevance in PMBL/cHL/GZL not firmly established[@reichelFlowSortingExome2015]|
+[[include:table1_EGR1.md]]
 
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)

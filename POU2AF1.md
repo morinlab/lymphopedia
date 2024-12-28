@@ -13,11 +13,7 @@ POU2AF1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ash
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description               |
-|:------:|:----:|--------------------------|
-|![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene, hypermutated[@chapuyMolecularSubtypesDiffuse2018]|
-|![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene, hypermutated   [@krysiakRecurrentSomaticMutations2017]|
+[[include:table1_POU2AF1.md]]
 
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)

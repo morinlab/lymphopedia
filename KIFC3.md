@@ -14,9 +14,7 @@ Due to [minimal support](KIFC3#representative-mutations) in the original primary
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description                           |
-|:------:|:----:|--------------------------------------|
-|![BL](images/icons/BL_tier2.png)    |3  |Retired, Failed QC[@loveGeneticLandscapeMutations2012]|
+[[include:table1_KIFC3.md]]
 
 ## Warnings
 

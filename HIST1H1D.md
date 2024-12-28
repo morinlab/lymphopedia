@@ -14,12 +14,7 @@ Mutations are often found in the globular domain of the protein, which is critic
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description                           |
-|:------:|:----:|--------------------------------------|
-|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene|
-|![MZL](images/icons/MZL_tier2.png)|2|relevance in MZL not firmly established[@jalladesExomeSequencingIdentifies2017]|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            [@morinMutationalStructuralAnalysis2013; @chapuyMolecularSubtypesDiffuse2018]|
-|![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene               [@krysiakRecurrentSomaticMutations2017]|
+[[include:table1_HIST1H1D.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

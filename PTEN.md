@@ -10,10 +10,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description               |
-|:------:|:----:|--------------------------|
-|![BL](images/icons/BL_tier1.png)    |1   |high-confidence BL gene   [@loveGeneticLandscapeMutations2012]|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene[@reddyGeneticFunctionalDrivers2017; @chapuyMolecularSubtypesDiffuse2018]|
+[[include:table1_PTEN.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

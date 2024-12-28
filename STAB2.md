@@ -10,9 +10,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description                           |
-|:------:|:----:|--------------------------------------|
-|![FL](images/icons/FL_tier2.png)    |2   |relevance in FL not firmly established[@russler-germainMutationsAssociatedProgression2023]|
+[[include:table1_STAB2.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

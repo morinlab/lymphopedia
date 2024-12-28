@@ -16,9 +16,7 @@ Further research is needed to elucidate its specific role in DLBCL.
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description                           |
-|:------:|:----:|--------------------------------------|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            [@pasqualucciAnalysisCodingGenome2011]|
+[[include:table1_GRB2.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

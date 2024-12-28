@@ -16,10 +16,7 @@ In relapsed DLBCLs, MS4A1 is sometimes mutated and these mutations have been sho
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description               |
-|:------:|:----:|--------------------------|
-|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene[@mottokIntegrativeGenomicAnalysis2019]|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1 | aSHM target and high-confidence DLBCL gene[@rushtonGeneticEvolutionaryPatterns2020]|
+[[include:table1_MS4A1.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

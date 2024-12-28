@@ -11,9 +11,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description             |
-|:------:|:----:|------------------------|
-|![MCL](images/icons/MCL_tier1.png)   |1   |high-confidence MCL gene[@zhangGenomicLandscapeMantle2014]|
+[[include:table1_POT1.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

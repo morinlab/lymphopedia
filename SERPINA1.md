@@ -13,9 +13,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description|
-|:------:|:----:|--------------------------------------|
-|![DLBCL](images/icons/DLBCL_tier2.png)|2|relevance in DLBCL not firmly established[@pasqualucciAnalysisCodingGenome2011]|
+[[include:table1_SERPINA1.md]]
 
 
 

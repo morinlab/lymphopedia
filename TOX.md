@@ -10,9 +10,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description                           |
-|:------:|:----:|--------------------------------------|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            [@reddyGeneticFunctionalDrivers2017; @schmitzGeneticsPathogenesisDiffuse2018; @chapuyMolecularSubtypesDiffuse2018; @hubschmannMutationalMechanismsShaping2021]|
+[[include:table1_TOX.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

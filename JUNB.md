@@ -15,10 +15,7 @@ JUNB has been reported to be frequently mutated in T-cell/histiocyte-rich large 
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description               |
-|:------:|:----:|--------------------------|
-|![PMBL](images/icons/PMBL_tier2.png)|2|relevance in PMBL/cHL/GZL not firmly established[@mottokIntegrativeGenomicAnalysis2019]|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene[@reddyGeneticFunctionalDrivers2017; @hubschmannMutationalMechanismsShaping2021]|
+[[include:table1_JUNB.md]]
 
 ## Warnings
 

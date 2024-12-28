@@ -16,13 +16,7 @@ Overall, components of SWI/SNF have been identified as an emerging theme in germ
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description               |
-|:------:|:----:|--------------------------|
-|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene|
-|![BL](images/icons/BL_tier1.png)    |1[@dengSMARCA4HaploinsufficientCell2024]   |high-confidence BL gene   [@richterRecurrentMutationID32012]|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1[@dengSMARCA4HaploinsufficientCell2024]   |high-confidence DLBCL gene[@lohrDiscoveryPrioritizationSomatic2012]|
-|![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene   [@krysiakRecurrentSomaticMutations2017]|
-|![MCL](images/icons/MCL_tier1.png)   |1   |high-confidence MCL gene  [@nadeuGenomicEpigenomicInsights2020]|
+[[include:table1_SMARCA4.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

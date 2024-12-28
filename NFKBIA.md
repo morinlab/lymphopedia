@@ -13,11 +13,7 @@ NFKBIA encodes IκBα, an inhibitor of NF-κB, which regulates the NF-κB signal
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description                           |
-|:------:|:----:|--------------------------------------|
-|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene[@wienandGenomicAnalysesFlowsorted2019]|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            [@lakeMutationsNFKBIAEncoding2009]|
-|![FL](images/icons/FL_tier2.png)    |2   |relevance in FL not firmly established[@russler-germainMutationsAssociatedProgression2023]|
+[[include:table1_NFKBIA.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

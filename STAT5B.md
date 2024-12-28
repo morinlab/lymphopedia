@@ -15,10 +15,7 @@ Mutations in this gene were first described in DLBCL in 2013[@zhangGeneticHetero
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description                              |
-|:------:|:----:|-----------------------------------------|
-|![PMBL](images/icons/PMBL_tier2.png)|2|relevance in PMBL/cHL/GZL not firmly established[@tiacciPervasiveMutationsJAKSTAT2018]|
-|![DLBCL](images/icons/DLBCL_tier2.png) |2   |relevance in DLBCL not firmly established[@zhangGeneticHeterogeneityDiffuse2013]|
+[[include:table1_STAT5B.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

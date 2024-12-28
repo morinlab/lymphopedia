@@ -16,9 +16,7 @@ In leukemias, FBXW7 mutations enhance the activity of leukemia-initiating cells 
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description               |
-|:------:|:----:|--------------------------|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene[@zhangGeneticHeterogeneityDiffuse2013; @reddyGeneticFunctionalDrivers2017; @hubschmannMutationalMechanismsShaping2021]|
+[[include:table1_FBXW7.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

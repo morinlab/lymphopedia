@@ -13,10 +13,7 @@ IKZF3 (IKAROS family zinc finger 3, also known as AIOLOS) is a transcription fac
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description                           |
-|:------:|:----:|--------------------------------------|
-|![BL](images/icons/BL_tier2.png)    |2 | aSHM target; Although recurrent, the relevance of mutations in BL is tenuous [@paneaWholeGenomeLandscape2019]|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1 | aSHM target and high-confidence DLBCL gene            [@morinMutationalStructuralAnalysis2013]|
+[[include:table1_IKZF3.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

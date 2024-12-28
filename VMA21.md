@@ -9,9 +9,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description            |
-|:------:|:----:|-----------------------|
-|![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene[@hubschmannMutationalMechanismsShaping2021]|
+[[include:table1_VMA21.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

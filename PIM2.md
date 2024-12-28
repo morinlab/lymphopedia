@@ -14,10 +14,7 @@ PIM2 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) 
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description               |
-|:------:|:----:|--------------------------|
-|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene[@reichelFlowSortingExome2015]|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1 | aSHM target and high-confidence DLBCL gene[@reddyGeneticFunctionalDrivers2017; @schmitzGeneticsPathogenesisDiffuse2018; @arthurGenomewideDiscoverySomatic2018]|
+[[include:table1_PIM2.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

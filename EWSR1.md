@@ -10,10 +10,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description             |
-|:------:|:----:|------------------------|
-|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene|
-|![MCL](images/icons/MCL_tier1.png)   |1   |high-confidence MCL gene[@pararajalingamCodingNoncodingDrivers2020]|
+[[include:table1_EWSR1.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

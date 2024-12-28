@@ -13,9 +13,7 @@ LCOR (Ligand Dependent Nuclear Receptor Corepressor) is involved in the regulati
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description                           |
-|:------:|:----:|--------------------------------------|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            [@arthurGenomewideDiscoverySomatic2018]|
+[[include:table1_LCOR.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

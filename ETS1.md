@@ -18,11 +18,7 @@ The mutation pattern in DLBCL implies the preferential accumulation of *inactiva
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description                           |
-|:------:|:----:|--------------------------------------|
-|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1 | aSHM target and high-confidence DLBCL gene            [@morinFrequentMutationHistonemodifying2011]|
-|![BL](images/icons/BL_tier2.png)    |3 | Retired, Failed QC[@paneaWholeGenomeLandscape2019]|
+[[include:table1_ETS1.md]]
 
 ## Warnings
 

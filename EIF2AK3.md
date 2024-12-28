@@ -9,9 +9,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description                              |
-|:------:|:----:|-----------------------------------------|
-|![DLBCL](images/icons/DLBCL_tier2.png) |2   |relevance in DLBCL not firmly established|
+[[include:table1_EIF2AK3.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

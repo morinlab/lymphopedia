@@ -13,9 +13,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description                           |
-|:------:|:----:|--------------------------------------|
-|![BL](images/icons/BL_tier2.png)    |2   | Failed QC[@loveGeneticLandscapeMutations2012]|
+[[include:table1_EIF2C4.md]]
 
 ## Warnings
 

@@ -10,11 +10,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description                              |
-|:------:|:----:|-----------------------------------------|
-|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene[@ottoGeneticLesionsTRAF32012]|
-|![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene[@rossiAlterationBIRC3Multiple2011]|
-|![DLBCL](images/icons/DLBCL_tier2.png) |2   |relevance in DLBCL not firmly established[@pasqualucciAnalysisCodingGenome2011]|
+[[include:table1_TRAF3.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

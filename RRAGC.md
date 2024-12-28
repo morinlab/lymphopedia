@@ -10,10 +10,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description               |
-|:------:|:----:|--------------------------|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene[@reddyGeneticFunctionalDrivers2017;@hubschmannMutationalMechanismsShaping2021]|
-|![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene  [@okosunRecurrentMTORC1activatingRRAGC2016] |
+[[include:table1_RRAGC.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

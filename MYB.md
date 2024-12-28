@@ -11,10 +11,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description                              |
-|:------:|:----:|-----------------------------------------|
-|![PMBL](images/icons/PMBL_tier2.png)|2|relevance in PMBL/cHL/GZL not firmly established[@deschGenotypingCirculatingTumor2020]|
-|![DLBCL](images/icons/DLBCL_tier2.png) |3   |Retired, Failed QC|
+[[include:table1_MYB.md]]
 
 ## Warnings
 

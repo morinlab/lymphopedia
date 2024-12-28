@@ -13,9 +13,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description|
-|:------:|:----:|--------------------------------------|
-|![PMBL](images/icons/PMBL_tier2.png)|2|relevance in PMBL/cHL/GZL not firmly established[@mottokIntegrativeGenomicAnalysis2019]|
+[[include:table1_EPHA7.md]]
 
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)

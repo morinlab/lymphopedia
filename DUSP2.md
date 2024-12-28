@@ -19,11 +19,7 @@ The mutation pattern in DLBCL implies the preferential accumulation of *inactiva
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description                           |
-|:------:|:----:|--------------------------------------|
-|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene[@dunsCharacterizationDLBCLPMBL2021]|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1 | aSHM target and high-confidence DLBCL gene            [@morinMutationalStructuralAnalysis2013; @lohrDiscoveryPrioritizationSomatic2012]|
-|![FL](images/icons/FL_tier2.png)    |2 | aSHM target; Although recurrent, the relevance of mutations in FL is tenuous |
+[[include:table1_DUSP2.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

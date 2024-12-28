@@ -10,10 +10,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description               |
-|:------:|:----:|--------------------------|
-|![MZL](images/icons/MZL_tier2.png)|2|relevance in MZL not firmly established[@rossiCodingGenomeSplenic2012]|
-|![DLBCL](images/icons/DLBCL_tier1.png) |3   |Retired for DLBCL[@zhangGeneticHeterogeneityDiffuse2013]|
+[[include:table1_TRRAP.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

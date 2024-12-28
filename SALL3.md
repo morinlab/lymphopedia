@@ -11,10 +11,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description                            |
-|:------:|:----:|---------------------------------------|
-|![BL](images/icons/BL_tier2.png)    |3   |Retired, Failed QC[@loveGeneticLandscapeMutations2012]|
-|![MCL](images/icons/MCL_tier2.png)   |2   |relevance in MCL not firmly established[@zhangGenomicLandscapeMantle2014]|
+[[include:table1_SALL3.md]]
 
 ## Warnings
 

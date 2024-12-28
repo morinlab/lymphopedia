@@ -14,12 +14,7 @@ This gene has been reported to be recurrently mutated in DLBCL. The rate of muta
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description                            |
-|:------:|:----:|---------------------------------------|
-|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene[@sarkozyMutationalLandscapeGray2021]|
-|![BL](images/icons/BL_tier2.png)    |2   |relevance in BL not firmly established [@zhouSporadicEndemicBurkitt2019]|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene             [@zhangGeneticHeterogeneityDiffuse2013; @reddyGeneticFunctionalDrivers2017]|
-|![MCL](images/icons/MCL_tier2.png)   |2   |relevance in MCL not firmly established[@zhangGenomicLandscapeMantle2014]|
+[[include:table1_KMT2C.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

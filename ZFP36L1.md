@@ -13,12 +13,7 @@ ZFP36L1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ash
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description                           |
-|:------:|:----:|--------------------------------------|
-|![MCL](images/icons/MCL_tier2.png)|2|relevance in MCL not firmly established|
-|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene[@reichelFlowSortingExome2015]|
-|![BL](images/icons/BL_tier2.png)    |2 | aSHM target; Although recurrent, the relevance of mutations in BL is tenuous [@paneaWholeGenomeLandscape2019]|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1 | aSHM target and high-confidence DLBCL gene            [@morinFrequentMutationHistonemodifying2011]|
+[[include:table1_ZFP36L1.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

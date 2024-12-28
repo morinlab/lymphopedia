@@ -13,10 +13,7 @@ HVCN1, a voltage-gated proton channel, has been identified as recurrently mutate
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description                           |
-|:------:|:----:|--------------------------------------|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            |
-|![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene               [@krysiakRecurrentSomaticMutations2017]|
+[[include:table1_HVCN1.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

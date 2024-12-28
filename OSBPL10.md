@@ -13,9 +13,7 @@ OSBPL10 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ash
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description                           |
-|:------:|:----:|--------------------------------------|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1 | aSHM target and high-confidence DLBCL gene            [@zhangGeneticHeterogeneityDiffuse2013; @arthurGenomewideDiscoverySomatic2018; @schmitzGeneticsPathogenesisDiffuse2018]|
+[[include:table1_OSBPL10.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

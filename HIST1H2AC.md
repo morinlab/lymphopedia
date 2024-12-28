@@ -14,10 +14,7 @@ This gene encodes the H2A protein, one of the core proteins comprising nucleosom
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description               |
-|:------:|:----:|--------------------------|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene[@morinMutationalStructuralAnalysis2013; @chapuyMolecularSubtypesDiffuse2018; @hubschmannMutationalMechanismsShaping2021]|
-|![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene   [@krysiakRecurrentSomaticMutations2017]|
+[[include:table1_HIST1H2AC.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

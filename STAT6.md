@@ -15,12 +15,7 @@ The STAT6 gene, which encodes a transcription factor involved in the JAK-STAT si
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description                           |
-|:------:|:----:|--------------------------------------|
-|![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene|
-|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene[@ritzRecurrentMutationsSTAT62009]|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            [@yildizActivatingSTAT6Mutations2015]|
-|![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene               [@yildizActivatingSTAT6Mutations2015]|
+[[include:table1_STAT6.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

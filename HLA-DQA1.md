@@ -15,9 +15,7 @@ Mutations in this gene were first described in DLBCL and FL in 2021 by Hübschma
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description               |
-|:------:|:----:|--------------------------|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene[@hubschmannMutationalMechanismsShaping2021]|
+[[include:table1_HLA-DQA1.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

@@ -12,9 +12,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description                           |
-|:------:|:----:|--------------------------------------|
-|![BL](images/icons/BL_tier2.png)    |3   |Retired, Failed QC[@paneaWholeGenomeLandscape2019]|
+[[include:table1_PCDHA11.md]]
 
 ## Warnings
 

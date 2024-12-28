@@ -10,10 +10,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description                              |
-|:------:|:----:|-----------------------------------------|
-|![DLBCL](images/icons/DLBCL_tier2.png) |2   |relevance in DLBCL not firmly established[@chapuyMolecularSubtypesDiffuse2018]|
-|![MCL](images/icons/MCL_tier1.png)   |1   |high-confidence MCL gene                 [@beaLandscapeSomaticMutations2013]|
+[[include:table1_TLR2.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

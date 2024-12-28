@@ -16,11 +16,7 @@ Thus far, there is limited information about the consequence of MEF2B mutations 
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description                           |
-|:------:|:----:|--------------------------------------|
-|![MCL](images/icons/MCL_tier2.png)|2|relevance in MCL not firmly established[@beaLandscapeSomaticMutations2013]|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1 | high-confidence DLBCL gene            [@morinFrequentMutationHistonemodifying2011]|
-|![FL](images/icons/FL_tier1.png)    |1 | high-confidence FL gene               [@morinFrequentMutationHistonemodifying2011]|
+[[include:table1_MEF2B.md]]
 
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)

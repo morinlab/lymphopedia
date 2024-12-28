@@ -13,9 +13,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description|
-|:------:|:----:|--------------------------------------|
-|![BL](images/icons/BL_tier2.png)|2|relevance in BL not firmly established[@schmitzBurkittLymphomaPathogenesis2012]|
+[[include:table1_KANK2.md]]
 
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)

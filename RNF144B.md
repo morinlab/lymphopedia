@@ -10,9 +10,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description                           |
-|:------:|:----:|--------------------------------------|
-|![BL](images/icons/BL_tier2.png)    |2 | aSHM target; Although recurrent, the relevance of mutations in BL is tenuous [@paneaWholeGenomeLandscape2019]|
+[[include:table1_RNF144B.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

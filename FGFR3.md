@@ -16,9 +16,7 @@ Due to [minimal support](FGFR3#representative-mutation) in the original primary 
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description                           |
-|:------:|:----:|--------------------------------------|
-|![BL](images/icons/BL_tier2.png)    |3   |Retired, Failed QC[@loveGeneticLandscapeMutations2012]|
+[[include:table1_FGFR3.md]]
 
 ## Warnings
 

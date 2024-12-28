@@ -10,11 +10,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description                           |
-|:------:|:----:|--------------------------------------|
-|![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene[@yanBCRTLRSignaling2012]|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            [@ngoOncogenicallyActiveMYD882011]|
-|![FL](images/icons/FL_tier2.png)    |2   |relevance in FL not firmly established|
+[[include:table1_MYD88.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

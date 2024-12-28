@@ -10,12 +10,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description                           |
-|:------:|:----:|--------------------------------------|
-|![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene[@rossiCodingGenomeSplenic2012]|
-|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            [@lohrDiscoveryPrioritizationSomatic2012; @morinMutationalStructuralAnalysis2013]|
-|![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene               |
+[[include:table1_TBL1XR1.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

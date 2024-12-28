@@ -10,10 +10,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description                           |
-|:------:|:----:|--------------------------------------|
-|![BL](images/icons/BL_tier2.png)    |2   |relevance in BL not firmly established[@paneaWholeGenomeLandscape2019]|
-|![FL](images/icons/FL_tier2.png)    |2   |relevance in FL not firmly established[@krysiakRecurrentSomaticMutations2017]|
+[[include:table1_HIST1H3I.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

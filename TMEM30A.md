@@ -10,10 +10,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description                           |
-|:------:|:----:|--------------------------------------|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            [@morinFrequentMutationHistonemodifying2011; @zhangGeneticHeterogeneityDiffuse2013; @morinMutationalStructuralAnalysis2013]|
-|![FL](images/icons/FL_tier2.png)    |2   |relevance in FL not firmly established[@morinFrequentMutationHistonemodifying2011]|
+[[include:table1_TMEM30A.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

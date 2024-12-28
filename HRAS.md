@@ -11,10 +11,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description                              |
-|:------:|:----:|-----------------------------------------|
-|![MZL](images/icons/MZL_tier2.png)|2|relevance in MZL not firmly established[@jalladesExomeSequencingIdentifies2017]|
-|![DLBCL](images/icons/DLBCL_tier2.png) |3   |Retired, Failed QC[@reddyGeneticFunctionalDrivers2017]|
+[[include:table1_HRAS.md]]
 
 ## Warnings
 

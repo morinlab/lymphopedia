@@ -12,11 +12,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description                           |
-|:------:|:----:|--------------------------------------|
-|![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene[@spinaGeneticsNodalMarginal2016] |
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene[@morinFrequentMutationHistonemodifying2011]            |
-|![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene[@cheungAcquiredTNFRSF14Mutations2010]               |
+[[include:table1_TNFRSF14.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

@@ -14,10 +14,7 @@ First described as mutated in BL in 2009 by Grande et al.[@grandeGenomewideDisco
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description               |
-|:------:|:----:|--------------------------|
-|![BL](images/icons/BL_tier1.png)    |1   |high-confidence BL gene   [@grandeGenomewideDiscoverySomatic2019]|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene[@arthurGenomewideDiscoverySomatic2018]|
+[[include:table1_RFX7.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

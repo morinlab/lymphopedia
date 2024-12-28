@@ -10,11 +10,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description               |
-|:------:|:----:|--------------------------|
-|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene|
-|![BL](images/icons/BL_tier1.png)    |1   |high-confidence BL gene   [@richterRecurrentMutationID32012]|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene[@zhangGeneticHeterogeneityDiffuse2013; @reddyGeneticFunctionalDrivers2017; @chapuyMolecularSubtypesDiffuse2018]|
+[[include:table1_RHOA.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

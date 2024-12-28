@@ -10,9 +10,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description                           |
-|:------:|:----:|--------------------------------------|
-|![BL](images/icons/BL_tier2.png)    |2   |relevance in BL not firmly established[@burkhardtClinicalRelevanceMolecular2022]|
+[[include:table1_PREX1.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

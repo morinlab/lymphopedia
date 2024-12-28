@@ -13,10 +13,7 @@ Mutations in IL4R have been identified in various types of B-cell lymphomas, par
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description               |
-|:------:|:----:|--------------------------|
-|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene[@viganoSomaticIL4RMutations2018]|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1 | aSHM target and high-confidence DLBCL gene[@dunsCharacterizationDLBCLPMBL2021]|
+[[include:table1_IL4R.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

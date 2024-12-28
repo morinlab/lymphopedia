@@ -10,9 +10,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description                            |
-|:------:|:----:|---------------------------------------|
-|![MCL](images/icons/MCL_tier2.png)   |2   |relevance in MCL not firmly established[@zhangGenomicLandscapeMantle2014]|
+[[include:table1_TBC1D26.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

@@ -10,9 +10,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description                           |
-|:------:|:----:|--------------------------------------|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            [@pasqualucciInactivationPRDM1BLIMP12006; @zhangGeneticHeterogeneityDiffuse2013; @morinMutationalStructuralAnalysis2013; @reddyGeneticFunctionalDrivers2017]|
+[[include:table1_PRDM1.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

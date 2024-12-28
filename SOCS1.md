@@ -10,12 +10,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description                           |
-|:------:|:----:|--------------------------------------|
-|![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene|
-|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene[@wenigerMutationsTumorSuppressor2006]|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1 | aSHM target and high-confidence DLBCL gene            [@morinFrequentMutationHistonemodifying2011; @lohrDiscoveryPrioritizationSomatic2012; @zhangGeneticHeterogeneityDiffuse2013; @morinMutationalStructuralAnalysis2013]|
-|![FL](images/icons/FL_tier1.png)    |1 | aSHM target and high-confidence FL gene               |
+[[include:table1_SOCS1.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

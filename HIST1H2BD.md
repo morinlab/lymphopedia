@@ -10,9 +10,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description            |
-|:------:|:----:|-----------------------|
-|![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene[@krysiakRecurrentSomaticMutations2017]|
+[[include:table1_HIST1H2BD.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

@@ -12,9 +12,7 @@ HLA-DMB, along with HLA-DMA, plays a critical role in the proper functioning of 
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description                           |
-|:------:|:----:|--------------------------------------|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            |
+[[include:table1_HLA-DMB.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

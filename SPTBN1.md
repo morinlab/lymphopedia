@@ -13,9 +13,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description|
-|:------:|:----:|--------------------------------------|
-|![DLBCL](images/icons/DLBCL_tier3.png)|3|relevance in DLBCL not firmly established[@zhangGeneticHeterogeneityDiffuse2013]|
+[[include:table1_SPTBN1.md]]
 
 
 

@@ -13,9 +13,7 @@ KRAS mutations are rare but occur in some cases of DLBCL.[@lohrDiscoveryPrioriti
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description               |
-|:------:|:----:|--------------------------|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene[@lohrDiscoveryPrioritizationSomatic2012]|
+[[include:table1_KRAS.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

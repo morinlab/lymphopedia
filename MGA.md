@@ -13,10 +13,7 @@ MGA acts as a transcriptional repressor and interacts with MYC, a well-known onc
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description               |
-|:------:|:----:|--------------------------|
-|![MZL](images/icons/MZL_tier2.png)|2|relevance in MZL not firmly established[@jalladesExomeSequencingIdentifies2017]|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene[@reddyGeneticFunctionalDrivers2017]|
+[[include:table1_MGA.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

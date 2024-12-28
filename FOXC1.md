@@ -12,9 +12,7 @@ FOXC1 is a transcription factor that regulates genes involved in cell growth, di
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description               |
-|:------:|:----:|--------------------------|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene[@schmitzGeneticsPathogenesisDiffuse2018]|
+[[include:table1_FOXC1.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
