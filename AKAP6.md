@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @tiacciPervasiveMutationsJAKSTAT2018, 
 ---
 
 [[_TOC_]]
@@ -11,9 +13,7 @@ link-citations: true
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description|
-|:------:|:----:|--------------------------------------|
-|![PMBL](images/icons/PMBL_tier2.png)|2|relevance in PMBL/cHL/GZL not firmly established[@tiacciPervasiveMutationsJAKSTAT2018]|
+[[include:table1_AKAP6]]
 
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
