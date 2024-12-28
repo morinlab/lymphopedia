@@ -14,16 +14,9 @@ nocite: |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-|Entity|source               |frequency (%)|
-|:------:|:---------------------:|:-------------:|
-|BL    |GAMBL genomes+capture|26.33        |
-|BL    |Thomas cohort        |25.00        |
-|BL    |Panea cohort         |23.80        |
-|DLBCL |GAMBL genomes        |41.49        |
-|DLBCL |Schmitz cohort       |35.96        |
-|DLBCL |Reddy cohort         |16.12        |
-|DLBCL |Chapuy cohort        | 8.97        |
-|FL    |GAMBL genomes        |35.33        |
+[[include:DLBCL_IGLL5]]
+[[include:BL_IGLL5]]
+[[include:FL_IGLL5]]
 
 ## Mutation pattern and selective pressure estimates
 
