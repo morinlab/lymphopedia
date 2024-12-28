@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @chapuyMolecularSubtypesDiffuse2018, @arthurGenomewideDiscoverySomatic2018, 
 ---
 [[_TOC_]]
 

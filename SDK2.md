@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @novakWholeexomeAnalysisReveals2015, 
 ---
 
 [[_TOC_]]

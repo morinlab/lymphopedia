@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @jardinRecurrentMutationsExportin2016, @mareschalWholeExomeSequencing2016, @reddyGeneticFunctionalDrivers2017, 
 ---
 
 [[_TOC_]]

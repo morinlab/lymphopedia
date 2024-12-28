@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @reddyGeneticFunctionalDrivers2017, @pararajalingamCodingNoncodingDrivers2020, @zhangGeneticHeterogeneityDiffuse2013, 
 ---
 [[_TOC_]]
 

@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @yildizActivatingSTAT6Mutations2015, @ritzRecurrentMutationsSTAT62009, @morinGeneticLandscapesRelapsed2016, 
 ---
 # STAT6
 

@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @russler-germainMutationsAssociatedProgression2023, 
 ---
 [[_TOC_]]
 

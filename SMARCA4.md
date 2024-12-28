@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @richterRecurrentMutationID32012, @dengSMARCA4HaploinsufficientCell2024, @lohrDiscoveryPrioritizationSomatic2012, @krysiakRecurrentSomaticMutations2017, @nadeuGenomicEpigenomicInsights2020, @lunningMutationChromatinModifiers2015, 
 ---
 [[_TOC_]]
 

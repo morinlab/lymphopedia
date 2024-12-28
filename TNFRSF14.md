@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @spinaGeneticsNodalMarginal2016, @cheungAcquiredTNFRSF14Mutations2010a -->, @morinFrequentMutationHistonemodifying2011, @spinaGeneticsNodalMarginal2016b -->, @cheungAcquiredTNFRSF14Mutations2010, 
 ---
 
 [[_TOC_]]

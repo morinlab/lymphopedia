@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @okosunRecurrentMTORC1activatingRRAGC2016, @reddyGeneticFunctionalDrivers2017, @hubschmannMutationalMechanismsShaping2021, 
 ---
 [[_TOC_]]
 

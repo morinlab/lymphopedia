@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @compagnoMutationsMultipleGenes2009, @schmitzTNFAIP3A20Tumor2009, @rossiAlterationBIRC3Multiple2011, 
 ---
 [[_TOC_]]
 

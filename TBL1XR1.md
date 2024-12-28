@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @lohrDiscoveryPrioritizationSomatic2012, @rossiCodingGenomeSplenic2012, @morinMutationalStructuralAnalysis2013, 
 ---
 [[_TOC_]]
 

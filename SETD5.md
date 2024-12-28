@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @reddyGeneticFunctionalDrivers2017, @tiacciPervasiveMutationsJAKSTAT2018, 
 ---
 [[_TOC_]]
 

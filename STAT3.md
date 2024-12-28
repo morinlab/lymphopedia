@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @ohgamiSTAT3MutationsAre2014, @morinFrequentMutationHistonemodifying2011, @lohrDiscoveryPrioritizationSomatic2012, @reddyGeneticFunctionalDrivers2017, 
 ---
 [[_TOC_]]
 

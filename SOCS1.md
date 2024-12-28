@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @lohrDiscoveryPrioritizationSomatic2012, @wenigerMutationsTumorSuppressor2006, @morinFrequentMutationHistonemodifying2011, @morinMutationalStructuralAnalysis2013, @zhangGeneticHeterogeneityDiffuse2013, 
 ---
 [[_TOC_]]
 

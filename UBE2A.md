@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @albuquerqueEnhancingKnowledgeDiscovery2017, @lohrDiscoveryPrioritizationSomatic2012, @reddyGeneticFunctionalDrivers2017, @reichelFlowSortingExome2015, 
 ---
 [[_TOC_]]
 

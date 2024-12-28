@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @loveGeneticLandscapeMutations2012, @zhangGenomicLandscapeMantle2014, 
 ---
 [[_TOC_]]
 

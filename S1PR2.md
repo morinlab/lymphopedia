@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @muppidiLossSignalingGa132014, @morinMutationalStructuralAnalysis2013, @morinFrequentMutationHistonemodifying2011, @lohrDiscoveryPrioritizationSomatic2012, 
 ---
 [[_TOC_]]
 

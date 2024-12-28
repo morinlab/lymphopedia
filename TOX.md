@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @schmitzGeneticsPathogenesisDiffuse2018, @reddyGeneticFunctionalDrivers2017, @chapuyMolecularSubtypesDiffuse2018, @hubschmannMutationalMechanismsShaping2021, 
 ---
 [[_TOC_]]
 

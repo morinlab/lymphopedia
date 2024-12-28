@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @hubschmannMutationalMechanismsShaping2021, @morinMutationalStructuralAnalysis2013, @reddyGeneticFunctionalDrivers2017, @spinaGeneticsNodalMarginal2016, 
 ---
 [[_TOC_]]
 

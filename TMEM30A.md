@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @zhangGeneticHeterogeneityDiffuse2013, @morinMutationalStructuralAnalysis2013, @morinFrequentMutationHistonemodifying2011, 
 ---
 [[_TOC_]]
 
