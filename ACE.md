@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @loveGeneticLandscapeMutations2012, 
 ---
 [[_TOC_]]
 
@@ -13,9 +15,7 @@ Due to [minimal support](ACE#representative-mutation) in the original primary da
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description                           |
-|:------:|:----:|--------------------------------------|
-|![BL](images/icons/BL_tier2.png)    |3   |Retired, Failed QC[@loveGeneticLandscapeMutations2012]|
+[[include:table1_ACE]]
 
 ## Warnings
 
@@ -24,11 +24,7 @@ Due to [minimal support](ACE#representative-mutation) in the original primary da
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-|Entity|source               |frequency (%)|
-|:------:|:---------------------:|:-------------:|
-|BL    |GAMBL genomes+capture|4.39         |
-|BL    |Thomas cohort        |  NA         |
-|BL    |Panea cohort         |  NA         |
+[[include:BL_ACE]]
 
 ## Mutation pattern and selective pressure estimates
 
