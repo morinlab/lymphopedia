@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @loveGeneticLandscapeMutations2012, 
 ---
 [[_TOC_]]
 
@@ -11,9 +13,8 @@ Due to [minimal support](ACAD9#representative-mutation) in the original primary 
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description                           |
-|:------:|:----:|--------------------------------------|
-|![BL](images/icons/BL_tier2.png)    |3   |Retired, Failed QC[@loveGeneticLandscapeMutations2012]|
+[[include:table1_ACAD9]]
+
 
 ## Warnings
 
