@@ -17,6 +17,8 @@ The rate of DLBCLs with biallelic loss of this locus remains unclear.
 
 ## Relevance tier by entity
 
+[[include:table1_BCL7A]]
+
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
 |![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene|
