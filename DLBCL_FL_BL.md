@@ -1,4 +1,5 @@
 |Gene|DLBCL Tier|FL Tier|BL Tier|Any Tier 1|
+|:-:|:-:|:-:|:-:|:-:|
 |[ARID1A](ARID1A)|1|1|1|Yes|
 |[BCL6](BCL6)|1|1|1|Yes|
 |[BCL7A](BCL7A)|1|1|1|Yes|
