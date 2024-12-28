@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @lohrDiscoveryPrioritizationSomatic2012, @witjesPrevalenceCytoplasmicActin2020, @wienandGenomicAnalysesFlowsorted2019, 
 ---
 
 [[_TOC_]]
@@ -14,12 +16,7 @@ ACTB is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) 
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description               |
-|:------:|:----:|--------------------------|
-|![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene|
-|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene[@wienandGenomicAnalysesFlowsorted2019]|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene, hypermutated[@lohrDiscoveryPrioritizationSomatic2012]|
-|![FL](images/icons/FL_tier1.png)    |1  |high-confidence FL gene, hypermutated   |
+[[include:table1_ACTB]]
 
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
