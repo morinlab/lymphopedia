@@ -23,11 +23,7 @@ Due to [minimal support](ACAD9#representative-mutation) in the original primary 
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-|Entity|source               |frequency (%)|
-|:------:|:---------------------:|:-------------:|
-|BL    |GAMBL genomes+capture|1.85         |
-|BL    |Thomas cohort        |  NA         |
-|BL    |Panea cohort         |  NA         |
+[[include:BL_ACAD9]]
 
 ## Mutation pattern and selective pressure estimates
 
