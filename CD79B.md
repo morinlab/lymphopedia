@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @flumannInducibleCd79bMutation2024, @wrightProbabilisticClassificationTool2020, @morinFrequentMutationHistonemodifying2011, @davisChronicActiveBcellreceptor2010, @wilsonEffectIbrutinibRCHOP2021, @kimCD79BMYD88Mutations2014, @paneaWholeGenomeLandscape2019, 
 ---
 [[_TOC_]]
 

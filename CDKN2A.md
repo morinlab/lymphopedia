@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @spinaGeneticsNodalMarginal2016, @grandeGenomewideDiscoverySomatic2019, @morinMutationalStructuralAnalysis2013, 
 ---
 [[_TOC_]]
 

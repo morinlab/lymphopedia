@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @paneaWholeGenomeLandscape2019, @hubschmannMutationalMechanismsShaping2021, @khodabakhshiRecurrentTargetsAberrant2012, @krysiakRecurrentSomaticMutations2017, 
 ---
 [[_TOC_]]
 

@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @gomezUltraDeepSequencingReveals2023, 
 ---
 
 [[_TOC_]]
