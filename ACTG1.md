@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @deschGenotypingCirculatingTumor2020, @witjesPrevalenceCytoplasmicActin2020, @spinaGeneticsNodalMarginal2016, @hubschmannMutationalMechanismsShaping2021, 
 ---
 
 [[_TOC_]]
@@ -15,13 +17,7 @@ ACTG1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm)
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description                           |
-|:------:|:----:|--------------------------------------|
-|![PMBL](images/icons/PMBL_tier2.png)|2|relevance in PMBL/cHL/GZL not firmly established[@deschGenotypingCirculatingTumor2020]|
-|![MZL](images/icons/MZL_tier2.png)|2|relevance in MZL not firmly established[@spinaGeneticsNodalMarginal2016]|
-|![FL](images/icons/FL_tier2.png)|2|relevance in FL not firmly established[@hubschmannMutationalMechanismsShaping2021]|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1 | aSHM target and high-confidence DLBCL gene[@hubschmannMutationalMechanismsShaping2021]            |
-
+[[include:table1_ACTG1]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
