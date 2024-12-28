@@ -2,11 +2,15 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @paneaWholeGenomeLandscape2019
 ---
 [[_TOC_]]
 
 
 ## Relevance tier by entity
+
+[[include:table1_BMP7]]
 
 |Entity|Tier|Description            |
 |:------:|:----:|-----------------------|
