@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @jalladesExomeSequencingIdentifies2017, @nadeuGenomicEpigenomicInsights2020, 
 ---
 
 [[_TOC_]]

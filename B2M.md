@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @pararajalingamCodingNoncodingDrivers2020, @reichelFlowSortingExome2015, @morinFrequentMutationHistonemodifying2011, @challa-malladiCombinedGeneticInactivation2011, 
 ---
 
 [[_TOC_]]

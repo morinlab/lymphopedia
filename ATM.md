@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @arthurGenomewideDiscoverySomatic2018, @beaLandscapeSomaticMutations2013, @reddyGeneticFunctionalDrivers2017, @braggioGenomicAnalysisMarginal2012, 
 ---
 [[_TOC_]]
 

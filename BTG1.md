@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @morinFrequentMutationHistonemodifying2011, @delageBTG1InactivationDrives2023, @burkhardtClinicalRelevanceMolecular2022, @sarkozyMutationalLandscapeGray2021, @mlynarczykBTG1MutationYields2023, 
 ---
 [[_TOC_]]
 

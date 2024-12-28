@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @sarkozyMutationalLandscapeGray2021, @reddyGeneticFunctionalDrivers2017, @arthurGenomewideDiscoverySomatic2018, 
 ---
 [[_TOC_]]
 

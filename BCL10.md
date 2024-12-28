@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @russler-germainMutationsAssociatedProgression2023, @morinMutationalStructuralAnalysis2013, @morinFrequentMutationHistonemodifying2011, @xiaBCL10MutationsDefine2022, @spinaGeneticsNodalMarginal2016, @wrightProbabilisticClassificationTool2020, @phelanBCL10MutantsArchitects2022, 
 ---
 
 [[_TOC_]]
