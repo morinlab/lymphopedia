@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @schmitzBurkittLymphomaPathogenesis2012, @schmitzBurkittLymphomaPathogenesis2012
 ---
 
 [[_TOC_]]
@@ -9,11 +11,7 @@ link-citations: true
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description               |
-|:------:|:----:|--------------------------|
-|![PMBL](images/icons/PMBL_tier2.png)|2|relevance in PMBL/cHL/GZL not firmly established|
-|![BL](images/icons/BL_tier2.png)    |1   |high-confidence BL gene[@schmitzBurkittLymphomaPathogenesis2012]   |
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene[@schmitzBurkittLymphomaPathogenesis2012]|
+[[include:table1_PCBP1]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
