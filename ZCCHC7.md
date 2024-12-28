@@ -10,18 +10,12 @@ nocite: |
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description                              |
-|:------:|:----:|-----------------------------------------|
-|![DLBCL](images/icons/DLBCL_tier2.png) |2 | aSHM target; Although recurrent, the relevance of mutations in DLBCL is tenuous [@arthurGenomewideDiscoverySomatic2018]|
+[[include:table1_ZCCHC7]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-|Entity|source        |frequency (%)|
-|:------:|:--------------:|:-------------:|
-|DLBCL |GAMBL genomes |0.57         |
-|DLBCL |Schmitz cohort|0.85         |
-|DLBCL |Reddy cohort  |0.40         |
-|DLBCL |Chapuy cohort |2.56         |
+[[include:DLBCL_ZCCHC7.md]]
+
 
 ## Mutation pattern and selective pressure estimates
 
