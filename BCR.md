@@ -15,9 +15,7 @@ BCR (Breakpoint Cluster Region Protein) is one of [a number of genes](https://gi
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description                           |
-|:------:|:----:|--------------------------------------|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1 | aSHM target and high-confidence DLBCL gene            [@lohrDiscoveryPrioritizationSomatic2012]|
+[[include:table1_BCR.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

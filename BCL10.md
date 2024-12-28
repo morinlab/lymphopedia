@@ -22,11 +22,7 @@ BCL10 missense mutations in the CARD domain and truncating mutations have distin
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description                           |
-|:------:|:----:|--------------------------------------|
-|![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene[@spinaGeneticsNodalMarginal2016]|
-|![DLBCL](images/icons/DLBCL_tier1.png)  |1[@xiaBCL10MutationsDefine2022]   |high-confidence DLBCL gene[@morinFrequentMutationHistonemodifying2011;@morinMutationalStructuralAnalysis2013]            |
-|![FL](images/icons/FL_tier2.png)     |2   |relevance in FL not firmly established[@russler-germainMutationsAssociatedProgression2023]|
+[[include:table1_BCL10.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

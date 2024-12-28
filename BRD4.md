@@ -14,9 +14,7 @@ Due to [minimal support](BRD4#representative-mutation) in the original primary d
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description                           |
-|:------:|:----:|--------------------------------------|
-|![BL](images/icons/BL_tier2.png)    |3   |Retired, Failed QC[@loveGeneticLandscapeMutations2012]|
+[[include:table1_BRD4.md]]
 
 ## Warnings
 

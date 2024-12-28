@@ -21,13 +21,7 @@ Another study demonstrated that specific BTG1 mutations afford germinal center (
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description                           |
-|:------:|:----:|--------------------------------------|
-|![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene|
-|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene[@sarkozyMutationalLandscapeGray2021]|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1[@mlynarczykBTG1MutationYields2023; @delageBTG1InactivationDrives2023] | aSHM target and high-confidence DLBCL gene            [@morinFrequentMutationHistonemodifying2011]|
-|![FL](images/icons/FL_tier1.png)    |1 | aSHM target and high-confidence FL gene               |
-|![BL](images/icons/BL_tier2.png)    |2 | aSHM target; Although recurrent, the relevance of mutations in BL is tenuous [@burkhardtClinicalRelevanceMolecular2022]|
+[[include:table1_BTG1.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

@@ -11,10 +11,7 @@ One study reported BTK mutations in approximately 7% of FL and 11% of transforme
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description               |
-|:------:|:----:|--------------------------|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene[@albuquerqueEnhancingKnowledgeDiscovery2017; @reddyGeneticFunctionalDrivers2017]|
-|![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene   [@krysiakRecurrentSomaticMutations2017]|
+[[include:table1_BTK.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

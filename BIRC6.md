@@ -15,11 +15,7 @@ BIRC6, as a negative regulator of non-canonical NF-κB signaling, is implicated 
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description                           |
-|:------:|:----:|--------------------------------------|
-|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene [@sarkozyMutationalLandscapeGray2021]|
-|![DLBCL](images/icons/DLBCL_tier1.png)   |1   |high-confidence DLBCL gene          [@reddyGeneticFunctionalDrivers2017; @arthurGenomewideDiscoverySomatic2018]|
-|![FL](images/icons/FL_tier1.png)      |1   |high-confidence FL gene               |
+[[include:table1_BIRC6.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

@@ -17,11 +17,7 @@ Although mutations have also been reported in BL, due to [minimal support](BRAF#
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description                           |
-|:------:|:----:|--------------------------------------|
-|![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            [@tiacciBRAFMutationsHairycell2011]|
-|![BL](images/icons/Tier2_BL.png)    |2   |Failed QC[@loveGeneticLandscapeMutations2012]|
+[[include:table1_BRAF.md]]
 
 ## Warnings
 
