@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @rossiCodingGenomeSplenic2012, @deschGenotypingCirculatingTumor2020, @morinFrequentMutationHistonemodifying2011, @beaLandscapeSomaticMutations2013
 ---
 [[_TOC_]]
 
@@ -17,14 +19,7 @@ Mutations were later described in MCL in 2013 by Bea et al.[@beaLandscapeSomatic
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description               |
-|:------:|:----:|--------------------------|
-|![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene[@rossiCodingGenomeSplenic2012]|
-|![PMBL](images/icons/PMBL_tier2.png)|2|relevance in PMBL/cHL/GZL not firmly established[@deschGenotypingCirculatingTumor2020]|
-|![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene   [@morinFrequentMutationHistonemodifying2011]|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene[@morinFrequentMutationHistonemodifying2011]|
-|![BL](images/icons/BL_tier1.png)    |1   |high-confidence BL gene   |
-|![MCL](images/icons/MCL_tier1.png)   |1   |high-confidence MCL gene  [@beaLandscapeSomaticMutations2013]|
+[[include:table1_KMT2D]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
