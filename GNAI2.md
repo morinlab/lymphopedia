@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @grandeGenomewideDiscoverySomatic2019, @morinMutationalStructuralAnalysis2013
 ---
 [[_TOC_]]
 
@@ -13,11 +15,7 @@ Mutations were first described in DLBCL in 2013 by Morin et al[@morinMutationalS
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description               |
-|:------:|:----:|--------------------------|
-|![BL](images/icons/BL_tier1.png)    |1   |high-confidence BL gene   [@grandeGenomewideDiscoverySomatic2019]|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene[@morinMutationalStructuralAnalysis2013]|
-|![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene   |
+[[include:table1_GNAI2]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
