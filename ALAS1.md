@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @zhangGeneticHeterogeneityDiffuse2013, 
 ---
 
 [[_TOC_]]
@@ -11,13 +13,11 @@ link-citations: true
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description|
-|:------:|:----:|--------------------------------------|
-|![DLBCL](images/icons/DLBCL_tier3.png)|3|relevance in DLBCL not firmly established[@zhangGeneticHeterogeneityDiffuse2013]|
+[[include:table1_ALAS1]]
 
+## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-
-
+[[include:DLBCL_ALAS1]]
 
 [[include:mermaid_ALAS1.md]]
 
