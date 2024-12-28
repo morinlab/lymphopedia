@@ -19,14 +19,6 @@ The rate of DLBCLs with biallelic loss of this locus remains unclear.
 
 [[include:table1_BCL7A]]
 
-|Entity|Tier|Description                           |
-|:------:|:----:|--------------------------------------|
-|![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene|
-|![PMBL](images/icons/PMBL_tier2.png)|2|relevance in PMBL/cHL/GZL not firmly established[@reichelFlowSortingExome2015]|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1[@balinas-gaviraFrequentMutationsAminoterminal2020] | high-confidence DLBCL gene[@morinFrequentMutationHistonemodifying2011; @zhangGeneticHeterogeneityDiffuse2013; @arthurGenomewideDiscoverySomatic2018] |
-|![FL](images/icons/FL_tier1.png)    |1 | high-confidence FL gene [@krysiakRecurrentSomaticMutations2017]              |
-|![BL](images/icons/BL_tier2.png)    |2 | Although recurrent, the relevance of mutations in BL is tenuous [@grandeGenomewideDiscoverySomatic2019]|
-
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
