@@ -22,6 +22,7 @@ To get started, select one of the gene lists from the table below then select th
 |DLBCL [(tsv)](https://raw.githubusercontent.com/morinlab/LLMPP/main/resources/curated/dlbcl_genes.tsv)|[125 genes](DLBCL_genes#tier-1-dlbcl-genes)|[210 genes](DLBCL_genes#tier-2-dlbcl-genes)|[387 genes](DLBCL_genes#tier-3-dlbcl-genes)|
 |FL [(tsv)](https://raw.githubusercontent.com/morinlab/LLMPP/main/resources/curated/fl_genes.tsv)|[54 genes](FL_genes#tier-1-fl-genes)|[59 genes](FL_genes#tier-2-fl-genes)|[0 genes](FL_genes#tier-3-fl-genes)|
 
+[Combined gene list](DLBCL_FL_BL)
 
 
 ### History of lymphoma genes in common entities
