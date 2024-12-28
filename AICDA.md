@@ -2,24 +2,19 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @arthurGenomewideDiscoverySomatic2018, 
 ---
 [[_TOC_]]
 
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description                              |
-|:------:|:----:|-----------------------------------------|
-|![DLBCL](images/icons/DLBCL_tier2.png) |2 | aSHM target; Although recurrent, the relevance of mutations in DLBCL is tenuous [@arthurGenomewideDiscoverySomatic2018]|
+[[include::table1_AICDA]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-|Entity|source        |frequency (%)|
-|:------:|:--------------:|:-------------:|
-|DLBCL |GAMBL genomes |0.38         |
-|DLBCL |Schmitz cohort|0.43         |
-|DLBCL |Reddy cohort  |0.30         |
-|DLBCL |Chapuy cohort |0.43         |
+[[include:DLBCL_AICDA.md]]
 
 ## Mutation pattern and selective pressure estimates
 
