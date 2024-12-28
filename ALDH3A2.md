@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @novakWholeexomeAnalysisReveals2015, 
 ---
 
 [[_TOC_]]
@@ -11,12 +13,7 @@ link-citations: true
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description|
-|:------:|:----:|--------------------------------------|
-|![DLBCL](images/icons/DLBCL_tier2.png)|2|relevance in DLBCL not firmly established[@novakWholeexomeAnalysisReveals2015]|
-
-
-
+[[include:table1_ALDH3A2]]
 
 
 [[include:mermaid_ALDH3A2.md]]
