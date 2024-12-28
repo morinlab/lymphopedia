@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @wienandGenomicAnalysesFlowsorted2019, @rossiCodingGenomeSplenic2012, @loveGeneticLandscapeMutations2012, @zhangGeneticHeterogeneityDiffuse2013, @reddyGeneticFunctionalDrivers2017, @hubschmannMutationalMechanismsShaping2021, @krysiakRecurrentSomaticMutations2017
 ---
 
 [[_TOC_]]
@@ -13,6 +15,9 @@ Overall, components of SWI/SNF have been identified as an emerging theme in germ
 
 
 ## Relevance tier by entity
+
+[[include:table1_ARID1A]]
+
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
 |![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene[@wienandGenomicAnalysesFlowsorted2019]|
