@@ -3,5 +3,6 @@
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
 timeline
     title Publication timing
-       :  : DLBCL
+       Fan et al : 2020-07-01 : DLBCL
 ```
+
