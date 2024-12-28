@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @deschGenotypingCirculatingTumor2020, 
 ---
 [[_TOC_]]
 

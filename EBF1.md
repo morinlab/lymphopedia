@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @albuquerqueEnhancingKnowledgeDiscovery2017, @thomasGeneticSubgroupsInform2023, @bohleRoleEarlyBcell2013, @reichelFlowSortingExome2015, @gyoryTranscriptionFactorEbf12012, @morinMutationalStructuralAnalysis2013, 
 ---
 [[_TOC_]]
 
