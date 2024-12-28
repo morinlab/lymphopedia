@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @hubschmannMutationalMechanismsShaping2021, 
 ---
 [[_TOC_]]
 
@@ -12,18 +14,12 @@ Mutations in this gene were first described in DLBCL in 2021 by Hübschmann et a
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description                              |
-|:------:|:----:|-----------------------------------------|
-|![DLBCL](images/icons/DLBCL_tier2.png) |2   |relevance in DLBCL not firmly established[@hubschmannMutationalMechanismsShaping2021]|
+
+[[include:table1_ADAMTS1]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-|Entity|source        |frequency (%)|
-|:------:|:--------------:|:-------------:|
-|DLBCL |GAMBL genomes |1.91         |
-|DLBCL |Schmitz cohort|3.40         |
-|DLBCL |Reddy cohort  |1.70         |
-|DLBCL |Chapuy cohort |2.56         |
+[[include:DLBCL_ADAMTS1]]
 
 ## Mutation pattern and selective pressure estimates
 
