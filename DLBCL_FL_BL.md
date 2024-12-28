@@ -1,3 +1,10 @@
+---
+title: 'Combined DLBCL/BL/FL  gene list'
+bibliography: 'morinlab.bib'
+
+link-citations: true
+---
+
 |Gene|DLBCL Tier|FL Tier|BL Tier|Any Tier 1|
 |-|-|-|-|-|
 |[ARID1A](ARID1A)|1|1|1|Yes|
