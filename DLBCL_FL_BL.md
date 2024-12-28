@@ -95,10 +95,10 @@
 |[GRHPR](GRHPR)|1|||Yes|
 |[HIST1H3B](HIST1H3B)|1|||Yes|
 |[HIST2H2BE](HIST2H2BE)|1|||Yes|
-|[HLA](HLA)-A|1|||Yes|
-|[HLA](HLA)-B|1|||Yes|
-|[HLA](HLA)-C|1|||Yes|
-|[HLA](HLA)-DMB|1|||Yes|
+|[HLA-A](HLA-A)|1|||Yes|
+|[HLA-B](HLA-B)|1|||Yes|
+|[HLA-C](HLA-C)|1|||Yes|
+|[HLA-DMB](HLA-DMB)|1|||Yes|
 |[IL4R](IL4R)|1|||Yes|
 |[JUNB](JUNB)|1|||Yes|
 |[KLHL14](KLHL14)|1|||Yes|
@@ -229,7 +229,7 @@
 |[HIST1H2AL](HIST1H2AL)|2|||No|
 |[HIST1H2BO](HIST1H2BO)|2|||No|
 |[HIST1H3A](HIST1H3A)|2|||No|
-|[HLA](HLA)-DMA|2|||No|
+|[HLA-DMA](HLA-DMA)|2|||No|
 |[HMGB1](HMGB1)|2|||No|
 |[HNF1B](HNF1B)|2|||No|
 |[HNRNPD](HNRNPD)|2|||No|
@@ -248,7 +248,7 @@
 |[KIAA1614](KIAA1614)|2|||No|
 |[KIF1C](KIF1C)|2|||No|
 |[KLHL21](KLHL21)|2|||No|
-|[KRTAP5](KRTAP5)-5|2|||No|
+|[KRTAP5-5](KRTAP5-5)|2|||No|
 |[LAMA5](LAMA5)|2|||No|
 |[LPP](LPP)|2|||No|
 |[LRP12](LRP12)|2|||No|
@@ -511,8 +511,8 @@
 |[HIPK3](HIPK3)|3|||No|
 |[HIST1H4I](HIST1H4I)|3|||No|
 |[HK3](HK3)|3|||No|
-|[HLA](HLA)-DQA1|3|||No|
-|[HLA](HLA)-DRB1|3|||No|
+|[HLA-DQA1](HLA-DQA1)|3|||No|
+|[HLA-DRB1](HLA-DRB1)|3|||No|
 |[HNRNPR](HNRNPR)|3|||No|
 |[HRAS](HRAS)|3|||No|
 |[HSF2](HSF2)|3|||No|
@@ -791,7 +791,7 @@
 |[GTSE1](GTSE1)|||2|No|
 |[HIST1H3D](HIST1H3D)|||2|No|
 |[HIST1H4J](HIST1H4J)|||2|No|
-|[HLA](HLA)-DQB1|||2|No|
+|[HLA-DQB1](HLA-DQB1)|||2|No|
 |[KANK2](KANK2)|||2|No|
 |[KLHL26](KLHL26)|||2|No|
 |[MYO18A](MYO18A)|||2|No|
