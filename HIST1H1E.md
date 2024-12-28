@@ -2,6 +2,9 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @reichelFlowSortingExome2015, @lohrDiscoveryPrioritizationSomatic2012, @krysiakRecurrentSomaticMutations2017, @grandeGenomewideDiscoverySomatic2019
+
 ---
 [[_TOC_]]
 
@@ -13,12 +16,8 @@ Mutations in this gene were first described in DLBCL in 2013 by Morin et al.[@mo
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description                           |
-|:------:|:----:|--------------------------------------|
-|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene[@reichelFlowSortingExome2015]|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            [@lohrDiscoveryPrioritizationSomatic2012]|
-|![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene               [@krysiakRecurrentSomaticMutations2017]|
-|![BL](images/icons/BL_tier2.png)    |2   |relevance in BL not firmly established[@grandeGenomewideDiscoverySomatic2019]|
+[[include:table1_HIST1H1E]]
+
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
