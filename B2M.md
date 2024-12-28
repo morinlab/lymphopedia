@@ -20,12 +20,7 @@ B2M mutations in B-cell lymphomas, particularly in DLBCL and PMBCL, lead to redu
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description                            |
-|:------:|:----:|---------------------------------------|
-|![PMBL](images/icons/PMBL_tier1.png)|1 |high-confidence PMBL/cHL/GZL gene[@reichelFlowSortingExome2015]|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene[@morinFrequentMutationHistonemodifying2011]             |
-|![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene[@morinFrequentMutationHistonemodifying2011]                |
-|![MCL](images/icons/MCL_tier2.png)   |2   |relevance in MCL not firmly established[@pararajalingamCodingNoncodingDrivers2020]|
+[[include:table1_B2M.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
