@@ -2,15 +2,15 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @burkhardtClinicalRelevanceMolecular2022, 
 ---
 [[_TOC_]]
 
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description                           |
-|:------:|:----:|--------------------------------------|
-|![BL](images/icons/BL_tier2.png)    |2   |relevance in BL not firmly established[@burkhardtClinicalRelevanceMolecular2022]|
+[[include:table1_ADAMTS5]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
