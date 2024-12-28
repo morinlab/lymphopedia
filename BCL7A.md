@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @reichelFlowSortingExome2015,@balinas-gaviraFrequentMutationsAminoterminal2020,@morinFrequentMutationHistonemodifying2011,@zhangGeneticHeterogeneityDiffuse2013, @arthurGenomewideDiscoverySomatic2018,@krysiakRecurrentSomaticMutations2017,@grandeGenomewideDiscoverySomatic2019
 ---
 
 [[_TOC_]]
