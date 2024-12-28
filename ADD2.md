@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @spinaGeneticsNodalMarginal2016, 
 ---
 
 [[_TOC_]]
@@ -11,10 +13,7 @@ link-citations: true
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description|
-|:------:|:----:|--------------------------------------|
-|![MZL](images/icons/MZL_tier2.png)|2|relevance in MZL not firmly established[@spinaGeneticsNodalMarginal2016]|
-
+[[include:table1_ADD2]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
