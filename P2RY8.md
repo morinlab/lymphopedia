@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @muppidiLossSignalingGa132014, @lohrDiscoveryPrioritizationSomatic2012
 ---
 [[_TOC_]]
 
@@ -12,12 +14,7 @@ P2RY8 encodes a G protein–coupled receptor that is expressed on germinal cente
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description                           |
-|:------:|:----:|--------------------------------------|
-|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene|
-|![BL](images/icons/BL_tier1.png)    |1   |high-confidence BL gene               [@muppidiLossSignalingGa132014]|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            [@lohrDiscoveryPrioritizationSomatic2012]|
-|![FL](images/icons/FL_tier2.png)    |2   |relevance in FL not firmly established|
+[[include:table1_P2RY8.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
