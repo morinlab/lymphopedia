@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @lohrDiscoveryPrioritizationSomatic2012, @dunsCharacterizationDLBCLPMBL2021, @hartmannHighlyRecurrentMutations2016, @morinMutationalStructuralAnalysis2013, @schuhmacherJUNBDUSP2SGK12019, 
 ---
 [[_TOC_]]
 

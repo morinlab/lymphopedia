@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @wienandGenomicAnalysesFlowsorted2019, 
 ---
 
 [[_TOC_]]
