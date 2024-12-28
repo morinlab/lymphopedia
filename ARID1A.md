@@ -18,14 +18,6 @@ Overall, components of SWI/SNF have been identified as an emerging theme in germ
 
 [[include:table1_ARID1A]]
 
-|Entity|Tier|Description               |
-|:------:|:----:|--------------------------|
-|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene[@wienandGenomicAnalysesFlowsorted2019]|
-|![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene[@rossiCodingGenomeSplenic2012]|
-|![BL](images/icons/BL_tier1.png)    |1   |high-confidence BL gene   [@loveGeneticLandscapeMutations2012]|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene[@zhangGeneticHeterogeneityDiffuse2013; @reddyGeneticFunctionalDrivers2017; @hubschmannMutationalMechanismsShaping2021]|
-|![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene   [@krysiakRecurrentSomaticMutations2017]|
-
 ## Mutation incidence in large cohorts
 
 [[include:DLBCL_ARID1A.md]]
