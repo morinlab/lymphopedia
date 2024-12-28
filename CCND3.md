@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @jalladesExomeSequencingIdentifies2017, @deschGenotypingCirculatingTumor2020, @richterRecurrentMutationID32012, @morinFrequentMutationHistonemodifying2011
 ---
 
 [[_TOC_]]
@@ -15,13 +17,7 @@ Somatic mutations in CCND3 often stabilize the Cyclin D3 protein by altering the
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description               |
-|:------:|:----:|--------------------------|
-|![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene[@jalladesExomeSequencingIdentifies2017]|
-|![PMBL](images/icons/PMBL_tier2.png)|2|relevance in PMBL/cHL/GZL not firmly established[@deschGenotypingCirculatingTumor2020]|
-|![BL](images/icons/BL_tier1.png)    |1   |high-confidence BL gene   [@richterRecurrentMutationID32012]|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene[@morinFrequentMutationHistonemodifying2011]|
-|![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene   [@morinFrequentMutationHistonemodifying2011]|
+[[include:table1_CCND3]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
