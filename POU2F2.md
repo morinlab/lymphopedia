@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @krysiakRecurrentSomaticMutations2017, @reddyGeneticFunctionalDrivers2017, @lohrDiscoveryPrioritizationSomatic2012, @zhangGeneticHeterogeneityDiffuse2013, 
 ---
 [[_TOC_]]
 

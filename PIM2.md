@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @reddyGeneticFunctionalDrivers2017, @arthurGenomewideDiscoverySomatic2018, @schmitzGeneticsPathogenesisDiffuse2018, @reichelFlowSortingExome2015, 
 ---
 [[_TOC_]]
 

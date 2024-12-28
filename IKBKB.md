@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @reddyGeneticFunctionalDrivers2017, @wienandGenomicAnalysesFlowsorted2019, @rossiAlterationBIRC3Multiple2011, 
 ---
 [[_TOC_]]
 

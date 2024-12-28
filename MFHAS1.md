@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @sarkozyMutationalLandscapeGray2021, 
 ---
 
 [[_TOC_]]

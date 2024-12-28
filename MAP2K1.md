@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @louissaintPediatrictypeNodalFollicular2016, @shinBRAFV600EMAP2K12015, 
 ---
 [[_TOC_]]
 

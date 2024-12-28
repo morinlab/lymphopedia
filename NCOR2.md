@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @schmitzBurkittLymphomaPathogenesis2012, @sarkozyMutationalLandscapeGray2021, @spinaGeneticsNodalMarginal2016, 
 ---
 [[_TOC_]]
 

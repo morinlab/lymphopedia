@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @parryWholeExomeSequencing2013, 
 ---
 
 [[_TOC_]]

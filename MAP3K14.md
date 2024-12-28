@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @ottoGeneticLesionsTRAF32012, @rossiAlterationBIRC3Multiple2011, 
 ---
 
 [[_TOC_]]

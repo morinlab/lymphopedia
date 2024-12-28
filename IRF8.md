@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @morinFrequentMutationHistonemodifying2011, @mottokIntegrativeGenomicAnalysis2019, @qiuIRF8mutantCellLymphoma2024, @wrightProbabilisticClassificationTool2020, @paneaWholeGenomeLandscape2019, 
 ---
 [[_TOC_]]
 

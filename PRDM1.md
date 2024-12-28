@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @reddyGeneticFunctionalDrivers2017, @morinMutationalStructuralAnalysis2013, @pasqualucciInactivationPRDM1BLIMP12006, @zhangGeneticHeterogeneityDiffuse2013, 
 ---
 [[_TOC_]]
 

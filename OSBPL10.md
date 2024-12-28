@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @arthurGenomewideDiscoverySomatic2018, @zhangGeneticHeterogeneityDiffuse2013, @schmitzGeneticsPathogenesisDiffuse2018, 
 ---
 [[_TOC_]]
 

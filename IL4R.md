@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @viganoSomaticIL4RMutations2018, @dunsCharacterizationDLBCLPMBL2021, 
 ---
 [[_TOC_]]
 

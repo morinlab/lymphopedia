@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @arthurGenomewideDiscoverySomatic2018, @morinGeneticLandscapesRelapsed2016, 
 ---
 [[_TOC_]]
 

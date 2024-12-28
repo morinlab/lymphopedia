@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @pasqualucciHypermutationMultipleProtooncogenes2001, 
 ---
 [[_TOC_]]
 

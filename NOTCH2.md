@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @zhangGeneticHeterogeneityDiffuse2013, @beaLandscapeSomaticMutations2013, @rossiCodingGenomeSplenic2012, 
 ---
 [[_TOC_]]
 

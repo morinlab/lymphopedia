@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @mottokIntegrativeGenomicAnalysis2019, @morinFrequentMutationHistonemodifying2011, 
 ---
 [[_TOC_]]
 

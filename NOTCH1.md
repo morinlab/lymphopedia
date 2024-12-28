@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @rossiCodingGenomeSplenic2012, @loveGeneticLandscapeMutations2012, 
 ---
 [[_TOC_]]
 

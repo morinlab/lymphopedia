@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @reichelFlowSortingExome2015, @morinMutationalStructuralAnalysis2013, 
 ---
 [[_TOC_]]
 

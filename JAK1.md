@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @zhangGeneticHeterogeneityDiffuse2013, @mottokIntegrativeGenomicAnalysis2019, @reddyGeneticFunctionalDrivers2017, 
 ---
 [[_TOC_]]
 

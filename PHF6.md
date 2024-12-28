@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @thomasGeneticSubgroupsInform2023, @reddyGeneticFunctionalDrivers2017, 
 ---
 [[_TOC_]]
 

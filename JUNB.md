@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @schuhmacherJUNBDUSP2SGK12019, @hubschmannMutationalMechanismsShaping2021, @reddyGeneticFunctionalDrivers2017, @drevalRevisitingReddyDLBCL2023, @mottokIntegrativeGenomicAnalysis2019, 
 ---
 [[_TOC_]]
 

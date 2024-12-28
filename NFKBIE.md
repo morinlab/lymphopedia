@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @pararajalingamCodingNoncodingDrivers2020, @mansouriFrequentNFKBIEDeletions2016, @morinGeneticLandscapesRelapsed2016, 
 ---
 [[_TOC_]]
 

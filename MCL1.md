@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @reddyGeneticFunctionalDrivers2017, @dunsCharacterizationDLBCLPMBL2021, @paneaWholeGenomeLandscape2019, 
 ---
 [[_TOC_]]
 

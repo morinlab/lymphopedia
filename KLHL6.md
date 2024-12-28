@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @ganapathiGeneticLandscapeDural2016, @morinFrequentMutationHistonemodifying2011, @choiLossKLHL6Promotes2018, 
 ---
 [[_TOC_]]
 

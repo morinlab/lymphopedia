@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @pasqualucciAnalysisCodingGenome2011, 
 ---
 
 [[_TOC_]]

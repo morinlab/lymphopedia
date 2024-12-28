@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @yanBCRTLRSignaling2012, @ngoOncogenicallyActiveMYD882011, 
 ---
 [[_TOC_]]
 
