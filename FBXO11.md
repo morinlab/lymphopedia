@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @parryWholeExomeSequencing2013, @richterRecurrentMutationID32012, @hubschmannMutationalMechanismsShaping2021, @arthurGenomewideDiscoverySomatic2018
 ---
 [[_TOC_]]
 
@@ -13,11 +15,7 @@ These mutations present a potential novel target for therapeutic intervention, p
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description               |
-|:------:|:----:|--------------------------|
-|![MZL](images/icons/MZL_tier2.png)|2|relevance in MZL not firmly established[@parryWholeExomeSequencing2013]|
-|![BL](images/icons/BL_tier1.png)    |1   |high-confidence BL gene   [@richterRecurrentMutationID32012]|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene[@hubschmannMutationalMechanismsShaping2021; @arthurGenomewideDiscoverySomatic2018]|
+[[include:table1_FBXO11]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
