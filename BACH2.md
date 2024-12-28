@@ -12,9 +12,7 @@ Mutations in this gene were first described in BL in 2019 by Grande et al.[@gran
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description                           |
-|:------:|:----:|--------------------------------------|
-|![BL](images/icons/BL_tier2.png)    |2 | aSHM target; Although recurrent, the relevance of mutations in BL is tenuous [@grandeGenomewideDiscoverySomatic2019]|
+[[include:table1_BACH2]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
