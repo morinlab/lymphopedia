@@ -11,10 +11,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description                              |
-|:------:|:----:|-----------------------------------------|
-|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene[@gomezUltraDeepSequencingReveals2023]|
-|![DLBCL](images/icons/DLBCL_tier2.png) |2   |relevance in DLBCL not firmly established[@reddyGeneticFunctionalDrivers2017;@drevalRevisitingReddyDLBCL2023; @arthurGenomewideDiscoverySomatic2018]|
+[[include:table1_ARID5B.md]]
 
 ## Warnings
 

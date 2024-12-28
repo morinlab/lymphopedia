@@ -10,9 +10,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description            |
-|:------:|:----:|-----------------------|
-|![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene[@okosunRecurrentMTORC1activatingRRAGC2016]|
+[[include:table1_ATP6AP1.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

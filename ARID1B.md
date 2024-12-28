@@ -11,10 +11,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description                              |
-|:------:|:----:|-----------------------------------------|
-|![DLBCL](images/icons/DLBCL_tier2.png) |3   |Retired, Failed QC[@reddyGeneticFunctionalDrivers2017]|
-|![MCL](images/icons/MCL_tier2.png)   |2   |relevance in MCL not firmly established  |
+[[include:table1_ARID1B.md]]
 
 ## Warnings
 
