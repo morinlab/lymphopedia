@@ -25,8 +25,14 @@ Another study demonstrated that specific BTG1 mutations afford germinal center (
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
+### DLBCL
 [[include:DLBCL_BTG1.md]]
+
+### FL
 [[include:FL_BTG1.md]]
+
+### BL
+[[include:BL_BTG1.md]]
 
 ## Mutation pattern and selective pressure estimates
 
