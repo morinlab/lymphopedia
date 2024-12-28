@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @paneaWholeGenomeLandscape2019, @spinaGeneticsNodalMarginal2016, @morinFrequentMutationHistonemodifying2011, @schollMutationsRegionFAS2007, @wohlfartFASCD95Mutations2004, @rysFasMutationsNonHodgkins2019, 
 ---
 [[_TOC_]]
 

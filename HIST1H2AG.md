@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @paneaWholeGenomeLandscape2019, @rossiCodingGenomeSplenic2012, 
 ---
 [[_TOC_]]
 

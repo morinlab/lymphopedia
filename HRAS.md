@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @jalladesExomeSequencingIdentifies2017, @reddyGeneticFunctionalDrivers2017, 
 ---
 [[_TOC_]]
 

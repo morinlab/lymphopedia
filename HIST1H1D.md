@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @jalladesExomeSequencingIdentifies2017, @chapuyMolecularSubtypesDiffuse2018, @morinMutationalStructuralAnalysis2013, @krysiakRecurrentSomaticMutations2017, 
 ---
 [[_TOC_]]
 

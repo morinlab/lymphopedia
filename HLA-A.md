@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @lohrDiscoveryPrioritizationSomatic2012, @deschGenotypingCirculatingTumor2020, 
 ---
 [[_TOC_]]
 

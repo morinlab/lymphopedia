@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @rossiCodingGenomeSplenic2012, @paneaWholeGenomeLandscape2019, @zhangGeneticHeterogeneityDiffuse2013, @chapuyMolecularSubtypesDiffuse2018, 
 ---
 [[_TOC_]]
 

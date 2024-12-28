@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @mottokIntegrativeGenomicAnalysis2019, @lohrDiscoveryPrioritizationSomatic2012, @krysiakRecurrentSomaticMutations2017, 
 ---
 [[_TOC_]]
 

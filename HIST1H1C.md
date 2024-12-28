@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @paneaWholeGenomeLandscape2019, @crouchMolecularSubclustersFollicular2022, @morinFrequentMutationHistonemodifying2011, 
 ---
 [[_TOC_]]
 

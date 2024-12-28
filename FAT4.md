@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @parryWholeExomeSequencing2013, @morinMutationalStructuralAnalysis2013, @zhangGenomicLandscapeMantle2014, 
 ---
 [[_TOC_]]
 

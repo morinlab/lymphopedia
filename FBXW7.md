@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @kingUbiquitinLigaseFBXW72013, @hubschmannMutationalMechanismsShaping2021, @akhoondiFBXW7HCDC4General2007, @reddyGeneticFunctionalDrivers2017, @zhangGeneticHeterogeneityDiffuse2013, 
 ---
 [[_TOC_]]
 
