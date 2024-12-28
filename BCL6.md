@@ -2,6 +2,8 @@
 bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
+nocite: |
+  @loveGeneticLandscapeMutations2012, @balSuperenhancerHypermutationAlters2022, @morinFrequentMutationHistonemodifying2011, @morinMutationalStructuralAnalysis2013, @reddyGeneticFunctionalDrivers2017, @schmitzGeneticsPathogenesisDiffuse2018
 ---
 [[_TOC_]]
 
@@ -12,6 +14,8 @@ Although common, particularly in DLBCL, the function of many of these mutations 
 
 
 ## Relevance tier by entity
+
+[[include:table1_BCL6]]
 
 |Entity|Tier|Description                           |
 |:------:|:----:|--------------------------------------|
