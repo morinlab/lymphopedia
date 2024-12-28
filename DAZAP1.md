@@ -13,10 +13,7 @@ This gene has some recurrent sites of mutations (hot spots). The mutation patter
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description               |
-|:------:|:----:|--------------------------|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene[@pararajalingamCodingNoncodingDrivers2020]|
-|![MCL](images/icons/MCL_tier1.png)   |1   |high-confidence MCL gene  [@pararajalingamCodingNoncodingDrivers2020]|
+[[include:table1_DAZAP1.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

@@ -20,12 +20,7 @@ The functional effect of CARD11 mutations in DLBCL was explored in the original 
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description                           |
-|:------:|:----:|--------------------------------------|
-|![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene[@yanBCRTLRSignaling2012]|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene            [@lenzOncogenicCARD11Mutations2008]|
-|![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene               [@morinFrequentMutationHistonemodifying2011]|
-|![MCL](images/icons/MCL_tier1.png)   |1   |high-confidence MCL gene              [@wuGeneticHeterogeneityPrimary2016]|
+[[include:table1_CARD11.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

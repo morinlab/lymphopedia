@@ -11,9 +11,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description            |
-|:------:|:----:|-----------------------|
-|![FL](images/icons/FL_tier1.png)    |1   |high-confidence FL gene[@barariaCathepsinAlterationsInduce2020]|
+[[include:table1_CTSS.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

@@ -15,9 +15,7 @@ Mutations in this gene were first described in DLBCL in 2017 by Reddy et al.[@re
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description               |
-|:------:|:----:|--------------------------|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1   |high-confidence DLBCL gene[@reddyGeneticFunctionalDrivers2017]|
+[[include:table1_CASP8.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

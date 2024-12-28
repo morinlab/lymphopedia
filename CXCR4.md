@@ -17,12 +17,7 @@ Mutations in this gene were first described in DLBCL in 2012 [@khodabakhshiRecur
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description                           |
-|:------:|:----:|--------------------------------------|
-|![MZL](images/icons/MZL_tier1.png)|1|high-confidence MZL gene|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1 | aSHM target and high-confidence DLBCL gene            [@khodabakhshiRecurrentTargetsAberrant2012]|
-|![FL](images/icons/FL_tier2.png)    |2 | aSHM target; Although recurrent, the relevance of mutations in FL is tenuous [@krysiakRecurrentSomaticMutations2017]|
-|![BL](images/icons/BL_tier2.png)    |2 | aSHM target; Although recurrent, the relevance of mutations in BL is tenuous [@paneaWholeGenomeLandscape2019]|
+[[include:table1_CXCR4.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

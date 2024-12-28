@@ -10,9 +10,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description                              |
-|:------:|:----:|-----------------------------------------|
-|![DLBCL](images/icons/DLBCL_tier2.png) |3  |Retired, Failed QC[@reddyGeneticFunctionalDrivers2017]|
+[[include:table1_DICER1.md]]
 
 <<Warn("The variants reported in this gene in DLBCL failed QC")>>
 

@@ -14,10 +14,7 @@ Mutations in this gene were first described in BL in 2012 by Love et al[@loveGen
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description                              |
-|:------:|:----:|-----------------------------------------|
-|![BL](images/icons/BL_tier2.png)    |2   |relevance in BL not firmly established   [@loveGeneticLandscapeMutations2012]|
-|![DLBCL](images/icons/DLBCL_tier2.png) |2   |relevance in DLBCL not firmly established[@reddyGeneticFunctionalDrivers2017]|
+[[include:table1_CDC73.md]]
 
 ## Warnings
 

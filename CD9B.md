@@ -13,9 +13,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description|
-|:------:|:----:|--------------------------------------|
-|![MZL](images/icons/MZL_tier2.png)|2|relevance in MZL not firmly established[@vandenbrandRecurrentMutationsGenes2017]|
+[[include:table1_CD9B.md]]
 
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)

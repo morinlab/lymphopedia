@@ -14,9 +14,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description                           |
-|:------:|:----:|--------------------------------------|
-|![BL](images/icons/BL_tier2.png)    |2   |relevance in BL not firmly established[@loveGeneticLandscapeMutations2012]|
+[[include:table1_CARD4.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

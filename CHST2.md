@@ -14,9 +14,7 @@ Mutations in this gene were first described in DLBCL in 2017 by Reddy et al.[@re
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description                              |
-|:------:|:----:|-----------------------------------------|
-|![DLBCL](images/icons/DLBCL_tier2.png) |3   |Retired, Failed QC[@reddyGeneticFunctionalDrivers2017]|
+[[include:table1_CHST2.md]]
 
 ## Warnings
 

@@ -13,10 +13,7 @@ CIITA encodes the major histocompatibility complex (MHC) class II transactivator
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description               |
-|:------:|:----:|--------------------------|
-|![PMBL](images/icons/PMBL_tier1.png)|1|high-confidence PMBL/cHL/GZL gene[@mottokGenomicAlterationsCIITA2015]|
-|![DLBCL](images/icons/DLBCL_tier1.png) |1 | aSHM target and high-confidence DLBCL gene[@morinFrequentMutationHistonemodifying2011]|
+[[include:table1_CIITA.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

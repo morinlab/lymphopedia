@@ -17,9 +17,7 @@ Due to [minimal support](COL4A2#representative-mutations) in the original primar
 
 ## Relevance tier by entity
 
-|Entity|Tier|Description                           |
-|:------:|:----:|--------------------------------------|
-|![BL](images/icons/BL_tier2.png)    |3   |Retired, Failed QC[@loveGeneticLandscapeMutations2012]|
+[[include:table1_COL4A2.md]]
 
 ## Warnings
 
