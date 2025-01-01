@@ -8,7 +8,10 @@ nocite: |
 # HLA-DMB
 
 ## Overview
-HLA-DMB, along with HLA-DMA, plays a critical role in the proper functioning of HLA class II molecules. These genes are essential for the loading of antigenic peptides onto HLA class II molecules, facilitating the presentation of these peptides to CD4+ T cells.
+HLA-DMB, along with HLA-DMA, plays a critical role in the proper functioning of HLA class II molecules. 
+These genes are essential for the loading of antigenic peptides onto HLA class II molecules, facilitating the presentation of these peptides to CD4+ T cells. 
+Mutations in this gene were first described in DLBCL and FL in 2021 by [Hübschmann et al](papers/hubschmannMutationalMechanismsShaping2021.md).[@hubschmannMutationalMechanismsShaping2021]
+
 
 ## Relevance tier by entity
 
