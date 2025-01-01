@@ -8,7 +8,7 @@ nocite: |
 [[_TOC_]]
 
 ## Overview
-Mutations in the EEF1A1 gene, which encodes the eukaryotic translation elongation factor 1A1, have been reported in DLBCL and FL by [Hubschmann et al](papers/hubschmannMutationalMechanismsShaping2021.md).[@hubschmannMutationalMechanismsShaping2021] 
+Mutations in the EEF1A1 gene, which encodes the eukaryotic translation elongation factor 1A1, have been reported in DLBCL by [Chapuy et al](papers/chapuyMolecularSubtypesDiffuse2018.md) and FL by [Hubschmann et al](papers/hubschmannMutationalMechanismsShaping2021.md).[@chapuyMolecularSubtypesDiffuse2018; @hubschmannMutationalMechanismsShaping2021] 
 This gene has some recurrent sites of mutations (hot spots). The mutation pattern in DLBCL and FL implies the preferential accumulation of *inactivating mutations*. Paradoxically, one study showed that EEF1A1 knock down reduced proliferation in vitro and in xenograft experiments.[@reichelFlowSortingExome2015]
 
 ## Relevance tier by entity
