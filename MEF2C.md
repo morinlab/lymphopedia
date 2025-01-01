@@ -3,13 +3,13 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 nocite: |
-  @arthurGenomewideDiscoverySomatic2018, 
+  @arthurGenomewideDiscoverySomatic2018, @laurentFollicularLymphomaComprises2024
 ---
 [[_TOC_]]
 
 ## Overview
 MEF2C is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus. 
-Mutations in this gene were first described in DLBCL in 2021 by [Hübschmann et al](papers/hubschmannMutationalMechanismsShaping2021.md).[@hubschmannMutationalMechanismsShaping2021]
+Mutations in this gene were first described in DLBCL by [Arthur et al](papers/arthurGenomewideDiscoverySomatic2018.md).[@arthurGenomewideDiscoverySomatic2018]
 
 
 
