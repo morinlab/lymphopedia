@@ -12,6 +12,6 @@ config:
 ---
 sankey-beta
 Lohr, DLBCL-Tier1, 1
-DLBCL-Tier1, DLBCL-Tier2, 1
-Albuquerque, DLBCL-Tier2, 0
+DLBCL-Tier1, DLBCL-Tier2, 2
+Albuquerque, DLBCL-Tier2, 1
 ```
