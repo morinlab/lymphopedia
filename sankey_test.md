@@ -4,7 +4,7 @@
 ---
 config:
   sankey:
-    showValues: true
+    showValues: false
     linkColor: target
     width: 800
     height: 1000
@@ -12,8 +12,6 @@ config:
 ---
 sankey-beta
 Panea, BL-Tier1, 1
-BL-Tier1, Morin, 1
-X, BL-Tier1, 2
-Love 2012, BL Tier 1, 3
-Love 2012, BL Tier 2, 56
+BL-Tier1, BL-Tier2, 1
+XXX, BL-Tier2, 1
 ```
