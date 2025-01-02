@@ -9,7 +9,8 @@ nocite: |
 
 ## Overview
 
-This is one of several genes that encode linker histone proteins that are recurrently mutated in DLBCL and FL.[@morinFrequentMutationHistonemodifying2011; @crouchMolecularSubclustersFollicular2022] Mutations are often found in the globular domain of the protein, which is critical for its interaction with DNA and other histone proteins. 
+This is one of several genes that encode linker histone proteins that are recurrently mutated in DLBCL and FL.[@morinFrequentMutationHistonemodifying2011; @crouchMolecularSubclustersFollicular2022] 
+Mutations are often found in the globular domain of the protein, which is critical for its interaction with DNA and other histone proteins. 
 
 
 
