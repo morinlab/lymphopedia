@@ -12,4 +12,6 @@ sankey-beta
 Panea, BL-Tier1, 1
 BL-Tier1, Morin, 1
 X, BL-Tier1, 2
+Love 2012, BL Tier 1, 3
+Love 2012, BL Tier 2, 56
 ```
