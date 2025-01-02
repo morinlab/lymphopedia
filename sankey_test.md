@@ -18,7 +18,8 @@ Albuquerque, DLBCL-Tier2, 1
 
 ### another title
 
-```kanban
+```mermaid
+kanban:
   column1[Column Title]
     task1[Task Description]
 ```
