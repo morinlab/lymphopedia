@@ -11,7 +11,7 @@ config:
     nodeAlignment: right
 ---
 sankey-beta
-Panea, BL-Tier1, 1
-BL-Tier1, BL-Tier2, 1
-XXX, BL-Tier2, 1
+Lohr, DLBCL-Tier1, 1
+DLBCL-Tier1, DLBCL-Tier2, 1
+Albuquerque, DLBCL-Tier2, 1
 ```
