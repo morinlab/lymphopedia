@@ -20,8 +20,8 @@ Albuquerque, DLBCL-Tier2, 1
 
 ```mermaid
 kanban
-column1[Column Title]
-task1[Task Description]
+    column1[Column Title]
+    task1[Task Description]
 ```
 
 ### yet another
