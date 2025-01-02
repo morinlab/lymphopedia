@@ -22,8 +22,11 @@ The rate of DLBCLs with biallelic loss of this locus remains unclear.
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
+### DLBCL
 [[include:DLBCL_BCL7A.md]]
+### FL
 [[include:FL_BCL7A.md]]
+### BL
 [[include:BL_BCL7A.md]]
 
 ## Mutation pattern and selective pressure estimates
