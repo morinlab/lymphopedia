@@ -23,3 +23,12 @@ kanban
 column1[Column Title]
 task1[Task Description]
 ```
+
+### yet another
+
+```mermaid
+sequenceDiagram
+    Alice->>John: Hello John, how are you?
+    John-->>Alice: Great!
+    Alice-)John: See you later!
+```
