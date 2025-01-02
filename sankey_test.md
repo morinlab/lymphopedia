@@ -15,3 +15,10 @@ Lohr, DLBCL-Tier1, 1
 DLBCL-Tier1, DLBCL-Tier2, 2
 Albuquerque, DLBCL-Tier2, 1
 ```
+
+### another title
+
+```kanban
+  column1[Column Title]
+    task1[Task Description]
+```
