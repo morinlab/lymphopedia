@@ -15,7 +15,7 @@ Overall, components of SWI/SNF have been identified as an emerging theme in germ
 
 ## Experimental Evidence
 
-Driver mutations in this gene typically resutl in a loss of function (LOF).[@barisicARID1AOrchestratesSWI2024]
+Driver mutations affecting this gene have been experimentally demonstrated to cause a reduction or loss of function (LOF).[@barisicARID1AOrchestratesSWI2024]
 
 ## Relevance tier by entity
 
