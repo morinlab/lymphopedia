@@ -13,6 +13,10 @@ BCL6 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) 
 Although common, particularly in DLBCL, the function of many of these mutations remains unclear but some have been shown to affect the regulation of BCL6 expression. The role of BCL6 missense mutations, seen over 9% of patients remains unclear. 
 
 
+## Experimental Evidence
+
+Driver mutations affecting this gene in BL/FL/DLBCL have been experimentally demonstrated to cause a reduction or loss of function (LOF).[@masclePointMutationsBCL62003]
+
 ## Relevance tier by entity
 
 [[include:table1_BCL6]]

@@ -15,6 +15,10 @@ The rate of DLBCLs with biallelic loss of this locus remains unclear.
 
 
 
+## Experimental Evidence
+
+Driver mutations affecting this gene in BL/DLBCL/FL have been experimentally demonstrated to cause a reduction or loss of function (LOF).[@balinas-gaviraFrequentMutationsAminoterminal2020]
+
 ## Relevance tier by entity
 
 [[include:table1_BCL7A]]

@@ -8,6 +8,10 @@ nocite: |
 [[_TOC_]]
 
 
+## Experimental Evidence
+
+Driver mutations affecting this gene in FL have been experimentally demonstrated to cause a reduction or loss of function (LOF).[@krysiakRecurrentSomaticMutations2017]
+
 ## Relevance tier by entity
 
 [[include:table1_ATP6V1B2.md]]

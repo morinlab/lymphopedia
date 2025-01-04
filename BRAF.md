@@ -15,6 +15,10 @@ BRAF mutations, particularly the BRAF V600E hot spot mutation, are primarily ass
 Although mutations have also been reported in BL, due to [minimal support](BRAF#representative-mutation) in the original primary data and very few mutations reported in subsequent studies, this gene is very unlikely to be relevant in BL. 
 
 
+## Experimental Evidence
+
+Driver mutations affecting this gene in DLBCL have been experimentally demonstrated to cause a reduction or loss of function (LOF).[@wanMechanismActivationRAFERK2004]
+
 ## Relevance tier by entity
 
 [[include:table1_BRAF.md]]
