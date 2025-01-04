@@ -8,6 +8,10 @@ nocite: |
 [[_TOC_]]
 
 
+## Experimental Evidence
+
+Driver mutations affecting this gene in FL/DLBCL have been experimentally demonstrated to cause a reduction or loss of function (LOF).[@compagnoMutationsMultipleGenes2009]
+
 ## Relevance tier by entity
 
 [[include:table1_TNFAIP3.md]]

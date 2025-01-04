@@ -13,6 +13,10 @@ nocite: |
 The STAT6 gene, which encodes a transcription factor involved in the JAK-STAT signaling pathway, plays a significant role in the pathogenesis of various lymphomas, including diffuse large B-cell lymphoma (DLBCL). Below is a summary of the common mutations in the STAT6 gene identified in DLBCL. Mutations in the DNA binding domain of STAT6 are common in PMBCL and more rare in DLBCL. 
 
 
+## Experimental Evidence
+
+Driver mutations affecting this gene in DLBCL/FL have been experimentally demonstrated to cause a gain of function (GOF).[@mentzPARP14NovelTarget2022]
+
 ## Relevance tier by entity
 
 [[include:table1_STAT6.md]]

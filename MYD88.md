@@ -8,6 +8,10 @@ nocite: |
 [[_TOC_]]
 
 
+## Experimental Evidence
+
+Driver mutations affecting this gene in DLBCL have been experimentally demonstrated to cause a gain of function (GOF).[@ngoOncogenicallyActiveMYD882011]
+
 ## Relevance tier by entity
 
 [[include:table1_MYD88.md]]

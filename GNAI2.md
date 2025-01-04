@@ -13,6 +13,10 @@ Mutations in the GNAI2 gene, which encodes the G protein alpha subunit involved 
 Mutations were first described in DLBCL in 2013 by Morin et al[@morinMutationalStructuralAnalysis2013] and in BL in 2019 by Grande et al.[@grandeGenomewideDiscoverySomatic2019]
 
 
+## Experimental Evidence
+
+Driver mutations affecting this gene in DLBCL have been experimentally demonstrated to cause a gain of function (GOF).[@muppidiLossSignalingGa132014]
+
 ## Relevance tier by entity
 
 [[include:table1_GNAI2]]

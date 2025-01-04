@@ -3,6 +3,10 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 nocite: |
+## Experimental Evidence
+
+Driver mutations affecting this gene in FL/DLBCL have been experimentally demonstrated to cause a gain of function (GOF).[@kuoRolePIM1Ibrutinibresistant2016]
+
   @dunsCharacterizationDLBCLPMBL2021, @burkhardtClinicalRelevanceMolecular2022, @pasqualucciHypermutationMultipleProtooncogenes2001
 ---
 [[_TOC_]]
@@ -10,6 +14,10 @@ nocite: |
 ## Overview
 PIM1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus.
 
+
+## Experimental Evidence
+
+Driver mutations affecting this gene in FL/DLBCL have been experimentally demonstrated to cause a gain of function (GOF).[@kuoRolePIM1Ibrutinibresistant2016]
 
 ## Relevance tier by entity
 
@@ -59,7 +67,15 @@ PIM1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) 
 ## Expression
 ![](images/gene_expression/PIM1_by_pathology.svg)
 <!-- ORIGIN: pasqualucciHypermutationMultipleProtooncogenes2001a -->
+## Experimental Evidence
+
+Driver mutations affecting this gene in FL/DLBCL have been experimentally demonstrated to cause a gain of function (GOF).[@kuoRolePIM1Ibrutinibresistant2016]
+
 <!-- BL: burkhardtClinicalRelevanceMolecular2022b -->
+## Experimental Evidence
+
+Driver mutations affecting this gene in FL/DLBCL have been experimentally demonstrated to cause a gain of function (GOF).[@kuoRolePIM1Ibrutinibresistant2016]
+
 <!-- BL: burkhardtClinicalRelevanceMolecular2022b -->
 <!-- DLBCL: pasqualucciHypermutationMultipleProtooncogenes2001a -->
 

@@ -14,6 +14,10 @@ Overall, components of SWI/SNF have been identified as an emerging theme in germ
 
 
 
+## Experimental Evidence
+
+Driver mutations affecting this gene in DLBCL/FL/BL have been experimentally demonstrated to cause a reduction or loss of function (LOF).[@fernandoFunctionalCharacterizationSMARCA42020]
+
 ## Relevance tier by entity
 
 [[include:table1_SMARCA4.md]]

@@ -13,6 +13,10 @@ P2RY8 encodes a G protein–coupled receptor that is expressed on germinal cente
 Downstream signaling through Galpha13 (encoded by GNA13) and S1PR2 is distrupted by mutations of one of these genes in GC lymphomas including the GCB subgroup of DLBCL and BL.[@muppidiLossSignalingGa132014] 
 
 
+## Experimental Evidence
+
+Driver mutations affecting this gene in BL/DLBCL have been experimentally demonstrated to cause a reduction or loss of function (LOF).[@muppidiLossSignalingGa132014]
+
 ## Relevance tier by entity
 
 [[include:table1_P2RY8.md]]

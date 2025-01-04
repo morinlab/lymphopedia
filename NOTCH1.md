@@ -13,6 +13,10 @@ The relevance of NOTCH1 mutations in various malignancies has been well establis
 
 
 
+## Experimental Evidence
+
+Driver mutations affecting this gene in DLBCL have been experimentally demonstrated to cause a gain of function (GOF).[@ryanCellRegulomeLinks2017]
+
 ## Relevance tier by entity
 
 [[include:table1_NOTCH1.md]]

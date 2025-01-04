@@ -11,6 +11,10 @@ nocite: |
 MYC is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus.
 
 
+## Experimental Evidence
+
+Driver mutations affecting this gene in DLBCL/FL/BL have been experimentally demonstrated to cause a gain of function (GOF).[@freieGermlinePointMutation2024]
+
 ## Relevance tier by entity
 
 [[include:table1_MYC]]

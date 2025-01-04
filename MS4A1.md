@@ -14,6 +14,10 @@ which complicates the interpretation of mutations at this locus.
 In relapsed DLBCLs, MS4A1 is sometimes mutated and these mutations have been shown to reduce CD20 expression.[@rushtonGeneticEvolutionaryPatterns2020]
 
 
+## Experimental Evidence
+
+Driver mutations affecting this gene in DLBCL have been experimentally demonstrated to cause a reduction or loss of function (LOF).[@rushtonGeneticEvolutionaryPatterns2020]
+
 ## Relevance tier by entity
 
 [[include:table1_MS4A1.md]]

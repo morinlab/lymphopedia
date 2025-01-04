@@ -9,6 +9,10 @@ nocite: |
 [[_TOC_]]
 
 
+## Experimental Evidence
+
+Driver mutations affecting this gene in DLBCL have been experimentally demonstrated to cause a new function (NEO).[@miloudiXPO1E571KMutationModifies2020]
+
 ## Relevance tier by entity
 
 [[include:table1_XPO1.md]]

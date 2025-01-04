@@ -15,6 +15,10 @@ Mutations in this gene were first described in DLBCL in 2012 [@khodabakhshiRecur
 
 
 
+## Experimental Evidence
+
+Driver mutations affecting this gene in DLBCL have been experimentally demonstrated to cause a reduction or loss of function (LOF).[@zmajkovicovaGenotypephenotypeCorrelationsWHIM2022]
+
 ## Relevance tier by entity
 
 [[include:table1_CXCR4.md]]

@@ -9,6 +9,10 @@ nocite: |
 
 
 
+## Experimental Evidence
+
+Driver mutations affecting this gene in DLBCL have been experimentally demonstrated to cause a gain of function (GOF).[@leeGainoffunctionMutationsCopy2009]
+
 ## Relevance tier by entity
 
 [[include:table1_NOTCH2.md]]

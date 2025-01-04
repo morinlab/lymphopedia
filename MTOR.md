@@ -14,6 +14,10 @@ Although mutations in MTOR have been reported in DLBCL and some BL, their role i
 
 
 
+## Experimental Evidence
+
+Driver mutations affecting this gene in DLBCL have been experimentally demonstrated to cause a gain of function (GOF).[@grabinerDiverseArrayCancerassociated2014]
+
 ## Relevance tier by entity
 
 [[include:table1_MTOR.md]]

@@ -15,6 +15,10 @@ thereby allowing malignant cells to evade immune surveillance.[@rysFasMutationsN
 In mouse models, Fas mutations led to a significantly shorter lymphoma-specific survival and reduced sensitivity to chemotherapy.[@rysFasMutationsNonHodgkins2019]
 
 
+## Experimental Evidence
+
+Driver mutations affecting this gene in FL/DLBCL have been experimentally demonstrated to cause a reduction or loss of function (LOF).[@wangFasFADDDeathDomain2010]
+
 ## Relevance tier by entity
 
 [[include:table1_FAS.md]]

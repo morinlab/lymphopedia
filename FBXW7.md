@@ -14,6 +14,10 @@ The most commonly observed mutations in those cancers are the hot spots R465 and
 In leukemias, FBXW7 mutations enhance the activity of leukemia-initiating cells by stabilizing oncogenic MYC.[@kingUbiquitinLigaseFBXW72013] Whether they have this role in DLBCL remains to be determined. 
 
 
+## Experimental Evidence
+
+Driver mutations affecting this gene in DLBCL have been experimentally demonstrated to cause a reduction or loss of function (LOF).[@saffieFBXW7TriggersDegradation2020]
+
 ## Relevance tier by entity
 
 [[include:table1_FBXW7.md]]

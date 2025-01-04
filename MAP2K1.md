@@ -8,6 +8,10 @@ nocite: |
 [[_TOC_]]
 
 
+## Experimental Evidence
+
+Driver mutations affecting this gene in FL have been experimentally demonstrated to cause a gain of function (GOF).[@schmidtMutationsMAP2K1Are2017]
+
 ## Relevance tier by entity
 
 [[include:table1_MAP2K1.md]]

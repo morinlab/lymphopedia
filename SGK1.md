@@ -8,6 +8,10 @@ nocite: |
 [[_TOC_]]
 
 
+## Experimental Evidence
+
+Driver mutations affecting this gene in FL/DLBCL have been experimentally demonstrated to cause a gain of function (GOF).[@gaoSGK1MutationsDLBCL2021]
+
 ## Relevance tier by entity
 
 [[include:table1_SGK1.md]]

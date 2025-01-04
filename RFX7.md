@@ -12,6 +12,10 @@ nocite: |
 First described as mutated in BL in 2009 by Grande et al.[@grandeGenomewideDiscoverySomatic2019]
 
 
+## Experimental Evidence
+
+Driver mutations affecting this gene in DLBCL/BL have been experimentally demonstrated to cause a reduction or loss of function (LOF).[@weberPiggyBacTransposonTools2019]
+
 ## Relevance tier by entity
 
 [[include:table1_RFX7.md]]

@@ -13,6 +13,10 @@ EBF1 is a critical transcription factor in early B-cell development, regulating 
 
 
 
+## Experimental Evidence
+
+Driver mutations affecting this gene in DLBCL/FL have been experimentally demonstrated to cause a reduction or loss of function (LOF).[@ramirez-komoSpontaneousLossLineage2017]
+
 ## Relevance tier by entity
 
 [[include:table1_EBF1.md]]

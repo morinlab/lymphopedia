@@ -12,6 +12,10 @@ Mutations in the DDX3X gene, which encodes an RNA helicase involved in various a
 These mutations are predominantly loss-of-function (LOF) mutations, affecting the helicase domain of the protein. Missense mutations are predominantly found in male patients and rarely in females, hence showing a sex-specific pattern.[@gongSequentialInverseDysregulation2021]
 
 
+## Experimental Evidence
+
+Driver mutations affecting this gene in DLBCL/BL have been experimentally demonstrated to cause a reduction or loss of function (LOF).[@gongSequentialInverseDysregulation2021]
+
 ## Relevance tier by entity
 
 [[include:table1_DDX3X]]

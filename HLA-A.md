@@ -12,6 +12,10 @@ Mutations in the HLA-B gene have been associated with a loss of cell surface exp
  The mutation pattern in DLBCL implies the preferential accumulation of *inactivating mutations*. Different analytical strategies relating to the mapping of sequencing data and subtracting common germline variants can complicate the detection of mutations in this and other HLA genes. Likely owing to this, the rate of mutations is highly variable across studies and the true mutation rate has not been firmly established. 
 
 
+## Experimental Evidence
+
+Driver mutations affecting this gene in DLBCL have been experimentally demonstrated to cause a reduction or loss of function (LOF).[@fangazioGeneticMechanismsHLAI2021]
+
 ## Relevance tier by entity
 
 [[include:table1_HLA-A.md]]

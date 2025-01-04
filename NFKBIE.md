@@ -12,6 +12,10 @@ NFKBIE encodes IκBε, a negative regulator of NF-κB. Mutations in NFKBIE can d
 
 
 
+## Experimental Evidence
+
+Driver mutations affecting this gene in DLBCL have been experimentally demonstrated to cause a reduction or loss of function (LOF).[@mansouriFunctionalLossIkBe2015]
+
 ## Relevance tier by entity
 
 [[include:table1_NFKBIE.md]]

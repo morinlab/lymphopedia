@@ -12,6 +12,10 @@ KLHL6 mutations appear to be relatively common in DLBCL, FL and possibly BL.[@mo
 KLHL6 is considered a tumor suppressor gene in DLBCL with mutations tending to disrupt its interaction with cullin3, leading to the loss of its ligase activity.[@choiLossKLHL6Promotes2018] 
 
 
+## Experimental Evidence
+
+Driver mutations affecting this gene in DLBCL/FL have been experimentally demonstrated to cause a reduction or loss of function (LOF).[@choiLossKLHL6Promotes2018]
+
 ## Relevance tier by entity
 
 [[include:table1_KLHL6.md]]

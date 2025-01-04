@@ -9,6 +9,10 @@ nocite: |
 
 
 
+## Experimental Evidence
+
+Driver mutations affecting this gene in FL have been experimentally demonstrated to cause a gain of function (GOF).[@dheillyCathepsinRegulatesAntigen2020]
+
 ## Relevance tier by entity
 
 [[include:table1_CTSS.md]]

@@ -13,6 +13,10 @@ The mutation pattern in DLBCL implies the preferential accumulation of *inactiva
 
 
 
+## Experimental Evidence
+
+Driver mutations affecting this gene in DLBCL have been experimentally demonstrated to cause a reduction or loss of function (LOF).[@fangazioGeneticMechanismsHLAI2021]
+
 ## Relevance tier by entity
 
 [[include:table1_HLA-C.md]]

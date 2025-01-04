@@ -16,6 +16,10 @@ Coding and non-coding mutations in this gene are associated with the MCD genetic
 
 
 
+## Experimental Evidence
+
+Driver mutations affecting this gene in DLBCL have been experimentally demonstrated to cause a reduction or loss of function (LOF).[@wangETV6MutationCohort2014]
+
 ## Relevance tier by entity
 
 [[include:table1_ETV6.md]]

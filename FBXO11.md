@@ -13,6 +13,10 @@ This gene has some recurrent sites of mutations (hot spots). Mutations lead to s
 These mutations present a potential novel target for therapeutic intervention, particularly through strategies aimed at degrading BCL6 or inhibiting its function.
 
 
+## Experimental Evidence
+
+Driver mutations affecting this gene in DLBCL/BL have been experimentally demonstrated to cause a reduction or loss of function (LOF).[@duanFBXO11TargetsBCL62011]
+
 ## Relevance tier by entity
 
 [[include:table1_FBXO11]]

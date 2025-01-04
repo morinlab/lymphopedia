@@ -12,6 +12,10 @@ nocite: |
 Mutations in BL were first described by Grande et al.[@grandeGenomewideDiscoverySomatic2019]
 
 
+## Experimental Evidence
+
+Driver mutations affecting this gene in BL have been experimentally demonstrated to cause a reduction or loss of function (LOF).[@toncUnexpectedSuppressionTumorigenesis2021]
+
 ## Relevance tier by entity
 
 [[include:table1_TFAP4.md]]

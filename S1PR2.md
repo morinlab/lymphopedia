@@ -11,6 +11,10 @@ nocite: |
 S1PR2 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus.
 
 
+## Experimental Evidence
+
+Driver mutations affecting this gene in DLBCL have been experimentally demonstrated to cause a reduction or loss of function (LOF).[@muppidiLossSignalingGa132014]
+
 ## Relevance tier by entity
 
 [[include:table1_S1PR2.md]]

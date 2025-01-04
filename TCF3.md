@@ -9,6 +9,10 @@ nocite: |
 [[_TOC_]]
 
 
+## Experimental Evidence
+
+Driver mutations affecting this gene in BL have been experimentally demonstrated to cause a gain of function (GOF).[@schmitzBurkittLymphomaPathogenesis2012]
+
 ## Relevance tier by entity
 
 [[include:table1_TCF3.md]]

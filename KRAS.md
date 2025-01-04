@@ -11,6 +11,10 @@ nocite: |
 KRAS mutations are rare but occur in some cases of DLBCL.[@lohrDiscoveryPrioritizationSomatic2012] These often affect the most common KRAS hotspot sites that are mutated in other solid cancers (G12 and G13).
 
 
+## Experimental Evidence
+
+Driver mutations affecting this gene in DLBCL have been experimentally demonstrated to cause a gain of function (GOF).[@scheffzekRasRasGAPComplexStructural1997]
+
 ## Relevance tier by entity
 
 [[include:table1_KRAS.md]]

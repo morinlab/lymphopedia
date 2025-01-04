@@ -11,6 +11,10 @@ nocite: |
 Although CDKN2A aberrations are common in DLBCL, this gene is predominantly affected by copy number alterations. One study found that deletions of the CDKN2A locus occur in about one-third of DLBCL patients.[@spinaGeneticsNodalMarginal2016] The mutation pattern in DLBCL and FL implies the preferential accumulation of *inactivating mutations*. This gene has some recurrent sites of mutations (hotspots) with the most common mutation causing a truncation at codon 80 (R80*). 
 
 
+## Experimental Evidence
+
+Driver mutations affecting this gene in DLBCL have been experimentally demonstrated to cause a reduction or loss of function (LOF).[@kannengiesserFunctionalStructuralGenetic2009]
+
 ## Relevance tier by entity
 
 [[include:table1_CDKN2A.md]]

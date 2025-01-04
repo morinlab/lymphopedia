@@ -18,6 +18,10 @@ This and other common mutations primarily occur in the immunoreceptor tyrosine-b
 
 
 
+## Experimental Evidence
+
+Driver mutations affecting this gene in DLBCL have been experimentally demonstrated to cause a gain of function (GOF).[@davisChronicActiveBcellreceptor2010]
+
 ## Relevance tier by entity
 
 [[include:table1_CD79B.md]]

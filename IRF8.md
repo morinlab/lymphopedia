@@ -15,6 +15,10 @@ There is preliminary evidence that IRF8 mutations contribute to immune evasion b
 These are crucial for processing and presentation of self antigens.
 
 
+## Experimental Evidence
+
+Driver mutations affecting this gene in DLBCL/FL have been experimentally demonstrated to cause a reduction or loss of function (LOF).[@qiuIRF8mutantCellLymphoma2024]
+
 ## Relevance tier by entity
 
 [[include:table1_IRF8.md]]

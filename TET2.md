@@ -9,6 +9,10 @@ nocite: |
 
 
 
+## Experimental Evidence
+
+Driver mutations affecting this gene in DLBCL have been experimentally demonstrated to cause a reduction or loss of function (LOF).[@asmarGenomewideProfilingIdentifies2013]
+
 ## Relevance tier by entity
 
 [[include:table1_TET2.md]]

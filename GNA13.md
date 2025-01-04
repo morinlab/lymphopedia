@@ -12,6 +12,10 @@ Mutations in GNA13, which encodes a G protein alpha subunit involved in multiple
 
 
 
+## Experimental Evidence
+
+Driver mutations affecting this gene in BL/FL/DLBCL have been experimentally demonstrated to cause a reduction or loss of function (LOF).[@muppidiLossSignalingGa132014; @ohayreInactivatingMutationsGNA132016]
+
 ## Relevance tier by entity
 
 [[include:table1_GNA13]]

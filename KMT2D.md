@@ -17,6 +17,10 @@ First identified as mutated in DLBCL and FL in 2011 by Morin et al.[@morinFreque
 Mutations were later described in MCL in 2013 by Bea et al.[@beaLandscapeSomaticMutations2013] KMT2D mutations were later reported in BL by Grande et al.[@grandeGenomewideDiscoverySomatic2019]
 
 
+## Experimental Evidence
+
+Driver mutations affecting this gene in BL/DLBCL/FL have been experimentally demonstrated to cause a reduction or loss of function (LOF).[@zhangDisruptionKMT2DPerturbs2015]
+
 ## Relevance tier by entity
 
 [[include:table1_KMT2D]]
