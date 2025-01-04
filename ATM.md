@@ -13,6 +13,10 @@ Mutations in this gene were first described in MZL by Braggio et al.[@braggioGen
 
 
 
+## Experimental Evidence
+
+Driver mutations affecting this gene in DLBCL have been experimentally demonstrated to cause a reduction or loss of function (LOF).[@camachoATMGeneInactivation2002]
+
 ## Relevance tier by entity
 
 [[include:table1_ATM.md]]
