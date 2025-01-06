@@ -21,8 +21,13 @@ Although missense mutations may not be under positive selective pressure in the 
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
+### DLBCL
 [[include:DLBCL_BCL2.md]]
+
+### FL
 [[include:FL_BCL2.md]]
+
+### BL
 [[include:BL_BCL2.md]]
 
 ## Mutation pattern and selective pressure estimates
