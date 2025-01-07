@@ -14,7 +14,9 @@ Details for each gene can be found on their respective pages. The novel genes no
 
 To get started, select one of the gene lists from the table below then select the `gene page` link for any gene in the table or explore the genes nominated by [individual studies](Papers).  
 
-## Common B-cell lymphomas
+## Gene lists
+
+### Common B-cell lymphomas
 
 |Entity|Tier 1 (high-confidence)|Tier 2 (low-confidence)|Tier 3 (retired) |
 |:-:|:-:|:-:|:-:|
@@ -24,6 +26,15 @@ To get started, select one of the gene lists from the table below then select th
 
 [Combined gene list](DLBCL_FL_BL)
 
+## Rare B-cell lymphomas
+
+|Entity|Tier 1 (high-confidence)|Tier 2 (low-confidence)|Tier 3 (retired) |
+|:-:|:-:|:-:|:-:|
+|PMBL[(tsv)](https://github.com/morinlab/LLMPP/blob/main/resources/curated/PMBL_HL_MGZL.tsv)|[76 genes](PMBL_genes#tier-1-pmbl-genes)|[82 genes](PMBL_genes#tier-2-pmbl-genes)|[0 genes](PMBL_genes#tier-3-pmbl-g$
+|MCL [(tsv)](https://github.com/morinlab/LLMPP/blob/main/resources/curated/mcl_genes.tsv)|[23 genes](MCL_genes#tier-1-mcl-genes)|[46 genes](MCL_genes#tier-2-mcl-genes)|[0 genes](MCL_genes#tier-3-mcl-genes)|
+|MZL [(tsv)](https://github.com/morinlab/LLMPP/blob/main/resources/curated/mzl_genes.tsv)|[42 genes](MZL_genes#tier-1-mzl-genes)|[74 genes](MZL_genes#tier-2-mzl-genes)|[0 genes](MZL_genes#tier-3-mzl-genes)|
+
+\* *PMBL gene list includes genes attributed to classical Hodgkin lymphoma or marginal grey-zone lymphoma*
 
 ### History of lymphoma genes in common entities
 
@@ -149,18 +160,6 @@ BL, BL RNA-seq, 19
 BL RNA-seq, Schmitz 2012, 19
 ```
 
-
-
-
-## Rare B-cell lymphomas
-
-|Entity|Tier 1 (high-confidence)|Tier 2 (low-confidence)|Tier 3 (retired) |
-|:-:|:-:|:-:|:-:|
-|PMBL[(tsv)](https://github.com/morinlab/LLMPP/blob/main/resources/curated/PMBL_HL_MGZL.tsv)|[76 genes](PMBL_genes#tier-1-pmbl-genes)|[82 genes](PMBL_genes#tier-2-pmbl-genes)|[0 genes](PMBL_genes#tier-3-pmbl-genes)|
-|MCL [(tsv)](https://github.com/morinlab/LLMPP/blob/main/resources/curated/mcl_genes.tsv)|[23 genes](MCL_genes#tier-1-mcl-genes)|[46 genes](MCL_genes#tier-2-mcl-genes)|[0 genes](MCL_genes#tier-3-mcl-genes)|
-|MZL [(tsv)](https://github.com/morinlab/LLMPP/blob/main/resources/curated/mzl_genes.tsv)|[42 genes](MZL_genes#tier-1-mzl-genes)|[74 genes](MZL_genes#tier-2-mzl-genes)|[0 genes](MZL_genes#tier-3-mzl-genes)|
-
-\* *PMBL gene list includes genes attributed to classical Hodgkin lymphoma or marginal grey-zone lymphoma*
 
 ### History of lymphoma genes in rare entities
 
