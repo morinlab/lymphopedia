@@ -30,8 +30,6 @@ bibliography: 'morinlab.bib'
 |DLBCL|exome|34|39| 21|ARID1A|[@zhangGeneticHeterogeneityDiffuse2013](papers/zhangGeneticHeterogeneityDiffuse2013.md)|
 |DLBCL|Sanger|0|0| 6|EBF1|[@bohleRoleEarlyBcell2013](papers/bohleRoleEarlyBcell2013.md)|
 |DLBCL|WGS|40|0|13|ABI3BP|[@morinMutationalStructuralAnalysis2013](papers/morinMutationalStructuralAnalysis2013.md)|
-|MZL|exome||||AMOTL1|[@parryWholeExomeSequencing2013](papers/parryWholeExomeSequencing2013.md)|
-|MCL|exome||||ANK2|[@zhangGenomicLandscapeMantle2014](papers/zhangGenomicLandscapeMantle2014.md)|
 |BL|Sanger||||ARHGEF1|[@muppidiLossSignalingGa132014](papers/muppidiLossSignalingGa132014.md)|
 |BL|RNA-seq|0|20 |0|CCNF|[@abateDistinctViralMutational2015](papers/abateDistinctViralMutational2015.md)|
 |DLBCL|Sanger|24|0|0 |STAT6|[@yildizActivatingSTAT6Mutations2015](papers/yildizActivatingSTAT6Mutations2015.md)|
