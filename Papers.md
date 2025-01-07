@@ -54,7 +54,7 @@ bibliography: 'morinlab.bib'
 |BL|WGS|193|82|22|CDKN2C|[@thomasGeneticSubgroupsInform2023](papers/thomasGeneticSubgroupsInform2023.md)|
 |FL|exome, panel|0|370| 0|ABL2|[@russler-germainMutationsAssociatedProgression2023](papers/russler-germainMutationsAssociatedProgression2023.md)|
 
-
+<!---
 |Entity|Method|Paired samples|Unpaired samples|Cell lines|Example gene|Study|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-------:|
 |PMBL|Sanger||||GPR126|[@wenigerMutationsTumorSuppressor2006](papers/wenigerMutationsTumorSuppressor2006.md)|
@@ -89,7 +89,7 @@ bibliography: 'morinlab.bib'
 |PMBL|exome|11|5 |(45.5)|ABCA13|[@sarkozyMutationalLandscapeGray2021](papers/sarkozyMutationalLandscapeGray2021.md)|
 |PMBL|exome|14|6 |(42.9)|BIRC3|[@dunsCharacterizationDLBCLPMBL2021](papers/dunsCharacterizationDLBCLPMBL2021.md)|
 |PMBL|exome|7|2| (28.6)|ARID5B|[@gomezUltraDeepSequencingReveals2023](papers/gomezUltraDeepSequencingReveals2023.md)|
-
+-->
 
 # References
 
