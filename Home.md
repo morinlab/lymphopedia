@@ -36,6 +36,12 @@ To get started, select one of the gene lists from the table below then select th
 
 \* *PMBL gene list includes genes attributed to classical Hodgkin lymphoma or marginal grey-zone lymphoma*
 
+## aSHM targets
+
+[hg19 coordinates](ashm)
+
+[hg38 coordinates](ashm_hg38)
+
 ### History of lymphoma genes in common entities
 
 ```mermaid
@@ -261,14 +267,6 @@ PMBL exome, Duns 2021, 13
 PMBL panel, Desch 2020, 10
 ```
 
-
-
-
-## Regions commonly affected by aSHM
-
-[hg19 coordinates](ashm)
-
-[hg38 coordinates](ashm_hg38)
 
 ## Origins of the individual lymphoma genes
 
