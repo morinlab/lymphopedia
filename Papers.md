@@ -25,7 +25,6 @@ bibliography: 'morinlab.bib'
 |DLBCL|Sanger||||MIR142|[@kwanhianMicroRNA142Mutated202012](papers/kwanhianMicroRNA142Mutated202012.md)|
 |DLBCL|WGS|40|0|0|CXCR4|[@khodabakhshiRecurrentTargetsAberrant2012](papers/khodabakhshiRecurrentTargetsAberrant2012.md)|
 |DLBCL|exome|55|0|0|ACTB|[@lohrDiscoveryPrioritizationSomatic2012](papers/lohrDiscoveryPrioritizationSomatic2012.md)|
-|MZL|Panel||||CARD11|[@yanBCRTLRSignaling2012](papers/yanBCRTLRSignaling2012.md)|
 |BL|exome|| ||ACAD9|[@loveGeneticLandscapeMutations2012](papers/loveGeneticLandscapeMutations2012.md)|
 |BL|RNA-seq||||C16orf48|[@schmitzBurkittLymphomaPathogenesis2012](papers/schmitzBurkittLymphomaPathogenesis2012.md)|
 |DLBCL|exome|34|39| 21|ARID1A|[@zhangGeneticHeterogeneityDiffuse2013](papers/zhangGeneticHeterogeneityDiffuse2013.md)|
