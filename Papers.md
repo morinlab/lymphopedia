@@ -41,11 +41,11 @@ bibliography: 'morinlab.bib'
 |FL|exome|61|69 |0|ARID1A|[@krysiakRecurrentSomaticMutations2017](papers/krysiakRecurrentSomaticMutations2017.md)|
 |DLBCL|exome|96|0 |0|BTK|[@albuquerqueEnhancingKnowledgeDiscovery2017](papers/albuquerqueEnhancingKnowledgeDiscovery2017.md)|
 |DLBCL|exome|400|601|0|ANKRD17|[@reddyGeneticFunctionalDrivers2017](papers/reddyGeneticFunctionalDrivers2017.md)|
-|DLBCL|exome|19|2 |(10.5)|CCL4|[@chapuyMolecularSubtypesDiffuse2018](papers/chapuyMolecularSubtypesDiffuse2018.md)|
-|DLBCL|WGS|19|7| (36.8)|AICDA|[@arthurGenomewideDiscoverySomatic2018](papers/arthurGenomewideDiscoverySomatic2018.md)|
-|DLBCL|exome|16|7| (43.8)|CXCR5|[@schmitzGeneticsPathogenesisDiffuse2018](papers/schmitzGeneticsPathogenesisDiffuse2018.md)|
-|BL|exome|1|0 |(0.0)|KMT2C|[@zhouSporadicEndemicBurkitt2019](papers/zhouSporadicEndemicBurkitt2019.md)|
-|BL|RNAseq, exome|39|4| (10.3)|ALPK2|[@paneaWholeGenomeLandscape2019](papers/paneaWholeGenomeLandscape2019.md)|
+|DLBCL|exome|137|167 |0|CCL4|[@chapuyMolecularSubtypesDiffuse2018](papers/chapuyMolecularSubtypesDiffuse2018.md)|
+|DLBCL|WGS|153|0| 0|AICDA|[@arthurGenomewideDiscoverySomatic2018](papers/arthurGenomewideDiscoverySomatic2018.md)|
+|DLBCL|exome|48|526|0|CXCR5|[@schmitzGeneticsPathogenesisDiffuse2018](papers/schmitzGeneticsPathogenesisDiffuse2018.md)|
+|BL|exome|0|74 |0|KMT2C|[@zhouSporadicEndemicBurkitt2019](papers/zhouSporadicEndemicBurkitt2019.md)|
+|BL|RNAseq, exome|101|0| 0|ALPK2|[@paneaWholeGenomeLandscape2019](papers/paneaWholeGenomeLandscape2019.md)|
 |BL|WGS|13|9| (69.2)|BACH2|[@grandeGenomewideDiscoverySomatic2019](papers/grandeGenomewideDiscoverySomatic2019.md)|
 |FL|panel|1|1| (100.0)|CTSS|[@barariaCathepsinAlterationsInduce2020](papers/barariaCathepsinAlterationsInduce2020.md)|
 |DLBCL|exome, panel|1|1 |(100.0)|MS4A1|[@rushtonGeneticEvolutionaryPatterns2020](papers/rushtonGeneticEvolutionaryPatterns2020.md)|
