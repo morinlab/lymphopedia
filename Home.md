@@ -26,7 +26,7 @@ To get started, select one of the gene lists from the table below then select th
 
 [Combined gene list](DLBCL_FL_BL)
 
-## Rare B-cell lymphomas
+### Rare B-cell lymphomas
 
 |Entity|Tier 1 (high-confidence)|Tier 2 (low-confidence)|Tier 3 (retired) |
 |:-:|:-:|:-:|:-:|
@@ -42,7 +42,9 @@ To get started, select one of the gene lists from the table below then select th
 
 [hg38 coordinates](ashm_hg38)
 
-### History of lymphoma genes in common entities
+## History
+
+### DLBCL, FL and BL
 
 ```mermaid
 ---
