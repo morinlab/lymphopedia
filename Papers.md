@@ -34,16 +34,16 @@ bibliography: 'morinlab.bib'
 |MZL|Panel||||CARD11|[@yanBCRTLRSignaling2012](papers/yanBCRTLRSignaling2012.md)|
 |BL|exome|| ||ACAD9|[@loveGeneticLandscapeMutations2012](papers/loveGeneticLandscapeMutations2012.md)|
 |BL|RNA-seq||||C16orf48|[@schmitzBurkittLymphomaPathogenesis2012](papers/schmitzBurkittLymphomaPathogenesis2012.md)|
-|MZL|Array/Sanger|1|1| (100.0)|ATM|[@braggioGenomicAnalysisMarginal2012](papers/braggioGenomicAnalysisMarginal2012.md)|
-|MCL|WGS/exome|27|11| (40.7)|ABCA3|[@beaLandscapeSomaticMutations2013](papers/beaLandscapeSomaticMutations2013.md)|
-|DLBCL|exome|16|8| (50.0)|ARID1A|[@zhangGeneticHeterogeneityDiffuse2013](papers/zhangGeneticHeterogeneityDiffuse2013.md)|
-|DLBCL|Sanger|1|1| (100.0)|EBF1|[@bohleRoleEarlyBcell2013](papers/bohleRoleEarlyBcell2013.md)|
-|DLBCL|WGS|38|9| (23.7)|ABI3BP|[@morinMutationalStructuralAnalysis2013](papers/morinMutationalStructuralAnalysis2013.md)|
-|MZL|exome|8|0| (0.0)|AMOTL1|[@parryWholeExomeSequencing2013](papers/parryWholeExomeSequencing2013.md)|
-|MCL|exome|28|2| (7.1)|ANK2|[@zhangGenomicLandscapeMantle2014](papers/zhangGenomicLandscapeMantle2014.md)|
-|PMBL|WGS/Sanger|1|1| (100.0)|PTPN1|[@gunawardanaRecurrentSomaticMutations2014](papers/gunawardanaRecurrentSomaticMutations2014.md)|
-|BL|Sanger|3|1| (33.3)|ARHGEF1|[@muppidiLossSignalingGa132014](papers/muppidiLossSignalingGa132014.md)|
-|BL|RNA-seq|1|0 |(0.0)|CCNF|[@abateDistinctViralMutational2015](papers/abateDistinctViralMutational2015.md)|
+|MZL|Array/Sanger||||ATM|[@braggioGenomicAnalysisMarginal2012](papers/braggioGenomicAnalysisMarginal2012.md)|
+|MCL|WGS/exome||||ABCA3|[@beaLandscapeSomaticMutations2013](papers/beaLandscapeSomaticMutations2013.md)|
+|DLBCL|exome|34|39| 21|ARID1A|[@zhangGeneticHeterogeneityDiffuse2013](papers/zhangGeneticHeterogeneityDiffuse2013.md)|
+|DLBCL|Sanger|0|0| 6|EBF1|[@bohleRoleEarlyBcell2013](papers/bohleRoleEarlyBcell2013.md)|
+|DLBCL|WGS|40|0|13|ABI3BP|[@morinMutationalStructuralAnalysis2013](papers/morinMutationalStructuralAnalysis2013.md)|
+|MZL|exome||||AMOTL1|[@parryWholeExomeSequencing2013](papers/parryWholeExomeSequencing2013.md)|
+|MCL|exome||||ANK2|[@zhangGenomicLandscapeMantle2014](papers/zhangGenomicLandscapeMantle2014.md)|
+|PMBL|WGS/Sanger||||PTPN1|[@gunawardanaRecurrentSomaticMutations2014](papers/gunawardanaRecurrentSomaticMutations2014.md)|
+|BL|Sanger||||ARHGEF1|[@muppidiLossSignalingGa132014](papers/muppidiLossSignalingGa132014.md)|
+|BL|RNA-seq|0|20 |0|CCNF|[@abateDistinctViralMutational2015](papers/abateDistinctViralMutational2015.md)|
 |DLBCL|Sanger|1|1| (100.0)|STAT6|[@yildizActivatingSTAT6Mutations2015](papers/yildizActivatingSTAT6Mutations2015.md)|
 |PMBL|Sanger|1|1 |(100.0)|CIITA|[@mottokGenomicAlterationsCIITA2015](papers/mottokGenomicAlterationsCIITA2015.md)|
 |PMBL|Sanger|1|1 |(100.0)|CD58|[@schneiderAlterationsCD58Gene2015](papers/schneiderAlterationsCD58Gene2015.md)|
