@@ -10,9 +10,9 @@ bibliography: 'morinlab.bib'
 |2001|DLBCL|Sanger|11|28|0|MYC|[@pasqualucciHypermutationMultipleProtooncogenes2001](papers/pasqualucciHypermutationMultipleProtooncogenes2001.md)|
 |2004|BL|Sanger|0|24|0|TP53|[@wildaInactivationARFMDM2p53Pathway2004](papers/wildaInactivationARFMDM2p53Pathway2004.md)|
 |2006|DLBCL|Sanger|134|0|20|PRDM1|[@pasqualucciInactivationPRDM1BLIMP12006](papers/pasqualucciInactivationPRDM1BLIMP12006.md)|
-|2006|PMBL|Sanger|2||1 (50.0)|GPR126|[@wenigerMutationsTumorSuppressor2006](papers/wenigerMutationsTumorSuppressor2006.md)|
-|2007|DLBCL|Sanger|1||1 (100.0)|FAS|[@schollMutationsRegionFAS2007](papers/schollMutationsRegionFAS2007.md)|
-|2008|DLBCL|Sanger|1||1 (100.0)|CARD11|[@lenzOncogenicCARD11Mutations2008](papers/lenzOncogenicCARD11Mutations2008.md)|
+|2006|PMBL|Sanger||||GPR126|[@wenigerMutationsTumorSuppressor2006](papers/wenigerMutationsTumorSuppressor2006.md)|
+|2007|DLBCL|Sanger||||FAS|[@schollMutationsRegionFAS2007](papers/schollMutationsRegionFAS2007.md)|
+|2008|DLBCL|Sanger|6|217|21|CARD11|[@lenzOncogenicCARD11Mutations2008](papers/lenzOncogenicCARD11Mutations2008.md)|
 |2009|DLBCL|Sanger|1||1 (100.0)|NFKBIA|[@lakeMutationsNFKBIAEncoding2009](papers/lakeMutationsNFKBIAEncoding2009.md)|
 |2009|DLBCL|Sanger|1||1 (100.0)|TNFAIP3|[@compagnoMutationsMultipleGenes2009](papers/compagnoMutationsMultipleGenes2009.md)|
 |2009|PMBL|Sanger|1||1 (100.0)|STAT6|[@ritzRecurrentMutationsSTAT62009](papers/ritzRecurrentMutationsSTAT62009.md)|
