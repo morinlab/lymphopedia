@@ -15,13 +15,13 @@ bibliography: 'morinlab.bib'
 |DLBCL|Sanger||||NFKBIA|[@lakeMutationsNFKBIAEncoding2009](papers/lakeMutationsNFKBIAEncoding2009.md)|
 |DLBCL|Sanger|0|101||TNFAIP3|[@compagnoMutationsMultipleGenes2009](papers/compagnoMutationsMultipleGenes2009.md)|
 |FL|Sanger|11|251|0|TNFRSF14|[@cheungAcquiredTNFRSF14Mutations2010](papers/cheungAcquiredTNFRSF14Mutations2010.md)|
-|DLBCL/FL|RNA-seq/WGS|1|31|7|EZH2|[@morinSomaticMutationsAltering2010](papers/morinSomaticMutationsAltering2010.md)|
+|DLBCL, FL|RNA-seq, WGS|1|31|7|EZH2|[@morinSomaticMutationsAltering2010](papers/morinSomaticMutationsAltering2010.md)|
 |DLBCL|Sanger|0|382|20|MYD88|[@ngoOncogenicallyActiveMYD882011](papers/ngoOncogenicallyActiveMYD882011.md)|
-|DLBCL|RNA-seq/WGS|14|103|10|B2M|[@morinFrequentMutationHistonemodifying2011](papers/morinFrequentMutationHistonemodifying2011.md)|
+|DLBCL|RNA-seq, WGS|14|103|10|B2M|[@morinFrequentMutationHistonemodifying2011](papers/morinFrequentMutationHistonemodifying2011.md)|
 |DLBCL|exome|6|92|23|CD36|[@pasqualucciAnalysisCodingGenome2011](papers/pasqualucciAnalysisCodingGenome2011.md)|
-|DLBCL/FL|exome|7|134|0|CREBBP|[@pasqualucciInactivatingMutationsAcetyltransferase2011](papers/pasqualucciInactivatingMutationsAcetyltransferase2011.md)|
-|DLBCL|exome/Sanger||||BRAF|[@tiacciBRAFMutationsHairycell2011](papers/tiacciBRAFMutationsHairycell2011.md)|
-|BL|RNA-seq/WGS/exome||53||CCND3|[@richterRecurrentMutationID32012](papers/richterRecurrentMutationID32012.md)|
+|DLBCL, FL|exome|7|134|0|CREBBP|[@pasqualucciInactivatingMutationsAcetyltransferase2011](papers/pasqualucciInactivatingMutationsAcetyltransferase2011.md)|
+|DLBCL|exome, Sanger||||BRAF|[@tiacciBRAFMutationsHairycell2011](papers/tiacciBRAFMutationsHairycell2011.md)|
+|BL|RNA-seq, WGS, exome||53||CCND3|[@richterRecurrentMutationID32012](papers/richterRecurrentMutationID32012.md)|
 |DLBCL|Sanger||||MIR142|[@kwanhianMicroRNA142Mutated202012](papers/kwanhianMicroRNA142Mutated202012.md)|
 |DLBCL|WGS|40|0|0|CXCR4|[@khodabakhshiRecurrentTargetsAberrant2012](papers/khodabakhshiRecurrentTargetsAberrant2012.md)|
 |DLBCL|exome|55|0|0|ACTB|[@lohrDiscoveryPrioritizationSomatic2012](papers/lohrDiscoveryPrioritizationSomatic2012.md)|
