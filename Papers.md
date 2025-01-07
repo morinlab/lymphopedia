@@ -3,7 +3,7 @@ title: 'Studies'
 bibliography: 'morinlab.bib'
 ---
 
-|Year|Focus|Sequencing Method|Paired samples|Unpaired samples|Cell lines|Example gene|Study|
+|Year|Entity|Approach|Paired samples|Unpaired samples|Cell lines|Example gene|Study|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-------:|
 |1992|DLBCL|Sanger|0|5|0|BCL2|[@tanakaFrequentIncidenceSomatic1992](papers/tanakaFrequentIncidenceSomatic1992.md)|
 |1992|BL|Sanger|0|0|9|MYC|[@johnstonCmycHypermutationBurkitt1992](papers/johnstonCmycHypermutationBurkitt1992.md)|
