@@ -19,7 +19,7 @@ To get started, select one of the gene lists from the table below then select th
 ### Common B-cell lymphomas
 
 |Entity|Tier 1 genes (high-confidence)|Tier 2 genes (low-confidence)|Tier 3 genes (retired) |Download|
-|:-:|:-:|:-:|:-:|-|
+|:-:|:-:|:-:|:-:|:-:|
 |BL|[32](BL_genes#tier-1-bl-genes)|[72](BL_genes#tier-2-bl-genes)|[70](BL_genes#tier-3-bl-genes)|[(full list)](https://raw.githubusercontent.com/morinlab/LLMPP/main/resources/curated/bl_genes.tsv)|[32](BL_genes#tier-1-bl-genes)|
 |DLBCL|[125](DLBCL_genes#tier-1-dlbcl-genes)|[210](DLBCL_genes#tier-2-dlbcl-genes)|[387](DLBCL_genes#tier-3-dlbcl-genes)|[(full list)](https://raw.githubusercontent.com/morinlab/LLMPP/main/resources/curated/dlbcl_genes.tsv)|
 |FL|[54](FL_genes#tier-1-fl-genes)|[59](FL_genes#tier-2-fl-genes)|0|[(full list)](https://raw.githubusercontent.com/morinlab/LLMPP/main/resources/curated/fl_genes.tsv)|
