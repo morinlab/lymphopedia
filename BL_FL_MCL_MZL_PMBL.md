@@ -1,4 +1,4 @@
-|Gene|PMBL_Tier|FL_Tier|BL_Tier|MCL_Tier|DLBCL_Tier|MZL_Tier|Any_Tier1|
+|Gene|PMBL Tier|FL Tier|BL Tier|MCL Tier|DLBCL Tier|MZL Tier|Any Tier 1|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |ACTB|1|1|||1|1|Yes|
 |ACTG1|2|2|||1|2|Yes|
