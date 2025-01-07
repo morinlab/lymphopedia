@@ -1,3 +1,11 @@
+---
+title: 'Combined DLBCL/BL/FL/MCL/MZL/PMBL  gene list'
+bibliography: 'morinlab.bib'
+
+link-citations: true
+---
+
+
 |Gene|PMBL Tier|FL Tier|BL Tier|MCL Tier|DLBCL Tier|MZL Tier|Any Tier 1|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |ACTB|1|1|||1|1|Yes|
