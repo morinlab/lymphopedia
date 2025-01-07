@@ -20,10 +20,10 @@ To get started, select one of the gene lists from the table below then select th
 
 |Entity|Tier 1 genes (high-confidence)|Tier 2 genes (low-confidence)|Tier 3 genes (retired) |Download|
 |:-:|:-:|:-:|:-:|:-:|
-|BL|[32](BL_genes#tier-1-bl-genes)|[72](BL_genes#tier-2-bl-genes)|[70](BL_genes#tier-3-bl-genes)|[(full list)](https://raw.githubusercontent.com/morinlab/LLMPP/main/resources/curated/bl_genes.tsv)|[32](BL_genes#tier-1-bl-genes)|
-|DLBCL|[125](DLBCL_genes#tier-1-dlbcl-genes)|[210](DLBCL_genes#tier-2-dlbcl-genes)|[387](DLBCL_genes#tier-3-dlbcl-genes)|[(full list)](https://raw.githubusercontent.com/morinlab/LLMPP/main/resources/curated/dlbcl_genes.tsv)|
-|FL|[54](FL_genes#tier-1-fl-genes)|[59](FL_genes#tier-2-fl-genes)|0|[(full list)](https://raw.githubusercontent.com/morinlab/LLMPP/main/resources/curated/fl_genes.tsv)|
-|PMBL|[76](PMBL_genes#tier-1-pmbl-genes)|[82](PMBL_genes#tier-2-pmbl-genes)|0|[(full list)](https://raw.githubusercontent.com/morinlab/LLMPP/refs/heads/main/resources/curated/pmbl_genes.tsv)|
+|BL|[34](BL_genes#tier-1-bl-genes)|[77](BL_genes#tier-2-bl-genes)|[70](BL_genes#tier-3-bl-genes)|[(full list)](https://raw.githubusercontent.com/morinlab/LLMPP/main/resources/curated/bl_genes.tsv)|[32](BL_genes#tier-1-bl-genes)|
+|DLBCL|[127](DLBCL_genes#tier-1-dlbcl-genes)|[209](DLBCL_genes#tier-2-dlbcl-genes)|[387](DLBCL_genes#tier-3-dlbcl-genes)|[(full list)](https://raw.githubusercontent.com/morinlab/LLMPP/main/resources/curated/dlbcl_genes.tsv)|
+|FL|[54](FL_genes#tier-1-fl-genes)|[58](FL_genes#tier-2-fl-genes)|0|[(full list)](https://raw.githubusercontent.com/morinlab/LLMPP/main/resources/curated/fl_genes.tsv)|
+|PMBL|[46](PMBL_genes#tier-1-pmbl-genes)|[112](PMBL_genes#tier-2-pmbl-genes)|0|[(full list)](https://raw.githubusercontent.com/morinlab/LLMPP/refs/heads/main/resources/curated/pmbl_genes.tsv)|
 |MCL|[23](MCL_genes#tier-1-mcl-genes)|[46](MCL_genes#tier-2-mcl-genes)|0|[(full list)](https://raw.githubusercontent.com/morinlab/LLMPP/refs/heads/main/resources/curated/mcl_genes.tsv)|
 |MZL|[42](MZL_genes#tier-1-mzl-genes)|[74](MZL_genes#tier-2-mzl-genes)|0|[(full list)](https://raw.githubusercontent.com/morinlab/LLMPP/refs/heads/main/resources/curated/mzl_genes.tsv)|
 
@@ -33,6 +33,7 @@ To get started, select one of the gene lists from the table below then select th
 |Entities|Page|File|
 |:-:|:-:|:-:|
 |DLBCL, BL and FL|[view list](DLBCL_FL_BL)|[(download)](https://raw.githubusercontent.com/morinlab/LLMPP/refs/heads/main/resources/curated/any_tier1_BL_FL_DLBCL.tsv)|
+|DLBCL, BL, FL, MCL, MZL and PMBL|[view list](BL_FL_MCL_MZL_PMBL)|[(download)](https://raw.githubusercontent.com/morinlab/LLMPP/refs/heads/main/resources/curated/any_tier1_BL_FL_DLBCL_MCL_MZL_PMBL.tsv)|
 
 ## aSHM targets
 
