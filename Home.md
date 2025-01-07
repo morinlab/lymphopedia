@@ -4,6 +4,8 @@ bibliography: 'morinlab.bib'
 link-citations: true
 ---
 
+[[_TOC_]]
+
 # Welcome to Lymphopedia!
 
 
@@ -14,7 +16,6 @@ This is a comprehensive catalogue of genes that have been nominated as *recurren
 To get started, select one of the gene lists from the table below then select the `gene page` link for any gene in the table or explore the genes nominated by [individual studies](Papers).  
 
 ## Common B-cell lymphomas
-
 
 |Entity|Tier 1 (high-confidence)|Tier 2 (low-confidence)|Tier 3 (retired) |
 |:-:|:-:|:-:|:-:|
@@ -34,7 +35,7 @@ config:
     showValues: false
     linkColor: target
     width: 750
-    height: 1150
+    height: 1350
     nodeAlignment: left
 ---
 sankey-beta
@@ -171,7 +172,7 @@ config:
     showValues: false
     linkColor: target
     width: 750
-    height: 1050
+    height: 1350
     nodeAlignment: right
 ---
 sankey-beta
@@ -290,11 +291,13 @@ PMBL panel, Desch 2020, 10
 
 ### Tiers
 
-**Tier 2** - Any gene described as significantly or recurrently mutated in one or more types of B-cell lymphoma is initially assigned to Tier 2 for that entity. The study describing the mutation of that gene in a particular entity is considered the originating study. 
+**Tier 2** - Any gene described as significantly or recurrently mutated in one or more types of B-cell lymphoma is initially assigned to Tier 2 for that entity. The study describing the mutation of that gene in a particular entity is considered the originating study.
 
-**Tier 1** - Genes can transition to Tier 1 only after additional studies have demonstrated the recurrence of mutations in the same entity.  
+**Tier 1** - Genes can transition to Tier 1 only after additional studies have demonstrated the recurrence of mutations in the same entity.
 
-**Tier 3** - Tier 3 is reserved for genes that were once nominated as a driver but have since been retired due to a lack of support in the original study nominating them. 
+**Tier 3** - Tier 3 is reserved for genes that were once nominated as a driver but have since been retired due to a lack of support in the original study nominating them.
+
+For more details, visit (this page)(Supplemental_Methods_and_Results)
 
 ## Other resources available for each gene
 
