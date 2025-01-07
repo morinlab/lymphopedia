@@ -294,12 +294,7 @@ PMBL panel, Desch 2020, 10
 
 **Tier 1** - Genes can transition to Tier 1 only after additional studies have demonstrated the recurrence of mutations in the same entity.  
 
-### Additional Designations
-
-**aSHM** - Denotes genes as affected by aberrant somatic hypermutation (aSHM). Tier 1 and Tier 2 genes can have this designation, respectively abbreviated as *1-a* and *2-a*. For example, see [BCL7A](BCL7A).
-
-**Fail** - Some studies with large additions to Tier 2 lists have undergone manual review of the primary data. If the majority of mutations in a gene fail QC, the gene will be given the designation *2-F*. For example, see [MARK1](MARK1).
-
+**Tier 3** - Tier 3 is reserved for genes that were once nominated as a driver but have since been retired due to a lack of support in the original study nominating them. 
 
 ## Other resources available for each gene
 
