@@ -9,7 +9,8 @@ link-citations: true
 # Welcome to Lymphopedia!
 
 This site provides a comprehensive annotated catalogue of genes that have been nominated as *recurrently mutated* in one of the [common](Home#common-b-cell-lymphomas) or [rare](Home#rare-b-cell-lymphomas) B-cell lymphomas. 
-Each gene is [categorized](#Categorization-of-genes) based on the level and quality of supporting data in the original study and other comparable datasets. Details for each gene can be found on their respective pages. The novel genes nominated by each study can be found on the study-centric pages.
+Each gene is [categorized](#categorization-of-genes) based on the level and quality of supporting data in the original study and other comparable datasets. 
+Details for each gene can be found on their respective pages. The novel genes nominated by each study can be found on the study-centric pages. 
 
 To get started, select one of the gene lists from the table below then select the `gene page` link for any gene in the table or explore the genes nominated by [individual studies](Papers).  
 
