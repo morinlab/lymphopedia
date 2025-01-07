@@ -3,13 +3,13 @@ title: 'Studies'
 bibliography: 'morinlab.bib'
 ---
 
-|Year|Entity|Approach|Paired samples|Unpaired samples|Cell lines|Example gene|Study|
+|Year|Entity|Method|Paired samples|Unpaired samples|Cell lines|Example gene|Study|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-------:|
 |1992|DLBCL|Sanger|0|5|0|BCL2|[@tanakaFrequentIncidenceSomatic1992](papers/tanakaFrequentIncidenceSomatic1992.md)|
 |1992|BL|Sanger|0|0|9|MYC|[@johnstonCmycHypermutationBurkitt1992](papers/johnstonCmycHypermutationBurkitt1992.md)|
-|2001|DLBCL|Sanger|4||2 (50.0)|MYC|[@pasqualucciHypermutationMultipleProtooncogenes2001](papers/pasqualucciHypermutationMultipleProtooncogenes2001.md)|
-|2004|BL|Sanger|1||1 (100.0)|TP53|[@wildaInactivationARFMDM2p53Pathway2004](papers/wildaInactivationARFMDM2p53Pathway2004.md)|
-|2006|DLBCL|Sanger||1|1 (100.0)|PRDM1|[@pasqualucciInactivationPRDM1BLIMP12006](papers/pasqualucciInactivationPRDM1BLIMP12006.md)|
+|2001|DLBCL|Sanger|11|28|0|MYC|[@pasqualucciHypermutationMultipleProtooncogenes2001](papers/pasqualucciHypermutationMultipleProtooncogenes2001.md)|
+|2004|BL|Sanger|0|24|0|TP53|[@wildaInactivationARFMDM2p53Pathway2004](papers/wildaInactivationARFMDM2p53Pathway2004.md)|
+|2006|DLBCL|Sanger|134|0|20|PRDM1|[@pasqualucciInactivationPRDM1BLIMP12006](papers/pasqualucciInactivationPRDM1BLIMP12006.md)|
 |2006|PMBL|Sanger|2||1 (50.0)|GPR126|[@wenigerMutationsTumorSuppressor2006](papers/wenigerMutationsTumorSuppressor2006.md)|
 |2007|DLBCL|Sanger|1||1 (100.0)|FAS|[@schollMutationsRegionFAS2007](papers/schollMutationsRegionFAS2007.md)|
 |2008|DLBCL|Sanger|1||1 (100.0)|CARD11|[@lenzOncogenicCARD11Mutations2008](papers/lenzOncogenicCARD11Mutations2008.md)|
