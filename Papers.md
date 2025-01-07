@@ -46,13 +46,13 @@ bibliography: 'morinlab.bib'
 |DLBCL|exome|48|526|0|CXCR5|[@schmitzGeneticsPathogenesisDiffuse2018](papers/schmitzGeneticsPathogenesisDiffuse2018.md)|
 |BL|exome|0|74 |0|KMT2C|[@zhouSporadicEndemicBurkitt2019](papers/zhouSporadicEndemicBurkitt2019.md)|
 |BL|RNAseq, exome|101|0| 0|ALPK2|[@paneaWholeGenomeLandscape2019](papers/paneaWholeGenomeLandscape2019.md)|
-|BL|WGS|13|9| (69.2)|BACH2|[@grandeGenomewideDiscoverySomatic2019](papers/grandeGenomewideDiscoverySomatic2019.md)|
-|FL|panel|1|1| (100.0)|CTSS|[@barariaCathepsinAlterationsInduce2020](papers/barariaCathepsinAlterationsInduce2020.md)|
-|DLBCL|exome, panel|1|1 |(100.0)|MS4A1|[@rushtonGeneticEvolutionaryPatterns2020](papers/rushtonGeneticEvolutionaryPatterns2020.md)|
-|DLBCL|WGS|38|3 |(7.9)|ACTG1|[@hubschmannMutationalMechanismsShaping2021](papers/hubschmannMutationalMechanismsShaping2021.md)|
-|BL|panel|25|0| (0.0)|ADAMTS5|[@burkhardtClinicalRelevanceMolecular2022](papers/burkhardtClinicalRelevanceMolecular2022.md)|
-|BL|WGS|6|2| (33.3)|CDKN2C|[@thomasGeneticSubgroupsInform2023](papers/thomasGeneticSubgroupsInform2023.md)|
-|FL|exome|20|1| (5.0)|ABL2|[@russler-germainMutationsAssociatedProgression2023](papers/russler-germainMutationsAssociatedProgression2023.md)|
+|BL|WGS|106|0| 0|BACH2|[@grandeGenomewideDiscoverySomatic2019](papers/grandeGenomewideDiscoverySomatic2019.md)|
+|FL|panel|0|305| 0|CTSS|[@barariaCathepsinAlterationsInduce2020](papers/barariaCathepsinAlterationsInduce2020.md)|
+|DLBCL|exome, panel|135|0 |0|MS4A1|[@rushtonGeneticEvolutionaryPatterns2020](papers/rushtonGeneticEvolutionaryPatterns2020.md)|
+|DLBCL|WGS|179|2 |0|ACTG1|[@hubschmannMutationalMechanismsShaping2021](papers/hubschmannMutationalMechanismsShaping2021.md)|
+|BL|panel|0|298|0|ADAMTS5|[@burkhardtClinicalRelevanceMolecular2022](papers/burkhardtClinicalRelevanceMolecular2022.md)|
+|BL|WGS|193|82|22|CDKN2C|[@thomasGeneticSubgroupsInform2023](papers/thomasGeneticSubgroupsInform2023.md)|
+|FL|exome, panel|0|370| 0|ABL2|[@russler-germainMutationsAssociatedProgression2023](papers/russler-germainMutationsAssociatedProgression2023.md)|
 
 
 |Entity|Method|Paired samples|Unpaired samples|Cell lines|Example gene|Study|
