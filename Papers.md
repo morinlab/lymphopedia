@@ -23,17 +23,17 @@ bibliography: 'morinlab.bib'
 |DLBCL|RNA-seq/WGS|14|103|10|B2M|[@morinFrequentMutationHistonemodifying2011](papers/morinFrequentMutationHistonemodifying2011.md)|
 |DLBCL|exome|6|92|23|CD36|[@pasqualucciAnalysisCodingGenome2011](papers/pasqualucciAnalysisCodingGenome2011.md)|
 |DLBCL/FL|exome|7|134|0|CREBBP|[@pasqualucciInactivatingMutationsAcetyltransferase2011](papers/pasqualucciInactivatingMutationsAcetyltransferase2011.md)|
-|DLBCL|exome/Sanger|1||1 (100.0)|BRAF|[@tiacciBRAFMutationsHairycell2011](papers/tiacciBRAFMutationsHairycell2011.md)|
-|MZL|Sanger|5|4 (80.0)||BIRC3|[@rossiAlterationBIRC3Multiple2011](papers/rossiAlterationBIRC3Multiple2011.md)|
-|MZL|exome|21|10 (47.6)||ARID1A|[@rossiCodingGenomeSplenic2012](papers/rossiCodingGenomeSplenic2012.md)|
-|BL|RNA-seq/WGS/exome|5||5 (100.0)|CCND3|[@richterRecurrentMutationID32012](papers/richterRecurrentMutationID32012.md)|
-|DLBCL|Sanger|1||0 (0.0)|MIR142|[@kwanhianMicroRNA142Mutated202012](papers/kwanhianMicroRNA142Mutated202012.md)|
-|DLBCL|WGS|1|1| (100.0)|CXCR4|[@khodabakhshiRecurrentTargetsAberrant2012](papers/khodabakhshiRecurrentTargetsAberrant2012.md)|
-|PMBL|Array/Sanger|2|2| (100.0)|MAP3K14|[@ottoGeneticLesionsTRAF32012](papers/ottoGeneticLesionsTRAF32012.md)|
-|DLBCL|exome|39|18| (46.2)|ACTB|[@lohrDiscoveryPrioritizationSomatic2012](papers/lohrDiscoveryPrioritizationSomatic2012.md)|
-|MZL|Panel|2|2| (100.0)|CARD11|[@yanBCRTLRSignaling2012](papers/yanBCRTLRSignaling2012.md)|
-|BL|exome|60|3 |(5.0)|ACAD9|[@loveGeneticLandscapeMutations2012](papers/loveGeneticLandscapeMutations2012.md)|
-|BL|RNA-seq|20|4| (20.0)|C16orf48|[@schmitzBurkittLymphomaPathogenesis2012](papers/schmitzBurkittLymphomaPathogenesis2012.md)|
+|DLBCL|exome/Sanger||||BRAF|[@tiacciBRAFMutationsHairycell2011](papers/tiacciBRAFMutationsHairycell2011.md)|
+|MZL|Sanger||||BIRC3|[@rossiAlterationBIRC3Multiple2011](papers/rossiAlterationBIRC3Multiple2011.md)|
+|MZL|exome||||ARID1A|[@rossiCodingGenomeSplenic2012](papers/rossiCodingGenomeSplenic2012.md)|
+|BL|RNA-seq/WGS/exome||53||CCND3|[@richterRecurrentMutationID32012](papers/richterRecurrentMutationID32012.md)|
+|DLBCL|Sanger||||MIR142|[@kwanhianMicroRNA142Mutated202012](papers/kwanhianMicroRNA142Mutated202012.md)|
+|DLBCL|WGS|40|0|0|CXCR4|[@khodabakhshiRecurrentTargetsAberrant2012](papers/khodabakhshiRecurrentTargetsAberrant2012.md)|
+|PMBL|Array/Sanger||||MAP3K14|[@ottoGeneticLesionsTRAF32012](papers/ottoGeneticLesionsTRAF32012.md)|
+|DLBCL|exome|55|0|0|ACTB|[@lohrDiscoveryPrioritizationSomatic2012](papers/lohrDiscoveryPrioritizationSomatic2012.md)|
+|MZL|Panel||||CARD11|[@yanBCRTLRSignaling2012](papers/yanBCRTLRSignaling2012.md)|
+|BL|exome|| ||ACAD9|[@loveGeneticLandscapeMutations2012](papers/loveGeneticLandscapeMutations2012.md)|
+|BL|RNA-seq||||C16orf48|[@schmitzBurkittLymphomaPathogenesis2012](papers/schmitzBurkittLymphomaPathogenesis2012.md)|
 |MZL|Array/Sanger|1|1| (100.0)|ATM|[@braggioGenomicAnalysisMarginal2012](papers/braggioGenomicAnalysisMarginal2012.md)|
 |MCL|WGS/exome|27|11| (40.7)|ABCA3|[@beaLandscapeSomaticMutations2013](papers/beaLandscapeSomaticMutations2013.md)|
 |DLBCL|exome|16|8| (50.0)|ARID1A|[@zhangGeneticHeterogeneityDiffuse2013](papers/zhangGeneticHeterogeneityDiffuse2013.md)|
