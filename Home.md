@@ -32,7 +32,7 @@ To get started, select one of the gene lists from the table below then select th
 ### Combined lists
 |Entities|Page|File|
 |:-:|:-:|:-:|
-|DLBCL, BL and FL|[view list](DLBCL_FL_BL)|[(download)]()|
+|DLBCL, BL and FL|[view list](DLBCL_FL_BL)|[(download)](https://raw.githubusercontent.com/morinlab/LLMPP/refs/heads/main/resources/curated/any_tier1_BL_FL_DLBCL.tsv)|
 
 ## aSHM targets
 
