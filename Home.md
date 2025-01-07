@@ -30,10 +30,10 @@ To get started, select one of the gene lists from the table below then select th
 \* *PMBL gene list includes genes attributed to classical Hodgkin lymphoma or marginal grey-zone lymphoma*
 
 ### Combined lists
-|Entities|Page|File|
-|:-:|:-:|:-:|
-|DLBCL, BL and FL|[view list](DLBCL_FL_BL)|[(download)](https://raw.githubusercontent.com/morinlab/LLMPP/refs/heads/main/resources/curated/any_tier1_BL_FL_DLBCL.tsv)|
-|DLBCL, BL, FL, MCL, MZL and PMBL|[view list](BL_FL_MCL_MZL_PMBL)|[(download)](https://raw.githubusercontent.com/morinlab/LLMPP/refs/heads/main/resources/curated/any_tier1_BL_FL_DLBCL_MCL_MZL_PMBL.tsv)|
+|Entities|Tier 1 genes|Page|File|
+|:-:|:-:|:-:|:-:|
+|DLBCL, BL and FL||[view list](DLBCL_FL_BL)|[(download)](https://raw.githubusercontent.com/morinlab/LLMPP/refs/heads/main/resources/curated/any_tier1_BL_FL_DLBCL.tsv)|
+|DLBCL, BL, FL, MCL, MZL and PMBL||[view list](BL_FL_MCL_MZL_PMBL)|[(download)](https://raw.githubusercontent.com/morinlab/LLMPP/refs/heads/main/resources/curated/any_tier1_BL_FL_DLBCL_MCL_MZL_PMBL.tsv)|
 
 ## aSHM targets
 
