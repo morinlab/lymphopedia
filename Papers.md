@@ -13,16 +13,16 @@ bibliography: 'morinlab.bib'
 |PMBL|Sanger||||GPR126|[@wenigerMutationsTumorSuppressor2006](papers/wenigerMutationsTumorSuppressor2006.md)|
 |DLBCL|Sanger||||FAS|[@schollMutationsRegionFAS2007](papers/schollMutationsRegionFAS2007.md)|
 |DLBCL|Sanger|6|217|21|CARD11|[@lenzOncogenicCARD11Mutations2008](papers/lenzOncogenicCARD11Mutations2008.md)|
-|DLBCL|Sanger|1||1 (100.0)|NFKBIA|[@lakeMutationsNFKBIAEncoding2009](papers/lakeMutationsNFKBIAEncoding2009.md)|
+|DLBCL|Sanger||||NFKBIA|[@lakeMutationsNFKBIAEncoding2009](papers/lakeMutationsNFKBIAEncoding2009.md)|
 |DLBCL|Sanger|0|101||TNFAIP3|[@compagnoMutationsMultipleGenes2009](papers/compagnoMutationsMultipleGenes2009.md)|
 |PMBL|Sanger||||STAT6|[@ritzRecurrentMutationsSTAT62009](papers/ritzRecurrentMutationsSTAT62009.md)|
 |PMBL|Sanger||||TNFAIP3|[@schmitzTNFAIP3A20Tumor2009](papers/schmitzTNFAIP3A20Tumor2009.md)|
 |FL|Sanger|11|251|0|TNFRSF14|[@cheungAcquiredTNFRSF14Mutations2010](papers/cheungAcquiredTNFRSF14Mutations2010.md)|
 |DLBCL/FL|RNA-seq/WGS|1|31|7|EZH2|[@morinSomaticMutationsAltering2010](papers/morinSomaticMutationsAltering2010.md)|
 |DLBCL|Sanger|0|382|20|MYD88|[@ngoOncogenicallyActiveMYD882011](papers/ngoOncogenicallyActiveMYD882011.md)|
-|DLBCL|RNA-seq/WGS|29||27 (93.1)|B2M|[@morinFrequentMutationHistonemodifying2011](papers/morinFrequentMutationHistonemodifying2011.md)|
-|DLBCL|exome|7|3 (42.9)||CD36|[@pasqualucciAnalysisCodingGenome2011](papers/pasqualucciAnalysisCodingGenome2011.md)|
-|FL|exome|2|2 (100.0)||CREBBP|[@pasqualucciInactivatingMutationsAcetyltransferase2011](papers/pasqualucciInactivatingMutationsAcetyltransferase2011.md)|
+|DLBCL|RNA-seq/WGS|14|103|10|B2M|[@morinFrequentMutationHistonemodifying2011](papers/morinFrequentMutationHistonemodifying2011.md)|
+|DLBCL|exome|6|92|23|CD36|[@pasqualucciAnalysisCodingGenome2011](papers/pasqualucciAnalysisCodingGenome2011.md)|
+|DLBCL/FL|exome|7|134|0|CREBBP|[@pasqualucciInactivatingMutationsAcetyltransferase2011](papers/pasqualucciInactivatingMutationsAcetyltransferase2011.md)|
 |DLBCL|exome/Sanger|1||1 (100.0)|BRAF|[@tiacciBRAFMutationsHairycell2011](papers/tiacciBRAFMutationsHairycell2011.md)|
 |MZL|Sanger|5|4 (80.0)||BIRC3|[@rossiAlterationBIRC3Multiple2011](papers/rossiAlterationBIRC3Multiple2011.md)|
 |MZL|exome|21|10 (47.6)||ARID1A|[@rossiCodingGenomeSplenic2012](papers/rossiCodingGenomeSplenic2012.md)|
