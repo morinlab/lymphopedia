@@ -14,14 +14,15 @@ bibliography: 'morinlab.bib'
 |2007|DLBCL|Sanger||||FAS|[@schollMutationsRegionFAS2007](papers/schollMutationsRegionFAS2007.md)|
 |2008|DLBCL|Sanger|6|217|21|CARD11|[@lenzOncogenicCARD11Mutations2008](papers/lenzOncogenicCARD11Mutations2008.md)|
 |2009|DLBCL|Sanger|1||1 (100.0)|NFKBIA|[@lakeMutationsNFKBIAEncoding2009](papers/lakeMutationsNFKBIAEncoding2009.md)|
-|2009|DLBCL|Sanger|1||1 (100.0)|TNFAIP3|[@compagnoMutationsMultipleGenes2009](papers/compagnoMutationsMultipleGenes2009.md)|
-|2009|PMBL|Sanger|1||1 (100.0)|STAT6|[@ritzRecurrentMutationsSTAT62009](papers/ritzRecurrentMutationsSTAT62009.md)|
-|2009|PMBL|Sanger|1||1 (100.0)|TNFAIP3|[@schmitzTNFAIP3A20Tumor2009](papers/schmitzTNFAIP3A20Tumor2009.md)|
-|2010|FL|Sanger|1||1 (100.0)|TNFRSF14|[@cheungAcquiredTNFRSF14Mutations2010](papers/cheungAcquiredTNFRSF14Mutations2010.md)|
-|2010|DLBCL|RNA-seq/WGS|1||1 (100.0)|EZH2|[@morinSomaticMutationsAltering2010](papers/morinSomaticMutationsAltering2010.md)|
+|2009|DLBCL|Sanger|0|101||TNFAIP3|[@compagnoMutationsMultipleGenes2009](papers/compagnoMutationsMultipleGenes2009.md)|
+|2009|PMBL|Sanger||||STAT6|[@ritzRecurrentMutationsSTAT62009](papers/ritzRecurrentMutationsSTAT62009.md)|
+|2009|PMBL|Sanger||||TNFAIP3|[@schmitzTNFAIP3A20Tumor2009](papers/schmitzTNFAIP3A20Tumor2009.md)|
+|2010|FL|Sanger|11|251|0|TNFRSF14|[@cheungAcquiredTNFRSF14Mutations2010](papers/cheungAcquiredTNFRSF14Mutations2010.md)|
+|2010|DLBCL/FL|RNA-seq/WGS|1|31|7|EZH2|[@morinSomaticMutationsAltering2010](papers/morinSomaticMutationsAltering2010.md)|
+|2011|DLBCL|Sanger|0|382|20|MYD88|[@ngoOncogenicallyActiveMYD882011](papers/ngoOncogenicallyActiveMYD882011.md)|
 |2011|DLBCL|RNA-seq/WGS|29||27 (93.1)|B2M|[@morinFrequentMutationHistonemodifying2011](papers/morinFrequentMutationHistonemodifying2011.md)|
 |2011|DLBCL|exome|7|3 (42.9)||CD36|[@pasqualucciAnalysisCodingGenome2011](papers/pasqualucciAnalysisCodingGenome2011.md)|
-|2011|DLBCL|Sanger|1|1 (100.0)||MYD88|[@ngoOncogenicallyActiveMYD882011](papers/ngoOncogenicallyActiveMYD882011.md)|
+
 |2011|FL|exome|2|2 (100.0)||CREBBP|[@pasqualucciInactivatingMutationsAcetyltransferase2011](papers/pasqualucciInactivatingMutationsAcetyltransferase2011.md)|
 |2011|DLBCL|exome/Sanger|1||1 (100.0)|BRAF|[@tiacciBRAFMutationsHairycell2011](papers/tiacciBRAFMutationsHairycell2011.md)|
 |2011|MZL|Sanger|5|4 (80.0)||BIRC3|[@rossiAlterationBIRC3Multiple2011](papers/rossiAlterationBIRC3Multiple2011.md)|
