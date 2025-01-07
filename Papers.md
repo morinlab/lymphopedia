@@ -35,12 +35,12 @@ bibliography: 'morinlab.bib'
 |DLBCL|Sanger|24|0|0 |STAT6|[@yildizActivatingSTAT6Mutations2015](papers/yildizActivatingSTAT6Mutations2015.md)|
 |DLBCL|Sanger||||MAP2K1|[@shinBRAFV600EMAP2K12015](papers/shinBRAFV600EMAP2K12015.md)|
 |DLBCL|exome|14|0|0|XPO1|[@mareschalWholeExomeSequencing2016](papers/mareschalWholeExomeSequencing2016.md)|
-|FL|WGS|3|3| (100.0)|ATP6AP1|[@okosunRecurrentMTORC1activatingRRAGC2016](papers/okosunRecurrentMTORC1activatingRRAGC2016.md)|
-|FL|exome|1|1 |(100.0)|MAP2K1|[@louissaintPediatrictypeNodalFollicular2016](papers/louissaintPediatrictypeNodalFollicular2016.md)|
-|DLBCL|exome|2|2| (100.0)|NFKBIE|[@morinGeneticLandscapesRelapsed2016](papers/morinGeneticLandscapesRelapsed2016.md)|
-|FL|exome|22|17 |(77.3)|ARID1A|[@krysiakRecurrentSomaticMutations2017](papers/krysiakRecurrentSomaticMutations2017.md)|
-|DLBCL|exome|3|3 |(100.0)|BTK|[@albuquerqueEnhancingKnowledgeDiscovery2017](papers/albuquerqueEnhancingKnowledgeDiscovery2017.md)|
-|DLBCL|exome|59|6 |(10.2)|ANKRD17|[@reddyGeneticFunctionalDrivers2017](papers/reddyGeneticFunctionalDrivers2017.md)|
+|FL|WGS|5|0|0|ATP6AP1|[@okosunRecurrentMTORC1activatingRRAGC2016](papers/okosunRecurrentMTORC1activatingRRAGC2016.md)|
+|FL|exome|22|0 |0|MAP2K1|[@louissaintPediatrictypeNodalFollicular2016](papers/louissaintPediatrictypeNodalFollicular2016.md)|
+|DLBCL|exome|38|0|0 |NFKBIE|[@morinGeneticLandscapesRelapsed2016](papers/morinGeneticLandscapesRelapsed2016.md)|
+|FL|exome|61|69 |0|ARID1A|[@krysiakRecurrentSomaticMutations2017](papers/krysiakRecurrentSomaticMutations2017.md)|
+|DLBCL|exome|96|0 |0|BTK|[@albuquerqueEnhancingKnowledgeDiscovery2017](papers/albuquerqueEnhancingKnowledgeDiscovery2017.md)|
+|DLBCL|exome|400|601|0|ANKRD17|[@reddyGeneticFunctionalDrivers2017](papers/reddyGeneticFunctionalDrivers2017.md)|
 |DLBCL|exome|19|2 |(10.5)|CCL4|[@chapuyMolecularSubtypesDiffuse2018](papers/chapuyMolecularSubtypesDiffuse2018.md)|
 |DLBCL|WGS|19|7| (36.8)|AICDA|[@arthurGenomewideDiscoverySomatic2018](papers/arthurGenomewideDiscoverySomatic2018.md)|
 |DLBCL|exome|16|7| (43.8)|CXCR5|[@schmitzGeneticsPathogenesisDiffuse2018](papers/schmitzGeneticsPathogenesisDiffuse2018.md)|
