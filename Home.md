@@ -18,7 +18,7 @@ To get started, select one of the gene lists from the table below then select th
 
 ### Individual B-cell neoplasms
 
-|Entity|Tier 1 genes (high-confidence)|Tier 2 genes (low-confidence)|Tier 3 genes (retired) |File|
+|Entity|Tier 1 genes (high-confidence)|Tier 2 genes (low-confidence)|Tier 3 genes (retired) |Export|
 |:-:|:-:|:-:|:-:|:-:|
 |BL|[34](BL_genes#tier-1-bl-genes)|[77](BL_genes#tier-2-bl-genes)|[70](BL_genes#tier-3-bl-genes)|[download](https://raw.githubusercontent.com/morinlab/LLMPP/main/resources/curated/bl_genes.tsv)|[32](BL_genes#tier-1-bl-genes)|
 |DLBCL|[127](DLBCL_genes#tier-1-dlbcl-genes)|[209](DLBCL_genes#tier-2-dlbcl-genes)|[387](DLBCL_genes#tier-3-dlbcl-genes)|[download](https://raw.githubusercontent.com/morinlab/LLMPP/main/resources/curated/dlbcl_genes.tsv)|
@@ -30,7 +30,7 @@ To get started, select one of the gene lists from the table below then select th
 \* *PMBL gene list includes genes attributed to classical Hodgkin lymphoma or marginal grey-zone lymphoma*
 
 ### Combined lists
-|Entities|Tier 1 genes|Page|File|
+|Entities|Tier 1 genes|Page|Export|
 |:-:|:-:|:-:|:-:|
 |DLBCL, BL and FL|144|[browse](DLBCL_FL_BL)|[download](https://raw.githubusercontent.com/morinlab/LLMPP/refs/heads/main/resources/curated/any_tier1_BL_FL_DLBCL.tsv)|
 |DLBCL, BL, FL, MCL, MZL and PMBL|169|[browse](BL_FL_MCL_MZL_PMBL)|[download](https://raw.githubusercontent.com/morinlab/LLMPP/refs/heads/main/resources/curated/any_tier1_BL_FL_DLBCL_MCL_MZL_PMBL.tsv)|
