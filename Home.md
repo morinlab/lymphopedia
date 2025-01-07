@@ -20,8 +20,8 @@ To get started, select one of the gene lists from the table below then select th
 
 |Entity|Tier 1 (high-confidence)|Tier 2 (low-confidence)|Tier 3 (retired) |Download|
 |:-:|:-:|:-:|:-:|-|
-|BL [(tsv)](https://raw.githubusercontent.com/morinlab/LLMPP/main/resources/curated/bl_genes.tsv)|[32 genes](BL_genes#tier-1-bl-genes)|[72 genes](BL_genes#tier-2-bl-genes)|[70 genes](BL_genes#tier-3-bl-genes)|[(full list)](https://raw.githubusercontent.com/morinlab/LLMPP/main/resources/curated/bl_genes.tsv)|[32 genes](BL_genes#tier-1-bl-genes)|
-|DLBCL [(tsv)](https://raw.githubusercontent.com/morinlab/LLMPP/main/resources/curated/dlbcl_genes.tsv)|[125 genes](DLBCL_genes#tier-1-dlbcl-genes)|[210 genes](DLBCL_genes#tier-2-dlbcl-genes)|[387 genes](DLBCL_genes#tier-3-dlbcl-genes)||
+|BL|[32 genes](BL_genes#tier-1-bl-genes)|[72 genes](BL_genes#tier-2-bl-genes)|[70 genes](BL_genes#tier-3-bl-genes)|[(full list)](https://raw.githubusercontent.com/morinlab/LLMPP/main/resources/curated/bl_genes.tsv)|[32 genes](BL_genes#tier-1-bl-genes)|
+|DLBCL|[125 genes](DLBCL_genes#tier-1-dlbcl-genes)|[210 genes](DLBCL_genes#tier-2-dlbcl-genes)|[387 genes](DLBCL_genes#tier-3-dlbcl-genes)|[(full list)](https://raw.githubusercontent.com/morinlab/LLMPP/main/resources/curated/dlbcl_genes.tsv)|
 |FL [(tsv)](https://raw.githubusercontent.com/morinlab/LLMPP/main/resources/curated/fl_genes.tsv)|[54 genes](FL_genes#tier-1-fl-genes)|[59 genes](FL_genes#tier-2-fl-genes)|0 genes||
 |PMBL[(tsv)](https://github.com/morinlab/LLMPP/blob/main/resources/curated/PMBL_HL_MGZL.tsv)|[76 genes](PMBL_genes#tier-1-pmbl-genes)|[82 genes](PMBL_genes#tier-2-pmbl-genes)|0 genes||
 |MCL [(tsv)](https://github.com/morinlab/LLMPP/blob/main/resources/curated/mcl_genes.tsv)|[23 genes](MCL_genes#tier-1-mcl-genes)|[46 genes](MCL_genes#tier-2-mcl-genes)|0 genes||
