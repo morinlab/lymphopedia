@@ -30,8 +30,9 @@ To get started, select one of the gene lists from the table below then select th
 \* *PMBL gene list includes genes attributed to classical Hodgkin lymphoma or marginal grey-zone lymphoma*
 
 ### Combined lists
-
-[DLBCL, BL and FL](DLBCL_FL_BL)
+|Entities|Page|File|
+|:-:|:-:|:-:|
+|DLBCL, BL and FL|[view list](DLBCL_FL_BL)|[(download)]()|
 
 ## aSHM targets
 
