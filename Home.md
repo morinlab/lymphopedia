@@ -16,7 +16,7 @@ To get started, select one of the gene lists from the table below then select th
 
 ## Gene lists
 
-### Common B-cell lymphomas
+### Individual B-cell neoplasms
 
 |Entity|Tier 1 genes (high-confidence)|Tier 2 genes (low-confidence)|Tier 3 genes (retired) |Download|
 |:-:|:-:|:-:|:-:|:-:|
@@ -29,7 +29,9 @@ To get started, select one of the gene lists from the table below then select th
 
 \* *PMBL gene list includes genes attributed to classical Hodgkin lymphoma or marginal grey-zone lymphoma*
 
-[Combined gene list](DLBCL_FL_BL)
+### Combined lists
+
+[DLBCL, BL and FL](DLBCL_FL_BL)
 
 ## aSHM targets
 
