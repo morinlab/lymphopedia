@@ -43,7 +43,7 @@ To get started, select one of the gene lists from the table below then select th
 
 ## History
 
-### DLBCL, FL and BL
+### DLBCL, FL and BL studies
 
 ```mermaid
 ---
@@ -168,7 +168,7 @@ BL RNA-seq, Schmitz 2012, 19
 ```
 
 
-### History of lymphoma genes in rare entities
+### MCL, MZL and PMBL
 
 ```mermaid
 ---
