@@ -23,7 +23,7 @@ Mutations were first described in DLBCL in 2013 by Morin et al.[@morinMutational
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_ABI3BP.md]]
+[[include:tables/dnds_ABI3BP.md]]
 
 
 [[include:browser_ABI3BP.md]]
