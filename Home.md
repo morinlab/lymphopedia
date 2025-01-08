@@ -14,18 +14,36 @@ Details for each gene can be found on their respective pages. The novel genes no
 
 To get started, select one of the gene lists from the table below then select the `gene page` link for any gene in the table or explore the genes nominated by [individual studies](Papers).  
 
-## Common B-cell lymphomas
+## Gene lists
 
-|Entity|Tier 1 (high-confidence)|Tier 2 (low-confidence)|Tier 3 (retired) |
+### Individual B-cell neoplasms
+
+|Entity|Tier 1 genes (high-confidence)|Tier 2 genes (low-confidence)|Tier 3 genes (retired) |Export|
+|:-:|:-:|:-:|:-:|:-:|
+|BL|[34](BL_genes#tier-1-bl-genes)|[77](BL_genes#tier-2-bl-genes)|[70](BL_genes#tier-3-bl-genes)|[full list](https://raw.githubusercontent.com/morinlab/LLMPP/main/resources/curated/bl_genes.tsv)|[32](BL_genes#tier-1-bl-genes)|
+|DLBCL|[127](DLBCL_genes#tier-1-dlbcl-genes)|[209](DLBCL_genes#tier-2-dlbcl-genes)|[387](DLBCL_genes#tier-3-dlbcl-genes)|[full list](https://raw.githubusercontent.com/morinlab/LLMPP/main/resources/curated/dlbcl_genes.tsv)|
+|FL|[54](FL_genes#tier-1-fl-genes)|[58](FL_genes#tier-2-fl-genes)|0|[full list](https://raw.githubusercontent.com/morinlab/LLMPP/main/resources/curated/fl_genes.tsv)|
+|PMBL|[46](PMBL_genes#tier-1-pmbl-genes)|[112](PMBL_genes#tier-2-pmbl-genes)|0|[full list](https://raw.githubusercontent.com/morinlab/LLMPP/refs/heads/main/resources/curated/pmbl_genes.tsv)|
+|MCL|[23](MCL_genes#tier-1-mcl-genes)|[46](MCL_genes#tier-2-mcl-genes)|0|[full list](https://raw.githubusercontent.com/morinlab/LLMPP/refs/heads/main/resources/curated/mcl_genes.tsv)|
+|MZL|[42](MZL_genes#tier-1-mzl-genes)|[74](MZL_genes#tier-2-mzl-genes)|0|[full list](https://raw.githubusercontent.com/morinlab/LLMPP/refs/heads/main/resources/curated/mzl_genes.tsv)|
+
+\* *PMBL gene list includes genes attributed to classical Hodgkin lymphoma or marginal grey-zone lymphoma*
+
+### Combined lists
+|Entities|Tier 1 genes|Page|Export|
 |:-:|:-:|:-:|:-:|
-|BL [(tsv)](https://raw.githubusercontent.com/morinlab/LLMPP/main/resources/curated/bl_genes.tsv)|[32 genes](BL_genes#tier-1-bl-genes)|[72 genes](BL_genes#tier-2-bl-genes)|[70 genes](BL_genes#tier-3-bl-genes)|
-|DLBCL [(tsv)](https://raw.githubusercontent.com/morinlab/LLMPP/main/resources/curated/dlbcl_genes.tsv)|[125 genes](DLBCL_genes#tier-1-dlbcl-genes)|[210 genes](DLBCL_genes#tier-2-dlbcl-genes)|[387 genes](DLBCL_genes#tier-3-dlbcl-genes)|
-|FL [(tsv)](https://raw.githubusercontent.com/morinlab/LLMPP/main/resources/curated/fl_genes.tsv)|[54 genes](FL_genes#tier-1-fl-genes)|[59 genes](FL_genes#tier-2-fl-genes)|[0 genes](FL_genes#tier-3-fl-genes)|
+|DLBCL, BL and FL|144|[browse](DLBCL_FL_BL)|[download](https://raw.githubusercontent.com/morinlab/LLMPP/refs/heads/main/resources/curated/any_tier1_BL_FL_DLBCL.tsv)|
+|DLBCL, BL, FL, MCL, MZL and PMBL|169|[browse](BL_FL_MCL_MZL_PMBL)|[download](https://raw.githubusercontent.com/morinlab/LLMPP/refs/heads/main/resources/curated/any_tier1_BL_FL_DLBCL_MCL_MZL_PMBL.tsv)|
 
-[Combined gene list](DLBCL_FL_BL)
+## aSHM targets
 
+[hg19 coordinates](ashm)
 
-### History of lymphoma genes in common entities
+[hg38 coordinates](ashm_hg38)
+
+## History
+
+### DLBCL, FL and BL
 
 ```mermaid
 ---
@@ -150,18 +168,6 @@ BL RNA-seq, Schmitz 2012, 19
 ```
 
 
-
-
-## Rare B-cell lymphomas
-
-|Entity|Tier 1 (high-confidence)|Tier 2 (low-confidence)|Tier 3 (retired) |
-|:-:|:-:|:-:|:-:|
-|PMBL[(tsv)](https://github.com/morinlab/LLMPP/blob/main/resources/curated/PMBL_HL_MGZL.tsv)|[76 genes](PMBL_genes#tier-1-pmbl-genes)|[82 genes](PMBL_genes#tier-2-pmbl-genes)|[0 genes](PMBL_genes#tier-3-pmbl-genes)|
-|MCL [(tsv)](https://github.com/morinlab/LLMPP/blob/main/resources/curated/mcl_genes.tsv)|[23 genes](MCL_genes#tier-1-mcl-genes)|[46 genes](MCL_genes#tier-2-mcl-genes)|[0 genes](MCL_genes#tier-3-mcl-genes)|
-|MZL [(tsv)](https://github.com/morinlab/LLMPP/blob/main/resources/curated/mzl_genes.tsv)|[42 genes](MZL_genes#tier-1-mzl-genes)|[74 genes](MZL_genes#tier-2-mzl-genes)|[0 genes](MZL_genes#tier-3-mzl-genes)|
-
-\* *PMBL gene list includes genes attributed to classical Hodgkin lymphoma or marginal grey-zone lymphoma*
-
 ### History of lymphoma genes in rare entities
 
 ```mermaid
@@ -262,14 +268,6 @@ PMBL exome, Duns 2021, 13
 PMBL panel, Desch 2020, 10
 ```
 
-
-
-
-## Regions commonly affected by aSHM
-
-[hg19 coordinates](ashm)
-
-[hg38 coordinates](ashm_hg38)
 
 ## Origins of the individual lymphoma genes
 
