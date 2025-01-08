@@ -294,7 +294,7 @@ PMBL panel, Desch 2020, 10
 
 **Tier 3** - Tier 3 is reserved for genes that were once nominated as a driver but have since been retired due to a lack of support in the original study nominating them.
 
-For more details, visit (this page)(Supplemental_Methods_and_Results)
+For more details, visit [this page](Supplemental_Methods_and_Results)
 
 ## Other resources available for each gene
 
