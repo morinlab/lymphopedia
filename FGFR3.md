@@ -32,7 +32,7 @@ Due to [minimal support](FGFR3#representative-mutation) in the original primary 
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_FGFR3.md]]
+[[include:tables/dnds_FGFR3.md]]
 
 
 

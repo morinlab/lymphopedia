@@ -31,7 +31,7 @@ Due to [minimal support](BRD4#representative-mutation) in the original primary d
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_BRD4.md]]
+[[include:tables/dnds_BRD4.md]]
 
 
 

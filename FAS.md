@@ -25,12 +25,12 @@ Driver mutations affecting this gene in FL/DLBCL have been experimentally demons
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-[[include:DLBCL_FAS.md]]
-[[include:FL_FAS.md]]
+[[include:tables/DLBCL_FAS.md]]
+[[include:tables/FL_FAS.md]]
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_FAS.md]]
+[[include:tables/dnds_FAS.md]]
 
 [[include:browser_FAS.md]]
 

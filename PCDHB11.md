@@ -23,7 +23,7 @@ nocite: |
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_PCDHB11.md]]
+[[include:tables/dnds_PCDHB11.md]]
 
 
 [[include:browser_PCDHB11.md]]

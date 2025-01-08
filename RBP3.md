@@ -27,7 +27,7 @@ nocite: |
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_RBP3.md]]
+[[include:tables/dnds_RBP3.md]]
 
 
 

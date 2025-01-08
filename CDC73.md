@@ -34,7 +34,7 @@ Mutations in this gene were first described in BL in 2012 by Love et al[@loveGen
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_CDC73.md]]
+[[include:tables/dnds_CDC73.md]]
 
 [[include:browser_CDC73.md]]
 

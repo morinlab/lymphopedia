@@ -23,7 +23,7 @@ nocite: |
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_EIF4A1.md]]
+[[include:tables/dnds_EIF4A1.md]]
 
 
 [[include:browser_EIF4A1.md]]

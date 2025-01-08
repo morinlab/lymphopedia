@@ -33,7 +33,7 @@ Due to [minimal support](EML2#representative-mutation) in the original primary d
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_EML2.md]]
+[[include:tables/dnds_EML2.md]]
 
 
 [[include:browser_EML2.md]]

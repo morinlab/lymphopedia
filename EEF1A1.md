@@ -18,12 +18,12 @@ This gene has some recurrent sites of mutations (hot spots). The mutation patter
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-[[include:DLBCL_EEF1A1.md]]
-[[include:FL_EEF1A1.md]]
+[[include:tables/DLBCL_EEF1A1.md]]
+[[include:tables/FL_EEF1A1.md]]
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_EEF1A1.md]]
+[[include:tables/dnds_EEF1A1.md]]
 
 ## EEF1A1 Hotspots
 

@@ -24,7 +24,7 @@ Mutations in this gene were first described in DLBCL and FL in 2021 by Hübschma
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_FZR1.md]]
+[[include:tables/dnds_FZR1.md]]
 
 [[include:browser_FZR1.md]]
 

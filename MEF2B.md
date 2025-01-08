@@ -21,12 +21,12 @@ Thus far, there is limited information about the consequence of MEF2B mutations 
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-[[include:DLBCL_MEF2B.md]]
-[[include:FL_MEF2B.md]]
+[[include:tables/DLBCL_MEF2B.md]]
+[[include:tables/FL_MEF2B.md]]
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_MEF2B.md]]
+[[include:tables/dnds_MEF2B.md]]
 
 ## aSHM regions
 

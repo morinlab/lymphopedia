@@ -23,12 +23,12 @@ Driver mutations affecting this gene in DLBCL/BL have been experimentally demons
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-[[include:DLBCL_FBXO11.md]]
-[[include:BL_FBXO11.md]]
+[[include:tables/DLBCL_FBXO11.md]]
+[[include:tables/BL_FBXO11.md]]
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_FBXO11.md]]
+[[include:tables/dnds_FBXO11.md]]
 
 ## FBXO11 hot spots
 |Chromosome|Coordinate|Mutation|HGVSp|

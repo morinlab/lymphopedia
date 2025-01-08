@@ -31,7 +31,7 @@ Due to [minimal support](CYP4F22#representative-mutation) in the original primar
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_CYP4F22.md]]
+[[include:tables/dnds_CYP4F22.md]]
 
 
 [[include:browser_CYP4F22.md]]

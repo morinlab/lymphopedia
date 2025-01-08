@@ -20,7 +20,7 @@ nocite: |
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_MAGEC1.md]]
+[[include:tables/dnds_MAGEC1.md]]
 
 
 

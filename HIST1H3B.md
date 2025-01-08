@@ -15,17 +15,17 @@ nocite: |
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
 ### DLBCL
-[[include:DLBCL_HIST1H3B.md]]
+[[include:tables/DLBCL_HIST1H3B.md]]
 
 ### BL
-[[include:BL_HIST1H3B.md]]
+[[include:tables/BL_HIST1H3B.md]]
 
 ### FL
-[[include:FL_HIST1H3B.md]]
+[[include:tables/FL_HIST1H3B.md]]
 
 
 ## Mutation pattern and selective pressure estimates
-[[include:dnds_HIST1H3B.md]]
+[[include:tables/dnds_HIST1H3B.md]]
 
 
 

@@ -23,7 +23,7 @@ nocite: |
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_MET.md]]
+[[include:tables/dnds_MET.md]]
 
 
 

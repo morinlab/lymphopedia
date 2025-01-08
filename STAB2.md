@@ -20,7 +20,7 @@ nocite: |
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_STAB2.md]]
+[[include:tables/dnds_STAB2.md]]
 
 
 

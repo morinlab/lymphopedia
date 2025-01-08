@@ -24,7 +24,7 @@ Due to [minimal support](ACE#representative-mutation) in the original primary da
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-[[include:BL_ACE]]
+[[include:tables/BL_ACE]]
 
 ## Mutation pattern and selective pressure estimates
 

@@ -23,7 +23,7 @@ nocite: |
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_TAP1.md]]
+[[include:tables/dnds_TAP1.md]]
 
 [[include:browser_TAP1.md]]
 

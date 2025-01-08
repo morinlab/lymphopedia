@@ -23,7 +23,7 @@ nocite: |
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_RAD9A.md]]
+[[include:tables/dnds_RAD9A.md]]
 
 
 [[include:browser_RAD9A.md]]

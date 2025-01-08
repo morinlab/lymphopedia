@@ -17,7 +17,7 @@ nocite: |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-[[include:DLBCL_ADH7.md]]
+[[include:tables/DLBCL_ADH7.md]]
 
 [[include:mermaid_ADH7.md]]
 

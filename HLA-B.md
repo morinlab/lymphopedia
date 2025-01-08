@@ -22,12 +22,12 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-[[include:DLBCL_HLA-B.md]]
-[[include:FL_HLA-B.md]]
+[[include:tables/DLBCL_HLA-B.md]]
+[[include:tables/FL_HLA-B.md]]
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_HLA-B.md]]
+[[include:tables/dnds_HLA-B.md]]
 
 ## HLA-B Hotspots
 

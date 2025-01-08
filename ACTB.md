@@ -21,12 +21,12 @@ ACTB is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) 
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-[[include:DLBCL_ACTB.md]]
-[[include:FL_ACTB.md]]
+[[include:tables/DLBCL_ACTB.md]]
+[[include:tables/FL_ACTB.md]]
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_ACTB.md]]
+[[include:tables/dnds_ACTB.md]]
 
 ## aSHM regions
 

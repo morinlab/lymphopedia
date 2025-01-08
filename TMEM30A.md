@@ -18,12 +18,12 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-[[include:DLBCL_TMEM30A.md]]
-[[include:FL_TMEM30A.md]]
+[[include:tables/DLBCL_TMEM30A.md]]
+[[include:tables/FL_TMEM30A.md]]
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_TMEM30A.md]]
+[[include:tables/dnds_TMEM30A.md]]
 
 
 ## TMEM30A Hotspots

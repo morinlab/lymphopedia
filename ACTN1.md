@@ -17,7 +17,7 @@ nocite: |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-[[include:DLBCL_ACTN1]]
+[[include:tables/DLBCL_ACTN1]]
 
 [[include:mermaid_ACTN1.md]]
 

@@ -14,11 +14,11 @@ nocite: |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-[[include:DLBCL_UBE2A.md]]
+[[include:tables/DLBCL_UBE2A.md]]
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_UBE2A.md]]
+[[include:tables/dnds_UBE2A.md]]
 
 [[include:browser_UBE2A.md]]
 

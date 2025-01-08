@@ -31,7 +31,7 @@ Due to [minimal support](PRSS22#representative-mutation) in the original primary
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_PRSS22.md]]
+[[include:tables/dnds_PRSS22.md]]
 
 
 

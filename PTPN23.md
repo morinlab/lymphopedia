@@ -23,7 +23,7 @@ nocite: |
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_PTPN23.md]]
+[[include:tables/dnds_PTPN23.md]]
 
 
 

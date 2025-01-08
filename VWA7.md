@@ -22,7 +22,7 @@ nocite: |
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_VWA7.md]]
+[[include:tables/dnds_VWA7.md]]
 
 
 

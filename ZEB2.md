@@ -28,7 +28,7 @@ Mutations in this gene were first described in DLBCL in 2013[@zhangGeneticHetero
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_ZEB2.md]]
+[[include:tables/dnds_ZEB2.md]]
 
 
 

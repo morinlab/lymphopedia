@@ -27,7 +27,7 @@ Mutations in this gene were first described in DLBCL in 2017 by Reddy et al.[@re
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_ATR.md]]
+[[include:tables/dnds_ATR.md]]
 
 
 [[include:browser_ATR.md]]

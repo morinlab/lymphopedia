@@ -18,11 +18,11 @@ nocite: |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-[[include:DLBCL_AFAP1L2.md]]
+[[include:tables/DLBCL_AFAP1L2.md]]
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_AFAP1L2.md]]
+[[include:tables/dnds_AFAP1L2.md]]
 
 [[include:mermaid_AFAP1L2.md]]
 

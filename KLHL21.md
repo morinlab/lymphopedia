@@ -23,7 +23,7 @@ nocite: |
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_KLHL21.md]]
+[[include:tables/dnds_KLHL21.md]]
 
 ## aSHM regions
 

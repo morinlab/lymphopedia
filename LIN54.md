@@ -28,7 +28,7 @@ nocite: |
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_LIN54.md]]
+[[include:tables/dnds_LIN54.md]]
 
 
 

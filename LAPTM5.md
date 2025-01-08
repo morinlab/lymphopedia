@@ -28,7 +28,7 @@ Mutations in this gene were first described in DLBCL and FL in 2021 by [Hübschm
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_LAPTM5.md]]
+[[include:tables/dnds_LAPTM5.md]]
 
 ## aSHM regions
 

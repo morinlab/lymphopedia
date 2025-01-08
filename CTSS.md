@@ -19,12 +19,12 @@ Driver mutations affecting this gene in FL have been experimentally demonstrated
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-[[include:DLBCL_CTSS.md]]
-[[include:FL_CTSS.md]]
+[[include:tables/DLBCL_CTSS.md]]
+[[include:tables/FL_CTSS.md]]
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_CTSS.md]]
+[[include:tables/dnds_CTSS.md]]
 
 ## CTSS Hotspots
 

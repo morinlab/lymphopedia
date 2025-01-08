@@ -22,7 +22,7 @@ nocite: |
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_CDKN2C.md]]
+[[include:tables/dnds_CDKN2C.md]]
 
 
 

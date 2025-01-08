@@ -18,12 +18,12 @@ Driver mutations affecting this gene in FL/DLBCL have been experimentally demons
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-[[include:DLBCL_TNFAIP3.md]]
-[[include:FL_TNFAIP3.md]]
+[[include:tables/DLBCL_TNFAIP3.md]]
+[[include:tables/FL_TNFAIP3.md]]
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_TNFAIP3.md]]
+[[include:tables/dnds_TNFAIP3.md]]
 
 ## TNFAIP3 Hotspots
 

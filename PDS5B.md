@@ -26,7 +26,7 @@ nocite: |
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_PDS5B.md]]
+[[include:tables/dnds_PDS5B.md]]
 
 [[include:browser_PDS5B.md]]
 

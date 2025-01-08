@@ -20,11 +20,11 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-[[include:DLBCL_NOTCH2.md]]
+[[include:tables/DLBCL_NOTCH2.md]]
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_NOTCH2.md]]
+[[include:tables/dnds_NOTCH2.md]]
 
 ## NOTCH2 Hotspots
 

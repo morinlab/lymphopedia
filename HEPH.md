@@ -20,7 +20,7 @@ nocite: |
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_HEPH.md]]
+[[include:tables/dnds_HEPH.md]]
 
 
 

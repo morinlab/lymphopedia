@@ -30,11 +30,11 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-[[include:DLBCL_BRAF.md]]
+[[include:tables/DLBCL_BRAF.md]]
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_BRAF.md]]
+[[include:tables/dnds_BRAF.md]]
 
 
 ## BRAF Hotspots

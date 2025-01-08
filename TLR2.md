@@ -24,7 +24,7 @@ nocite: |
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_TLR2.md]]
+[[include:tables/dnds_TLR2.md]]
 
 ## TLR2 Hotspots
 

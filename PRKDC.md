@@ -24,7 +24,7 @@ nocite: |
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_PRKDC.md]]
+[[include:tables/dnds_PRKDC.md]]
 
 
 

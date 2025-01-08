@@ -19,17 +19,17 @@ This gene encodes the H2A protein, one of the core proteins comprising nucleosom
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
 ### DLBCL
-[[include:DLBCL_HIST1H2AC.md]]
+[[include:tables/DLBCL_HIST1H2AC.md]]
 
 ### BL
-[[include:BL_HIST1H2AC.md]]
+[[include:tables/BL_HIST1H2AC.md]]
 
 ### FL
-[[include:FL_HIST1H2AC.md]]
+[[include:tables/FL_HIST1H2AC.md]]
 
 
 ## Mutation pattern and selective pressure estimates
-[[include:dnds_HIST1H2AC.md]]
+[[include:tables/dnds_HIST1H2AC.md]]
 
 
 ## HIST1H2AC Hotspots

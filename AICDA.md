@@ -14,11 +14,11 @@ nocite: |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-[[include:DLBCL_AICDA.md]]
+[[include:tables/DLBCL_AICDA.md]]
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_AICDA.md]]
+[[include:tables/dnds_AICDA.md]]
 
 ## aSHM regions
 

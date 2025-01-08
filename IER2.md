@@ -23,7 +23,7 @@ nocite: |
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_IER2.md]]
+[[include:tables/dnds_IER2.md]]
 
 
 ## IER2 Expression

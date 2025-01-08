@@ -19,11 +19,11 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-[[include:DLBCL_XPO1.md]]
+[[include:tables/DLBCL_XPO1.md]]
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_XPO1.md]]
+[[include:tables/dnds_XPO1.md]]
 
 ## XPO1 Hotspots
 

@@ -29,7 +29,7 @@ Due to [minimal support](PC#representative-mutations) in the original primary da
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_PC.md]]
+[[include:tables/dnds_PC.md]]
 
 
 [[include:browser_PC.md]]

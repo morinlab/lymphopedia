@@ -18,13 +18,13 @@ This gene encodes the H2A protein, one of the core proteins comprising nucleosom
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
 ### DLBCL
-[[include:DLBCL_HIST2H2BE.md]]
+[[include:tables/DLBCL_HIST2H2BE.md]]
 
 ### BL
-[[include:BL_HIST2H2BE.md]]
+[[include:tables/BL_HIST2H2BE.md]]
 
 ## Mutation pattern and selective pressure estimates
-[[include:dnds_HIST2H2BE.md]]
+[[include:tables/dnds_HIST2H2BE.md]]
 
 
 [[include:browser_HIST2H2BE.md]]

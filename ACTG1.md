@@ -23,12 +23,12 @@ The function of mutations in ACTB and ACTG1 have not yet been determined.[@witje
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-[[include:DLBCL_ACTG1.md]]
-[[include:FL_ACTG1.md]]
+[[include:tables/DLBCL_ACTG1.md]]
+[[include:tables/FL_ACTG1.md]]
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_ACTG1.md]]
+[[include:tables/dnds_ACTG1.md]]
 
 ## aSHM regions
 

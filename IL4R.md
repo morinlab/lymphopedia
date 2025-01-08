@@ -21,11 +21,11 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-[[include:DLBCL_IL4R.md]]
+[[include:tables/DLBCL_IL4R.md]]
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_IL4R.md]]
+[[include:tables/dnds_IL4R.md]]
 
 ## aSHM regions
 

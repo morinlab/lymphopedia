@@ -25,13 +25,13 @@ Driver mutations affecting this gene in FL/DLBCL have been experimentally demons
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-[[include:DLBCL_PIM1.md]]
-[[include:FL_PIM1.md]]
-[[include:BL_PIM1.md]]
+[[include:tables/DLBCL_PIM1.md]]
+[[include:tables/FL_PIM1.md]]
+[[include:tables/BL_PIM1.md]]
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_PIM1.md]]
+[[include:tables/dnds_PIM1.md]]
 
 ## aSHM regions
 

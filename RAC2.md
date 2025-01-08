@@ -24,7 +24,7 @@ nocite: |
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_RAC2.md]]
+[[include:tables/dnds_RAC2.md]]
 
 ## RAC2 Hotspots
 

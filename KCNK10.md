@@ -30,7 +30,7 @@ nocite: |
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_KCNK10.md]]
+[[include:tables/dnds_KCNK10.md]]
 
 
 

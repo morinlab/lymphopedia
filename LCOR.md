@@ -29,7 +29,7 @@ LCOR (Ligand Dependent Nuclear Receptor Corepressor) is involved in the regulati
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_LCOR.md]]
+[[include:tables/dnds_LCOR.md]]
 
 
 

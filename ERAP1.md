@@ -23,7 +23,7 @@ nocite: |
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_ERAP1.md]]
+[[include:tables/dnds_ERAP1.md]]
 
 
 

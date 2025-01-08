@@ -21,13 +21,13 @@ Mutations in this gene were first described in DLBCL in 2013 by Morin et al.[@mo
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-[[include:DLBCL_HIST1H1E.md]]
-[[include:FL_HIST1H1E.md]]
-[[include:BL_HIST1H1E.md]]
+[[include:tables/DLBCL_HIST1H1E.md]]
+[[include:tables/FL_HIST1H1E.md]]
+[[include:tables/BL_HIST1H1E.md]]
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_HIST1H1E.md]]
+[[include:tables/dnds_HIST1H1E.md]]
 
 ## HIST1H1E Hotspots
 

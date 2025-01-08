@@ -24,7 +24,7 @@ nocite: |
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_CRIP1.md]]
+[[include:tables/dnds_CRIP1.md]]
 
 
 

@@ -20,12 +20,12 @@ There are a few mutation hotspots in this gene. The functional role of mutations
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-[[include:DLBCL_IRF4.md]]
-[[include:FL_IRF4.md]]
+[[include:tables/DLBCL_IRF4.md]]
+[[include:tables/FL_IRF4.md]]
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_IRF4.md]]
+[[include:tables/dnds_IRF4.md]]
 
 ## aSHM regions
 

@@ -24,13 +24,13 @@ Driver mutations affecting this gene in DLBCL/FL/BL have been experimentally dem
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-[[include:DLBCL_SMARCA4.md]]
-[[include:FL_SMARCA4.md]]
-[[include:BL_SMARCA4.md]]
+[[include:tables/DLBCL_SMARCA4.md]]
+[[include:tables/FL_SMARCA4.md]]
+[[include:tables/BL_SMARCA4.md]]
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_SMARCA4.md]]
+[[include:tables/dnds_SMARCA4.md]]
 
 [[include:browser_SMARCA4.md]]
 

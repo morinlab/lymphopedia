@@ -28,7 +28,7 @@ Mutations in this gene were first described in DLBCL in 2021 by Hübschmann et a
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_LRP12.md]]
+[[include:tables/dnds_LRP12.md]]
 
 
 

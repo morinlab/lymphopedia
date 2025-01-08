@@ -30,7 +30,7 @@ nocite: |
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_PABPC4L.md]]
+[[include:tables/dnds_PABPC4L.md]]
 
 
 

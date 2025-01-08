@@ -15,12 +15,12 @@ nocite: |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-[[include:DLBCL_PCBP1.md]]
-[[include:BL_PCBP1.md]]
+[[include:tables/DLBCL_PCBP1.md]]
+[[include:tables/BL_PCBP1.md]]
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_PCBP1.md]]
+[[include:tables/dnds_PCBP1.md]]
 
 ## PCBP1 Hotspots
 

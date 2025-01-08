@@ -24,7 +24,7 @@ nocite: |
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_COQ7.md]]
+[[include:tables/dnds_COQ7.md]]
 
 
 

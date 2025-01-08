@@ -23,13 +23,13 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-[[include:DLBCL_GNAI2.md]]
-[[include:FL_GNAI2.md]]
-[[include:BL_GNAI2.md]]
+[[include:tables/DLBCL_GNAI2.md]]
+[[include:tables/FL_GNAI2.md]]
+[[include:tables/BL_GNAI2.md]]
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_GNAI2.md]]
+[[include:tables/dnds_GNAI2.md]]
 
 ## GNAI2 Hotspots
 

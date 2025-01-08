@@ -22,7 +22,7 @@ nocite: |
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_MYO18A.md]]
+[[include:tables/dnds_MYO18A.md]]
 
 
 

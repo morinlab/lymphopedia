@@ -18,11 +18,11 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-[[include:DLBCL_PTPN6.md]]
+[[include:tables/DLBCL_PTPN6.md]]
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_PTPN6.md]]
+[[include:tables/dnds_PTPN6.md]]
 
 [[include:browser_PTPN6.md]]
 

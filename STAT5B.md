@@ -28,7 +28,7 @@ Mutations in this gene were first described in DLBCL in 2013[@zhangGeneticHetero
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_STAT5B.md]]
+[[include:tables/dnds_STAT5B.md]]
 
 
 

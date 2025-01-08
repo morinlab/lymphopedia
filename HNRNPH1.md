@@ -30,7 +30,7 @@ The common HNRNPH1 mutations cause deregulated splicing and increased expression
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_HNRNPH1.md]]
+[[include:tables/dnds_HNRNPH1.md]]
 
 ## HNRNPH1 Hotspots
 

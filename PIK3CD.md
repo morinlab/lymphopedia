@@ -23,7 +23,7 @@ nocite: |
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_PIK3CD.md]]
+[[include:tables/dnds_PIK3CD.md]]
 
 
 

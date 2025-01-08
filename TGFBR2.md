@@ -23,7 +23,7 @@ nocite: |
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_TGFBR2.md]]
+[[include:tables/dnds_TGFBR2.md]]
 
 
 

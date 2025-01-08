@@ -18,12 +18,12 @@ Driver mutations affecting this gene in FL/DLBCL have been experimentally demons
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-[[include:DLBCL_POU2F2.md]]
-[[include:FL_POU2F2.md]]
+[[include:tables/DLBCL_POU2F2.md]]
+[[include:tables/FL_POU2F2.md]]
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_POU2F2.md]]
+[[include:tables/dnds_POU2F2.md]]
 
 ## POU2F2 Hotspots
 

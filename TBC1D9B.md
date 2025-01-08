@@ -27,7 +27,7 @@ nocite: |
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_TBC1D9B.md]]
+[[include:tables/dnds_TBC1D9B.md]]
 
 
 [[include:browser_TBC1D9B.md]]

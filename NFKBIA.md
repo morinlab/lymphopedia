@@ -21,12 +21,12 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-[[include:DLBCL_NFKBIA.md]]
-[[include:FL_NFKBIA.md]]
+[[include:tables/DLBCL_NFKBIA.md]]
+[[include:tables/FL_NFKBIA.md]]
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_NFKBIA.md]]
+[[include:tables/dnds_NFKBIA.md]]
 
 [[include:browser_NFKBIA.md]]
 

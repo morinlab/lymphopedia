@@ -23,7 +23,7 @@ nocite: |
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_TIPARP.md]]
+[[include:tables/dnds_TIPARP.md]]
 
 
 

@@ -18,11 +18,11 @@ PIM2 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) 
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-[[include:DLBCL_PIM2.md]]
+[[include:tables/DLBCL_PIM2.md]]
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_PIM2.md]]
+[[include:tables/dnds_PIM2.md]]
 
 ## aSHM regions
 

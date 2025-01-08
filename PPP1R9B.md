@@ -11,7 +11,7 @@ nocite: |
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
-|![DLBCL](images/icons/DLBCL_tier2.png) | 2   | low-confidence DLBCL gene|
+|![DLBCL](images/icons/tables/DLBCL_tier2.png) | 2   | low-confidence DLBCL gene|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

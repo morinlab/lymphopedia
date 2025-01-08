@@ -18,12 +18,12 @@ Driver mutations affecting this gene in DLBCL/FL have been experimentally demons
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-[[include:DLBCL_RRAGC.md]]
-[[include:FL_RRAGC.md]]
+[[include:tables/DLBCL_RRAGC.md]]
+[[include:tables/FL_RRAGC.md]]
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_RRAGC.md]]
+[[include:tables/dnds_RRAGC.md]]
 
 [[include:browser_RRAGC.md]]
 

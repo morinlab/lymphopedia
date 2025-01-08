@@ -16,7 +16,7 @@ link-citations: true
    <th style="text-align:right;"> Dana-Farber </th>
    <th style="text-align:right;"> NCI </th>
    <th style="text-align:right;"> Reddy[@reddyGeneticFunctionalDrivers2017] </th>
-   <th style="text-align:right;"> DLBCL_ICGC </th>
+   <th style="text-align:right;"> tables/DLBCL_ICGC </th>
   </tr>
  </thead>
 <tbody>

@@ -33,7 +33,7 @@ Due to [minimal support](COL4A2#representative-mutations) in the original primar
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_COL4A2.md]]
+[[include:tables/dnds_COL4A2.md]]
 
 
 

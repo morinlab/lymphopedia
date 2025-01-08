@@ -17,12 +17,12 @@ ZFP36L1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ash
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-[[include:DLBCL_ZFP36L1.md]]
-[[include:BL_ZFP36L1.md]]
+[[include:tables/DLBCL_ZFP36L1.md]]
+[[include:tables/BL_ZFP36L1.md]]
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_ZFP36L1.md]]
+[[include:tables/dnds_ZFP36L1.md]]
 
 ## aSHM regions
 

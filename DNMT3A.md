@@ -30,7 +30,7 @@ nocite: |
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_DNMT3A.md]]
+[[include:tables/dnds_DNMT3A.md]]
 
 
 

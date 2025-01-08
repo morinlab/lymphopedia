@@ -23,7 +23,7 @@ nocite: |
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_TRAF3.md]]
+[[include:tables/dnds_TRAF3.md]]
 
 ## Visualizations
 

@@ -29,7 +29,7 @@ Mutations in this gene are relatively rare in DLBCL overall but show a pattern o
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_NCOR2.md]]
+[[include:tables/dnds_NCOR2.md]]
 
 
 

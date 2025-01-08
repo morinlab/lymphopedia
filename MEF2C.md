@@ -19,13 +19,13 @@ Mutations in this gene were first described in DLBCL by [Arthur et al](papers/ar
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-[[include:DLBCL_MEF2C.md]]
-[[include:DLBCL_MEF2C.md]]
+[[include:tables/DLBCL_MEF2C.md]]
+[[include:tables/DLBCL_MEF2C.md]]
 
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_MEF2C.md]]
+[[include:tables/dnds_MEF2C.md]]
 
 ## aSHM regions
 

@@ -14,11 +14,11 @@ nocite: |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-[[include:BL_BMP7.md]]
+[[include:tables/BL_BMP7.md]]
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_BMP7.md]]
+[[include:tables/dnds_BMP7.md]]
 
 ## BMP7 Hotspots
 

@@ -19,17 +19,17 @@ Mutations are often found in the globular domain of the protein, which is critic
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
 ### DLBCL
-[[include:DLBCL_HIST1H1D.md]]
+[[include:tables/DLBCL_HIST1H1D.md]]
 
 ### BL
-[[include:BL_HIST1H1D.md]]
+[[include:tables/BL_HIST1H1D.md]]
 
 ### FL
-[[include:FL_HIST1H1D.md]]
+[[include:tables/FL_HIST1H1D.md]]
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_HIST1H1D.md]]
+[[include:tables/dnds_HIST1H1D.md]]
 
 
 

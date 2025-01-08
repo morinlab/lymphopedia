@@ -17,12 +17,12 @@ HVCN1, a voltage-gated proton channel, has been identified as recurrently mutate
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-[[include:DLBCL_HVCN1.md]]
-[[include:FL_HVCN1.md]]
+[[include:tables/DLBCL_HVCN1.md]]
+[[include:tables/FL_HVCN1.md]]
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_HVCN1.md]]
+[[include:tables/dnds_HVCN1.md]]
 
 
 ## HVCN1 Hotspots

@@ -25,12 +25,12 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-[[include:DLBCL_CXCR4.md]]
-[[include:FL_CXCR4.md]]
+[[include:tables/DLBCL_CXCR4.md]]
+[[include:tables/FL_CXCR4.md]]
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_CXCR4.md]]
+[[include:tables/dnds_CXCR4.md]]
 
 ## aSHM regions
 

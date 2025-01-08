@@ -24,12 +24,12 @@ B2M mutations in B-cell lymphomas, particularly in DLBCL and PMBCL, lead to redu
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-[[include:DLBCL_B2M.md]]
-[[include:FL_B2M.md]]
+[[include:tables/DLBCL_B2M.md]]
+[[include:tables/FL_B2M.md]]
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_B2M.md]]
+[[include:tables/dnds_B2M.md]]
 
 ## B2M Hotspots
 

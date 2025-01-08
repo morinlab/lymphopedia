@@ -20,7 +20,7 @@ nocite: |
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_GRM6.md]]
+[[include:tables/dnds_GRM6.md]]
 
 
 

@@ -18,12 +18,12 @@ nocite: |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-[[include:DLBCL_CHD8.md]]
-[[include:BL_CHD8.md]]
+[[include:tables/DLBCL_CHD8.md]]
+[[include:tables/BL_CHD8.md]]
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_CHD8.md]]
+[[include:tables/dnds_CHD8.md]]
 
 [[include:browser_CHD8.md]]
 

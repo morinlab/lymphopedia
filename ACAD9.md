@@ -24,7 +24,7 @@ Due to [minimal support](ACAD9#representative-mutation) in the original primary 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
 ### BL
-[[include:BL_ACAD9]]
+[[include:tables/BL_ACAD9]]
 
 ## Mutation pattern and selective pressure estimates
 

@@ -21,7 +21,7 @@ nocite: |
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_CYP2A6.md]]
+[[include:tables/dnds_CYP2A6.md]]
 
 
 

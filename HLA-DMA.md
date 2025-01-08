@@ -25,7 +25,7 @@ Mutations in this gene are relatively rare in DLBCL overall.
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_HLA-DMA.md]]
+[[include:tables/dnds_HLA-DMA.md]]
 
 
 

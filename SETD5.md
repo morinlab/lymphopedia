@@ -29,7 +29,7 @@ Mutations in this gene were reported to be inflated in the original results acco
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_SETD5.md]]
+[[include:tables/dnds_SETD5.md]]
 
 
 

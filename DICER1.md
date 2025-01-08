@@ -30,7 +30,7 @@ Mutations in this gene were reported to be inflated in the original results acco
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_DICER1.md]]
+[[include:tables/dnds_DICER1.md]]
 
 
 

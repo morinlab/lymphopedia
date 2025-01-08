@@ -22,7 +22,7 @@ nocite: |
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_HLA-DQB1.md]]
+[[include:tables/dnds_HLA-DQB1.md]]
 
 
 

@@ -30,7 +30,7 @@ nocite: |
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_PCDHA11.md]]
+[[include:tables/dnds_PCDHA11.md]]
 
 
 

@@ -18,12 +18,12 @@ Driver mutations affecting this gene in FL/DLBCL have been experimentally demons
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-[[include:DLBCL_TBL1XR1.md]]
-[[include:FL_TBL1XR1.md]]
+[[include:tables/DLBCL_TBL1XR1.md]]
+[[include:tables/FL_TBL1XR1.md]]
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_TBL1XR1.md]]
+[[include:tables/dnds_TBL1XR1.md]]
 
 ## TBL1XR1 Hotspots
 

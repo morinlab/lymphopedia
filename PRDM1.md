@@ -18,12 +18,12 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-[[include:DLBCL_PRDM1.md]]
-[[include:BL_PRDM1.md]]
+[[include:tables/DLBCL_PRDM1.md]]
+[[include:tables/BL_PRDM1.md]]
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_PRDM1.md]]
+[[include:tables/dnds_PRDM1.md]]
 
 ## PRDM1 Hotspots
 

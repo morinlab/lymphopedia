@@ -31,7 +31,7 @@ Due to [minimal support](CDH17#representative-mutations) in the original primary
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_CDH17.md]]
+[[include:tables/dnds_CDH17.md]]
 
 
 

@@ -15,11 +15,11 @@ nocite: |
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
 
-[[include:DLBCL_SPEN.md]]
+[[include:tables/DLBCL_SPEN.md]]
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_SPEN.md]]
+[[include:tables/dnds_SPEN.md]]
 
 ## SPEN Hotspots
 

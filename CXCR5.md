@@ -27,7 +27,7 @@ CXCR5 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm)
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_CXCR5.md]]
+[[include:tables/dnds_CXCR5.md]]
 
 ## aSHM regions
 

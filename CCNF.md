@@ -22,7 +22,7 @@ nocite: |
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_CCNF.md]]
+[[include:tables/dnds_CCNF.md]]
 
 
 [[include:browser_CCNF.md]]

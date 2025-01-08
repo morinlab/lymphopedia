@@ -22,7 +22,7 @@ nocite: |
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_WHAMM.md]]
+[[include:tables/dnds_WHAMM.md]]
 
 
 

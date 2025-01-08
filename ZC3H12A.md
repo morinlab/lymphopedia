@@ -18,13 +18,13 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-[[include:DLBCL_ZC3H12A.md]]
-[[include:FL_ZC3H12A.md]]
+[[include:tables/DLBCL_ZC3H12A.md]]
+[[include:tables/FL_ZC3H12A.md]]
 
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_ZC3H12A.md]]
+[[include:tables/dnds_ZC3H12A.md]]
 
 [[include:browser_ZC3H12A.md]]
 

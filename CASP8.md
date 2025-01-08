@@ -28,7 +28,7 @@ Mutations in this gene were first described in DLBCL in 2017 by Reddy et al.[@re
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_CASP8.md]]
+[[include:tables/dnds_CASP8.md]]
 
 
 

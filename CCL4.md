@@ -24,7 +24,7 @@ nocite: |
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_CCL4.md]]
+[[include:tables/dnds_CCL4.md]]
 
 
 

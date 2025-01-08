@@ -27,7 +27,7 @@ nocite: |
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_NRXN2.md]]
+[[include:tables/dnds_NRXN2.md]]
 
 
 [[include:browser_NRXN2.md]]

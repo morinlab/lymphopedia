@@ -14,7 +14,7 @@ Mutations in this gene are relatively rare in DLBCL overall. Some hotspots have 
 
 |Entity|Tier|Description               |
 |:------:|:----:|--------------------------|
-|![DLBCL](images/icons/DLBCL_tier1.png) |2   |low-confidence DLBCL gene|
+|![DLBCL](images/icons/tables/DLBCL_tier1.png) |2   |low-confidence DLBCL gene|
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

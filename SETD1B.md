@@ -18,11 +18,11 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-[[include:DLBCL_SETD1B.md]]
+[[include:tables/DLBCL_SETD1B.md]]
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_SETD1B.md]]
+[[include:tables/dnds_SETD1B.md]]
 
 ## SETD1B Hotspots
 

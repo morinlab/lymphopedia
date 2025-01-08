@@ -22,7 +22,7 @@ nocite: |
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_TTN.md]]
+[[include:tables/dnds_TTN.md]]
 
 
 ## TTN Hotspots

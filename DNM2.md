@@ -27,7 +27,7 @@ Mutations in this gene were first described in DLBCL and FL in 2021 by Hübschma
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_DNM2.md]]
+[[include:tables/dnds_DNM2.md]]
 
 
 ## DNM2 Hotspots

@@ -30,7 +30,7 @@ nocite: |
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_WDR7.md]]
+[[include:tables/dnds_WDR7.md]]
 
 
 

@@ -24,7 +24,7 @@ nocite: |
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_FOXP1.md]]
+[[include:tables/dnds_FOXP1.md]]
 
 ## aSHM regions
 

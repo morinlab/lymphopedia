@@ -23,12 +23,12 @@ Driver mutations affecting this gene in DLBCL/FL have been experimentally demons
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-[[include:DLBCL_STAT6.md]]
-[[include:FL_STAT6.md]]
+[[include:tables/DLBCL_STAT6.md]]
+[[include:tables/FL_STAT6.md]]
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_STAT6.md]]
+[[include:tables/dnds_STAT6.md]]
 
 ## STAT6 Hotspots
 

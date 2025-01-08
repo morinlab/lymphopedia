@@ -31,7 +31,7 @@ Due to [minimal support](RET#representative-mutation) in the original primary da
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_RET.md]]
+[[include:tables/dnds_RET.md]]
 
 
 

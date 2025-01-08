@@ -27,7 +27,7 @@ Mutations in this gene were first described in DLBCL in 2021 by Hübschmann et a
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_CNOT2.md]]
+[[include:tables/dnds_CNOT2.md]]
 
 [[include:browser_CNOT2.md]]
 

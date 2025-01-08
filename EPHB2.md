@@ -23,11 +23,11 @@ nocite: |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-[[include:BL_EPHB2.md]]
+[[include:tables/BL_EPHB2.md]]
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_EPHB2.md]]
+[[include:tables/dnds_EPHB2.md]]
 
 
 

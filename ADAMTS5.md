@@ -16,11 +16,11 @@ nocite: |
 
 ### BL
 
-[[include:BL_ADAMTS5.md]]
+[[include:tables/BL_ADAMTS5.md]]
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_ADAMTS5.md]]
+[[include:tables/dnds_ADAMTS5.md]]
 
 
 [[include:browser_ADAMTS5.md]]

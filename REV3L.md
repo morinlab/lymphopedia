@@ -22,7 +22,7 @@ nocite: |
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_REV3L.md]]
+[[include:tables/dnds_REV3L.md]]
 
 
 

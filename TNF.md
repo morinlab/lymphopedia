@@ -18,9 +18,9 @@ nocite: |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-[[include:BL_TNF.md]]
-[[include:DLBCL_TNF.md]]
-[[include:FL_TNF.md]]
+[[include:tables/BL_TNF.md]]
+[[include:tables/DLBCL_TNF.md]]
+[[include:tables/FL_TNF.md]]
 
 [[include:mermaid_TNF.md]]
 

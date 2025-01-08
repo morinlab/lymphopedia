@@ -35,7 +35,7 @@ Due to [minimal support](FTCD#representative-mutation) in the original primary d
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_FTCD.md]]
+[[include:tables/dnds_FTCD.md]]
 
 
 

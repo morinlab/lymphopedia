@@ -21,12 +21,12 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-[[include:DLBCL_CIITA.md]]
-[[include:FL_CIITA.md]]
+[[include:tables/DLBCL_CIITA.md]]
+[[include:tables/FL_CIITA.md]]
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_CIITA.md]]
+[[include:tables/dnds_CIITA.md]]
 
 ## aSHM regions
 

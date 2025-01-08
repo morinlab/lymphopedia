@@ -22,12 +22,12 @@ Driver mutations affecting this gene in DLBCL/FL have been experimentally demons
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-[[include:DLBCL_KLHL6.md]]
-[[include:FL_KLHL6.md]]
+[[include:tables/DLBCL_KLHL6.md]]
+[[include:tables/FL_KLHL6.md]]
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_KLHL6.md]]
+[[include:tables/dnds_KLHL6.md]]
 
 ## aSHM regions
 

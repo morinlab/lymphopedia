@@ -23,7 +23,7 @@ nocite: |
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_GABRA2.md]]
+[[include:tables/dnds_GABRA2.md]]
 
 
 

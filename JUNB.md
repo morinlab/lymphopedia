@@ -25,12 +25,12 @@ Mutations in this gene were reported to be inflated in the original results acco
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-[[include:DLBCL_JUNB.md]]
+[[include:tables/DLBCL_JUNB.md]]
 
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_JUNB.md]]
+[[include:tables/dnds_JUNB.md]]
 
 
 

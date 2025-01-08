@@ -19,11 +19,11 @@ Mutations in this gene were first described in DLBCL by [Hübschmann et al](pape
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-[[include:DLBCL_HLA-DMB.md]]
+[[include:tables/DLBCL_HLA-DMB.md]]
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_HLA-DMB.md]]
+[[include:tables/dnds_HLA-DMB.md]]
 
 [[include:browser_HLA-DMB.md]]
 

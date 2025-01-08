@@ -30,7 +30,7 @@ nocite: |
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_ARID1B.md]]
+[[include:tables/dnds_ARID1B.md]]
 
 
 [[include:browser_ARID1B.md]]

@@ -25,14 +25,14 @@ Details[@drevalRevisitingReddyDLBCL2023]
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
 ### DLBCL
-[[include:DLBCL_BRINP3.md]]
+[[include:tables/DLBCL_BRINP3.md]]
 
 ### BL
-[[include:BL_BRINP3.md]]
+[[include:tables/BL_BRINP3.md]]
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_BRINP3.md]]
+[[include:tables/dnds_BRINP3.md]]
 
 
 [[include:browser_BRINP3.md]]

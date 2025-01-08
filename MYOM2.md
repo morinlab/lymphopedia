@@ -26,7 +26,7 @@ The prevalence of MYOM2 mutations in DLBCL varies across studies. The role of th
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_MYOM2.md]]
+[[include:tables/dnds_MYOM2.md]]
 
 
 

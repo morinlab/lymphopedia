@@ -31,7 +31,7 @@ Mutations in this gene were first described in DLBCL in 2017 by Reddy et al.[@re
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_CHST2.md]]
+[[include:tables/dnds_CHST2.md]]
 
 
 [[include:browser_CHST2.md]]

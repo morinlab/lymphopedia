@@ -22,12 +22,12 @@ Driver mutations affecting this gene in BL have been experimentally demonstrated
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-[[include:DLBCL_TFAP4.md]]
-[[include:BL_TFAP4.md]]
+[[include:tables/DLBCL_TFAP4.md]]
+[[include:tables/BL_TFAP4.md]]
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_TFAP4.md]]
+[[include:tables/dnds_TFAP4.md]]
 
 [[include:browser_TFAP4.md]]
 

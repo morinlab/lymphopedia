@@ -20,7 +20,7 @@ nocite: |
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_OR8H2.md]]
+[[include:tables/dnds_OR8H2.md]]
 
 
 

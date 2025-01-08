@@ -22,12 +22,12 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-[[include:DLBCL_POU2AF1.md]]
-[[include:FL_POU2AF1.md]]
+[[include:tables/DLBCL_POU2AF1.md]]
+[[include:tables/FL_POU2AF1.md]]
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_POU2AF1.md]]
+[[include:tables/dnds_POU2AF1.md]]
 
 ## aSHM regions
 

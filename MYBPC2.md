@@ -23,7 +23,7 @@ nocite: |
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_MYBPC2.md]]
+[[include:tables/dnds_MYBPC2.md]]
 
 
 

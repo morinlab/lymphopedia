@@ -23,11 +23,11 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-[[include:DLBCL_HLA-C.md]]
+[[include:tables/DLBCL_HLA-C.md]]
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_HLA-C.md]]
+[[include:tables/dnds_HLA-C.md]]
 
 [[include:browser_HLA-C.md]]
 

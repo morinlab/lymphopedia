@@ -31,7 +31,7 @@ Mutations in this gene were reported to be inflated in the original results acco
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_ZFX.md]]
+[[include:tables/dnds_ZFX.md]]
 
 
 

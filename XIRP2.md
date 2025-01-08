@@ -20,7 +20,7 @@ nocite: |
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_XIRP2.md]]
+[[include:tables/dnds_XIRP2.md]]
 
 
 

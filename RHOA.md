@@ -18,12 +18,12 @@ Driver mutations affecting this gene in DLBCL/BL have been experimentally demons
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-[[include:DLBCL_RHOA.md]]
-[[include:BL_RHOA.md]]
+[[include:tables/DLBCL_RHOA.md]]
+[[include:tables/BL_RHOA.md]]
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_RHOA.md]]
+[[include:tables/dnds_RHOA.md]]
 
 ## RHOA Hotspots
 

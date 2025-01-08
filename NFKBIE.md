@@ -23,11 +23,11 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
 
-[[include:DLBCL_NFKBIE.md]]
+[[include:tables/DLBCL_NFKBIE.md]]
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_NFKBIE.md]]
+[[include:tables/dnds_NFKBIE.md]]
 
 [[include:browser_NFKBIE.md]]
 

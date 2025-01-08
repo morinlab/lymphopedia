@@ -29,7 +29,7 @@ nocite: |
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_CYB5D1.md]]
+[[include:tables/dnds_CYB5D1.md]]
 
 
 

@@ -14,11 +14,11 @@ nocite: |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-[[include:BL_ADNP.md]]
+[[include:tables/BL_ADNP.md]]
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_ADNP.md]]
+[[include:tables/dnds_ADNP.md]]
 
 
 

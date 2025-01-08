@@ -28,12 +28,12 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-[[include:DLBCL_MTOR.md]]
-[[include:BL_MTOR.md]]
+[[include:tables/DLBCL_MTOR.md]]
+[[include:tables/BL_MTOR.md]]
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_MTOR.md]]
+[[include:tables/dnds_MTOR.md]]
 
 
 

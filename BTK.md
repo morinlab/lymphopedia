@@ -19,12 +19,12 @@ Driver mutations affecting this gene in FL/DLBCL have been experimentally demons
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-[[include:DLBCL_BTK.md]]
-[[include:FL_BTK.md]]
+[[include:tables/DLBCL_BTK.md]]
+[[include:tables/FL_BTK.md]]
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_BTK.md]]
+[[include:tables/dnds_BTK.md]]
 
 [[include:browser_BTK.md]]
 

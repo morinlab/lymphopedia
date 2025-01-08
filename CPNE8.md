@@ -24,7 +24,7 @@ Mutations in this gene were first described in FL in 2021 by Hübschmann et al.[
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_CPNE8.md]]
+[[include:tables/dnds_CPNE8.md]]
 
 
 

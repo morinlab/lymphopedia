@@ -14,7 +14,7 @@ nocite: |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-[[include:FL_ABL2.md]]
+[[include:tables/FL_ABL2.md]]
 
 ## Mutation pattern and selective pressure estimates
 

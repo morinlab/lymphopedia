@@ -20,7 +20,7 @@ nocite: |
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_PZP.md]]
+[[include:tables/dnds_PZP.md]]
 
 
 

@@ -17,7 +17,7 @@ nocite: |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-[[include:DLBCL_ACSS3.md]]
+[[include:tables/DLBCL_ACSS3.md]]
 
 [[include:mermaid_ACSS3.md]]
 

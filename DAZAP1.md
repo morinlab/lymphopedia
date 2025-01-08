@@ -27,7 +27,7 @@ This gene has some recurrent sites of mutations (hot spots). The mutation patter
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_DAZAP1.md]]
+[[include:tables/dnds_DAZAP1.md]]
 
 
 ## DAZAP1 Hotspots

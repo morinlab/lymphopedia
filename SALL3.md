@@ -28,7 +28,7 @@ nocite: |
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_SALL3.md]]
+[[include:tables/dnds_SALL3.md]]
 
 
 

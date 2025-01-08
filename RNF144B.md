@@ -22,7 +22,7 @@ nocite: |
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_RNF144B.md]]
+[[include:tables/dnds_RNF144B.md]]
 
 ## aSHM regions
 

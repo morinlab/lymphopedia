@@ -18,12 +18,12 @@ Driver mutations affecting this gene in FL have been experimentally demonstrated
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-[[include:DLBCL_MAP2K1.md]]
-[[include:FL_MAP2K1.md]]
+[[include:tables/DLBCL_MAP2K1.md]]
+[[include:tables/FL_MAP2K1.md]]
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_MAP2K1.md]]
+[[include:tables/dnds_MAP2K1.md]]
 
 ## MAP2K1 Hotspots
 

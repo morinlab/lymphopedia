@@ -22,7 +22,7 @@ nocite: |
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_ZNF85.md]]
+[[include:tables/dnds_ZNF85.md]]
 
 
 

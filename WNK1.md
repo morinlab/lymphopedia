@@ -14,12 +14,12 @@ nocite: |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-[[include:DLBCL_WNK1.md]]
-[[include:BL_WNK1.md]]
+[[include:tables/DLBCL_WNK1.md]]
+[[include:tables/BL_WNK1.md]]
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_WNK1.md]]
+[[include:tables/dnds_WNK1.md]]
 
 ## WNK1 Hotspots
 

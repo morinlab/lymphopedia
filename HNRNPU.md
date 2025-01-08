@@ -16,12 +16,12 @@ nocite: |
 
 ## Mutation incidence
 
-[[include:DLBCL_HNRNPU.md]]
-[[include:BL_HNRNPU.md]]
+[[include:tables/DLBCL_HNRNPU.md]]
+[[include:tables/BL_HNRNPU.md]]
 
 ## Mutation pattern
 
-[[include:dnds_HNRNPU.md]]
+[[include:tables/dnds_HNRNPU.md]]
 
 ## aSHM regions
 

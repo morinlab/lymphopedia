@@ -23,7 +23,7 @@ nocite: |
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_PDE4DIP.md]]
+[[include:tables/dnds_PDE4DIP.md]]
 
 
 [[include:browser_PDE4DIP.md]]

@@ -28,7 +28,7 @@ nocite: |
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_RUNX1.md]]
+[[include:tables/dnds_RUNX1.md]]
 
 
 

@@ -30,7 +30,7 @@ Due to [minimal support](DLGAP1#representative-mutation) in the original primary
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_DLGAP1.md]]
+[[include:tables/dnds_DLGAP1.md]]
 
 
 

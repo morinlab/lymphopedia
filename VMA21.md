@@ -18,14 +18,14 @@ Driver mutations affecting this gene in FL have been experimentally demonstrated
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
 ### FL
-[[include:FL_VMA21.md]]
+[[include:tables/FL_VMA21.md]]
 
 ### DLBCL
-[[include:DLBCL_VMA21.md]]
+[[include:tables/DLBCL_VMA21.md]]
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_VMA21.md]]
+[[include:tables/dnds_VMA21.md]]
 
 [[include:browser_VMA21.md]]
 

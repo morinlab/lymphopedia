@@ -22,7 +22,7 @@ nocite: |
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_FLYWCH1.md]]
+[[include:tables/dnds_FLYWCH1.md]]
 
 
 

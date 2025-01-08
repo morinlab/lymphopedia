@@ -23,7 +23,7 @@ nocite: |
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_SERPINA9.md]]
+[[include:tables/dnds_SERPINA9.md]]
 
 ## aSHM regions
 

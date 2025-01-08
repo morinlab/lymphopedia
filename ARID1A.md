@@ -23,14 +23,14 @@ Driver mutations affecting this gene have been experimentally demonstrated to ca
 
 ## Mutation incidence in large cohorts
 
-[[include:DLBCL_ARID1A.md]]
-[[include:FL_ARID1A.md]]
-[[include:BL_ARID1A.md]]
+[[include:tables/DLBCL_ARID1A.md]]
+[[include:tables/FL_ARID1A.md]]
+[[include:tables/BL_ARID1A.md]]
 
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_ARID1A.md]]
+[[include:tables/dnds_ARID1A.md]]
 
 [[include:browser_ARID1A.md]]
 

@@ -24,7 +24,7 @@ nocite: |
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_NLRP8.md]]
+[[include:tables/dnds_NLRP8.md]]
 
 
 [[include:browser_NLRP8.md]]

@@ -28,12 +28,12 @@ Combination therapies including EZH2 inhibitors are also under exploration for D
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
 
-[[include:DLBCL_EZH2.md]]
-[[include:FL_EZH2.md]]
+[[include:tables/DLBCL_EZH2.md]]
+[[include:tables/FL_EZH2.md]]
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_EZH2.md]]
+[[include:tables/dnds_EZH2.md]]
 
 ## EZH2 Hotspots
 

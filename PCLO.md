@@ -24,7 +24,7 @@ nocite: |
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_PCLO.md]]
+[[include:tables/dnds_PCLO.md]]
 
 
 ## PCLO Hotspots

@@ -14,11 +14,11 @@ nocite: |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-[[include:DLBCL_NOL9.md]]
+[[include:tables/DLBCL_NOL9.md]]
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_NOL9.md]]
+[[include:tables/dnds_NOL9.md]]
 
 ## NOL9 Hotspots
 

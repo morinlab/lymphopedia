@@ -23,12 +23,12 @@ Driver mutations affecting this gene in BL/DLBCL have been experimentally demons
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-[[include:DLBCL_P2RY8.md]]
-[[include:BL_P2RY8.md]]
+[[include:tables/DLBCL_P2RY8.md]]
+[[include:tables/BL_P2RY8.md]]
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_P2RY8.md]]
+[[include:tables/dnds_P2RY8.md]]
 
 [[include:browser_P2RY8.md]]
 

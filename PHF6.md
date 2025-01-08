@@ -15,12 +15,12 @@ nocite: |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-[[include:DLBCL_PHF6.md]]
-[[include:BL_PHF6.md]]
+[[include:tables/DLBCL_PHF6.md]]
+[[include:tables/BL_PHF6.md]]
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_PHF6.md]]
+[[include:tables/dnds_PHF6.md]]
 
 
 [[include:browser_PHF6.md]]

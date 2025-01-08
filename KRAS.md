@@ -21,11 +21,11 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-[[include:DLBCL_KRAS.md]]
+[[include:tables/DLBCL_KRAS.md]]
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_KRAS.md]]
+[[include:tables/dnds_KRAS.md]]
 
 ## KRAS Hotspots
 

@@ -28,7 +28,7 @@ nocite: |
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_ZFAT.md]]
+[[include:tables/dnds_ZFAT.md]]
 
 
 

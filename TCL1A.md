@@ -15,12 +15,12 @@ nocite: |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-[[include:DLBCL_TCL1A.md]]
-[[include:BL_TCL1A.md]]
+[[include:tables/DLBCL_TCL1A.md]]
+[[include:tables/BL_TCL1A.md]]
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_TCL1A.md]]
+[[include:tables/dnds_TCL1A.md]]
 
 ## aSHM regions
 

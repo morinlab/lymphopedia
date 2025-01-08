@@ -27,7 +27,7 @@ nocite: |
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_CTCF.md]]
+[[include:tables/dnds_CTCF.md]]
 
 
 

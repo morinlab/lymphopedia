@@ -25,7 +25,7 @@ FOXC1 is a transcription factor that regulates genes involved in cell growth, di
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_FOXC1.md]]
+[[include:tables/dnds_FOXC1.md]]
 
 
 

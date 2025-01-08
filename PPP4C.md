@@ -20,7 +20,7 @@ nocite: |
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_PPP4C.md]]
+[[include:tables/dnds_PPP4C.md]]
 
 
 ## PPP4C Hotspots

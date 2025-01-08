@@ -27,7 +27,7 @@ nocite: |
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_TIGD6.md]]
+[[include:tables/dnds_TIGD6.md]]
 
 
 

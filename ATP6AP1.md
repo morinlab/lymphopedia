@@ -14,11 +14,11 @@ nocite: |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-[[include:FL_ATP6AP1.md]]
+[[include:tables/FL_ATP6AP1.md]]
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_ATP6AP1.md]]
+[[include:tables/dnds_ATP6AP1.md]]
 
 [[include:browser_ATP6AP1.md]]
 

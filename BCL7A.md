@@ -27,17 +27,17 @@ Driver mutations affecting this gene in BL/DLBCL/FL have been experimentally dem
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
 ### DLBCL
-[[include:DLBCL_BCL7A.md]]
+[[include:tables/DLBCL_BCL7A.md]]
 
 ### FL
-[[include:FL_BCL7A.md]]
+[[include:tables/FL_BCL7A.md]]
 
 ### BL
-[[include:BL_BCL7A.md]]
+[[include:tables/BL_BCL7A.md]]
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_BCL7A.md]]
+[[include:tables/dnds_BCL7A.md]]
 
 ## aSHM regions
 

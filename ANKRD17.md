@@ -23,7 +23,7 @@ nocite: |
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_ANKRD17.md]]
+[[include:tables/dnds_ANKRD17.md]]
 
 
 [[include:browser_ANKRD17.md]]

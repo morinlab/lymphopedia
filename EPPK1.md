@@ -23,7 +23,7 @@ nocite: |
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_EPPK1.md]]
+[[include:tables/dnds_EPPK1.md]]
 
 
 ## EPPK1 Hotspots

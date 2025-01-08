@@ -17,11 +17,11 @@ Mutations in MPEG1 have been described in DLBCL[@morinMutationalStructuralAnalys
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-[[include:DLBCL_MPEG1.md]]
+[[include:tables/DLBCL_MPEG1.md]]
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_MPEG1.md]]
+[[include:tables/dnds_MPEG1.md]]
 
 [[include:browser_MPEG1.md]]
 

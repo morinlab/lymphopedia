@@ -24,7 +24,7 @@ Mutations in this gene were first described in DLBCL in 2021 by Hübschmann et a
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_ATP6V1A.md]]
+[[include:tables/dnds_ATP6V1A.md]]
 
 
 ## ATP6V1A Hotspots

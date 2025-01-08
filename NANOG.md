@@ -23,7 +23,7 @@ nocite: |
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_NANOG.md]]
+[[include:tables/dnds_NANOG.md]]
 
 
 

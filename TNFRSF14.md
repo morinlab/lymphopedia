@@ -20,12 +20,12 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-[[include:DLBCL_TNFRSF14.md]]
-[[include:FL_TNFRSF14.md]]
+[[include:tables/DLBCL_TNFRSF14.md]]
+[[include:tables/FL_TNFRSF14.md]]
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_TNFRSF14.md]]
+[[include:tables/dnds_TNFRSF14.md]]
 
 ## TNFRSF14 Hotspots
 

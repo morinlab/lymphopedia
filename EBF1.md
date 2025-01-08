@@ -23,12 +23,12 @@ Driver mutations affecting this gene in DLBCL/FL have been experimentally demons
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-[[include:DLBCL_EBF1.md]]
-[[include:FL_EBF1.md]]
+[[include:tables/DLBCL_EBF1.md]]
+[[include:tables/FL_EBF1.md]]
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_EBF1.md]]
+[[include:tables/dnds_EBF1.md]]
 
 ## aSHM regions
 

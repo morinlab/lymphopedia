@@ -30,7 +30,7 @@ Due to [minimal support](KIFC3#representative-mutations) in the original primary
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_KIFC3.md]]
+[[include:tables/dnds_KIFC3.md]]
 
 
 

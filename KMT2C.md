@@ -18,12 +18,12 @@ This gene has been reported to be recurrently mutated in DLBCL. The rate of muta
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-[[include:DLBCL_KMT2C.md]]
-[[include:BL_KMT2C.md]]
+[[include:tables/DLBCL_KMT2C.md]]
+[[include:tables/BL_KMT2C.md]]
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_KMT2C.md]]
+[[include:tables/dnds_KMT2C.md]]
 
 [[include:browser_KMT2C.md]]
 

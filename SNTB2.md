@@ -30,7 +30,7 @@ nocite: |
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_SNTB2.md]]
+[[include:tables/dnds_SNTB2.md]]
 
 
 [[include:browser_SNTB2.md]]

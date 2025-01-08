@@ -33,7 +33,7 @@ Due to [minimal support](ATP2C2#representative-mutation) in the original primary
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_ATP2C2.md]]
+[[include:tables/dnds_ATP2C2.md]]
 
 
 

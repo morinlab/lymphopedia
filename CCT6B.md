@@ -32,7 +32,7 @@ Due to [minimal support](CCT6B#representative-mutations) in the original primary
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_CCT6B.md]]
+[[include:tables/dnds_CCT6B.md]]
 
 
 

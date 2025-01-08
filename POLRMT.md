@@ -27,7 +27,7 @@ nocite: |
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_POLRMT.md]]
+[[include:tables/dnds_POLRMT.md]]
 
 
 [[include:browser_POLRMT.md]]
