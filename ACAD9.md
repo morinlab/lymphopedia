@@ -28,7 +28,7 @@ Due to [minimal support](ACAD9#representative-mutation) in the original primary 
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_ACAD9.md]]
+[[include:tables/dnds_ACAD9.md]]
 
 
 

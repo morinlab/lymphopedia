@@ -28,7 +28,7 @@ Due to [minimal support](ACE#representative-mutation) in the original primary da
 
 ## Mutation pattern and selective pressure estimates
 
-[[include:dnds_ACE.md]]
+[[include:tables/dnds_ACE.md]]
 
 
 
