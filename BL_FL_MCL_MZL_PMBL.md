@@ -6,8 +6,8 @@ link-citations: true
 ---
 
 
-|[Gene](Gene)|PMBL Tier|FL Tier|BL Tier|MCL Tier|DLBCL Tier|MZL Tier|Any Tier 1|
-|[:-:](:-:)|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|Gene|PMBL Tier|FL Tier|BL Tier|MCL Tier|DLBCL Tier|MZL Tier|Any Tier 1|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |[ACTB](ACTB)|1|1|||1|1|Yes|
 |[ACTG1](ACTG1)|2|2|||1|2|Yes|
 |[ARID1A](ARID1A)|1|1|1||1|1|Yes|
