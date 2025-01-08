@@ -26,7 +26,10 @@ BCL10 missense mutations in the CARD domain and truncating mutations have distin
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
+### DLBCL
 [[include:tables/DLBCL_BCL10.md]]
+
+### FL
 [[include:tables/FL_BCL10.md]]
 
 

@@ -21,8 +21,13 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
+### DLBCL
 [[include:tables/DLBCL_S1PR2.md]]
+
+### FL
 [[include:tables/FL_S1PR2.md]]
+
+### BL
 [[include:tables/BL_S1PR2.md]]
 
 ## Mutation pattern and selective pressure estimates

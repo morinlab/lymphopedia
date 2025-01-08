@@ -18,7 +18,10 @@ Driver mutations affecting this gene in BL/DLBCL have been experimentally demons
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
+### DLBCL
 [[include:tables/DLBCL_PTEN.md]]
+
+### BL
 [[include:tables/BL_PTEN.md]]
 
 ## Mutation pattern and selective pressure estimates

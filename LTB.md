@@ -17,8 +17,13 @@ LTB (Lymphotoxin Beta) is a member of the tumor necrosis factor (TNF) superfamil
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
+### DLBCL
 [[include:tables/DLBCL_LTB.md]]
+
+### FL
 [[include:tables/FL_LTB.md]]
+
+### BL
 [[include:tables/BL_LTB.md]]
 
 ## Mutation pattern and selective pressure estimates

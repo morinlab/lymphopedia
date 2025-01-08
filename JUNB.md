@@ -25,6 +25,7 @@ Mutations in this gene were reported to be inflated in the original results acco
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
+### DLBCL
 [[include:tables/DLBCL_JUNB.md]]
 
 

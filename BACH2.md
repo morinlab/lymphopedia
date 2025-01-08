@@ -22,6 +22,7 @@ Driver mutations affecting this gene in BL have been experimentally demonstrated
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
+### BL
 [[include:tables/BL_BACH2.md]]
 
 ## Mutation pattern and selective pressure estimates

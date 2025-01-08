@@ -12,7 +12,7 @@ nocite: |
 
 ## Experimental Evidence
 
-Driver mutations affecting this gene in DLBCL have been experimentally demonstrated to cause a reduction or loss of function (LOF).[@]
+Driver mutations affecting this gene in DLBCL have been experimentally demonstrated to cause a reduction or loss of function (LOF).
 
 ## Relevance tier by entity
 
@@ -20,7 +20,10 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
+### DLBCL
 [[include:tables/DLBCL_TNFRSF14.md]]
+
+### FL
 [[include:tables/FL_TNFRSF14.md]]
 
 ## Mutation pattern and selective pressure estimates

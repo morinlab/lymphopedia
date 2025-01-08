@@ -26,7 +26,10 @@ The mutation pattern in DLBCL implies the preferential accumulation of *inactiva
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
+### DLBCL
 [[include:tables/DLBCL_ETS1.md]]
+
+### FL
 [[include:tables/FL_ETS1.md]]
 
 ## Mutation pattern and selective pressure estimates

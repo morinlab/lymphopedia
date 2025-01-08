@@ -20,6 +20,7 @@ Further research is needed to elucidate its specific role in DLBCL.
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
+### DLBCL
 [[include:tables/DLBCL_GRB2.md]]
 
 ## Mutation pattern and selective pressure estimates

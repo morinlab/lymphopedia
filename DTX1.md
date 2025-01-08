@@ -18,7 +18,10 @@ Mutations in the DTX1 gene, which encodes the E3 ubiquitin ligase Deltex 1, have
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
+### DLBCL
 [[include:tables/DLBCL_DTX1.md]]
+
+### FL
 [[include:tables/FL_DTX1.md]]
 
 ## Mutation pattern and selective pressure estimates

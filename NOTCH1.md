@@ -27,7 +27,10 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
+### DLBCL
 [[include:tables/DLBCL_NOTCH1.md]]
+
+### BL
 [[include:tables/BL_NOTCH1.md]]
 
 ## Mutation pattern and selective pressure estimates

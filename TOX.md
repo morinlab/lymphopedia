@@ -14,6 +14,7 @@ nocite: |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
+### DLBCL
 [[include:tables/DLBCL_TOX.md]]
 
 ## Mutation pattern and selective pressure estimates

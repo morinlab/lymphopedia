@@ -20,7 +20,10 @@ Contradictory to this, the mutation pattern in DLBCL implies selective pressure 
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
+### DLBCL
 [[include:tables/DLBCL_KLF2.md]]
+
+### FL
 [[include:tables/FL_KLF2.md]]
 
 ## Mutation pattern and selective pressure estimates

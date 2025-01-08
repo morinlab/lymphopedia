@@ -19,7 +19,10 @@ Driver mutations affecting this gene in BL have been experimentally demonstrated
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
+### DLBCL
 [[include:tables/DLBCL_TCF3.md]]
+
+### BL
 [[include:tables/BL_TCF3.md]]
 
 ## Mutation pattern and selective pressure estimates

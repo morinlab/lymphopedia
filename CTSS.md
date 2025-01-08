@@ -19,7 +19,10 @@ Driver mutations affecting this gene in FL have been experimentally demonstrated
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
+### DLBCL
 [[include:tables/DLBCL_CTSS.md]]
+
+### FL
 [[include:tables/FL_CTSS.md]]
 
 ## Mutation pattern and selective pressure estimates

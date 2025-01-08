@@ -21,7 +21,10 @@ ACTB is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) 
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
+### DLBCL
 [[include:tables/DLBCL_ACTB.md]]
+
+### FL
 [[include:tables/FL_ACTB.md]]
 
 ## Mutation pattern and selective pressure estimates

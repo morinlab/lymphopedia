@@ -21,8 +21,13 @@ Somatic mutations in CCND3 often stabilize the Cyclin D3 protein by altering the
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
+### DLBCL
 [[include:tables/DLBCL_CCND3.md]]
+
+### FL
 [[include:tables/FL_CCND3.md]]
+
+### BL
 [[include:tables/BL_CCND3.md]]
 
 ## Mutation pattern and selective pressure estimates
