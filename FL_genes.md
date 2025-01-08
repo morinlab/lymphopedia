@@ -14,14 +14,14 @@ nocite: |
 
 ## Tier 1 FL genes
 
-[[include:FL_Tier1.md]]
+[[include:pages/FL_Tier1.md]]
 
 ## Tier 2 FL genes
 
-[[include:FL_Tier2.md]]
+[[include:pages/FL_Tier2.md]]
 
 ## Tier 3 FL genes
 
-[[include:FL_Tier3.md]]
+[[include:pages/FL_Tier3.md]]
 
 # References
