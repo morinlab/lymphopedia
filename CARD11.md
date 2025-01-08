@@ -24,7 +24,10 @@ The functional effect of CARD11 mutations in DLBCL was explored in the original 
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
+### DLBCL
 [[include:DLBCL_CARD11.md]]
+
+### FL
 [[include:FL_CARD11.md]]
 
 ## Mutation pattern and selective pressure estimates
