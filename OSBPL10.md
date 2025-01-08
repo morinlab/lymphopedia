@@ -17,6 +17,7 @@ OSBPL10 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ash
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
+### DLBCL
 [[include:DLBCL_OSBPL10.md]]
 
 ## Mutation pattern and selective pressure estimates

@@ -18,7 +18,10 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
+### DLBCL
 [[include:DLBCL_MYD88.md]]
+
+### FL
 [[include:FL_MYD88.md]]
 
 ## Mutation pattern and selective pressure estimates

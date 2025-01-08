@@ -21,8 +21,13 @@ Driver mutations affecting this gene in DLBCL/FL/BL have been experimentally dem
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
+### DLBCL
 [[include:DLBCL_MYC.md]]
+
+### FL
 [[include:FL_MYC.md]]
+
+### BL
 [[include:BL_MYC.md]]
 
 ## Mutation pattern and selective pressure estimates

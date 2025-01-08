@@ -18,6 +18,7 @@ Driver mutations affecting this gene in FL have been experimentally demonstrated
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
+### FL
 [[include:FL_ATP6V1B2.md]]
 
 ## Mutation pattern and selective pressure estimates

@@ -18,7 +18,10 @@ TMSB4X is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
+### DLBCL
 [[include:DLBCL_TMSB4X.md]]
+
+### FL
 [[include:FL_TMSB4X.md]]
 
 ## Mutation pattern and selective pressure estimates

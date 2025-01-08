@@ -25,7 +25,10 @@ BTG2 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) 
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
+### DLBCL
 [[include:DLBCL_BTG2.md]]
+
+### FL
 [[include:FL_BTG2.md]]
 
 ## Mutation pattern and selective pressure estimates

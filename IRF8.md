@@ -25,8 +25,13 @@ Driver mutations affecting this gene in DLBCL/FL have been experimentally demons
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
+### DLBCL
 [[include:DLBCL_IRF8.md]]
+
+### FL
 [[include:FL_IRF8.md]]
+
+### BL
 [[include:BL_IRF8.md]]
 
 ## Mutation pattern and selective pressure estimates

@@ -18,7 +18,10 @@ This gene has some recurrent sites of mutations (hot spots). The mutation patter
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
+### DLBCL
 [[include:DLBCL_EEF1A1.md]]
+
+### FL
 [[include:FL_EEF1A1.md]]
 
 ## Mutation pattern and selective pressure estimates

@@ -18,7 +18,10 @@ Driver mutations affecting this gene in FL/DLBCL have been experimentally demons
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
+### DLBCL
 [[include:DLBCL_SOCS1.md]]
+
+### FL
 [[include:FL_SOCS1.md]]
 
 ## Mutation pattern and selective pressure estimates

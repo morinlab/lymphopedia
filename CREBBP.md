@@ -25,8 +25,13 @@ Mutations in CREBBP and EP300 affect a common pathway and have been described as
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
+### DLBCL
 [[include:DLBCL_CREBBP.md]]
+
+### FL
 [[include:FL_CREBBP.md]]
+
+### BL
 [[include:BL_CREBBP.md]]
 
 ## Mutation pattern and selective pressure estimates

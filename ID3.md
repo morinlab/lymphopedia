@@ -19,7 +19,10 @@ The existence of mutations in DLBCL were described in 2012 by Schmitz et al[@sch
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
+### DLBCL
 [[include:DLBCL_ID3.md]]
+
+### BL
 [[include:BL_ID3.md]]
 
 ## Mutation pattern and selective pressure estimates

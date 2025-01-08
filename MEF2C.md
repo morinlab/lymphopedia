@@ -19,7 +19,10 @@ Mutations in this gene were first described in DLBCL by [Arthur et al](papers/ar
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
+### DLBCL
 [[include:DLBCL_MEF2C.md]]
+
+### DLBCL
 [[include:DLBCL_MEF2C.md]]
 
 

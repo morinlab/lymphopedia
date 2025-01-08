@@ -23,7 +23,10 @@ Driver mutations affecting this gene in DLBCL/BL have been experimentally demons
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
+### DLBCL
 [[include:DLBCL_FBXO11.md]]
+
+### BL
 [[include:BL_FBXO11.md]]
 
 ## Mutation pattern and selective pressure estimates
