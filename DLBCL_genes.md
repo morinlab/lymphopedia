@@ -13,14 +13,14 @@ nocite: |
 
 ## Tier 1 DLBCL genes
 
-[[include:DLBCL_Tier1.md]]
+[[include:pages/DLBCL_Tier1.md]]
 
 ## Tier 2 DLBCL genes
 
-[[include:DLBCL_Tier2.md]]
+[[include:pages/DLBCL_Tier2.md]]
 
 ## Tier 3 DLBCL genes
 
-[[include:DLBCL_Tier3.md]]
+[[include:pages/DLBCL_Tier3.md]]
 
 ## References
