@@ -13,14 +13,14 @@ nocite: |
 
 ## Tier 1 BL genes
 
-[[include:BL_Tier1.md]]
+[[include:pages/BL_Tier1.md]]
 
 ## Tier 2 BL genes
 
-[[include:BL_Tier2.md]]
+[[include:pages/BL_Tier2.md]]
 
 ## Tier 3 BL genes
 
-[[include:BL_Tier3.md]]
+[[include:pages/BL_Tier3.md]]
 
 # References
