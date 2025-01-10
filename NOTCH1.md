@@ -30,6 +30,9 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 ### DLBCL
 [[include:tables/DLBCL_NOTCH1.md]]
 
+### MCL
+[[include:tables/MCL_NOTCH1.md]]
+
 ### BL
 [[include:tables/BL_NOTCH1.md]]
 
