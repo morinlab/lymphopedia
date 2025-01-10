@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_DGCR8.md]]
+[[include:tables/mermaid_DGCR8.md]]
 
 ## References
 

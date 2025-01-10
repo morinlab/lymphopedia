@@ -32,3 +32,6 @@ nocite: |
 
 [[include:browser_EIF2C4.md]]
 
+[[include:tables/mermaid_EIF2C4.md]]
+
+## References

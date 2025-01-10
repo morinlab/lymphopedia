@@ -52,7 +52,7 @@ There are a few mutation hotspots in this gene. The functional role of mutations
 ## Expression
 ![](images/gene_expression/IRF4_by_pathology.svg)
 
-[[include:mermaid_IRF4.md]]
+[[include:tables/mermaid_IRF4.md]]
 
 ## References
 

@@ -26,7 +26,7 @@ nocite: |
 |FL|GAMBL Exome |0.86 |
 
 
-[[include:mermaid_LUZP4.md]]
+[[include:tables/mermaid_LUZP4.md]]
 
 ## References
 

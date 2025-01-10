@@ -63,7 +63,7 @@ Driver mutations affecting this gene in DLBCL/FL have been experimentally demons
 ## Expression
 ![](images/gene_expression/IRF8_by_pathology.svg)
 
-[[include:mermaid_IRF8.md]]
+[[include:tables/mermaid_IRF8.md]]
 
 ## References
 [@wrightProbabilisticClassificationTool2020]

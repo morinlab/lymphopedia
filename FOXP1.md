@@ -43,7 +43,7 @@ nocite: |
 ## Expression
 ![](images/gene_expression/FOXP1_by_pathology.svg)
 
-[[include:mermaid_FOXP1.md]]
+[[include:tables/mermaid_FOXP1.md]]
 
 ## References
 

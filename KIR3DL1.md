@@ -32,7 +32,7 @@ nocite: |
 <!-- ORIGIN: russler-germainMutationsAssociatedProgression2023a -->
 <!-- FL: russler-germainMutationsAssociatedProgression2023b -->
 
-[[include:mermaid_KIR3DL1.md]]
+[[include:tables/mermaid_KIR3DL1.md]]
 
 ## References
 

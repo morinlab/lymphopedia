@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_FAIM.md]]
+[[include:tables/mermaid_FAIM.md]]
 
 ## References
 

@@ -48,7 +48,7 @@ nocite: |
 [1065](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/1065_reports.html)
 [742](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/742_reports.html)
 
-[[include:mermaid_ITPR3.md]]
+[[include:tables/mermaid_ITPR3.md]]
 
 ## References
 

@@ -36,6 +36,6 @@ nocite: |
 <!-- ORIGIN: chapuyMolecularSubtypesDiffuse2018b -->
 <!-- DLBCL: chapuyMolecularSubtypesDiffuse2018b -->
 
-[[include:mermaid_CCL4.md]]
+[[include:tables/mermaid_CCL4.md]]
 
 ## References

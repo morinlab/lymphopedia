@@ -26,7 +26,7 @@ nocite: |
 |DLBCL|GAMBL Genome |0.376 |
 
 
-[[include:mermaid_CSF2RB.md]]
+[[include:tables/mermaid_CSF2RB.md]]
 
 ## References
 

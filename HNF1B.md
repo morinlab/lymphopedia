@@ -35,7 +35,7 @@ nocite: |
 <!-- ORIGIN: pasqualucciAnalysisCodingGenome2011 -->
 <!-- DLBCL: pasqualucciAnalysisCodingGenome2011 -->
 
-[[include:mermaid_HNF1B.md]]
+[[include:tables/mermaid_HNF1B.md]]
 
 ## References
 

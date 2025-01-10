@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_LIN7C.md]]
+[[include:tables/mermaid_LIN7C.md]]
 
 ## References
 

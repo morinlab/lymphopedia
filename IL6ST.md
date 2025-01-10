@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_IL6ST.md]]
+[[include:tables/mermaid_IL6ST.md]]
 
 ## References
 

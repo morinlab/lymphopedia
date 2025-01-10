@@ -48,7 +48,7 @@ Mutations in this gene were first described in DLBCL and FL in 2021 by Hübschma
 [SP116606](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP116606.html)
 [SP59304](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP59304.html)
 
-[[include:mermaid_IRF1.md]]
+[[include:tables/mermaid_IRF1.md]]
 
 ## References
 

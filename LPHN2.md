@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_LPHN2.md]]
+[[include:tables/mermaid_LPHN2.md]]
 
 ## References
 

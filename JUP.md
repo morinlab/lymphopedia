@@ -38,7 +38,7 @@ Mutations in this gene were first described in FL in 2021 by Hübschmann et al.[
 [SP193801](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP193801.html)
 [SP59448](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP59448.html)
 
-[[include:mermaid_JUP.md]]
+[[include:tables/mermaid_JUP.md]]
 
 ## References
 

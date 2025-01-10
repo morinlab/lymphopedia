@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_LEPR.md]]
+[[include:tables/mermaid_LEPR.md]]
 
 ## References
 

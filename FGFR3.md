@@ -56,7 +56,7 @@ Due to [minimal support](FGFR3#representative-mutation) in the original primary 
 [479](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/479_reports.html)
 [515](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/515_reports.html)
 
-[[include:mermaid_FGFR3.md]]
+[[include:tables/mermaid_FGFR3.md]]
 
 ## References
 

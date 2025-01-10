@@ -43,6 +43,6 @@ HVCN1, a voltage-gated proton channel, has been identified as recurrently mutate
 <!-- ORIGIN: krysiakRecurrentSomaticMutations2017b -->
 <!-- FL: krysiakRecurrentSomaticMutations2017b -->
 
-[[include:mermaid_HVCN1.md]]
+[[include:tables/mermaid_HVCN1.md]]
 
 ## References

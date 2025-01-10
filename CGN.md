@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_CGN.md]]
+[[include:tables/mermaid_CGN.md]]
 
 ## References
 

@@ -43,7 +43,7 @@ nocite: |
 <!-- BL: burkhardtClinicalRelevanceMolecular2022b -->
 <!-- MZL: rossiCodingGenomeSplenic2012c -->
 
-[[include:mermaid_CD79A.md]]
+[[include:tables/mermaid_CD79A.md]]
 
 ## References
 

@@ -69,6 +69,6 @@ This gene encodes the H2A protein, one of the core proteins comprising nucleosom
 <!-- FL: krysiakRecurrentSomaticMutations2017b -->
 <!-- DLBCL: reddyGeneticFunctionalDrivers2017 -->
 
-[[include:mermaid_HIST1H2BC.md]]
+[[include:tables/mermaid_HIST1H2BC.md]]
 
 ## References

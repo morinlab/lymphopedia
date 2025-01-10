@@ -36,6 +36,6 @@ nocite: |
 <!-- ORIGIN: pararajalingamCodingNoncodingDrivers2020 -->
 <!-- MCL: pararajalingamCodingNoncodingDrivers2020 -->
 
-[[include:mermaid_EWSR1.md]]
+[[include:tables/mermaid_EWSR1.md]]
 
 ## References

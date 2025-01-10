@@ -41,6 +41,6 @@ nocite: |
 <!-- ORIGIN: reddyGeneticFunctionalDrivers2017 -->
 <!-- DLBCL: reddyGeneticFunctionalDrivers2017 -->
 
-[[include:mermaid_FUBP1.md]]
+[[include:tables/mermaid_FUBP1.md]]
 
 ## References

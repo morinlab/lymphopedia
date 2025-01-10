@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_HLA-DRB1.md]]
+[[include:tables/mermaid_HLA-DRB1.md]]
 
 ## References
 

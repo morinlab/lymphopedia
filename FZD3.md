@@ -55,7 +55,7 @@ nocite: |
 &starf; &star; &star; &star; &star;
 
 
-[[include:mermaid_FZD3.md]]
+[[include:tables/mermaid_FZD3.md]]
 
 ## References
 

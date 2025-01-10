@@ -35,7 +35,7 @@ nocite: |
 ## Expression
 ![](images/gene_expression/IGLL5_by_pathology.svg)
 
-[[include:mermaid_IGLL5.md]]
+[[include:tables/mermaid_IGLL5.md]]
 
 ## References
 <!-- PMBL: deschGenotypingCirculatingTumor2020 -->

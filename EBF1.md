@@ -66,7 +66,7 @@ Driver mutations affecting this gene in DLBCL/FL have been experimentally demons
 <!-- PMBL: reichelFlowSortingExome2015a -->
 <!-- DLBCL: bohleRoleEarlyBcell2013 -->
 
-[[include:mermaid_EBF1.md]]
+[[include:tables/mermaid_EBF1.md]]
 
 ## References
 

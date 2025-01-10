@@ -40,7 +40,7 @@ Driver mutations affecting this gene in FL/DLBCL have been experimentally demons
 ## Expression
 ![](images/gene_expression/FAS_by_pathology.svg)
 
-[[include:mermaid_FAS.md]]
+[[include:tables/mermaid_FAS.md]]
 
 ## References
 

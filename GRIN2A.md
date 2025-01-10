@@ -36,7 +36,7 @@ nocite: |
 <!-- ORIGIN: zhangGenomicLandscapeMantle2014 -->
 <!-- MCL: zhangGenomicLandscapeMantle2014 -->
 
-[[include:mermaid_GRIN2A.md]]
+[[include:tables/mermaid_GRIN2A.md]]
 
 ## References
 

@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_CELSR2.md]]
+[[include:tables/mermaid_CELSR2.md]]
 
 ## References
 

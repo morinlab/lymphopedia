@@ -34,7 +34,7 @@ nocite: |
 <!-- ORIGIN: schmitzBurkittLymphomaPathogenesis2012 -->
 <!-- BL: schmitzBurkittLymphomaPathogenesis2012 -->
 
-[[include:mermaid_EXOSC6.md]]
+[[include:tables/mermaid_EXOSC6.md]]
 
 ## References
 

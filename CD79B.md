@@ -79,7 +79,7 @@ Mutations at Y196 enhance B-cell receptor (BCR) signaling by preventing the nega
 &starf; &starf; &starf; &star; &star;
 
 
-[[include:mermaid_CD79B.md]]
+[[include:tables/mermaid_CD79B.md]]
 
 ## References
 <!-- ORIGIN: morinFrequentMutationHistonemodifying2011 -->

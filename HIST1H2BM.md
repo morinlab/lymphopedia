@@ -36,6 +36,6 @@ nocite: |
 <!-- ORIGIN: krysiakRecurrentSomaticMutations2017b -->
 <!-- FL: krysiakRecurrentSomaticMutations2017b -->
 
-[[include:mermaid_HIST1H2BM.md]]
+[[include:tables/mermaid_HIST1H2BM.md]]
 
 ## References

@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_INTS6.md]]
+[[include:tables/mermaid_INTS6.md]]
 
 ## References
 

@@ -49,7 +49,7 @@ nocite: |
 **Rating**
 &starf; &star; &star; &star; &star;
 
-[[include:mermaid_DNMT1.md]]
+[[include:tables/mermaid_DNMT1.md]]
 
 ## References
 

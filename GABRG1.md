@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_GABRG1.md]]
+[[include:tables/mermaid_GABRG1.md]]
 
 ## References
 

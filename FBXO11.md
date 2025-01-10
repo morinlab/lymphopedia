@@ -58,7 +58,7 @@ Driver mutations affecting this gene in DLBCL/BL have been experimentally demons
 ## Expression
 ![](images/gene_expression/FBXO11_by_pathology.svg)
 
-[[include:mermaid_FBXO11.md]]
+[[include:tables/mermaid_FBXO11.md]]
 
 ## References
 <!-- ORIGIN: parryWholeExomeSequencing2013 -->

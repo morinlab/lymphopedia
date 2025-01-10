@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_DNMT3B.md]]
+[[include:tables/mermaid_DNMT3B.md]]
 
 ## References
 

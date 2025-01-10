@@ -64,7 +64,7 @@ The mutation pattern in DLBCL implies the preferential accumulation of *inactiva
 <!-- PMBL: dunsCharacterizationDLBCLPMBL2021b -->
 <!-- DLBCL: morinMutationalStructuralAnalysis2013 -->
 
-[[include:mermaid_DUSP2.md]]
+[[include:tables/mermaid_DUSP2.md]]
 
 ## References
 

@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_HFE.md]]
+[[include:tables/mermaid_HFE.md]]
 
 ## References
 

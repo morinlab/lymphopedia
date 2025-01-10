@@ -48,6 +48,6 @@ Mutations in this gene were first described in FL in 2021 by Hübschmann et al.[
 [SP193017](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP193017.html)
 
 
-[[include:mermaid_DHX15.md]]
+[[include:tables/mermaid_DHX15.md]]
 
 ## References

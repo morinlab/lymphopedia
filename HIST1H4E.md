@@ -27,7 +27,7 @@ nocite: |
 |FL|GAMBL Exome |0.573 |
 
 
-[[include:mermaid_HIST1H4E.md]]
+[[include:tables/mermaid_HIST1H4E.md]]
 
 ## References
 

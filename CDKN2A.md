@@ -47,7 +47,7 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 
 ![](images/gene_expression/CDKN2A_by_pathology.svg)
 
-[[include:mermaid_CDKN2A.md]]
+[[include:tables/mermaid_CDKN2A.md]]
 
 ## References
 

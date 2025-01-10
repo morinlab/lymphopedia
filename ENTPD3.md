@@ -51,7 +51,7 @@ nocite: |
 
 [745](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/745_reports.html)
 
-[[include:mermaid_ENTPD3.md]]
+[[include:tables/mermaid_ENTPD3.md]]
 
 ## References
 

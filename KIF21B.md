@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_KIF21B.md]]
+[[include:tables/mermaid_KIF21B.md]]
 
 ## References
 

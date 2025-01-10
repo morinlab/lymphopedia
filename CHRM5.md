@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_CHRM5.md]]
+[[include:tables/mermaid_CHRM5.md]]
 
 ## References
 

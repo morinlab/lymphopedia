@@ -34,7 +34,7 @@ FOXC1 is a transcription factor that regulates genes involved in cell growth, di
 ## Expression
 ![](images/gene_expression/FOXC1_by_pathology.svg)
 
-[[include:mermaid_FOXC1.md]]
+[[include:tables/mermaid_FOXC1.md]]
 
 ## References
 

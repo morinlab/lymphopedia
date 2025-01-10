@@ -38,7 +38,7 @@ nocite: |
 [RG081](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG081.html)
 [RG130](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG130.html)
 
-[[include:mermaid_FAM38B.md]]
+[[include:tables/mermaid_FAM38B.md]]
 
 ## References
 

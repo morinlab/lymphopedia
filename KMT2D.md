@@ -49,7 +49,7 @@ Driver mutations affecting this gene in BL/DLBCL/FL have been experimentally dem
 
 
 
-[[include:mermaid_KMT2D.md]]
+[[include:tables/mermaid_KMT2D.md]]
 
 ## References
 

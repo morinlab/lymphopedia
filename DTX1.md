@@ -111,7 +111,7 @@ Mutations in the DTX1 gene, which encodes the E3 ubiquitin ligase Deltex 1, have
 [323](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/323_reports.html)
 [742](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/742_reports.html)
 
-[[include:mermaid_DTX1.md]]
+[[include:tables/mermaid_DTX1.md]]
 
 ## References
 

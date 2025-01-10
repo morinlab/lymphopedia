@@ -58,7 +58,7 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 &starf; &starf; &starf; &starf; &starf;
 
 
-[[include:mermaid_CXCR4.md]]
+[[include:tables/mermaid_CXCR4.md]]
 
 ## References
 

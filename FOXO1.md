@@ -65,7 +65,7 @@ Driver mutations affecting this gene in FL/DLBCL/BL have been experimentally dem
 ## Expression
 ![](images/gene_expression/FOXO1_by_pathology.svg)
 
-[[include:mermaid_FOXO1.md]]
+[[include:tables/mermaid_FOXO1.md]]
 
 ## References
 

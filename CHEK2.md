@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_CHEK2.md]]
+[[include:tables/mermaid_CHEK2.md]]
 
 ## References
 

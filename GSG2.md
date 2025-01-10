@@ -39,7 +39,7 @@ nocite: |
 <!-- ORIGIN: schmitzGeneticsPathogenesisDiffuse2018a -->
 <!-- DLBCL: schmitzGeneticsPathogenesisDiffuse2018a -->
 
-[[include:mermaid_GSG2.md]]
+[[include:tables/mermaid_GSG2.md]]
 
 ## References
 

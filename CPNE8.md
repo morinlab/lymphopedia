@@ -42,7 +42,7 @@ Mutations in this gene were first described in FL in 2021 by Hübschmann et al.[
 [SP193150](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP193150.html)
 [SP116720](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP116720.html)
 
-[[include:mermaid_CPNE8.md]]
+[[include:tables/mermaid_CPNE8.md]]
 
 ## References
 

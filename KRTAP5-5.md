@@ -23,7 +23,7 @@ nocite: |
 |DLBCL|GAMBL Exome |0.216 |
 
 
-[[include:mermaid_KRTAP5-5.md]]
+[[include:tables/mermaid_KRTAP5-5.md]]
 
 ## References
 

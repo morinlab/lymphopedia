@@ -63,7 +63,7 @@ Mutations in this gene were first described in BL in 2012 by Love et al[@loveGen
 [1065](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/1065_reports.html)
 [847](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/847_reports.html)
 
-[[include:mermaid_CDC73.md]]
+[[include:tables/mermaid_CDC73.md]]
 
 ## References
 

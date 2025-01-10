@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_DSP.md]]
+[[include:tables/mermaid_DSP.md]]
 
 ## References
 

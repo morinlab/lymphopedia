@@ -43,7 +43,7 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 ## Expression
 ![](images/gene_expression/KRAS_by_pathology.svg)
 
-[[include:mermaid_KRAS.md]]
+[[include:tables/mermaid_KRAS.md]]
 
 ## References
 

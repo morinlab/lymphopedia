@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_ITGB4.md]]
+[[include:tables/mermaid_ITGB4.md]]
 
 ## References
 

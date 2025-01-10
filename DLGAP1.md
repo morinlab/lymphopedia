@@ -54,6 +54,6 @@ Due to [minimal support](DLGAP1#representative-mutation) in the original primary
 [508](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/508_reports.html)
 [668](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/668_reports.html)
 
-[[include:mermaid_DLGAP1.md]]
+[[include:tables/mermaid_DLGAP1.md]]
 
 ## References

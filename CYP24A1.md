@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_CYP24A1.md]]
+[[include:tables/mermaid_CYP24A1.md]]
 
 ## References
 

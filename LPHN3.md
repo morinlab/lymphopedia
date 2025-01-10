@@ -28,7 +28,7 @@ nocite: |
 |MCL|GAMBL Genome |2.339 |
 
 
-[[include:mermaid_LPHN3.md]]
+[[include:tables/mermaid_LPHN3.md]]
 
 ## References
 

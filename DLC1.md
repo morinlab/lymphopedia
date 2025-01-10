@@ -36,6 +36,6 @@ nocite: |
 <!-- ORIGIN: zhangGenomicLandscapeMantle2014 -->
 <!-- MCL: zhangGenomicLandscapeMantle2014 -->
 
-[[include:mermaid_DLC1.md]]
+[[include:tables/mermaid_DLC1.md]]
 
 ## References

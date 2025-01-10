@@ -34,6 +34,6 @@ nocite: |
 <!-- ORIGIN: thomasGeneticSubgroupsInform2023 -->
 <!-- BL: thomasGeneticSubgroupsInform2023 -->
 
-[[include:mermaid_CDKN2C.md]]
+[[include:tables/mermaid_CDKN2C.md]]
 
 ## References

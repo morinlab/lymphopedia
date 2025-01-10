@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_CDKN1A.md]]
+[[include:tables/mermaid_CDKN1A.md]]
 
 ## References
 

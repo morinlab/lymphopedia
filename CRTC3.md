@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_CRTC3.md]]
+[[include:tables/mermaid_CRTC3.md]]
 
 ## References
 

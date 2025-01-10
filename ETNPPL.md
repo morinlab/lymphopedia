@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_ETNPPL.md]]
+[[include:tables/mermaid_ETNPPL.md]]
 
 ## References
 

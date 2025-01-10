@@ -52,6 +52,6 @@ This gene has some recurrent sites of mutations (hot spots). The mutation patter
 <!-- DLBCL: hubschmannMutationalMechanismsShaping2021b -->
 <!-- FL: hubschmannMutationalMechanismsShaping2021b -->
 <!-- PMBL: reichelFlowSortingExome2015a -->
-[[include:mermaid_EEF1A1.md]]
+[[include:tables/mermaid_EEF1A1.md]]
 
 ## References

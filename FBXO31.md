@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_FBXO31.md]]
+[[include:tables/mermaid_FBXO31.md]]
 
 ## References
 

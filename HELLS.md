@@ -26,7 +26,7 @@ nocite: |
 |DLBCL|GAMBL Genome |0.564 |
 
 
-[[include:mermaid_HELLS.md]]
+[[include:tables/mermaid_HELLS.md]]
 
 ## References
 

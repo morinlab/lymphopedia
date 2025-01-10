@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_DUOXA2.md]]
+[[include:tables/mermaid_DUOXA2.md]]
 
 ## References
 

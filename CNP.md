@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_CNP.md]]
+[[include:tables/mermaid_CNP.md]]
 
 ## References
 

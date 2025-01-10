@@ -50,6 +50,6 @@ nocite: |
 [1061](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/1061_reports.html)
 [475](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/475_reports.html)
 
-[[include:mermaid_GRIK5.md]]
+[[include:tables/mermaid_GRIK5.md]]
 
 ## References

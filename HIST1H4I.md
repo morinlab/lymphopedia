@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_HIST1H4I.md]]
+[[include:tables/mermaid_HIST1H4I.md]]
 
 ## References
 

@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_MAP2K3.md]]
+[[include:tables/mermaid_MAP2K3.md]]
 
 ## References
 

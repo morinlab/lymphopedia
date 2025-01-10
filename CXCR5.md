@@ -45,7 +45,7 @@ CXCR5 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm)
 <!-- PMBL: mottokIntegrativeGenomicAnalysis2019b -->
 <!-- DLBCL: schmitzGeneticsPathogenesisDiffuse2018a -->
 
-[[include:mermaid_CXCR5.md]]
+[[include:tables/mermaid_CXCR5.md]]
 
 ## References
 

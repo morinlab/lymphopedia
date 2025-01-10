@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_LRIG3.md]]
+[[include:tables/mermaid_LRIG3.md]]
 
 ## References
 

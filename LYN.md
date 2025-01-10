@@ -44,7 +44,7 @@ LYN mutations have been reported in DLBCL but the rate is relatively rare in mos
 [DLBCL-RICOVER_181-Tumor](https://bcgsc.ca/downloads/morinlab/GAMBL/Chapuy_2018/DLBCL-RICOVER_181-Tumor.html)
 [DLBCL-RICOVER_773-Tumor](https://bcgsc.ca/downloads/morinlab/GAMBL/Chapuy_2018/DLBCL-RICOVER_773-Tumor.html)
 
-[[include:mermaid_LYN.md]]
+[[include:tables/mermaid_LYN.md]]
 
 ## References
 

@@ -34,6 +34,6 @@ nocite: |
 <!-- ORIGIN: burkhardtClinicalRelevanceMolecular2022 -->
 <!-- BL: burkhardtClinicalRelevanceMolecular2022 -->
 
-[[include:mermaid_KLHL26.md]]
+[[include:tables/mermaid_KLHL26.md]]
 
 ## References

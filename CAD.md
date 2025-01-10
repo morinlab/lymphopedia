@@ -61,6 +61,6 @@ Due to [minimal support](CAD#representative-mutation) in the original primary da
 [479](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/479_reports.html)
 [479](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/479_reports.html)
 
-[[include:mermaid_CAD.md]]
+[[include:tables/mermaid_CAD.md]]
 
 ## References

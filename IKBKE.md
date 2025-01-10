@@ -43,7 +43,7 @@ Mutations in this gene were first described in DLBCL and FL in 2021 by Hübschma
 [SP124977](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP124977.html)
 [SP116668](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP116668.html)
 
-[[include:mermaid_IKBKE.md]]
+[[include:tables/mermaid_IKBKE.md]]
 
 ## References
 

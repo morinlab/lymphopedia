@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_CAPN5.md]]
+[[include:tables/mermaid_CAPN5.md]]
 
 ## References
 

@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_CYTSB.md]]
+[[include:tables/mermaid_CYTSB.md]]
 
 ## References
 

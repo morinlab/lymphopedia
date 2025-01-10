@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_DOCK5.md]]
+[[include:tables/mermaid_DOCK5.md]]
 
 ## References
 

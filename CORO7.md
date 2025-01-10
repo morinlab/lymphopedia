@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_CORO7.md]]
+[[include:tables/mermaid_CORO7.md]]
 
 ## References
 

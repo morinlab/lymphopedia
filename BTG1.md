@@ -83,7 +83,7 @@ Another study demonstrated that specific BTG1 mutations afford germinal center (
 <!-- BL: burkhardtClinicalRelevanceMolecular2022b -->
 <!-- BL: burkhardtClinicalRelevanceMolecular2022b -->
 
-[[include:mermaid_BTG1.md]]
+[[include:tables/mermaid_BTG1.md]]
 
 ## References
 

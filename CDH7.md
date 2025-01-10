@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_CDH7.md]]
+[[include:tables/mermaid_CDH7.md]]
 
 ## References
 

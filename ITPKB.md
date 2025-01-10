@@ -55,7 +55,7 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 <!-- PMBL: reichelFlowSortingExome2015a -->
 <!-- DLBCL: schmitzGeneticsPathogenesisDiffuse2018a -->
 
-[[include:mermaid_ITPKB.md]]
+[[include:tables/mermaid_ITPKB.md]]
 
 ## References
 

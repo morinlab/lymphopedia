@@ -39,7 +39,7 @@ Mutations in this gene were first described in DLBCL in 2013[@zhangGeneticHetero
 <!-- ORIGIN: zhangGeneticHeterogeneityDiffuse2013 -->
 <!-- DLBCL: zhangGeneticHeterogeneityDiffuse2013 -->
 
-[[include:mermaid_INO80.md]]
+[[include:tables/mermaid_INO80.md]]
 
 ## References
  

@@ -35,6 +35,6 @@ Further research is needed to elucidate its specific role in DLBCL.
 <!-- DLBCL: pasqualucciAnalysisCodingGenome2011 -->
 <!-- BL: paneaWholeGenomeLandscape2019 -->
 
-[[include:mermaid_GRB2.md]]
+[[include:tables/mermaid_GRB2.md]]
 
 ## References

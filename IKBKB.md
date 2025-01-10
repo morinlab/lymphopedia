@@ -37,6 +37,6 @@ nocite: |
 <!-- DLBCL: reddyGeneticFunctionalDrivers2017 -->
 <!-- PMBL: wienandGenomicAnalysesFlowsorted2019b -->
 
-[[include:mermaid_IKBKB.md]]
+[[include:tables/mermaid_IKBKB.md]]
 
 ## References

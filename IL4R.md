@@ -50,6 +50,6 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 <!-- DLBCL: dunsCharacterizationDLBCLPMBL2021b -->
 <!-- PMBL: viganoSomaticIL4RMutations2018b -->
 
-[[include:mermaid_IL4R.md]]
+[[include:tables/mermaid_IL4R.md]]
 
 ## References

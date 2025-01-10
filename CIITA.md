@@ -44,7 +44,7 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 ## Expression
 ![](images/gene_expression/CIITA_by_pathology.svg)
 
-[[include:mermaid_CIITA.md]]
+[[include:tables/mermaid_CIITA.md]]
 
 ## References
 

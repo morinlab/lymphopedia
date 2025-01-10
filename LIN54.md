@@ -57,7 +57,7 @@ nocite: |
 [Reddy_3827T](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Reddy/igv_reports/Reddy_3827T.html)
 [Reddy_4000T](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Reddy/igv_reports/Reddy_4000T.html)
 
-[[include:mermaid_LIN54.md]]
+[[include:tables/mermaid_LIN54.md]]
 
 ## References
 [@reddyGeneticFunctionalDrivers2017]

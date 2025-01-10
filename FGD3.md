@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_FGD3.md]]
+[[include:tables/mermaid_FGD3.md]]
 
 ## References
 

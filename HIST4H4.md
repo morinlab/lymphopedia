@@ -25,7 +25,7 @@ nocite: |
 |DLBCL|GAMBL Genome |1.504 |
 
 
-[[include:mermaid_HIST4H4.md]]
+[[include:tables/mermaid_HIST4H4.md]]
 
 ## References
 

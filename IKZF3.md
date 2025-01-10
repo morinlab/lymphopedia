@@ -66,7 +66,7 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 ## Expression
 ![](images/gene_expression/IKZF3_by_pathology.svg)
 
-[[include:mermaid_IKZF3.md]]
+[[include:tables/mermaid_IKZF3.md]]
 
 ## References
 

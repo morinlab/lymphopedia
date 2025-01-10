@@ -17,7 +17,7 @@ nocite: |
 
 
 
-[[include:mermaid_DTX3L.md]]
+[[include:tables/mermaid_DTX3L.md]]
 
 ## References
 

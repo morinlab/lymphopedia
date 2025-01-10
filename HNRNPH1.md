@@ -44,7 +44,7 @@ The common HNRNPH1 mutations cause deregulated splicing and increased expression
 ![](images/gene_expression/HNRNPH1_by_pathology.svg)
 
 
-[[include:mermaid_HNRNPH1.md]]
+[[include:tables/mermaid_HNRNPH1.md]]
 
 ## References
 

@@ -56,7 +56,7 @@ Contradictory to this, the mutation pattern in DLBCL implies selective pressure 
 ## Expression
 ![](images/gene_expression/KLF2_by_pathology.svg)
 
-[[include:mermaid_KLF2.md]]
+[[include:tables/mermaid_KLF2.md]]
 
 ## References
 

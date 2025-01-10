@@ -50,6 +50,6 @@ nocite: |
 [RG081](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG081.html)
 [RG111](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG111.html)
 
-[[include:mermaid_FAT4.md]]
+[[include:tables/mermaid_FAT4.md]]
 
 ## References

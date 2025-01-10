@@ -54,6 +54,6 @@ Due to [minimal support](EML2#representative-mutation) in the original primary d
 [1060](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/1060_reports.html)
 [1096](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/1096_reports.html)
 
-[[include:mermaid_EML2.md]]
+[[include:tables/mermaid_EML2.md]]
 
 ## References

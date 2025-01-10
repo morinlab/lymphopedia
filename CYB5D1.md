@@ -53,6 +53,6 @@ nocite: |
 [513](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/513_reports.html)
 [670](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/670_reports.html)
 
-[[include:mermaid_CYB5D1.md]]
+[[include:tables/mermaid_CYB5D1.md]]
 
 ## References

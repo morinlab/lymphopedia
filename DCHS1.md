@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_DCHS1.md]]
+[[include:tables/mermaid_DCHS1.md]]
 
 ## References
 

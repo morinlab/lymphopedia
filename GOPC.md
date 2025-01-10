@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_GOPC.md]]
+[[include:tables/mermaid_GOPC.md]]
 
 ## References
 

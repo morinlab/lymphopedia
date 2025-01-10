@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_LRAP.md]]
+[[include:tables/mermaid_LRAP.md]]
 
 ## References
 

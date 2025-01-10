@@ -32,6 +32,6 @@ nocite: |
 <!-- ORIGIN: abateDistinctViralMutational2015a -->
 <!-- BL: abateDistinctViralMutational2015a -->
 
-[[include:mermaid_CCNF.md]]
+[[include:tables/mermaid_CCNF.md]]
 
 ## References

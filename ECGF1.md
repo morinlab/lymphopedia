@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_ECGF1.md]]
+[[include:tables/mermaid_ECGF1.md]]
 
 ## References
 

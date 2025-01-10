@@ -67,7 +67,7 @@ The functional effect of CARD11 mutations in DLBCL was explored in the original 
 <!-- MZL: yanBCRTLRSignaling2012a -->
 <!-- DLBCL: lenzOncogenicCARD11Mutations2008 -->
 
-[[include:mermaid_CARD11.md]]
+[[include:tables/mermaid_CARD11.md]]
 
 
 ## References

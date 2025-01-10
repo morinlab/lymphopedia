@@ -56,7 +56,7 @@ Due to [minimal support](CYP4F22#representative-mutation) in the original primar
 [747](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/747_reports.html)
 
 
-[[include:mermaid_CYP4F22.md]]
+[[include:tables/mermaid_CYP4F22.md]]
 
 ## References
 

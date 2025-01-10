@@ -37,7 +37,7 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 <!-- ORIGIN: gomezUltraDeepSequencingReveals2023 -->
 <!-- PMBL: gomezUltraDeepSequencingReveals2023 -->
 
-[[include:mermaid_HLA-C.md]]
+[[include:tables/mermaid_HLA-C.md]]
 
 ## References
 

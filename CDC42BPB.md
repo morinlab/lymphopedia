@@ -29,7 +29,7 @@ Mutations in this gene were first described in FL in 2021 by Hübschmann et al.[
 [SP194134](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP194134.html)
 
 
-[[include:mermaid_CDC42BPB.md]]
+[[include:tables/mermaid_CDC42BPB.md]]
 
 ## References
 

@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_KIT.md]]
+[[include:tables/mermaid_KIT.md]]
 
 ## References
 

@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_GATA2.md]]
+[[include:tables/mermaid_GATA2.md]]
 
 ## References
 

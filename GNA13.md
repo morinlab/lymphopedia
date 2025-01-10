@@ -57,6 +57,6 @@ Driver mutations affecting this gene in BL/FL/DLBCL have been experimentally dem
 <!-- BL: loveGeneticLandscapeMutations2012 -->
 <!-- DLBCL: morinFrequentMutationHistonemodifying2011 -->
 
-[[include:mermaid_GNA13.md]]
+[[include:tables/mermaid_GNA13.md]]
 
 ## References

@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_HNRNPD.md]]
+[[include:tables/mermaid_HNRNPD.md]]
 
 ## References
 

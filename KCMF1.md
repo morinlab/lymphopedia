@@ -35,6 +35,6 @@ nocite: |
 <!-- ORIGIN: reddyGeneticFunctionalDrivers2017 -->
 <!-- DLBCL: reddyGeneticFunctionalDrivers2017 -->
 
-[[include:mermaid_KCMF1.md]]
+[[include:tables/mermaid_KCMF1.md]]
 
 ## References

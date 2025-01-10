@@ -57,7 +57,7 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 ## Expression
 ![](images/gene_expression/GNAI2_by_pathology.svg)
 
-[[include:mermaid_GNAI2.md]]
+[[include:tables/mermaid_GNAI2.md]]
 
 ## References
 

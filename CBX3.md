@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_CBX3.md]]
+[[include:tables/mermaid_CBX3.md]]
 
 ## References
 

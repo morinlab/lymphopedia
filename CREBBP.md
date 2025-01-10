@@ -101,7 +101,7 @@ Source[@loveGeneticLandscapeMutations2012]
 [745](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/745_reports.html)
 [851](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/851_reports.html)
 
-[[include:mermaid_CREBBP.md]]
+[[include:tables/mermaid_CREBBP.md]]
 
 # References
 

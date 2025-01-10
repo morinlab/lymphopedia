@@ -49,6 +49,6 @@ nocite: |
 <!-- ORIGIN: arthurGenomewideDiscoverySomatic2018 -->
 <!-- DLBCL: arthurGenomewideDiscoverySomatic2018 -->
 
-[[include:mermaid_LPP.md]]
+[[include:tables/mermaid_LPP.md]]
 
 ## References

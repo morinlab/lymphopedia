@@ -40,7 +40,7 @@ This gene has been reported to be recurrently mutated in DLBCL. The rate of muta
 <!-- PMBL: sarkozyMutationalLandscapeGray2021a -->
 
 
-[[include:mermaid_KMT2C.md]]
+[[include:tables/mermaid_KMT2C.md]]
 
 ## References
 

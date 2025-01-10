@@ -47,6 +47,6 @@ Mutations in this gene were first described in DLBCL in 2013[@zhangGeneticHetero
 <!-- DLBCL: zhangGeneticHeterogeneityDiffuse2013 -->
 <!-- PMBL: mottokIntegrativeGenomicAnalysis2019b -->
 
-[[include:mermaid_JAK1.md]]
+[[include:tables/mermaid_JAK1.md]]
 
 ## References

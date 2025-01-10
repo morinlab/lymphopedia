@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_CYP2C18.md]]
+[[include:tables/mermaid_CYP2C18.md]]
 
 ## References
 

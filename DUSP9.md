@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_DUSP9.md]]
+[[include:tables/mermaid_DUSP9.md]]
 
 ## References
 

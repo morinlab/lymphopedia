@@ -63,7 +63,7 @@ nocite: |
 [Reddy_3845T](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Reddy/igv_reports/Reddy_3845T.html)
 [Reddy_3851T](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Reddy/igv_reports/Reddy_3851T.html)
 
-[[include:mermaid_HRAS.md]]
+[[include:tables/mermaid_HRAS.md]]
 
 ## References
 

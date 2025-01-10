@@ -49,7 +49,7 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 ## Expression
 ![](images/gene_expression/HLA-B_by_pathology.svg)
 
-[[include:mermaid_HLA-B.md]]
+[[include:tables/mermaid_HLA-B.md]]
 
 ## References
 

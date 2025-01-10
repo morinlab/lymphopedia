@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_ERBB3.md]]
+[[include:tables/mermaid_ERBB3.md]]
 
 ## References
 

@@ -27,7 +27,7 @@ nocite: |
 |FL|GAMBL Exome |3.152 |
 
 
-[[include:mermaid_EGR1.md]]
+[[include:tables/mermaid_EGR1.md]]
 
 ## References
 

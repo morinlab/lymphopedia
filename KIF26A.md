@@ -28,7 +28,7 @@ nocite: |
 |MCL|GAMBL Genome |2.339 |
 
 
-[[include:mermaid_KIF26A.md]]
+[[include:tables/mermaid_KIF26A.md]]
 
 ## References
 

@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_CECR1.md]]
+[[include:tables/mermaid_CECR1.md]]
 
 ## References
 

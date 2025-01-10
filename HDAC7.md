@@ -39,7 +39,7 @@ nocite: |
 
 [RG003](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG003.html)
 
-[[include:mermaid_HDAC7.md]]
+[[include:tables/mermaid_HDAC7.md]]
 
 ## References
 

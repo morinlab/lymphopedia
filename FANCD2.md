@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_FANCD2.md]]
+[[include:tables/mermaid_FANCD2.md]]
 
 ## References
 

@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_EPHA5.md]]
+[[include:tables/mermaid_EPHA5.md]]
 
 ## References
 

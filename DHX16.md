@@ -45,7 +45,7 @@ Mutations in this gene were first described in DLBCL in 2021 by Hübschmann et a
 [SP194212](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP194212.html)
 [SP193957](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP193957.html)
 
-[[include:mermaid_DHX16.md]]
+[[include:tables/mermaid_DHX16.md]]
 
 ## References
 

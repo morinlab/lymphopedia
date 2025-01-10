@@ -62,7 +62,7 @@ Mutations in this gene were first described in DLBCL in 2013[@zhangGeneticHetero
 [Reddy_3918T](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Reddy/igv_reports/Reddy_3918T.html)
 [Reddy_759T](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Reddy/igv_reports/Reddy_759T.html)
 
-[[include:mermaid_BTBD3.md]]
+[[include:tables/mermaid_BTBD3.md]]
 
 ## References
 

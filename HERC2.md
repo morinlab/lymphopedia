@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_HERC2.md]]
+[[include:tables/mermaid_HERC2.md]]
 
 ## References
 

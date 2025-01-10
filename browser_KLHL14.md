@@ -9,8 +9,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/K
 
 ![](images/proteinpaint/KLHL14.svg)
 
-[[include:mermaid_KLHL14.md]]
-
-## References
-
 

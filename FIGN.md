@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_FIGN.md]]
+[[include:tables/mermaid_FIGN.md]]
 
 ## References
 

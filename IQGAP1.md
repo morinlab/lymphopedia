@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_IQGAP1.md]]
+[[include:tables/mermaid_IQGAP1.md]]
 
 ## References
 

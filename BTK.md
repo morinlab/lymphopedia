@@ -37,7 +37,7 @@ Driver mutations affecting this gene in FL/DLBCL have been experimentally demons
 <!-- FL: krysiakRecurrentSomaticMutations2017b -->
 <!-- DLBCL: albuquerqueEnhancingKnowledgeDiscovery2017a -->
 
-[[include:mermaid_BTK.md]]
+[[include:tables/mermaid_BTK.md]]
 
 ## References
 

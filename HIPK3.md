@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_HIPK3.md]]
+[[include:tables/mermaid_HIPK3.md]]
 
 ## References
 

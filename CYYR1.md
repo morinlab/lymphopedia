@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_CYYR1.md]]
+[[include:tables/mermaid_CYYR1.md]]
 
 ## References
 

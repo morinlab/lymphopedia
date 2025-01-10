@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_CAMTA1.md]]
+[[include:tables/mermaid_CAMTA1.md]]
 
 ## References
 

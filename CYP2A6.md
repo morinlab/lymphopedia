@@ -33,6 +33,6 @@ nocite: |
 <!-- ORIGIN: russler-germainMutationsAssociatedProgression2023a -->
 <!-- FL: russler-germainMutationsAssociatedProgression2023b -->
 
-[[include:mermaid_CYP2A6.md]]
+[[include:tables/mermaid_CYP2A6.md]]
 
 ## References

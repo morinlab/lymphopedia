@@ -40,7 +40,7 @@ The existence of mutations in DLBCL were described in 2012 by Schmitz et al[@sch
 ## Expression
 ![](images/gene_expression/ID3_by_pathology.svg)
 
-[[include:mermaid_ID3.md]]
+[[include:tables/mermaid_ID3.md]]
 
 ## References
 

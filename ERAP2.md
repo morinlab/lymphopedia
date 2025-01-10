@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_ERAP2.md]]
+[[include:tables/mermaid_ERAP2.md]]
 
 ## References
 

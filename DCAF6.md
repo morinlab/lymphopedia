@@ -83,7 +83,7 @@ Mutations in this gene were first described in DLBCL in 2017 by Reddy et al.[@re
 [Reddy_3987T](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Reddy/igv_reports/Reddy_3987T.html)
 [Reddy_705T](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Reddy/igv_reports/Reddy_705T.html)
 
-[[include:mermaid_DCAF6.md]]
+[[include:tables/mermaid_DCAF6.md]]
 
 ## References
 

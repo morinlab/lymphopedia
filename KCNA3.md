@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_KCNA3.md]]
+[[include:tables/mermaid_KCNA3.md]]
 
 ## References
 

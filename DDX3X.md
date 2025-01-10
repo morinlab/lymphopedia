@@ -53,7 +53,7 @@ Driver mutations affecting this gene in DLBCL/BL have been experimentally demons
 <!-- BL: schmitzBurkittLymphomaPathogenesis2012 -->
 <!-- PMBL: mottokIntegrativeGenomicAnalysis2019b -->
 
-[[include:mermaid_DDX3X.md]]
+[[include:tables/mermaid_DDX3X.md]]
 
 ## References
 

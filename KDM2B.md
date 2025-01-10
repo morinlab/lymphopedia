@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_KDM2B.md]]
+[[include:tables/mermaid_KDM2B.md]]
 
 ## References
 

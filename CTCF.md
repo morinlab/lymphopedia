@@ -51,6 +51,6 @@ nocite: |
 
 
 
-[[include:mermaid_CTCF.md]]
+[[include:tables/mermaid_CTCF.md]]
 
 ## References

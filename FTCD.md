@@ -59,7 +59,7 @@ Due to [minimal support](FTCD#representative-mutation) in the original primary d
 [512](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/512_reports.html)
 [672](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/672_reports.html)
 
-[[include:mermaid_FTCD.md]]
+[[include:tables/mermaid_FTCD.md]]
 
 ## References
 

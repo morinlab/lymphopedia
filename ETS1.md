@@ -85,7 +85,7 @@ The mutation pattern in DLBCL implies the preferential accumulation of *inactiva
 &starf; &star; &star; &star; &star;
 
 
-[[include:mermaid_ETS1.md]]
+[[include:tables/mermaid_ETS1.md]]
 
 ## References
 

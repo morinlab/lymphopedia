@@ -35,7 +35,7 @@ nocite: |
 <!-- ORIGIN: chapuyMolecularSubtypesDiffuse2018b -->
 <!-- DLBCL: chapuyMolecularSubtypesDiffuse2018b -->
 
-[[include:mermaid_GABRA2.md]]
+[[include:tables/mermaid_GABRA2.md]]
 
 ## References
 

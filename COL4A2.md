@@ -57,6 +57,6 @@ Due to [minimal support](COL4A2#representative-mutations) in the original primar
 [747](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/747_reports.html)
 
 
-[[include:mermaid_COL4A2.md]]
+[[include:tables/mermaid_COL4A2.md]]
 
 ## References

@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_DIAPH3.md]]
+[[include:tables/mermaid_DIAPH3.md]]
 
 ## References
 

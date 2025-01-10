@@ -43,7 +43,7 @@ Driver mutations affecting this gene in FL have been experimentally demonstrated
 <!-- DLBCL: shinBRAFV600EMAP2K12015 -->
 <!-- FL: louissaintPediatrictypeNodalFollicular2016a -->
 
-[[include:mermaid_MAP2K1.md]]
+[[include:tables/mermaid_MAP2K1.md]]
 
 ## References
 

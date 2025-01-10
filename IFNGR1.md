@@ -40,7 +40,7 @@ nocite: |
 [RG034](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG034.html)
 [RG130](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG130.html)
 
-[[include:mermaid_IFNGR1.md]]
+[[include:tables/mermaid_IFNGR1.md]]
 
 ## References
 

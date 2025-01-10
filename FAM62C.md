@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_FAM62C.md]]
+[[include:tables/mermaid_FAM62C.md]]
 
 ## References
 

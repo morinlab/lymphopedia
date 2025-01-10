@@ -44,6 +44,6 @@ nocite: |
 <!-- ORIGIN: deschGenotypingCirculatingTumor2020 -->
 <!-- PMBL: deschGenotypingCirculatingTumor2020 -->
 
-[[include:mermaid_EZR.md]]
+[[include:tables/mermaid_EZR.md]]
 
 ## References

@@ -42,7 +42,7 @@ nocite: |
 <!-- ORIGIN: reddyGeneticFunctionalDrivers2017 -->
 <!-- DLBCL: reddyGeneticFunctionalDrivers2017 -->
 
-[[include:mermaid_DNMT3A.md]]
+[[include:tables/mermaid_DNMT3A.md]]
 
 ## References
 

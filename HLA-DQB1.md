@@ -34,6 +34,6 @@ nocite: |
 <!-- ORIGIN: burkhardtClinicalRelevanceMolecular2022b -->
 <!-- BL: burkhardtClinicalRelevanceMolecular2022b -->
 
-[[include:mermaid_HLA-DQB1.md]]
+[[include:tables/mermaid_HLA-DQB1.md]]
 
 ## References

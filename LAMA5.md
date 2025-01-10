@@ -35,6 +35,6 @@ nocite: |
 <!-- ORIGIN: schmitzGeneticsPathogenesisDiffuse2018a -->
 <!-- DLBCL: schmitzGeneticsPathogenesisDiffuse2018a -->
 
-[[include:mermaid_LAMA5.md]]
+[[include:tables/mermaid_LAMA5.md]]
 
 ## References

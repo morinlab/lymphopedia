@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_GJA8.md]]
+[[include:tables/mermaid_GJA8.md]]
 
 ## References
 

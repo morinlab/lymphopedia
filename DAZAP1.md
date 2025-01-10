@@ -45,7 +45,7 @@ This gene has some recurrent sites of mutations (hot spots). The mutation patter
 ## Expression
 ![](images/gene_expression/DAZAP1_by_pathology.svg)
 
-[[include:mermaid_DAZAP1.md]]
+[[include:tables/mermaid_DAZAP1.md]]
 
 ## References
 

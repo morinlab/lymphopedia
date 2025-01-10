@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_DSC3.md]]
+[[include:tables/mermaid_DSC3.md]]
 
 ## References
 

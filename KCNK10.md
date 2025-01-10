@@ -42,7 +42,7 @@ nocite: |
 <!-- ORIGIN: paneaWholeGenomeLandscape2019 -->
 <!-- BL: paneaWholeGenomeLandscape2019 -->
 
-[[include:mermaid_KCNK10.md]]
+[[include:tables/mermaid_KCNK10.md]]
 
 ## References
 

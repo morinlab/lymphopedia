@@ -35,6 +35,6 @@ nocite: |
 <!-- ORIGIN: burkhardtClinicalRelevanceMolecular2022b -->
 <!-- BL: burkhardtClinicalRelevanceMolecular2022b -->
 
-[[include:mermaid_CPXM2.md]]
+[[include:tables/mermaid_CPXM2.md]]
 
 ## References

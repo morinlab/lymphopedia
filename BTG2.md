@@ -66,7 +66,7 @@ BTG2 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) 
 [323](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/323_reports.html)
 [323](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/323_reports.html)
 
-[[include:mermaid_BTG2.md]]
+[[include:tables/mermaid_BTG2.md]]
 
 ## References
 

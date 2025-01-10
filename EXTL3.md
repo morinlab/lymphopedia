@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_EXTL3.md]]
+[[include:tables/mermaid_EXTL3.md]]
 
 ## References
 

@@ -42,7 +42,7 @@ Mutations in this gene were first described in DLBCL in 2013 by Morin et al.[@mo
 [RG115](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG115.html)
 [RG136](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG136.html)
 
-[[include:mermaid_CNTNAP5.md]]
+[[include:tables/mermaid_CNTNAP5.md]]
 
 ## References
 

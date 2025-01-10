@@ -45,3 +45,9 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 
 <!-- ORIGIN: zhangGeneticHeterogeneityDiffuse2013 -->
 <!-- DLBCL: zhangGeneticHeterogeneityDiffuse2013 -->
+
+[[include:tables/mermaid_KLHL14.md]]
+
+## References
+
+

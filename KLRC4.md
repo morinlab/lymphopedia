@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_KLRC4.md]]
+[[include:tables/mermaid_KLRC4.md]]
 
 ## References
 

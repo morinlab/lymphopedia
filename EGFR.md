@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_EGFR.md]]
+[[include:tables/mermaid_EGFR.md]]
 
 ## References
 

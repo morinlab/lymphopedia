@@ -39,6 +39,6 @@ nocite: |
 <!-- ORIGIN: paneaWholeGenomeLandscape2019 -->
 <!-- BL: paneaWholeGenomeLandscape2019 -->
 
-[[include:mermaid_EPPK1.md]]
+[[include:tables/mermaid_EPPK1.md]]
 
 ## References

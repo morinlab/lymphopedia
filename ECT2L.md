@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_ECT2L.md]]
+[[include:tables/mermaid_ECT2L.md]]
 
 ## References
 

@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_ITPR1.md]]
+[[include:tables/mermaid_ITPR1.md]]
 
 ## References
 

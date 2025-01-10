@@ -45,7 +45,7 @@ Mutations in this gene were reported to be inflated in the original results acco
 <!-- PMBL: mottokIntegrativeGenomicAnalysis2019b -->
 
 
-[[include:mermaid_JUNB.md]]
+[[include:tables/mermaid_JUNB.md]]
 
 ## References
 

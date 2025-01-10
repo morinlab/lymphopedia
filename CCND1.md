@@ -36,6 +36,6 @@ nocite: |
 <!-- ORIGIN: beaLandscapeSomaticMutations2013 -->
 <!-- MCL: beaLandscapeSomaticMutations2013 -->
 
-[[include:mermaid_CCND1.md]]
+[[include:tables/mermaid_CCND1.md]]
 
 ## References

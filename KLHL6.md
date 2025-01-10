@@ -71,7 +71,7 @@ Driver mutations affecting this gene in DLBCL/FL have been experimentally demons
 ![](images/gene_expression/KLHL6_by_pathology.svg)
 <!-- ORIGIN: morinFrequentMutationHistonemodifying2011 -->
 
-[[include:mermaid_KLHL6.md]]
+[[include:tables/mermaid_KLHL6.md]]
 
 ## References
 

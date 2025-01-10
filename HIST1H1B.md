@@ -39,6 +39,6 @@ This is one of several genes that encode linker histone proteins that are recurr
 <!-- FL: krysiakRecurrentSomaticMutations2017b -->
 <!-- DLBCL: chapuyMolecularSubtypesDiffuse2018b -->
 
-[[include:mermaid_HIST1H1B.md]]
+[[include:tables/mermaid_HIST1H1B.md]]
 
 ## References

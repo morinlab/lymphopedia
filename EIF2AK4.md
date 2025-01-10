@@ -35,6 +35,6 @@ nocite: |
 <!-- ORIGIN: zhangGenomicLandscapeMantle2014 -->
 <!-- MCL: zhangGenomicLandscapeMantle2014 -->
 
-[[include:mermaid_EIF2AK4.md]]
+[[include:tables/mermaid_EIF2AK4.md]]
 
 ## References

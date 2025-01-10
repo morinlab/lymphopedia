@@ -58,7 +58,7 @@ Due to [minimal support](KIFC3#representative-mutations) in the original primary
 [1060](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/1060_reports.html)
 
 
-[[include:mermaid_KIFC3.md]]
+[[include:tables/mermaid_KIFC3.md]]
 
 ## References
 

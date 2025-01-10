@@ -59,7 +59,7 @@ Mutations in this gene were first described in DLBCL in 2013 by Morin et al.[@mo
 
 [[include:browser_HIST1H1E.md]]
 
-[[include:mermaid_HIST1H1E.md]]
+[[include:tables/mermaid_HIST1H1E.md]]
 
 ## References
 

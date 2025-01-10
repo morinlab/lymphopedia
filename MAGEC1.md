@@ -41,7 +41,7 @@ nocite: |
 <!-- ORIGIN: russler-germainMutationsAssociatedProgression2023a -->
 <!-- FL: russler-germainMutationsAssociatedProgression2023b -->
 
-[[include:mermaid_MAGEC1.md]]
+[[include:tables/mermaid_MAGEC1.md]]
 
 ## References
 

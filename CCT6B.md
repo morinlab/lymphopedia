@@ -56,6 +56,6 @@ Due to [minimal support](CCT6B#representative-mutations) in the original primary
 [515](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/515_reports.html)
 [670](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/670_reports.html)
 
-[[include:mermaid_CCT6B.md]]
+[[include:tables/mermaid_CCT6B.md]]
 
 ## References

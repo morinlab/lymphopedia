@@ -38,7 +38,7 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 ## Expression
 ![](images/gene_expression/FBXW7_by_pathology.svg)
 
-[[include:mermaid_FBXW7.md]]
+[[include:tables/mermaid_FBXW7.md]]
 
 ## References
 

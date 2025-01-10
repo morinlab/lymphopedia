@@ -43,6 +43,6 @@ Driver mutations affecting this gene in FL have been experimentally demonstrated
 <!-- ORIGIN: barariaCathepsinAlterationsInduce2020c -->
 <!-- FL: barariaCathepsinAlterationsInduce2020c -->
 
-[[include:mermaid_CTSS.md]]
+[[include:tables/mermaid_CTSS.md]]
 
 ## References

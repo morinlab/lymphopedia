@@ -40,7 +40,7 @@ nocite: |
 <!-- ORIGIN: schmitzGeneticsPathogenesisDiffuse2018 -->
 <!-- DLBCL: schmitzGeneticsPathogenesisDiffuse2018 -->
 
-[[include:mermaid_KLHL21.md]]
+[[include:tables/mermaid_KLHL21.md]]
 
 ## References
 

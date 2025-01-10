@@ -22,7 +22,7 @@ nocite: |
 |:------:|:----:|:----:|
 
 
-[[include:mermaid_CNBP.md]]
+[[include:tables/mermaid_CNBP.md]]
 
 ## References
 

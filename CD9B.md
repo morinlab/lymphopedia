@@ -22,7 +22,7 @@ nocite: |
 |:------:|:----:|:----:|
 
 
-[[include:mermaid_CD9B.md]]
+[[include:tables/mermaid_CD9B.md]]
 
 ## References
 

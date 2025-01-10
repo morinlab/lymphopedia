@@ -27,7 +27,7 @@ nocite: |
 |FL|GAMBL Exome |0.86 |
 
 
-[[include:mermaid_KAT6A.md]]
+[[include:tables/mermaid_KAT6A.md]]
 
 ## References
 

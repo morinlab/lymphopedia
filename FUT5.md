@@ -39,7 +39,7 @@ nocite: |
 
 [DLBCL-RICOVER_173-Tumor](https://bcgsc.ca/downloads/morinlab/GAMBL/Chapuy_2018/DLBCL-RICOVER_173-Tumor.html)
 
-[[include:mermaid_FUT5.md]]
+[[include:tables/mermaid_FUT5.md]]
 
 ## References
 

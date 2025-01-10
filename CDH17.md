@@ -54,6 +54,6 @@ Due to [minimal support](CDH17#representative-mutations) in the original primary
 [1102](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/1102_reports.html)
 [322](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/322_reports.html)
 
-[[include:mermaid_CDH17.md]]
+[[include:tables/mermaid_CDH17.md]]
 
 ## References

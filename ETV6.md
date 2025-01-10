@@ -56,7 +56,7 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 <!-- ORIGIN: arthurGenomewideDiscoverySomatic2018 -->
 <!-- DLBCL: arthurGenomewideDiscoverySomatic2018 -->
 
-[[include:mermaid_ETV6.md]]
+[[include:tables/mermaid_ETV6.md]]
 
 ## References
 

@@ -39,7 +39,7 @@ Mutations in this gene were first described in DLBCL in 2017 by Reddy et al.[@re
 ## Expression
 ![](images/gene_expression/CHD1_by_pathology.svg)
 
-[[include:mermaid_CHD1.md]]
+[[include:tables/mermaid_CHD1.md]]
 
 ## References
 

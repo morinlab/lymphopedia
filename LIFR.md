@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_LIFR.md]]
+[[include:tables/mermaid_LIFR.md]]
 
 ## References
 

@@ -25,7 +25,7 @@ nocite: |
 |DLBCL|GAMBL Genome |0.376 |
 
 
-[[include:mermaid_CHMP4C.md]]
+[[include:tables/mermaid_CHMP4C.md]]
 
 ## References
 

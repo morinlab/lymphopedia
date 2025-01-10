@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_IQUB.md]]
+[[include:tables/mermaid_IQUB.md]]
 
 ## References
 

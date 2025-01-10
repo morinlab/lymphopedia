@@ -33,6 +33,6 @@ nocite: |
 <!-- ORIGIN: paneaWholeGenomeLandscape2019 -->
 <!-- BL: paneaWholeGenomeLandscape2019 -->
 
-[[include:mermaid_EIF4A1.md]]
+[[include:tables/mermaid_EIF4A1.md]]
 
 ## References

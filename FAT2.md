@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_FAT2.md]]
+[[include:tables/mermaid_FAT2.md]]
 
 ## References
 

@@ -88,7 +88,7 @@ The dysregulation of CCND3 due to these mutations contributes to the oncogenic p
 <!-- MZL: jalladesExomeSequencingIdentifies2017 -->
 <!-- PMBL: deschGenotypingCirculatingTumor2020 -->
 
-[[include:mermaid_CCND3.md]]
+[[include:tables/mermaid_CCND3.md]]
 
 ## References
 

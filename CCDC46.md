@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_CCDC46.md]]
+[[include:tables/mermaid_CCDC46.md]]
 
 ## References
 
