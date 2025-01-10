@@ -21,6 +21,10 @@ nocite: |
 ### BL
 [[include:tables/BL_CARD4]]
 
+### DLBCL
+[[include:tables/DLBCL_CARD4]]
+
+
 ## Mutation pattern and selective pressure estimates
 
 [[include:tables/dnds_CARD4.md]]
