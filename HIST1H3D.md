@@ -14,21 +14,11 @@ nocite: |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-|Entity|source               |frequency (%)|
-|:------:|:---------------------:|:-------------:|
-|BL    |GAMBL genomes+capture|2.31         |
-|BL    |Thomas cohort        |1.70         |
-|BL    |Panea cohort         |3.00         |
+[[include:tables/BL_HIST1H3D]]
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   |2.566           |0               |
-|DLBCL |No  |No                   |2.153           |0               |
-|FL    |No  |No                   |0.000           |0               |
-
-
+[[include:tables/dnds_HIST1H3D]]
 
 
 ## HIST1H3D Hotspots
@@ -40,4 +30,8 @@ nocite: |
 | chr6 | 26197219 | C>T | S87N |
 
 [[include:browser_HIST1H3D.md]]
+
+[[include:tables/mermaid_HIST1H3D.md]]
+
+## References
 

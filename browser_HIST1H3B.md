@@ -12,6 +12,3 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/H
 <!-- PMBL: reichelFlowSortingExome2015a -->
 
 
-[[include:mermaid_HIST1H3B.md]]
-
-## References

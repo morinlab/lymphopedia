@@ -43,3 +43,7 @@ nocite: |
 
 [[include:browser_HIST1H3B.md]]
 
+[[include:tables/mermaid_HIST1H3B.md]]
+
+## References
+

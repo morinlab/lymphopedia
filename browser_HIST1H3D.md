@@ -25,6 +25,3 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/H
 &starf; &starf; &starf; &star; &star;
 
 
-[[include:mermaid_HIST1H3D.md]]
-
-## References
