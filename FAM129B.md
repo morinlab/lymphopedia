@@ -8,9 +8,6 @@ nocite: |
 [[_TOC_]]
 
 
-
-
-
 ## Relevance tier by entity
 
 [[include:table1_FAM129B.md]]
@@ -21,22 +18,21 @@ nocite: |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-|Entity|source               |frequency (%)|
-|:------:|:---------------------:|:-------------:|
-|BL    |GAMBL genomes+capture|1.39         |
-|BL    |Thomas cohort        |  NA         |
-|BL    |Panea cohort         |  NA         |
+### BL
+[[include:tables/BL_FAM129B.md]]
+
+### DLBCL
+[[include:tables/DLBCL_FAM129B.md]]
+
+### FL
+[[include:tables/FL_FAM129B.md]]
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   |0.948           | 0.000          |
-|DLBCL |No  |No                   |0.000           |13.541          |
-|FL    |No  |No                   |2.483           | 0.000          |
-
-
-
+[[include:tables/dnds_FAM129B.md]]
 
 [[include:browser_FAM129B.md]]
 
+[[include:tables/mermaid_FAM129B.md]]
+
+## References

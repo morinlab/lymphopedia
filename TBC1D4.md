@@ -39,6 +39,6 @@ nocite: |
 <!-- ORIGIN: arthurGenomewideDiscoverySomatic2018 -->
 <!-- DLBCL: arthurGenomewideDiscoverySomatic2018 -->
 
-[[include:mermaid_TBC1D4.md]]
+[[include:tables/mermaid_TBC1D4.md]]
 
 ## References
