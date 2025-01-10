@@ -22,6 +22,6 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/E
 [1091](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/1091_reports.html)
 [698](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/698_reports.html)
 
-[[include:mermaid_EIF2C4.md]]
+
 
 ## References

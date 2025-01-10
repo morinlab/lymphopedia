@@ -21,7 +21,14 @@ nocite: |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
+### BL
 [[include:tables/BL_EIF2C4.md]]
+
+### FL
+[[include:tables/FL_EIF2C4.md]]
+
+### DLBCL
+[[include:tables/DLBCL_EIF2C4.md]]
 
 [[include:browser_EIF2C4.md]]
 

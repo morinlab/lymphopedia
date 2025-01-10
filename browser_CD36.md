@@ -9,7 +9,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/C
 
 ![](images/proteinpaint/CD36.svg)
 
-[[include:mermaid_CD36.md]]
+
 
 ## References
 
