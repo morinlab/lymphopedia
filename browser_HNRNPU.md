@@ -10,10 +10,3 @@ View all variants in GenomePaint [hg19](https://www.bcgsc.ca/downloads/morinlab/
 ![](images/proteinpaint/HNRNPU.svg)
 
 
-[[include:mermaid_HNRNPU.md]]
-
-## References
-
-<!-- ORIGIN: reddyGeneticFunctionalDrivers2017 -->
-<!-- DLBCL: reddyGeneticFunctionalDrivers2017 -->
-<!-- BL: paneaWholeGenomeLandscape2019 -->

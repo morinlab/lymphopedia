@@ -25,6 +25,12 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 ### DLBCL
 [[include:tables/DLBCL_HLA-A.md]]
 
+### BL
+[[include:tables/BL_HLA-A.md]]
+
+### FL
+[[include:tables/FL_HLA-A.md]]
+
 ## Mutation pattern and selective pressure estimates
 
 [[include:tables/dnds_HLA-A.md]]
@@ -44,3 +50,9 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 <!-- ORIGIN: deschGenotypingCirculatingTumor2020 -->
 <!-- BL: 2 -->
 <!-- PMBL: deschGenotypingCirculatingTumor2020 -->
+
+[[include:tables/mermaid_HLA-A.md]]
+
+## References
+
+
