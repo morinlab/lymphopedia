@@ -10,18 +10,4 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/G
 <!-- ORIGIN: loveGeneticLandscapeMutations2012 -->
 <!-- BL: loveGeneticLandscapeMutations2012 -->
 
-## Representative Mutations
-
-![](primary/Love_GGTLA4.svg)
-**Rating**
-&starf; &starf; &starf; &starf; &star;
-
-## All Mutations
-
-[1092](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/1092_reports.html)
-[698](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/698_reports.html)
-
-[[include:mermaid_GGTLA4.md]]
-
-## References
 
