@@ -32,7 +32,7 @@ nocite: |
 <!-- ORIGIN: zhangGenomicLandscapeMantle2014 -->
 <!-- MCL: zhangGenomicLandscapeMantle2014 -->
 
-[[include:mermaid_ROBO2.md]]
+[[include:tables/mermaid_ROBO2.md]]
 
 ## References
 

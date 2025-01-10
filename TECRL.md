@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_TECRL.md]]
+[[include:tables/mermaid_TECRL.md]]
 
 ## References
 

@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_SPEG.md]]
+[[include:tables/mermaid_SPEG.md]]
 
 ## References
 

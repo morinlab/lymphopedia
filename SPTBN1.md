@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_SPTBN1.md]]
+[[include:tables/mermaid_SPTBN1.md]]
 
 ## References
 

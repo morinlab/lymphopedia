@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_TMEM63A.md]]
+[[include:tables/mermaid_TMEM63A.md]]
 
 ## References
 

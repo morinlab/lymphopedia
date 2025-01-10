@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_RASGEF1A.md]]
+[[include:tables/mermaid_RASGEF1A.md]]
 
 ## References
 

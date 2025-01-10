@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_SLC16A7.md]]
+[[include:tables/mermaid_SLC16A7.md]]
 
 ## References
 

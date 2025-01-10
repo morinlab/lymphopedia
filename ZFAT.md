@@ -65,7 +65,7 @@ nocite: |
 [Reddy_3991T](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Reddy/igv_reports/Reddy_3991T.html)
 [Reddy_4000T](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Reddy/igv_reports/Reddy_4000T.html)
 
-[[include:mermaid_ZFAT.md]]
+[[include:tables/mermaid_ZFAT.md]]
 
 ## References
 

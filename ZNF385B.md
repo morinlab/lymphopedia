@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_ZNF385B.md]]
+[[include:tables/mermaid_ZNF385B.md]]
 
 ## References
 

@@ -38,7 +38,7 @@ Driver mutations affecting this gene in DLBCL/BL have been experimentally demons
 ## Expression
 ![](images/gene_expression/RFX7_by_pathology.svg)
 
-[[include:mermaid_RFX7.md]]
+[[include:tables/mermaid_RFX7.md]]
 
 ## References
 

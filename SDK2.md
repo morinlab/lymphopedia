@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_SDK2.md]]
+[[include:tables/mermaid_SDK2.md]]
 
 ## References
 

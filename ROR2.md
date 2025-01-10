@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_ROR2.md]]
+[[include:tables/mermaid_ROR2.md]]
 
 ## References
 

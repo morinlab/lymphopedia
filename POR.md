@@ -45,7 +45,7 @@ nocite: |
 &starf; &star; &star; &star; &star;
 
 
-[[include:mermaid_POR.md]]
+[[include:tables/mermaid_POR.md]]
 
 ## References
 

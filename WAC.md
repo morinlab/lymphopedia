@@ -66,6 +66,6 @@ nocite: |
 [Reddy_3758T](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Reddy/igv_reports/Reddy_3758T.html)
 [Reddy_3977T](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Reddy/igv_reports/Reddy_3977T.html)
 
-[[include:mermaid_WAC.md]]
+[[include:tables/mermaid_WAC.md]]
 
 ## References

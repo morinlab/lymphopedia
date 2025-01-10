@@ -35,7 +35,7 @@ nocite: |
 <!-- ORIGIN: reddyGeneticFunctionalDrivers2017 -->
 <!-- DLBCL: reddyGeneticFunctionalDrivers2017 -->
 
-[[include:mermaid_TIPARP.md]]
+[[include:tables/mermaid_TIPARP.md]]
 
 ## References
 

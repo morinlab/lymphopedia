@@ -33,6 +33,6 @@ nocite: |
 <!-- ORIGIN: schmitzBurkittLymphomaPathogenesis2012 -->
 <!-- BL: schmitzBurkittLymphomaPathogenesis2012 -->
 
-[[include:mermaid_WHAMM.md]]
+[[include:tables/mermaid_WHAMM.md]]
 
 ## References

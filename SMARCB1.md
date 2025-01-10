@@ -36,7 +36,7 @@ nocite: |
 <!-- ORIGIN: nadeuGenomicEpigenomicInsights2020a -->
 <!-- MCL: nadeuGenomicEpigenomicInsights2020b -->
 
-[[include:mermaid_SMARCB1.md]]
+[[include:tables/mermaid_SMARCB1.md]]
 
 ## References
 

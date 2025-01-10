@@ -45,7 +45,7 @@ nocite: |
 &starf; &star; &star; &star; &star;
 
 
-[[include:mermaid_PTPRN.md]]
+[[include:tables/mermaid_PTPRN.md]]
 
 ## References
 

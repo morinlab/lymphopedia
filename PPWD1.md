@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_PPWD1.md]]
+[[include:tables/mermaid_PPWD1.md]]
 
 ## References
 

@@ -31,6 +31,6 @@ nocite: |
 <!-- ORIGIN: russler-germainMutationsAssociatedProgression2023a -->
 <!-- FL: russler-germainMutationsAssociatedProgression2023b -->
 
-[[include:mermaid_STAB2.md]]
+[[include:tables/mermaid_STAB2.md]]
 
 ## References

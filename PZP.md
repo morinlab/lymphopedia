@@ -31,7 +31,7 @@ nocite: |
 <!-- ORIGIN: russler-germainMutationsAssociatedProgression2023a -->
 <!-- FL: russler-germainMutationsAssociatedProgression2023b -->
 
-[[include:mermaid_PZP.md]]
+[[include:tables/mermaid_PZP.md]]
 
 ## References
 

@@ -30,7 +30,7 @@ nocite: |
 ## Expression
 ![](images/gene_expression/SIN3A_by_pathology.svg)
 
-[[include:mermaid_SIN3A.md]]
+[[include:tables/mermaid_SIN3A.md]]
 
 ## References
 

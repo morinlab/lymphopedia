@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_SULF2.md]]
+[[include:tables/mermaid_SULF2.md]]
 
 ## References
 

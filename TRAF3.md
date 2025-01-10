@@ -36,6 +36,6 @@ nocite: |
 <!-- DLBCL: pasqualucciAnalysisCodingGenome2011 -->
 <!-- PMBL: ottoGeneticLesionsTRAF32012a -->
 
-[[include:mermaid_TRAF3.md]]
+[[include:tables/mermaid_TRAF3.md]]
 
 ## References

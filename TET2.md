@@ -33,7 +33,7 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 <!-- ORIGIN: 28327945 -->
 <!-- DLBCL: albuquerqueEnhancingKnowledgeDiscovery2017a -->
 
-[[include:mermaid_TET2.md]]
+[[include:tables/mermaid_TET2.md]]
 
 ## References
 

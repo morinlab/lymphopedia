@@ -46,7 +46,7 @@ nocite: |
 [DLBCL-RICOVER_1269-Tumor](https://bcgsc.ca/downloads/morinlab/GAMBL/Chapuy_2018/DLBCL-RICOVER_1269-Tumor.html)
 [DLBCL-RICOVER_174-Tumor](https://bcgsc.ca/downloads/morinlab/GAMBL/Chapuy_2018/DLBCL-RICOVER_174-Tumor.html)
 
-[[include:mermaid_TLR2.md]]
+[[include:tables/mermaid_TLR2.md]]
 
 ## References
 

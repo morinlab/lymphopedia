@@ -26,7 +26,7 @@ nocite: |
 |DLBCL|GAMBL Genome |1.504 |
 
 
-[[include:mermaid_STXBP5.md]]
+[[include:tables/mermaid_STXBP5.md]]
 
 ## References
 

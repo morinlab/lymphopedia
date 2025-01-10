@@ -46,7 +46,7 @@ nocite: |
 
 
 
-[[include:mermaid_TIGD6.md]]
+[[include:tables/mermaid_TIGD6.md]]
 
 ## References
 

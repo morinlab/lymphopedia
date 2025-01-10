@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_UHRF1BP1L.md]]
+[[include:tables/mermaid_UHRF1BP1L.md]]
 
 ## References
 

@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_RECQL4.md]]
+[[include:tables/mermaid_RECQL4.md]]
 
 ## References
 

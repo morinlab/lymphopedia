@@ -45,7 +45,7 @@ Driver mutations affecting this gene in FL/DLBCL have been experimentally demons
 <!-- DLBCL: zhangGeneticHeterogeneityDiffuse2013 -->
 <!-- FL: krysiakRecurrentSomaticMutations2017b -->
 
-[[include:mermaid_POU2F2.md]]
+[[include:tables/mermaid_POU2F2.md]]
 
 ## References
 

@@ -26,7 +26,7 @@ nocite: |
 |DLBCL|GAMBL Genome |0.564 |
 
 
-[[include:mermaid_SENP7.md]]
+[[include:tables/mermaid_SENP7.md]]
 
 ## References
 

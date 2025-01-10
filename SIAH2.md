@@ -43,6 +43,6 @@ nocite: |
 [SP59304](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP59304.html)
 [SP59416](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP59416.html)
 
-[[include:mermaid_SIAH2.md]]
+[[include:tables/mermaid_SIAH2.md]]
 
 ## References

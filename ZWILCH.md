@@ -16,7 +16,7 @@ nocite: |
 [[include:table1_ZWILCH.md]]
 
 
-[[include:mermaid_ZWILCH.md]]
+[[include:tables/mermaid_ZWILCH.md]]
 
 ## References
 

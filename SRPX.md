@@ -27,7 +27,7 @@ nocite: |
 |FL|GAMBL Exome |0.287 |
 
 
-[[include:mermaid_SRPX.md]]
+[[include:tables/mermaid_SRPX.md]]
 
 ## References
 

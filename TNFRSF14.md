@@ -58,7 +58,7 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 <!-- MZL: spinaGeneticsNodalMarginal2016b @spinaGeneticsNodalMarginal2016b -->
 <!-- DLBCL: morinFrequentMutationHistonemodifying2011 -->
 
-[[include:mermaid_TNFRSF14.md]]
+[[include:tables/mermaid_TNFRSF14.md]]
 
 # References
 

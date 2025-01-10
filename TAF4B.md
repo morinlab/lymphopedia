@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_TAF4B.md]]
+[[include:tables/mermaid_TAF4B.md]]
 
 ## References
 

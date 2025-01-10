@@ -27,7 +27,7 @@ nocite: |
 |FL|GAMBL Exome |2.865 |
 
 
-[[include:mermaid_SLITRK6.md]]
+[[include:tables/mermaid_SLITRK6.md]]
 
 ## References
 

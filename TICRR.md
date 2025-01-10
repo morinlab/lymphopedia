@@ -27,7 +27,7 @@ nocite: |
 |MCL|GAMBL Genome |0.585 |
 
 
-[[include:mermaid_TICRR.md]]
+[[include:tables/mermaid_TICRR.md]]
 
 ## References
 

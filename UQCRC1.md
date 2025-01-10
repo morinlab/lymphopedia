@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_UQCRC1.md]]
+[[include:tables/mermaid_UQCRC1.md]]
 
 ## References
 

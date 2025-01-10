@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_VAX1.md]]
+[[include:tables/mermaid_VAX1.md]]
 
 ## References
 

@@ -22,7 +22,7 @@ nocite: |
 |:------:|:----:|:----:|
 
 
-[[include:mermaid_TMSL3.md]]
+[[include:tables/mermaid_TMSL3.md]]
 
 ## References
 

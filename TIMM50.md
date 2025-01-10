@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_TIMM50.md]]
+[[include:tables/mermaid_TIMM50.md]]
 
 ## References
 

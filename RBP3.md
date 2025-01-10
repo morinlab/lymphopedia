@@ -45,7 +45,7 @@ nocite: |
 &starf; &star; &star; &star; &star;
 
 
-[[include:mermaid_RBP3.md]]
+[[include:tables/mermaid_RBP3.md]]
 
 ## References
 

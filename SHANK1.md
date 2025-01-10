@@ -44,7 +44,7 @@ nocite: |
 **Rating**
 &starf; &star; &star; &star; &star;
 
-[[include:mermaid_SHANK1.md]]
+[[include:tables/mermaid_SHANK1.md]]
 
 ## References
 

@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_VPS13A.md]]
+[[include:tables/mermaid_VPS13A.md]]
 
 ## References
 

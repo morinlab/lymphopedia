@@ -30,6 +30,6 @@ nocite: |
 <!-- MZL: spinaGeneticsNodalMarginal2016b -->
 <!-- DLBCL: morinMutationalStructuralAnalysis2013 -->
 
-[[include:mermaid_TAF1.md]]
+[[include:tables/mermaid_TAF1.md]]
 
 ## References

@@ -32,7 +32,7 @@ nocite: |
 <!-- ORIGIN: schmitzGeneticsPathogenesisDiffuse2018a -->
 <!-- DLBCL: schmitzGeneticsPathogenesisDiffuse2018a -->
 
-[[include:mermaid_TAP1.md]]
+[[include:tables/mermaid_TAP1.md]]
 
 ## References
 

@@ -47,7 +47,7 @@ nocite: |
 &star; &star; &star; &star; &star;
 
 
-[[include:mermaid_TPST2.md]]
+[[include:tables/mermaid_TPST2.md]]
 
 ## References
 

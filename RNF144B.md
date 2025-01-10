@@ -39,7 +39,7 @@ nocite: |
 <!-- ORIGIN: paneaWholeGenomeLandscape2019 -->
 <!-- BL: paneaWholeGenomeLandscape2019 -->
 
-[[include:mermaid_RNF144B.md]]
+[[include:tables/mermaid_RNF144B.md]]
 
 ## References
 

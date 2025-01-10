@@ -56,7 +56,7 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 <!-- ORIGIN: krysiakRecurrentSomaticMutations2017b -->
 <!-- FL: krysiakRecurrentSomaticMutations2017b -->
 
-[[include:mermaid_POU2AF1.md]]
+[[include:tables/mermaid_POU2AF1.md]]
 
 ## References
 

@@ -40,7 +40,7 @@ Mutations in this gene were first described in DLBCL and FL in 2021 by Hübschma
 [SP192997](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP192997.html)
 [SP116610](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP116610.html)
 
-[[include:mermaid_PNPO.md]]
+[[include:tables/mermaid_PNPO.md]]
 
 ## References
 

@@ -28,7 +28,7 @@ nocite: |
 |MCL|GAMBL Genome |1.17 |
 
 
-[[include:mermaid_PRUNE2.md]]
+[[include:tables/mermaid_PRUNE2.md]]
 
 ## References
 

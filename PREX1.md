@@ -34,7 +34,7 @@ nocite: |
 <!-- ORIGIN: burkhardtClinicalRelevanceMolecular2022b -->
 <!-- BL: burkhardtClinicalRelevanceMolecular2022b -->
 
-[[include:mermaid_PREX1.md]]
+[[include:tables/mermaid_PREX1.md]]
 
 ## References
 

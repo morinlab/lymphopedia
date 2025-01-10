@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_RUNDC1.md]]
+[[include:tables/mermaid_RUNDC1.md]]
 
 ## References
 

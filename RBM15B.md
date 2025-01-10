@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_RBM15B.md]]
+[[include:tables/mermaid_RBM15B.md]]
 
 ## References
 

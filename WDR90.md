@@ -34,6 +34,6 @@ nocite: |
 <!-- ORIGIN: schmitzBurkittLymphomaPathogenesis2012 -->
 <!-- BL: schmitzBurkittLymphomaPathogenesis2012 -->
 
-[[include:mermaid_WDR90.md]]
+[[include:tables/mermaid_WDR90.md]]
 
 ## References

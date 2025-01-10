@@ -41,7 +41,7 @@ nocite: |
 <!-- PMBL: dunsCharacterizationDLBCLPMBL2021b -->
 <!-- DLBCL: arthurGenomewideDiscoverySomatic2018 -->
 
-[[include:mermaid_RFTN1.md]]
+[[include:tables/mermaid_RFTN1.md]]
 
 ## References
 

@@ -101,6 +101,6 @@ Mutations in this gene were reported to be inflated in the original results acco
 [Reddy_3995T](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Reddy/igv_reports/Reddy_3995T.html)
 [Reddy_695T](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Reddy/igv_reports/Reddy_695T.html)
 
-[[include:mermaid_SETD5.md]]
+[[include:tables/mermaid_SETD5.md]]
 
 ## References

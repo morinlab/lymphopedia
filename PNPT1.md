@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_PNPT1.md]]
+[[include:tables/mermaid_PNPT1.md]]
 
 ## References
 

@@ -49,6 +49,6 @@ WEE1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) 
 <!-- PMBL: reichelFlowSortingExome2015a -->
 <!-- DLBCL: schmitzGeneticsPathogenesisDiffuse2018a -->
 
-[[include:mermaid_WEE1.md]]
+[[include:tables/mermaid_WEE1.md]]
 
 ## References

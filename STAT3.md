@@ -43,7 +43,7 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 <!-- ORIGIN: ohgamiSTAT3MutationsAre2014 -->
 <!-- DLBCL: ohgamiSTAT3MutationsAre2014 -->
 
-[[include:mermaid_STAT3.md]]
+[[include:tables/mermaid_STAT3.md]]
 
 ## References
 

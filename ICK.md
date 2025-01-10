@@ -38,3 +38,23 @@ nocite: |
 
 [[include:browser_ICK.md]]
 
+
+<!-- ORIGIN: loveGeneticLandscapeMutations2012 -->
+<!-- BL: loveGeneticLandscapeMutations2012 -->
+
+## Representative Mutations
+
+![](primary/Love_ICK.svg)
+**Rating**
+&starf; &star; &star; &star; &star;
+
+
+## All Mutations
+
+[1092](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/1092_reports.html)
+[516](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/516_reports.html)
+
+[[include:tables/mermaid_ICK.md]]
+
+## References
+

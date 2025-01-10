@@ -34,7 +34,7 @@ nocite: |
 <!-- MCL: pararajalingamCodingNoncodingDrivers2020 -->
 <!-- DLBCL: lohrDiscoveryPrioritizationSomatic2012a -->
 
-[[include:mermaid_S1PR1.md]]
+[[include:tables/mermaid_S1PR1.md]]
 
 ## References
 

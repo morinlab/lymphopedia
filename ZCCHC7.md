@@ -40,6 +40,6 @@ nocite: |
 <!-- ORIGIN: arthurGenomewideDiscoverySomatic2018 -->
 <!-- DLBCL: arthurGenomewideDiscoverySomatic2018 -->
 
-[[include:mermaid_ZCCHC7.md]]
+[[include:tables/mermaid_ZCCHC7.md]]
 
 ## References

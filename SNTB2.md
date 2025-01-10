@@ -51,6 +51,6 @@ nocite: |
 &starf; &starf; &starf; &starf; &star; 
 
 
-[[include:mermaid_SNTB2.md]]
+[[include:tables/mermaid_SNTB2.md]]
 
 ## References

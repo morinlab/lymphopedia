@@ -40,7 +40,7 @@ nocite: |
 <!-- ORIGIN: arthurGenomewideDiscoverySomatic2018 -->
 <!-- DLBCL: arthurGenomewideDiscoverySomatic2018 -->
 
-[[include:mermaid_SERPINA9.md]]
+[[include:tables/mermaid_SERPINA9.md]]
 
 ## References
 

@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_RAB3GAP1.md]]
+[[include:tables/mermaid_RAB3GAP1.md]]
 
 ## References
 

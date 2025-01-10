@@ -40,6 +40,6 @@ Mutations in this gene were first described in DLBCL in 2013[@zhangGeneticHetero
 <!-- PMBL: tiacciPervasiveMutationsJAKSTAT2018b -->
 <!-- DLBCL: zhangGeneticHeterogeneityDiffuse2013 -->
 
-[[include:mermaid_STAT5B.md]]
+[[include:tables/mermaid_STAT5B.md]]
 
 ## References

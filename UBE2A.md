@@ -29,7 +29,7 @@ nocite: |
 <!-- DLBCL: reddyGeneticFunctionalDrivers2017 -->
 <!-- PMBL: reichelFlowSortingExome2015a -->
 
-[[include:mermaid_UBE2A.md]]
+[[include:tables/mermaid_UBE2A.md]]
 
 ## References
  

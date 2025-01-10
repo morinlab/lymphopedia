@@ -47,7 +47,7 @@ nocite: |
 
 
 
-[[include:mermaid_SLC29A2.md]]
+[[include:tables/mermaid_SLC29A2.md]]
 
 ## References
 

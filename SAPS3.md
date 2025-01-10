@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_SAPS3.md]]
+[[include:tables/mermaid_SAPS3.md]]
 
 ## References
 

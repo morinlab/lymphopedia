@@ -46,6 +46,6 @@ nocite: |
 [SP194065](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP194065.html)
 [SP116720](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP116720.html)
 
-[[include:mermaid_PRKDC.md]]
+[[include:tables/mermaid_PRKDC.md]]
 
 ## References

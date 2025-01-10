@@ -41,7 +41,7 @@ nocite: |
 &starf; &starf; &star; &star; &star;
 
 
-[[include:mermaid_SBF1.md]]
+[[include:tables/mermaid_SBF1.md]]
 
 ## References
 

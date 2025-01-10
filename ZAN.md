@@ -33,6 +33,6 @@ nocite: |
 <!-- ORIGIN: burkhardtClinicalRelevanceMolecular2022b -->
 <!-- BL: burkhardtClinicalRelevanceMolecular2022b -->
 
-[[include:mermaid_ZAN.md]]
+[[include:tables/mermaid_ZAN.md]]
 
 ## References

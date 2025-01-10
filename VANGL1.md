@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_VANGL1.md]]
+[[include:tables/mermaid_VANGL1.md]]
 
 ## References
 

@@ -33,7 +33,7 @@ nocite: |
 <!-- ORIGIN: chapuyMolecularSubtypesDiffuse2018b -->
 <!-- DLBCL: chapuyMolecularSubtypesDiffuse2018b -->
 
-[[include:mermaid_RAD9A.md]]
+[[include:tables/mermaid_RAD9A.md]]
 
 ## References
 

@@ -38,7 +38,7 @@ nocite: |
 <!-- MZL: rossiCodingGenomeSplenic2012c -->
 <!-- PMBL: sarkozyMutationalLandscapeGray2021a -->
 
-[[include:mermaid_SPEN.md]]
+[[include:tables/mermaid_SPEN.md]]
 
 ## References
 

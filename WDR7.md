@@ -54,6 +54,6 @@ nocite: |
 
 
 
-[[include:mermaid_WDR7.md]]
+[[include:tables/mermaid_WDR7.md]]
 
 ## References

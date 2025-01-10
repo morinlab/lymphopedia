@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_RIMS4.md]]
+[[include:tables/mermaid_RIMS4.md]]
 
 ## References
 

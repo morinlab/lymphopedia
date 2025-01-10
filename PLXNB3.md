@@ -36,7 +36,7 @@ nocite: |
 <!-- MCL: zhangGenomicLandscapeMantle2014 -->
 <!-- MZL: spinaGeneticsNodalMarginal2016b -->
 
-[[include:mermaid_PLXNB3.md]]
+[[include:tables/mermaid_PLXNB3.md]]
 
 ## References
 

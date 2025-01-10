@@ -39,7 +39,7 @@ ZFP36L1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ash
 ## Expression
 ![](images/gene_expression/ZFP36L1_by_pathology.svg)
 
-[[include:mermaid_ZFP36L1.md]]
+[[include:tables/mermaid_ZFP36L1.md]]
 
 ## References
 

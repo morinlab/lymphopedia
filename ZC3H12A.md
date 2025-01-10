@@ -36,6 +36,6 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 <!-- ORIGIN: arthurGenomewideDiscoverySomatic2018 -->
 <!-- DLBCL: arthurGenomewideDiscoverySomatic2018 -->
 
-[[include:mermaid_ZC3H12A.md]]
+[[include:tables/mermaid_ZC3H12A.md]]
 
 ## References

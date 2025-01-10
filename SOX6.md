@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_SOX6.md]]
+[[include:tables/mermaid_SOX6.md]]
 
 ## References
 

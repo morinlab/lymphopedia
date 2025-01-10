@@ -48,7 +48,7 @@ Due to [minimal support](SYNGAP1#representative-mutation) in the original primar
 &starf; &star; &star; &star; &star;
 
 
-[[include:mermaid_SYNGAP1.md]]
+[[include:tables/mermaid_SYNGAP1.md]]
 
 ## References
 

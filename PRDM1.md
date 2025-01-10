@@ -48,7 +48,7 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 <!-- DLBCL: pasqualucciInactivationPRDM1BLIMP12006a -->
 <!-- BL: 2 -->
 
-[[include:mermaid_PRDM1.md]]
+[[include:tables/mermaid_PRDM1.md]]
 
 ## References
 

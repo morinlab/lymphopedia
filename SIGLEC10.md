@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_SIGLEC10.md]]
+[[include:tables/mermaid_SIGLEC10.md]]
 
 ## References
 

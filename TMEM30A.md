@@ -44,6 +44,6 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 <!-- ORIGIN: morinFrequentMutationHistonemodifying2011 -->
 <!-- DLBCL: morinFrequentMutationHistonemodifying2011 -->
 <!-- FL: morinFrequentMutationHistonemodifying2011 -->
-[[include:mermaid_TMEM30A.md]]
+[[include:tables/mermaid_TMEM30A.md]]
 
 ## References

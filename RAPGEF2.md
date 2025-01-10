@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_RAPGEF2.md]]
+[[include:tables/mermaid_RAPGEF2.md]]
 
 ## References
 

@@ -57,7 +57,7 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 &starf; &starf; &starf; &starf; &star;
 
 
-[[include:mermaid_SF3B1.md]]
+[[include:tables/mermaid_SF3B1.md]]
 
 ## References
 

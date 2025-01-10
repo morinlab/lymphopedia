@@ -51,7 +51,7 @@ Due to [minimal support](RET#representative-mutation) in the original primary da
 &starf; &star; &star; &star; &star;
 
 
-[[include:mermaid_RET.md]]
+[[include:tables/mermaid_RET.md]]
 
 ## References
 

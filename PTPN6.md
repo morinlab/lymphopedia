@@ -32,7 +32,7 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 <!-- ORIGIN: reddyGeneticFunctionalDrivers2017 -->
 <!-- DLBCL: reddyGeneticFunctionalDrivers2017 -->
 
-[[include:mermaid_PTPN6.md]]
+[[include:tables/mermaid_PTPN6.md]]
 
 ## References
 

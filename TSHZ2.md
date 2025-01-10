@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_TSHZ2.md]]
+[[include:tables/mermaid_TSHZ2.md]]
 
 ## References
 

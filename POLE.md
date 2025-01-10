@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_POLE.md]]
+[[include:tables/mermaid_POLE.md]]
 
 ## References
 

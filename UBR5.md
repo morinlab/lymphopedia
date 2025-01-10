@@ -42,7 +42,7 @@ Mutations in this gene were first described in DLBCL in 2013[@zhangGeneticHetero
 <!-- DLBCL: zhangGeneticHeterogeneityDiffuse2013 -->
 <!-- MCL: pararajalingamCodingNoncodingDrivers2020 -->
 
-[[include:mermaid_UBR5.md]]
+[[include:tables/mermaid_UBR5.md]]
 
 ## References
 

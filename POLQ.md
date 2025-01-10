@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_POLQ.md]]
+[[include:tables/mermaid_POLQ.md]]
 
 ## References
 

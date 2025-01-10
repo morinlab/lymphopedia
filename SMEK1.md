@@ -37,7 +37,7 @@ nocite: |
 <!-- ORIGIN: chapuyMolecularSubtypesDiffuse2018b -->
 <!-- DLBCL: chapuyMolecularSubtypesDiffuse2018b -->
 
-[[include:mermaid_SMEK1.md]]
+[[include:tables/mermaid_SMEK1.md]]
 
 ## References
 

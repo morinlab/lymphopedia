@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_SERINC2.md]]
+[[include:tables/mermaid_SERINC2.md]]
 
 ## References
 

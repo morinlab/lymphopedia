@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_PRDM16.md]]
+[[include:tables/mermaid_PRDM16.md]]
 
 ## References
 

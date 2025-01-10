@@ -27,7 +27,7 @@ nocite: |
 |FL|GAMBL Exome |0.86 |
 
 
-[[include:mermaid_SWAP70.md]]
+[[include:tables/mermaid_SWAP70.md]]
 
 ## References
 

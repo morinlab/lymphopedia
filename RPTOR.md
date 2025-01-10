@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_RPTOR.md]]
+[[include:tables/mermaid_RPTOR.md]]
 
 ## References
 

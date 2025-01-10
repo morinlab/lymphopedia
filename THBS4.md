@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_THBS4.md]]
+[[include:tables/mermaid_THBS4.md]]
 
 ## References
 

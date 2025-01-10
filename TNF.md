@@ -22,7 +22,7 @@ nocite: |
 [[include:tables/DLBCL_TNF.md]]
 [[include:tables/FL_TNF.md]]
 
-[[include:mermaid_TNF.md]]
+[[include:tables/mermaid_TNF.md]]
 
 ## References
 

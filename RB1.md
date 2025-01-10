@@ -34,7 +34,7 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 <!-- DLBCL: morinMutationalStructuralAnalysis2013 -->
 <!-- MCL: zhangGenomicLandscapeMantle2014 -->
 
-[[include:mermaid_RB1.md]]
+[[include:tables/mermaid_RB1.md]]
 
 ## References
 

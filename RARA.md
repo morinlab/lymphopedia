@@ -39,7 +39,7 @@ nocite: |
 <!-- ORIGIN: reddyGeneticFunctionalDrivers2017 -->
 <!-- DLBCL: reddyGeneticFunctionalDrivers2017 -->
 
-[[include:mermaid_RARA.md]]
+[[include:tables/mermaid_RARA.md]]
 
 ## References
 

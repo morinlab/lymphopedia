@@ -45,7 +45,7 @@ nocite: |
 
 
 
-[[include:mermaid_TBC1D9B.md]]
+[[include:tables/mermaid_TBC1D9B.md]]
 
 ## References
 

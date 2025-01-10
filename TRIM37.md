@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_TRIM37.md]]
+[[include:tables/mermaid_TRIM37.md]]
 
 ## References
 

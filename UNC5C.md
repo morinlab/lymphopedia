@@ -33,6 +33,6 @@ nocite: |
 ![](images/gene_expression/UNC5C_by_pathology.svg)
 <!-- ORIGIN: Unknown -->
 
-[[include:mermaid_UNC5C.md]]
+[[include:tables/mermaid_UNC5C.md]]
 
 ## References

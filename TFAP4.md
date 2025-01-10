@@ -37,7 +37,7 @@ Driver mutations affecting this gene in BL have been experimentally demonstrated
 ## Expression
 ![](images/gene_expression/TFAP4_by_pathology.svg)
 
-[[include:mermaid_TFAP4.md]]
+[[include:tables/mermaid_TFAP4.md]]
 
 ## References
 

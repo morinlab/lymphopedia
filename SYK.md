@@ -55,7 +55,7 @@ nocite: |
 [Reddy_3698T](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Reddy/igv_reports/Reddy_3698T.html)
 [Reddy_683T](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Reddy/igv_reports/Reddy_683T.html)
 
-[[include:mermaid_SYK.md]]
+[[include:tables/mermaid_SYK.md]]
 
 ## References
 

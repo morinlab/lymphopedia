@@ -39,7 +39,7 @@ nocite: |
 
 [RG040](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG040.html)
 
-[[include:mermaid_PTPN23.md]]
+[[include:tables/mermaid_PTPN23.md]]
 
 ## References
 

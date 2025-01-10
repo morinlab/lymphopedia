@@ -48,7 +48,7 @@ Driver mutations affecting this gene in DLBCL/BL have been experimentally demons
 <!-- DLBCL: pasqualucciHypermutationMultipleProtooncogenes2001a -->
 <!-- BL: richterRecurrentMutationID32012a -->
 
-[[include:mermaid_RHOA.md]]
+[[include:tables/mermaid_RHOA.md]]
 
 ## References
 

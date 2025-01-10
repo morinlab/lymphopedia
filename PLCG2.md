@@ -40,6 +40,6 @@ nocite: |
 <!-- ORIGIN: paneaWholeGenomeLandscape2019 -->
 <!-- BL: paneaWholeGenomeLandscape2019 -->
 
-[[include:mermaid_PLCG2.md]]
+[[include:tables/mermaid_PLCG2.md]]
 
 ## References

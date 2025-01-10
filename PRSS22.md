@@ -48,7 +48,7 @@ Due to [minimal support](PRSS22#representative-mutation) in the original primary
 **Rating**
 &starf; &star; &star; &star; &star;
 
-[[include:mermaid_PRSS22.md]]
+[[include:tables/mermaid_PRSS22.md]]
 
 ## References
 

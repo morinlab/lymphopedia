@@ -38,6 +38,6 @@ nocite: |
 <!-- ORIGIN: russler-germainMutationsAssociatedProgression2023a -->
 <!-- FL: russler-germainMutationsAssociatedProgression2023b -->
 
-[[include:mermaid_XIRP2.md]]
+[[include:tables/mermaid_XIRP2.md]]
 
 ## References

@@ -61,7 +61,7 @@ Recurrent mutations at the D419 amino acid residue are a common feature in DLBCL
 <!-- FL: yildizActivatingSTAT6Mutations2015c -->
 <!-- DLBCL: yildizActivatingSTAT6Mutations2015c -->
 
-[[include:mermaid_STAT6.md]]
+[[include:tables/mermaid_STAT6.md]]
 
 ## References
 

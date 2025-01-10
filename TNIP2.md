@@ -24,7 +24,7 @@ nocite: |
 |DLBCL|GAMBL Exome |0.593 |
 
 
-[[include:mermaid_TNIP2.md]]
+[[include:tables/mermaid_TNIP2.md]]
 
 ## References
 

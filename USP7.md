@@ -29,7 +29,7 @@ nocite: |
 ## Expression
 ![](images/gene_expression/USP7_by_pathology.svg)
 
-[[include:mermaid_USP7.md]]
+[[include:tables/mermaid_USP7.md]]
 
 ## References
 

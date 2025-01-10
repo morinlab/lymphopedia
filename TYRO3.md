@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_TYRO3.md]]
+[[include:tables/mermaid_TYRO3.md]]
 
 ## References
 

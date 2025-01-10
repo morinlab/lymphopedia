@@ -42,6 +42,6 @@ nocite: |
 <!-- DLBCL: parryWholeExomeSequencing2013 -->
 <!-- MZL: rossiCodingGenomeSplenic2012c -->
 
-[[include:mermaid_TRRAP.md]]
+[[include:tables/mermaid_TRRAP.md]]
 
 ## References

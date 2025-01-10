@@ -38,7 +38,7 @@ nocite: |
 ## Expression
 ![](images/gene_expression/TCL1A_by_pathology.svg)
 
-[[include:mermaid_TCL1A.md]]
+[[include:tables/mermaid_TCL1A.md]]
 
 ## References
 

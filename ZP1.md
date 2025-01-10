@@ -16,7 +16,7 @@ nocite: |
 [[include:table1_ZP1.md]]
 
 
-[[include:mermaid_ZP1.md]]
+[[include:tables/mermaid_ZP1.md]]
 
 ## References
 

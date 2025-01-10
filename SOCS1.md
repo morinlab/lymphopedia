@@ -43,6 +43,6 @@ Driver mutations affecting this gene in FL/DLBCL have been experimentally demons
 <!-- PMBL: wenigerMutationsTumorSuppressor2006a -->
 <!-- DLBCL: morinFrequentMutationHistonemodifying2011 -->
 
-[[include:mermaid_SOCS1.md]]
+[[include:tables/mermaid_SOCS1.md]]
 
 ## References

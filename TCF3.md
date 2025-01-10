@@ -49,6 +49,6 @@ Driver mutations affecting this gene in BL have been experimentally demonstrated
 <!-- ORIGIN: schmitzBurkittLymphomaPathogenesis2012 -->
 <!-- BL: schmitzBurkittLymphomaPathogenesis2012 -->
 
-[[include:mermaid_TCF3.md]]
+[[include:tables/mermaid_TCF3.md]]
 
 # References

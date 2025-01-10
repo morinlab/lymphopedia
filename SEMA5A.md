@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_SEMA5A.md]]
+[[include:tables/mermaid_SEMA5A.md]]
 
 ## References
 

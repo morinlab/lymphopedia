@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_SEMA3D.md]]
+[[include:tables/mermaid_SEMA3D.md]]
 
 ## References
 

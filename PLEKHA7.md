@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_PLEKHA7.md]]
+[[include:tables/mermaid_PLEKHA7.md]]
 
 ## References
 

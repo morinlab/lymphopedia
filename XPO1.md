@@ -41,6 +41,6 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 <!-- DLBCL: mareschalWholeExomeSequencing2016 -->
 <!-- PMBL: jardinRecurrentMutationsExportin2016a -->
 
-[[include:mermaid_XPO1.md]]
+[[include:tables/mermaid_XPO1.md]]
 
 ## References

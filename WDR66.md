@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_WDR66.md]]
+[[include:tables/mermaid_WDR66.md]]
 
 ## References
 

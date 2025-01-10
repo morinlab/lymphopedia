@@ -49,7 +49,7 @@ Driver mutations affecting this gene in FL/DLBCL have been experimentally demons
 <!-- MZL: rossiCodingGenomeSplenic2012c -->
 <!-- DLBCL: mareschalWholeExomeSequencing2016 -->
 
-[[include:mermaid_TBL1XR1.md]]
+[[include:tables/mermaid_TBL1XR1.md]]
 
 ## References
 

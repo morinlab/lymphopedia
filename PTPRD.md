@@ -42,7 +42,7 @@ nocite: |
 <!-- ORIGIN: spinaGeneticsNodalMarginal2016b -->
 <!-- MZL: spinaGeneticsNodalMarginal2016b -->
 
-[[include:mermaid_PTPRD.md]]
+[[include:tables/mermaid_PTPRD.md]]
 
 ## References
 

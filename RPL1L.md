@@ -22,7 +22,7 @@ nocite: |
 |:------:|:----:|:----:|
 
 
-[[include:mermaid_RPL1L.md]]
+[[include:tables/mermaid_RPL1L.md]]
 
 ## References
 

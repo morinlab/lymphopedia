@@ -40,7 +40,7 @@ nocite: |
 &starf; &starf; &starf; &starf; &starf;
 
 
-[[include:mermaid_RANBP6.md]]
+[[include:tables/mermaid_RANBP6.md]]
 
 ## References
 

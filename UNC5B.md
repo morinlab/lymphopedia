@@ -40,7 +40,7 @@ nocite: |
 [SP59400](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP59400.html)
 [SP59448](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP59448.html)
 
-[[include:mermaid_UNC5B.md]]
+[[include:tables/mermaid_UNC5B.md]]
 
 ## References
 

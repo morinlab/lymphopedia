@@ -43,7 +43,7 @@ TMSB4X is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm
 <!-- ORIGIN: albuquerqueEnhancingKnowledgeDiscovery2017a -->
 <!-- DLBCL: albuquerqueEnhancingKnowledgeDiscovery2017a -->
 
-[[include:mermaid_TMSB4X.md]]
+[[include:tables/mermaid_TMSB4X.md]]
 
 ## References
 

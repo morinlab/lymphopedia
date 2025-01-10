@@ -42,7 +42,7 @@ nocite: |
 <!-- ORIGIN: arthurGenomewideDiscoverySomatic2018 -->
 <!-- DLBCL: arthurGenomewideDiscoverySomatic2018 -->
 
-[[include:mermaid_ST6GAL1.md]]
+[[include:tables/mermaid_ST6GAL1.md]]
 
 ## References
 

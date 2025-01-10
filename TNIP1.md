@@ -27,7 +27,7 @@ nocite: |
 |FL|GAMBL Exome |0.287 |
 
 
-[[include:mermaid_TNIP1.md]]
+[[include:tables/mermaid_TNIP1.md]]
 
 ## References
 

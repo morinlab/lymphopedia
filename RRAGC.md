@@ -35,7 +35,7 @@ Driver mutations affecting this gene in DLBCL/FL have been experimentally demons
 <!-- ORIGIN: okosunRecurrentMTORC1activatingRRAGC2016a -->
 <!-- DLBCL: okosunRecurrentMTORC1activatingRRAGC2016a -->
 
-[[include:mermaid_RRAGC.md]]
+[[include:tables/mermaid_RRAGC.md]]
 
 ## References
 

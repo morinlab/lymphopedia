@@ -34,6 +34,6 @@ nocite: |
 <!-- ORIGIN: burkhardtClinicalRelevanceMolecular2022b -->
 <!-- BL: burkhardtClinicalRelevanceMolecular2022b -->
 
-[[include:mermaid_ZNF85.md]]
+[[include:tables/mermaid_ZNF85.md]]
 
 ## References

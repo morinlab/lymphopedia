@@ -74,7 +74,7 @@ nocite: |
 [Reddy_3937T](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Reddy/igv_reports/Reddy_3937T.html)
 [Reddy_823T](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Reddy/igv_reports/Reddy_823T.html)
 
-[[include:mermaid_PTPRK.md]]
+[[include:tables/mermaid_PTPRK.md]]
 
 ## References
  

@@ -40,6 +40,6 @@ Mutations in this gene were first described in DLBCL in 2013[@zhangGeneticHetero
 <!-- ORIGIN: zhangGeneticHeterogeneityDiffuse2013 -->
 <!-- DLBCL: zhangGeneticHeterogeneityDiffuse2013 -->
 
-[[include:mermaid_ZEB2.md]]
+[[include:tables/mermaid_ZEB2.md]]
 
 ## References

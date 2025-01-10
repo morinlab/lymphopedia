@@ -27,7 +27,7 @@ nocite: |
 |MCL|GAMBL Genome |0.585 |
 
 
-[[include:mermaid_SLC17A6.md]]
+[[include:tables/mermaid_SLC17A6.md]]
 
 ## References
 

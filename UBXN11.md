@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_UBXN11.md]]
+[[include:tables/mermaid_UBXN11.md]]
 
 ## References
 

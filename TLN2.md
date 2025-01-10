@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_TLN2.md]]
+[[include:tables/mermaid_TLN2.md]]
 
 ## References
 

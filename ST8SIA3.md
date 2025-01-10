@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_ST8SIA3.md]]
+[[include:tables/mermaid_ST8SIA3.md]]
 
 ## References
 

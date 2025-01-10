@@ -43,7 +43,7 @@ nocite: |
 <!-- ORIGIN: gunawardanaRecurrentSomaticMutations2014c -->
 <!-- PMBL: gunawardanaRecurrentSomaticMutations2014c -->
 
-[[include:mermaid_PTPN1.md]]
+[[include:tables/mermaid_PTPN1.md]]
 
 ## References
 

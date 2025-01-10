@@ -49,7 +49,7 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 <!-- BL: muppidiLossSignalingGa132014b -->
 <!-- DLBCL: morinFrequentMutationHistonemodifying2011 -->
 
-[[include:mermaid_S1PR2.md]]
+[[include:tables/mermaid_S1PR2.md]]
 
 ## References
 

@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_POLD3.md]]
+[[include:tables/mermaid_POLD3.md]]
 
 ## References
 

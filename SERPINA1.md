@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_SERPINA1.md]]
+[[include:tables/mermaid_SERPINA1.md]]
 
 ## References
 

@@ -43,6 +43,6 @@ Mutations in this gene were reported to be inflated in the original results acco
 <!-- ORIGIN: reddyGeneticFunctionalDrivers2017 -->
 <!-- DLBCL: reddyGeneticFunctionalDrivers2017 -->
 
-[[include:mermaid_YY1.md]]
+[[include:tables/mermaid_YY1.md]]
 
 ## References

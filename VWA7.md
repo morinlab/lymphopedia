@@ -34,6 +34,6 @@ nocite: |
 <!-- ORIGIN: burkhardtClinicalRelevanceMolecular2022b -->
 <!-- BL: burkhardtClinicalRelevanceMolecular2022b -->
 
-[[include:mermaid_VWA7.md]]
+[[include:tables/mermaid_VWA7.md]]
 
 ## References

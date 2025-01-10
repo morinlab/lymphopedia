@@ -47,6 +47,6 @@ Driver mutations affecting this gene in DLBCL/FL/BL have been experimentally dem
 <!-- FL: krysiakRecurrentSomaticMutations2017b -->
 <!-- BL: richterRecurrentMutationID32012a -->
 
-[[include:mermaid_SMARCA4.md]]
+[[include:tables/mermaid_SMARCA4.md]]
 
 ## References

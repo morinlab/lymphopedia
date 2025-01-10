@@ -42,7 +42,7 @@ Driver mutations affecting this gene in FL/DLBCL have been experimentally demons
 
 ![](images/gene_expression/TNFAIP3_by_pathology.svg)
 
-[[include:mermaid_TNFAIP3.md]]
+[[include:tables/mermaid_TNFAIP3.md]]
 
 ## References
 <!-- ORIGIN: rossiAlterationBIRC3Multiple2011a -->

@@ -36,6 +36,6 @@ nocite: |
 <!-- ORIGIN: reddyGeneticFunctionalDrivers2017 -->
 <!-- DLBCL: reddyGeneticFunctionalDrivers2017 -->
 
-[[include:mermaid_TOX.md]]
+[[include:tables/mermaid_TOX.md]]
 
 ## References

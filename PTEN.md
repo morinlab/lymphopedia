@@ -35,7 +35,7 @@ Driver mutations affecting this gene in BL/DLBCL have been experimentally demons
 <!-- ORIGIN: loveGeneticLandscapeMutations2012 -->
 <!-- BL: loveGeneticLandscapeMutations2012 -->
 
-[[include:mermaid_PTEN.md]]
+[[include:tables/mermaid_PTEN.md]]
 
 ## References
 

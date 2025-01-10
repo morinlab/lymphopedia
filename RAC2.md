@@ -47,7 +47,7 @@ nocite: |
 [SP124969](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP124969.html)
 [SP124979](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP124979.html)
 
-[[include:mermaid_RAC2.md]]
+[[include:tables/mermaid_RAC2.md]]
 
 ## References
 

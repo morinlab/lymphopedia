@@ -51,6 +51,6 @@ nocite: |
 **Rating**
 &starf; &starf; &star; &star; &star; 
 
-[[include:mermaid_PXDNL.md]]
+[[include:tables/mermaid_PXDNL.md]]
 
 ## References

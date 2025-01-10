@@ -15,7 +15,7 @@ nocite: |
 
 [[include:table1_ZNF91.md]]
 
-[[include:mermaid_ZNF91.md]]
+[[include:tables/mermaid_ZNF91.md]]
 
 ## References
 

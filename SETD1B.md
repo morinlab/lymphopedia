@@ -120,7 +120,7 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 [Reddy_3998T](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Reddy/igv_reports/Reddy_3998T.html)
 [Reddy_790T](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Reddy/igv_reports/Reddy_790T.html)
 
-[[include:mermaid_SETD1B.md]]
+[[include:tables/mermaid_SETD1B.md]]
 
 ## References
 

@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_SH3PXD2B.md]]
+[[include:tables/mermaid_SH3PXD2B.md]]
 
 ## References
 

@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_PPP2R5A.md]]
+[[include:tables/mermaid_PPP2R5A.md]]
 
 ## References
 

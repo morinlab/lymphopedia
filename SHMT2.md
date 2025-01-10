@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_SHMT2.md]]
+[[include:tables/mermaid_SHMT2.md]]
 
 ## References
 

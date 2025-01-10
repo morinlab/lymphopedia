@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_PXK.md]]
+[[include:tables/mermaid_PXK.md]]
 
 ## References
 
