@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_APC.md]]
+[[include:tables/mermaid_APC.md]]
 
 ## References
 

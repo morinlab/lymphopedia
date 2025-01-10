@@ -34,6 +34,6 @@ nocite: |
 <!-- ORIGIN: muppidiLossSignalingGa132014b -->
 <!-- BL: muppidiLossSignalingGa132014b -->
 
-[[include:mermaid_ARHGEF1.md]]
+[[include:tables/mermaid_ARHGEF1.md]]
 
 ## References

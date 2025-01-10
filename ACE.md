@@ -53,6 +53,6 @@ Due to [minimal support](ACE#representative-mutation) in the original primary da
 [677](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/677_reports.html)
 [744](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/744_reports.html)
 
-[[include:mermaid_ACE.md]]
+[[include:tables/mermaid_ACE.md]]
 
 ## References

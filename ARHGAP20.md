@@ -27,7 +27,7 @@ nocite: |
 |FL|GAMBL Exome |0.287 |
 
 
-[[include:mermaid_ARHGAP20.md]]
+[[include:tables/mermaid_ARHGAP20.md]]
 
 ## References
 

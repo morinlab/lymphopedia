@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_APMAP.md]]
+[[include:tables/mermaid_APMAP.md]]
 
 ## References
 

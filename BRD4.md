@@ -56,6 +56,6 @@ Due to [minimal support](BRD4#representative-mutation) in the original primary d
 [698](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/698_reports.html)
 [747](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/747_reports.html)
 
-[[include:mermaid_BRD4.md]]
+[[include:tables/mermaid_BRD4.md]]
 
 ## References

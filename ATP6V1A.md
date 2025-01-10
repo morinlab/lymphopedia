@@ -45,7 +45,7 @@ Mutations in this gene were first described in DLBCL in 2021 by Hübschmann et a
 [SP193057](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP193057.html)
 [SP194216](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP194216.html)
 
-[[include:mermaid_ATP6V1A.md]]
+[[include:tables/mermaid_ATP6V1A.md]]
 
 ## References
 

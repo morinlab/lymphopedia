@@ -15,7 +15,7 @@ nocite: |
 
 [[include:table1_ALDH1L2]]
 
-[[include:mermaid_ALDH1L2.md]]
+[[include:tables/mermaid_ALDH1L2.md]]
 
 ## References
 

@@ -43,7 +43,7 @@ Driver mutations affecting this gene have been experimentally demonstrated to ca
 <!-- FL: krysiakRecurrentSomaticMutations2017b -->
 <!-- BL: loveGeneticLandscapeMutations2012 -->
 
-[[include:mermaid_ARID1A.md]]
+[[include:tables/mermaid_ARID1A.md]]
 
 ## References
 

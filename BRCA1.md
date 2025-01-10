@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_BRCA1.md]]
+[[include:tables/mermaid_BRCA1.md]]
 
 ## References
 

@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_ATIC.md]]
+[[include:tables/mermaid_ATIC.md]]
 
 ## References
 

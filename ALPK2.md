@@ -53,6 +53,6 @@ nocite: |
 &starf; &star; &star; &star; &star;
 
 
-[[include:mermaid_ALPK2.md]]
+[[include:tables/mermaid_ALPK2.md]]
 
 ## References

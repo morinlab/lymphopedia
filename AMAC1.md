@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_AMAC1.md]]
+[[include:tables/mermaid_AMAC1.md]]
 
 ## References
 

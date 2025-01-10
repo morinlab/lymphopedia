@@ -88,6 +88,6 @@ Driver mutations affecting this gene in BL/FL/DLBCL have been experimentally dem
 [747](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/747_reports.html)
 
 
-[[include:mermaid_BCL6.md]]
+[[include:tables/mermaid_BCL6.md]]
 
 ## References

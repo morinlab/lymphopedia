@@ -19,7 +19,7 @@ nocite: |
 
 [[include:tables/DLBCL_ADH7.md]]
 
-[[include:mermaid_ADH7.md]]
+[[include:tables/mermaid_ADH7.md]]
 
 ## References
 

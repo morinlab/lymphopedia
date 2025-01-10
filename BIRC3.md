@@ -44,6 +44,6 @@ nocite: |
 <!-- MCL: beaLandscapeSomaticMutations2013 -->
 <!-- DLBCL: arthurGenomewideDiscoverySomatic2018 -->
 
-[[include:mermaid_BIRC3.md]]
+[[include:tables/mermaid_BIRC3.md]]
 
 ## References

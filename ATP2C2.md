@@ -58,6 +58,6 @@ Due to [minimal support](ATP2C2#representative-mutation) in the original primary
 [667](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/667_reports.html)
 [677](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/677_reports.html)
 
-[[include:mermaid_ATP2C2.md]]
+[[include:tables/mermaid_ATP2C2.md]]
 
 ## References

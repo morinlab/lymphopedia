@@ -43,7 +43,7 @@ BIRC6, as a negative regulator of non-canonical NF-κB signaling, is implicated 
 <!-- DLBCL: reddyGeneticFunctionalDrivers2017 -->
 <!-- PMBL: sarkozyMutationalLandscapeGray2021a -->
 
-[[include:mermaid_BIRC6.md]]
+[[include:tables/mermaid_BIRC6.md]]
 
 ## References
 

@@ -16,7 +16,7 @@ nocite: |
 
 [[include:tables/DLBCL_ABCA3.md]]
 
-[[include:mermaid_ABCA3.md]]
+[[include:tables/mermaid_ABCA3.md]]
 
 ## References
 

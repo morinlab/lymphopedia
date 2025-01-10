@@ -58,7 +58,7 @@ Driver mutations affecting this gene in BL/DLBCL/FL have been experimentally dem
 <!-- BL: grandeGenomewideDiscoverySomatic2019 -->
 <!-- DLBCL: arthurGenomewideDiscoverySomatic2018 -->
 
-[[include:mermaid_BCL7A.md]]
+[[include:tables/mermaid_BCL7A.md]]
 
 ## References
 

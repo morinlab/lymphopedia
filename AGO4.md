@@ -29,6 +29,6 @@ nocite: |
 <!-- ORIGIN: burkhardtClinicalRelevanceMolecular2022b -->
 <!-- BL: burkhardtClinicalRelevanceMolecular2022b -->
 
-[[include:mermaid_AGO4.md]]
+[[include:tables/mermaid_AGO4.md]]
 
 ## References

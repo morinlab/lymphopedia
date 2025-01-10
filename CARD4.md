@@ -27,3 +27,22 @@ nocite: |
 
 [[include:browser_CARD4.md]]
 
+<!-- ORIGIN: loveGeneticLandscapeMutations2012 -->
+<!-- BL: loveGeneticLandscapeMutations2012 -->
+
+## Representative Mutations
+
+![](primary/Love_CARD4.svg)
+**Rating**
+&starf; &starf; &starf; &starf; &star;
+
+
+## All Mutations
+
+[1092](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/1092_reports.html)
+[674](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/674_reports.html)
+[747](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/747_reports.html)
+
+[[include:tables/mermaid_CARD4.md]]
+
+## References

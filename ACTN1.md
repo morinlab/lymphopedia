@@ -19,7 +19,7 @@ nocite: |
 
 [[include:tables/DLBCL_ACTN1]]
 
-[[include:mermaid_ACTN1.md]]
+[[include:tables/mermaid_ACTN1.md]]
 
 ## References
 

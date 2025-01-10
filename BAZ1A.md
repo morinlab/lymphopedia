@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_BAZ1A.md]]
+[[include:tables/mermaid_BAZ1A.md]]
 
 ## References
 

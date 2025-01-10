@@ -27,7 +27,7 @@ nocite: |
 |MCL|GAMBL Genome |0.585 |
 
 
-[[include:mermaid_ARIH2.md]]
+[[include:tables/mermaid_ARIH2.md]]
 
 ## References
 

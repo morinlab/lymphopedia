@@ -51,7 +51,7 @@ BCL10 missense mutations in the CARD domain and truncating mutations have distin
 
 ![](images/gene_expression/BCL10_by_pathology.svg)
 
-[[include:mermaid_BCL10.md]]
+[[include:tables/mermaid_BCL10.md]]
 
 ## References
 

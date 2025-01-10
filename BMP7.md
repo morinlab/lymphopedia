@@ -49,6 +49,6 @@ nocite: |
 <!-- ORIGIN: paneaWholeGenomeLandscape2019 -->
 <!-- BL: paneaWholeGenomeLandscape2019 -->
 
-[[include:mermaid_BMP7.md]]
+[[include:tables/mermaid_BMP7.md]]
 
 ## References

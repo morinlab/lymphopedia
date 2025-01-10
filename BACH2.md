@@ -41,7 +41,7 @@ Driver mutations affecting this gene in BL have been experimentally demonstrated
 ## Expression
 ![](images/gene_expression/BACH2_by_pathology.svg)
 
-[[include:mermaid_BACH2.md]]
+[[include:tables/mermaid_BACH2.md]]
 
 ## References
 

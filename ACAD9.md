@@ -50,7 +50,7 @@ Due to [minimal support](ACAD9#representative-mutation) in the original primary 
 [851](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/851_reports.html)
 
 
-[[include:mermaid_ACAD9.md]]
+[[include:tables/mermaid_ACAD9.md]]
 
 ## References
 

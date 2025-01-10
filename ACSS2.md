@@ -19,7 +19,7 @@ nocite: |
 
 [[include:tables/DLBCL_ACSS2]]
 
-[[include:mermaid_ACSS2.md]]
+[[include:tables/mermaid_ACSS2.md]]
 
 ## References
 

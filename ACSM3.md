@@ -16,7 +16,7 @@ nocite: |
 [[include:table1_ACSM3]]
 
 
-[[include:mermaid_ACSM3.md]]
+[[include:tables/mermaid_ACSM3.md]]
 
 ## References
 

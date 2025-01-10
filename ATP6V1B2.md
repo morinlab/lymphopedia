@@ -38,6 +38,6 @@ Driver mutations affecting this gene in FL have been experimentally demonstrated
 <!-- ORIGIN: okosunRecurrentMTORC1activatingRRAGC2016a -->
 <!-- FL: okosunRecurrentMTORC1activatingRRAGC2016a -->
 
-[[include:mermaid_ATP6V1B2.md]]
+[[include:tables/mermaid_ATP6V1B2.md]]
 
 ## References

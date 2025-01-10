@@ -28,6 +28,6 @@ nocite: |
 <!-- ORIGIN: okosunRecurrentMTORC1activatingRRAGC2016a -->
 <!-- FL: okosunRecurrentMTORC1activatingRRAGC2016a -->
 
-[[include:mermaid_ATP6AP1.md]]
+[[include:tables/mermaid_ATP6AP1.md]]
 
 ## References

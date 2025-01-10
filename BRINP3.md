@@ -109,7 +109,7 @@ Details[@drevalRevisitingReddyDLBCL2023]
 Source[@reddyGeneticFunctionalDrivers2017]
 
 
-[[include:mermaid_BRINP3.md]]
+[[include:tables/mermaid_BRINP3.md]]
 
 ## References
 

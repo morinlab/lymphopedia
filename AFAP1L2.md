@@ -25,7 +25,7 @@ nocite: |
 
 [[include:tables/dnds_AFAP1L2.md]]
 
-[[include:mermaid_AFAP1L2.md]]
+[[include:tables/mermaid_AFAP1L2.md]]
 
 ## References
 

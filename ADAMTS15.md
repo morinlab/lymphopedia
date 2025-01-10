@@ -19,7 +19,7 @@ nocite: |
 
 [[include:tables/DLBCL_ADAMTS15.md]]
 
-[[include:mermaid_ADAMTS15.md]]
+[[include:tables/mermaid_ADAMTS15.md]]
 
 ## References
 

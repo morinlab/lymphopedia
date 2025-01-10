@@ -104,7 +104,7 @@ nocite: |
 [Reddy_813T](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Reddy/igv_reports/Reddy_813T.html)
 [Reddy_830T](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Reddy/igv_reports/Reddy_830T.html)
 
-[[include:mermaid_ARID5B.md]]
+[[include:tables/mermaid_ARID5B.md]]
 
 ## References
 

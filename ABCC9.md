@@ -16,7 +16,7 @@ nocite: |
 [[include:table1_ABCC9]]
 
 
-[[include:mermaid_ABCC9.md]]
+[[include:tables/mermaid_ABCC9.md]]
 
 ## References
 

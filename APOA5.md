@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_APOA5.md]]
+[[include:tables/mermaid_APOA5.md]]
 
 ## References
 

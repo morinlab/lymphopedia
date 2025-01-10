@@ -16,7 +16,7 @@ nocite: |
 [[include:table1_AHR]]
 
 
-[[include:mermaid_AHR.md]]
+[[include:tables/mermaid_AHR.md]]
 
 ## References
 

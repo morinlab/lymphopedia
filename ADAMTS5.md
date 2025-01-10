@@ -30,6 +30,6 @@ nocite: |
 <!-- ORIGIN: burkhardtClinicalRelevanceMolecular2022b -->
 <!-- BL: burkhardtClinicalRelevanceMolecular2022b -->
 
-[[include:mermaid_ADAMTS5.md]]
+[[include:tables/mermaid_ADAMTS5.md]]
 
 ## References

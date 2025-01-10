@@ -27,7 +27,7 @@ nocite: |
 |MCL|GAMBL Genome |1.17 |
 
 
-[[include:mermaid_AXDND1.md]]
+[[include:tables/mermaid_AXDND1.md]]
 
 ## References
 

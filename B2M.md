@@ -71,6 +71,6 @@ B2M mutations in B-cell lymphomas, particularly in DLBCL and PMBCL, lead to redu
 <!-- MCL: pararajalingamCodingNoncodingDrivers2020 -->
 <!-- DLBCL: morinFrequentMutationHistonemodifying2011 -->
 
-[[include:mermaid_B2M.md]]
+[[include:tables/mermaid_B2M.md]]
 
 ## References

@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_ANTXR1.md]]
+[[include:tables/mermaid_ANTXR1.md]]
 
 ## References
 

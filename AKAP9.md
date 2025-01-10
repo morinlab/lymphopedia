@@ -16,7 +16,7 @@ nocite: |
 [[include:table1_AKAP9]]
 
 
-[[include:mermaid_AKAP9.md]]
+[[include:tables/mermaid_AKAP9.md]]
 
 ## References
 

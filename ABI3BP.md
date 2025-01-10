@@ -38,7 +38,7 @@ Mutations were first described in DLBCL in 2013 by Morin et al.[@morinMutational
 [RG067](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG067.html)
 [RG081](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG081.html)
 
-[[include:mermaid_ABI3BP.md]]
+[[include:tables/mermaid_ABI3BP.md]]
 
 ## References
 

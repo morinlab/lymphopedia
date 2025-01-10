@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_AMIGO3.md]]
+[[include:tables/mermaid_AMIGO3.md]]
 
 ## References
 

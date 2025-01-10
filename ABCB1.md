@@ -12,7 +12,7 @@ nocite: |
 
 [[include:table1_ABCB1.md]]
 
-[[include:mermaid_ABCB1.md]]
+[[include:tables/mermaid_ABCB1.md]]
 
 ## References
 

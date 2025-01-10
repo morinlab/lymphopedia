@@ -27,7 +27,7 @@ nocite: |
 |FL|GAMBL Exome |2.292 |
 
 
-[[include:mermaid_AKAP6.md]]
+[[include:tables/mermaid_AKAP6.md]]
 
 ## References
 

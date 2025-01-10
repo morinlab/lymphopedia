@@ -19,7 +19,7 @@ nocite: |
 
 [[include:tables/DLBCL_ALAS1]]
 
-[[include:mermaid_ALAS1.md]]
+[[include:tables/mermaid_ALAS1.md]]
 
 ## References
 

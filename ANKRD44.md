@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_ANKRD44.md]]
+[[include:tables/mermaid_ANKRD44.md]]
 
 ## References
 

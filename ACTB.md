@@ -58,7 +58,7 @@ ACTB is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) 
 ## Expression
 ![](images/gene_expression/ACTB_by_pathology.svg)
 
-[[include:mermaid_ACTB.md]]
+[[include:tables/mermaid_ACTB.md]]
 
 ## References
 

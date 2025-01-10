@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_ATP1A2.md]]
+[[include:tables/mermaid_ATP1A2.md]]
 
 ## References
 

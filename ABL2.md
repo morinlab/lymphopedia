@@ -27,7 +27,7 @@ nocite: |
 ![](images/gene_expression/ABL2_by_pathology.svg)
 
 
-[[include:mermaid_ABL2.md]]
+[[include:tables/mermaid_ABL2.md]]
 
 ## References
 

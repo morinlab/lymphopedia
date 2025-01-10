@@ -95,7 +95,7 @@ Mutations in this gene were first described in DLBCL in 2017 by Reddy et al.[@re
 [Reddy_705T](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Reddy/igv_reports/Reddy_705T.html)
 
 
-[[include:mermaid_ATR.md]]
+[[include:tables/mermaid_ATR.md]]
 
 ## References
  

@@ -17,7 +17,7 @@ nocite: |
 
 
 
-[[include:mermaid_AGA.md]]
+[[include:tables/mermaid_AGA.md]]
 
 ## References
 

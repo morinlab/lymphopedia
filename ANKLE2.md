@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_ANKLE2.md]]
+[[include:tables/mermaid_ANKLE2.md]]
 
 ## References
 

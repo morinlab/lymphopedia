@@ -64,7 +64,7 @@ Although missense mutations may not be under positive selective pressure in the 
 <!-- BL: burkhardtClinicalRelevanceMolecular2022b -->
 <!-- DLBCL: tanakaFrequentIncidenceSomatic1992 -->
 
-[[include:mermaid_BCL2.md]]
+[[include:tables/mermaid_BCL2.md]]
 
 ## References
 

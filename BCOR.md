@@ -53,7 +53,7 @@ BCOR acts as a co-repressor of BCL6, and mutations in BCOR could impair its bind
 <!-- MCL: nadeuGenomicEpigenomicInsights2020a -->
 <!-- MZL: jalladesExomeSequencingIdentifies2017 -->
 
-[[include:mermaid_BCOR.md]]
+[[include:tables/mermaid_BCOR.md]]
 
 ## References
 
