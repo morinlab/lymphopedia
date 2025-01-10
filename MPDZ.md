@@ -47,6 +47,6 @@ nocite: |
 [RG115](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG115.html)
 [RG130](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG130.html)
 
-[[include:mermaid_MPDZ.md]]
+[[include:tables/mermaid_MPDZ.md]]
 
 ## References

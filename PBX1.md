@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_PBX1.md]]
+[[include:tables/mermaid_PBX1.md]]
 
 ## References
 

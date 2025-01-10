@@ -39,7 +39,7 @@ nocite: |
 <!-- ORIGIN: arthurGenomewideDiscoverySomatic2018 -->
 <!-- DLBCL: arthurGenomewideDiscoverySomatic2018 -->
 
-[[include:mermaid_NEAT1.md]]
+[[include:tables/mermaid_NEAT1.md]]
 
 ## References
 

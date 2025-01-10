@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_PAPPA2.md]]
+[[include:tables/mermaid_PAPPA2.md]]
 
 ## References
 

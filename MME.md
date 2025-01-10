@@ -42,7 +42,7 @@ nocite: |
 <!-- ORIGIN: paneaWholeGenomeLandscape2019 -->
 <!-- BL: paneaWholeGenomeLandscape2019 -->
 
-[[include:mermaid_MME.md]]
+[[include:tables/mermaid_MME.md]]
 
 ## References
 

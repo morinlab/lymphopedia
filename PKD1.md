@@ -39,6 +39,6 @@ nocite: |
 [RG023](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG023.html)
 [RG116](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG116.html)
 
-[[include:mermaid_PKD1.md]]
+[[include:tables/mermaid_PKD1.md]]
 
 ## References

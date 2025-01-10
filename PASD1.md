@@ -28,7 +28,7 @@ nocite: |
 |MCL|GAMBL Genome |0.585 |
 
 
-[[include:mermaid_PASD1.md]]
+[[include:tables/mermaid_PASD1.md]]
 
 ## References
 

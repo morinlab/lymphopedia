@@ -38,7 +38,7 @@ Driver mutations affecting this gene in BL/DLBCL have been experimentally demons
 ## Expression
 ![](images/gene_expression/P2RY8_by_pathology.svg)
 
-[[include:mermaid_P2RY8.md]]
+[[include:tables/mermaid_P2RY8.md]]
 
 ## References
 

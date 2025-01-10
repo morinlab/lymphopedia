@@ -38,6 +38,6 @@ The prevalence of MYOM2 mutations in DLBCL varies across studies. The role of th
 <!-- ORIGIN: pasqualucciAnalysisCodingGenome2011 -->
 <!-- DLBCL: pasqualucciAnalysisCodingGenome2011 -->
 
-[[include:mermaid_MYOM2.md]]
+[[include:tables/mermaid_MYOM2.md]]
 
 ## References

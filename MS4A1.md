@@ -43,7 +43,7 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 ## Expression
 ![](images/gene_expression/MS4A1_by_pathology.svg)
 
-[[include:mermaid_MS4A1.md]]
+[[include:tables/mermaid_MS4A1.md]]
 
 ## References
 <!-- ORIGIN: mottokIntegrativeGenomicAnalysis2019b -->

@@ -42,6 +42,6 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 <!-- FL: russler-germainMutationsAssociatedProgression2023b -->
 <!-- PMBL: wienandGenomicAnalysesFlowsorted2019b -->
 
-[[include:mermaid_NFKBIA.md]]
+[[include:tables/mermaid_NFKBIA.md]]
 
 ## References

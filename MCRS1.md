@@ -26,7 +26,7 @@ nocite: |
 |DLBCL|GAMBL Genome |0.376 |
 
 
-[[include:mermaid_MCRS1.md]]
+[[include:tables/mermaid_MCRS1.md]]
 
 ## References
 

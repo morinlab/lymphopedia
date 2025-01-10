@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_MYRIP.md]]
+[[include:tables/mermaid_MYRIP.md]]
 
 ## References
 

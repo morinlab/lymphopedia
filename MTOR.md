@@ -65,7 +65,7 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 &starf; &star; &star; &star; &star; 
 
 
-[[include:mermaid_MTOR.md]]
+[[include:tables/mermaid_MTOR.md]]
 
 ## References
 

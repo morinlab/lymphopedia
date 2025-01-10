@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_PDGFRB.md]]
+[[include:tables/mermaid_PDGFRB.md]]
 
 ## References
 

@@ -41,7 +41,7 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 ## Expression
 ![](images/gene_expression/NFKBIZ_by_pathology.svg)
 
-[[include:mermaid_NFKBIZ.md]]
+[[include:tables/mermaid_NFKBIZ.md]]
 
 ## References
 

@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_NFX1.md]]
+[[include:tables/mermaid_NFX1.md]]
 
 ## References
 

@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_PCDHB5.md]]
+[[include:tables/mermaid_PCDHB5.md]]
 
 ## References
 

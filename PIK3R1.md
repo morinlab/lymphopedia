@@ -67,7 +67,7 @@ Mutations in this gene were first described in DLBCL in 2013[@zhangGeneticHetero
 **Rating**
 &starf; &star; &star; &star; &star;
 
-[[include:mermaid_PIK3R1.md]]
+[[include:tables/mermaid_PIK3R1.md]]
 
 ## References
 

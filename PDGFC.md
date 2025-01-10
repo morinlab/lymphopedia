@@ -26,7 +26,7 @@ nocite: |
 |DLBCL|GAMBL Genome |1.316 |
 
 
-[[include:mermaid_PDGFC.md]]
+[[include:tables/mermaid_PDGFC.md]]
 
 ## References
 

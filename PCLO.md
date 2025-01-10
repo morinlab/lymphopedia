@@ -40,7 +40,7 @@ nocite: |
 ## Expression
 ![](images/gene_expression/PCLO_by_pathology.svg)
 
-[[include:mermaid_PCLO.md]]
+[[include:tables/mermaid_PCLO.md]]
 
 ## References
 

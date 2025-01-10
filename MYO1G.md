@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_MYO1G.md]]
+[[include:tables/mermaid_MYO1G.md]]
 
 ## References
 

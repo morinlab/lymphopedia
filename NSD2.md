@@ -32,7 +32,7 @@ nocite: |
 <!-- ORIGIN: beaLandscapeSomaticMutations2013 -->
 <!-- MCL: beaLandscapeSomaticMutations2013 -->
 
-[[include:mermaid_NSD2.md]]
+[[include:tables/mermaid_NSD2.md]]
 
 ## References
 

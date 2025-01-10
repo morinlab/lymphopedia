@@ -36,6 +36,6 @@ nocite: |
 <!-- BL: schmitzBurkittLymphomaPathogenesis2012 -->
 <!-- FL: russler-germainMutationsAssociatedProgression2023b -->
 
-[[include:mermaid_MKI67.md]]
+[[include:tables/mermaid_MKI67.md]]
 
 ## References

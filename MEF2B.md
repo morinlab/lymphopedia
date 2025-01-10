@@ -77,6 +77,6 @@ Mutations in the transcriptional activation domain, like N81, can enhance the ab
 <!-- MCL: beaLandscapeSomaticMutations2013 -->
 <!-- FL: morinFrequentMutationHistonemodifying2011 -->
 
-[[include:mermaid_MEF2B.md]]
+[[include:tables/mermaid_MEF2B.md]]
 
 ## References

@@ -38,7 +38,7 @@ OSBPL10 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ash
 <!-- ORIGIN: arthurGenomewideDiscoverySomatic2018 -->
 <!-- DLBCL: arthurGenomewideDiscoverySomatic2018 -->
 
-[[include:mermaid_OSBPL10.md]]
+[[include:tables/mermaid_OSBPL10.md]]
 
 ## References
 

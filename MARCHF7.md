@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_MARCHF7.md]]
+[[include:tables/mermaid_MARCHF7.md]]
 
 ## References
 

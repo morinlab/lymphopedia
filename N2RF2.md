@@ -24,7 +24,7 @@ nocite: |
 |:------:|:----:|:----:|
 
 
-[[include:mermaid_N2RF2.md]]
+[[include:tables/mermaid_N2RF2.md]]
 
 ## References
 

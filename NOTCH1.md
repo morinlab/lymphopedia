@@ -73,7 +73,7 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 [508](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/508_reports.html)
 [513](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/513_reports.html)
 
-[[include:mermaid_NOTCH1.md]]
+[[include:tables/mermaid_NOTCH1.md]]
 
 ## References
 

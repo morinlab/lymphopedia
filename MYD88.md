@@ -42,6 +42,6 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 <!-- DLBCL: ngoOncogenicallyActiveMYD882011a -->
 <!-- MZL: yanBCRTLRSignaling2012a -->
 
-[[include:mermaid_MYD88.md]]
+[[include:tables/mermaid_MYD88.md]]
 
 ## References

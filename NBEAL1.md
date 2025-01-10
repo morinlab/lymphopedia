@@ -44,6 +44,6 @@ nocite: |
 [1092](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/1092_reports.html)
 [849](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/849_reports.html)
 
-[[include:mermaid_NBEAL1.md]]
+[[include:tables/mermaid_NBEAL1.md]]
 
 ## References

@@ -114,7 +114,7 @@ MCL1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) 
 
 
 
-[[include:mermaid_MCL1.md]]
+[[include:tables/mermaid_MCL1.md]]
 
 ## References
 

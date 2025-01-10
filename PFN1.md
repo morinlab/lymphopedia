@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_PFN1.md]]
+[[include:tables/mermaid_PFN1.md]]
 
 ## References
 

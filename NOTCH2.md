@@ -43,6 +43,6 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 <!-- MZL: rossiCodingGenomeSplenic2012c -->
 
 
-[[include:mermaid_NOTCH2.md]]
+[[include:tables/mermaid_NOTCH2.md]]
 
 ## References

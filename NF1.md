@@ -35,7 +35,7 @@ nocite: |
 <!-- ORIGIN: reddyGeneticFunctionalDrivers2017 -->
 <!-- DLBCL: reddyGeneticFunctionalDrivers2017 -->
 
-[[include:mermaid_NF1.md]]
+[[include:tables/mermaid_NF1.md]]
 
 ## References
 

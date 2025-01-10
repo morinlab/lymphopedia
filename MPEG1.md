@@ -29,7 +29,7 @@ Mutations in MPEG1 have been described in DLBCL[@morinMutationalStructuralAnalys
 ## Expression
 ![](images/gene_expression/MPEG1_by_pathology.svg)
 
-[[include:mermaid_MPEG1.md]]
+[[include:tables/mermaid_MPEG1.md]]
 
 ## References
 

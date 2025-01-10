@@ -40,6 +40,6 @@ PIM2 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) 
 <!-- DLBCL: arthurGenomewideDiscoverySomatic2018 -->
 <!-- PMBL: reichelFlowSortingExome2015a -->
 
-[[include:mermaid_PIM2.md]]
+[[include:tables/mermaid_PIM2.md]]
 
 ## References

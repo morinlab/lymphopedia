@@ -32,7 +32,7 @@ nocite: |
 <!-- ORIGIN: burkhardtClinicalRelevanceMolecular2022b -->
 <!-- BL: burkhardtClinicalRelevanceMolecular2022b -->
 
-[[include:mermaid_NOA1.md]]
+[[include:tables/mermaid_NOA1.md]]
 
 ## References
 

@@ -51,6 +51,6 @@ nocite: |
 [677](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/677_reports.html)
 
 
-[[include:mermaid_MYH10.md]]
+[[include:tables/mermaid_MYH10.md]]
 
 ## References

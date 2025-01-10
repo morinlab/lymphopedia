@@ -33,7 +33,7 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 ## Expression
 ![](images/gene_expression/MGA_by_pathology.svg)
 
-[[include:mermaid_MGA.md]]
+[[include:tables/mermaid_MGA.md]]
 
 ## References
 

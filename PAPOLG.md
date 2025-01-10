@@ -35,7 +35,7 @@ nocite: |
 <!-- ORIGIN: schmitzGeneticsPathogenesisDiffuse2018a -->
 <!-- DLBCL: schmitzGeneticsPathogenesisDiffuse2018a -->
 
-[[include:mermaid_PAPOLG.md]]
+[[include:tables/mermaid_PAPOLG.md]]
 
 ## References
 

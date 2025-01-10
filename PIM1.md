@@ -84,7 +84,7 @@ Driver mutations affecting this gene in FL/DLBCL have been experimentally demons
 <!-- BL: burkhardtClinicalRelevanceMolecular2022b -->
 <!-- DLBCL: pasqualucciHypermutationMultipleProtooncogenes2001a -->
 
-[[include:mermaid_PIM1.md]]
+[[include:tables/mermaid_PIM1.md]]
 
 ## References
 

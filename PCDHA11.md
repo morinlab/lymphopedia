@@ -48,6 +48,6 @@ nocite: |
 **Rating**
 &starf; &star; &star; &star; &star; 
 
-[[include:mermaid_PCDHA11.md]]
+[[include:tables/mermaid_PCDHA11.md]]
 
 ## References

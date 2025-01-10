@@ -41,6 +41,6 @@ nocite: |
 <!-- ORIGIN: schmitzBurkittLymphomaPathogenesis2012 -->
 <!-- BL: schmitzBurkittLymphomaPathogenesis2012 -->
 
-[[include:mermaid_PCBP1.md]]
+[[include:tables/mermaid_PCBP1.md]]
 
 # References

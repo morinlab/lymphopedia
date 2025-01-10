@@ -57,7 +57,7 @@ Due to [minimal support](PC#representative-mutations) in the original primary da
 [512](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/512_reports.html)
 [742](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/742_reports.html)
 
-[[include:mermaid_PC.md]]
+[[include:tables/mermaid_PC.md]]
 
 ## References
 

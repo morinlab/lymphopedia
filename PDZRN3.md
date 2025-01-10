@@ -48,7 +48,7 @@ nocite: |
 **Rating**
 &starf; &starf; &star; &star; &star; 
 
-[[include:mermaid_PDZRN3.md]]
+[[include:tables/mermaid_PDZRN3.md]]
 
 ## References
 

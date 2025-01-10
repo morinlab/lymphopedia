@@ -25,7 +25,7 @@ nocite: |
 |DLBCL|GAMBL Genome |0.188 |
 
 
-[[include:mermaid_OR6K3.md]]
+[[include:tables/mermaid_OR6K3.md]]
 
 ## References
 

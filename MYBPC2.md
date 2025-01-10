@@ -35,6 +35,6 @@ nocite: |
 <!-- ORIGIN: schmitzGeneticsPathogenesisDiffuse2018a -->
 <!-- DLBCL: schmitzGeneticsPathogenesisDiffuse2018a -->
 
-[[include:mermaid_MYBPC2.md]]
+[[include:tables/mermaid_MYBPC2.md]]
 
 ## References

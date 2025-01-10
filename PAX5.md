@@ -44,7 +44,7 @@ nocite: |
 <!-- ORIGIN: pasqualucciHypermutationMultipleProtooncogenes2001a -->
 <!-- DLBCL: pasqualucciHypermutationMultipleProtooncogenes2001a -->
 
-[[include:mermaid_PAX5.md]]
+[[include:tables/mermaid_PAX5.md]]
 
 ## References
 

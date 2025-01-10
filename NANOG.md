@@ -34,7 +34,7 @@ nocite: |
 <!-- ORIGIN: chapuyMolecularSubtypesDiffuse2018b -->
 <!-- DLBCL: chapuyMolecularSubtypesDiffuse2018b -->
 
-[[include:mermaid_NANOG.md]]
+[[include:tables/mermaid_NANOG.md]]
 
 ## References
 

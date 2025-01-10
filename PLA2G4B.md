@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_PLA2G4B.md]]
+[[include:tables/mermaid_PLA2G4B.md]]
 
 ## References
 

@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_MSN.md]]
+[[include:tables/mermaid_MSN.md]]
 
 ## References
 

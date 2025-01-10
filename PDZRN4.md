@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_PDZRN4.md]]
+[[include:tables/mermaid_PDZRN4.md]]
 
 ## References
 

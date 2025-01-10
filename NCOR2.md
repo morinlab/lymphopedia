@@ -44,7 +44,7 @@ Mutations in this gene are relatively rare in DLBCL overall but show a pattern o
 <!-- BL: schmitzBurkittLymphomaPathogenesis2012 -->
 <!-- BL: schmitzBurkittLymphomaPathogenesis2012 -->
 
-[[include:mermaid_NCOR2.md]]
+[[include:tables/mermaid_NCOR2.md]]
 
 ## References
 <!-- PMBL: sarkozyMutationalLandscapeGray2021a -->

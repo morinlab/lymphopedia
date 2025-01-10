@@ -81,7 +81,7 @@ Driver mutations affecting this gene in DLBCL/FL/BL have been experimentally dem
 
 ![](images/gene_expression/MYC_by_pathology.svg)
 
-[[include:mermaid_MYC.md]]
+[[include:tables/mermaid_MYC.md]]
 
 ## References
 

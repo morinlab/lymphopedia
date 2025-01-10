@@ -33,6 +33,6 @@ nocite: |
 <!-- ORIGIN: schmitzBurkittLymphomaPathogenesis2012 -->
 <!-- BL: schmitzBurkittLymphomaPathogenesis2012 -->
 
-[[include:mermaid_PDCD11.md]]
+[[include:tables/mermaid_PDCD11.md]]
 
 ## References

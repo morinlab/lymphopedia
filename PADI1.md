@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_PADI1.md]]
+[[include:tables/mermaid_PADI1.md]]
 
 ## References
 

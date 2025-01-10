@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_PLCB4.md]]
+[[include:tables/mermaid_PLCB4.md]]
 
 ## References
 

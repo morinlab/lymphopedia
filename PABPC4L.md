@@ -53,7 +53,7 @@ nocite: |
 &starf; &starf; &star; &star; &star;
 
 
-[[include:mermaid_PABPC4L.md]]
+[[include:tables/mermaid_PABPC4L.md]]
 
 ## References
 

@@ -41,7 +41,7 @@ nocite: |
 [RG068](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG068.html)
 [RG142](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG142.html)
 
-[[include:mermaid_PASK.md]]
+[[include:tables/mermaid_PASK.md]]
 
 ## References
 

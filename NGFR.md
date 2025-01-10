@@ -19,7 +19,7 @@ nocite: |
 
 
 
-[[include:mermaid_NGFR.md]]
+[[include:tables/mermaid_NGFR.md]]
 
 ## References
 

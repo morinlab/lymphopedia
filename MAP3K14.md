@@ -23,7 +23,7 @@ nocite: |
 |DLBCL|GAMBL Exome |0.162 |
 
 
-[[include:mermaid_MAP3K14.md]]
+[[include:tables/mermaid_MAP3K14.md]]
 
 ## References
 

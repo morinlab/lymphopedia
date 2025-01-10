@@ -40,7 +40,7 @@ Mutations in this gene were first described in FL in 2021 by Hübschmann et al.[
 [SP194212](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP194212.html)
 [SP194216](https://www.bcgsc.ca/downloads/morinlab/GAMBL/MALY/SP194216.html)
 
-[[include:mermaid_MYCBP2.md]]
+[[include:tables/mermaid_MYCBP2.md]]
 
 ## References
 

@@ -32,7 +32,7 @@ nocite: |
 ## Expression
 ![](images/gene_expression/MYO18A_by_pathology.svg)
 
-[[include:mermaid_MYO18A.md]]
+[[include:tables/mermaid_MYO18A.md]]
 
 ## References
 

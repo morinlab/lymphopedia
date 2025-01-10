@@ -44,7 +44,7 @@ Mutations in this gene were first described in DLBCL by [Arthur et al](papers/ar
 ## Expression
 ![](images/gene_expression/MEF2C_by_pathology.svg)
 
-[[include:mermaid_MEF2C.md]]
+[[include:tables/mermaid_MEF2C.md]]
 
 ## References
 

@@ -36,7 +36,7 @@ nocite: |
 <!-- DLBCL: schmitzGeneticsPathogenesisDiffuse2018a -->
 <!-- MZL: spinaGeneticsNodalMarginal2016b -->
 
-[[include:mermaid_NOL9.md]]
+[[include:tables/mermaid_NOL9.md]]
 
 ## References
 
