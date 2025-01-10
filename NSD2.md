@@ -17,6 +17,9 @@ nocite: |
 ### MCL
 [[include:tables/MCL_NSD2]]
 
+### DLBCL
+[[include:tables/DLBCL_NSD2]]
+
 <!---
 ## Mutation pattern and selective pressure estimates
 
