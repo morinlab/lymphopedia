@@ -7,8 +7,6 @@ nocite: |
 ---
 [[_TOC_]]
 
-
-
 ## Overview
 
 This gene encodes the H2A protein, one of the core proteins comprising nucleosomes. Although relatively common in DLBCL, little is known about the function of these mutations. 
@@ -75,4 +73,9 @@ This gene encodes the H2A protein, one of the core proteins comprising nucleosom
 | chr6 | 27860538 | C>G | K130N |
 
 [[include:browser_HIST1H2AM.md]]
+
+
+[[include:tables/mermaid_HIST1H2AM.md]]
+
+## References
 
