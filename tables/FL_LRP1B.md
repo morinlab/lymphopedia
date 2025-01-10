@@ -2,47 +2,61 @@
  <thead>
   <tr>
    <th style="text-align:left;"> pathology </th>
-   <th style="text-align:left;"> Samples </th>
+   <th style="text-align:left;"> Collection </th>
+   <th style="text-align:right;"> N </th>
+   <th style="text-align:right;"> mutated </th>
    <th style="text-align:right;"> Incidence </th>
    <th style="text-align:left;"> CI </th>
   </tr>
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:left;color: rgba(0, 0, 0, 255) !important;background-color: rgba(253, 209, 191, 255) !important;border-left:1px solid #DDDDDD;white-space: nowrap;"> FL </td>
-   <td style="text-align:left;color: rgba(0, 0, 0, 255) !important;background-color: rgba(253, 209, 191, 255) !important;border-left:1px solid #DDDDDD;white-space: nowrap;"> GAMBL without Crouch </td>
-   <td style="text-align:right;color: rgba(0, 0, 0, 255) !important;background-color: rgba(253, 209, 191, 255) !important;border-left:1px solid #DDDDDD;white-space: nowrap;"> <span style="     color: rgba(0, 0, 0, 255) !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: rgba(253, 209, 191, 255) !important;">0.0811</span> </td>
-   <td style="text-align:left;color: rgba(0, 0, 0, 255) !important;background-color: rgba(253, 209, 191, 255) !important;border-left:1px solid #DDDDDD;white-space: nowrap;"> [0.0599,0.1023] </td>
+   <td style="text-align:left;border-left:1px solid #DDDDDD;white-space: nowrap;"> FL </td>
+   <td style="text-align:left;border-left:1px solid #DDDDDD;white-space: nowrap;"> GAMBL without Crouch </td>
+   <td style="text-align:right;border-left:1px solid #DDDDDD;white-space: nowrap;"> 642 </td>
+   <td style="text-align:right;border-left:1px solid #DDDDDD;white-space: nowrap;"> 53 </td>
+   <td style="text-align:right;border-left:1px solid #DDDDDD;white-space: nowrap;"> <span style="     color: rgba(0, 0, 0, 255) !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: rgba(253, 209, 190, 255) !important;">0.0826</span> </td>
+   <td style="text-align:left;border-left:1px solid #DDDDDD;white-space: nowrap;"> [0.0613,0.1038] </td>
   </tr>
   <tr>
-   <td style="text-align:left;color: rgba(0, 0, 0, 255) !important;background-color: rgba(255, 245, 240, 255) !important;border-left:1px solid #DDDDDD;white-space: nowrap;"> FL </td>
-   <td style="text-align:left;color: rgba(0, 0, 0, 255) !important;background-color: rgba(255, 245, 240, 255) !important;border-left:1px solid #DDDDDD;white-space: nowrap;"> GAMBL with Crouch </td>
-   <td style="text-align:right;color: rgba(0, 0, 0, 255) !important;background-color: rgba(255, 245, 240, 255) !important;border-left:1px solid #DDDDDD;white-space: nowrap;"> <span style="     color: rgba(0, 0, 0, 255) !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: rgba(255, 245, 240, 255) !important;">0.0004</span> </td>
-   <td style="text-align:left;color: rgba(0, 0, 0, 255) !important;background-color: rgba(255, 245, 240, 255) !important;border-left:1px solid #DDDDDD;white-space: nowrap;"> [0,0.0015] </td>
+   <td style="text-align:left;border-left:1px solid #DDDDDD;white-space: nowrap;"> FL </td>
+   <td style="text-align:left;border-left:1px solid #DDDDDD;white-space: nowrap;"> GAMBL with Crouch </td>
+   <td style="text-align:right;border-left:1px solid #DDDDDD;white-space: nowrap;"> 1,189 </td>
+   <td style="text-align:right;border-left:1px solid #DDDDDD;white-space: nowrap;"> 53 </td>
+   <td style="text-align:right;border-left:1px solid #DDDDDD;white-space: nowrap;"> <span style="     color: rgba(0, 0, 0, 255) !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: rgba(255, 225, 213, 255) !important;">0.0446</span> </td>
+   <td style="text-align:left;border-left:1px solid #DDDDDD;white-space: nowrap;"> [0.0328,0.0563] </td>
   </tr>
   <tr>
-   <td style="text-align:left;color: rgba(0, 0, 0, 255) !important;background-color: rgba(253, 212, 195, 255) !important;border-left:1px solid #DDDDDD;white-space: nowrap;"> FL </td>
-   <td style="text-align:left;color: rgba(0, 0, 0, 255) !important;background-color: rgba(253, 212, 195, 255) !important;border-left:1px solid #DDDDDD;white-space: nowrap;"> BC </td>
-   <td style="text-align:right;color: rgba(0, 0, 0, 255) !important;background-color: rgba(253, 212, 195, 255) !important;border-left:1px solid #DDDDDD;white-space: nowrap;"> <span style="     color: rgba(0, 0, 0, 255) !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: rgba(253, 212, 195, 255) !important;">0.0751</span> </td>
-   <td style="text-align:left;color: rgba(0, 0, 0, 255) !important;background-color: rgba(253, 212, 195, 255) !important;border-left:1px solid #DDDDDD;white-space: nowrap;"> [0.0483,0.1018] </td>
+   <td style="text-align:left;border-left:1px solid #DDDDDD;white-space: nowrap;"> FL </td>
+   <td style="text-align:left;border-left:1px solid #DDDDDD;white-space: nowrap;"> BC </td>
+   <td style="text-align:right;border-left:1px solid #DDDDDD;white-space: nowrap;"> 379 </td>
+   <td style="text-align:right;border-left:1px solid #DDDDDD;white-space: nowrap;"> 28 </td>
+   <td style="text-align:right;border-left:1px solid #DDDDDD;white-space: nowrap;"> <span style="     color: rgba(0, 0, 0, 255) !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: rgba(254, 212, 195, 255) !important;">0.0739</span> </td>
+   <td style="text-align:left;border-left:1px solid #DDDDDD;white-space: nowrap;"> [0.0475,0.1002] </td>
   </tr>
   <tr>
-   <td style="text-align:left;color: rgba(0, 0, 0, 255) !important;background-color: rgba(253, 195, 172, 255) !important;border-left:1px solid #DDDDDD;white-space: nowrap;"> FL </td>
-   <td style="text-align:left;color: rgba(0, 0, 0, 255) !important;background-color: rgba(253, 195, 172, 255) !important;border-left:1px solid #DDDDDD;white-space: nowrap;"> Kalmbach </td>
-   <td style="text-align:right;color: rgba(0, 0, 0, 255) !important;background-color: rgba(253, 195, 172, 255) !important;border-left:1px solid #DDDDDD;white-space: nowrap;"> <span style="     color: rgba(0, 0, 0, 255) !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: rgba(253, 195, 172, 255) !important;">0.1098</span> </td>
-   <td style="text-align:left;color: rgba(0, 0, 0, 255) !important;background-color: rgba(253, 195, 172, 255) !important;border-left:1px solid #DDDDDD;white-space: nowrap;"> [0.0619,0.1576] </td>
+   <td style="text-align:left;border-left:1px solid #DDDDDD;white-space: nowrap;"> FL </td>
+   <td style="text-align:left;border-left:1px solid #DDDDDD;white-space: nowrap;"> Kalmbach </td>
+   <td style="text-align:right;border-left:1px solid #DDDDDD;white-space: nowrap;"> 164 </td>
+   <td style="text-align:right;border-left:1px solid #DDDDDD;white-space: nowrap;"> 18 </td>
+   <td style="text-align:right;border-left:1px solid #DDDDDD;white-space: nowrap;"> <span style="     color: rgba(0, 0, 0, 255) !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: rgba(253, 195, 172, 255) !important;">0.1098</span> </td>
+   <td style="text-align:left;border-left:1px solid #DDDDDD;white-space: nowrap;"> [0.0619,0.1576] </td>
   </tr>
   <tr>
-   <td style="text-align:left;color: rgba(0, 0, 0, 255) !important;background-color: rgba(255, 245, 240, 255) !important;border-left:1px solid #DDDDDD;white-space: nowrap;"> FL </td>
-   <td style="text-align:left;color: rgba(0, 0, 0, 255) !important;background-color: rgba(255, 245, 240, 255) !important;border-left:1px solid #DDDDDD;white-space: nowrap;"> Crouch </td>
-   <td style="text-align:right;color: rgba(0, 0, 0, 255) !important;background-color: rgba(255, 245, 240, 255) !important;border-left:1px solid #DDDDDD;white-space: nowrap;"> <span style="     color: rgba(0, 0, 0, 255) !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: rgba(255, 245, 240, 255) !important;">0.0002</span> </td>
-   <td style="text-align:left;color: rgba(0, 0, 0, 255) !important;background-color: rgba(255, 245, 240, 255) !important;border-left:1px solid #DDDDDD;white-space: nowrap;"> [0,0.0013] </td>
+   <td style="text-align:left;border-left:1px solid #DDDDDD;white-space: nowrap;"> FL </td>
+   <td style="text-align:left;border-left:1px solid #DDDDDD;white-space: nowrap;"> Crouch </td>
+   <td style="text-align:right;border-left:1px solid #DDDDDD;white-space: nowrap;"> 547 </td>
+   <td style="text-align:right;border-left:1px solid #DDDDDD;white-space: nowrap;"> 0 </td>
+   <td style="text-align:right;border-left:1px solid #DDDDDD;white-space: nowrap;"> <span style="     color: rgba(0, 0, 0, 255) !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: rgba(255, 245, 240, 255) !important;">0.0002</span> </td>
+   <td style="text-align:left;border-left:1px solid #DDDDDD;white-space: nowrap;"> [0,0.0013] </td>
   </tr>
   <tr>
-   <td style="text-align:left;color: rgba(0, 0, 0, 255) !important;background-color: rgba(254, 214, 197, 255) !important;border-left:1px solid #DDDDDD;white-space: nowrap;"> FL </td>
-   <td style="text-align:left;color: rgba(0, 0, 0, 255) !important;background-color: rgba(254, 214, 197, 255) !important;border-left:1px solid #DDDDDD;white-space: nowrap;"> FL_ICGC </td>
-   <td style="text-align:right;color: rgba(0, 0, 0, 255) !important;background-color: rgba(254, 214, 197, 255) !important;border-left:1px solid #DDDDDD;white-space: nowrap;"> <span style="     color: rgba(0, 0, 0, 255) !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: rgba(254, 214, 197, 255) !important;">0.0707</span> </td>
-   <td style="text-align:left;color: rgba(0, 0, 0, 255) !important;background-color: rgba(254, 214, 197, 255) !important;border-left:1px solid #DDDDDD;white-space: nowrap;"> [0.0202,0.1212] </td>
+   <td style="text-align:left;border-left:1px solid #DDDDDD;white-space: nowrap;"> FL </td>
+   <td style="text-align:left;border-left:1px solid #DDDDDD;white-space: nowrap;"> FL_ICGC </td>
+   <td style="text-align:right;border-left:1px solid #DDDDDD;white-space: nowrap;"> 99 </td>
+   <td style="text-align:right;border-left:1px solid #DDDDDD;white-space: nowrap;"> 7 </td>
+   <td style="text-align:right;border-left:1px solid #DDDDDD;white-space: nowrap;"> <span style="     color: rgba(0, 0, 0, 255) !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: rgba(254, 214, 197, 255) !important;">0.0707</span> </td>
+   <td style="text-align:left;border-left:1px solid #DDDDDD;white-space: nowrap;"> [0.0202,0.1212] </td>
   </tr>
 </tbody>
 </table>
