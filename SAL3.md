@@ -14,12 +14,7 @@ nocite: |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-|Entity|source               |frequency (%)|
-|:------:|:---------------------:|:-------------:|
-|BL    |GAMBL genomes+capture|NA           |
-|BL    |Thomas cohort        |NA           |
-|BL    |Panea cohort         |NA           |
-
+[[include:tables/BL_SAL3.md]]
 
 
 [[include:browser_SAL3.md]]
@@ -29,7 +24,7 @@ nocite: |
 <!-- ORIGIN: burkhardtClinicalRelevanceMolecular2022b -->
 <!-- BL: burkhardtClinicalRelevanceMolecular2022b -->
 
-[[include:mermaid_SAL3.md]]
+[[include:tables/mermaid_SAL3.md]]
 
 ## References
 

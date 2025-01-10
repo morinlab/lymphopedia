@@ -24,18 +24,29 @@ Due to [minimal support](C6orf27#representative-mutation) in the original primar
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-|Entity|source               |frequency (%)|
-|:------:|:---------------------:|:-------------:|
-|BL    |GAMBL genomes+capture|NA           |
-|BL    |Thomas cohort        |NA           |
-|BL    |Panea cohort         |NA           |
-
-## Mutation pattern and selective pressure estimates
-
-|
-
-
-
+[[include:tables/BL_C6orf27.md]]
 
 [[include:browser_C6orf27.md]]
 
+<!-- ORIGIN: loveGeneticLandscapeMutations2012 -->
+<!-- BL: loveGeneticLandscapeMutations2012 -->
+
+## Representative Mutations
+
+![](primary/Love_C6orf27.svg)
+**Rating** 
+&starf; &star; &star; &star; &star;
+
+![](primary/Love_C6orf27_germline.svg)
+**Although well supported in the data, this mutation is clearly germline**
+
+## All Mutations
+
+[1060](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/1060_reports.html)
+[1102](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/1102_reports.html)
+[322](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/322_reports.html)
+
+
+[[include:tables/mermaid_C6orf27.md]]
+
+## References

@@ -32,6 +32,8 @@ BCL10 missense mutations in the CARD domain and truncating mutations have distin
 ### FL
 [[include:tables/FL_BCL10.md]]
 
+### BL
+[[include:tables/BL_BCL10.md]]
 
 ## Mutation pattern and selective pressure estimates
 
