@@ -36,3 +36,8 @@ Mutations are often found in the globular domain of the protein, which is critic
 
 [[include:browser_HIST1H1D.md]]
 
+
+[[include:tables/mermaid_HIST1H1D.md]]
+
+## References
+

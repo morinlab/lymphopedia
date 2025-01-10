@@ -14,6 +14,6 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/H
 <!-- DLBCL: morinMutationalStructuralAnalysis2013 -->
 <!-- MZL: jalladesExomeSequencingIdentifies2017 -->
 
-[[include:mermaid_HIST1H1D.md]]
+[[include:tables/mermaid_HIST1H1D.md]]
 
 ## References
