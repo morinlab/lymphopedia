@@ -44,4 +44,9 @@ Driver mutations affecting this gene in FL/DLBCL have been experimentally demons
 
 [[include:browser_SGK1.md]]
 
+
+[[include:tables/mermaid_SGK1.md]]
+
 ## References
+
+

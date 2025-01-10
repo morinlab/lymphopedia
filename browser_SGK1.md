@@ -9,8 +9,3 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/S
 
 ![](images/proteinpaint/SGK1.svg)
 
-[[include:mermaid_SGK1.md]]
-
-## References
-
-
