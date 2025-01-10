@@ -27,6 +27,9 @@ Thus far, there is limited information about the consequence of MEF2B mutations 
 ### FL
 [[include:tables/FL_MEF2B.md]]
 
+### MCL
+[[include:tables/MCL_MEF2B.md]]
+
 ## Mutation pattern and selective pressure estimates
 
 [[include:tables/dnds_MEF2B.md]]
