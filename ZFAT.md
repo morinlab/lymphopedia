@@ -19,12 +19,11 @@ nocite: |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-|Entity|source        |frequency (%)|
-|:------:|:--------------:|:-------------:|
-|DLBCL |GAMBL genomes |1.34         |
-|DLBCL |Schmitz cohort|2.77         |
-|DLBCL |Reddy cohort  |2.70         |
-|DLBCL |Chapuy cohort |2.56         |
+### DLBCL
+[[include:tables/DLBCL_ZFAT.md]]
+
+### BL
+[[include:tables/BL_ZFAT.md]]
 
 ## Mutation pattern and selective pressure estimates
 
