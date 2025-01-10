@@ -16,7 +16,3 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/H
 ![](primary/Panea_HIST1H3I.svg)
 **Rating**
 &starf; &starf; &starf; &starf; &star;
-
-[[include:mermaid_HIST1H3I.md]]
-
-## References
