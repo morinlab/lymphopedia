@@ -34,6 +34,10 @@ Combination therapies including EZH2 inhibitors are also under exploration for D
 ### FL
 [[include:tables/FL_EZH2.md]]
 
+### BL
+[[include:tables/FL_EZH2.md]]
+
+
 ## Mutation pattern and selective pressure estimates
 
 [[include:tables/dnds_EZH2.md]]
@@ -85,7 +89,7 @@ Combination therapies including EZH2 inhibitors are also under exploration for D
 <!-- DLBCL: morinSomaticMutationsAltering2010 -->
 <!-- PMBL: mottokIntegrativeGenomicAnalysis2019b -->
 
-[[include:mermaid_EZH2.md]]
+[[include:tables/mermaid_EZH2.md]]
 
 ## References
 
