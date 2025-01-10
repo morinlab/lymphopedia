@@ -15,11 +15,15 @@ nocite: |
 
 [[include:table1_TPTE.md]]
 
+## Mutation incidence in large patient cohorts (GAMBL reanalysis)
+
+### BL
+
+[[include:tables/BL_TPTE.md]]
 
 
 
-
-[[include:mermaid_TPTE.md]]
+[[include:tables/mermaid_TPTE.md]]
 
 ## References
 

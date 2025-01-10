@@ -23,6 +23,9 @@ Driver mutations affecting this gene in FL have been experimentally demonstrated
 ### DLBCL
 [[include:tables/DLBCL_VMA21.md]]
 
+###
+[[include:tables/BL_VMA21.md]]
+
 ## Mutation pattern and selective pressure estimates
 
 [[include:tables/dnds_VMA21.md]]
@@ -34,6 +37,6 @@ Driver mutations affecting this gene in FL have been experimentally demonstrated
 <!-- ORIGIN: hubschmannMutationalMechanismsShaping2021b -->
 <!-- FL: hubschmannMutationalMechanismsShaping2021b -->
 
-[[include:mermaid_VMA21.md]]
+[[include:tables/mermaid_VMA21.md]]
 
 ## References
