@@ -17,10 +17,11 @@ nocite: |
 ### MCL
 [[include:tables/MCL_CCND1]]
 
+<!---
 ## Mutation pattern and selective pressure estimates
 
 [[include:tables/dnds_CCND1]]
-
+-->
 
 [[include:browser_CCND1.md]]
 
