@@ -27,6 +27,9 @@ The functional effect of CARD11 mutations in DLBCL was explored in the original 
 ### DLBCL
 [[include:tables/DLBCL_CARD11.md]]
 
+### MCL
+[[include:tables/MCL_CARD11.md]]
+
 ### FL
 [[include:tables/FL_CARD11.md]]
 
