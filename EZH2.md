@@ -35,7 +35,7 @@ Combination therapies including EZH2 inhibitors are also under exploration for D
 [[include:tables/FL_EZH2.md]]
 
 ### BL
-[[include:tables/FL_EZH2.md]]
+[[include:tables/BL_EZH2.md]]
 
 
 ## Mutation pattern and selective pressure estimates
