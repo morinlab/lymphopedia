@@ -13,7 +13,6 @@ This is one of several genes that encode linker histone proteins that are recurr
 Mutations are often found in the globular domain of the protein, which is critical for its interaction with DNA and other histone proteins. 
 
 
-
 ## Relevance tier by entity
 
 [[include:table1_HIST1H1C.md]]
@@ -43,4 +42,14 @@ Mutations are often found in the globular domain of the protein, which is critic
 
 
 [[include:browser_HIST1H1C.md]]
+
+[[include:tables/mermaid_HIST1H1C.md]]
+
+## References
+
+
+<!-- ORIGIN: morinFrequentMutationHistonemodifying2011 -->
+<!-- DLBCL: morinFrequentMutationHistonemodifying2011 -->
+<!-- BL: paneaWholeGenomeLandscape2019 -->
+<!-- FL: morinFrequentMutationHistonemodifying2011 -->
 

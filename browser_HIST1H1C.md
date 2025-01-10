@@ -26,12 +26,3 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/H
 &starf; &star; &star; &star; &star;
 
 
-[[include:mermaid_HIST1H1C.md]]
-
-## References
-
-
-<!-- ORIGIN: morinFrequentMutationHistonemodifying2011 -->
-<!-- DLBCL: morinFrequentMutationHistonemodifying2011 -->
-<!-- BL: paneaWholeGenomeLandscape2019 -->
-<!-- FL: morinFrequentMutationHistonemodifying2011 -->

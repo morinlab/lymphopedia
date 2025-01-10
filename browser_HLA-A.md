@@ -9,7 +9,3 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/H
 
 ![](images/proteinpaint/HLA-A.svg)
 
-[[include:mermaid_HLA-A.md]]
-
-## References
-
