@@ -20,7 +20,7 @@ Mutations in this gene were first described in DLBCL in 2021 by Hübschmann et a
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
 ### MCL
-[[include:MCL_ADAMTS1.md]]
+[[include:tables/MCL_ADAMTS1.md]]
 
 ### DLBCL
 [[include:tables/DLBCL_ADAMTS1]]
