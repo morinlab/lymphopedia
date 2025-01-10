@@ -9,8 +9,6 @@ nocite: |
 
 
 
-
-
 ## Relevance tier by entity
 
 [[include:table1_HIST1H3J.md]]
@@ -23,22 +21,12 @@ nocite: |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-|Entity|source               |frequency (%)|
-|:------:|:---------------------:|:-------------:|
-|BL    |GAMBL genomes+capture|2.31         |
-|BL    |Thomas cohort        |1.70         |
-|BL    |Panea cohort         |5.00         |
+### BL
+[[include:tables/BL_HIST1H3J]]
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   |6.396           |0               |
-|DLBCL |No  |No                   |1.417           |0               |
-|FL    |No  |No                   |0.000           |0               |
-
-
-
+[[include:tables/dnds_HIST1H3J]]
 
 ## HIST1H3J Hotspots
 
@@ -49,4 +37,8 @@ nocite: |
 | chr6 | 27858210 | T>G | M121L |
 
 [[include:browser_HIST1H3J.md]]
+
+[[include:tables/mermaid_HIST1H3J.md]]
+
+## References
 
