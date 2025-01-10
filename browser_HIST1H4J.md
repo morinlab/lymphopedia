@@ -9,19 +9,3 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/H
 
 ![](images/proteinpaint/HIST1H4J.svg)
 
-## Representative Mutations
-
-### BL<sup>2</sup>
-
-![](primary/Panea_HIST1H4J.svg)
-**Rating**
-&starf; &starf; &starf; &star; &star;
-
-[[include:mermaid_HIST1H4J.md]]
-
-## References
-
-<!-- PMBL: mottokIntegrativeGenomicAnalysis2019b -->
-<!-- ORIGIN: paneaWholeGenomeLandscape2019 -->
-<!-- BL: paneaWholeGenomeLandscape2019 -->
-<!-- BL: paneaWholeGenomeLandscape2019 -->
