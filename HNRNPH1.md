@@ -20,13 +20,12 @@ The common HNRNPH1 mutations cause deregulated splicing and increased expression
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-|Entity|source        |frequency (%)|
-|:------:|:--------------:|:-------------:|
-|DLBCL |GAMBL genomes |2.10         |
-|DLBCL |Schmitz cohort|3.19         |
-|DLBCL |Reddy cohort  |1.40         |
-|DLBCL |Chapuy cohort |3.42         |
-|MCL   |GAMBL genomes |3.79         |
+### MCL
+[[include:tables/MCL_HNRNPH1]]
+
+### DLBCL
+[[include:tables/DLBCL_HNRNPH1]]
+
 
 ## Mutation pattern and selective pressure estimates
 
