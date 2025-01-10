@@ -37,6 +37,3 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/H
 [RG142](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Morin_2013/RG142.html)
 
 
-[[include:mermaid_HIST1H2AG.md]]
-
-## References
