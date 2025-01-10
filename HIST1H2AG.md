@@ -21,6 +21,12 @@ nocite: |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
+### FL
+[[include:tables/FL_HIST1H2AG]]
+
+### BL
+[[include:tables/BL_HIST1H2AG]]
+
 ### DLBCL
 [[include:tables/DLBCL_HIST1H2AG]]
 
