@@ -19,11 +19,17 @@ Mutations in this gene were first described in DLBCL in 2021 by Hübschmann et a
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-### MCL
-[[include:tables/MCL_ADAMTS1.md]]
-
 ### DLBCL
 [[include:tables/DLBCL_ADAMTS1]]
+
+### FL
+[[include:tables/FL_ADAMTS1.md]]
+
+### BL
+[[include:tables/BL_ADAMTS1.md]]
+
+### MCL
+[[include:tables/MCL_ADAMTS1.md]]
 
 ## Mutation pattern and selective pressure estimates
 
