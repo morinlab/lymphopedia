@@ -14,6 +14,9 @@ nocite: |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
+### FL
+[[include:tables/FL_HIST1H3I]]
+
 ### BL
 [[include:tables/BL_HIST1H3I]]
 
