@@ -23,7 +23,7 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/F
 [1092](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/1092_reports.html)
 [475](https://www.bcgsc.ca/downloads/morinlab/GAMBL/Love/475_reports.html)
 
-[[include:mermaid_FAM129B.md]]
+[[include:tables/mermaid_FAM129B.md]]
 
 ## References
 
