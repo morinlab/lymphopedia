@@ -17,6 +17,10 @@ Mutations in this gene were first described in DLBCL in 2021 by Hübschmann et a
 
 [[include:table1_NR2F2.md]]
 
+## Warnings
+
+<<Warn("The variants reported in this gene failed QC")>>
+
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
 ### DLBCL
