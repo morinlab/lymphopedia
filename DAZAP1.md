@@ -17,13 +17,11 @@ This gene has some recurrent sites of mutations (hot spots). The mutation patter
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-|Entity|source        |frequency (%)|
-|:------:|:--------------:|:-------------:|
-|DLBCL |GAMBL genomes |1.91         |
-|DLBCL |Schmitz cohort|5.32         |
-|DLBCL |Reddy cohort  |1.60         |
-|DLBCL |Chapuy cohort |0.43         |
-|MCL   |GAMBL genomes |4.27         |
+### DLBCL
+[[include:tables/DLBCL_DAZAP1]]
+
+### MCL
+[[include:tables/MCL_DAZAP1]]
 
 ## Mutation pattern and selective pressure estimates
 
