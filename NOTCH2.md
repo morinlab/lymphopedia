@@ -20,6 +20,9 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
+### MCL
+[[include:tables/MCL_NOTCH2.md]]
+
 ### DLBCL
 [[include:tables/DLBCL_NOTCH2.md]]
 
