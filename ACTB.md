@@ -27,6 +27,9 @@ ACTB is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) 
 ### FL
 [[include:tables/FL_ACTB.md]]
 
+### BL
+[[include:tables/BL_ACTB]]
+
 ## Mutation pattern and selective pressure estimates
 
 [[include:tables/dnds_ACTB.md]]
