@@ -20,6 +20,14 @@
   </tr>
   <tr>
    <td style="text-align:left;border-left:1px solid #DDDDDD;white-space: nowrap;"> BL </td>
+   <td style="text-align:left;border-left:1px solid #DDDDDD;white-space: nowrap;"> GAMBL without ICGC/Zhou </td>
+   <td style="text-align:right;border-left:1px solid #DDDDDD;white-space: nowrap;"> 320 </td>
+   <td style="text-align:right;border-left:1px solid #DDDDDD;white-space: nowrap;"> 58 </td>
+   <td style="text-align:right;border-left:1px solid #DDDDDD;white-space: nowrap;"> <span style="     color: rgba(0, 0, 0, 255) !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: rgba(252, 149, 119, 255) !important;">0.1812</span> </td>
+   <td style="text-align:left;border-left:1px solid #DDDDDD;white-space: nowrap;"> [0.139,0.2234] </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;border-left:1px solid #DDDDDD;white-space: nowrap;"> BL </td>
    <td style="text-align:left;border-left:1px solid #DDDDDD;white-space: nowrap;"> GAMBL with Panea </td>
    <td style="text-align:right;border-left:1px solid #DDDDDD;white-space: nowrap;"> 410 </td>
    <td style="text-align:right;border-left:1px solid #DDDDDD;white-space: nowrap;"> 95 </td>
