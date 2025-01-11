@@ -7,6 +7,9 @@ nocite: |
 ---
 [[_TOC_]]
 
+## Overview
+
+Non-coding mutations in the promoter of this gene have been described in MCL.
 
 ## Relevance tier by entity
 
@@ -14,9 +17,8 @@ nocite: |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-|Entity|source       |frequency (%)|
-|:------:|:-------------:|:-------------:|
-|MCL   |GAMBL genomes|0            |
+### MCL
+[[include:tables/MCL_TERT.md]]
 
 ## Mutation pattern and selective pressure estimates
 
