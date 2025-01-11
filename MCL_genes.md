@@ -14,7 +14,7 @@ link-citations: true
 ### *23 total*
 
 |Gene|Status| First MCL study | Other lists |
-|:-:|:-:|:--:|:---|
+|:-:|:-:|:---:|:----|
 |[ATM](ATM)|MCL Tier 1|[Bea et al](papers/beaLandscapeSomaticMutations2013)|DLBCL, MZL|
 |[BIRC3](BIRC3)|MCL Tier 1 |[Bea et al](papers/beaLandscapeSomaticMutations2013)|DLBCL, MZL, PMBL|
 |[CARD11](CARD11)|MCL Tier 1 |[Wu et al](papers/wuGeneticHeterogeneityPrimary2016)|DLBCL, MZL, FL, BL|
