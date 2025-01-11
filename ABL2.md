@@ -21,7 +21,7 @@ nocite: |
 
 [[include:tables/dnds_ABL2.md]]
 
-[[include:browser_ABL2.md]]
+[[include:tables/browser_ABL2.md]]
 
 ## Expression
 ![](images/gene_expression/ABL2_by_pathology.svg)
