@@ -23,9 +23,11 @@ BCOR acts as a co-repressor of BCL6, and mutations in BCOR could impair its bind
 ### MCL
 [[include:tables/MCL_BCOR]]
 
+<!---
 ## Mutation pattern and selective pressure estimates
 
 [[include:tables/dnds_BCOR]]
+-->
 
 ## BCOR Hotspots
 
