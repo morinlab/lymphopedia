@@ -30,6 +30,9 @@ B2M mutations in B-cell lymphomas, particularly in DLBCL and PMBCL, lead to redu
 ### FL
 [[include:tables/FL_B2M.md]]
 
+### MCL
+[[include:tables/MCL_B2M]]
+
 ## Mutation pattern and selective pressure estimates
 
 [[include:tables/dnds_B2M.md]]
