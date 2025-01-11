@@ -18,6 +18,10 @@ nocite: |
 ### MCL
 [[include:tables/MCL_CDH8]]
 
+### DLBCL
+[[include:tables/DLBCL_CDH8]]
+
+
 ## Mutation pattern and selective pressure estimates
 
 [[include:tables/dnds_CDH8.md]]
