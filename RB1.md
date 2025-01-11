@@ -22,6 +22,9 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 ### DLBCL
 [[include:tables/DLBCL_RB1.md]]
 
+### MCL
+[[include:tables/MCL_RB1.md]]
+
 ## Mutation pattern and selective pressure estimates
 
 [[include:tables/dnds_RB1.md]]
