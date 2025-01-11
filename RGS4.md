@@ -18,14 +18,8 @@ nocite: |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-|Entity|source |frequency (%)|
-|:------:|:----:|:----:|
-|BL|GAMBL Exome |0.575 |
-|DLBCL|GAMBL Exome |0.108 |
-|DLBCL|GAMBL Genome |0.752 |
-|FL|GAMBL Exome |0.287 |
-|MCL|GAMBL Genome |1.17 |
-
+### MCL
+[[include:MCL_RGS4]]
 
 [[include:tables/mermaid_RGS4.md]]
 
