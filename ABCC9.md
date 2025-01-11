@@ -20,10 +20,6 @@ nocite: |
 ### MCL
 [[include:tables/MCL_ABCC9.md]]
 
-### DLBCL
-[[include:tables/DLBCL_ABCC9.md]]
-
-
 [[include:tables/mermaid_ABCC9.md]]
 
 ## References
