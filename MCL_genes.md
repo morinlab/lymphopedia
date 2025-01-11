@@ -23,10 +23,10 @@ link-citations: true
 |[EWSR1](EWSR1)|MCL Tier 1 |[Pararajalingam et al](papers/pararajalingamCodingNoncodingDrivers2020)|PMBL|
 |[HNRNPH1](HNRNPH1)|MCL Tier 1 |[Pararajalingam et al](papers/pararajalingamCodingNoncodingDrivers2020)|DLBCL|
 |[KMT2D](KMT2D)|MCL Tier 1 |[Bea et al](papers/beaLandscapeSomaticMutations2013)|FL, BL, DLBCL, PMBL, MZL|
-|[MEF2B](MEF2B)|MCL Tier 1 |[Bea et al](papers/beaLandscapeSomaticMutations2013)|[@morinFrequentMutationHistonemodifying2011]|
-|[NFKBIE](NFKBIE)|MCL Tier 1 |[Pararajalingam et al](papers/pararajalingamCodingNoncodingDrivers2020)|[@mansouriFrequentNFKBIEDeletions2016; @morinGeneticLandscapesRelapsed2016]|
-|[NOTCH1](NOTCH1)|MCL Tier 1 |[Bea et al](papers/beaLandscapeSomaticMutations2013)|[@loveGeneticLandscapeMutations2012; @pasqualucciAnalysisCodingGenome2011; @rossiCodingGenomeSplenic2012]|
-|[NOTCH2](NOTCH2)|MCL Tier 1 |[Bea et al](papers/beaLandscapeSomaticMutations2013)|[@rossiCodingGenomeSplenic2012; @zhangGeneticHeterogeneityDiffuse2013]|
+|[MEF2B](MEF2B)|MCL Tier 1 |[Bea et al](papers/beaLandscapeSomaticMutations2013)|FL, DLBCL|
+|[NFKBIE](NFKBIE)|MCL Tier 1 |[Pararajalingam et al](papers/pararajalingamCodingNoncodingDrivers2020)|DLBCL, PMBL|
+|[NOTCH1](NOTCH1)|MCL Tier 1 |[Bea et al](papers/beaLandscapeSomaticMutations2013)||
+|[NOTCH2](NOTCH2)|MCL Tier 1 |[Bea et al](papers/beaLandscapeSomaticMutations2013)|MZL, DLBCL|
 |[NSD2](NSD2)|MCL Tier 1 |[Bea et al](papers/beaLandscapeSomaticMutations2013)|[@zhangGeneticHeterogeneityDiffuse2013]|
 |[POT1](POT1)|MCL Tier 1 |[Zhang et al](papers/zhangGenomicLandscapeMantle2014)||
 |[RB1](RB1)|MCL Tier 1 |[Zhang et al](papers/zhangGenomicLandscapeMantle2014)|[@morinMutationalStructuralAnalysis2013]|
