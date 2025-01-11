@@ -23,7 +23,3 @@ View all variants in GenomePaint [hg19](https://morinlab.github.io/LLMPP/GAMBL/H
 ![](primary/Panea_HIST1H2AM_2.svg)
 &star; &star; &star; &star; &star;
 
-
-[[include:tables/mermaid_HIST1H2AM.md]]
-
-## References
