@@ -33,6 +33,9 @@ Driver mutations affecting this gene in DLBCL/FL/BL have been experimentally dem
 ### BL
 [[include:tables/BL_SMARCA4.md]]
 
+### MCL
+[[include:tables/MCL_SMARCA4.md]]
+
 ## Mutation pattern and selective pressure estimates
 
 [[include:tables/dnds_SMARCA4.md]]
