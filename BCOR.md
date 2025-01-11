@@ -20,24 +20,15 @@ BCOR acts as a co-repressor of BCL6, and mutations in BCOR could impair its bind
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-|Entity|source        |frequency (%)|
-|:------:|:--------------:|:-------------:|
-|DLBCL |GAMBL genomes |3.82         |
-|DLBCL |Schmitz cohort|7.66         |
-|DLBCL |Reddy cohort  |2.50         |
-|DLBCL |Chapuy cohort |2.56         |
-|MCL   |GAMBL genomes |3.79         |
+### DLBCL
+[[include:tables/DLBCL_BCOR]]
+
+### MCL
+[[include:tables/MCL_BCOR]]
 
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   |1.341           |0               |
-|DLBCL |No  |No                   |2.471           |0               |
-|FL    |No  |No                   |1.743           |0               |
-
-
-
+[[include:tables/dnds_BCOR]]
 
 ## BCOR Hotspots
 
