@@ -19,13 +19,11 @@ Mutations in this gene were first described in DLBCL in 2013[@zhangGeneticHetero
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-|Entity|source        |frequency (%)|
-|:------:|:--------------:|:-------------:|
-|DLBCL |GAMBL genomes |3.63         |
-|DLBCL |Schmitz cohort|5.53         |
-|DLBCL |Reddy cohort  |3.20         |
-|DLBCL |Chapuy cohort |5.13         |
-|MCL   |GAMBL genomes |9.00         |
+### MCL
+[[include:tables/MCL_UBR5.md]]
+
+### DLBCL
+[[include:tables/DLBCL_UBR5.md]]
 
 ## Mutation pattern and selective pressure estimates
 
