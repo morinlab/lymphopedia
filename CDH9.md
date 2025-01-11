@@ -29,7 +29,7 @@ nocite: |
 
 
 
-[[include:browser_CDH9.md]]
+[[include:tables/browser_CDH9.md]]
 
 ## Expression
 ![](images/gene_expression/CDH9_by_pathology.svg)

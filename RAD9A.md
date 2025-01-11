@@ -26,7 +26,7 @@ nocite: |
 [[include:tables/dnds_RAD9A.md]]
 
 
-[[include:browser_RAD9A.md]]
+[[include:tables/browser_RAD9A.md]]
 
 ## Expression
 ![](images/gene_expression/RAD9A_by_pathology.svg)

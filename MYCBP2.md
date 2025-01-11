@@ -27,7 +27,7 @@ Mutations in this gene were first described in FL in 2021 by Hübschmann et al.[
 [[include:tables/dnds_MYCBP2.md]]
 
 
-[[include:browser_MYCBP2.md]]
+[[include:tables/browser_MYCBP2.md]]
 
 ## Expression
 ![](images/gene_expression/MYCBP2_by_pathology.svg)

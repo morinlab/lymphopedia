@@ -33,7 +33,7 @@ nocite: |
 
 
 
-[[include:browser_SALL3.md]]
+[[include:tables/browser_SALL3.md]]
 
 ## Expression
 ![](images/gene_expression/SALL3_by_pathology.svg)

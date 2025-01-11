@@ -27,7 +27,7 @@ nocite: |
 
 
 
-[[include:browser_NAV1.md]]
+[[include:tables/browser_NAV1.md]]
 
 ## Expression
 ![](images/gene_expression/NAV1_by_pathology.svg)

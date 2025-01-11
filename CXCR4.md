@@ -43,7 +43,7 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 
 
 
-[[include:browser_CXCR4.md]]
+[[include:tables/browser_CXCR4.md]]
 
 ## Expression
 ![](images/gene_expression/CXCR4_by_pathology.svg)

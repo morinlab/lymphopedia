@@ -30,7 +30,7 @@ Mutations in this gene were first described in DLBCL in 2017 by Reddy et al.[@re
 [[include:tables/dnds_ATR.md]]
 
 
-[[include:browser_ATR.md]]
+[[include:tables/browser_ATR.md]]
 
 ## Expression
 ![](images/gene_expression/ATR_by_pathology.svg)

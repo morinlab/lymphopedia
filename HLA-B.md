@@ -44,7 +44,7 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 | chr6 | 31324583 | C>G | W75C |
 | chr6 | 31324576 | G>A | Q78* |
 
-[[include:browser_HLA-B.md]]
+[[include:tables/browser_HLA-B.md]]
 
 ## Expression
 ![](images/gene_expression/HLA-B_by_pathology.svg)

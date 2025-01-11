@@ -44,7 +44,7 @@ nocite: |
 | chr6 | 27101126 | G>T | E92D |
 | chr6 | 27101130 | C>G | L94V |
 
-[[include:browser_HIST1H2AG.md]]
+[[include:tables/browser_HIST1H2AG.md]]
 
 [[include:tables/mermaid_HIST1H2AG.md]]
 

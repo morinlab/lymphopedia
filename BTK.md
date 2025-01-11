@@ -29,7 +29,7 @@ Driver mutations affecting this gene in FL/DLBCL have been experimentally demons
 
 [[include:tables/dnds_BTK.md]]
 
-[[include:browser_BTK.md]]
+[[include:tables/browser_BTK.md]]
 
 ## Expression
 ![](images/gene_expression/BTK_by_pathology.svg)

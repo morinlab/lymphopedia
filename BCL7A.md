@@ -46,7 +46,7 @@ Driver mutations affecting this gene in BL/DLBCL/FL have been experimentally dem
 |chr12   |122456912 |122464036|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr12%3A122456912%2D122464036)|poised_promoter   |
 
 
-[[include:browser_BCL7A.md]]
+[[include:tables/browser_BCL7A.md]]
 
 ## Expression
 ![](images/gene_expression/BCL7A_by_pathology.svg)

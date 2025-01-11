@@ -32,7 +32,7 @@ nocite: |
 
 
 
-[[include:browser_BIRC3.md]]
+[[include:tables/browser_BIRC3.md]]
 
 ## Expression
 ![](images/gene_expression/BIRC3_by_pathology.svg)

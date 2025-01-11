@@ -26,7 +26,7 @@ nocite: |
 [[include:tables/dnds_PHF6.md]]
 
 
-[[include:browser_PHF6.md]]
+[[include:tables/browser_PHF6.md]]
 
 ## Expression
 ![](images/gene_expression/PHF6_by_pathology.svg)

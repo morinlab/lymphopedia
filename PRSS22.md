@@ -36,7 +36,7 @@ Due to [minimal support](PRSS22#representative-mutation) in the original primary
 
 
 
-[[include:browser_PRSS22.md]]
+[[include:tables/browser_PRSS22.md]]
 
 ## Expression
 ![](images/gene_expression/PRSS22_by_pathology.svg)

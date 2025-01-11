@@ -52,7 +52,7 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 | chr3 | 50293698 | T>A | V180E |
 | chr3 | 50293703 | A>G | T182A |
 
-[[include:browser_GNAI2.md]]
+[[include:tables/browser_GNAI2.md]]
 
 ## Expression
 ![](images/gene_expression/GNAI2_by_pathology.svg)

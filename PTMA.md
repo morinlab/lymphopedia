@@ -37,7 +37,7 @@ nocite: |
 |chr2    |232572640 |232574297|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr2%3A232572640%2D232574297)|NA                |
 
 
-[[include:browser_PTMA.md]]
+[[include:tables/browser_PTMA.md]]
 
 ## Expression
 ![](images/gene_expression/PTMA_by_pathology.svg)

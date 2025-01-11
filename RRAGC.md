@@ -28,7 +28,7 @@ Driver mutations affecting this gene in DLBCL/FL have been experimentally demons
 
 [[include:tables/dnds_RRAGC.md]]
 
-[[include:browser_RRAGC.md]]
+[[include:tables/browser_RRAGC.md]]
 
 ## Expression
 ![](images/gene_expression/RRAGC_by_pathology.svg)

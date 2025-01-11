@@ -28,7 +28,7 @@ nocite: |
 
 
 
-[[include:browser_MAGT1.md]]
+[[include:tables/browser_MAGT1.md]]
 
 ## Expression
 ![](images/gene_expression/MAGT1_by_pathology.svg)

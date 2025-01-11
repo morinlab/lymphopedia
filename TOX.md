@@ -29,7 +29,7 @@ nocite: |
 | chr8 | 60031445 | C>T | K34= |
 | chr8 | 60031446 | T>G | K34T |
 
-[[include:browser_TOX.md]]
+[[include:tables/browser_TOX.md]]
 
 ## Expression
 ![](images/gene_expression/TOX_by_pathology.svg)

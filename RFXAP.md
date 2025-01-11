@@ -32,7 +32,7 @@ nocite: |
 
 
 
-[[include:browser_RFXAP.md]]
+[[include:tables/browser_RFXAP.md]]
 
 ## Expression
 ![](images/gene_expression/RFXAP_by_pathology.svg)

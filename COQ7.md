@@ -29,7 +29,7 @@ nocite: |
 
 
 
-[[include:browser_COQ7.md]]
+[[include:tables/browser_COQ7.md]]
 
 ## Expression
 ![](images/gene_expression/COQ7_by_pathology.svg)

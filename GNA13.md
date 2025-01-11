@@ -45,7 +45,7 @@ Driver mutations affecting this gene in BL/FL/DLBCL have been experimentally dem
 | chr17 | 63052613 | C>G | E33D |
 | chr17 | 63052609 | C>G | D35H |
 
-[[include:browser_GNA13.md]]
+[[include:tables/browser_GNA13.md]]
 
 ## Expression
 ![](images/gene_expression/GNA13_by_pathology.svg)

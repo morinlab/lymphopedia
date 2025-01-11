@@ -51,7 +51,7 @@ Contradictory to this, the mutation pattern in DLBCL implies selective pressure 
 | chr19 | 16436775 | G>C | S275T |
 | chr19 | 16436784 | G>A | G278D |
 
-[[include:browser_KLF2.md]]
+[[include:tables/browser_KLF2.md]]
 
 ## Expression
 ![](images/gene_expression/KLF2_by_pathology.svg)

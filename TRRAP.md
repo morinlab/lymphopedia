@@ -34,7 +34,7 @@ nocite: |
  | :---:| :---: | :--: | :---: |
 | chr7 | 98509802 | C>T | S722F |
 
-[[include:browser_TRRAP.md]]
+[[include:tables/browser_TRRAP.md]]
 
 ## Expression
 ![](images/gene_expression/TRRAP_by_pathology.svg)

@@ -31,7 +31,7 @@ Mutations in this gene were first described in DLBCL and FL in 2021 by Hübschma
 |FL    |No  |No                   |3.398           |0               |
 
 
-[[include:browser_MGEA5.md]]
+[[include:tables/browser_MGEA5.md]]
 
 ## Expression
 ![](images/gene_expression/MGEA5_by_pathology.svg)

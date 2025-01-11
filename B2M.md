@@ -60,7 +60,7 @@ B2M mutations in B-cell lymphomas, particularly in DLBCL and PMBCL, lead to redu
 | chr15 | 45003781 | C>T | L13F |
 | chr15 | 45003782 | T>C | L13P |
 
-[[include:browser_B2M.md]]
+[[include:tables/browser_B2M.md]]
 
 ## Expression
 ![](images/gene_expression/B2M_by_pathology.svg)

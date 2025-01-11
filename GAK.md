@@ -29,7 +29,7 @@ Mutations in this gene were first described in DLBCL in 2021 by Hübschmann et a
 
 [[include:tables/dnds_GAK.md]]
 
-[[include:browser_GAK.md]]
+[[include:tables/browser_GAK.md]]
 
 ## Expression
 ![](images/gene_expression/GAK_by_pathology.svg)

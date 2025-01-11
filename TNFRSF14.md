@@ -47,7 +47,7 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 | chr1 | 2488152 | A>T | K17* |
 | chr1 | 2488156 | C>A | T18N |
 
-[[include:browser_TNFRSF14.md]]
+[[include:tables/browser_TNFRSF14.md]]
 
 ## Expression
 ![](images/gene_expression/TNFRSF14_by_pathology.svg)

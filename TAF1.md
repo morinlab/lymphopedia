@@ -22,7 +22,7 @@ nocite: |
 [[include:tables/dnds_TAF1.md]]
 
 
-[[include:browser_TAF1.md]]
+[[include:tables/browser_TAF1.md]]
 
 ## Expression
 ![](images/gene_expression/TAF1_by_pathology.svg)

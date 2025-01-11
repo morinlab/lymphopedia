@@ -33,7 +33,7 @@ LCOR (Ligand Dependent Nuclear Receptor Corepressor) is involved in the regulati
 
 
 
-[[include:browser_LCOR.md]]
+[[include:tables/browser_LCOR.md]]
 
 ## Expression
 ![](images/gene_expression/LCOR_by_pathology.svg)

@@ -63,7 +63,7 @@ Driver mutations affecting this gene in BL/FL/DLBCL have been experimentally dem
 | chr3 | 187443345 | C>T | R594Q |
 | chr3 | 187443342 | A>T | I595N |
 
-[[include:browser_BCL6.md]]
+[[include:tables/browser_BCL6.md]]
 
 ## Expression
 ![](images/gene_expression/BCL6_by_pathology.svg)

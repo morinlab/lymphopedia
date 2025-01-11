@@ -26,7 +26,7 @@ nocite: |
 
 
 
-[[include:browser_EIF2AK3.md]]
+[[include:tables/browser_EIF2AK3.md]]
 
 ## Expression
 ![](images/gene_expression/EIF2AK3_by_pathology.svg)

@@ -29,7 +29,7 @@ nocite: |
 
 
 
-[[include:browser_DLC1.md]]
+[[include:tables/browser_DLC1.md]]
 
 ## Expression
 ![](images/gene_expression/DLC1_by_pathology.svg)

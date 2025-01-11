@@ -38,7 +38,7 @@ nocite: |
 |chr3    |71626341  |71635648|[TSS-1](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr3%3A71626341%2D71635648)    |active_promoter   |
 
 
-[[include:browser_FOXP1.md]]
+[[include:tables/browser_FOXP1.md]]
 
 ## Expression
 ![](images/gene_expression/FOXP1_by_pathology.svg)

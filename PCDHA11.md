@@ -35,7 +35,7 @@ nocite: |
 
 
 
-[[include:browser_PCDHA11.md]]
+[[include:tables/browser_PCDHA11.md]]
 
 ## Expression
 ![](images/gene_expression/PCDHA11_by_pathology.svg)

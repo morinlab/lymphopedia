@@ -27,7 +27,7 @@ nocite: |
 
 
 
-[[include:browser_PKD1.md]]
+[[include:tables/browser_PKD1.md]]
 
 ## Expression
 ![](images/gene_expression/PKD1_by_pathology.svg)

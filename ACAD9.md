@@ -32,7 +32,7 @@ Due to [minimal support](ACAD9#representative-mutation) in the original primary 
 
 
 
-[[include:browser_ACAD9.md]]
+[[include:tables/browser_ACAD9.md]]
 
 ## Expression
 ![](images/gene_expression/ACAD9_by_pathology.svg)

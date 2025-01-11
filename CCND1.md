@@ -23,7 +23,7 @@ nocite: |
 [[include:tables/dnds_CCND1]]
 -->
 
-[[include:browser_CCND1.md]]
+[[include:tables/browser_CCND1.md]]
 
 ## Expression
 ![](images/gene_expression/CCND1_by_pathology.svg)

@@ -37,7 +37,7 @@ nocite: |
 |chr15   |59658991  |59671152|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr15%3A59658991%2D59671152)|NA                |
 
 
-[[include:browser_MYO1E.md]]
+[[include:tables/browser_MYO1E.md]]
 
 ## Expression
 ![](images/gene_expression/MYO1E_by_pathology.svg)

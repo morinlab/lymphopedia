@@ -29,7 +29,7 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 
 [[include:tables/dnds_RB1.md]]
 
-[[include:browser_RB1.md]]
+[[include:tables/browser_RB1.md]]
 
 ## Expression
 ![](images/gene_expression/RB1_by_pathology.svg)

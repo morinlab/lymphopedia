@@ -33,7 +33,7 @@ nocite: |
  | :---:| :---: | :--: | :---: |
 | chr9 | 96031211 | G>A | A1375T |
 
-[[include:browser_WNK2.md]]
+[[include:tables/browser_WNK2.md]]
 
 ## Expression
 ![](images/gene_expression/WNK2_by_pathology.svg)

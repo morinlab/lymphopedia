@@ -33,7 +33,7 @@ nocite: |
 
 
 
-[[include:browser_KLHL21.md]]
+[[include:tables/browser_KLHL21.md]]
 
 ## Expression
 ![](images/gene_expression/KLHL21_by_pathology.svg)

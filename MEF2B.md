@@ -69,7 +69,7 @@ Mutations in the transcriptional activation domain, like N81, can enhance the ab
 | chr19 | 19260045 | T>A | D83V |
 | chr19 | 19260042 | A>G | I84T |
 
-[[include:browser_MEF2B.md]]
+[[include:tables/browser_MEF2B.md]]
 
 ## Expression
 ![](images/gene_expression/MEF2B_by_pathology.svg)

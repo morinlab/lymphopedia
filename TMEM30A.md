@@ -37,7 +37,7 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 | chr6 | 75965985 | G>A | R307* |
 | chr6 | 75965975 | A>T | M310K |
 
-[[include:browser_TMEM30A.md]]
+[[include:tables/browser_TMEM30A.md]]
 
 ## Expression
 ![](images/gene_expression/TMEM30A_by_pathology.svg)

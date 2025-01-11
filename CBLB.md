@@ -34,7 +34,7 @@ Mutations in this gene were first described in DLBCL in 2017 by Reddy et al.[@re
 [[include:tables/dnds_CBLB.md]]
 
 
-[[include:browser_CBLB.md]]
+[[include:tables/browser_CBLB.md]]
 
 ## Expression
 ![](images/gene_expression/CBLB_by_pathology.svg)

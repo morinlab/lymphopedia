@@ -28,7 +28,7 @@ nocite: |
 
 
 
-[[include:browser_MECOM.md]]
+[[include:tables/browser_MECOM.md]]
 
 ## Expression
 ![](images/gene_expression/MECOM_by_pathology.svg)

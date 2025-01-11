@@ -28,7 +28,7 @@ nocite: |
 |FL    |No  |No                   |0.000           |0               |
 
 
-[[include:browser_EIF2AK4.md]]
+[[include:tables/browser_EIF2AK4.md]]
 
 ## Expression
 ![](images/gene_expression/EIF2AK4_by_pathology.svg)

@@ -32,7 +32,7 @@ nocite: |
 
 
 
-[[include:browser_MAP3K6.md]]
+[[include:tables/browser_MAP3K6.md]]
 
 ## Expression
 ![](images/gene_expression/MAP3K6_by_pathology.svg)

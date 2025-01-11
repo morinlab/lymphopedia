@@ -32,7 +32,7 @@ nocite: |
 
 
 
-[[include:browser_PPP1R9B.md]]
+[[include:tables/browser_PPP1R9B.md]]
 
 ## Expression
 ![](images/gene_expression/PPP1R9B_by_pathology.svg)

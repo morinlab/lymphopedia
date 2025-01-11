@@ -27,7 +27,7 @@ nocite: |
 [[include:tables/dnds_NLRP8.md]]
 
 
-[[include:browser_NLRP8.md]]
+[[include:tables/browser_NLRP8.md]]
 
 ## Expression
 ![](images/gene_expression/NLRP8_by_pathology.svg)

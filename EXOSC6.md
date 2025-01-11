@@ -27,7 +27,7 @@ nocite: |
 
 
 
-[[include:browser_EXOSC6.md]]
+[[include:tables/browser_EXOSC6.md]]
 
 ## Expression
 ![](images/gene_expression/EXOSC6_by_pathology.svg)

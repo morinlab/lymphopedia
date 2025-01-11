@@ -27,7 +27,7 @@ nocite: |
 
 
 
-[[include:browser_FLYWCH1.md]]
+[[include:tables/browser_FLYWCH1.md]]
 
 ## Expression
 ![](images/gene_expression/FLYWCH1_by_pathology.svg)

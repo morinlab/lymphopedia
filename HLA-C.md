@@ -30,7 +30,7 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 
 [[include:tables/dnds_HLA-C.md]]
 
-[[include:browser_HLA-C.md]]
+[[include:tables/browser_HLA-C.md]]
 
 ## Expression
 ![](images/gene_expression/HLA-C_by_pathology.svg)

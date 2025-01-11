@@ -37,7 +37,7 @@ nocite: |
 |chr10   |127578912 |127591133|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr10%3A127578912%2D127591133)|active_promoter   |
 
 
-[[include:browser_FANK1.md]]
+[[include:tables/browser_FANK1.md]]
 
 ## Expression
 ![](images/gene_expression/FANK1_by_pathology.svg)

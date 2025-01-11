@@ -32,7 +32,7 @@ Mutations in this gene were first described in DLBCL in 2013[@zhangGeneticHetero
 
 
 
-[[include:browser_STAT5B.md]]
+[[include:tables/browser_STAT5B.md]]
 
 ## Expression
 ![](images/gene_expression/STAT5B_by_pathology.svg)

@@ -72,7 +72,7 @@ Another study demonstrated that specific BTG1 mutations afford germinal center (
 | chr12 | 92538217 | T>C | Y52C |
 | chr12 | 92538215 | T>C | K53E |
 
-[[include:browser_BTG1.md]]
+[[include:tables/browser_BTG1.md]]
 
 ## Expression
 ![](images/gene_expression/BTG1_by_pathology.svg)

@@ -32,7 +32,7 @@ Mutations in this gene were first described in DLBCL in 2013[@zhangGeneticHetero
 
 
 
-[[include:browser_UBR5.md]]
+[[include:tables/browser_UBR5.md]]
 
 ## Expression
 ![](images/gene_expression/UBR5_by_pathology.svg)

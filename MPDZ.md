@@ -28,7 +28,7 @@ nocite: |
 
 
 
-[[include:browser_MPDZ.md]]
+[[include:tables/browser_MPDZ.md]]
 
 ## Expression
 ![](images/gene_expression/MPDZ_by_pathology.svg)

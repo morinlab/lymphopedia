@@ -24,7 +24,7 @@ nocite: |
 
 
 
-[[include:browser_ADNP.md]]
+[[include:tables/browser_ADNP.md]]
 
 ## Expression
 ![](images/gene_expression/ADNP_by_pathology.svg)

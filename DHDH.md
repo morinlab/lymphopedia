@@ -30,7 +30,7 @@ nocite: |
 
 
 
-[[include:browser_DHDH.md]]
+[[include:tables/browser_DHDH.md]]
 
 ## Expression
 ![](images/gene_expression/DHDH_by_pathology.svg)

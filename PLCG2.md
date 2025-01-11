@@ -33,7 +33,7 @@ nocite: |
  | :---:| :---: | :--: | :---: |
 | chr16 | 81819719 | C>A | T42N |
 
-[[include:browser_PLCG2.md]]
+[[include:tables/browser_PLCG2.md]]
 
 ## Expression
 ![](images/gene_expression/PLCG2_by_pathology.svg)

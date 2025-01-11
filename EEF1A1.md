@@ -43,7 +43,7 @@ This gene has some recurrent sites of mutations (hot spots). The mutation patter
 | chr6 | 74229095 | C>T | D97N |
 
 
-[[include:browser_EEF1A1.md]]
+[[include:tables/browser_EEF1A1.md]]
 
 ## Expression
 ## EEF1A1 Expression

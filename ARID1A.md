@@ -32,7 +32,7 @@ Driver mutations affecting this gene have been experimentally demonstrated to ca
 
 [[include:tables/dnds_ARID1A.md]]
 
-[[include:browser_ARID1A.md]]
+[[include:tables/browser_ARID1A.md]]
 
 ## Expression
 ![](images/gene_expression/ARID1A_by_pathology.svg)

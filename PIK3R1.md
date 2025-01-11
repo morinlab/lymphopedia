@@ -41,7 +41,7 @@ Mutations in this gene were first described in DLBCL in 2013[@zhangGeneticHetero
 
 
 
-[[include:browser_PIK3R1.md]]
+[[include:tables/browser_PIK3R1.md]]
 
 ## Expression
 ![](images/gene_expression/PIK3R1_by_pathology.svg)

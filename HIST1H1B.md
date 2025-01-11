@@ -30,7 +30,7 @@ This is one of several genes that encode linker histone proteins that are recurr
 
 [[include:tables/dnds_HIST1H1B.md]]
 
-[[include:browser_HIST1H1B.md]]
+[[include:tables/browser_HIST1H1B.md]]
 
 ## Expression
 ![](images/gene_expression/HIST1H1B_by_pathology.svg)

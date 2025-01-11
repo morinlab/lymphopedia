@@ -31,7 +31,7 @@ The prevalence of MYOM2 mutations in DLBCL varies across studies. The role of th
 
 
 
-[[include:browser_MYOM2.md]]
+[[include:tables/browser_MYOM2.md]]
 
 ## Expression
 ![](images/gene_expression/MYOM2_by_pathology.svg)

@@ -30,7 +30,7 @@ nocite: |
 
 
 
-[[include:browser_COL11A1.md]]
+[[include:tables/browser_COL11A1.md]]
 
 ## Expression
 ![](images/gene_expression/COL11A1_by_pathology.svg)

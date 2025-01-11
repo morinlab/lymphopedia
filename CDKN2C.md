@@ -27,7 +27,7 @@ nocite: |
 
 
 
-[[include:browser_CDKN2C.md]]
+[[include:tables/browser_CDKN2C.md]]
 
 ## Expression
 ![](images/gene_expression/CDKN2C_by_pathology.svg)

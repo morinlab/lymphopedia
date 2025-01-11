@@ -32,7 +32,7 @@ GRHPR is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm)
 
 
 
-[[include:browser_GRHPR.md]]
+[[include:tables/browser_GRHPR.md]]
 
 ## Expression
 ![](images/gene_expression/GRHPR_by_pathology.svg)

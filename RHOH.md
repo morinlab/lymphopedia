@@ -31,7 +31,7 @@ nocite: |
 |chr4    |40193105  |40204231|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr4%3A40193105%2D40204231)|active_promoter   |
 
 
-[[include:browser_RHOH.md]]
+[[include:tables/browser_RHOH.md]]
 
 ## Expression
 ![](images/gene_expression/RHOH_by_pathology.svg)

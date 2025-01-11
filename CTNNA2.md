@@ -30,7 +30,7 @@ nocite: |
 
 
 
-[[include:browser_CTNNA2.md]]
+[[include:tables/browser_CTNNA2.md]]
 
 ## Expression
 ![](images/gene_expression/CTNNA2_by_pathology.svg)

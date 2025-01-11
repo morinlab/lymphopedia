@@ -28,7 +28,7 @@ nocite: |
 
 
 
-[[include:browser_MKI67.md]]
+[[include:tables/browser_MKI67.md]]
 
 ## Expression
 ![](images/gene_expression/MKI67_by_pathology.svg)

@@ -43,7 +43,7 @@ BTG2 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) 
 
 
 
-[[include:browser_BTG2.md]]
+[[include:tables/browser_BTG2.md]]
 
 ## Expression
 ![](images/gene_expression/BTG2_by_pathology.svg)

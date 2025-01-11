@@ -33,7 +33,7 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 
 
 
-[[include:browser_FBXW7.md]]
+[[include:tables/browser_FBXW7.md]]
 
 ## Expression
 ![](images/gene_expression/FBXW7_by_pathology.svg)

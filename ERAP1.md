@@ -28,7 +28,7 @@ nocite: |
 
 
 
-[[include:browser_ERAP1.md]]
+[[include:tables/browser_ERAP1.md]]
 
 ## Expression
 ![](images/gene_expression/ERAP1_by_pathology.svg)

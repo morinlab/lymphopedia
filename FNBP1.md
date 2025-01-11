@@ -37,7 +37,7 @@ nocite: |
 |chr9    |132800698 |132805491|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr9%3A132800698%2D132805491)|NA                |
 
 
-[[include:browser_FNBP1.md]]
+[[include:tables/browser_FNBP1.md]]
 
 ## Expression
 ![](images/gene_expression/FNBP1_by_pathology.svg)

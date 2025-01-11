@@ -32,7 +32,7 @@ nocite: |
 |chr13   |75982519  |75986015|[intron](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr13%3A75982519%2D75986015)|NA                |
 
 
-[[include:browser_TBC1D4.md]]
+[[include:tables/browser_TBC1D4.md]]
 
 ## Expression
 ![](images/gene_expression/TBC1D4_by_pathology.svg)

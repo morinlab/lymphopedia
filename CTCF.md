@@ -32,7 +32,7 @@ nocite: |
 
 
 
-[[include:browser_CTCF.md]]
+[[include:tables/browser_CTCF.md]]
 
 ## Expression
 ![](images/gene_expression/CTCF_by_pathology.svg)

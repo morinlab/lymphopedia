@@ -34,7 +34,7 @@ nocite: |
 
 
 
-[[include:browser_ENTPD3.md]]
+[[include:tables/browser_ENTPD3.md]]
 
 ## Expression
 ![](images/gene_expression/ENTPD3_by_pathology.svg)

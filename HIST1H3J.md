@@ -36,7 +36,7 @@ nocite: |
 | chr6 | 27858222 | G>A | R117C |
 | chr6 | 27858210 | T>G | M121L |
 
-[[include:browser_HIST1H3J.md]]
+[[include:tables/browser_HIST1H3J.md]]
 
 [[include:tables/mermaid_HIST1H3J.md]]
 

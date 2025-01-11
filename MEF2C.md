@@ -39,7 +39,7 @@ Mutations in this gene were first described in DLBCL by [Arthur et al](papers/ar
 |chr5    |88182244  |88206620|[TSS-1](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr5%3A88182244%2D88206620)|active_promoter   |
 
 
-[[include:browser_MEF2C.md]]
+[[include:tables/browser_MEF2C.md]]
 
 ## Expression
 ![](images/gene_expression/MEF2C_by_pathology.svg)

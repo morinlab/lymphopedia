@@ -35,7 +35,7 @@ nocite: |
 
 
 
-[[include:browser_DNMT3A.md]]
+[[include:tables/browser_DNMT3A.md]]
 
 ## Expression
 ![](images/gene_expression/DNMT3A_by_pathology.svg)

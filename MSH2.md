@@ -33,7 +33,7 @@ nocite: |
 
 
 
-[[include:browser_MSH2.md]]
+[[include:tables/browser_MSH2.md]]
 
 ## Expression
 ![](images/gene_expression/MSH2_by_pathology.svg)

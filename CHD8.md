@@ -28,7 +28,7 @@ nocite: |
 
 [[include:tables/dnds_CHD8.md]]
 
-[[include:browser_CHD8.md]]
+[[include:tables/browser_CHD8.md]]
 
 ## Expression
 ![](images/gene_expression/CHD8_by_pathology.svg)

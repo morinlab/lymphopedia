@@ -37,7 +37,7 @@ nocite: |
  | :---:| :---: | :--: | :---: |
 | chr8 | 100829860 | A>T | Q2755H |
 
-[[include:browser_VPS13B.md]]
+[[include:tables/browser_VPS13B.md]]
 
 ## Expression
 ![](images/gene_expression/VPS13B_by_pathology.svg)

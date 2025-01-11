@@ -36,7 +36,7 @@ Driver mutations affecting this gene in FL have been experimentally demonstrated
 | chr1 | 150727482 | A>C | Y132D |
 | chr1 | 150727482 | A>T | Y132N |
 
-[[include:browser_CTSS.md]]
+[[include:tables/browser_CTSS.md]]
 
 ## Expression
 ![](images/gene_expression/CTSS_by_pathology.svg)

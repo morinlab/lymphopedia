@@ -28,7 +28,7 @@ nocite: |
 
 
 
-[[include:browser_SARM1.md]]
+[[include:tables/browser_SARM1.md]]
 
 ## Expression
 ![](images/gene_expression/SARM1_by_pathology.svg)

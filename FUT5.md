@@ -28,7 +28,7 @@ nocite: |
 
 
 
-[[include:browser_FUT5.md]]
+[[include:tables/browser_FUT5.md]]
 
 ## Expression
 ![](images/gene_expression/FUT5_by_pathology.svg)

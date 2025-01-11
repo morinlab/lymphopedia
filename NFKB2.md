@@ -33,7 +33,7 @@ nocite: |
 
 
 
-[[include:browser_NFKB2.md]]
+[[include:tables/browser_NFKB2.md]]
 
 ## Expression
 ![](images/gene_expression/NFKB2_by_pathology.svg)

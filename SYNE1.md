@@ -23,7 +23,7 @@ nocite: |
 
 
 
-[[include:browser_SYNE1.md]]
+[[include:tables/browser_SYNE1.md]]
 
 ## Expression
 ![](images/gene_expression/SYNE1_by_pathology.svg)

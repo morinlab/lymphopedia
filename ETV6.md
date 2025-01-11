@@ -49,7 +49,7 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 | chr12 | 11803087 | G>A | S9N |
 | chr12 | 11803094 | G>A | K11= |
 
-[[include:browser_ETV6.md]]
+[[include:tables/browser_ETV6.md]]
 
 ## Expression
 ![](images/gene_expression/ETV6_by_pathology.svg)

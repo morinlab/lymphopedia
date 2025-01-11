@@ -36,7 +36,7 @@ Mutations in this gene were reported to be inflated in the original results acco
 
 
 
-[[include:browser_ZFX.md]]
+[[include:tables/browser_ZFX.md]]
 
 ## Expression
 ![](images/gene_expression/ZFX_by_pathology.svg)

@@ -32,7 +32,7 @@ nocite: |
 
 
 
-[[include:browser_TRIP12.md]]
+[[include:tables/browser_TRIP12.md]]
 
 ## Expression
 ![](images/gene_expression/TRIP12_by_pathology.svg)

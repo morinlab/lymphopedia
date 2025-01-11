@@ -33,7 +33,7 @@ Mutations in this gene are relatively rare in DLBCL overall but show a pattern o
 
 
 
-[[include:browser_NCOR2.md]]
+[[include:tables/browser_NCOR2.md]]
 
 ## Expression
 ![](images/gene_expression/NCOR2_by_pathology.svg)

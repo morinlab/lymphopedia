@@ -28,7 +28,7 @@ nocite: |
 
 
 
-[[include:browser_NSD2.md]]
+[[include:tables/browser_NSD2.md]]
 
 ## Expression
 ![](images/gene_expression/NSD2_by_pathology.svg)

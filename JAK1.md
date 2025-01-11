@@ -39,7 +39,7 @@ Mutations in this gene were first described in DLBCL in 2013[@zhangGeneticHetero
  | :---:| :---: | :--: | :---: |
 | chr1 | 65301158 | C>A | G1097V |
 
-[[include:browser_JAK1.md]]
+[[include:tables/browser_JAK1.md]]
 
 ## Expression
 ![](images/gene_expression/JAK1_by_pathology.svg)

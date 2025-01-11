@@ -24,7 +24,7 @@ nocite: |
 
 
 
-[[include:browser_PZP.md]]
+[[include:tables/browser_PZP.md]]
 
 ## Expression
 ![](images/gene_expression/PZP_by_pathology.svg)

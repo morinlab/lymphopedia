@@ -53,7 +53,7 @@ Driver mutations affecting this gene in DLBCL/BL have been experimentally demons
 |chr2|48040511|C>G|G697R| 
 
 
-[[include:browser_FBXO11.md]]
+[[include:tables/browser_FBXO11.md]]
 
 ## Expression
 ![](images/gene_expression/FBXO11_by_pathology.svg)

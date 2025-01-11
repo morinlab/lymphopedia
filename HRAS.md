@@ -33,7 +33,7 @@ nocite: |
 
 
 
-[[include:browser_HRAS.md]]
+[[include:tables/browser_HRAS.md]]
 
 ## Expression
 ![](images/gene_expression/HRAS_by_pathology.svg)

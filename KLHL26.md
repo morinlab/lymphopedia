@@ -27,7 +27,7 @@ nocite: |
 
 
 
-[[include:browser_KLHL26.md]]
+[[include:tables/browser_KLHL26.md]]
 
 ## Expression
 ![](images/gene_expression/KLHL26_by_pathology.svg)

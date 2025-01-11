@@ -25,7 +25,7 @@ nocite: |
 
 
 
-[[include:browser_POT1.md]]
+[[include:tables/browser_POT1.md]]
 
 ## Expression
 ![](images/gene_expression/POT1_by_pathology.svg)

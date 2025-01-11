@@ -25,7 +25,7 @@ nocite: |
 [[include:tables/dnds_CCNF.md]]
 
 
-[[include:browser_CCNF.md]]
+[[include:tables/browser_CCNF.md]]
 
 ## Expression
 ![](images/gene_expression/CCNF_by_pathology.svg)

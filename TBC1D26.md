@@ -29,7 +29,7 @@ nocite: |
 
 
 
-[[include:browser_TBC1D26.md]]
+[[include:tables/browser_TBC1D26.md]]
 
 ## Expression
 ![](images/gene_expression/TBC1D26_by_pathology.svg)

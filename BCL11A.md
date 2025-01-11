@@ -50,7 +50,7 @@ BCL11A (B-cell lymphoma/leukemia 11A) is a transcription factor involved in the 
 | chr2 | 60780368 | C>T | S13N |
 | chr2 | 60780368 | C>G | S13T |
 
-[[include:browser_BCL11A.md]]
+[[include:tables/browser_BCL11A.md]]
 
 ## Expression
 ![](images/gene_expression/BCL11A_by_pathology.svg)

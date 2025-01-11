@@ -25,7 +25,7 @@ nocite: |
 
 
 
-[[include:browser_HEPH.md]]
+[[include:tables/browser_HEPH.md]]
 
 ## Expression
 ![](images/gene_expression/HEPH_by_pathology.svg)

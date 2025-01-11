@@ -42,7 +42,7 @@ nocite: |
 
 
 
-[[include:browser_LPP.md]]
+[[include:tables/browser_LPP.md]]
 
 ## Expression
 ![](images/gene_expression/LPP_by_pathology.svg)

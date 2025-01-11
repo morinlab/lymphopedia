@@ -42,7 +42,7 @@ nocite: |
 | chr20 | 55840918 | G>C | Y87* |
 | chr20 | 55840913 | G>T | A89D |
 
-[[include:browser_BMP7.md]]
+[[include:tables/browser_BMP7.md]]
 
 ## Expression
 ![](images/gene_expression/BMP7_by_pathology.svg)

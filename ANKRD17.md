@@ -26,7 +26,7 @@ nocite: |
 [[include:tables/dnds_ANKRD17.md]]
 
 
-[[include:browser_ANKRD17.md]]
+[[include:tables/browser_ANKRD17.md]]
 
 ## Expression
 ![](images/gene_expression/ANKRD17_by_pathology.svg)

@@ -31,7 +31,7 @@ nocite: |
 
 
 
-[[include:browser_SHANK1.md]]
+[[include:tables/browser_SHANK1.md]]
 
 ## Expression
 ![](images/gene_expression/SHANK1_by_pathology.svg)

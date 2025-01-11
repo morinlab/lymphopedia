@@ -34,7 +34,7 @@ nocite: |
 
 
 
-[[include:browser_MARK1.md]]
+[[include:tables/browser_MARK1.md]]
 
 ## Expression
 ![](images/gene_expression/MARK1_by_pathology.svg)

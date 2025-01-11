@@ -36,7 +36,7 @@ Mutations in this gene were reported to be inflated in the original results acco
 
 
 
-[[include:browser_JUNB.md]]
+[[include:tables/browser_JUNB.md]]
 
 ## Expression
 ![](images/gene_expression/JUNB_by_pathology.svg)

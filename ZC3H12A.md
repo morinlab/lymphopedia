@@ -29,7 +29,7 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 
 [[include:tables/dnds_ZC3H12A.md]]
 
-[[include:browser_ZC3H12A.md]]
+[[include:tables/browser_ZC3H12A.md]]
 
 ## Expression
 ![](images/gene_expression/ZC3H12A_by_pathology.svg)

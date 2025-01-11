@@ -27,7 +27,7 @@ nocite: |
 
 
 
-[[include:browser_REV3L.md]]
+[[include:tables/browser_REV3L.md]]
 
 ## Expression
 ![](images/gene_expression/REV3L_by_pathology.svg)

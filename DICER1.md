@@ -35,7 +35,7 @@ Mutations in this gene were reported to be inflated in the original results acco
 
 
 
-[[include:browser_DICER1.md]]
+[[include:tables/browser_DICER1.md]]
 
 ## Expression
 ![](images/gene_expression/DICER1_by_pathology.svg)

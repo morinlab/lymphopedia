@@ -34,7 +34,7 @@ Mutations in this gene were first described in DLBCL in 2017 by Reddy et al.[@re
 [[include:tables/dnds_CHD1.md]]
 
 
-[[include:browser_CHD1.md]]
+[[include:tables/browser_CHD1.md]]
 
 ## Expression
 ![](images/gene_expression/CHD1_by_pathology.svg)

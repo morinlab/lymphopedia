@@ -25,7 +25,7 @@ nocite: |
 
 
 
-[[include:browser_S1PR1.md]]
+[[include:tables/browser_S1PR1.md]]
 
 ## Expression
 ![](images/gene_expression/S1PR1_by_pathology.svg)

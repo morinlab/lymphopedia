@@ -26,7 +26,7 @@ nocite: |
 
 
 
-[[include:browser_RANBP6.md]]
+[[include:tables/browser_RANBP6.md]]
 
 ## Expression
 ![](images/gene_expression/RANBP6_by_pathology.svg)

@@ -17,7 +17,7 @@ nocite: |
 [[include:tables/BL_SAL3.md]]
 
 
-[[include:browser_SAL3.md]]
+[[include:tables/browser_SAL3.md]]
 
 ## Expression
 ![](images/gene_expression/SAL3_by_pathology.svg)

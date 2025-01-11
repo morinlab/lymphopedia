@@ -29,7 +29,7 @@ Mutations in this gene were first described in DLBCL in 2021 by Hübschmann et a
 
 [[include:tables/dnds_ANKRD12.md]]
 
-[[include:browser_ANKRD12.md]]
+[[include:tables/browser_ANKRD12.md]]
 
 ## Expression
 ![](images/gene_expression/ANKRD12_by_pathology.svg)

@@ -30,7 +30,7 @@ nocite: |
 ### DLBCL
 [[include:tables/DLBCL_EIF2C4.md]]
 
-[[include:browser_EIF2C4.md]]
+[[include:tables/browser_EIF2C4.md]]
 
 [[include:tables/mermaid_EIF2C4.md]]
 

@@ -32,7 +32,7 @@ nocite: |
 
 
 
-[[include:browser_GSG2.md]]
+[[include:tables/browser_GSG2.md]]
 
 ## Expression
 ![](images/gene_expression/GSG2_by_pathology.svg)

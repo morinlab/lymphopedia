@@ -35,7 +35,7 @@ The existence of mutations in DLBCL were described in 2012 by Schmitz et al[@sch
 |:--------:|:----------:|:--------:|:-----------------------------------------------------------------------------------------:|:------------------:|
 |chr1    |23885584  |23885835|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr1%3A23885584%2D23885835)|NA                |
 
-[[include:browser_ID3.md]]
+[[include:tables/browser_ID3.md]]
 
 ## Expression
 ![](images/gene_expression/ID3_by_pathology.svg)

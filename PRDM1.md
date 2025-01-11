@@ -40,7 +40,7 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 | chr6 | 106536324 | G>A | E97= |
 | chr6 | 106536324 | G>C | E97D |
 
-[[include:browser_PRDM1.md]]
+[[include:tables/browser_PRDM1.md]]
 
 ## Expression
 ![](images/gene_expression/PRDM1_by_pathology.svg)

@@ -28,7 +28,7 @@ nocite: |
 
 
 
-[[include:browser_NF1.md]]
+[[include:tables/browser_NF1.md]]
 
 ## Expression
 ![](images/gene_expression/NF1_by_pathology.svg)

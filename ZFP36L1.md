@@ -34,7 +34,7 @@ ZFP36L1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ash
 |chr14   |69257848  |69259739|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr14%3A69257848%2D69259739)|active_promoter   |
 
 
-[[include:browser_ZFP36L1.md]]
+[[include:tables/browser_ZFP36L1.md]]
 
 ## Expression
 ![](images/gene_expression/ZFP36L1_by_pathology.svg)

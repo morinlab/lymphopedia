@@ -31,7 +31,7 @@ nocite: |
 
 
 
-[[include:browser_TIGD6.md]]
+[[include:tables/browser_TIGD6.md]]
 
 ## Expression
 ![](images/gene_expression/TIGD6_by_pathology.svg)

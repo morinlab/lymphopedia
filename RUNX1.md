@@ -33,7 +33,7 @@ nocite: |
 
 
 
-[[include:browser_RUNX1.md]]
+[[include:tables/browser_RUNX1.md]]
 
 ## Expression
 ![](images/gene_expression/RUNX1_by_pathology.svg)

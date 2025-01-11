@@ -29,7 +29,7 @@ nocite: |
 | chr1 | 16256846 | C>T | R1371* |
 | chr1 | 16261814 | C>T | R3027* |
 
-[[include:browser_SPEN.md]]
+[[include:tables/browser_SPEN.md]]
 
 ## Expression
 ![](images/gene_expression/SPEN_by_pathology.svg)

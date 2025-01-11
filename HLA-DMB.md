@@ -26,7 +26,7 @@ Mutations in this gene were first described in DLBCL by [Hübschmann et al](pape
 
 [[include:tables/dnds_HLA-DMB.md]]
 
-[[include:browser_HLA-DMB.md]]
+[[include:tables/browser_HLA-DMB.md]]
 
 ## Expression
 ![](images/gene_expression/HLA-DMB_by_pathology.svg)

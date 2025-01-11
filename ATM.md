@@ -34,7 +34,7 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 [[include:tables/dnds_ATM.md]]
 
 
-[[include:browser_ATM.md]]
+[[include:tables/browser_ATM.md]]
 
 ## Expression
 ![](images/gene_expression/ATM_by_pathology.svg)

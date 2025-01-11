@@ -28,7 +28,7 @@ nocite: |
 
 
 
-[[include:browser_GABRA2.md]]
+[[include:tables/browser_GABRA2.md]]
 
 ## Expression
 ![](images/gene_expression/GABRA2_by_pathology.svg)

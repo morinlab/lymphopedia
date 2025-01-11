@@ -31,7 +31,7 @@ Mutations in this gene were first described in DLBCL and FL in 2021 by Hübschma
 
 
 
-[[include:browser_IKBKE.md]]
+[[include:tables/browser_IKBKE.md]]
 
 ## Expression
 ![](images/gene_expression/IKBKE_by_pathology.svg)

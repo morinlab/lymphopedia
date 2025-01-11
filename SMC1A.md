@@ -28,7 +28,7 @@ nocite: |
 
 
 
-[[include:browser_SMC1A.md]]
+[[include:tables/browser_SMC1A.md]]
 
 ## Expression
 ![](images/gene_expression/SMC1A_by_pathology.svg)

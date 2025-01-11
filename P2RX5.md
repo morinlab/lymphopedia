@@ -33,7 +33,7 @@ nocite: |
 
 
 
-[[include:browser_P2RX5.md]]
+[[include:tables/browser_P2RX5.md]]
 
 ## Expression
 ![](images/gene_expression/P2RX5_by_pathology.svg)

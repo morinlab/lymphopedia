@@ -35,7 +35,7 @@ nocite: |
 
 
 
-[[include:browser_PABPC4L.md]]
+[[include:tables/browser_PABPC4L.md]]
 
 ## Expression
 ![](images/gene_expression/PABPC4L_by_pathology.svg)

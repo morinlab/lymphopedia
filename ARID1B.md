@@ -36,7 +36,7 @@ nocite: |
 [[include:tables/dnds_ARID1B.md]]
 
 
-[[include:browser_ARID1B.md]]
+[[include:tables/browser_ARID1B.md]]
 
 ## Expression
 ![](images/gene_expression/ARID1B_by_pathology.svg)

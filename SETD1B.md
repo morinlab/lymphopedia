@@ -36,7 +36,7 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 | chr12 | 122265950 | G>A | A1858T |
 | chr12 | 122265953 | C>T | R1859C |
 
-[[include:browser_SETD1B.md]]
+[[include:tables/browser_SETD1B.md]]
 
 ## Expression
 ![](images/gene_expression/SETD1B_by_pathology.svg)

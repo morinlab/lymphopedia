@@ -25,7 +25,7 @@ nocite: |
 
 [[include:tables/dnds_TAP1.md]]
 
-[[include:browser_TAP1.md]]
+[[include:tables/browser_TAP1.md]]
 
 ## Expression
 ![](images/gene_expression/TAP1_by_pathology.svg)

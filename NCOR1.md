@@ -33,7 +33,7 @@ nocite: |
 
 
 
-[[include:browser_NCOR1.md]]
+[[include:tables/browser_NCOR1.md]]
 
 ## Expression
 ![](images/gene_expression/NCOR1_by_pathology.svg)

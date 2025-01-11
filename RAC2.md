@@ -34,7 +34,7 @@ nocite: |
 | chr22 | 37627985 | T>C | N92S |
 | chr22 | 37627985 | T>G | N92T |
 
-[[include:browser_RAC2.md]]
+[[include:tables/browser_RAC2.md]]
 
 ## Expression
 ![](images/gene_expression/RAC2_by_pathology.svg)

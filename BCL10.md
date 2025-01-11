@@ -47,7 +47,7 @@ BCL10 missense mutations in the CARD domain and truncating mutations have distin
 | chr1 | 85733390 | G>A | Q208* |
 | chr1 | 85733386 | A>C | L209* |
 
-[[include:browser_BCL10.md]]
+[[include:tables/browser_BCL10.md]]
 
 ## Expression
 

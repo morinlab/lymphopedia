@@ -27,7 +27,7 @@ Mutations in this gene were first described in DLBCL and FL in 2021 by Hübschma
 [[include:tables/dnds_RBM6.md]]
 
 
-[[include:browser_RBM6.md]]
+[[include:tables/browser_RBM6.md]]
 
 ## Expression
 ![](images/gene_expression/RBM6_by_pathology.svg)

@@ -28,7 +28,7 @@ nocite: |
 
 
 
-[[include:browser_TIPARP.md]]
+[[include:tables/browser_TIPARP.md]]
 
 ## Expression
 ![](images/gene_expression/TIPARP_by_pathology.svg)

@@ -29,7 +29,7 @@ Mutations in this gene were first described in DLBCL in 2013[@zhangGeneticHetero
 
 [[include:tables/dnds_BTBD3.md]]
 
-[[include:browser_BTBD3.md]]
+[[include:tables/browser_BTBD3.md]]
 
 ## Expression
 ![](images/gene_expression/BTBD3_by_pathology.svg)

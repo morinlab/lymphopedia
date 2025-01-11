@@ -28,7 +28,7 @@ nocite: |
 
 
 
-[[include:browser_GOLGA5.md]]
+[[include:tables/browser_GOLGA5.md]]
 
 ## Expression
 ![](images/gene_expression/GOLGA5_by_pathology.svg)

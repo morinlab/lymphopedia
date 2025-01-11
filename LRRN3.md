@@ -21,7 +21,7 @@ nocite: |
 
 [[include:tables/dnds_LRRN3.md]]
 
-[[include:browser_LRRN3.md]]
+[[include:tables/browser_LRRN3.md]]
 
 ## Expression
 ![](images/gene_expression/LRRN3_by_pathology.svg)

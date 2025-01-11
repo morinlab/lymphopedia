@@ -41,7 +41,7 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
  | :---:| :---: | :--: | :---: |
 | chr9 | 21971120 | G>A | R80* |
 
-[[include:browser_CDKN2A.md]]
+[[include:tables/browser_CDKN2A.md]]
 
 ## Expression
 

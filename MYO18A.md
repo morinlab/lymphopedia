@@ -27,7 +27,7 @@ nocite: |
 
 
 
-[[include:browser_MYO18A.md]]
+[[include:tables/browser_MYO18A.md]]
 
 ## Expression
 ![](images/gene_expression/MYO18A_by_pathology.svg)

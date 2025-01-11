@@ -29,7 +29,7 @@ Mutations in this gene were first described in DLBCL in 2021 by Hübschmann et a
 
 [[include:tables/dnds_CNOT2.md]]
 
-[[include:browser_CNOT2.md]]
+[[include:tables/browser_CNOT2.md]]
 
 ## Expression
 ![](images/gene_expression/CNOT2_by_pathology.svg)

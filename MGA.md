@@ -28,7 +28,7 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 
 [[include:tables/dnds_MGA.md]]
 
-[[include:browser_MGA.md]]
+[[include:tables/browser_MGA.md]]
 
 ## Expression
 ![](images/gene_expression/MGA_by_pathology.svg)

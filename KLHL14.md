@@ -40,7 +40,7 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 | chr18 | 30349902 | A>C | F218C |
 | chr18 | 30349882 | G>C | L225V |
 
-[[include:browser_KLHL14.md]]
+[[include:tables/browser_KLHL14.md]]
 
 
 <!-- ORIGIN: zhangGeneticHeterogeneityDiffuse2013 -->

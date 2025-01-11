@@ -29,7 +29,7 @@ nocite: |
 
 
 
-[[include:browser_DSG4.md]]
+[[include:tables/browser_DSG4.md]]
 
 ## Expression
 ![](images/gene_expression/DSG4_by_pathology.svg)

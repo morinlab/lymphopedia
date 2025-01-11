@@ -29,7 +29,7 @@ nocite: |
 
 
 
-[[include:browser_ATP11C.md]]
+[[include:tables/browser_ATP11C.md]]
 
 ## Expression
 ![](images/gene_expression/ATP11C_by_pathology.svg)

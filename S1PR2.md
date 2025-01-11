@@ -41,7 +41,7 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 |chr19   |10340142  |10341764|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr19%3A10340142%2D10341764)|active_promoter   |
 
 
-[[include:browser_S1PR2.md]]
+[[include:tables/browser_S1PR2.md]]
 
 ## Expression
 ![](images/gene_expression/S1PR2_by_pathology.svg)

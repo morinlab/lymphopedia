@@ -38,7 +38,7 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 | chr12 | 25398282 | C>A | G13C |
 | chr12 | 25398281 | C>T | G13D |
 
-[[include:browser_KRAS.md]]
+[[include:tables/browser_KRAS.md]]
 
 ## Expression
 ![](images/gene_expression/KRAS_by_pathology.svg)

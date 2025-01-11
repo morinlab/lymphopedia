@@ -31,7 +31,7 @@ nocite: |
 
 
 
-[[include:browser_RBP3.md]]
+[[include:tables/browser_RBP3.md]]
 
 ## Expression
 ![](images/gene_expression/RBP3_by_pathology.svg)

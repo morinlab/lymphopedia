@@ -29,7 +29,7 @@ nocite: |
 
 
 
-[[include:browser_SMARCB1.md]]
+[[include:tables/browser_SMARCB1.md]]
 
 ## Expression
 ![](images/gene_expression/SMARCB1_by_pathology.svg)

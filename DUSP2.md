@@ -56,7 +56,7 @@ The mutation pattern in DLBCL implies the preferential accumulation of *inactiva
 | chr2 | 96810582 | C>T | C143Y |
 | chr2 | 96810574 | C>T | A146T |
 
-[[include:browser_DUSP2.md]]
+[[include:tables/browser_DUSP2.md]]
 
 ## Expression
 ![](images/gene_expression/DUSP2_by_pathology.svg)

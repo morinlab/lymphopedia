@@ -30,7 +30,7 @@ nocite: |
 [[include:tables/dnds_POLRMT.md]]
 
 
-[[include:browser_POLRMT.md]]
+[[include:tables/browser_POLRMT.md]]
 
 ## Expression
 ![](images/gene_expression/POLRMT_by_pathology.svg)

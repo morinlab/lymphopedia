@@ -36,7 +36,7 @@ Mutations in this gene were first described in DLBCL and FL in 2021 by Hübschma
  | :---:| :---: | :--: | :---: |
 | chr19 | 10934492 | G>A | E604K |
 
-[[include:browser_DNM2.md]]
+[[include:tables/browser_DNM2.md]]
 
 ## Expression
 ![](images/gene_expression/DNM2_by_pathology.svg)

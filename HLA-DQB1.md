@@ -27,7 +27,7 @@ nocite: |
 
 
 
-[[include:browser_HLA-DQB1.md]]
+[[include:tables/browser_HLA-DQB1.md]]
 
 ## Expression
 ![](images/gene_expression/HLA-DQB1_by_pathology.svg)

@@ -34,7 +34,7 @@ nocite: |
 | chrX | 140994066 | G>C | Q292H |
 | chrX | 140994280 | A>G | T364A |
 
-[[include:browser_MAGEC1.md]]
+[[include:tables/browser_MAGEC1.md]]
 
 ## Expression
 ![](images/gene_expression/MAGEC1_by_pathology.svg)

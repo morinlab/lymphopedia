@@ -33,7 +33,7 @@ nocite: |
 
 
 
-[[include:browser_ZCCHC7.md]]
+[[include:tables/browser_ZCCHC7.md]]
 
 ## Expression
 ![](images/gene_expression/ZCCHC7_by_pathology.svg)

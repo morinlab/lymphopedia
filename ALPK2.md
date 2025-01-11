@@ -35,7 +35,7 @@ nocite: |
  | :---:| :---: | :--: | :---: |
 | chr18 | 56203836 | C>T | V1195M |
 
-[[include:browser_ALPK2.md]]
+[[include:tables/browser_ALPK2.md]]
 
 ## Expression
 ![](images/gene_expression/ALPK2_by_pathology.svg)

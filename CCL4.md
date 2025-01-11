@@ -29,7 +29,7 @@ nocite: |
 
 
 
-[[include:browser_CCL4.md]]
+[[include:tables/browser_CCL4.md]]
 
 ## Expression
 ![](images/gene_expression/CCL4_by_pathology.svg)

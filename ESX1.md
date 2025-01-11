@@ -30,7 +30,7 @@ nocite: |
 
 
 
-[[include:browser_ESX1.md]]
+[[include:tables/browser_ESX1.md]]
 
 ## Expression
 ![](images/gene_expression/ESX1_by_pathology.svg)

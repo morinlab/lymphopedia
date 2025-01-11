@@ -26,7 +26,7 @@ nocite: |
 [[include:tables/dnds_PDE4DIP.md]]
 
 
-[[include:browser_PDE4DIP.md]]
+[[include:tables/browser_PDE4DIP.md]]
 
 ## Expression
 ![](images/gene_expression/PDE4DIP_by_pathology.svg)

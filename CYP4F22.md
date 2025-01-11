@@ -34,7 +34,7 @@ Due to [minimal support](CYP4F22#representative-mutation) in the original primar
 [[include:tables/dnds_CYP4F22.md]]
 
 
-[[include:browser_CYP4F22.md]]
+[[include:tables/browser_CYP4F22.md]]
 
 ## Expression
 ![](images/gene_expression/CYP4F22_by_pathology.svg)

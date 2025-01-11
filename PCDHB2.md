@@ -28,7 +28,7 @@ nocite: |
 
 
 
-[[include:browser_PCDHB2.md]]
+[[include:tables/browser_PCDHB2.md]]
 
 ## Expression
 ![](images/gene_expression/PCDHB2_by_pathology.svg)

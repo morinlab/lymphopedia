@@ -29,7 +29,7 @@ nocite: |
 
 
 
-[[include:browser_GRIN2A.md]]
+[[include:tables/browser_GRIN2A.md]]
 
 ## Expression
 ![](images/gene_expression/GRIN2A_by_pathology.svg)

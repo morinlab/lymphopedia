@@ -40,7 +40,7 @@ Driver mutations affecting this gene in DLBCL/FL/BL have been experimentally dem
 
 [[include:tables/dnds_SMARCA4.md]]
 
-[[include:browser_SMARCA4.md]]
+[[include:tables/browser_SMARCA4.md]]
 
 ## Expression
 ![](images/gene_expression/SMARCA4_by_pathology.svg)

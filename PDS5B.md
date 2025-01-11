@@ -28,7 +28,7 @@ nocite: |
 
 [[include:tables/dnds_PDS5B.md]]
 
-[[include:browser_PDS5B.md]]
+[[include:tables/browser_PDS5B.md]]
 
 ## Expression
 ![](images/gene_expression/PDS5B_by_pathology.svg)

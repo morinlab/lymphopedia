@@ -34,7 +34,7 @@ Mutations in this gene were first described in DLBCL in 2017 by Reddy et al.[@re
 [[include:tables/dnds_CHST2.md]]
 
 
-[[include:browser_CHST2.md]]
+[[include:tables/browser_CHST2.md]]
 
 ## Expression
 ![](images/gene_expression/CHST2_by_pathology.svg)

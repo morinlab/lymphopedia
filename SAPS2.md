@@ -22,7 +22,7 @@ nocite: |
 
 [[include:tables/BL_SAPS2.md]]
 
-[[include:browser_SAPS2.md]]
+[[include:tables/browser_SAPS2.md]]
 
 ## Expression
 ![](images/gene_expression/SAPS2_by_pathology.svg)

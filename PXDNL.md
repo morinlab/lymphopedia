@@ -34,7 +34,7 @@ nocite: |
 
 
 
-[[include:browser_PXDNL.md]]
+[[include:tables/browser_PXDNL.md]]
 
 ## Expression
 ![](images/gene_expression/PXDNL_by_pathology.svg)

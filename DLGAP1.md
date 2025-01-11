@@ -35,7 +35,7 @@ Due to [minimal support](DLGAP1#representative-mutation) in the original primary
 
 
 
-[[include:browser_DLGAP1.md]]
+[[include:tables/browser_DLGAP1.md]]
 
 ## Expression
 ![](images/gene_expression/DLGAP1_by_pathology.svg)

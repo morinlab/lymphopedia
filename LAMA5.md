@@ -28,7 +28,7 @@ nocite: |
 
 
 
-[[include:browser_LAMA5.md]]
+[[include:tables/browser_LAMA5.md]]
 
 ## Expression
 ![](images/gene_expression/LAMA5_by_pathology.svg)

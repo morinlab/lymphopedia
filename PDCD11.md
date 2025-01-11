@@ -26,7 +26,7 @@ nocite: |
 
 
 
-[[include:browser_PDCD11.md]]
+[[include:tables/browser_PDCD11.md]]
 
 ## Expression
 ![](images/gene_expression/PDCD11_by_pathology.svg)

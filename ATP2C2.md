@@ -38,7 +38,7 @@ Due to [minimal support](ATP2C2#representative-mutation) in the original primary
 
 
 
-[[include:browser_ATP2C2.md]]
+[[include:tables/browser_ATP2C2.md]]
 
 ## Expression
 ![](images/gene_expression/ATP2C2_by_pathology.svg)

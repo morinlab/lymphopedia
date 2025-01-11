@@ -41,7 +41,7 @@ The function of mutations in ACTB and ACTG1 have not yet been determined.[@witje
 
 
 
-[[include:browser_ACTG1.md]]
+[[include:tables/browser_ACTG1.md]]
 
 ## Expression
 ![](images/gene_expression/ACTG1_by_pathology.svg)

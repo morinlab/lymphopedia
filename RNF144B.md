@@ -32,7 +32,7 @@ nocite: |
 
 
 
-[[include:browser_RNF144B.md]]
+[[include:tables/browser_RNF144B.md]]
 
 ## Expression
 ![](images/gene_expression/RNF144B_by_pathology.svg)

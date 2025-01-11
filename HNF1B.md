@@ -28,7 +28,7 @@ nocite: |
 
 
 
-[[include:browser_HNF1B.md]]
+[[include:tables/browser_HNF1B.md]]
 
 ## Expression
 ![](images/gene_expression/HNF1B_by_pathology.svg)

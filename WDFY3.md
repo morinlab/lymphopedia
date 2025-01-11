@@ -28,7 +28,7 @@ nocite: |
 
 
 
-[[include:browser_WDFY3.md]]
+[[include:tables/browser_WDFY3.md]]
 
 ## Expression
 ![](images/gene_expression/WDFY3_by_pathology.svg)

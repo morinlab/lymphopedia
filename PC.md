@@ -32,7 +32,7 @@ Due to [minimal support](PC#representative-mutations) in the original primary da
 [[include:tables/dnds_PC.md]]
 
 
-[[include:browser_PC.md]]
+[[include:tables/browser_PC.md]]
 
 ## Expression
 ![](images/gene_expression/PC_by_pathology.svg)

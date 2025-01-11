@@ -32,7 +32,7 @@ nocite: |
 
 
 
-[[include:browser_SLC29A2.md]]
+[[include:tables/browser_SLC29A2.md]]
 
 ## Expression
 ![](images/gene_expression/SLC29A2_by_pathology.svg)

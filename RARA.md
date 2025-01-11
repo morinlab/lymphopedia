@@ -32,7 +32,7 @@ nocite: |
 
 
 
-[[include:browser_RARA.md]]
+[[include:tables/browser_RARA.md]]
 
 ## Expression
 ![](images/gene_expression/RARA_by_pathology.svg)

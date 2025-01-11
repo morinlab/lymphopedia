@@ -53,7 +53,7 @@ Although missense mutations may not be under positive selective pressure in the 
 | chr18 | 60985835 | T>C | K22R |
 | chr18 | 60985834 | CT>TC | K22R |
 
-[[include:browser_BCL2.md]]
+[[include:tables/browser_BCL2.md]]
 
 ## Expression
 ![](images/gene_expression/BCL2_by_pathology.svg)

@@ -40,7 +40,7 @@ Due to [minimal support](FTCD#representative-mutation) in the original primary d
 
 
 
-[[include:browser_FTCD.md]]
+[[include:tables/browser_FTCD.md]]
 
 ## Expression
 ![](images/gene_expression/FTCD_by_pathology.svg)

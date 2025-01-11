@@ -40,7 +40,7 @@ MCL1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) 
 |chr1    |150550814 |150552135|[intron](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr1%3A150550814%2D150552135)|NA                |
 
 
-[[include:browser_MCL1.md]]
+[[include:tables/browser_MCL1.md]]
 
 ## Expression
 ![](images/gene_expression/MCL1_by_pathology.svg)

@@ -26,7 +26,7 @@ Mutations in this gene were first described in DLBCL and FL in 2021 by Hübschma
 
 [[include:tables/dnds_FZR1.md]]
 
-[[include:browser_FZR1.md]]
+[[include:tables/browser_FZR1.md]]
 
 ## Expression
 ![](images/gene_expression/FZR1_by_pathology.svg)

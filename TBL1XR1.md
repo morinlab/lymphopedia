@@ -41,7 +41,7 @@ Driver mutations affecting this gene in FL/DLBCL have been experimentally demons
 | chr3 | 176750838 | T>C | Y446C |
 | chr3 | 176750836 | T>G | S447R |
 
-[[include:browser_TBL1XR1.md]]
+[[include:tables/browser_TBL1XR1.md]]
 
 ## Expression
 ![](images/gene_expression/TBL1XR1_by_pathology.svg)

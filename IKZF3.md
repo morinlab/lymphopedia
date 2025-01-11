@@ -61,7 +61,7 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 |chr17|37944556|C>T|E222K| 
 
 
-[[include:browser_IKZF3.md]]
+[[include:tables/browser_IKZF3.md]]
 
 ## Expression
 ![](images/gene_expression/IKZF3_by_pathology.svg)

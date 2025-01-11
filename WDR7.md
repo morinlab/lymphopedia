@@ -35,7 +35,7 @@ nocite: |
 
 
 
-[[include:browser_WDR7.md]]
+[[include:tables/browser_WDR7.md]]
 
 ## Expression
 ![](images/gene_expression/WDR7_by_pathology.svg)

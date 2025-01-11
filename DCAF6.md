@@ -36,7 +36,7 @@ Mutations in this gene were first described in DLBCL in 2017 by Reddy et al.[@re
 
 
 
-[[include:browser_DCAF6.md]]
+[[include:tables/browser_DCAF6.md]]
 
 ## Expression
 ![](images/gene_expression/DCAF6_by_pathology.svg)

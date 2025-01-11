@@ -35,7 +35,7 @@ nocite: |
 | chr19 | 42384963 | T>A | Y199* |
 | chr19 | 42384963 | T>G | Y199* |
 
-[[include:browser_CD79A.md]]
+[[include:tables/browser_CD79A.md]]
 
 ## Expression
 ![](images/gene_expression/CD79A_by_pathology.svg)

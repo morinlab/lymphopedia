@@ -36,7 +36,7 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 |chr3    |101568239 |101569274|[TSS-2](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr3%3A101568239%2D101569274)|active_promoter   |
 
 
-[[include:browser_NFKBIZ.md]]
+[[include:tables/browser_NFKBIZ.md]]
 
 ## Expression
 ![](images/gene_expression/NFKBIZ_by_pathology.svg)

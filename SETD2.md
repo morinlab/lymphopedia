@@ -32,7 +32,7 @@ Mutations in this gene were first described in DLBCL in 2013[@zhangGeneticHetero
 
 
 
-[[include:browser_SETD2.md]]
+[[include:tables/browser_SETD2.md]]
 
 ## Expression
 ![](images/gene_expression/SETD2_by_pathology.svg)

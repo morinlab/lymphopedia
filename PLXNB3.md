@@ -28,7 +28,7 @@ nocite: |
 
 
 
-[[include:browser_PLXNB3.md]]
+[[include:tables/browser_PLXNB3.md]]
 
 ## Expression
 ![](images/gene_expression/PLXNB3_by_pathology.svg)

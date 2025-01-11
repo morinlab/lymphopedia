@@ -35,7 +35,7 @@ nocite: |
 
 
 
-[[include:browser_PDZRN3.md]]
+[[include:tables/browser_PDZRN3.md]]
 
 ## Expression
 ![](images/gene_expression/PDZRN3_by_pathology.svg)

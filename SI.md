@@ -28,7 +28,7 @@ nocite: |
 
 
 
-[[include:browser_SI.md]]
+[[include:tables/browser_SI.md]]
 
 ## Expression
 ![](images/gene_expression/SI_by_pathology.svg)

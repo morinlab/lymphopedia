@@ -33,7 +33,7 @@ nocite: |
 
 
 
-[[include:browser_MAP4K4.md]]
+[[include:tables/browser_MAP4K4.md]]
 
 ## Expression
 ![](images/gene_expression/MAP4K4_by_pathology.svg)

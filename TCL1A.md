@@ -33,7 +33,7 @@ nocite: |
 
 
 
-[[include:browser_TCL1A.md]]
+[[include:tables/browser_TCL1A.md]]
 
 ## Expression
 ![](images/gene_expression/TCL1A_by_pathology.svg)

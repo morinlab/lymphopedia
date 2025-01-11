@@ -23,7 +23,7 @@ nocite: |
 [[include:tables/dnds_ADAMTS5.md]]
 
 
-[[include:browser_ADAMTS5.md]]
+[[include:tables/browser_ADAMTS5.md]]
 
 ## Expression
 ![](images/gene_expression/ADAMTS5_by_pathology.svg)

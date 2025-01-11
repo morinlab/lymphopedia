@@ -30,7 +30,7 @@ Mutations in this gene were first described in DLBCL in 2013 by Morin et al.[@mo
 [[include:tables/dnds_CNTNAP5.md]]
 
 
-[[include:browser_CNTNAP5.md]]
+[[include:tables/browser_CNTNAP5.md]]
 
 ## Expression
 ![](images/gene_expression/CNTNAP5_by_pathology.svg)

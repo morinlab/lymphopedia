@@ -37,7 +37,7 @@ nocite: |
 
 
 
-[[include:browser_PAX5.md]]
+[[include:tables/browser_PAX5.md]]
 
 ## Expression
 ![](images/gene_expression/PAX5_by_pathology.svg)

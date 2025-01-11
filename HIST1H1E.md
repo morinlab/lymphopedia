@@ -57,7 +57,7 @@ Mutations in this gene were first described in DLBCL in 2013 by Morin et al.[@mo
 | chr6 | 26157121 | A>T | K168I |
 | chr6 | 26157139 | A>G | K174R |
 
-[[include:browser_HIST1H1E.md]]
+[[include:tables/browser_HIST1H1E.md]]
 
 [[include:tables/mermaid_HIST1H1E.md]]
 

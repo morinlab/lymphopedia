@@ -37,7 +37,7 @@ nocite: |
 |chr20   |46128611  |46138099|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr20%3A46128611%2D46138099)|active_promoter   |
 
 
-[[include:browser_NCOA3.md]]
+[[include:tables/browser_NCOA3.md]]
 
 ## Expression
 ![](images/gene_expression/NCOA3_by_pathology.svg)

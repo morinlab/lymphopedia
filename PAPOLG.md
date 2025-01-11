@@ -28,7 +28,7 @@ nocite: |
 
 
 
-[[include:browser_PAPOLG.md]]
+[[include:tables/browser_PAPOLG.md]]
 
 ## Expression
 ![](images/gene_expression/PAPOLG_by_pathology.svg)

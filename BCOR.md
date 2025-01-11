@@ -45,7 +45,7 @@ BCOR acts as a co-repressor of BCL6, and mutations in BCOR could impair its bind
  | :---:| :---: | :--: | :---: |
 | chrX | 39921444 | T>C | N1459S |
 
-[[include:browser_BCOR.md]]
+[[include:tables/browser_BCOR.md]]
 
 ## Expression
 ![](images/gene_expression/BCOR_by_pathology.svg)

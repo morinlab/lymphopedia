@@ -38,7 +38,7 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 |chr11   |60223385  |60225310|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr11%3A60223385%2D60225310)|active_promoter   |
 
 
-[[include:browser_MS4A1.md]]
+[[include:tables/browser_MS4A1.md]]
 
 ## Expression
 ![](images/gene_expression/MS4A1_by_pathology.svg)

@@ -26,7 +26,7 @@ nocite: |
 [[include:tables/dnds_PCDHB11.md]]
 
 
-[[include:browser_PCDHB11.md]]
+[[include:tables/browser_PCDHB11.md]]
 
 ## Expression
 ![](images/gene_expression/PCDHB11_by_pathology.svg)

@@ -37,7 +37,7 @@ Driver mutations affecting this gene in FL/DLBCL have been experimentally demons
 | chr19 | 42600030 | T>C | T239A |
 | chr19 | 42600030 | T>A | T239S |
 
-[[include:browser_POU2F2.md]]
+[[include:tables/browser_POU2F2.md]]
 
 ## Expression
 ![](images/gene_expression/POU2F2_by_pathology.svg)

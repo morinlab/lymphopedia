@@ -75,7 +75,7 @@ Driver mutations affecting this gene in DLBCL/FL/BL have been experimentally dem
 | chr8 | 128750695 | C>T | P78S |
 | chr8 | 128750696 | C>G | P78R |
 
-[[include:browser_MYC.md]]
+[[include:tables/browser_MYC.md]]
 
 ## Expression
 

@@ -29,7 +29,7 @@ nocite: |
 
 
 
-[[include:browser_MRGPRF.md]]
+[[include:tables/browser_MRGPRF.md]]
 
 ## Expression
 ![](images/gene_expression/MRGPRF_by_pathology.svg)

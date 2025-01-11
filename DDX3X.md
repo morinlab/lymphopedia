@@ -43,7 +43,7 @@ Driver mutations affecting this gene in DLBCL/BL have been experimentally demons
 
 
 
-[[include:browser_DDX3X.md]]
+[[include:tables/browser_DDX3X.md]]
 
 ## Expression
 ![](images/gene_expression/DDX3X_by_pathology.svg)

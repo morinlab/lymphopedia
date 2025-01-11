@@ -28,7 +28,7 @@ nocite: |
 | chr1 | 6614187 | G>C | L126V |
 | chr1 | 6614167 | C>A | Q132H |
 
-[[include:browser_NOL9.md]]
+[[include:tables/browser_NOL9.md]]
 
 ## Expression
 ![](images/gene_expression/NOL9_by_pathology.svg)

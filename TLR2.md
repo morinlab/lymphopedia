@@ -31,7 +31,7 @@ nocite: |
 | chr4 | 154625039 | A>T | D327V |
 | chr4 | 154625042 | T>G | L328R |
 
-[[include:browser_TLR2.md]]
+[[include:tables/browser_TLR2.md]]
 
 ## Expression
 ![](images/gene_expression/TLR2_by_pathology.svg)

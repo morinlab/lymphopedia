@@ -33,7 +33,7 @@ nocite: |
 
 
 
-[[include:browser_MYB.md]]
+[[include:tables/browser_MYB.md]]
 
 ## Expression
 ![](images/gene_expression/MYB_by_pathology.svg)

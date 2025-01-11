@@ -33,7 +33,7 @@ nocite: |
 
 
 
-[[include:browser_RFTN1.md]]
+[[include:tables/browser_RFTN1.md]]
 
 ## Expression
 ![](images/gene_expression/RFTN1_by_pathology.svg)

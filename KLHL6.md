@@ -65,7 +65,7 @@ Driver mutations affecting this gene in DLBCL/FL have been experimentally demons
 | chr3 | 183273155 | T>A | Y96F |
 | chr3 | 183273153 | A>G | F97L |
 
-[[include:browser_KLHL6.md]]
+[[include:tables/browser_KLHL6.md]]
 
 ## Expression
 ![](images/gene_expression/KLHL6_by_pathology.svg)

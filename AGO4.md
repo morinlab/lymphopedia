@@ -22,7 +22,7 @@ nocite: |
 
 
 
-[[include:browser_AGO4.md]]
+[[include:tables/browser_AGO4.md]]
 
 ## Expression
 ![](images/gene_expression/AGO4_by_pathology.svg)

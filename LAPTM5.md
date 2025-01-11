@@ -37,7 +37,7 @@ Mutations in this gene were first described in DLBCL and FL in 2021 by [Hübschm
 |chr1    |31229012  |31232011|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr1%3A31229012%2D31232011)|NA                |
 
 
-[[include:browser_LAPTM5.md]]
+[[include:tables/browser_LAPTM5.md]]
 
 ## Expression
 ![](images/gene_expression/LAPTM5_by_pathology.svg)

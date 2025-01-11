@@ -31,7 +31,7 @@ nocite: |
 
 
 
-[[include:browser_PTPRN.md]]
+[[include:tables/browser_PTPRN.md]]
 
 ## Expression
 ![](images/gene_expression/PTPRN_by_pathology.svg)

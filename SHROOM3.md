@@ -25,7 +25,7 @@ nocite: |
 
 
 
-[[include:browser_SHROOM3.md]]
+[[include:tables/browser_SHROOM3.md]]
 
 ## Expression
 ![](images/gene_expression/SHROOM3_by_pathology.svg)

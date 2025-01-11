@@ -36,7 +36,7 @@ Driver mutations affecting this gene in FL/DLBCL have been experimentally demons
 | chr6 | 138198218 | C>T | R271* |
 | chr6 | 138198246 | G>A | R280Q |
 
-[[include:browser_TNFAIP3.md]]
+[[include:tables/browser_TNFAIP3.md]]
 
 ## Expression
 

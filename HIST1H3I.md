@@ -28,7 +28,7 @@ nocite: |
 [[include:tables/dnds_HIST1H3I]]
 
 
-[[include:browser_HIST1H3I.md]]
+[[include:tables/browser_HIST1H3I.md]]
 
 
 [[include:tables/mermaid_HIST1H3I.md]]

@@ -27,7 +27,7 @@ nocite: |
 
 
 
-[[include:browser_PREX1.md]]
+[[include:tables/browser_PREX1.md]]
 
 ## Expression
 ![](images/gene_expression/PREX1_by_pathology.svg)

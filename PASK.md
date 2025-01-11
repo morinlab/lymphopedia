@@ -28,7 +28,7 @@ nocite: |
 
 
 
-[[include:browser_PASK.md]]
+[[include:tables/browser_PASK.md]]
 
 ## Expression
 ![](images/gene_expression/PASK_by_pathology.svg)

@@ -35,7 +35,7 @@ nocite: |
 
 
 
-[[include:browser_KCNK10.md]]
+[[include:tables/browser_KCNK10.md]]
 
 ## Expression
 ![](images/gene_expression/KCNK10_by_pathology.svg)

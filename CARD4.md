@@ -29,7 +29,7 @@ nocite: |
 
 [[include:tables/dnds_CARD4.md]]
 
-[[include:browser_CARD4.md]]
+[[include:tables/browser_CARD4.md]]
 
 <!-- ORIGIN: loveGeneticLandscapeMutations2012 -->
 <!-- BL: loveGeneticLandscapeMutations2012 -->

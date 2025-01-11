@@ -30,7 +30,7 @@ Mutations in this gene were first described in DLBCL and FL in 2021 by Hübschma
 [[include:tables/dnds_PNPO.md]]
 
 
-[[include:browser_PNPO.md]]
+[[include:tables/browser_PNPO.md]]
 
 ## Expression
 ![](images/gene_expression/PNPO_by_pathology.svg)

@@ -28,7 +28,7 @@ nocite: |
 
 
 
-[[include:browser_CPXM2.md]]
+[[include:tables/browser_CPXM2.md]]
 
 ## Expression
 ![](images/gene_expression/CPXM2_by_pathology.svg)

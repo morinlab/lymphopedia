@@ -33,7 +33,7 @@ nocite: |
 [[include:tables/dnds_SNTB2.md]]
 
 
-[[include:browser_SNTB2.md]]
+[[include:tables/browser_SNTB2.md]]
 
 ## Expression
 ![](images/gene_expression/SNTB2_by_pathology.svg)

@@ -37,7 +37,7 @@ nocite: |
 |chr22   |29194943  |29197461|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr22%3A29194943%2D29197461)|NA                |
 
 
-[[include:browser_XBP1.md]]
+[[include:tables/browser_XBP1.md]]
 
 ## Expression
 ![](images/gene_expression/XBP1_by_pathology.svg)

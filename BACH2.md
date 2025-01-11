@@ -36,7 +36,7 @@ Driver mutations affecting this gene in BL have been experimentally demonstrated
 |chr6    |90981034  |91016134|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr6%3A90981034%2D91016134)|NA                |
 
 
-[[include:browser_BACH2.md]]
+[[include:tables/browser_BACH2.md]]
 
 ## Expression
 ![](images/gene_expression/BACH2_by_pathology.svg)

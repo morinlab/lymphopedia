@@ -27,7 +27,7 @@ Mutations in this gene were first described in FL in 2021 by Hübschmann et al.[
 [[include:tables/dnds_JUP.md]]
 
 
-[[include:browser_JUP.md]]
+[[include:tables/browser_JUP.md]]
 
 ## Expression
 ![](images/gene_expression/JUP_by_pathology.svg)

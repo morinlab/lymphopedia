@@ -21,7 +21,7 @@ nocite: |
 ## Mutation pattern and selective pressure estimates
 -->
 
-[[include:browser_EWSR1.md]]
+[[include:tables/browser_EWSR1.md]]
 
 ## Expression
 ![](images/gene_expression/EWSR1_by_pathology.svg)

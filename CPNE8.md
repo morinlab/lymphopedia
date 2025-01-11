@@ -29,7 +29,7 @@ Mutations in this gene were first described in FL in 2021 by Hübschmann et al.[
 
 
 
-[[include:browser_CPNE8.md]]
+[[include:tables/browser_CPNE8.md]]
 
 ## Expression
 ![](images/gene_expression/CPNE8_by_pathology.svg)

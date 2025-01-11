@@ -44,7 +44,7 @@ Driver mutations affecting this gene in BL/DLBCL/FL have been experimentally dem
 
 [[include:tables/dnds_KMT2D.md]]
 
-[[include:browser_KMT2D.md]]
+[[include:tables/browser_KMT2D.md]]
 
 ## Expression
 ![](images/gene_expression/KMT2D_by_pathology.svg)

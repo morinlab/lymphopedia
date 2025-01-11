@@ -27,7 +27,7 @@ This gene encodes the H2A protein, one of the core proteins comprising nucleosom
 [[include:tables/dnds_HIST2H2BE.md]]
 
 
-[[include:browser_HIST2H2BE.md]]
+[[include:tables/browser_HIST2H2BE.md]]
 
 ## Expression
 ![](images/gene_expression/HIST2H2BE_by_pathology.svg)

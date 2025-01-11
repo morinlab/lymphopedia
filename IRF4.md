@@ -47,7 +47,7 @@ There are a few mutation hotspots in this gene. The functional role of mutations
 | chr6 | 393360 | C>G | L70V |
 | chr6 | 393360 | C>T | L70F |
 
-[[include:browser_IRF4.md]]
+[[include:tables/browser_IRF4.md]]
 
 ## Expression
 ![](images/gene_expression/IRF4_by_pathology.svg)

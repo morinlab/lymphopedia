@@ -33,7 +33,7 @@ Mutations in this gene were first described in DLBCL in 2021 by Hübschmann et a
 
 
 
-[[include:browser_LRP12.md]]
+[[include:tables/browser_LRP12.md]]
 
 ## Expression
 ![](images/gene_expression/LRP12_by_pathology.svg)

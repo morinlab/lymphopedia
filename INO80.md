@@ -32,7 +32,7 @@ Mutations in this gene were first described in DLBCL in 2013[@zhangGeneticHetero
 
 
 
-[[include:browser_INO80.md]]
+[[include:tables/browser_INO80.md]]
 
 ## Expression
 ![](images/gene_expression/INO80_by_pathology.svg)

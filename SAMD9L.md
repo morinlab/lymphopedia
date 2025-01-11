@@ -27,7 +27,7 @@ nocite: |
 
 
 
-[[include:browser_SAMD9L.md]]
+[[include:tables/browser_SAMD9L.md]]
 
 ## Expression
 ![](images/gene_expression/SAMD9L_by_pathology.svg)

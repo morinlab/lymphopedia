@@ -26,7 +26,7 @@ nocite: |
 
 
 
-[[include:browser_CYP2A6.md]]
+[[include:tables/browser_CYP2A6.md]]
 
 ## Expression
 ![](images/gene_expression/CYP2A6_by_pathology.svg)

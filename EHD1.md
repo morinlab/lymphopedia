@@ -25,7 +25,7 @@ nocite: |
 
 
 
-[[include:browser_EHD1.md]]
+[[include:tables/browser_EHD1.md]]
 
 ## Expression
 ![](images/gene_expression/EHD1_by_pathology.svg)

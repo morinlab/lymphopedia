@@ -35,7 +35,7 @@ nocite: |
 | chr7 | 82585302 | A>G | L1656P |
 | chr7 | 82544727 | T>C | K4192R |
 
-[[include:browser_PCLO.md]]
+[[include:tables/browser_PCLO.md]]
 
 ## Expression
 ![](images/gene_expression/PCLO_by_pathology.svg)

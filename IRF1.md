@@ -36,7 +36,7 @@ Mutations in this gene were first described in DLBCL and FL in 2021 by Hübschma
 |chr5    |131823933 |131826458|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr5%3A131823933%2D131826458)|active_promoter   |
 
 
-[[include:browser_IRF1.md]]
+[[include:tables/browser_IRF1.md]]
 
 ## Expression
 ![](images/gene_expression/IRF1_by_pathology.svg)

@@ -32,7 +32,7 @@ nocite: |
 
 
 
-[[include:browser_GRIK5.md]]
+[[include:tables/browser_GRIK5.md]]
 
 ## Expression
 ![](images/gene_expression/GRIK5_by_pathology.svg)

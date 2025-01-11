@@ -29,7 +29,7 @@ nocite: |
 
 
 
-[[include:browser_DDX10.md]]
+[[include:tables/browser_DDX10.md]]
 
 ## Expression
 ![](images/gene_expression/DDX10_by_pathology.svg)

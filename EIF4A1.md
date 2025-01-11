@@ -26,7 +26,7 @@ nocite: |
 [[include:tables/dnds_EIF4A1.md]]
 
 
-[[include:browser_EIF4A1.md]]
+[[include:tables/browser_EIF4A1.md]]
 
 ## Expression
 ![](images/gene_expression/EIF4A1_by_pathology.svg)

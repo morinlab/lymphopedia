@@ -28,7 +28,7 @@ Driver mutations affecting this gene in BL/DLBCL have been experimentally demons
 
 [[include:tables/dnds_PTEN.md]]
 
-[[include:browser_PTEN.md]]
+[[include:tables/browser_PTEN.md]]
 
 ## Expression
 ![](images/gene_expression/PTEN_by_pathology.svg)

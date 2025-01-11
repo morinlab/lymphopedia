@@ -36,7 +36,7 @@ Due to [minimal support](EML2#representative-mutation) in the original primary d
 [[include:tables/dnds_EML2.md]]
 
 
-[[include:browser_EML2.md]]
+[[include:tables/browser_EML2.md]]
 
 ## Expression
 ![](images/gene_expression/EML2_by_pathology.svg)

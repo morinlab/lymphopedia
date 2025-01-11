@@ -36,7 +36,7 @@ Mutations in this gene were reported to be inflated in the original results acco
 
 
 
-[[include:browser_YY1.md]]
+[[include:tables/browser_YY1.md]]
 
 ## Expression
 ![](images/gene_expression/YY1_by_pathology.svg)

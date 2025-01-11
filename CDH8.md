@@ -26,7 +26,7 @@ nocite: |
 
 
 
-[[include:browser_CDH8.md]]
+[[include:tables/browser_CDH8.md]]
 
 ## Expression
 ![](images/gene_expression/CDH8_by_pathology.svg)

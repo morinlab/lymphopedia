@@ -47,7 +47,7 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 | chr1 | 226925148 | G>C | Y4* |
 | chr1 | 226925148 | G>T | Y4* |
 
-[[include:browser_ITPKB.md]]
+[[include:tables/browser_ITPKB.md]]
 
 ## Expression
 ![](images/gene_expression/ITPKB_by_pathology.svg)

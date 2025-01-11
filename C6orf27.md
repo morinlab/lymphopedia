@@ -26,7 +26,7 @@ Due to [minimal support](C6orf27#representative-mutation) in the original primar
 
 [[include:tables/BL_C6orf27.md]]
 
-[[include:browser_C6orf27.md]]
+[[include:tables/browser_C6orf27.md]]
 
 <!-- ORIGIN: loveGeneticLandscapeMutations2012 -->
 <!-- BL: loveGeneticLandscapeMutations2012 -->

@@ -32,7 +32,7 @@ Mutations in this gene were first described in DLBCL in 2021 by Hübschmann et a
 
 
 
-[[include:browser_DHX16.md]]
+[[include:tables/browser_DHX16.md]]
 
 ## Expression
 ![](images/gene_expression/DHX16_by_pathology.svg)

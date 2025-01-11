@@ -28,7 +28,7 @@ This gene has been reported to be recurrently mutated in DLBCL. The rate of muta
 
 [[include:tables/dnds_KMT2C.md]]
 
-[[include:browser_KMT2C.md]]
+[[include:tables/browser_KMT2C.md]]
 
 ## Expression
 ![](images/gene_expression/KMT2C_by_pathology.svg)

@@ -27,7 +27,7 @@ nocite: |
 
 
 
-[[include:browser_POGZ.md]]
+[[include:tables/browser_POGZ.md]]
 
 ## Expression
 ![](images/gene_expression/POGZ_by_pathology.svg)

@@ -67,7 +67,7 @@ The mutation pattern in DLBCL implies the preferential accumulation of *inactiva
 | chr11 | 128391824 | C>G | E22D |
 | chr11 | 128391823 | G>A | L23F |
 
-[[include:browser_ETS1.md]]
+[[include:tables/browser_ETS1.md]]
 
 ## Expression
 ![](images/gene_expression/ETS1_by_pathology.svg)

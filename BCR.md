@@ -50,7 +50,7 @@ BCR (Breakpoint Cluster Region Protein) is one of [a number of genes](https://gi
 | chr22 | 23523359 | A>C | D71A |
 | chr22 | 23523374 | G>A | G76D |
 
-[[include:browser_BCR.md]]
+[[include:tables/browser_BCR.md]]
 
 ## Expression
 ![](images/gene_expression/BCR_by_pathology.svg)

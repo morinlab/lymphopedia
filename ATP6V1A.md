@@ -33,7 +33,7 @@ Mutations in this gene were first described in DLBCL in 2021 by Hübschmann et a
  | :---:| :---: | :--: | :---: |
 | chr3 | 113528218 | G>A | D600N |
 
-[[include:browser_ATP6V1A.md]]
+[[include:tables/browser_ATP6V1A.md]]
 
 ## Expression
 ![](images/gene_expression/ATP6V1A_by_pathology.svg)

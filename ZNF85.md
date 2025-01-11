@@ -24,7 +24,7 @@ nocite: |
 
 
 
-[[include:browser_ZNF85.md]]
+[[include:tables/browser_ZNF85.md]]
 
 ## Expression
 ![](images/gene_expression/ZNF85_by_pathology.svg)

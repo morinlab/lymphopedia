@@ -29,7 +29,7 @@ LYN mutations have been reported in DLBCL but the rate is relatively rare in mos
 
 
 
-[[include:browser_LYN.md]]
+[[include:tables/browser_LYN.md]]
 
 ## Expression
 ![](images/gene_expression/LYN_by_pathology.svg)

@@ -25,7 +25,7 @@ nocite: |
 
 
 
-[[include:browser_MAP7D1.md]]
+[[include:tables/browser_MAP7D1.md]]
 
 ## Expression
 ![](images/gene_expression/MAP7D1_by_pathology.svg)

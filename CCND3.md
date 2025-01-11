@@ -76,7 +76,7 @@ The dysregulation of CCND3 due to these mutations contributes to the oncogenic p
 | chr6 | 41903682 | A>T | L292Q |
 | chr6 | 41903682 | A>C | L292R |
 
-[[include:browser_CCND3.md]]
+[[include:tables/browser_CCND3.md]]
 
 ## Expression
 ![](images/gene_expression/CCND3_by_pathology.svg)

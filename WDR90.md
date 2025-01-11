@@ -27,7 +27,7 @@ nocite: |
 
 
 
-[[include:browser_WDR90.md]]
+[[include:tables/browser_WDR90.md]]
 
 ## Expression
 ![](images/gene_expression/WDR90_by_pathology.svg)

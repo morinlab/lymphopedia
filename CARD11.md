@@ -57,7 +57,7 @@ The functional effect of CARD11 mutations in DLBCL was explored in the original 
 | chr7 | 2977602 | T>G | Y361S |
 | chr7 | 2977602 | T>C | Y361C |
 
-[[include:browser_CARD11.md]]
+[[include:tables/browser_CARD11.md]]
 
 ## Expression
 ![](images/gene_expression/CARD11_by_pathology.svg)

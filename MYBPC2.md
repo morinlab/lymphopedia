@@ -28,7 +28,7 @@ nocite: |
 
 
 
-[[include:browser_MYBPC2.md]]
+[[include:tables/browser_MYBPC2.md]]
 
 ## Expression
 ![](images/gene_expression/MYBPC2_by_pathology.svg)

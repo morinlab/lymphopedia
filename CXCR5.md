@@ -37,7 +37,7 @@ CXCR5 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm)
 
 
 
-[[include:browser_CXCR5.md]]
+[[include:tables/browser_CXCR5.md]]
 
 ## Expression
 ![](images/gene_expression/CXCR5_by_pathology.svg)

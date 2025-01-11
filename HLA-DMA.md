@@ -29,7 +29,7 @@ Mutations in this gene are relatively rare in DLBCL overall.
 
 
 
-[[include:browser_HLA-DMA.md]]
+[[include:tables/browser_HLA-DMA.md]]
 
 ## Expression
 ![](images/gene_expression/HLA-DMA_by_pathology.svg)

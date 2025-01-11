@@ -34,7 +34,7 @@ nocite: |
 
 
 
-[[include:browser_CYB5D1.md]]
+[[include:tables/browser_CYB5D1.md]]
 
 ## Expression
 ![](images/gene_expression/CYB5D1_by_pathology.svg)

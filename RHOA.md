@@ -40,7 +40,7 @@ Driver mutations affecting this gene in DLBCL/BL have been experimentally demons
 | chr3 | 49412898 | T>G | Y42S |
 | chr3 | 49412898 | T>C | Y42C |
 
-[[include:browser_RHOA.md]]
+[[include:tables/browser_RHOA.md]]
 
 ## Expression
 ![](images/gene_expression/RHOA_by_pathology.svg)

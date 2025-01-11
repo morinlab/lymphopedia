@@ -36,7 +36,7 @@ Mutations in this gene were first described in BL in 2012 by Love et al[@loveGen
 
 [[include:tables/dnds_CDC73.md]]
 
-[[include:browser_CDC73.md]]
+[[include:tables/browser_CDC73.md]]
 
 ## Expression
 ![](images/gene_expression/CDC73_by_pathology.svg)

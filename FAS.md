@@ -35,7 +35,7 @@ Driver mutations affecting this gene in FL/DLBCL have been experimentally demons
 
 [[include:tables/dnds_FAS.md]]
 
-[[include:browser_FAS.md]]
+[[include:tables/browser_FAS.md]]
 
 ## Expression
 ![](images/gene_expression/FAS_by_pathology.svg)

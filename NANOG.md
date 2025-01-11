@@ -27,7 +27,7 @@ nocite: |
 
 
 
-[[include:browser_NANOG.md]]
+[[include:tables/browser_NANOG.md]]
 
 ## Expression
 ![](images/gene_expression/NANOG_by_pathology.svg)

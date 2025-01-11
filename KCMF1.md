@@ -28,7 +28,7 @@ nocite: |
 
 
 
-[[include:browser_KCMF1.md]]
+[[include:tables/browser_KCMF1.md]]
 
 ## Expression
 ![](images/gene_expression/KCMF1_by_pathology.svg)

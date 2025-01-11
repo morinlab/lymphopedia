@@ -33,7 +33,7 @@ nocite: |
 
 
 
-[[include:browser_SERPINA9.md]]
+[[include:tables/browser_SERPINA9.md]]
 
 ## Expression
 ![](images/gene_expression/SERPINA9_by_pathology.svg)

@@ -33,7 +33,7 @@ nocite: |
 
 
 
-[[include:browser_ICK.md]]
+[[include:tables/browser_ICK.md]]
 
 
 <!-- ORIGIN: loveGeneticLandscapeMutations2012 -->

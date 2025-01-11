@@ -27,7 +27,7 @@ nocite: |
 
 
 
-[[include:browser_PRKCB.md]]
+[[include:tables/browser_PRKCB.md]]
 
 ## Expression
 ![](images/gene_expression/PRKCB_by_pathology.svg)

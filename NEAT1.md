@@ -32,7 +32,7 @@ nocite: |
 |chr11   |65190369  |65192380|[ncRNA](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr11%3A65190369%2D65192380)|enhancer          |
 
 
-[[include:browser_NEAT1.md]]
+[[include:tables/browser_NEAT1.md]]
 
 ## Expression
 ![](images/gene_expression/NEAT1_by_pathology.svg)

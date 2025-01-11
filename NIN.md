@@ -29,7 +29,7 @@ nocite: |
 
 
 
-[[include:browser_NIN.md]]
+[[include:tables/browser_NIN.md]]
 
 ## Expression
 ![](images/gene_expression/NIN_by_pathology.svg)

@@ -35,7 +35,7 @@ nocite: |
 
 
 
-[[include:browser_MME.md]]
+[[include:tables/browser_MME.md]]
 
 ## Expression
 ![](images/gene_expression/MME_by_pathology.svg)

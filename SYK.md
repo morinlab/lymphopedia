@@ -28,7 +28,7 @@ nocite: |
 
 
 
-[[include:browser_SYK.md]]
+[[include:tables/browser_SYK.md]]
 
 ## Expression
 ![](images/gene_expression/SYK_by_pathology.svg)

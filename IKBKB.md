@@ -28,7 +28,7 @@ nocite: |
 
 
 
-[[include:browser_IKBKB.md]]
+[[include:tables/browser_IKBKB.md]]
 
 ## Expression
 ![](images/gene_expression/IKBKB_by_pathology.svg)

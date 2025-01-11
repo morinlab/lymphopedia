@@ -31,7 +31,7 @@ nocite: |
 
 
 
-[[include:browser_MYH10.md]]
+[[include:tables/browser_MYH10.md]]
 
 ## Expression
 ![](images/gene_expression/MYH10_by_pathology.svg)

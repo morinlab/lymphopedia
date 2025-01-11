@@ -28,7 +28,7 @@ nocite: |
 
 
 
-[[include:browser_PTPN23.md]]
+[[include:tables/browser_PTPN23.md]]
 
 ## Expression
 ![](images/gene_expression/PTPN23_by_pathology.svg)

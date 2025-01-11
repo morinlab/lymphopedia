@@ -35,7 +35,7 @@ Driver mutations affecting this gene in FL/DLBCL have been experimentally demons
 |chr16   |11347512  |11350007|[intron-1](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr16%3A11347512%2D11350007)|enhancer          |
 
 
-[[include:browser_SOCS1.md]]
+[[include:tables/browser_SOCS1.md]]
 
 ## Expression
 ![](images/gene_expression/SOCS1_by_pathology.svg)

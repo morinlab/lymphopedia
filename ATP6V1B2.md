@@ -31,7 +31,7 @@ Driver mutations affecting this gene in FL have been experimentally demonstrated
  | :---:| :---: | :--: | :---: |
 | chr8 | 20074768 | G>A | R400Q |
 
-[[include:browser_ATP6V1B2.md]]
+[[include:tables/browser_ATP6V1B2.md]]
 
 ## Expression
 ![](images/gene_expression/ATP6V1B2_by_pathology.svg)

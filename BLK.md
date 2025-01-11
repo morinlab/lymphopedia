@@ -36,7 +36,7 @@ nocite: |
 |chr8    |11347723  |11355318|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr8%3A11347723%2D11355318)|strong_enhancer   |
 
 
-[[include:browser_BLK.md]]
+[[include:tables/browser_BLK.md]]
 
 ## Expression
 ![](images/gene_expression/BLK_by_pathology.svg)

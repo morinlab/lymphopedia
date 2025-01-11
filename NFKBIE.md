@@ -32,7 +32,7 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 
 [[include:tables/dnds_NFKBIE.md]]
 
-[[include:browser_NFKBIE.md]]
+[[include:tables/browser_NFKBIE.md]]
 
 ## Expression
 ![](images/gene_expression/NFKBIE_by_pathology.svg)

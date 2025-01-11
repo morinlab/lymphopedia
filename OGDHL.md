@@ -28,7 +28,7 @@ nocite: |
 
 
 
-[[include:browser_OGDHL.md]]
+[[include:tables/browser_OGDHL.md]]
 
 ## Expression
 ![](images/gene_expression/OGDHL_by_pathology.svg)

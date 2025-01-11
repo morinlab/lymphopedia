@@ -32,7 +32,7 @@ Mutations in this gene were first described in DLBCL in 2021 by Hübschmann et a
 ### BL
 [[include:tables/BL_NR2F2.md]]
 
-[[include:browser_NR2F2.md]]
+[[include:tables/browser_NR2F2.md]]
 
 ## All Mutations
 

@@ -53,7 +53,7 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 | chr7 | 140453136 | A>T | V600E |
 | chr7 | 140453132 | T>G | K601N |
 
-[[include:browser_BRAF.md]]
+[[include:tables/browser_BRAF.md]]
 
 ## Expression
 ![](images/gene_expression/BRAF_by_pathology.svg)

@@ -36,7 +36,7 @@ Mutations in this gene were reported to be inflated in the original results acco
 
 
 
-[[include:browser_SETD5.md]]
+[[include:tables/browser_SETD5.md]]
 
 ## Expression
 ![](images/gene_expression/SETD5_by_pathology.svg)

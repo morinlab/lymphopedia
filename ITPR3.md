@@ -31,7 +31,7 @@ nocite: |
 
 
 
-[[include:browser_ITPR3.md]]
+[[include:tables/browser_ITPR3.md]]
 
 ## Expression
 ![](images/gene_expression/ITPR3_by_pathology.svg)

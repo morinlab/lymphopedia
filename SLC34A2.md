@@ -26,7 +26,7 @@ nocite: |
 [[include:tables/dnds_SLC34A2.md]]
 
 
-[[include:browser_SLC34A2.md]]
+[[include:tables/browser_SLC34A2.md]]
 
 ## Expression
 ![](images/gene_expression/SLC34A2_by_pathology.svg)

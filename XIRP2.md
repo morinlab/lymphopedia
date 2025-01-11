@@ -31,7 +31,7 @@ nocite: |
  | :---:| :---: | :--: | :---: |
 | chr2 | 168107297 | G>A | R3132Q |
 
-[[include:browser_XIRP2.md]]
+[[include:tables/browser_XIRP2.md]]
 
 ## Expression
 ![](images/gene_expression/XIRP2_by_pathology.svg)

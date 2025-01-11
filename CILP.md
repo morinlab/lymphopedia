@@ -26,7 +26,7 @@ nocite: |
 
 
 
-[[include:browser_CILP.md]]
+[[include:tables/browser_CILP.md]]
 
 ## Expression
 ![](images/gene_expression/CILP_by_pathology.svg)

@@ -27,7 +27,7 @@ nocite: |
 
 
 
-[[include:browser_RPL10.md]]
+[[include:tables/browser_RPL10.md]]
 
 ## Expression
 ![](images/gene_expression/RPL10_by_pathology.svg)

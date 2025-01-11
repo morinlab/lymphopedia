@@ -36,7 +36,7 @@ Due to [minimal support](BRD4#representative-mutation) in the original primary d
 
 
 
-[[include:browser_BRD4.md]]
+[[include:tables/browser_BRD4.md]]
 
 ## Expression
 ![](images/gene_expression/BRD4_by_pathology.svg)

@@ -32,7 +32,7 @@ nocite: |
 
 
 
-[[include:browser_NLRC5.md]]
+[[include:tables/browser_NLRC5.md]]
 
 ## Expression
 ![](images/gene_expression/NLRC5_by_pathology.svg)

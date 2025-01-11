@@ -35,7 +35,7 @@ nocite: |
 | chr11 | 36511893 | C>T | W355* |
 | chr11 | 36511892 | C>T | W355* |
 
-[[include:browser_TRAF6.md]]
+[[include:tables/browser_TRAF6.md]]
 
 ## Expression
 ![](images/gene_expression/TRAF6_by_pathology.svg)

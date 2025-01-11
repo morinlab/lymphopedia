@@ -34,7 +34,7 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
  | :---:| :---: | :--: | :---: |
 | chr3 | 38182641 | T>C | L265P |
 
-[[include:browser_MYD88.md]]
+[[include:tables/browser_MYD88.md]]
 
 ## Expression
 ![](images/gene_expression/MYD88_by_pathology.svg)

@@ -26,7 +26,7 @@ nocite: |
 
 
 
-[[include:browser_ARHGEF1.md]]
+[[include:tables/browser_ARHGEF1.md]]
 
 ## Expression
 ![](images/gene_expression/ARHGEF1_by_pathology.svg)

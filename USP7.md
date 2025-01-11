@@ -24,7 +24,7 @@ nocite: |
 
 [[include:tables/dnds_USP7.md]]
 
-[[include:browser_USP7.md]]
+[[include:tables/browser_USP7.md]]
 
 ## Expression
 ![](images/gene_expression/USP7_by_pathology.svg)

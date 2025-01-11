@@ -41,7 +41,7 @@ WEE1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) 
 | chr11 | 9595888 | C>G | S136R |
 | chr11 | 9595889 | T>G | S137A |
 
-[[include:browser_WEE1.md]]
+[[include:tables/browser_WEE1.md]]
 
 ## Expression
 ![](images/gene_expression/WEE1_by_pathology.svg)

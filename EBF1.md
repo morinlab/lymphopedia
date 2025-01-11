@@ -57,7 +57,7 @@ Driver mutations affecting this gene in DLBCL/FL have been experimentally demons
 | chr5 | 158500468 | A>G | C164R |
 | chr5 | 158500467 | C>G | C164S |
 
-[[include:browser_EBF1.md]]
+[[include:tables/browser_EBF1.md]]
 
 ## Expression
 ![](images/gene_expression/EBF1_by_pathology.svg)

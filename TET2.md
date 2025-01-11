@@ -26,7 +26,7 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 
 [[include:tables/dnds_TET2.md]]
 
-[[include:browser_TET2.md]]
+[[include:tables/browser_TET2.md]]
 
 ## Expression
 ![](images/gene_expression/TET2_by_pathology.svg)

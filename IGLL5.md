@@ -30,7 +30,7 @@ nocite: |
 
 
 
-[[include:browser_IGLL5.md]]
+[[include:tables/browser_IGLL5.md]]
 
 ## Expression
 ![](images/gene_expression/IGLL5_by_pathology.svg)

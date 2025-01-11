@@ -42,7 +42,7 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
  | :---:| :---: | :--: | :---: |
 | chr16 | 27367183 | T>A | I242N |
 
-[[include:browser_IL4R.md]]
+[[include:tables/browser_IL4R.md]]
 
 ## Expression
 ![](images/gene_expression/IL4R_by_pathology.svg)

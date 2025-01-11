@@ -27,7 +27,7 @@ nocite: |
 
 
 
-[[include:browser_NLRP5.md]]
+[[include:tables/browser_NLRP5.md]]
 
 ## Expression
 ![](images/gene_expression/NLRP5_by_pathology.svg)

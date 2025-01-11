@@ -33,7 +33,7 @@ nocite: |
 |chr21   |26934372  |26937651|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr21%3A26934372%2D26937651)|active_promoter   |
 
 
-[[include:browser_MIR155HG.md]]
+[[include:tables/browser_MIR155HG.md]]
 
 ## Expression
 ![](images/gene_expression/MIR155HG_by_pathology.svg)

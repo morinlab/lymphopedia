@@ -34,7 +34,7 @@ nocite: |
 | chr2 | 70315439 | ->AGCT | S190* |
 | chr2 | 70315457 | C>A | C194* |
 
-[[include:browser_PCBP1.md]]
+[[include:tables/browser_PCBP1.md]]
 
 ## Expression
 ![](images/gene_expression/PCBP1_by_pathology.svg)

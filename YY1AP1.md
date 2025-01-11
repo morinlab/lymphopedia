@@ -27,7 +27,7 @@ nocite: |
 
 
 
-[[include:browser_YY1AP1.md]]
+[[include:tables/browser_YY1AP1.md]]
 
 ## Expression
 ![](images/gene_expression/YY1AP1_by_pathology.svg)

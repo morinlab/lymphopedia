@@ -37,7 +37,7 @@ LTB (Lymphotoxin Beta) is a member of the tumor necrosis factor (TNF) superfamil
 |chr6    |31548325  |31550717|[intron-1](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr6%3A31548325%2D31550717)|enhancer          |
 
 
-[[include:browser_LTB.md]]
+[[include:tables/browser_LTB.md]]
 
 ## Expression
 

@@ -25,7 +25,7 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 
 [[include:tables/dnds_PTPN6.md]]
 
-[[include:browser_PTPN6.md]]
+[[include:tables/browser_PTPN6.md]]
 
 ## Expression
 ![](images/gene_expression/PTPN6_by_pathology.svg)

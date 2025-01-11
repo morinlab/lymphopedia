@@ -48,7 +48,7 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 | chr9 | 139401207 | C>T | V1288I |
 | chr9 | 139401199 | G>C | D1290E |
 
-[[include:browser_NOTCH1.md]]
+[[include:tables/browser_NOTCH1.md]]
 
 ## Expression
 ![](images/gene_expression/NOTCH1_by_pathology.svg)

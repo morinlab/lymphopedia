@@ -30,7 +30,7 @@ nocite: |
 |FL    |No  |No                   |9.566           |58.730          |
 
 
-[[include:browser_SMEK1.md]]
+[[include:tables/browser_SMEK1.md]]
 
 ## Expression
 ![](images/gene_expression/SMEK1_by_pathology.svg)

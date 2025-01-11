@@ -36,7 +36,7 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
  | :---:| :---: | :--: | :---: |
 | chr1 | 120458147 | G>A | R2400* |
 
-[[include:browser_NOTCH2.md]]
+[[include:tables/browser_NOTCH2.md]]
 
 ## Expression
 ![](images/gene_expression/NOTCH2_by_pathology.svg)

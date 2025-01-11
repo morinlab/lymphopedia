@@ -33,7 +33,7 @@ nocite: |
 
 
 
-[[include:browser_WAC.md]]
+[[include:tables/browser_WAC.md]]
 
 ## Expression
 ![](images/gene_expression/WAC_by_pathology.svg)

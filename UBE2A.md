@@ -21,7 +21,7 @@ nocite: |
 
 [[include:tables/dnds_UBE2A.md]]
 
-[[include:browser_UBE2A.md]]
+[[include:tables/browser_UBE2A.md]]
 
 ## Expression
 ![](images/gene_expression/UBE2A_by_pathology.svg)

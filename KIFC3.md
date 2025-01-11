@@ -35,7 +35,7 @@ Due to [minimal support](KIFC3#representative-mutations) in the original primary
 
 
 
-[[include:browser_KIFC3.md]]
+[[include:tables/browser_KIFC3.md]]
 
 ## Expression
 ![](images/gene_expression/KIFC3_by_pathology.svg)

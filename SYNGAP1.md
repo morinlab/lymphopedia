@@ -34,7 +34,7 @@ Due to [minimal support](SYNGAP1#representative-mutation) in the original primar
 [[include:tables/dnds_SYNGAP1.md]]
 
 
-[[include:browser_SYNGAP1.md]]
+[[include:tables/browser_SYNGAP1.md]]
 
 ## Expression
 ![](images/gene_expression/SYNGAP1_by_pathology.svg)

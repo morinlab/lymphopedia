@@ -28,7 +28,7 @@ nocite: |
 
 
 
-[[include:browser_MET.md]]
+[[include:tables/browser_MET.md]]
 
 ## Expression
 ![](images/gene_expression/MET_by_pathology.svg)

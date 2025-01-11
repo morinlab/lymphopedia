@@ -33,7 +33,7 @@ Mutations in this gene were first described in DLBCL in 2013[@zhangGeneticHetero
 
 
 
-[[include:browser_JAK3.md]]
+[[include:tables/browser_JAK3.md]]
 
 ## Expression
 ![](images/gene_expression/JAK3_by_pathology.svg)

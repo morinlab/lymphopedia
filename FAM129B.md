@@ -31,7 +31,7 @@ nocite: |
 
 [[include:tables/dnds_FAM129B.md]]
 
-[[include:browser_FAM129B.md]]
+[[include:tables/browser_FAM129B.md]]
 
 ## Representative Mutations
 

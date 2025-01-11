@@ -31,7 +31,7 @@ nocite: |
 |chr4    |25861094  |25868788|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr4%3A25861094%2D25868788)|NA                |
 
 
-[[include:browser_SEL1L3.md]]
+[[include:tables/browser_SEL1L3.md]]
 
 ## Expression
 ![](images/gene_expression/SEL1L3_by_pathology.svg)

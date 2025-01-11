@@ -27,7 +27,7 @@ nocite: |
 
 
 
-[[include:browser_SBF1.md]]
+[[include:tables/browser_SBF1.md]]
 
 ## Expression
 ![](images/gene_expression/SBF1_by_pathology.svg)

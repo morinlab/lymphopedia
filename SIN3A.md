@@ -25,7 +25,7 @@ nocite: |
 
 [[include:tables/dnds_SIN3A.md]]
 
-[[include:browser_SIN3A.md]]
+[[include:tables/browser_SIN3A.md]]
 
 ## Expression
 ![](images/gene_expression/SIN3A_by_pathology.svg)

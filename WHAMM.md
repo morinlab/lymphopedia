@@ -26,7 +26,7 @@ nocite: |
 
 
 
-[[include:browser_WHAMM.md]]
+[[include:tables/browser_WHAMM.md]]
 
 ## Expression
 ![](images/gene_expression/WHAMM_by_pathology.svg)

@@ -28,7 +28,7 @@ nocite: |
 
 
 
-[[include:browser_IL6.md]]
+[[include:tables/browser_IL6.md]]
 
 ## Expression
 ![](images/gene_expression/IL6_by_pathology.svg)

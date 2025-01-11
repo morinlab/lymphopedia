@@ -28,7 +28,7 @@ nocite: |
 
 
 
-[[include:browser_MSH6.md]]
+[[include:tables/browser_MSH6.md]]
 
 ## Expression
 ![](images/gene_expression/MSH6_by_pathology.svg)

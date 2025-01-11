@@ -27,7 +27,7 @@ nocite: |
 
 
 
-[[include:browser_PPP6R2.md]]
+[[include:tables/browser_PPP6R2.md]]
 
 ## Expression
 ![](images/gene_expression/PPP6R2_by_pathology.svg)

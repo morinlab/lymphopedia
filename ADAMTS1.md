@@ -38,7 +38,7 @@ Mutations in this gene were first described in DLBCL in 2021 by Hübschmann et a
 
 
 
-[[include:browser_ADAMTS1.md]]
+[[include:tables/browser_ADAMTS1.md]]
 
 ## Expression
 ![](images/gene_expression/ADAMTS1_by_pathology.svg)

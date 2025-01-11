@@ -34,7 +34,7 @@ nocite: |
 
 
 
-[[include:browser_FZD3.md]]
+[[include:tables/browser_FZD3.md]]
 
 ## Expression
 ![](images/gene_expression/FZD3_by_pathology.svg)

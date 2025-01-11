@@ -36,7 +36,7 @@ nocite: |
 |chr20   |49120482  |49140477|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr20%3A49120482%2D49140477)|active_promoter   |
 
 
-[[include:browser_PTPN1.md]]
+[[include:tables/browser_PTPN1.md]]
 
 ## Expression
 ![](images/gene_expression/PTPN1_by_pathology.svg)

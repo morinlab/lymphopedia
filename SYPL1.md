@@ -27,7 +27,7 @@ nocite: |
 
 
 
-[[include:browser_SYPL1.md]]
+[[include:tables/browser_SYPL1.md]]
 
 ## Expression
 ![](images/gene_expression/SYPL1_by_pathology.svg)

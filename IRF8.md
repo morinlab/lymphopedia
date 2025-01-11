@@ -58,7 +58,7 @@ Driver mutations affecting this gene in DLBCL/FL have been experimentally demons
 | chr16 | 85942671 | T>C | C84R |
 | chr16 | 85942692 | G>A | D91N |
 
-[[include:browser_IRF8.md]]
+[[include:tables/browser_IRF8.md]]
 
 ## Expression
 ![](images/gene_expression/IRF8_by_pathology.svg)

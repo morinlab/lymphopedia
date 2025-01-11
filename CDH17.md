@@ -36,7 +36,7 @@ Due to [minimal support](CDH17#representative-mutations) in the original primary
 
 
 
-[[include:browser_CDH17.md]]
+[[include:tables/browser_CDH17.md]]
 
 ## Expression
 ![](images/gene_expression/CDH17_by_pathology.svg)

@@ -32,7 +32,7 @@ nocite: |
 |chr11   |65265237  |65268359|[ncRNA](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr11%3A65265237%2D65268359)|enhancer          |
 
 
-[[include:browser_MALAT1.md]]
+[[include:tables/browser_MALAT1.md]]
 
 ## Expression
 ![](images/gene_expression/MALAT1_by_pathology.svg)

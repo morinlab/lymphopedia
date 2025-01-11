@@ -29,7 +29,7 @@ nocite: |
 
 
 
-[[include:browser_CRIP1.md]]
+[[include:tables/browser_CRIP1.md]]
 
 ## Expression
 ![](images/gene_expression/CRIP1_by_pathology.svg)

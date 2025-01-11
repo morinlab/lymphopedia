@@ -34,7 +34,7 @@ nocite: |
  | :---:| :---: | :--: | :---: |
 | chr1 | 78444687 | A>C | M1? |
 
-[[include:browser_FUBP1.md]]
+[[include:tables/browser_FUBP1.md]]
 
 ## Expression
 ![](images/gene_expression/FUBP1_by_pathology.svg)

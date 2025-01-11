@@ -24,7 +24,7 @@ nocite: |
 
 
 
-[[include:browser_STAB2.md]]
+[[include:tables/browser_STAB2.md]]
 
 ## Expression
 ![](images/gene_expression/STAB2_by_pathology.svg)

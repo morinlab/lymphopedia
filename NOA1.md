@@ -25,7 +25,7 @@ nocite: |
 [[include:tables/dnds_NOA1.md]]
 
 
-[[include:browser_NOA1.md]]
+[[include:tables/browser_NOA1.md]]
 
 ## Expression
 ![](images/gene_expression/NOA1_by_pathology.svg)

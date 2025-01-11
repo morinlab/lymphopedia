@@ -33,7 +33,7 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 | chr2 | 61719471 | T>C | E571G |
 | chr2 | 61719472 | C>T | E571K |
 
-[[include:browser_XPO1.md]]
+[[include:tables/browser_XPO1.md]]
 
 ## Expression
 ![](images/gene_expression/XPO1_by_pathology.svg)

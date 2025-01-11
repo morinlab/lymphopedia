@@ -27,7 +27,7 @@ nocite: |
 
 
 
-[[include:browser_CHD4.md]]
+[[include:tables/browser_CHD4.md]]
 
 ## Expression
 ![](images/gene_expression/CHD4_by_pathology.svg)

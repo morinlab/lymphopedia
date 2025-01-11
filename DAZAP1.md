@@ -38,7 +38,7 @@ This gene has some recurrent sites of mutations (hot spots). The mutation patter
 | chr19 | 1434903 | C>T | R406* |
 | chr19 | 1434906 | C>T | R407C |
 
-[[include:browser_DAZAP1.md]]
+[[include:tables/browser_DAZAP1.md]]
 
 ## Expression
 ![](images/gene_expression/DAZAP1_by_pathology.svg)

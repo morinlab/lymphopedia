@@ -28,7 +28,7 @@ nocite: |
 
 
 
-[[include:browser_GPC5.md]]
+[[include:tables/browser_GPC5.md]]
 
 ## Expression
 ![](images/gene_expression/GPC5_by_pathology.svg)

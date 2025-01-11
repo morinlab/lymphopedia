@@ -61,7 +61,7 @@ Mutations at Y196 enhance B-cell receptor (BCR) signaling by preventing the nega
 | chr17 | 62006603 | G>A | H226Y |
 | chr17 | 62006603 | G>T | H226N |
 
-[[include:browser_CD79B.md]]
+[[include:tables/browser_CD79B.md]]
 
 ## Expression
 ![](images/gene_expression/CD79B_by_pathology.svg)

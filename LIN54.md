@@ -33,7 +33,7 @@ nocite: |
 
 
 
-[[include:browser_LIN54.md]]
+[[include:tables/browser_LIN54.md]]
 
 ## Expression
 ![](images/gene_expression/LIN54_by_pathology.svg)

@@ -36,7 +36,7 @@ TMSB4X is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm
 
 
 
-[[include:browser_TMSB4X.md]]
+[[include:tables/browser_TMSB4X.md]]
 
 ## Expression
 ![](images/gene_expression/TMSB4X_by_pathology.svg)

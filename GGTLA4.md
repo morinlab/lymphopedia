@@ -17,7 +17,7 @@ nocite: |
 
 [[include:tables/BL_GGTLA4.md]]
 
-[[include:browser_GGTLA4.md]]
+[[include:tables/browser_GGTLA4.md]]
 
 ## Representative Mutations
 

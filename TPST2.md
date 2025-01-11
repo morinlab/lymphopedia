@@ -32,7 +32,7 @@ nocite: |
 
 
 
-[[include:browser_TPST2.md]]
+[[include:tables/browser_TPST2.md]]
 
 ## Expression
 ![](images/gene_expression/TPST2_by_pathology.svg)

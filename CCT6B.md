@@ -37,7 +37,7 @@ Due to [minimal support](CCT6B#representative-mutations) in the original primary
 
 
 
-[[include:browser_CCT6B.md]]
+[[include:tables/browser_CCT6B.md]]
 
 ## Expression
 ![](images/gene_expression/CCT6B_by_pathology.svg)

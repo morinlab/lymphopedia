@@ -25,7 +25,7 @@ nocite: |
 
 
 
-[[include:browser_GRM6.md]]
+[[include:tables/browser_GRM6.md]]
 
 ## Expression
 ![](images/gene_expression/GRM6_by_pathology.svg)

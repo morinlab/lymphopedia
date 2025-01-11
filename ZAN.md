@@ -26,7 +26,7 @@ nocite: |
 
 
 
-[[include:browser_ZAN.md]]
+[[include:tables/browser_ZAN.md]]
 
 ## Expression
 ![](images/gene_expression/ZAN_by_pathology.svg)

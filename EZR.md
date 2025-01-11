@@ -37,7 +37,7 @@ nocite: |
 |chr6    |159237903 |159240216|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr6%3A159237903%2D159240216)|NA                |
 
 
-[[include:browser_EZR.md]]
+[[include:tables/browser_EZR.md]]
 
 ## Expression
 ![](images/gene_expression/EZR_by_pathology.svg)

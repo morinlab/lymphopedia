@@ -28,7 +28,7 @@ nocite: |
 
 
 
-[[include:browser_HDAC7.md]]
+[[include:tables/browser_HDAC7.md]]
 
 ## Expression
 ![](images/gene_expression/HDAC7_by_pathology.svg)

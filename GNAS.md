@@ -33,7 +33,7 @@ nocite: |
 
 
 
-[[include:browser_GNAS.md]]
+[[include:tables/browser_GNAS.md]]
 
 ## Expression
 ![](images/gene_expression/GNAS_by_pathology.svg)

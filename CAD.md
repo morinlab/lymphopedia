@@ -42,7 +42,7 @@ Due to [minimal support](CAD#representative-mutation) in the original primary da
  | :---:| :---: | :--: | :---: |
 | chr2 | 27455966 | T>A | Y983* |
 
-[[include:browser_CAD.md]]
+[[include:tables/browser_CAD.md]]
 
 ## Expression
 ![](images/gene_expression/CAD_by_pathology.svg)

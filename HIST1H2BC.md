@@ -60,7 +60,7 @@ This gene encodes the H2A protein, one of the core proteins comprising nucleosom
 | chr6 | 26123881 | G>C | Y84* |
 | chr6 | 26123874 | G>A | R87C |
 
-[[include:browser_HIST1H2BC.md]]
+[[include:tables/browser_HIST1H2BC.md]]
 
 ## Expression
 ![](images/gene_expression/HIST1H2BC_by_pathology.svg)

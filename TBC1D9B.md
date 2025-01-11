@@ -30,7 +30,7 @@ nocite: |
 [[include:tables/dnds_TBC1D9B.md]]
 
 
-[[include:browser_TBC1D9B.md]]
+[[include:tables/browser_TBC1D9B.md]]
 
 ## Expression
 ![](images/gene_expression/TBC1D9B_by_pathology.svg)

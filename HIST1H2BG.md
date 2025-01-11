@@ -28,7 +28,7 @@ nocite: |
 
 
 
-[[include:browser_HIST1H2BG.md]]
+[[include:tables/browser_HIST1H2BG.md]]
 
 ## Expression
 ![](images/gene_expression/HIST1H2BG_by_pathology.svg)

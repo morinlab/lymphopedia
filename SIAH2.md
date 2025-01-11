@@ -28,7 +28,7 @@ nocite: |
 
 
 
-[[include:browser_SIAH2.md]]
+[[include:tables/browser_SIAH2.md]]
 
 ## Expression
 ![](images/gene_expression/SIAH2_by_pathology.svg)

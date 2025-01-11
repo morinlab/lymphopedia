@@ -27,7 +27,7 @@ nocite: |
 
 
 
-[[include:browser_VWA7.md]]
+[[include:tables/browser_VWA7.md]]
 
 ## Expression
 ![](images/gene_expression/VWA7_by_pathology.svg)

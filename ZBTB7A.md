@@ -37,7 +37,7 @@ nocite: |
 
 
 
-[[include:browser_ZBTB7A.md]]
+[[include:tables/browser_ZBTB7A.md]]
 
 ## Expression
 ![](images/gene_expression/ZBTB7A_by_pathology.svg)

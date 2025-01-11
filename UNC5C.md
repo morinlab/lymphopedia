@@ -27,7 +27,7 @@ nocite: |
 
 
 
-[[include:browser_UNC5C.md]]
+[[include:tables/browser_UNC5C.md]]
 
 ## Expression
 ![](images/gene_expression/UNC5C_by_pathology.svg)

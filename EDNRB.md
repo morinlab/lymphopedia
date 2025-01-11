@@ -28,7 +28,7 @@ nocite: |
 
 
 
-[[include:browser_EDNRB.md]]
+[[include:tables/browser_EDNRB.md]]
 
 ## Expression
 ![](images/gene_expression/EDNRB_by_pathology.svg)

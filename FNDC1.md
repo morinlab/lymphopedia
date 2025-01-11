@@ -28,7 +28,7 @@ nocite: |
 
 
 
-[[include:browser_FNDC1.md]]
+[[include:tables/browser_FNDC1.md]]
 
 ## Expression
 ![](images/gene_expression/FNDC1_by_pathology.svg)

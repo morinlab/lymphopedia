@@ -35,7 +35,7 @@ nocite: |
 |chr3    |186782522 |186784438|[intron-1](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr3%3A186782522%2D186784438)|strong_enhancer   |
 
 
-[[include:browser_ST6GAL1.md]]
+[[include:tables/browser_ST6GAL1.md]]
 
 ## Expression
 ![](images/gene_expression/ST6GAL1_by_pathology.svg)

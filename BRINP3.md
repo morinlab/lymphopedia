@@ -35,7 +35,7 @@ Details[@drevalRevisitingReddyDLBCL2023]
 [[include:tables/dnds_BRINP3.md]]
 
 
-[[include:browser_BRINP3.md]]
+[[include:tables/browser_BRINP3.md]]
 
 ## Expression
 ![](images/gene_expression/BRINP3_by_pathology.svg)

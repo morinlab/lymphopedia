@@ -44,7 +44,7 @@ Mutations in this gene are relatively rare in DLBCL overall. Some hotspots have 
 | chr4 | 103459061 | G>A | G69E |
 | chr4 | 103501730 | G>A | D257N |
 
-[[include:browser_NFKB1.md]]
+[[include:tables/browser_NFKB1.md]]
 
 ## Expression
 ![](images/gene_expression/NFKB1_by_pathology.svg)

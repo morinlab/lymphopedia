@@ -49,7 +49,7 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 | chr11 | 111249900 | C>T | M1? |
 | chr11 | 111275352 | T>C | R6G |
 
-[[include:browser_POU2AF1.md]]
+[[include:tables/browser_POU2AF1.md]]
 
 ## Expression
 ![](images/gene_expression/POU2AF1_by_pathology.svg)

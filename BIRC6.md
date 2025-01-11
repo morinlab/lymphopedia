@@ -35,7 +35,7 @@ BIRC6, as a negative regulator of non-canonical NF-κB signaling, is implicated 
  | :---:| :---: | :--: | :---: |
 | chr2 | 32740138 | T>A | C3550* |
 
-[[include:browser_BIRC6.md]]
+[[include:tables/browser_BIRC6.md]]
 
 ## Expression
 ![](images/gene_expression/BIRC6_by_pathology.svg)

@@ -30,7 +30,7 @@ Mutations in this gene were first described in DLBCL in 2021 by Hübschmann et a
 [[include:tables/dnds_CADPS2.md]]
 
 
-[[include:browser_CADPS2.md]]
+[[include:tables/browser_CADPS2.md]]
 
 ## Expression
 ![](images/gene_expression/CADPS2_by_pathology.svg)

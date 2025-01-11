@@ -29,7 +29,7 @@ nocite: |
  | :---:| :---: | :--: | :---: |
 | chr16 | 30093814 | G>A | D54N |
 
-[[include:browser_PPP4C.md]]
+[[include:tables/browser_PPP4C.md]]
 
 ## Expression
 ![](images/gene_expression/PPP4C_by_pathology.svg)

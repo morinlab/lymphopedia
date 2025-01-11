@@ -25,7 +25,7 @@ nocite: |
 
 
 
-[[include:browser_KIR3DL1.md]]
+[[include:tables/browser_KIR3DL1.md]]
 
 ## Expression
 ![](images/gene_expression/KIR3DL1_by_pathology.svg)

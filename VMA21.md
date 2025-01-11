@@ -30,7 +30,7 @@ Driver mutations affecting this gene in FL have been experimentally demonstrated
 
 [[include:tables/dnds_VMA21.md]]
 
-[[include:browser_VMA21.md]]
+[[include:tables/browser_VMA21.md]]
 
 ## Expression
 ![](images/gene_expression/VMA21_by_pathology.svg)

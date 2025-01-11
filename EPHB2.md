@@ -33,7 +33,7 @@ nocite: |
 
 
 
-[[include:browser_EPHB2.md]]
+[[include:tables/browser_EPHB2.md]]
 
 ## Expression
 ![](images/gene_expression/EPHB2_by_pathology.svg)

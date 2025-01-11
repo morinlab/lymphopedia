@@ -33,7 +33,7 @@ Mutations in this gene were first described in DLBCL in 2017 by Reddy et al.[@re
 
 
 
-[[include:browser_CASP8.md]]
+[[include:tables/browser_CASP8.md]]
 
 ## Expression
 ![](images/gene_expression/CASP8_by_pathology.svg)

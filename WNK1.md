@@ -30,7 +30,7 @@ nocite: |
  | :---:| :---: | :--: | :---: |
 | chr12 | 968467 | G>A | R486Q |
 
-[[include:browser_WNK1.md]]
+[[include:tables/browser_WNK1.md]]
 
 ## Expression
 ![](images/gene_expression/WNK1_by_pathology.svg)

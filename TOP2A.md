@@ -27,7 +27,7 @@ nocite: |
 
 
 
-[[include:browser_TOP2A.md]]
+[[include:tables/browser_TOP2A.md]]
 
 ## Expression
 ![](images/gene_expression/TOP2A_by_pathology.svg)

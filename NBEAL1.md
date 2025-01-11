@@ -26,7 +26,7 @@ nocite: |
 
 
 
-[[include:browser_NBEAL1.md]]
+[[include:tables/browser_NBEAL1.md]]
 
 ## Expression
 ![](images/gene_expression/NBEAL1_by_pathology.svg)

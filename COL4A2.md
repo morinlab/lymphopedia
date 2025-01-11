@@ -38,7 +38,7 @@ Due to [minimal support](COL4A2#representative-mutations) in the original primar
 
 
 
-[[include:browser_COL4A2.md]]
+[[include:tables/browser_COL4A2.md]]
 
 ## Expression
 ![](images/gene_expression/COL4A2_by_pathology.svg)

@@ -35,7 +35,7 @@ nocite: |
  | :---:| :---: | :--: | :---: |
 | chr9 | 8376670 | T>G | Q1481H |
 
-[[include:browser_PTPRD.md]]
+[[include:tables/browser_PTPRD.md]]
 
 ## Expression
 ![](images/gene_expression/PTPRD_by_pathology.svg)

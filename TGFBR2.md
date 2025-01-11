@@ -28,7 +28,7 @@ nocite: |
 
 
 
-[[include:browser_TGFBR2.md]]
+[[include:tables/browser_TGFBR2.md]]
 
 ## Expression
 ![](images/gene_expression/TGFBR2_by_pathology.svg)

@@ -68,7 +68,7 @@ Mutations in CREBBP and EP300 affect a common pathway and have been described as
 | chr16 | 3786703 | T>A | Y1503F |
 | chr16 | 3786691 | A>G | L1507P |
 
-[[include:browser_CREBBP.md]]
+[[include:tables/browser_CREBBP.md]]
 
 ## Expression
 ![](images/gene_expression/CREBBP_by_pathology.svg)

@@ -37,7 +37,7 @@ nocite: |
 |chr2    |157669490 |157671299|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr2%3A157669490%2D157671299)|NA                |
 
 
-[[include:browser_FCRL3.md]]
+[[include:tables/browser_FCRL3.md]]
 
 ## Expression
 ![](images/gene_expression/FCRL3_by_pathology.svg)

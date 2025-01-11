@@ -28,7 +28,7 @@ nocite: |
 
 
 
-[[include:browser_PRPS1.md]]
+[[include:tables/browser_PRPS1.md]]
 
 ## Expression
 ![](images/gene_expression/PRPS1_by_pathology.svg)

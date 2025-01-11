@@ -25,7 +25,7 @@ nocite: |
 
 
 
-[[include:browser_GBP7.md]]
+[[include:tables/browser_GBP7.md]]
 
 ## Expression
 ![](images/gene_expression/GBP7_by_pathology.svg)

@@ -35,7 +35,7 @@ Driver mutations affecting this gene in FL have been experimentally demonstrated
 | chr15 | 66727441 | T>C | F53L |
 | chr15 | 66727454 | A>C | K57T |
 
-[[include:browser_MAP2K1.md]]
+[[include:tables/browser_MAP2K1.md]]
 
 ## Expression
 ![](images/gene_expression/MAP2K1_by_pathology.svg)

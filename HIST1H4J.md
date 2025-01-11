@@ -21,7 +21,7 @@ nocite: |
 
 [[include:tables/dnds_HIST1H4J]]
 
-[[include:browser_HIST1H4J.md]]
+[[include:tables/browser_HIST1H4J.md]]
 
 ## Representative Mutations
 

@@ -28,7 +28,7 @@ nocite: |
 
 
 
-[[include:browser_DNAH5.md]]
+[[include:tables/browser_DNAH5.md]]
 
 ## Expression
 ![](images/gene_expression/DNAH5_by_pathology.svg)

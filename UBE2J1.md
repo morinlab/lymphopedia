@@ -31,7 +31,7 @@ nocite: |
 |chr6    |90059730  |90063703|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr6%3A90059730%2D90063703)|NA                |
 
 
-[[include:browser_UBE2J1.md]]
+[[include:tables/browser_UBE2J1.md]]
 
 ## Expression
 ![](images/gene_expression/UBE2J1_by_pathology.svg)

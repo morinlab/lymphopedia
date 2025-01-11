@@ -36,7 +36,7 @@ nocite: |
 | chr1 | 9787040 | G>A | R1024H |
 | chr1 | 9787043 | A>G | E1025G |
 
-[[include:browser_PIK3CD.md]]
+[[include:tables/browser_PIK3CD.md]]
 
 ## Expression
 ![](images/gene_expression/PIK3CD_by_pathology.svg)

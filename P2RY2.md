@@ -27,7 +27,7 @@ nocite: |
 
 
 
-[[include:browser_P2RY2.md]]
+[[include:tables/browser_P2RY2.md]]
 
 ## Expression
 ![](images/gene_expression/P2RY2_by_pathology.svg)

@@ -21,7 +21,7 @@ nocite: |
 
 [[include:tables/dnds_ATP6AP1.md]]
 
-[[include:browser_ATP6AP1.md]]
+[[include:tables/browser_ATP6AP1.md]]
 
 ## Expression
 ![](images/gene_expression/ATP6AP1_by_pathology.svg)

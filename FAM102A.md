@@ -37,7 +37,7 @@ nocite: |
 |chr9    |130740362 |130744800|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr9%3A130740362%2D130744800)|NA                |
 
 
-[[include:browser_FAM102A.md]]
+[[include:tables/browser_FAM102A.md]]
 
 ## Expression
 ![](images/gene_expression/FAM102A_by_pathology.svg)

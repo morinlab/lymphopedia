@@ -36,7 +36,7 @@ Due to [minimal support](RET#representative-mutation) in the original primary da
 
 
 
-[[include:browser_RET.md]]
+[[include:tables/browser_RET.md]]
 
 ## Expression
 ![](images/gene_expression/RET_by_pathology.svg)

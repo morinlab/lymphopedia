@@ -31,7 +31,7 @@ nocite: |
 
 
 
-[[include:browser_POR.md]]
+[[include:tables/browser_POR.md]]
 
 ## Expression
 ![](images/gene_expression/POR_by_pathology.svg)

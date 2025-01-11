@@ -32,7 +32,7 @@ nocite: |
 
 
 
-[[include:browser_ZFAT.md]]
+[[include:tables/browser_ZFAT.md]]
 
 ## Expression
 ![](images/gene_expression/ZFAT_by_pathology.svg)

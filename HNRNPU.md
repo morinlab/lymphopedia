@@ -35,7 +35,7 @@ nocite: |
 |:--------:|:----------:|:---------:|:-------------------------------------------------------------------------------------------:|:------------------:|
 |chr1    |245023502 |245029083|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr1%3A245023502%2D245029083)|NA                |
 
-[[include:browser_HNRNPU.md]]
+[[include:tables/browser_HNRNPU.md]]
 
 [[include:tables/mermaid_HNRNPU.md]]
 

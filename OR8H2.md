@@ -24,7 +24,7 @@ nocite: |
 
 
 
-[[include:browser_OR8H2.md]]
+[[include:tables/browser_OR8H2.md]]
 
 ## Expression
 ![](images/gene_expression/OR8H2_by_pathology.svg)

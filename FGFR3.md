@@ -37,7 +37,7 @@ Due to [minimal support](FGFR3#representative-mutation) in the original primary 
 
 
 
-[[include:browser_FGFR3.md]]
+[[include:tables/browser_FGFR3.md]]
 
 ## Expression
 ![](images/gene_expression/FGFR3_by_pathology.svg)

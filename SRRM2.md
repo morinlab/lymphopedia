@@ -28,7 +28,7 @@ nocite: |
 
 
 
-[[include:browser_SRRM2.md]]
+[[include:tables/browser_SRRM2.md]]
 
 ## Expression
 ![](images/gene_expression/SRRM2_by_pathology.svg)

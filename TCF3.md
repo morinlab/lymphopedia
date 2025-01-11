@@ -42,7 +42,7 @@ Driver mutations affecting this gene in BL have been experimentally demonstrated
 | chr19 | 1612336 | A>C | D561E |
 | chr19 | 1612329 | C>T | E564K |
 
-[[include:browser_TCF3.md]]
+[[include:tables/browser_TCF3.md]]
 
 ## Expression
 ![](images/gene_expression/TCF3_by_pathology.svg)

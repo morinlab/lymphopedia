@@ -26,7 +26,7 @@ Non-coding mutations in the promoter of this gene have been described in MCL.
 
 
 
-[[include:browser_TERT.md]]
+[[include:tables/browser_TERT.md]]
 
 ## Expression
 ![](images/gene_expression/TERT_by_pathology.svg)

@@ -29,7 +29,7 @@ nocite: |
 | chr6 | 26197219 | C>G | S87T |
 | chr6 | 26197219 | C>T | S87N |
 
-[[include:browser_HIST1H3D.md]]
+[[include:tables/browser_HIST1H3D.md]]
 
 [[include:tables/mermaid_HIST1H3D.md]]
 

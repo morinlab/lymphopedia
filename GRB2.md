@@ -27,7 +27,7 @@ Further research is needed to elucidate its specific role in DLBCL.
 
 [[include:tables/dnds_GRB2.md]]
 
-[[include:browser_GRB2.md]]
+[[include:tables/browser_GRB2.md]]
 
 ## Expression
 ![](images/gene_expression/GRB2_by_pathology.svg)

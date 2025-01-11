@@ -29,7 +29,7 @@ nocite: |
 
 
 
-[[include:browser_FAT4.md]]
+[[include:tables/browser_FAT4.md]]
 
 ## Expression
 ![](images/gene_expression/FAT4_by_pathology.svg)

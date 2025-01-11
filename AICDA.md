@@ -29,7 +29,7 @@ nocite: |
 
 
 
-[[include:browser_AICDA.md]]
+[[include:tables/browser_AICDA.md]]
 
 ## Expression
 ![](images/gene_expression/AICDA_by_pathology.svg)

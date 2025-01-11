@@ -29,7 +29,7 @@ Mutations in this gene were first described in FL in 2021 by Hübschmann et al.[
 
 
 
-[[include:browser_DHX15.md]]
+[[include:tables/browser_DHX15.md]]
 
 ## Expression
 ![](images/gene_expression/DHX15_by_pathology.svg)

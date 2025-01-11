@@ -47,7 +47,7 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
  | :---:| :---: | :--: | :---: |
 | chr1 | 11169376 | A>T | I2500N |
 
-[[include:browser_MTOR.md]]
+[[include:tables/browser_MTOR.md]]
 
 ## Expression
 ![](images/gene_expression/MTOR_by_pathology.svg)

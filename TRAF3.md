@@ -27,7 +27,7 @@ nocite: |
 
 ## Visualizations
 
-[[include:browser_TRAF3.md]]
+[[include:tables/browser_TRAF3.md]]
 
 ## Expression
 ![](images/gene_expression/TRAF3_by_pathology.svg)

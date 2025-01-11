@@ -72,7 +72,7 @@ This gene encodes the H2A protein, one of the core proteins comprising nucleosom
 | chr6 | 27860542 | C>T | G129D |
 | chr6 | 27860538 | C>G | K130N |
 
-[[include:browser_HIST1H2AM.md]]
+[[include:tables/browser_HIST1H2AM.md]]
 
 
 [[include:tables/mermaid_HIST1H2AM.md]]

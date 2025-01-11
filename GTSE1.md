@@ -27,7 +27,7 @@ nocite: |
 
 
 
-[[include:browser_GTSE1.md]]
+[[include:tables/browser_GTSE1.md]]
 
 ## Expression
 ![](images/gene_expression/GTSE1_by_pathology.svg)

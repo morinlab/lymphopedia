@@ -31,7 +31,7 @@ nocite: |
  | :---:| :---: | :--: | :---: |
 | chr2 | 179638249 | C>T | E2512K |
 
-[[include:browser_TTN.md]]
+[[include:tables/browser_TTN.md]]
 
 ## Expression
 ![](images/gene_expression/TTN_by_pathology.svg)

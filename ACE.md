@@ -33,7 +33,7 @@ Due to [minimal support](ACE#representative-mutation) in the original primary da
 
 
 
-[[include:browser_ACE.md]]
+[[include:tables/browser_ACE.md]]
 
 ## Expression
 ![](images/gene_expression/ACE_by_pathology.svg)
