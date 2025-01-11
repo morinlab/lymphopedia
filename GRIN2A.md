@@ -14,18 +14,13 @@ nocite: |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-|Entity|source       |frequency (%)|
-|:------:|:-------------:|:-------------:|
-|MCL   |GAMBL genomes|0.47         |
+### MCL
+[[include:tables/MCL_GRIN2A]]
 
+<!---
 ## Mutation pattern and selective pressure estimates
 
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   |0.437           |4.209           |
-|DLBCL |No  |No                   |0.961           |0.000           |
-|FL    |No  |No                   |0.618           |0.000           |
-
+-->
 
 
 
