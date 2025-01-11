@@ -25,19 +25,19 @@ link-citations: true
 |[KMT2D](KMT2D)|MCL Tier 1 |[Bea et al](papers/beaLandscapeSomaticMutations2013)|FL, BL, DLBCL, PMBL, MZL|
 |[MEF2B](MEF2B)|MCL Tier 1 |[Bea et al](papers/beaLandscapeSomaticMutations2013)|FL, DLBCL|
 |[NFKBIE](NFKBIE)|MCL Tier 1 |[Pararajalingam et al](papers/pararajalingamCodingNoncodingDrivers2020)|DLBCL, PMBL|
-|[NOTCH1](NOTCH1)|MCL Tier 1 |[Bea et al](papers/beaLandscapeSomaticMutations2013)||
+|[NOTCH1](NOTCH1)|MCL Tier 1 |[Bea et al](papers/beaLandscapeSomaticMutations2013)|MZL, DLBCL, BL|
 |[NOTCH2](NOTCH2)|MCL Tier 1 |[Bea et al](papers/beaLandscapeSomaticMutations2013)|MZL, DLBCL|
-|[NSD2](NSD2)|MCL Tier 1 |[Bea et al](papers/beaLandscapeSomaticMutations2013)|[@zhangGeneticHeterogeneityDiffuse2013]|
+|[NSD2](NSD2)|MCL Tier 1 |[Bea et al](papers/beaLandscapeSomaticMutations2013)|DLBCL|
 |[POT1](POT1)|MCL Tier 1 |[Zhang et al](papers/zhangGenomicLandscapeMantle2014)||
-|[RB1](RB1)|MCL Tier 1 |[Zhang et al](papers/zhangGenomicLandscapeMantle2014)|[@morinMutationalStructuralAnalysis2013]|
-|[S1PR1](S1PR1)|MCL Tier 1 |[Pararajalingam et al](papers/pararajalingamCodingNoncodingDrivers2020)|[@lohrDiscoveryPrioritizationSomatic2012]|
-|[SMARCA4](SMARCA4)|MCL Tier 1 |[Nadeu et al](papers/nadeuGenomicEpigenomicInsights2020)|[@krysiakRecurrentSomaticMutations2017; @reddyGeneticFunctionalDrivers2017; @richterRecurrentMutationID32012]|
+|[RB1](RB1)|MCL Tier 1 |[Zhang et al](papers/zhangGenomicLandscapeMantle2014)|DLBCL|
+|[S1PR1](S1PR1)|MCL Tier 1 |[Pararajalingam et al](papers/pararajalingamCodingNoncodingDrivers2020)|DLBCL|
+|[SMARCA4](SMARCA4)|MCL Tier 1 |[Nadeu et al](papers/nadeuGenomicEpigenomicInsights2020)|DLBCL, BL, FL, PMBL|
 |[SP140](SP140)|MCL Tier 1 |[Bea et al](papers/beaLandscapeSomaticMutations2013)||
 |[SYNE1](SYNE1)|MCL Tier 1 |[Nadeu et al](papers/nadeuGenomicEpigenomicInsights2020)||
 |[TERT](TERT)|MCL Tier 1 |[Nadeu et al](papers/nadeuGenomicEpigenomicInsights2020)||
-|[TLR2](TLR2)|MCL Tier 1 |[Bea et al](papers/beaLandscapeSomaticMutations2013)|[@chapuyMolecularSubtypesDiffuse2018]|
+|[TLR2](TLR2)|MCL Tier 1 |[Bea et al](papers/beaLandscapeSomaticMutations2013)|DLBCL|
 |[TP53](TP53)|MCL Tier 1 |[Bea et al](papers/beaLandscapeSomaticMutations2013)|[@morinFrequentMutationHistonemodifying2011; @rossiCodingGenomeSplenic2012; @tiacciPervasiveMutationsJAKSTAT2018; @wildaInactivationARFMDM2p53Pathway2004]|
-|[UBR5](UBR5)|MCL Tier 1 |[Pararajalingam et al](papers/pararajalingamCodingNoncodingDrivers2020)|[@albuquerqueEnhancingKnowledgeDiscovery2017]|
+|[UBR5](UBR5)|MCL Tier 1 |[Pararajalingam et al](papers/pararajalingamCodingNoncodingDrivers2020)|DLBCL|
 
 ## Tier 2, low-confidence MCL genes
 
