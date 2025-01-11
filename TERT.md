@@ -20,14 +20,9 @@ Non-coding mutations in the promoter of this gene have been described in MCL.
 ### MCL
 [[include:tables/MCL_TERT.md]]
 
+<!---
 ## Mutation pattern and selective pressure estimates
-
-|Entity|aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
-|:------:|:----:|:---------------------:|:----------------:|:----------------:|
-|BL    |No  |No                   |0.000           |0               |
-|DLBCL |No  |No                   |1.429           |0               |
-|FL    |No  |No                   |0.000           |0               |
-
+-->
 
 
 
