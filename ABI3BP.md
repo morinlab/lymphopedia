@@ -26,7 +26,7 @@ Mutations were first described in DLBCL in 2013 by Morin et al.[@morinMutational
 [[include:tables/dnds_ABI3BP.md]]
 
 
-[[include:browser_ABI3BP.md]]
+[[include:tables/browser_ABI3BP.md]]
 
 ## Expression
 ![](images/gene_expression/ABI3BP_by_pathology.svg)
