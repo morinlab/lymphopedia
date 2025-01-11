@@ -14,9 +14,9 @@ link-citations: true
 ### *23 total*
 
 |Gene|Status| First MCL study | Other lists |
-|:-:|:--:|:-:|:-|
-|[ATM](ATM)|MCL Tier 1|[Bea et al](papers/beaLandscapeSomaticMutations2013)|[@braggioGenomicAnalysisMarginal2012; @reddyGeneticFunctionalDrivers2017]|
-|[BIRC3](BIRC3)|MCL Tier 1 |[Bea et al](papers/beaLandscapeSomaticMutations2013)|[@arthurGenomewideDiscoverySomatic2018; @dunsCharacterizationDLBCLPMBL2021; @rossiAlterationBIRC3Multiple2011]|
+|:-:|:-:|:-:|:----|
+|[ATM](ATM)|MCL Tier 1|[Bea et al](papers/beaLandscapeSomaticMutations2013)|DLBCL, MZL|
+|[BIRC3](BIRC3)|MCL Tier 1 |[Bea et al](papers/beaLandscapeSomaticMutations2013)|DLBCL, MZL, PMBL|
 |[CARD11](CARD11)|MCL Tier 1 |[Wu et al](papers/wuGeneticHeterogeneityPrimary2016)|[@lenzOncogenicCARD11Mutations2008; @morinFrequentMutationHistonemodifying2011; @yanBCRTLRSignaling2012]|
 |[CCND1](CCND1)|MCL Tier 1 |[Bea et al](papers/beaLandscapeSomaticMutations2013)||
 |[DAZAP1](DAZAP1)|MCL Tier 1 |[Pararajalingam et al](papers/pararajalingamCodingNoncodingDrivers2020)||
