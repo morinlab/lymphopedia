@@ -19,7 +19,7 @@ nocite: |
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
 ### MCL
-[[include:MCL_RGS4]]
+[[include:tables/MCL_RGS4]]
 
 [[include:tables/mermaid_RGS4.md]]
 
