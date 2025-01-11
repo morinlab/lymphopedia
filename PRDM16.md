@@ -13,7 +13,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_PRDM16.md]]
+[[include:tables/table1_PRDM16.md]]
 
 
 

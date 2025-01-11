@@ -15,7 +15,7 @@ Due to [minimal support](CDH17#representative-mutations) in the original primary
 
 ## Relevance tier by entity
 
-[[include:table1_CDH17.md]]
+[[include:tables/table1_CDH17.md]]
 
 ## Warnings
 

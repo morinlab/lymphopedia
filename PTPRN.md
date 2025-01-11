@@ -11,7 +11,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_PTPRN.md]]
+[[include:tables/table1_PTPRN.md]]
 
 ## Warnings
 

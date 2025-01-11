@@ -19,7 +19,7 @@ Driver mutations affecting this gene in BL/FL/DLBCL have been experimentally dem
 
 ## Relevance tier by entity
 
-[[include:table1_BCL6]]
+[[include:tables/table1_BCL6]]
            
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)

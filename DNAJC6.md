@@ -13,7 +13,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_DNAJC6.md]]
+[[include:tables/table1_DNAJC6.md]]
 
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)

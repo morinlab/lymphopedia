@@ -23,7 +23,7 @@ Combination therapies including EZH2 inhibitors are also under exploration for D
 
 ## Relevance tier by entity
 
-[[include:table1_EZH2]]
+[[include:tables/table1_EZH2]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

@@ -13,7 +13,7 @@ Mutations in this gene are relatively rare in DLBCL overall but show a pattern o
 
 ## Relevance tier by entity
 
-[[include:table1_NCOR2.md]]
+[[include:tables/table1_NCOR2.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

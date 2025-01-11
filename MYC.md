@@ -17,7 +17,7 @@ Driver mutations affecting this gene in DLBCL/FL/BL have been experimentally dem
 
 ## Relevance tier by entity
 
-[[include:table1_MYC]]
+[[include:tables/table1_MYC]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

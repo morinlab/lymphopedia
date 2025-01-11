@@ -13,7 +13,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_KLF4.md]]
+[[include:tables/table1_KLF4.md]]
 
 
 

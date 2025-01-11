@@ -19,7 +19,7 @@ Driver mutations affecting this gene have been experimentally demonstrated to ca
 
 ## Relevance tier by entity
 
-[[include:table1_ARID1A]]
+[[include:tables/table1_ARID1A]]
 
 ## Mutation incidence in large cohorts
 

@@ -15,7 +15,7 @@ Due to [minimal support](RET#representative-mutation) in the original primary da
 
 ## Relevance tier by entity
 
-[[include:table1_RET.md]]
+[[include:tables/table1_RET.md]]
 
 ## Warnings
 

@@ -11,7 +11,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_TPST2.md]]
+[[include:tables/table1_TPST2.md]]
 
 ## Warnings
 

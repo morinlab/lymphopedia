@@ -11,7 +11,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_ICK.md]]
+[[include:tables/table1_ICK.md]]
 
 ## Warnings
 

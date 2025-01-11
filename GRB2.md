@@ -16,7 +16,7 @@ Further research is needed to elucidate its specific role in DLBCL.
 
 ## Relevance tier by entity
 
-[[include:table1_GRB2.md]]
+[[include:tables/table1_GRB2.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

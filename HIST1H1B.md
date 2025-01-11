@@ -13,7 +13,7 @@ This is one of several genes that encode linker histone proteins that are recurr
 
 ## Relevance tier by entity
 
-[[include:table1_HIST1H1B.md]]
+[[include:tables/table1_HIST1H1B.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

@@ -11,7 +11,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_ARID1B.md]]
+[[include:tables/table1_ARID1B.md]]
 
 ## Warnings
 

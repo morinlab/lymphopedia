@@ -13,7 +13,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_GRM5.md]]
+[[include:tables/table1_GRM5.md]]
 
 
 

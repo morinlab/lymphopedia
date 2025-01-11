@@ -10,7 +10,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_PASK.md]]
+[[include:tables/table1_PASK.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

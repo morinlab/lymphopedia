@@ -13,7 +13,7 @@ OSBPL10 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ash
 
 ## Relevance tier by entity
 
-[[include:table1_OSBPL10.md]]
+[[include:tables/table1_OSBPL10.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

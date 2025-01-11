@@ -12,7 +12,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_HNRNPU]]
+[[include:tables/table1_HNRNPU]]
 
 ## Mutation incidence
 

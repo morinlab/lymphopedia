@@ -13,7 +13,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_LRAP.md]]
+[[include:tables/table1_LRAP.md]]
 
 
 

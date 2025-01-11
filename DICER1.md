@@ -10,7 +10,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_DICER1.md]]
+[[include:tables/table1_DICER1.md]]
 
 <<Warn("The variants reported in this gene in DLBCL failed QC")>>
 

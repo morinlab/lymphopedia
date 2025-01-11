@@ -14,7 +14,7 @@ Mutations in this gene were first described in DLBCL in 2021 by Hübschmann et a
 
 ## Relevance tier by entity
 
-[[include:table1_ATP6V1A.md]]
+[[include:tables/table1_ATP6V1A.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

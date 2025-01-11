@@ -13,7 +13,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_LUZP4.md]]
+[[include:tables/table1_LUZP4.md]]
 
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)

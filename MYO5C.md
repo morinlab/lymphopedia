@@ -13,7 +13,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_MYO5C.md]]
+[[include:tables/table1_MYO5C.md]]
 
 
 

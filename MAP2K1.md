@@ -14,7 +14,7 @@ Driver mutations affecting this gene in FL have been experimentally demonstrated
 
 ## Relevance tier by entity
 
-[[include:table1_MAP2K1.md]]
+[[include:tables/table1_MAP2K1.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

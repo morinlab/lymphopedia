@@ -21,7 +21,7 @@ Mutations in CREBBP and EP300 affect a common pathway and have been described as
 
 ## Relevance tier by entity
 
-[[include:table1_CREBBP.md]]
+[[include:tables/table1_CREBBP.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

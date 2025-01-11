@@ -13,7 +13,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_BCL2L10.md]]
+[[include:tables/table1_BCL2L10.md]]
 
 
 

@@ -15,7 +15,7 @@ Due to [minimal support](C6orf27#representative-mutation) in the original primar
 
 ## Relevance tier by entity
 
-[[include:table1_C6orf27.md]]
+[[include:tables/table1_C6orf27.md]]
 
 ## Warnings
 

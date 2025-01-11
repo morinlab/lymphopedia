@@ -11,7 +11,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_NRXN2.md]]
+[[include:tables/table1_NRXN2.md]]
 
 ## Warnings
 

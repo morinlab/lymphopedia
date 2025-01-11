@@ -11,7 +11,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_SALL3.md]]
+[[include:tables/table1_SALL3.md]]
 
 ## Warnings
 

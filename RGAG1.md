@@ -13,7 +13,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_RGAG1.md]]
+[[include:tables/table1_RGAG1.md]]
 
 
 

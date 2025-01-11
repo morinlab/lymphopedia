@@ -13,7 +13,7 @@ LCOR (Ligand Dependent Nuclear Receptor Corepressor) is involved in the regulati
 
 ## Relevance tier by entity
 
-[[include:table1_LCOR.md]]
+[[include:tables/table1_LCOR.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

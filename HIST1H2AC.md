@@ -14,7 +14,7 @@ This gene encodes the H2A protein, one of the core proteins comprising nucleosom
 
 ## Relevance tier by entity
 
-[[include:table1_HIST1H2AC.md]]
+[[include:tables/table1_HIST1H2AC.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

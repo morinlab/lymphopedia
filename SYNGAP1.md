@@ -15,7 +15,7 @@ Due to [minimal support](SYNGAP1#representative-mutation) in the original primar
 
 ## Relevance tier by entity
 
-[[include:table1_SYNGAP1.md]]
+[[include:tables/table1_SYNGAP1.md]]
 
 ## Warnings
 

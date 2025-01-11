@@ -15,7 +15,7 @@ Mutations in this gene were first described in DLBCL in 2013[@zhangGeneticHetero
 
 ## Relevance tier by entity
 
-[[include:table1_STAT5B.md]]
+[[include:tables/table1_STAT5B.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

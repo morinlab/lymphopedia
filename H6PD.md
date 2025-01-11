@@ -13,7 +13,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_H6PD.md]]
+[[include:tables/table1_H6PD.md]]
 
 
 

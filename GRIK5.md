@@ -11,7 +11,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_GRIK5.md]]
+[[include:tables/table1_GRIK5.md]]
 
 ## Warnings
 

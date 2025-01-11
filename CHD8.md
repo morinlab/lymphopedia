@@ -10,7 +10,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_CHD8]]
+[[include:tables/table1_CHD8]]
 
 ## Warnings
 

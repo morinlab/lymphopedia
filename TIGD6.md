@@ -11,7 +11,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_TIGD6.md]]
+[[include:tables/table1_TIGD6.md]]
 
 ## Warnings
 

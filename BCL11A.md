@@ -12,7 +12,7 @@ BCL11A (B-cell lymphoma/leukemia 11A) is a transcription factor involved in the 
 
 ## Relevance tier by entity
 
-[[include:table1_BCL11A.md]]
+[[include:tables/table1_BCL11A.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

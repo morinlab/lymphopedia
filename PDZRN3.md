@@ -12,7 +12,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_PDZRN3.md]]
+[[include:tables/table1_PDZRN3.md]]
 
 ## Warnings
 

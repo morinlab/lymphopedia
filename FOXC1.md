@@ -12,7 +12,7 @@ FOXC1 is a transcription factor that regulates genes involved in cell growth, di
 
 ## Relevance tier by entity
 
-[[include:table1_FOXC1.md]]
+[[include:tables/table1_FOXC1.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

@@ -13,7 +13,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_DNMT3B.md]]
+[[include:tables/table1_DNMT3B.md]]
 
 
 

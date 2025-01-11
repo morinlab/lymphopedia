@@ -11,7 +11,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_SLC29A2.md]]
+[[include:tables/table1_SLC29A2.md]]
 
 ## Warnings
 

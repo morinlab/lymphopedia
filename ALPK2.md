@@ -11,7 +11,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_ALPK2]]
+[[include:tables/table1_ALPK2]]
 
 ## Warnings
 

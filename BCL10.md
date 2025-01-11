@@ -22,7 +22,7 @@ BCL10 missense mutations in the CARD domain and truncating mutations have distin
 
 ## Relevance tier by entity
 
-[[include:table1_BCL10.md]]
+[[include:tables/table1_BCL10.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

@@ -16,7 +16,7 @@ Due to [minimal support](CCT6B#representative-mutations) in the original primary
 
 ## Relevance tier by entity
 
-[[include:table1_CCT6B.md]]
+[[include:tables/table1_CCT6B.md]]
 
 ## Warnings
 

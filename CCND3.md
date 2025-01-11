@@ -17,7 +17,7 @@ Somatic mutations in CCND3 often stabilize the Cyclin D3 protein by altering the
 
 ## Relevance tier by entity
 
-[[include:table1_CCND3]]
+[[include:tables/table1_CCND3]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

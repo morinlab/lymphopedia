@@ -12,7 +12,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_MME.md]]
+[[include:tables/table1_MME.md]]
 
 ## Warnings
 

@@ -18,7 +18,7 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 
 ## Relevance tier by entity
 
-[[include:table1_HLA-A.md]]
+[[include:tables/table1_HLA-A.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

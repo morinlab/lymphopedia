@@ -13,7 +13,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_RUNDC1.md]]
+[[include:tables/table1_RUNDC1.md]]
 
 
 

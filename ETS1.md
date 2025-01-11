@@ -18,7 +18,7 @@ The mutation pattern in DLBCL implies the preferential accumulation of *inactiva
 
 ## Relevance tier by entity
 
-[[include:table1_ETS1.md]]
+[[include:tables/table1_ETS1.md]]
 
 ## Warnings
 

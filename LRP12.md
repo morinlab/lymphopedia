@@ -15,7 +15,7 @@ Mutations in this gene were first described in DLBCL in 2021 by Hübschmann et a
 
 ## Relevance tier by entity
 
-[[include:table1_LRP12.md]]
+[[include:tables/table1_LRP12.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

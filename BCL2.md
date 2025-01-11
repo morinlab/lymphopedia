@@ -17,7 +17,7 @@ Although missense mutations may not be under positive selective pressure in the 
 
 ## Relevance tier by entity
 
-[[include:table1_BCL2.md]]
+[[include:tables/table1_BCL2.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

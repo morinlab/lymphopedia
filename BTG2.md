@@ -16,7 +16,7 @@ BTG2 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) 
 
 ## Relevance tier by entity
 
-[[include:table1_BTG2.md]]
+[[include:tables/table1_BTG2.md]]
 
 ## Warnings
 

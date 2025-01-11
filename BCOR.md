@@ -16,7 +16,7 @@ BCOR acts as a co-repressor of BCL6, and mutations in BCOR could impair its bind
 
 ## Relevance tier by entity
 
-[[include:table1_BCOR.md]]
+[[include:tables/table1_BCOR.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

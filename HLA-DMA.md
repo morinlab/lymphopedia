@@ -12,7 +12,7 @@ Mutations in this gene are relatively rare in DLBCL overall.
 
 ## Relevance tier by entity
 
-[[include:table1_HLA-DMA.md]]
+[[include:tables/table1_HLA-DMA.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

@@ -13,7 +13,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_ZIC4.md]]
+[[include:tables/table1_ZIC4.md]]
 
 
 

@@ -15,7 +15,7 @@ Due to [minimal support](PRSS22#representative-mutation) in the original primary
 
 ## Relevance tier by entity
 
-[[include:table1_PRSS22.md]]
+[[include:tables/table1_PRSS22.md]]
 
 ## Warnings
 

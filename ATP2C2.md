@@ -16,7 +16,7 @@ Due to [minimal support](ATP2C2#representative-mutation) in the original primary
 
 ## Relevance tier by entity
 
-[[include:table1_ATP2C2.md]]
+[[include:tables/table1_ATP2C2.md]]
 
 ## Warnings
 

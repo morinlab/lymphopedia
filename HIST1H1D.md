@@ -14,7 +14,7 @@ Mutations are often found in the globular domain of the protein, which is critic
 
 ## Relevance tier by entity
 
-[[include:table1_HIST1H1D.md]]
+[[include:tables/table1_HIST1H1D.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

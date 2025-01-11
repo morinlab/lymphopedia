@@ -19,7 +19,7 @@ The mutation pattern in DLBCL implies the preferential accumulation of *inactiva
 
 ## Relevance tier by entity
 
-[[include:table1_DUSP2.md]]
+[[include:tables/table1_DUSP2.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

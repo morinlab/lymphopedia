@@ -13,7 +13,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_DUSP27.md]]
+[[include:tables/table1_DUSP27.md]]
 
 
 

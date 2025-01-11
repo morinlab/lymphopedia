@@ -15,7 +15,7 @@ Due to [minimal support](ACE#representative-mutation) in the original primary da
 
 ## Relevance tier by entity
 
-[[include:table1_ACE]]
+[[include:tables/table1_ACE]]
 
 ## Warnings
 

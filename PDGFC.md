@@ -13,7 +13,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_PDGFC.md]]
+[[include:tables/table1_PDGFC.md]]
 
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)

@@ -10,7 +10,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_ATP11C.md]]
+[[include:tables/table1_ATP11C.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

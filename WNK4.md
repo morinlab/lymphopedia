@@ -13,7 +13,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_WNK4.md]]
+[[include:tables/table1_WNK4.md]]
 
 
 

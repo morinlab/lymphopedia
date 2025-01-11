@@ -15,7 +15,7 @@ Mutations in this gene were first described in DLBCL in 2017 by Reddy et al.[@re
 
 ## Relevance tier by entity
 
-[[include:table1_CASP8.md]]
+[[include:tables/table1_CASP8.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

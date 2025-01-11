@@ -14,7 +14,7 @@ This gene has been reported to be recurrently mutated in DLBCL. The rate of muta
 
 ## Relevance tier by entity
 
-[[include:table1_KMT2C.md]]
+[[include:tables/table1_KMT2C.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

@@ -13,7 +13,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_AKAP8]]
+[[include:tables/table1_AKAP8]]
 
 
 

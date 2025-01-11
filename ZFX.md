@@ -10,7 +10,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_ZFX.md]]
+[[include:tables/table1_ZFX.md]]
 
 ## Warnings
 

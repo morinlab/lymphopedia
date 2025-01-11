@@ -13,7 +13,7 @@ Non-coding mutations in the promoter of this gene have been described in MCL.
 
 ## Relevance tier by entity
 
-[[include:table1_TERT.md]]
+[[include:tables/table1_TERT.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

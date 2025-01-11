@@ -13,7 +13,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_ENTPD3.md]]
+[[include:tables/table1_ENTPD3.md]]
 
 ## Warnings
 

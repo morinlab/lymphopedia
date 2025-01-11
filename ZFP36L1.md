@@ -13,7 +13,7 @@ ZFP36L1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ash
 
 ## Relevance tier by entity
 
-[[include:table1_ZFP36L1.md]]
+[[include:tables/table1_ZFP36L1.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

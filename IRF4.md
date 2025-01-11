@@ -16,7 +16,7 @@ There are a few mutation hotspots in this gene. The functional role of mutations
 
 ## Relevance tier by entity
 
-[[include:table1_IRF4.md]]
+[[include:tables/table1_IRF4.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

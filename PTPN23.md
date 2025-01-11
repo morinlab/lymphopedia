@@ -10,7 +10,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_PTPN23.md]]
+[[include:tables/table1_PTPN23.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

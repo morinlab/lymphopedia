@@ -13,7 +13,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_CSF2RB.md]]
+[[include:tables/table1_CSF2RB.md]]
 
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)

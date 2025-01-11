@@ -17,7 +17,7 @@ Due to [minimal support](COL4A2#representative-mutations) in the original primar
 
 ## Relevance tier by entity
 
-[[include:table1_COL4A2.md]]
+[[include:tables/table1_COL4A2.md]]
 
 ## Warnings
 

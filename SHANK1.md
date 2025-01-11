@@ -11,7 +11,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_SHANK1.md]]
+[[include:tables/table1_SHANK1.md]]
 
 ## Warnings
 

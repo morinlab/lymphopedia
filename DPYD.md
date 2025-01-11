@@ -13,7 +13,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_DPYD.md]]
+[[include:tables/table1_DPYD.md]]
 
 
 

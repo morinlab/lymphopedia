@@ -13,7 +13,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_SEMA3D.md]]
+[[include:tables/table1_SEMA3D.md]]
 
 
 

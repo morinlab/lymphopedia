@@ -16,7 +16,7 @@ Thus far, there is limited information about the consequence of MEF2B mutations 
 
 ## Relevance tier by entity
 
-[[include:table1_MEF2B.md]]
+[[include:tables/table1_MEF2B.md]]
 
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)

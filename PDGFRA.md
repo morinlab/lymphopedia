@@ -13,7 +13,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_PDGFRA.md]]
+[[include:tables/table1_PDGFRA.md]]
 
 
 

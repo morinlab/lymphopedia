@@ -13,7 +13,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_FAM161A.md]]
+[[include:tables/table1_FAM161A.md]]
 
 
 

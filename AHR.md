@@ -13,7 +13,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_AHR]]
+[[include:tables/table1_AHR]]
 
 
 [[include:tables/mermaid_AHR.md]]

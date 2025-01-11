@@ -12,7 +12,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_WDR7.md]]
+[[include:tables/table1_WDR7.md]]
 
 ## Warnings
 

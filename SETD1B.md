@@ -14,7 +14,7 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 
 ## Relevance tier by entity
 
-[[include:table1_SETD1B.md]]
+[[include:tables/table1_SETD1B.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

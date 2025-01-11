@@ -13,7 +13,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_KDM2B.md]]
+[[include:tables/table1_KDM2B.md]]
 
 
 

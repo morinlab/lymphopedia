@@ -13,7 +13,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_KIF26A.md]]
+[[include:tables/table1_KIF26A.md]]
 
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)

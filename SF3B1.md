@@ -15,7 +15,7 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 
 ## Relevance tier by entity
 
-[[include:table1_SF3B1.md]]
+[[include:tables/table1_SF3B1.md]]
 
 ## Warnings
 

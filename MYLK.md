@@ -13,7 +13,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_MYLK.md]]
+[[include:tables/table1_MYLK.md]]
 
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)

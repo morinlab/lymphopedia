@@ -12,7 +12,7 @@ LYN mutations have been reported in DLBCL but the rate is relatively rare in mos
 
 ## Relevance tier by entity
 
-[[include:table1_LYN.md]]
+[[include:tables/table1_LYN.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

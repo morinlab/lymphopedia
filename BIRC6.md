@@ -15,7 +15,7 @@ BIRC6, as a negative regulator of non-canonical NF-κB signaling, is implicated 
 
 ## Relevance tier by entity
 
-[[include:table1_BIRC6.md]]
+[[include:tables/table1_BIRC6.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

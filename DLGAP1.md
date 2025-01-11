@@ -14,7 +14,7 @@ Due to [minimal support](DLGAP1#representative-mutation) in the original primary
 
 ## Relevance tier by entity
 
-[[include:table1_DLGAP1.md]]
+[[include:tables/table1_DLGAP1.md]]
 
 ## Warnings
 

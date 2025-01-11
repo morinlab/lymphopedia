@@ -19,7 +19,7 @@ Due to [minimal support](FTCD#representative-mutation) in the original primary d
 
 ## Relevance tier by entity
 
-[[include:table1_FTCD.md]]
+[[include:tables/table1_FTCD.md]]
 
 ## Warnings
 

@@ -14,7 +14,7 @@ Mutations in this gene were first described in FL in 2021 by Hübschmann et al.[
 
 ## Relevance tier by entity
 
-[[include:table1_JUP.md]]
+[[include:tables/table1_JUP.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

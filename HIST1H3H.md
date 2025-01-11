@@ -9,7 +9,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_HIST1H3H.md]]
+[[include:tables/table1_HIST1H3H.md]]
 
 ## Warnings
 

@@ -14,7 +14,7 @@ Mutations in this gene were first described in DLBCL in 2013[@zhangGeneticHetero
 
 ## Relevance tier by entity
 
-[[include:table1_PIK3R1.md]]
+[[include:tables/table1_PIK3R1.md]]
 
 ## Warnings
 

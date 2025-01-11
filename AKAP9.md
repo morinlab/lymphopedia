@@ -13,7 +13,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_AKAP9]]
+[[include:tables/table1_AKAP9]]
 
 
 [[include:tables/mermaid_AKAP9.md]]

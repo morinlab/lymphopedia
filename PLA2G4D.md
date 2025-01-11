@@ -13,7 +13,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_PLA2G4D.md]]
+[[include:tables/table1_PLA2G4D.md]]
 
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)

@@ -13,7 +13,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_SH3PXD2B.md]]
+[[include:tables/table1_SH3PXD2B.md]]
 
 
 

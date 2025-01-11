@@ -18,7 +18,7 @@ Driver mutations affecting this gene in BL have been experimentally demonstrated
 
 ## Relevance tier by entity
 
-[[include:table1_BACH2]]
+[[include:tables/table1_BACH2]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

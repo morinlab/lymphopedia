@@ -12,7 +12,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_KCNK10.md]]
+[[include:tables/table1_KCNK10.md]]
 
 ## Warnings
 

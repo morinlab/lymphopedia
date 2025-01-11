@@ -13,7 +13,7 @@ This gene has some recurrent sites of mutations (hot spots). The mutation patter
 
 ## Relevance tier by entity
 
-[[include:table1_DAZAP1.md]]
+[[include:tables/table1_DAZAP1.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

@@ -14,7 +14,7 @@ Due to [minimal support](BRD4#representative-mutation) in the original primary d
 
 ## Relevance tier by entity
 
-[[include:table1_BRD4.md]]
+[[include:tables/table1_BRD4.md]]
 
 ## Warnings
 

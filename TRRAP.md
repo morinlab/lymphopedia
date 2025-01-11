@@ -10,7 +10,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_TRRAP.md]]
+[[include:tables/table1_TRRAP.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

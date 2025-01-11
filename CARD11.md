@@ -20,7 +20,7 @@ The functional effect of CARD11 mutations in DLBCL was explored in the original 
 
 ## Relevance tier by entity
 
-[[include:table1_CARD11.md]]
+[[include:tables/table1_CARD11.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

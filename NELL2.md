@@ -13,7 +13,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_NELL2.md]]
+[[include:tables/table1_NELL2.md]]
 
 
 

@@ -14,7 +14,7 @@ Mutations in this gene were first described in BL in 2012 by Love et al[@loveGen
 
 ## Relevance tier by entity
 
-[[include:table1_CDC73.md]]
+[[include:tables/table1_CDC73.md]]
 
 ## Warnings
 

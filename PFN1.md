@@ -13,7 +13,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_PFN1.md]]
+[[include:tables/table1_PFN1.md]]
 
 
 

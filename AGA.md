@@ -13,7 +13,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_AGA]]
+[[include:tables/table1_AGA]]
 
 
 

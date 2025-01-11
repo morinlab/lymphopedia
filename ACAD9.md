@@ -13,7 +13,7 @@ Due to [minimal support](ACAD9#representative-mutation) in the original primary 
 
 ## Relevance tier by entity
 
-[[include:table1_ACAD9]]
+[[include:tables/table1_ACAD9]]
 
 
 ## Warnings

@@ -16,7 +16,7 @@ Contradictory to this, the mutation pattern in DLBCL implies selective pressure 
 
 ## Relevance tier by entity
 
-[[include:table1_KLF2.md]]
+[[include:tables/table1_KLF2.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

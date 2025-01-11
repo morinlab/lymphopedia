@@ -21,7 +21,7 @@ Driver mutations affecting this gene in FL/DLBCL have been experimentally demons
 
 ## Relevance tier by entity
 
-[[include:table1_PIM1.md]]
+[[include:tables/table1_PIM1.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

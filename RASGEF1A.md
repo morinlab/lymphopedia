@@ -13,7 +13,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_RASGEF1A.md]]
+[[include:tables/table1_RASGEF1A.md]]
 
 
 

@@ -16,7 +16,7 @@ Mutations in this gene were first described in DLBCL in 2013 by Morin et al.[@mo
 
 ## Relevance tier by entity
 
-[[include:table1_HIST1H1E]]
+[[include:tables/table1_HIST1H1E]]
 
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)

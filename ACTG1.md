@@ -19,7 +19,7 @@ The function of mutations in ACTB and ACTG1 have not yet been determined.[@witje
 
 ## Relevance tier by entity
 
-[[include:table1_ACTG1]]
+[[include:tables/table1_ACTG1]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

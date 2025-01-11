@@ -12,7 +12,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_SAPS2.md]]
+[[include:tables/table1_SAPS2.md]]
 
 ## Warnings
 

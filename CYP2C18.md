@@ -13,7 +13,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_CYP2C18.md]]
+[[include:tables/table1_CYP2C18.md]]
 
 
 

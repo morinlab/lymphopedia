@@ -11,7 +11,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_MAP4K4.md]]
+[[include:tables/table1_MAP4K4.md]]
 
 ## Warnings
 

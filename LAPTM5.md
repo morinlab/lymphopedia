@@ -14,7 +14,7 @@ Mutations in this gene were first described in DLBCL and FL in 2021 by [Hübschm
 
 ## Relevance tier by entity
 
-[[include:table1_LAPTM5.md]]
+[[include:tables/table1_LAPTM5.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

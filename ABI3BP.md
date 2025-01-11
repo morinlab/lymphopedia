@@ -15,7 +15,7 @@ Mutations were first described in DLBCL in 2013 by Morin et al.[@morinMutational
 
 ## Relevance tier by entity
 
-[[include:table1_ABI3BP]]
+[[include:tables/table1_ABI3BP]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

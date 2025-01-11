@@ -17,7 +17,7 @@ Due to [minimal support](EML2#representative-mutation) in the original primary d
 
 ## Relevance tier by entity
 
-[[include:table1_EML2.md]]
+[[include:tables/table1_EML2.md]]
 
 ## Warnings
 

@@ -18,7 +18,7 @@ Driver mutations affecting this gene in BL/FL/DLBCL have been experimentally dem
 
 ## Relevance tier by entity
 
-[[include:table1_GNA13]]
+[[include:tables/table1_GNA13]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

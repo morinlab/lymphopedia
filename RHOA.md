@@ -14,7 +14,7 @@ Driver mutations affecting this gene in DLBCL/BL have been experimentally demons
 
 ## Relevance tier by entity
 
-[[include:table1_RHOA.md]]
+[[include:tables/table1_RHOA.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

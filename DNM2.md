@@ -14,7 +14,7 @@ Mutations in this gene were first described in DLBCL and FL in 2021 by Hübschma
 
 ## Relevance tier by entity
 
-[[include:table1_DNM2.md]]
+[[include:tables/table1_DNM2.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

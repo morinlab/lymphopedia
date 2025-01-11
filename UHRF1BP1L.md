@@ -13,7 +13,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_UHRF1BP1L.md]]
+[[include:tables/table1_UHRF1BP1L.md]]
 
 
 

@@ -20,7 +20,7 @@ B2M mutations in B-cell lymphomas, particularly in DLBCL and PMBCL, lead to redu
 
 ## Relevance tier by entity
 
-[[include:table1_B2M.md]]
+[[include:tables/table1_B2M.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

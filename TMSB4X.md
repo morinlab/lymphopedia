@@ -14,7 +14,7 @@ TMSB4X is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm
 
 ## Relevance tier by entity
 
-[[include:table1_TMSB4X.md]]
+[[include:tables/table1_TMSB4X.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

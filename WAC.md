@@ -11,7 +11,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_WAC.md]]
+[[include:tables/table1_WAC.md]]
 
 ## Warnings
 

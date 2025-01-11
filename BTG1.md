@@ -21,7 +21,7 @@ Another study demonstrated that specific BTG1 mutations afford germinal center (
 
 ## Relevance tier by entity
 
-[[include:table1_BTG1.md]]
+[[include:tables/table1_BTG1.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

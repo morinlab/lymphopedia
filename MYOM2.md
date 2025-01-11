@@ -13,7 +13,7 @@ The prevalence of MYOM2 mutations in DLBCL varies across studies. The role of th
 
 ## Relevance tier by entity
 
-[[include:table1_MYOM2.md]]
+[[include:tables/table1_MYOM2.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

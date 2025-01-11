@@ -9,7 +9,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_VPS13B.md]]
+[[include:tables/table1_VPS13B.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

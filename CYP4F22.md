@@ -15,7 +15,7 @@ Due to [minimal support](CYP4F22#representative-mutation) in the original primar
 
 ## Relevance tier by entity
 
-[[include:table1_CYP4F22.md]]
+[[include:tables/table1_CYP4F22.md]]
 
 ## Warnings
 

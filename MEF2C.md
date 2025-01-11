@@ -15,7 +15,7 @@ Mutations in this gene were first described in DLBCL by [Arthur et al](papers/ar
 
 ## Relevance tier by entity
 
-[[include:table1_MEF2C.md]]
+[[include:tables/table1_MEF2C.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

@@ -14,7 +14,7 @@ Mutations in this gene were first described in DLBCL in 2017 by Reddy et al.[@re
 
 ## Relevance tier by entity
 
-[[include:table1_CHD1.md]]
+[[include:tables/table1_CHD1.md]]
 
 ## Warnings
 

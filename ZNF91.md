@@ -13,7 +13,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_ZNF91.md]]
+[[include:tables/table1_ZNF91.md]]
 
 [[include:tables/mermaid_ZNF91.md]]
 

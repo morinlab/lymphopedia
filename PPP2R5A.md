@@ -13,7 +13,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_PPP2R5A.md]]
+[[include:tables/table1_PPP2R5A.md]]
 
 
 

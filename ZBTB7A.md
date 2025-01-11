@@ -12,7 +12,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_ZBTB7A.md]]
+[[include:tables/table1_ZBTB7A.md]]
 
 ## Warnings
 

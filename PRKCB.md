@@ -10,7 +10,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_PRKCB.md]]
+[[include:tables/table1_PRKCB.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

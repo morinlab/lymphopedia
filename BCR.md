@@ -15,7 +15,7 @@ BCR (Breakpoint Cluster Region Protein) is one of [a number of genes](https://gi
 
 ## Relevance tier by entity
 
-[[include:table1_BCR.md]]
+[[include:tables/table1_BCR.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

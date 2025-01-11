@@ -15,7 +15,7 @@ JUNB has been reported to be frequently mutated in T-cell/histiocyte-rich large 
 
 ## Relevance tier by entity
 
-[[include:table1_JUNB.md]]
+[[include:tables/table1_JUNB.md]]
 
 ## Warnings
 

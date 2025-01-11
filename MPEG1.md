@@ -13,7 +13,7 @@ Mutations in MPEG1 have been described in DLBCL[@morinMutationalStructuralAnalys
 
 ## Relevance tier by entity
 
-[[include:table1_MPEG1.md]]
+[[include:tables/table1_MPEG1.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

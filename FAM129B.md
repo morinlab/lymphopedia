@@ -10,7 +10,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_FAM129B.md]]
+[[include:tables/table1_FAM129B.md]]
 
 ## Warnings
 

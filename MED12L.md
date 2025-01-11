@@ -13,7 +13,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_MED12L.md]]
+[[include:tables/table1_MED12L.md]]
 
 
 

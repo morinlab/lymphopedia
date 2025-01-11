@@ -13,7 +13,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_HIST1H4I.md]]
+[[include:tables/table1_HIST1H4I.md]]
 
 
 

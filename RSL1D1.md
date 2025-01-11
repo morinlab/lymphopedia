@@ -13,7 +13,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_RSL1D1.md]]
+[[include:tables/table1_RSL1D1.md]]
 
 
 

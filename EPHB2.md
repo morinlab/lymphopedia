@@ -14,7 +14,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_EPHB2]]
+[[include:tables/table1_EPHB2]]
 
 
 ## Warnings

@@ -23,7 +23,7 @@ Driver mutations affecting this gene in BL/DLBCL/FL have been experimentally dem
 
 ## Relevance tier by entity
 
-[[include:table1_KMT2D]]
+[[include:tables/table1_KMT2D]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

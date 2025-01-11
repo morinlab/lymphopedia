@@ -10,7 +10,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_SERPINA9.md]]
+[[include:tables/table1_SERPINA9.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

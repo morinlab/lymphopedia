@@ -13,7 +13,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_LEPR.md]]
+[[include:tables/table1_LEPR.md]]
 
 
 

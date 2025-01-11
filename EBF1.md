@@ -19,7 +19,7 @@ Driver mutations affecting this gene in DLBCL/FL have been experimentally demons
 
 ## Relevance tier by entity
 
-[[include:table1_EBF1.md]]
+[[include:tables/table1_EBF1.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

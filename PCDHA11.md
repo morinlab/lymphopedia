@@ -12,7 +12,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_PCDHA11.md]]
+[[include:tables/table1_PCDHA11.md]]
 
 ## Warnings
 

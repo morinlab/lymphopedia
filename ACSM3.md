@@ -13,7 +13,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_ACSM3]]
+[[include:tables/table1_ACSM3]]
 
 
 [[include:tables/mermaid_ACSM3.md]]

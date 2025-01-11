@@ -13,7 +13,7 @@ WEE1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) 
 
 ## Relevance tier by entity
 
-[[include:table1_WEE1.md]]
+[[include:tables/table1_WEE1.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

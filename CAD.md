@@ -15,7 +15,7 @@ Due to [minimal support](CAD#representative-mutation) in the original primary da
 
 ## Relevance tier by entity
 
-[[include:table1_CAD.md]]
+[[include:tables/table1_CAD.md]]
 
 ## Warnings
 

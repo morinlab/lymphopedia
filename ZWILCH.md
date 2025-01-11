@@ -13,7 +13,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_ZWILCH.md]]
+[[include:tables/table1_ZWILCH.md]]
 
 
 [[include:tables/mermaid_ZWILCH.md]]

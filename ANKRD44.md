@@ -13,7 +13,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_ANKRD44.md]]
+[[include:tables/table1_ANKRD44.md]]
 
 
 

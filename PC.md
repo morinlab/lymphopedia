@@ -12,7 +12,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_PC.md]]
+[[include:tables/table1_PC.md]]
 
 ## Warnings
 

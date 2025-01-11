@@ -10,7 +10,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_TOP2A.md]]
+[[include:tables/table1_TOP2A.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

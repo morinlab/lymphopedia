@@ -16,7 +16,7 @@ ACTB is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) 
 
 ## Relevance tier by entity
 
-[[include:table1_ACTB]]
+[[include:tables/table1_ACTB]]
 
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)

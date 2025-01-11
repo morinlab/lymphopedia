@@ -24,7 +24,7 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 
 ## Relevance tier by entity
 
-[[include:table1_CD79B.md]]
+[[include:tables/table1_CD79B.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

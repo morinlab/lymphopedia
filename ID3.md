@@ -15,7 +15,7 @@ The existence of mutations in DLBCL were described in 2012 by Schmitz et al[@sch
 
 ## Relevance tier by entity
 
-[[include:table1_ID3]]
+[[include:tables/table1_ID3]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

@@ -14,7 +14,7 @@ Due to [minimal support](KIFC3#representative-mutations) in the original primary
 
 ## Relevance tier by entity
 
-[[include:table1_KIFC3.md]]
+[[include:tables/table1_KIFC3.md]]
 
 ## Warnings
 

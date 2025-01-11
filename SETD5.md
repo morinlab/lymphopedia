@@ -10,7 +10,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_SETD5.md]]
+[[include:tables/table1_SETD5.md]]
 
 ## Warnings
 

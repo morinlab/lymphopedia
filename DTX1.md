@@ -14,7 +14,7 @@ Mutations in the DTX1 gene, which encodes the E3 ubiquitin ligase Deltex 1, have
 
 ## Relevance tier by entity
 
-[[include:table1_DTX1.md]]
+[[include:tables/table1_DTX1.md]]
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 

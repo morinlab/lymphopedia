@@ -13,7 +13,7 @@ nocite: |
 
 ## Relevance tier by entity
 
-[[include:table1_FAT2.md]]
+[[include:tables/table1_FAT2.md]]
 
 
 

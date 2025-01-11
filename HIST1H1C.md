@@ -15,7 +15,7 @@ Mutations are often found in the globular domain of the protein, which is critic
 
 ## Relevance tier by entity
 
-[[include:table1_HIST1H1C.md]]
+[[include:tables/table1_HIST1H1C.md]]
 
 ## Warnings
 
