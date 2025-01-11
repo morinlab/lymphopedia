@@ -21,8 +21,14 @@ This gene has been reported to be recurrently mutated in DLBCL. The rate of muta
 ### DLBCL
 [[include:tables/DLBCL_KMT2C.md]]
 
+### FL
+[[include:tables/FL_KMT2C.md]]
+
 ### BL
 [[include:tables/BL_KMT2C.md]]
+
+### MCL
+[[include:tables/MCL_KMT2C.md]]
 
 ## Mutation pattern and selective pressure estimates
 
