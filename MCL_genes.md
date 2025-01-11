@@ -16,13 +16,13 @@ link-citations: true
 |Gene|Status| First MCL study | Other lists |
 |:-:|:-:|:-:|:----|
 |[ATM](ATM)|MCL Tier 1|[Bea et al](papers/beaLandscapeSomaticMutations2013)|DLBCL, MZL|
-|[BIRC3](BIRC3)|MCL Tier 1 |[Bea et al](papers/beaLandscapeSomaticMutations2013)|DLBCL, MZL, PMBLs|
+|[BIRC3](BIRC3)|MCL Tier 1 |[Bea et al](papers/beaLandscapeSomaticMutations2013)|DLBCL, MZL, PMBL|
 |[CARD11](CARD11)|MCL Tier 1 |[Wu et al](papers/wuGeneticHeterogeneityPrimary2016)|DLBCL, MZL, FL, BL|
 |[CCND1](CCND1)|MCL Tier 1 |[Bea et al](papers/beaLandscapeSomaticMutations2013)||
-|[DAZAP1](DAZAP1)|MCL Tier 1 |[Pararajalingam et al](papers/pararajalingamCodingNoncodingDrivers2020)||
-|[EWSR1](EWSR1)|MCL Tier 1 |[Pararajalingam et al](papers/pararajalingamCodingNoncodingDrivers2020)||
-|[HNRNPH1](HNRNPH1)|MCL Tier 1 |[Pararajalingam et al](papers/pararajalingamCodingNoncodingDrivers2020)||
-|[KMT2D](KMT2D)|MCL Tier 1 |[Bea et al](papers/beaLandscapeSomaticMutations2013)|[@deschGenotypingCirculatingTumor2020; @grandeGenomewideDiscoverySomatic2019; @morinFrequentMutationHistonemodifying2011; @rossiCodingGenomeSplenic2012]|
+|[DAZAP1](DAZAP1)|MCL Tier 1 |[Pararajalingam et al](papers/pararajalingamCodingNoncodingDrivers2020)|DLBCL|
+|[EWSR1](EWSR1)|MCL Tier 1 |[Pararajalingam et al](papers/pararajalingamCodingNoncodingDrivers2020)|PMBL|
+|[HNRNPH1](HNRNPH1)|MCL Tier 1 |[Pararajalingam et al](papers/pararajalingamCodingNoncodingDrivers2020)|DLBCL|
+|[KMT2D](KMT2D)|MCL Tier 1 |[Bea et al](papers/beaLandscapeSomaticMutations2013)|FL, BL, DLBCL, PMBL, MZL|
 |[MEF2B](MEF2B)|MCL Tier 1 |[Bea et al](papers/beaLandscapeSomaticMutations2013)|[@morinFrequentMutationHistonemodifying2011]|
 |[NFKBIE](NFKBIE)|MCL Tier 1 |[Pararajalingam et al](papers/pararajalingamCodingNoncodingDrivers2020)|[@mansouriFrequentNFKBIEDeletions2016; @morinGeneticLandscapesRelapsed2016]|
 |[NOTCH1](NOTCH1)|MCL Tier 1 |[Bea et al](papers/beaLandscapeSomaticMutations2013)|[@loveGeneticLandscapeMutations2012; @pasqualucciAnalysisCodingGenome2011; @rossiCodingGenomeSplenic2012]|
