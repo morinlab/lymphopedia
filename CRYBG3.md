@@ -21,9 +21,6 @@ nocite: |
 ### MCL
 [[include:tables/MCL_CRYBG3]]
 
-### BL
-[[include:tables/BL_CRYBG3]]
-
 [[include:tables/mermaid_CRYBG3.md]]
 
 ## References
