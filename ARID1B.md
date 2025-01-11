@@ -28,6 +28,9 @@ nocite: |
 ### DLBCL
 [[include:tables/DLBCL_ARID1B.md]]
 
+### FL
+[[include:tables/FL_ARID1B.md]]
+
 ## Mutation pattern and selective pressure estimates
 
 [[include:tables/dnds_ARID1B.md]]
