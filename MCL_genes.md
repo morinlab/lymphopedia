@@ -43,7 +43,7 @@ link-citations: true
 |[HEPH](HEPH)|MCL Tier 2|[Zhang et al](papers/zhangGenomicLandscapeMantle2014)||
 |[KCNC2](KCNC2)|MCL Tier 2|[Bea et al](papers/beaLandscapeSomaticMutations2013)||
 |[KIAA1671](KIAA1671)|MCL Tier 2|[Bea et al](papers/beaLandscapeSomaticMutations2013)||
-|[KMT2C](KMT2C)|MCL Tier 2|[Zhang et al](papers/zhangGenomicLandscapeMantle2014)|[@sarkozyMutationalLandscapeGray2021; @zhangGeneticHeterogeneityDiffuse2013; @zhouSporadicEndemicBurkitt2019]||
+|[KMT2C](KMT2C)|MCL Tier 2|[Zhang et al](papers/zhangGenomicLandscapeMantle2014)|PMBL, DLBCL, BL |
 |[LUZP4](LUZP4)|MCL Tier 2|[Bea et al](papers/beaLandscapeSomaticMutations2013)||
 |[MRGPRF](MRGPRF)|MCL Tier 2|[Zhang et al](papers/zhangGenomicLandscapeMantle2014)||
 |[NIN](NIN)|MCL Tier 2|[Zhang et al](papers/zhangGenomicLandscapeMantle2014)||
@@ -51,7 +51,7 @@ link-citations: true
 |[PCDHB2](PCDHB2)|MCL Tier 2|[Zhang et al](papers/zhangGenomicLandscapeMantle2014)||
 |[PCSK2](PCSK2)|MCL Tier 2|[Bea et al](papers/beaLandscapeSomaticMutations2013)||
 |[PDLIM3](PDLIM3)|MCL Tier 2|[Bea et al](papers/beaLandscapeSomaticMutations2013)||
-|[PLXNB3](PLXNB3)|MCL Tier 2|[Zhang et al](papers/zhangGenomicLandscapeMantle2014)|[@spinaGeneticsNodalMarginal2016]|
+|[PLXNB3](PLXNB3)|MCL Tier 2|[Zhang et al](papers/zhangGenomicLandscapeMantle2014)|MZL|
 |[RGS4](RGS4)|MCL Tier 2|[Bea et al](papers/beaLandscapeSomaticMutations2013)||
 |[ROBO2](ROBO2)|MCL Tier 2|[Zhang et al](papers/zhangGenomicLandscapeMantle2014)||
 |[SALL3](SALL3)|MCL Tier 2|[Zhang et al](papers/zhangGenomicLandscapeMantle2014)|BL|
