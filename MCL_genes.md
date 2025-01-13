@@ -19,13 +19,13 @@ link-citations: true
 |Gene|Status| First MCL study | Other lists |
 |:-:|:-:|:---:|:----|
 |[ABCA3](ABCA3)|MCL Tier 2|[Bea et al](papers/beaLandscapeSomaticMutations2013)|DLBCL|
-|[ABCC9](ABCC9)|MCL Tier 2|[Bea et al](papers/beaLandscapeSomaticMutations2013)|||
-|[ANK2](ANK2)|MCL Tier 2|[Zhang et al](papers/zhangGenomicLandscapeMantle2014)|[@zhangGeneticHeterogeneityDiffuse2013]||
+|[ABCC9](ABCC9)|MCL Tier 2|[Bea et al](papers/beaLandscapeSomaticMutations2013)||
+|[ANK2](ANK2)|MCL Tier 2|[Zhang et al](papers/zhangGenomicLandscapeMantle2014)|DLBCL|
 |[ARID1B](ARID1B)|MCL Tier 2||
-|[ATP11C](ATP11C)|MCL Tier 2|[Zhang et al](papers/zhangGenomicLandscapeMantle2014)|||
-|[B2M](B2M)|MCL Tier 2|[Pararajalingam et al](papers/pararajalingamCodingNoncodingDrivers2020)|[@morinFrequentMutationHistonemodifying2011; @reichelFlowSortingExome2015]||
-|[BCOR](BCOR)|MCL Tier 2|[Nadeu et al](papers/nadeuGenomicEpigenomicInsights2020)|[@jalladesExomeSequencingIdentifies2017]||
-|[CDH8](CDH8)|MCL Tier 2|[Zhang et al](papers/zhangGenomicLandscapeMantle2014)|[@reddyGeneticFunctionalDrivers2017]||
+|[ATP11C](ATP11C)|MCL Tier 2|[Zhang et al](papers/zhangGenomicLandscapeMantle2014)||
+|[B2M](B2M)|MCL Tier 2|[Pararajalingam et al](papers/pararajalingamCodingNoncodingDrivers2020)|DLBCL, PMBL|
+|[BCOR](BCOR)|MCL Tier 2|[Nadeu et al](papers/nadeuGenomicEpigenomicInsights2020)|[@jalladesExomeSequencingIdentifies2017]|
+|[CDH8](CDH8)|MCL Tier 2|[Zhang et al](papers/zhangGenomicLandscapeMantle2014)|[@reddyGeneticFunctionalDrivers2017]|
 |[CHMP4C](CHMP4C)|MCL Tier 2|[Bea et al](papers/beaLandscapeSomaticMutations2013)|||
 |[COL11A1](COL11A1)|MCL Tier 2|[Zhang et al](papers/zhangGenomicLandscapeMantle2014)|||
 |[COL16A1](COL16A1)|MCL Tier 2|[Zhang et al](papers/zhangGenomicLandscapeMantle2014)|||
