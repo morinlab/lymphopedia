@@ -18,7 +18,7 @@ link-citations: true
 
 |Gene|Status| First MCL study | Other lists |
 |:-:|:-:|:---:|:----|
-|[ABCA3](ABCA3)|MCL Tier 2|[Bea et al](papers/beaLandscapeSomaticMutations2013)|[@zhangGeneticHeterogeneityDiffuse2013]||
+|[ABCA3](ABCA3)|MCL Tier 2|[Bea et al](papers/beaLandscapeSomaticMutations2013)|DLBCL|
 |[ABCC9](ABCC9)|MCL Tier 2|[Bea et al](papers/beaLandscapeSomaticMutations2013)|||
 |[ANK2](ANK2)|MCL Tier 2|[Zhang et al](papers/zhangGenomicLandscapeMantle2014)|[@zhangGeneticHeterogeneityDiffuse2013]||
 |[ARID1B](ARID1B)|MCL Tier 2||
