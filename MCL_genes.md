@@ -4,7 +4,7 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 nocite: |
-  @nadeuGenomicEpigenomicInsights2020b, @pararajalingamCodingNoncodingDrivers2020 @zhangGenomicLandscapeMantle2014, @beaLandscapeSomaticMutations2013, @wuGeneticHeterogeneityPrimary2016
+  @nadeuGenomicEpigenomicInsights2020b, @pararajalingamCodingNoncodingDrivers2020 @zhangGenomicLandscapeMantle2014, @beaLandscapeSomaticMutations2013, @wuGeneticHeterogeneityPrimary2016, @freemanMolecularDeterminantsOutcomes2022
 ---
 
 ## Origins of MCL genes
