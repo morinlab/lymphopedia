@@ -23,7 +23,7 @@ nocite: |
 |[ABCA3](ABCA3)|MCL Tier 2|[Bea et al](papers/beaLandscapeSomaticMutations2013)|[DLBCL](DLBCL_genes)|
 |[ABCC9](ABCC9)|MCL Tier 2|[Bea et al](papers/beaLandscapeSomaticMutations2013)||
 |[ANK2](ANK2)|MCL Tier 2|[Zhang et al](papers/zhangGenomicLandscapeMantle2014)|[DLBCL](DLBCL_genes)|
-|[ARID1B](ARID1B)|MCL Tier 2||
+|[ARID1B](ARID1B)|MCL Tier 2|Freeman et al||
 |[ATP11C](ATP11C)|MCL Tier 2|[Zhang et al](papers/zhangGenomicLandscapeMantle2014)||
 |[B2M](B2M)|MCL Tier 2|[Pararajalingam et al](papers/pararajalingamCodingNoncodingDrivers2020)|[DLBCL](DLBCL_genes), [PMBL](PMBL_genes)|
 |[BCOR](BCOR)|MCL Tier 2|[Nadeu et al](papers/nadeuGenomicEpigenomicInsights2020)|[MZL](MZL_genes)|
