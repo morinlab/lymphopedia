@@ -7,6 +7,10 @@ nocite: |
 ---
 [[_TOC_]]
 
+## Overview
+
+The relevance of HIST1H3B mutations in DLBCL remains unclear.
+[Selective pressure analysis](#mutation-pattern-and-selective-pressure-estimates) did not identify this gene as significantly enriched for either missense or truncating mutations, indicating that many of these mutations may represent passengers. 
 
 ## Relevance tier by entity
 

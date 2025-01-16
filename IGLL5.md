@@ -7,6 +7,9 @@ nocite: |
 ---
 [[_TOC_]]
 
+## Overview
+
+Although IGLL5 is significantly mutated, [Selective pressure analysis](#mutation-pattern-and-selective-pressure-estimates) implies the gene is largely under negative selective pressure. It remains unclear whether any of the mutations in IGLL5 are relevant to DLBCL, BL or FL.
 
 ## Relevance tier by entity
 

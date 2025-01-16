@@ -9,7 +9,7 @@ nocite: |
 
 ## Overview
 
-This gene encodes the H2A protein, one of the core proteins comprising nucleosomes. Although relatively common in DLBCL, little is known about the function of these mutations. 
+This gene encodes the H2A protein, one of the core proteins comprising nucleosomes. Although relatively common in DLBCL, little is known about the function of these mutations. The relevance of HIST1H2AM mutations in DLBCL remains unclear. [Selective pressure analysis](#mutation-pattern-and-selective-pressure-estimates) did not identify this gene as significantly enriched for either missense or truncating mutations, indicating that many of these mutations may represent passengers. 
 
 
 ## Relevance tier by entity

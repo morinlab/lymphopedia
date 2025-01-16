@@ -32,6 +32,9 @@ The mutation pattern in DLBCL implies the preferential accumulation of *inactiva
 ### FL
 [[include:tables/FL_ETS1.md]]
 
+### BL
+[[include:tables/BL_ETS1.md]]
+
 ## Mutation pattern and selective pressure estimates
 
 [[include:tables/dnds_ETS1.md]]

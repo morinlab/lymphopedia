@@ -3,7 +3,7 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 nocite: |
-  @morinFrequentMutationHistonemodifying2011, @mottokIntegrativeGenomicAnalysis2019, @qiuIRF8mutantCellLymphoma2024, @wrightProbabilisticClassificationTool2020, @paneaWholeGenomeLandscape2019, 
+  @morinFrequentMutationHistonemodifying2011, @mottokIntegrativeGenomicAnalysis2019, @qiuIRF8mutantCellLymphoma2024, @wrightProbabilisticClassificationTool2020, @paneaWholeGenomeLandscape2019, @qiuIRF8mutantCellLymphoma2024
 ---
 [[_TOC_]]
 
@@ -11,7 +11,7 @@ nocite: |
 IRF8 (Interferon Regulatory Factor 8) is a transcription factor critical for the development and function of B lymphocytes. Mutations in IRF8 have been implicated in various lymphoid malignancies, most predominantly in FL and DLBCL. 
 IRF8 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus. 
 Coding and non-coding mutations in IRF8 are associated with the EZB subgroup of DLBCL.
-There is preliminary evidence that IRF8 mutations contribute to immune evasion by downregulating CD74 and HLA-DM in DLBCL.
+There is preliminary evidence that IRF8 mutations contribute to immune evasion by downregulating CD74 and HLA-DM in DLBCL.[@qiuIRF8mutantCellLymphoma2024]
 These are crucial for processing and presentation of self antigens.
 
 
