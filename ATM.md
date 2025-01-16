@@ -32,6 +32,9 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 ### BL
 [[include:tables/BL_ATM.md]]
 
+### FL
+[[include:tables/FL_ATM.md]]
+
 ## Mutation pattern and selective pressure estimates
 
 [[include:tables/dnds_ATM.md]]
