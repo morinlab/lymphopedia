@@ -8,7 +8,8 @@ nocite: |
 [[_TOC_]]
 
 ## Overview
-KLHL6 mutations appear to be relatively common in DLBCL, FL and possibly BL.[@morinFrequentMutationHistonemodifying2011]| KLHL6 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus. KLHL6 mutations lead to the loss of its function as part of a cullin-RING ubiquitin ligase complex. 
+KLHL6 mutations appear to be relatively common in DLBCL, FL and possibly BL.[@morinFrequentMutationHistonemodifying2011] 
+KLHL6 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus. KLHL6 mutations lead to the loss of its function as part of a cullin-RING ubiquitin ligase complex. 
 KLHL6 is considered a tumor suppressor gene in DLBCL with mutations tending to disrupt its interaction with cullin3, leading to the loss of its ligase activity.[@choiLossKLHL6Promotes2018] 
 
 
