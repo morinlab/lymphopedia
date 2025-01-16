@@ -9,9 +9,11 @@ nocite: |
 
 ## Overview
 
-Mutations in this gene were first described in MZL by Braggio et al.[@braggioGenomicAnalysisMarginal2012] then in MCL by Bea et al.[@beaLandscapeSomaticMutations2013] ATM mutations were later described in DLBCL by Reddy et al.[@reddyGeneticFunctionalDrivers2017]
+Mutations in this gene were first described in MZL by Braggio et al.[@braggioGenomicAnalysisMarginal2012] then in MCL by Bea et al.[@beaLandscapeSomaticMutations2013] 
+ATM mutations were later described in DLBCL by Reddy et al.[@reddyGeneticFunctionalDrivers2017]
 Although there is [experimental data](#experimental-evidence) supporting the role of loss-of-function mutations in MCL biology, the relevance of ATM mutations in DLBCL remains unclear.
-[Selective pressure analysis](#mutation-pattern-and-selective-pressure-estimates) did not identify this gene as significantly enriched for either missense or truncating mutations, indicating that many of these mutations may represent passengers. 
+[Selective pressure analysis](#mutation-pattern-and-selective-pressure-estimates) did not identify this gene as significantly enriched for either missense or truncating mutations, 
+indicating that many of these mutations may represent passengers. 
 
 
 ## Experimental Evidence
