@@ -9,7 +9,7 @@ nocite: |
 
 ## Origins of MCL genes
 
-![](MCL_sankey1-1.svg)
+![](images/MCL_sankey1-1.svg)
 
 ## Tier 1 MCL genes
 
