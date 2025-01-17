@@ -9,7 +9,7 @@ nocite: |
 
 ## Origins of BL genes
 
-![](BL_sankey-1.svg)
+![](images/BL_sankey-1.svg)
 
 ## Tier 1 BL genes
 
