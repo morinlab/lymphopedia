@@ -36,7 +36,7 @@ These mutations are caused by the somatic hypermutation process. The presence of
 
 ## aSHM regions
 
-[[include:ashm_BCL2.md]]
+[[include:tables/ashm_BCL2.md]]
 
 ## BCL2 Hotspots
 
