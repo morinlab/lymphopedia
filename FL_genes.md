@@ -9,7 +9,7 @@ nocite: |
 
 ## Origins of FL genes
 
-![](FL_sankey-1.svg)
+![](images/FL_sankey-1.svg)
 
 
 ## Tier 1 FL genes
