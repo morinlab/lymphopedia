@@ -9,7 +9,7 @@ nocite: |
 
 ## Origins of DLBCL genes
 
-![](DLBCL_sankey-1.svg)
+![](images/DLBCL_sankey-1.svg)
 
 ## Tier 1 DLBCL genes
 
