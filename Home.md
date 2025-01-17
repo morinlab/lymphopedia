@@ -32,8 +32,8 @@ To get started, select one of the gene lists from the table below then select th
 ### Combined lists
 |Entities|Tier 1 genes|Page|Export|
 |:-:|:-:|:-:|:-:|
-|DLBCL, BL and FL|144|[browse](pages/DLBCL_FL_BL)|[download](https://raw.githubusercontent.com/morinlab/LLMPP/refs/heads/main/resources/curated/any_tier1_BL_FL_DLBCL.tsv)|
-|DLBCL, BL, FL, MCL, MZL and PMBL|169|[browse](pages/BL_FL_MCL_MZL_PMBL)|[download](https://raw.githubusercontent.com/morinlab/LLMPP/refs/heads/main/resources/curated/any_tier1_BL_FL_DLBCL_MCL_MZL_PMBL.tsv)|
+|DLBCL, BL and FL|144|[browse](combined#dlbcl-fl-bl)|[download](https://raw.githubusercontent.com/morinlab/LLMPP/refs/heads/main/resources/curated/any_tier1_BL_FL_DLBCL.tsv)|
+|DLBCL, BL, FL, MCL, MZL and PMBL|169|[browse](combined#bl-fl-mcl-mzl-pmbl)|[download](https://raw.githubusercontent.com/morinlab/LLMPP/refs/heads/main/resources/curated/any_tier1_BL_FL_DLBCL_MCL_MZL_PMBL.tsv)|
 
 ## aSHM targets
 
