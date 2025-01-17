@@ -40,7 +40,7 @@ Driver mutations affecting this gene in FL/DLBCL have been experimentally demons
 
 ## aSHM regions
 
-[[include:ashm_PIM1.md]]
+[[include:tables/ashm_PIM1.md]]
 
 ## PIM1 Hotspots
 
