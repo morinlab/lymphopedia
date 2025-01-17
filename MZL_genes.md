@@ -7,7 +7,7 @@ link-citations: true
 
 ## Origins of MZL genes
 
-![](MZL_sankey1-1.svg)
+![](images/MZL_sankey1-1.svg)
 
 ## Tier 1, high-confidence MZL genes
 
