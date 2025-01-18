@@ -11,11 +11,11 @@ link-citations: true
 
 ![](images/MZL_sankey1-1.svg)
 
-## Tier 1, high-confidence MZL genes
+## Tier 1 MZL genes
 
 [[include:pages/MZL_Tier1]]
 
-## Tier 2, low-confidence MZL genes
+## Tier 2 MZL genes
 
 [[include:pages/MZL_Tier2]]
 
