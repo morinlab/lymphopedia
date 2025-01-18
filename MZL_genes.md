@@ -26,8 +26,8 @@ link-citations: true
 |[CARD11](CARD11)|MZL Tier 1 |[Yan et al](papers/yanBCRTLRSignaling2012)|[@lenzOncogenicCARD11Mutations2008; @morinFrequentMutationHistonemodifying2011; @wuGeneticHeterogeneityPrimary2016]||
 |[CCND3](CCND3)|MZL Tier 1|[Jallades et al](papers/jalladesExomeSequencingIdentifies2017)|[@deschGenotypingCirculatingTumor2020; @morinFrequentMutationHistonemodifying2011; @richterRecurrentMutationID32012]||
 |[CXCR4](CXCR4)|MZL Tier 1 ||[@khodabakhshiRecurrentTargetsAberrant2012; @krysiakRecurrentSomaticMutations2017; @paneaWholeGenomeLandscape2019]||
-|[DTX1](DTX1)|MZL Tier 1 GE[@rossiCodingGenomeSplenic2012], aSHM|[Rossi et al](papers/rossiCodingGenomeSplenic2012)|[@gomezUltraDeepSequencingReveals2023; @loveGeneticLandscapeMutations2012; @zhangGeneticHeterogeneityDiffuse2013]||
-|[EP300](EP300)|MZL Tier 1 GE[@rossiCodingGenomeSplenic2012], FE[@pasqualucciInactivatingMutationsAcetyltransferase2011]|[Rossi et al](papers/rossiCodingGenomeSplenic2012)|[@pasqualucciInactivatingMutationsAcetyltransferase2011]||
+|[DTX1](DTX1)|MZL Tier 1 |[Rossi et al](papers/rossiCodingGenomeSplenic2012)|[@gomezUltraDeepSequencingReveals2023; @loveGeneticLandscapeMutations2012; @zhangGeneticHeterogeneityDiffuse2013]||
+|[EP300](EP300)|MZL Tier 1 |[Rossi et al](papers/rossiCodingGenomeSplenic2012)|[@pasqualucciInactivatingMutationsAcetyltransferase2011]||
 |[EZH2](EZH2)|MZL Tier 1 ||[@loveGeneticLandscapeMutations2012; @morinSomaticMutationsAltering2010; @mottokIntegrativeGenomicAnalysis2019]||
 |[FAS](FAS)|MZL Tier 1 |[Spina et al](papers/spinaGeneticsNodalMarginal2016)|[@morinFrequentMutationHistonemodifying2011; @schollMutationsRegionFAS2007]||
 |[FAT1](FAT1)|MZL Tier 1 |[Spina et al](papers/spinaGeneticsNodalMarginal2016)|||
