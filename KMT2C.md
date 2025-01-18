@@ -5,6 +5,9 @@ link-citations: true
 nocite: |
   @reddyGeneticFunctionalDrivers2017, @zhangGeneticHeterogeneityDiffuse2013, @zhouSporadicEndemicBurkitt2019, @sarkozyMutationalLandscapeGray2021, @zhangGenomicLandscapeMantle2014, 
 ---
+
+# Gene: {{page_name}}
+
 [[_TOC_]]
 
 <<Note("The pattern of mutations in KMT2C does not support its role in DLBCL")>>
