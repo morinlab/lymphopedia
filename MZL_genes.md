@@ -11,7 +11,8 @@ link-citations: true
 
 ## Tier 1, high-confidence MZL genes
 
-### *42 total*
+[[include:pages/MZL_Tier1]]
+
 
 |Gene|Summary| First MZL study | Other entities | QC result |
 |:-:|:--:|:-:|:-|:-|
@@ -50,15 +51,16 @@ link-citations: true
 |[SOCS1](SOCS1)|MZL Tier 1 ||[@drevalGeneticSubdivisionsFollicular2023; @morinFrequentMutationHistonemodifying2011; @wenigerMutationsTumorSuppressor2006]||
 |[SPEN](SPEN)|MZL Tier 1 |[Rossi et al](papers/rossiCodingGenomeSplenic2012)|[@albuquerqueEnhancingKnowledgeDiscovery2017; @sarkozyMutationalLandscapeGray2021]||
 |[STAT6](STAT6)|MZL Tier 1 ||Ritz et al||
-|[TBL1XR1](TBL1XR1)|Tier 1|[Rossi et al](papers/rossiCodingGenomeSplenic2012)|[@drevalGeneticSubdivisionsFollicular2023; @lohrDiscoveryPrioritizationSomatic2012]||
-|[TNFAIP3](TNFAIP3)|Tier 1 |[Rossi et al](papers/rossiAlterationBIRC3Multiple2011)|[@compagnoMutationsMultipleGenes2009; @drevalGeneticSubdivisionsFollicular2023; @schmitzTNFAIP3A20Tumor2009]||
-|[TNFRSF14](TNFRSF14)|Tier 1 |[Spina et al](papers/spinaGeneticsNodalMarginal2016)|[@cheungAcquiredTNFRSF14Mutations2010; @morinFrequentMutationHistonemodifying2011]||
-|[TP53](TP53)|Tier 1 |[Rossi et al](papers/rossiCodingGenomeSplenic2012)|[@beaLandscapeSomaticMutations2013; @morinFrequentMutationHistonemodifying2011; @tiacciPervasiveMutationsJAKSTAT2018; @wildaInactivationARFMDM2p53Pathway2004]||
-|[TRAF3](TRAF3)|Tier 1 |[Rossi et al](papers/rossiAlterationBIRC3Multiple2011)|[@ottoGeneticLesionsTRAF32012; @pasqualucciAnalysisCodingGenome2011]||
+|[TBL1XR1](TBL1XR1)|MZL Tier 1|[Rossi et al](papers/rossiCodingGenomeSplenic2012)|[@drevalGeneticSubdivisionsFollicular2023; @lohrDiscoveryPrioritizationSomatic2012]||
+|[TNFAIP3](TNFAIP3)|MZL Tier 1 |[Rossi et al](papers/rossiAlterationBIRC3Multiple2011)|[@compagnoMutationsMultipleGenes2009; @drevalGeneticSubdivisionsFollicular2023; @schmitzTNFAIP3A20Tumor2009]||
+|[TNFRSF14](TNFRSF14)|MZL Tier 1 |[Spina et al](papers/spinaGeneticsNodalMarginal2016)|[@cheungAcquiredTNFRSF14Mutations2010; @morinFrequentMutationHistonemodifying2011]||
+|[TP53](TP53)|MZL Tier 1 |[Rossi et al](papers/rossiCodingGenomeSplenic2012)|[@beaLandscapeSomaticMutations2013; @morinFrequentMutationHistonemodifying2011; @tiacciPervasiveMutationsJAKSTAT2018; @wildaInactivationARFMDM2p53Pathway2004]||
+|[TRAF3](TRAF3)|MZL Tier 1 |[Rossi et al](papers/rossiAlterationBIRC3Multiple2011)|[@ottoGeneticLesionsTRAF32012; @pasqualucciAnalysisCodingGenome2011]||
+
 
 ## Tier 2, low-confidence MZL genes
 
-### *74 total*
+[[include:pages/MZL_Tier2]]
 
 |Gene|Summary| First MZL study | Other entities | QC result |
 |:-:|:--:|:-:|:-|:-|
