@@ -40,7 +40,7 @@ link-citations: true
 |[MPEG1](MPEG1)|MZL Tier 1 ||[@morinMutationalStructuralAnalysis2013]||
 |[MYD88](MYD88)|MZL Tier 1|[Yan et al](papers/yanBCRTLRSignaling2012)|[@drevalGeneticSubdivisionsFollicular2023; @ngoOncogenicallyActiveMYD882011]||
 |[NCOR2](NCOR2)|MZL Tier 1|[Spina et al](papers/spinaGeneticsNodalMarginal2016)|[@sarkozyMutationalLandscapeGray2021; @schmitzBurkittLymphomaPathogenesis2012]||
-|[NOL9](NOL9)|MZL Tier 1 GE[@spinaGeneticsNodalMarginal2016]|[Spina et al](papers/spinaGeneticsNodalMarginal2016)|[@schmitzGeneticsPathogenesisDiffuse2018]||
+|[NOL9](NOL9)|MZL Tier 1 |[Spina et al](papers/spinaGeneticsNodalMarginal2016)|[@schmitzGeneticsPathogenesisDiffuse2018]||
 |[NOTCH1](NOTCH1)|MZL Tier 1 |[Rossi et al](papers/rossiCodingGenomeSplenic2012)|[@beaLandscapeSomaticMutations2013; @loveGeneticLandscapeMutations2012; @pasqualucciAnalysisCodingGenome2011]||
 |[NOTCH2](NOTCH2)|MZL Tier 1 |[Rossi et al](papers/rossiCodingGenomeSplenic2012)|[@beaLandscapeSomaticMutations2013; @zhangGeneticHeterogeneityDiffuse2013]||
 |[PCLO](PCLO)|MZL Tier 1 ||[@lohrDiscoveryPrioritizationSomatic2012]||
@@ -48,8 +48,8 @@ link-citations: true
 |[PTPRD](PTPRD)|MZL Tier 1 |[Spina et al](papers/spinaGeneticsNodalMarginal2016)|[@drevalGeneticSubdivisionsFollicular2023]||
 |[SIN3A](SIN3A)|MZL Tier 1 |[Rossi et al](papers/rossiCodingGenomeSplenic2012)|[@chapuyMolecularSubtypesDiffuse2018; @grandeGenomewideDiscoverySomatic2019]||
 |[SOCS1](SOCS1)|MZL Tier 1 ||[@drevalGeneticSubdivisionsFollicular2023; @morinFrequentMutationHistonemodifying2011; @wenigerMutationsTumorSuppressor2006]||
-|[SPEN](SPEN)|Tier 1 GE[@rossiCodingGenomeSplenic2012]|[Rossi et al](papers/rossiCodingGenomeSplenic2012)|[@albuquerqueEnhancingKnowledgeDiscovery2017; @sarkozyMutationalLandscapeGray2021]||
-|[STAT6](STAT6)|Tier 1 ||Ritz et al||
+|[SPEN](SPEN)|MZL Tier 1 |[Rossi et al](papers/rossiCodingGenomeSplenic2012)|[@albuquerqueEnhancingKnowledgeDiscovery2017; @sarkozyMutationalLandscapeGray2021]||
+|[STAT6](STAT6)|MZL Tier 1 ||Ritz et al||
 |[TBL1XR1](TBL1XR1)|Tier 1|[Rossi et al](papers/rossiCodingGenomeSplenic2012)|[@drevalGeneticSubdivisionsFollicular2023; @lohrDiscoveryPrioritizationSomatic2012]||
 |[TNFAIP3](TNFAIP3)|Tier 1 |[Rossi et al](papers/rossiAlterationBIRC3Multiple2011)|[@compagnoMutationsMultipleGenes2009; @drevalGeneticSubdivisionsFollicular2023; @schmitzTNFAIP3A20Tumor2009]||
 |[TNFRSF14](TNFRSF14)|Tier 1 |[Spina et al](papers/spinaGeneticsNodalMarginal2016)|[@cheungAcquiredTNFRSF14Mutations2010; @morinFrequentMutationHistonemodifying2011]||
