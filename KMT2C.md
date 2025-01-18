@@ -7,6 +7,8 @@ nocite: |
 ---
 [[_TOC_]]
 
+<<Octicon("globe", 64, 64)>>
+
 <<Note("The pattern of mutations in KMT2C does not support its role in DLBCL")>>
 
 ## Overview
