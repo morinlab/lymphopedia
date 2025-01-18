@@ -5,58 +5,15 @@ csl: 'NLM.csl'
 link-citations: true
 ---
 
-## Origins of MZL genes
+[[_TOC_]]
+
+## MZL genes
 
 ![](images/MZL_sankey1-1.svg)
 
 ## Tier 1, high-confidence MZL genes
 
 [[include:pages/MZL_Tier1]]
-
-
-|Gene|Summary| First MZL study | Other entities | QC result |
-|:-:|:--:|:-:|:-|:-|
-|[ACTB](ACTB)|MZL Tier 1||[@drevalGeneticSubdivisionsFollicular2023; @lohrDiscoveryPrioritizationSomatic2012; @wienandGenomicAnalysesFlowsorted2019]||
-|[ARID1A](ARID1A)|MZL Tier 1|[Rossi et al](papers/rossiCodingGenomeSplenic2012)|[@krysiakRecurrentSomaticMutations2017; @loveGeneticLandscapeMutations2012; @wienandGenomicAnalysesFlowsorted2019; @zhangGeneticHeterogeneityDiffuse2013]||
-|[ATM](ATM)|MZL Tier 1 |[Braggio et al](papers/braggioGenomicAnalysisMarginal2012)|[@beaLandscapeSomaticMutations2013; @reddyGeneticFunctionalDrivers2017]||
-|[BCL10](BCL10)|MZL Tier 1 |[Spina et al](papers/spinaGeneticsNodalMarginal2016)|[@morinFrequentMutationHistonemodifying2011; @russler-germainMutationsAssociatedProgression2023]||
-|[BCL7A](BCL7A)|MZL Tier 1 ||[@grandeGenomewideDiscoverySomatic2019; @krysiakRecurrentSomaticMutations2017; @morinFrequentMutationHistonemodifying2011; @reichelFlowSortingExome2015]||
-|[BIRC3](BIRC3)|MZL Tier 1 |[Rossi et al](papers/rossiAlterationBIRC3Multiple2011)|[@arthurGenomewideDiscoverySomatic2018; @beaLandscapeSomaticMutations2013; @dunsCharacterizationDLBCLPMBL2021]||
-|[BRAF](BRAF)|MZL Tier 1 ||[@loveGeneticLandscapeMutations2012; @tiacciBRAFMutationsHairycell2011]||
-|[BTG1](BTG1)|MZL Tier 1 ||[@burkhardtClinicalRelevanceMolecular2022; @drevalGeneticSubdivisionsFollicular2023; @morinFrequentMutationHistonemodifying2011; @sarkozyMutationalLandscapeGray2021]||
-|[CARD11](CARD11)|MZL Tier 1 |[Yan et al](papers/yanBCRTLRSignaling2012)|[@lenzOncogenicCARD11Mutations2008; @morinFrequentMutationHistonemodifying2011; @wuGeneticHeterogeneityPrimary2016]||
-|[CCND3](CCND3)|MZL Tier 1|[Jallades et al](papers/jalladesExomeSequencingIdentifies2017)|[@deschGenotypingCirculatingTumor2020; @morinFrequentMutationHistonemodifying2011; @richterRecurrentMutationID32012]||
-|[CXCR4](CXCR4)|MZL Tier 1 ||[@khodabakhshiRecurrentTargetsAberrant2012; @krysiakRecurrentSomaticMutations2017; @paneaWholeGenomeLandscape2019]||
-|[DTX1](DTX1)|MZL Tier 1 |[Rossi et al](papers/rossiCodingGenomeSplenic2012)|[@gomezUltraDeepSequencingReveals2023; @loveGeneticLandscapeMutations2012; @zhangGeneticHeterogeneityDiffuse2013]||
-|[EP300](EP300)|MZL Tier 1 |[Rossi et al](papers/rossiCodingGenomeSplenic2012)|[@pasqualucciInactivatingMutationsAcetyltransferase2011]||
-|[EZH2](EZH2)|MZL Tier 1 ||[@loveGeneticLandscapeMutations2012; @morinSomaticMutationsAltering2010; @mottokIntegrativeGenomicAnalysis2019]||
-|[FAS](FAS)|MZL Tier 1 |[Spina et al](papers/spinaGeneticsNodalMarginal2016)|[@morinFrequentMutationHistonemodifying2011; @schollMutationsRegionFAS2007]||
-|[FAT1](FAT1)|MZL Tier 1 |[Spina et al](papers/spinaGeneticsNodalMarginal2016)|||
-|[FOXO1](FOXO1)|MZL Tier 1 ||[@dunsCharacterizationDLBCLPMBL2021; @morinFrequentMutationHistonemodifying2011; @schmitzBurkittLymphomaPathogenesis2012]||
-|[ID3](ID3)|MZL Tier 1 |[Spina et al](papers/spinaGeneticsNodalMarginal2016)|[@richterRecurrentMutationID32012; @schmitzGeneticsPathogenesisDiffuse2018]||
-|[KLF2](KLF2)|MZL Tier 1 |[Jallades et al](papers/jalladesExomeSequencingIdentifies2017)|[@deschGenotypingCirculatingTumor2020; @drevalGeneticSubdivisionsFollicular2023; @pasqualucciAnalysisCodingGenome2011]||
-|[KLHL6](KLHL6)|MZL Tier 1 |[Ganapathi et al](papers/ganapathiGeneticLandscapeDural2016)|[@morinFrequentMutationHistonemodifying2011]||
-|[KMT2D](KMT2D)|MZL Tier 1 |[Rossi et al](papers/rossiCodingGenomeSplenic2012)|[@beaLandscapeSomaticMutations2013; @deschGenotypingCirculatingTumor2020; @grandeGenomewideDiscoverySomatic2019; @morinFrequentMutationHistonemodifying2011]||
-|[MAP3K14](MAP3K14)|MZL Tier 1|[Rossi et al](papers/rossiCodingGenomeSplenic2012)|[@ottoGeneticLesionsTRAF32012]||
-|[MPEG1](MPEG1)|MZL Tier 1 ||[@morinMutationalStructuralAnalysis2013]||
-|[MYD88](MYD88)|MZL Tier 1|[Yan et al](papers/yanBCRTLRSignaling2012)|[@drevalGeneticSubdivisionsFollicular2023; @ngoOncogenicallyActiveMYD882011]||
-|[NCOR2](NCOR2)|MZL Tier 1|[Spina et al](papers/spinaGeneticsNodalMarginal2016)|[@sarkozyMutationalLandscapeGray2021; @schmitzBurkittLymphomaPathogenesis2012]||
-|[NOL9](NOL9)|MZL Tier 1 |[Spina et al](papers/spinaGeneticsNodalMarginal2016)|[@schmitzGeneticsPathogenesisDiffuse2018]||
-|[NOTCH1](NOTCH1)|MZL Tier 1 |[Rossi et al](papers/rossiCodingGenomeSplenic2012)|[@beaLandscapeSomaticMutations2013; @loveGeneticLandscapeMutations2012; @pasqualucciAnalysisCodingGenome2011]||
-|[NOTCH2](NOTCH2)|MZL Tier 1 |[Rossi et al](papers/rossiCodingGenomeSplenic2012)|[@beaLandscapeSomaticMutations2013; @zhangGeneticHeterogeneityDiffuse2013]||
-|[PCLO](PCLO)|MZL Tier 1 ||[@lohrDiscoveryPrioritizationSomatic2012]||
-|[POU2AF1](POU2AF1)|MZL Tier 1||[@chapuyMolecularSubtypesDiffuse2018; @krysiakRecurrentSomaticMutations2017]||
-|[PTPRD](PTPRD)|MZL Tier 1 |[Spina et al](papers/spinaGeneticsNodalMarginal2016)|[@drevalGeneticSubdivisionsFollicular2023]||
-|[SIN3A](SIN3A)|MZL Tier 1 |[Rossi et al](papers/rossiCodingGenomeSplenic2012)|[@chapuyMolecularSubtypesDiffuse2018; @grandeGenomewideDiscoverySomatic2019]||
-|[SOCS1](SOCS1)|MZL Tier 1 ||[@drevalGeneticSubdivisionsFollicular2023; @morinFrequentMutationHistonemodifying2011; @wenigerMutationsTumorSuppressor2006]||
-|[SPEN](SPEN)|MZL Tier 1 |[Rossi et al](papers/rossiCodingGenomeSplenic2012)|[@albuquerqueEnhancingKnowledgeDiscovery2017; @sarkozyMutationalLandscapeGray2021]||
-|[STAT6](STAT6)|MZL Tier 1 ||Ritz et al||
-|[TBL1XR1](TBL1XR1)|MZL Tier 1|[Rossi et al](papers/rossiCodingGenomeSplenic2012)|[@drevalGeneticSubdivisionsFollicular2023; @lohrDiscoveryPrioritizationSomatic2012]||
-|[TNFAIP3](TNFAIP3)|MZL Tier 1 |[Rossi et al](papers/rossiAlterationBIRC3Multiple2011)|[@compagnoMutationsMultipleGenes2009; @drevalGeneticSubdivisionsFollicular2023; @schmitzTNFAIP3A20Tumor2009]||
-|[TNFRSF14](TNFRSF14)|MZL Tier 1 |[Spina et al](papers/spinaGeneticsNodalMarginal2016)|[@cheungAcquiredTNFRSF14Mutations2010; @morinFrequentMutationHistonemodifying2011]||
-|[TP53](TP53)|MZL Tier 1 |[Rossi et al](papers/rossiCodingGenomeSplenic2012)|[@beaLandscapeSomaticMutations2013; @morinFrequentMutationHistonemodifying2011; @tiacciPervasiveMutationsJAKSTAT2018; @wildaInactivationARFMDM2p53Pathway2004]||
-|[TRAF3](TRAF3)|MZL Tier 1 |[Rossi et al](papers/rossiAlterationBIRC3Multiple2011)|[@ottoGeneticLesionsTRAF32012; @pasqualucciAnalysisCodingGenome2011]||
-
 
 ## Tier 2, low-confidence MZL genes
 
