@@ -37,17 +37,17 @@ link-citations: true
 |[KLHL6](KLHL6)|MZL Tier 1 |[Ganapathi et al](papers/ganapathiGeneticLandscapeDural2016)|[@morinFrequentMutationHistonemodifying2011]||
 |[KMT2D](KMT2D)|MZL Tier 1 |[Rossi et al](papers/rossiCodingGenomeSplenic2012)|[@beaLandscapeSomaticMutations2013; @deschGenotypingCirculatingTumor2020; @grandeGenomewideDiscoverySomatic2019; @morinFrequentMutationHistonemodifying2011]||
 |[MAP3K14](MAP3K14)|MZL Tier 1|[Rossi et al](papers/rossiCodingGenomeSplenic2012)|[@ottoGeneticLesionsTRAF32012]||
-|[MPEG1](MPEG1)|Tier 1 GE||[@morinMutationalStructuralAnalysis2013]||
-|[MYD88](MYD88)|Tier 1 GE[@yanBCRTLRSignaling2012], FE[@ngoOncogenicallyActiveMYD882011]|[Yan et al](papers/yanBCRTLRSignaling2012)|[@drevalGeneticSubdivisionsFollicular2023; @ngoOncogenicallyActiveMYD882011]||
-|[NCOR2](NCOR2)|Tier 1 GE[@spinaGeneticsNodalMarginal2016]|[Spina et al](papers/spinaGeneticsNodalMarginal2016)|[@sarkozyMutationalLandscapeGray2021; @schmitzBurkittLymphomaPathogenesis2012]||
-|[NOL9](NOL9)|Tier 1 GE[@spinaGeneticsNodalMarginal2016]|[Spina et al](papers/spinaGeneticsNodalMarginal2016)|[@schmitzGeneticsPathogenesisDiffuse2018]||
-|[NOTCH1](NOTCH1)|Tier 1 GE[@rossiCodingGenomeSplenic2012], FE[@ryanCellRegulomeLinks2017]|[Rossi et al](papers/rossiCodingGenomeSplenic2012)|[@beaLandscapeSomaticMutations2013; @loveGeneticLandscapeMutations2012; @pasqualucciAnalysisCodingGenome2011]||
-|[NOTCH2](NOTCH2)|Tier 1 GE[@rossiCodingGenomeSplenic2012], FE[@leeGainoffunctionMutationsCopy2009]|[Rossi et al](papers/rossiCodingGenomeSplenic2012)|[@beaLandscapeSomaticMutations2013; @zhangGeneticHeterogeneityDiffuse2013]||
-|[PCLO](PCLO)|Tier 1 GE||[@lohrDiscoveryPrioritizationSomatic2012]||
-|[POU2AF1](POU2AF1)|Tier 1 GE, FE[@gonzalez-rinconUnravelingTransformationFollicular2019], aSHM||[@chapuyMolecularSubtypesDiffuse2018; @krysiakRecurrentSomaticMutations2017]||
-|[PTPRD](PTPRD)|Tier 1 GE[@spinaGeneticsNodalMarginal2016]|[Spina et al](papers/spinaGeneticsNodalMarginal2016)|[@drevalGeneticSubdivisionsFollicular2023]||
-|[SIN3A](SIN3A)|Tier 1 GE[@rossiCodingGenomeSplenic2012]|[Rossi et al](papers/rossiCodingGenomeSplenic2012)|[@chapuyMolecularSubtypesDiffuse2018; @grandeGenomewideDiscoverySomatic2019]||
-|[SOCS1](SOCS1)|Tier 1 GE, FE[@melznerBiallelicMutationSOCS12005], aSHM||[@drevalGeneticSubdivisionsFollicular2023; @morinFrequentMutationHistonemodifying2011; @wenigerMutationsTumorSuppressor2006]||
+|[MPEG1](MPEG1)|MZL Tier 1 ||[@morinMutationalStructuralAnalysis2013]||
+|[MYD88](MYD88)|MZL Tier 1|[Yan et al](papers/yanBCRTLRSignaling2012)|[@drevalGeneticSubdivisionsFollicular2023; @ngoOncogenicallyActiveMYD882011]||
+|[NCOR2](NCOR2)|MZL Tier 1|[Spina et al](papers/spinaGeneticsNodalMarginal2016)|[@sarkozyMutationalLandscapeGray2021; @schmitzBurkittLymphomaPathogenesis2012]||
+|[NOL9](NOL9)|MZL Tier 1 GE[@spinaGeneticsNodalMarginal2016]|[Spina et al](papers/spinaGeneticsNodalMarginal2016)|[@schmitzGeneticsPathogenesisDiffuse2018]||
+|[NOTCH1](NOTCH1)|MZL Tier 1 |[Rossi et al](papers/rossiCodingGenomeSplenic2012)|[@beaLandscapeSomaticMutations2013; @loveGeneticLandscapeMutations2012; @pasqualucciAnalysisCodingGenome2011]||
+|[NOTCH2](NOTCH2)|MZL Tier 1 |[Rossi et al](papers/rossiCodingGenomeSplenic2012)|[@beaLandscapeSomaticMutations2013; @zhangGeneticHeterogeneityDiffuse2013]||
+|[PCLO](PCLO)|MZL Tier 1 ||[@lohrDiscoveryPrioritizationSomatic2012]||
+|[POU2AF1](POU2AF1)|MZL Tier 1||[@chapuyMolecularSubtypesDiffuse2018; @krysiakRecurrentSomaticMutations2017]||
+|[PTPRD](PTPRD)|MZL Tier 1 |[Spina et al](papers/spinaGeneticsNodalMarginal2016)|[@drevalGeneticSubdivisionsFollicular2023]||
+|[SIN3A](SIN3A)|MZL Tier 1 |[Rossi et al](papers/rossiCodingGenomeSplenic2012)|[@chapuyMolecularSubtypesDiffuse2018; @grandeGenomewideDiscoverySomatic2019]||
+|[SOCS1](SOCS1)|MZL Tier 1 ||[@drevalGeneticSubdivisionsFollicular2023; @morinFrequentMutationHistonemodifying2011; @wenigerMutationsTumorSuppressor2006]||
 |[SPEN](SPEN)|Tier 1 GE[@rossiCodingGenomeSplenic2012]|[Rossi et al](papers/rossiCodingGenomeSplenic2012)|[@albuquerqueEnhancingKnowledgeDiscovery2017; @sarkozyMutationalLandscapeGray2021]||
 |[STAT6](STAT6)|Tier 1 ||Ritz et al||
 |[TBL1XR1](TBL1XR1)|Tier 1|[Rossi et al](papers/rossiCodingGenomeSplenic2012)|[@drevalGeneticSubdivisionsFollicular2023; @lohrDiscoveryPrioritizationSomatic2012]||
