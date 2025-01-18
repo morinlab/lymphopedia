@@ -274,3 +274,4 @@
   #Precious::App.set(:default_markup, :asciidoc)
 
   Precious::App.set(:wiki_options, wiki_options)
+  Gollum::TemplateFilter.add_filter("{{page_name}}", & -> (page) { page.name })
