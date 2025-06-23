@@ -22,15 +22,14 @@ Mutations in this gene were first described in BL in 2012 by Love et al[@loveGen
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-|Entity|source               |frequency (%)|
-|:------:|:---------------------:|:-------------:|
-|BL    |GAMBL genomes+capture|2.54         |
-|BL    |Thomas cohort        |  NA         |
-|BL    |Panea cohort         |  NA         |
-|DLBCL |GAMBL genomes        |0.57         |
-|DLBCL |Schmitz cohort       |0.64         |
-|DLBCL |Reddy cohort         |0.70         |
-|DLBCL |Chapuy cohort        |1.28         |
+### DLBCL
+[[include:tables/DLBCL_CDC73.md]]
+
+### FL
+[[include:tables/FL_CDC73.md]]
+
+### BL
+[[include:tables/BL_CDC73.md]]
 
 ## Mutation pattern and selective pressure estimates
 
