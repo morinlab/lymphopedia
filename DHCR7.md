@@ -26,6 +26,9 @@ nocite: |
 ### FL
 [[include:tables/FL_DHCR7.md]]
 
+## Mutation pattern and selective pressure estimates
+
+[[include:tables/dnds_DHCR7.md]]
 
 
 
