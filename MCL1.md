@@ -19,15 +19,14 @@ MCL1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) 
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-|Entity|source               |frequency (%)|
-|:------:|:---------------------:|:-------------:|
-|BL    |GAMBL genomes+capture|1.85         |
-|BL    |Thomas cohort        |2.10         |
-|BL    |Panea cohort         |2.00         |
-|DLBCL |GAMBL genomes        |2.49         |
-|DLBCL |Schmitz cohort       |3.62         |
-|DLBCL |Reddy cohort         |4.70         |
-|DLBCL |Chapuy cohort        |3.42         |
+### FL
+[[include:tables/FL_MCL1.md]]
+
+### BL
+[[include:tables/BL_MCL1.md]]
+
+### DLBCL
+[[include:tables/DLBCL_MCL1.md]]
 
 ## Mutation pattern and selective pressure estimates
 
