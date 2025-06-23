@@ -17,15 +17,8 @@ Mutations in this gene are relatively rare in DLBCL overall but show a pattern o
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
-|Entity|source               |frequency (%)|
-|:------:|:---------------------:|:-------------:|
-|BL    |GAMBL genomes+capture|6.24         |
-|BL    |Thomas cohort        |  NA         |
-|BL    |Panea cohort         |  NA         |
-|DLBCL |GAMBL genomes        |2.10         |
-|DLBCL |Schmitz cohort       |5.74         |
-|DLBCL |Reddy cohort         |3.60         |
-|DLBCL |Chapuy cohort        |4.27         |
+### BL
+[[include:tables/BL_NCOR2.md]]
 
 ## Mutation pattern and selective pressure estimates
 
