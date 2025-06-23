@@ -14,6 +14,9 @@ nocite: |
 
 ## Mutation incidence in large patient cohorts (GAMBL reanalysis)
 
+### FL
+[[include:tables/FL_HLA-DQB1.md]]
+
 ### BL
 [[include:tables/BL_HLA-DQB1.md]]
 
