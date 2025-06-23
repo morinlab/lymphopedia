@@ -31,6 +31,9 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 ### FL
 [[include:tables/FL_CXCR4.md]]
 
+### BL
+[[include:tables/BL_CXCR4.md]]
+
 ## Mutation pattern and selective pressure estimates
 
 [[include:tables/dnds_CXCR4.md]]
