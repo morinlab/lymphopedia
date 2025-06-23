@@ -24,6 +24,12 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 ### DLBCL
 [[include:tables/DLBCL_CDKN2A.md]]
 
+### BL
+[[include:tables/BL_CDKN2A.md]]
+
+### FL
+[[include:tables/FL_CDKN2A.md]]
+
 ## Mutation pattern and selective pressure estimates
 
 |Entity|Isoform        |aSHM|Significant selection|dN/dS (missense)|dN/dS (nonsense)|
