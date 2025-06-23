@@ -22,6 +22,9 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 ### DLBCL
 [[include:tables/DLBCL_TET2.md]]
 
+### BL
+[[include:tables/BL_TET2.md]]
+
 ## Mutation pattern and selective pressure estimates
 
 [[include:tables/dnds_TET2.md]]
