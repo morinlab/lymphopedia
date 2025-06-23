@@ -29,6 +29,9 @@ Driver mutations affecting this gene in DLBCL/FL have been experimentally demons
 ### FL
 [[include:tables/FL_EBF1.md]]
 
+### BL
+[[include:tables/BL_EBF1.md]]
+
 ## Mutation pattern and selective pressure estimates
 
 [[include:tables/dnds_EBF1.md]]
