@@ -58,6 +58,8 @@ Combination therapies including EZH2 inhibitors are also under exploration for D
 |chr7|148506437|GC>AA|A692L|
 |chr7|148506437|G>A|A692V|
 
+![][images/EZH2_1.png]
+
 [[include:tables/browser_EZH2.md]]
 
 ## Expression
