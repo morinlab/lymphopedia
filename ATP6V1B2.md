@@ -32,7 +32,6 @@ Driver mutations affecting this gene in FL have been experimentally demonstrated
 | chr8 | 20074768 | G>A | R400Q |
 
 ![Structure with HotMAPS hotspots](images/hotmaps_3d/ATP6V1B2_1.png)
-![Structure with HotMAPS hotspots](images/hotmaps_3d/ATP6V1B2_2.png)
 
 
 [[include:tables/browser_ATP6V1B2.md]]
