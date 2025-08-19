@@ -39,8 +39,9 @@ The function of mutations in ACTB and ACTG1 have not yet been determined.[@witje
 |:--------:|:----------:|:--------:|:---------------------------------------------------------------------------------------------:|:------------------:|
 |chr17   |79478289  |79479959|[intron](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr17%3A79478289%2D79479959)|NA                |
 
-![ACTG1 structure with HotMAPS hotspots](images/hotmaps_3d/ACTG1_1.png)
-![ACTG1 structure with HotMAPS hotspots](images/hotmaps_3d/ACTG1_2.png)
+![Structure with HotMAPS hotspots](images/hotmaps_3d/ACTG1_1.png)
+
+![Structure with HotMAPS hotspots](images/hotmaps_3d/ACTG1_2.png)
 
 [[include:tables/browser_ACTG1.md]]
 
