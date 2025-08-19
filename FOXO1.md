@@ -60,6 +60,8 @@ Driver mutations affecting this gene in FL/DLBCL/BL have been experimentally dem
 | chr13 | 41240273 | G>A | P26L |
 | chr13 | 41240271 | G>C | L27V |
 
+![Structure with HotMAPS hotspots](images/hotmaps_3d/FOXO1_1.png)
+
 [[include:tables/browser_FOXO1.md]]
 
 ## Expression
