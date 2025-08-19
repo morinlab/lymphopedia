@@ -56,9 +56,13 @@ ACTB is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) 
 | chr7 | 5568923 | T>C | N78D |
 | chr7 | 5568920 | A>C | W79G |
 
+[ACTB structure with HotMAPS hotspots](images/hotmaps_3d/ACTB_1.png)
+
 [[include:tables/browser_ACTB.md]]
 
 ## Expression
+
+
 ![](images/gene_expression/ACTB_by_pathology.svg)
 
 [[include:tables/mermaid_ACTB.md]]
