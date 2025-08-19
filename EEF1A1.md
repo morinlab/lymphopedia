@@ -42,6 +42,7 @@ This gene has some recurrent sites of mutations (hot spots). The mutation patter
 | chr6 | 74229094 | T>A | D97V |
 | chr6 | 74229095 | C>T | D97N |
 
+![Structure with HotMAPS hotspots](images/hotmaps_3d/EEF1A1_1.png)
 
 [[include:tables/browser_EEF1A1.md]]
 
