@@ -30,6 +30,8 @@ nocite: |
 
 [[include:tables/dnds_EIF4A1.md]]
 
+![Structure with HotMAPS hotspots](images/hotmaps_3d/EIF4A1_1.png)
+
 
 [[include:tables/browser_EIF4A1.md]]
 
