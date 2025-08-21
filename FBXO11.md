@@ -52,6 +52,7 @@ Driver mutations affecting this gene in DLBCL/BL have been experimentally demons
 |chr2|48040510|C>T|G697D| 
 |chr2|48040511|C>G|G697R| 
 
+![Structure with HotMAPS hotspots](images/hotmaps_3d/FBXO11_1.png)
 
 [[include:tables/browser_FBXO11.md]]
 
