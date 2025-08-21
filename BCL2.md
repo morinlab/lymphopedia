@@ -53,6 +53,8 @@ These mutations are caused by the somatic hypermutation process. The presence of
 | chr18 | 60985835 | T>C | K22R |
 | chr18 | 60985834 | CT>TC | K22R |
 
+![Structure with HotMAPS hotspots](images/hotmaps_3d/BCL2_1.png)
+
 [[include:tables/browser_BCL2.md]]
 
 ## Expression

@@ -84,6 +84,8 @@ Mutations in the DTX1 gene, which encodes the E3 ubiquitin ligase Deltex 1, have
 | chr12 | 113496212 | A>G | Y72C |
 | chr12 | 113496213 | C>A | Y72* |
 
+![Structure with HotMAPS hotspots](images/hotmaps_3d/DTX1_1.png)
+
 [[include:tables/browser_DTX1.md]]
 
 ## Expression

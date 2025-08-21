@@ -26,6 +26,9 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 ### FL
 [[include:tables/FL_TNFRSF14.md]]
 
+### BL
+[[include:tables/BL_TNFRSF14.md]]
+
 ## Mutation pattern and selective pressure estimates
 
 [[include:tables/dnds_TNFRSF14.md]]

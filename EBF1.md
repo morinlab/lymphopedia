@@ -10,9 +10,6 @@ nocite: |
 ## Overview
 EBF1 is a critical transcription factor in early B-cell development, regulating the expression of key genes involved in B-cell differentiation, survival, and function. EBF1 is essential for proper B-cell receptor (BCR) signaling.[@gyoryTranscriptionFactorEbf12012] Mutations in EBF1 can impair BCR signaling pathways, affecting B-cell survival and proliferation.[@gyoryTranscriptionFactorEbf12012] EBF1 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ashm) affected by aberrant somatic hypermutation in B-cell lymphomas, which complicates the interpretation of mutations at this locus. This gene has some recurrent sites of mutations (hot spots) but the mutation pattern in DLBCL and FL implies the preferential accumulation of *inactivating mutations*.
 
-
-
-
 ## Experimental Evidence
 
 Driver mutations affecting this gene in DLBCL/FL have been experimentally demonstrated to cause a reduction or loss of function (LOF).[@ramirez-komoSpontaneousLossLineage2017]
@@ -42,8 +39,6 @@ Driver mutations affecting this gene in DLBCL/FL have been experimentally demons
 |:--------:|:----------:|:---------:|:-------------------------------------------------------------------------------------------:|:------------------:|
 |chr5    |158500476 |158532769|[TSS](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr5%3A158500476%2D158532769)|active_promoter   |
 
-
-
 ## EBF1 Hotspots
 
 | Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
@@ -59,6 +54,8 @@ Driver mutations affecting this gene in DLBCL/FL have been experimentally demons
 | chr5 | 158500470 | C>T | R163H |
 | chr5 | 158500468 | A>G | C164R |
 | chr5 | 158500467 | C>G | C164S |
+
+![Structure with HotMAPS hotspots](images/hotmaps_3d/EBF1_1.png)
 
 [[include:tables/browser_EBF1.md]]
 

@@ -41,7 +41,7 @@ Driver mutations affecting this gene in DLBCL/BL have been experimentally demons
 |:--------:|:----------:|:--------:|:------------------------------------------------------------------------------------------------:|:------------------:|
 |chrX    |42800580  |42804184|[intergenic](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chrX%3A42800580%2D42804184)|NA                |
 
-
+![Structure with HotMAPS hotspots](images/hotmaps_3d/DDX3X_1.png)
 
 [[include:tables/browser_DDX3X.md]]
 
