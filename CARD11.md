@@ -59,6 +59,9 @@ The functional effect of CARD11 mutations in DLBCL was explored in the original 
 
 ![Structure with HotMAPS hotspots](images/hotmaps_3d/CARD11_1.png)
 
+![Structure with HotMAPS hotspots](images/hotmaps_3d/CARD11_2.png)
+
+
 [[include:tables/browser_CARD11.md]]
 
 ## Expression
