@@ -38,6 +38,8 @@ nocite: |
 ## Expression
 ![](images/gene_expression/TCL1A_by_pathology.svg)
 
+![Structure with HotMAPS hotspots](images/hotmaps_3d/TCL1A_1.png)
+
 [[include:tables/mermaid_TCL1A.md]]
 
 ## References
