@@ -37,6 +37,8 @@ Driver mutations affecting this gene in FL/DLBCL have been experimentally demons
 | chr19 | 42600030 | T>C | T239A |
 | chr19 | 42600030 | T>A | T239S |
 
+![Structure with HotMAPS hotspots](images/hotmaps_3d/POU2F2_1.png)
+
 [[include:tables/browser_POU2F2.md]]
 
 ## Expression

@@ -67,6 +67,10 @@ Driver mutations affecting this gene in FL/DLBCL have been experimentally demons
 | chr6 | 37138603 | GCG>- | G48del |
 | chr6 | 37138604 | C>A | S46R |
 
+![Structure with HotMAPS hotspots](images/hotmaps_3d/PIM1_1.png)
+
+![Structure with HotMAPS hotspots](images/hotmaps_3d/PIM1_2.png)
+
 [[include:tables/browser_PIM1.md]]
 
 ## Expression

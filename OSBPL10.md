@@ -30,6 +30,7 @@ OSBPL10 is one of [a number of genes](https://github.com/morinlab/LLMPP/wiki/ash
 |:--------:|:----------:|:--------:|:-------------------------------------------------------------------------------------------:|:------------------:|
 |chr3    |32020518  |32024930|[TSS-1](https://genome.ucsc.edu/s/rdmorin/GAMBL%20hg19?position=chr3%3A32020518%2D32024930)|active_promoter   |
 
+![Structure with HotMAPS hotspots](images/hotmaps_3d/OSBPL10_1.png)
 
 [[include:tables/browser_OSBPL10.md]]
 

@@ -36,6 +36,8 @@ nocite: |
 | chr1 | 9787040 | G>A | R1024H |
 | chr1 | 9787043 | A>G | E1025G |
 
+![Structure with HotMAPS hotspots](images/hotmaps_3d/PIK3CD_1.png)
+
 [[include:tables/browser_PIK3CD.md]]
 
 ## Expression
