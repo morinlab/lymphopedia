@@ -36,6 +36,10 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 | chr17 | 40475318 | C>T | D570N |
 | chr17 | 40475317 | T>C | D570G |
 
+![Structure with HotMAPS hotspots](images/hotmaps_3d/STAT3_1.png)
+
+![Structure with HotMAPS hotspots](images/hotmaps_3d/STAT3_2.png)
+
 [[include:tables/browser_STAT3.md]]
 
 ## Expression
