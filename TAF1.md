@@ -21,6 +21,9 @@ nocite: |
 
 [[include:tables/dnds_TAF1.md]]
 
+## Structure with HotMAPS hotspots
+
+![Structure with HotMAPS hotspots](images/hotmaps_3d/TAF1_1.png)
 
 [[include:tables/browser_TAF1.md]]
 
@@ -31,5 +34,6 @@ nocite: |
 <!-- DLBCL: morinMutationalStructuralAnalysis2013 -->
 
 [[include:tables/mermaid_TAF1.md]]
+
 
 ## References
