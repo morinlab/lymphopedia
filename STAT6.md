@@ -52,6 +52,10 @@ Recurrent mutations at the D419 amino acid residue are a common feature in DLBCL
 | chr12 | 57496656 | T>C | N421D |
 | chr12 | 57496654 | A>C | N421K |
 
+![Structure with HotMAPS hotspots](images/hotmaps_3d/STAT6_1.png)
+
+![Structure with HotMAPS hotspots](images/hotmaps_3d/STAT6_2.png)
+
 [[include:tables/browser_STAT6.md]]
 
 ## Expression
