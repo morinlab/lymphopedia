@@ -26,6 +26,8 @@ Driver mutations affecting this gene in DLBCL/FL have been experimentally demons
 
 ## Mutation pattern and selective pressure estimates
 
+![Structure with HotMAPS hotspots](images/hotmaps_3d/RRAGC_1.png)
+
 [[include:tables/dnds_RRAGC.md]]
 
 [[include:tables/browser_RRAGC.md]]

@@ -41,6 +41,8 @@ Driver mutations affecting this gene in DLBCL have been experimentally demonstra
 | chr2 | 198266832 | T>G | K700N |
 | chr2 | 198266821 | A>C | I704S |
 
+![Structure with HotMAPS hotspots](images/hotmaps_3d/SF3B1_1.png)
+
 [[include:tables/browser_SF3B1.md]]
 
 ## Expression
