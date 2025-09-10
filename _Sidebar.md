@@ -1,16 +1,14 @@
 ![](images/lymphopedia.png)
 
+**Citing**
+
+If you use the information or data from this site, please cite
+
+*Krysta Coyle, Kostiantyn Dreval, Daniel Hodson and Ryan D. Morin. Audit of B-cell cancer genes. Blood Adv (2025) 9 (8): 2019–2031.*
+
 **Disclaimer**
 
 The content in these pages has been populated, in part, by an automated process. Although we have scrutinized every page to ensure accuracy, errors will inevitably exist. If you find an error please [report it as an issue](https://github.com/morinlab/LLMPP/issues/new) and we will address it. 
-
-In particular, let us know if you feel that an important citation is missing or if a paper has been cited incorrectly.
-
-**Citing**
-
-If you use the data from this page, please cite:
-
-*Krysta Coyle, Kostiantyn Dreval, Daniel Hodson and Ryan D. Morin. Audit of B-cell cancer genes. Blood Adv (2025) 9 (8): 2019–2031.*
 
 **License**
 
