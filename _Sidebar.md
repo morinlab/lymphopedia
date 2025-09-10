@@ -6,6 +6,12 @@ The content in these pages has been populated, in part, by an automated process.
 
 In particular, let us know if you feel that an important citation is missing or if a paper has been cited incorrectly.
 
+**Citing**
+
+If you use the data from this page, please cite:
+
+*Krysta Coyle, Kostiantyn Dreval, Daniel Hodson and Ryan D. Morin. Audit of B-cell cancer genes. Blood Adv (2025) 9 (8): 2019–2031.*
+
 **License**
 
 This work is licensed under a Creative Commons Attribution 4.0 International License. 
