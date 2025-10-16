@@ -1,0 +1,67 @@
+import pandas as pd
+import os
+
+# Config
+input_file = "hotspot_amino_acids_full_chrpos.tsv"   
+output_dir = "per_gene_markdown"
+
+# Create output directory
+os.makedirs(output_dir, exist_ok=True)
+
+# Read TSV file
+df = pd.read_csv(input_file, sep="\t")
+
+# Lymphopedia format: select and rename columns
+df = df.rename(columns={
+    "Start_Position": "Coordinate",
+    "HGVSp_Short": "HGVS"
+})[["Hugo_Symbol", "Chromosome", "Coordinate", "DLBCL", "FL", "BL", "HGVS"]]
+
+# Containers for index and combined file
+gene_files = []
+toc_entries = []
+all_md_content = "# All Gene Mutation Tables\n\n## Table of Contents\n\n"
+
+# TOC entries
+
+for gene in sorted(df["Hugo_Symbol"].unique()):
+    all_md_content += f"- [{gene}](#{gene.lower()})\n"
+
+#divider 
+all_md_content += "\n---\n\n"
+
+# group by Hugo_Symbol --> per gene
+for gene, group in df.groupby("Hugo_Symbol"):
+    # md table header
+    md_table = "| " + " | ".join(group.columns) + " |\n"
+    md_table += "| " + " | ".join(["---"] * len(group.columns)) + " |\n"
+    for _, row in group.iterrows():
+        md_table += "| " + " | ".join(map(str, row.values)) + " |\n"
+    
+    # per gene md file
+    file_name = f"{gene}.md"
+    output_path = os.path.join(output_dir, file_name)
+    with open(output_path, "w", encoding="utf-8") as f:
+        f.write(f"# {gene}\n\n")
+        f.write(md_table)
+    
+
+# add section divider for all tables in ALL_GENES.md
+all_md_content += "\n---\n\n"
+
+# add each gene's section to combined file
+for gene, group in df.groupby("Hugo_Symbol"):
+    md_table = "| " + " | ".join(group.columns) + " |\n"
+    md_table += "| " + " | ".join(["---"] * len(group.columns)) + " |\n"
+    for _, row in group.iterrows():
+        md_table += "| " + " | ".join(map(str, row.values)) + " |\n"
+    all_md_content += f"## {gene}\n\n{md_table}\n\n"
+
+
+# create ALL_GENES.md (with TOC)
+all_path = os.path.join(output_dir, "ALL_GENES.md")
+with open(all_path, "w", encoding="utf-8") as f:
+    f.write(all_md_content)
+
+print(f" Markdown files and ALL_GENES.md created in: {output_dir}/")
+
