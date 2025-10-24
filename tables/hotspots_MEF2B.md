@@ -1,6 +1,6 @@
-# MEF2B_Hotspots
+## MEF2B Hotspots
 
-| Hugo_Symbol | Chromosome | Coordinate | DLBCL | FL | BL | HGVS |
+| REMOVETHISCOLUMN | Chromosome (hg19) | Coordinate | DLBCL | FL | BL | HGVS |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 | MEF2B | 19 | 19260044,19260045 | 43 | 35 | 0 | p.D83V |
 | MEF2B | 19 | 19260044,19260045 | 43 | 35 | 0 | p.D83A |

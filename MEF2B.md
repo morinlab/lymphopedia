@@ -51,6 +51,9 @@ Thus far, there is limited information about the consequence of MEF2B mutations 
 ### Transcriptional Activation Domain:
 **N81 (Asparagine 81)** A mutation hotspot within the transcriptional activation domain. Alterations at this position can enhance the transcriptional activity of MEF2B, contributing to the overexpression of target genes involved in cell survival and proliferation.
 
+[[include:tables/hotspots_MEF2B.md]]
+
+
 ## Structure with HotMAPS hotspots
 
 ![Structure with HotMAPS hotspots](images/hotmaps_3d/MEF2B_1.png)
