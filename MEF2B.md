@@ -64,17 +64,6 @@ Thus far, there is limited information about the consequence of MEF2B mutations 
 Mutations in the DNA-binding domain, such as those at R24 and R30, can alter the binding affinity and specificity of MEF2B for its target DNA sequences. This can lead to changes in the expression of genes that are critical for cell growth, differentiation, and survival.
 Mutations in the transcriptional activation domain, like N81, can enhance the ability of MEF2B to activate transcription, which may lead to the upregulation of oncogenes and survival pathways.
 
-## MEF2B Hot Spots from GAMBL
-
-| Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
- | :---:| :---: | :--: | :---: |
-| chr19 | 19260066 | T>C | H76R |
-| chr19 | 19260064 | C>T | E77K |
-| chr19 | 19260050 | G>T | N81K |
-| chr19 | 19260045 | T>G | D83A |
-| chr19 | 19260045 | T>C | D83G |
-| chr19 | 19260045 | T>A | D83V |
-| chr19 | 19260042 | A>G | I84T |
 
 [[include:tables/browser_MEF2B.md]]
 
