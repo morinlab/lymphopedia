@@ -37,8 +37,6 @@ The functional effect of CARD11 mutations in DLBCL was explored in the original 
 
 [[include:tables/dnds_CARD11.md]]
 
-## CARD11 Hotspots
-
 [[include:tables/hotspots_CARD11.md]]
 
 
