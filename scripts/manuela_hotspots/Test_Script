@@ -1,4 +1,4 @@
-import pandas as pd
+import pandas as pd 
 import os
 
 # Config
@@ -34,7 +34,7 @@ all_md_content += "\n---\n\n"
 for gene, group in df.groupby("Hugo_Symbol"):
     # md table header
     md_table = "| " + " | ".join(group.columns) + " |\n"
-    md_table += "| " + " | ".join(["---"] * len(group.columns)) + " |\n"
+    md_table += "| " + " | ".join(["------"] * len(group.columns)) + " |\n"
     for _, row in group.iterrows():
         md_table += "| " + " | ".join(map(str, row.values)) + " |\n"
     
@@ -52,7 +52,7 @@ all_md_content += "\n---\n\n"
 # add each gene's section to combined file
 for gene, group in df.groupby("Hugo_Symbol"):
     md_table = "| " + " | ".join(group.columns) + " |\n"
-    md_table += "| " + " | ".join(["---"] * len(group.columns)) + " |\n"
+    md_table += "| " + " | ".join(["------"] * len(group.columns)) + " |\n"
     for _, row in group.iterrows():
         md_table += "| " + " | ".join(map(str, row.values)) + " |\n"
     all_md_content += f"## {gene}\n\n{md_table}\n\n"
@@ -63,5 +63,5 @@ all_path = os.path.join(output_dir, "ALL_GENES.md")
 with open(all_path, "w", encoding="utf-8") as f:
     f.write(all_md_content)
 
-print(f" Markdown files and ALL_GENES.md created in: {output_dir}/")
+
 
