@@ -38,31 +38,7 @@ B2M mutations in B-cell lymphomas, particularly in DLBCL and PMBCL, lead to redu
 
 [[include:tables/dnds_B2M.md]]
 
-## B2M Hotspots
-
-| Chromosome |Coordinate (hg19) | ref>alt | HGVSp | 
- | :---:| :---: | :--: | :---: |
-| chr15 | 45003745 | A>G | M1? |
-| chr15 | 45003745 | A>T | M1? |
-| chr15 | 45003745 | AGATGTCT>- | NA |
-| chr15 | 45003746 | T>A | M1? |
-| chr15 | 45003746 | T>C | M1? |
-| chr15 | 45003746 | T>G | M1? |
-| chr15 | 45003747 | G>A | M1? |
-| chr15 | 45003747 | G>C | M1? |
-| chr15 | 45003758 | T>A | V5E |
-| chr15 | 45003761 | C>A | A6D |
-| chr15 | 45003764 | T>C | L7S |
-| chr15 | 45003764 | T>G | L7* |
-| chr15 | 45003766 | G>C | A8P |
-| chr15 | 45003767 | C>A | A8D |
-| chr15 | 45003770 | T>A | V9E |
-| chr15 | 45003770 | T>G | V9G |
-| chr15 | 45003779 | T>A | L12Q |
-| chr15 | 45003779 | T>C | L12P |
-| chr15 | 45003779 | T>G | L12R |
-| chr15 | 45003781 | C>T | L13F |
-| chr15 | 45003782 | T>C | L13P |
+[[include:tables/hotspots_B2M.md]]
 
 ![Structure with HotMAPS hotspots](images/hotmaps_3d/B2M_1.png)
 
