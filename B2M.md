@@ -38,7 +38,7 @@ B2M mutations in B-cell lymphomas, particularly in DLBCL and PMBCL, lead to redu
 
 [[include:tables/dnds_B2M.md]]
 
-[[include:tables/hotspots_B2M.md]]
+[[include:tables/hotspots/hotspots_B2M.md]]
 
 ![Structure with HotMAPS hotspots](images/hotmaps_3d/B2M_1.png)
 
