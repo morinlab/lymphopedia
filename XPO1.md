@@ -15,7 +15,7 @@ In DLBCL, mutations at the canonical hotspot (E571) have been experimentally dem
 
 ## Clinical Relevance
 
-Selinexor (XPOVIO), an inhibitor of the nuclear export activity of XPO1 protein, has received [FDA approval](https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-selinexor-relapsedrefractory-diffuse-large-b-cell-lymphoma?utm_source=chatgpt.com) *for adult patients with relapsed or refractory diffuse large B-cell lymphoma (DLBCL), not otherwise specified, including DLBCL arising from follicular lymphoma, after at least 2 lines of systemic therapy.*.
+Selinexor (XPOVIO), an inhibitor of the nuclear export activity of XPO1 protein, has received [FDA approval](https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-selinexor-relapsedrefractory-diffuse-large-b-cell-lymphoma?utm_source=chatgpt.com) *for adult patients with relapsed or refractory diffuse large B-cell lymphoma (DLBCL), not otherwise specified, including DLBCL arising from follicular lymphoma, after at least 2 lines of systemic therapy.*. Importantly, eligibility does not depend on the presence of mutations in XPO1. 
 
 ## Relevance tier by entity
 
