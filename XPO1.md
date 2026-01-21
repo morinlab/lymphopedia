@@ -3,11 +3,14 @@ bibliography: 'morinlab.bib'
 csl: 'NLM.csl'
 link-citations: true
 nocite: |
-  @jardinRecurrentMutationsExportin2016, @mareschalWholeExomeSequencing2016, @reddyGeneticFunctionalDrivers2017, 
+  @jardinRecurrentMutationsExportin2016, @mareschalWholeExomeSequencing2016, @reddyGeneticFunctionalDrivers2017
 ---
 
 [[_TOC_]]
 
+## Overview
+
+XPO1 encodes exportin-1 (CRM1), a key nuclear export protein that regulates the cytoplasmic trafficking of many tumour suppressors and growth regulators, including TP53, RB, and FOXO family members[@balasubramanianSelectiveInhibitionNuclear2022]. In mature B-cell neoplasms, XPO1 is frequently overexpressed and recurrently mutated (most commonly E571K), particularly in primary mediastinal B-cell lymphoma, classical Hodgkin lymphoma, and subsets of DLBCL[@miloudiXPO1E571KMutationModifies2020; @camusXPO1CellHematological2017]. These alterations are thought to enhance nuclear export efficiency, functionally dampening tumour suppressor activity without requiring their genetic loss[@balasubramanianSelectiveInhibitionNuclear2022]. As a result, many B-cell lymphomas exhibit a shared dependency on XPO1-mediated nuclear export, providing a biologic rationale for XPO1 inhibition independent of mutation status.
 
 ## Experimental Evidence
 
