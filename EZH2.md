@@ -17,9 +17,11 @@ Although mutations in EZH2 have been described in some BL patients, they are ext
 ## Experimental Evidence
 
 Mutations at the main hotspot and some less common hotspots lead to enhanced methylation by PRC2.[@yapSomaticMutationsEZH22011]
+
+## Clinical relevance
+
 A number of small molecule/pharmacologic inhibitors of EZH2 activity have been described.[@garapaty-raoIdentificationEZH2EZH12013; @knutsonSelectiveInhibitionEZH22014] At least one of these, tazemetostat, has shown benefit in FL.[@morinTreatingLymphomaNow2021] 
 Combination therapies including EZH2 inhibitors are also under exploration for DLBCL patients with mutant EZH2.[@scholzeCombinedEZH2Bcl22020]
-
 
 ## Relevance tier by entity
 
