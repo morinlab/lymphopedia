@@ -16,7 +16,7 @@ Although mutations in EZH2 have been described in some BL patients, they are ext
 
 ## Experimental Evidence
 
-Mutations at the main hotspot and some less common hotspots lead to enhanced methylation by PRC2.[@yapSomaticMutationsEZH22011]
+Mutations at the canonical hotspot (Y646) and some less common hotspots lead to enhanced histone H3 lysince 27 (H3K27) tri-methylation by PRC2.[@yapSomaticMutationsEZH22011]
 
 ## Clinical Relevance
 
