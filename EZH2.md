@@ -18,7 +18,7 @@ Although mutations in EZH2 have been described in some BL patients, they are ext
 
 Mutations at the main hotspot and some less common hotspots lead to enhanced methylation by PRC2.[@yapSomaticMutationsEZH22011]
 
-## Clinical relevance
+## Clinical Relevance
 
 A number of small molecule/pharmacologic inhibitors of EZH2 activity have been described.[@garapaty-raoIdentificationEZH2EZH12013; @knutsonSelectiveInhibitionEZH22014] At least one of these, tazemetostat, has shown benefit in FL.[@morinTreatingLymphomaNow2021] Tazemetostat (TAZVERIK) has [FDA approval](https://www.fda.gov/drugs/fda-granted-accelerated-approval-tazemetostat-follicular-lymphoma) *for adult patients with relapsed or refractory (R/R) follicular lymphoma (FL) whose tumors are positive for an EZH2 mutation as detected by an FDA-approved test and who have received at least 2 prior systemic therapies, and for adult patients with R/R FL who have no satisfactory alternative treatment options.* Combination therapies including EZH2 inhibitors are also under exploration for DLBCL patients with mutant EZH2.[@scholzeCombinedEZH2Bcl22020]
 
