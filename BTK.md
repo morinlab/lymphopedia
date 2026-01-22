@@ -13,6 +13,10 @@ One study reported BTK mutations in approximately 7% of FL and 11% of transforme
 
 Driver mutations affecting this gene in FL/DLBCL have been experimentally demonstrated to cause a reduction or loss of function (LOF).[@huFollicularLymphomaassociatedBTK2021]
 
+## Clinical Relevance
+
+The BTK inhibitor Imbruvica (Ibrutinib) had prior FDA approval for use in MCL and MZL which has since been [withdrawn](https://www.drugs.com/history/imbruvica.html) because *primary outcomes from the confirmatory Phase 3 studies studies were considered insufficient to support conversion to full approval.*
+
 ## Relevance tier by entity
 
 [[include:tables/table1_BTK.md]]
