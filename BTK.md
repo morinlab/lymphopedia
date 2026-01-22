@@ -15,7 +15,7 @@ Driver mutations affecting this gene in FL/DLBCL have been experimentally demons
 
 ## Clinical Relevance
 
-The BTK inhibitor Imbruvica (Ibrutinib) had prior FDA approval for use in MCL and MZL which has since been [withdrawn](https://www.drugs.com/history/imbruvica.html) because *primary outcomes from the confirmatory Phase 3 studies studies were considered insufficient to support conversion to full approval.*
+The BTK inhibitor Imbruvica (Ibrutinib) had prior FDA approval for use in MCL and MZL which has since been [withdrawn](https://www.drugs.com/history/imbruvica.html) because *primary outcomes from the confirmatory Phase 3 studies studies were considered insufficient to support conversion to full approval.* There are some data suggesting a subset of DLBCL patients (with certain genetic features) may benefit from the combination of Ibrutinib with R-CHOP [@wilsonEffectIbrutinibRCHOP2021]. There is no known relevance between BTK mutations and the activity of BTK inhibitors.
 
 ## Relevance tier by entity
 
