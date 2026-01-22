@@ -14,13 +14,15 @@ This has clinical and therapeutic implications as it may contribute sensitivity 
 In an inducible mouse model of MYD88-driven DLBCL, CD79B mutations did not accelerate lymphomagenesis but demonstrated an increased sensitivity to pharmacological BTK inhibition.[@flumannInducibleCd79bMutation2024] 
 In a retrospective analysis, younger patients with MCD DLBCL that were treated with ibrutinib had significantly better outcomes.[@wilsonEffectIbrutinibRCHOP2021]
 The most common hotspot mutation in CD79B is at the tyrosine residue 196 (Y196). 
-This and other common mutations primarily occur in the immunoreceptor tyrosine-based activation motif (ITAM) domain and prevent the negative regulatory feedback provided by Lyn kinase thereby enhancing BCR signaling.[@kimCD79BMYD88Mutations2014; @davisChronicActiveBcellreceptor2010] CD79B is both a recurrent oncogenic signalling node in ABC-DLBCL and an ideal lineage-restricted, rapidly internalizing surface antigen. The antibody–drug conjugate polatuzumab vedotin exploits CD79B surface expression to deliver a cytotoxic payload to malignant B cells, independent of CD79B mutation status[@assiPolatuzumabVedotinCurrent2021].
-
-
+This and other common mutations primarily occur in the immunoreceptor tyrosine-based activation motif (ITAM) domain and prevent the negative regulatory feedback provided by Lyn kinase thereby enhancing BCR signaling.[@kimCD79BMYD88Mutations2014; @davisChronicActiveBcellreceptor2010] 
 
 ## Experimental Evidence
 
 Driver mutations affecting this gene in DLBCL have been experimentally demonstrated to cause a gain of function (GOF).[@davisChronicActiveBcellreceptor2010]
+
+## Clinical Relevance
+
+CD79B is both a recurrent oncogenic signalling node in ABC-DLBCL and an ideal lineage-restricted, rapidly internalizing surface antigen. The antibody–drug conjugate polatuzumab vedotin exploits CD79B surface expression to deliver a cytotoxic payload to malignant B cells, independent of CD79B mutation status[@assiPolatuzumabVedotinCurrent2021]. Polatuzumab vedotin has [FDA approval](https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-polatuzumab-vedotin-piiq-diffuse-large-b-cell-lymphoma?utm_source=chatgpt.com) for use *in combination with bendamustine and a rituximab product for adult patients with relapsed or refractory diffuse large B-cell lymphoma (DLBCL), not otherwise specified, after at least two prior therapies.* More recently, it was [FDA approved](https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-polatuzumab-vedotin-piiq-previously-untreated-diffuse-large-b-cell-lymphoma-not?utm_source=chatgpt.com) for use *with a rituximab product, cyclophosphamide, doxorubicin, and prednisone (R-CHP) for adult patients who have previously untreated diffuse large B-cell lymphoma (DLBCL), not otherwise specified (NOS), or high-grade B-cell lymphoma (HGBL) and who have an International Prognostic Index (IPI) score of 2 or greater.*
 
 ## Relevance tier by entity
 
