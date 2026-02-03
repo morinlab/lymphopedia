@@ -6,13 +6,13 @@ link-citations: true
 
 # Clinical relevance
 
-|Gene|Type|Therapy|
-|-|-|-|
-|[BCL2](/BCL2)|therapeutic target|venetoclax|
-|[BTK](/BTK#clinical-relevance)|therapeutic target|ibrutinib|
-|[CD79B](/CD79B#clinical-relevance)|therapeutic target|Polatuzumab vedotin|
-|[EZH2](/EZH2#clinical-relevance)|therapeutic target|tazemetostat|
-|[XPO1](/XPO1#clinical-relevance)|therapeutic target|selinexor|
+|Gene|Status|Type|Entity|Therapy|Biomarker?|
+|-|-|-|-|
+|[BCL2](/BCL2)|not approved|therapeutic target||venetoclax||
+|[BTK](/BTK#clinical-relevance)|not approved|DLBCL|therapeutic target|ibrutinib|ABC gene expression signature, MCD genetic subgroup|
+|[CD79B](/CD79B#clinical-relevance)|DLBCL|therapeutic target|polatuzumab vedotin|ABC gene expression signature|
+|[EZH2](/EZH2#clinical-relevance)|FL|therapeutic target|tazemetostat|Mutation|
+|[XPO1](/XPO1#clinical-relevance)|DLBCL|therapeutic target|selinexor|Not applicable|
 
 
 ## References
