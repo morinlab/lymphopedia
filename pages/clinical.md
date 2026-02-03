@@ -9,6 +9,8 @@ link-citations: true
 |Gene|Type|
 |-|-|
 |[XPO1](XPO1)|therapeutic target|
+|[XPO1](/XPO1)|therapeutic target|
+|[XPO1](../XPO1)|therapeutic target|
 
 ## References
 
