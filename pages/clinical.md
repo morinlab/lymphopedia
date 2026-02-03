@@ -10,8 +10,8 @@ link-citations: true
 
 |Gene|Status|Entity|Therapy|Biomarkers|
 |-|-|-|:---|:-----|
-|[BCL2](/BCL2)|not approved|DLBCL|venetoclax|Not applicable|
-|[BTK](/BTK#clinical-relevance)|not approved|DLBCL|ibrutinib|ABC gene expression signature, MCD genetic subgroup|
+|[BCL2](/BCL2)|ongoing|DLBCL|venetoclax|Not applicable|
+|[BTK](/BTK#clinical-relevance)|ongoing|DLBCL|ibrutinib|ABC gene expression signature, MCD genetic subgroup|
 |[CD79B](/CD79B#clinical-relevance)|FDA approved|DLBCL|polatuzumab vedotin|ABC gene expression signature|
 |[EZH2](/EZH2#clinical-relevance)|FDA approved|FL|tazemetostat|Mutation|
 |[XPO1](/XPO1#clinical-relevance)|FDA approved|DLBCL|selinexor|Not applicable|
