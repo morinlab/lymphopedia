@@ -1,4 +1,4 @@
-![](images/lymphopedia.png)
+![](/images/lymphopedia.png)
 
 **Citing**
 
