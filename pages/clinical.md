@@ -9,10 +9,10 @@ link-citations: true
 |Gene|Type|Therapy|
 |-|-|-|
 |[BCL2](/BCL2)|therapeutic target||
-|[BTK](/BTK)|therapeutic target|ibrutinib|
-|[CD79B](/CD79B)|therapeutic target||
-|[EZH2](/EZH2)|therapeutic target|tazemetostat|
-|[XPO1](/XPO1)|therapeutic target||
+|[BTK](/BTK#clinical-relevance)|therapeutic target|ibrutinib|
+|[CD79B](/CD79B#clinical-relevance)|therapeutic target||
+|[EZH2](/EZH2#clinical-relevance)|therapeutic target|tazemetostat|
+|[XPO1](/XPO1#clinical-relevance)|therapeutic target||
 
 
 ## References
