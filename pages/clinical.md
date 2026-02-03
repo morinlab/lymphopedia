@@ -9,7 +9,7 @@ link-citations: true
 ## Therapeutic targets
 
 |Gene|Status|Entity|Therapy|Biomarkers|
-|-|-|-|-|:-----|
+|-|-|-|:---|:-----|
 |[BCL2](/BCL2)|not approved|DLBCL|venetoclax|Not applicable|
 |[BTK](/BTK#clinical-relevance)|not approved|DLBCL|ibrutinib|ABC gene expression signature, MCD genetic subgroup|
 |[CD79B](/CD79B#clinical-relevance)|FDA approved|DLBCL|polatuzumab vedotin|ABC gene expression signature|
