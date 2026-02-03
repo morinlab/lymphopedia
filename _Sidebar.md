@@ -14,7 +14,7 @@ The content in these pages has been populated, in part, by an automated process.
 
 This work is licensed under a Creative Commons Attribution 4.0 International License. 
 
-![](images/by-sa.png)
+![](/images/by-sa.png)
 
 *You are free to:*
 
